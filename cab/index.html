@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns:i18n="https://exist-db.org/xquery/i18n" data-template="templates:surround" data-template-with="templates/page.html" data-template-at="content">
+<div class="main-body" data-template="templates:include" data-template-path="templates/menu.html"/>
+    <div class="cover">
+    <div class="cover-overlay">
+            <div class="sticky-menu">
+                <div class="app:navig_menu"/>
+            </div>
+        
+        <div class="row" data-template="app:quote"/>
+    
+        <div>
+            <div id="cab" style="margin-top:90px;height:30px;background-color:white">
+            </div>
+                <div class="container_grey options-lower">
+                <div>    
+        
+                    <div class="col-sm-2" style="text-align:center;">
+                       <a href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/pages/tools/ceremony_generator.html" role="button">
+                                <img class="img-circle circle_modifier lower-image" src="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/buttons/cab_button.png" alt="dynamic"/>
+                            </a>
+                       <h2 class="menu_lower_nav">CAB 3.0</h2>
+                       <p>
+                          <a class="btn btn-overwrite" href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/pages/tools/ceremony_generator.html" role="button">View more »</a>
+                       </p>                    
+                    </div>
+                
+                    <div class="col-sm-2" style="text-align:center;">
+                       <a href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/pages/tools/manuscript_full_viewer.html" role="button">
+                                <img class="img-circle circle_modifier lower-image" src="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/buttons/mantranslit_button.png" alt="dynamic"/>
+                            </a>
+                       <h2 class="menu_lower_nav">Manuscript Transliteration Viewer</h2>
+                       <p>
+                          <a class="btn btn-overwrite" href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/pages/tools/manuscript_full_viewer.html" role="button">View more »</a>
+                       </p>                    
+                    </div>                
+
+                    <div class="col-sm-2" style="text-align:center;">
+                       <a href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/pages/tools/manuscript_database.html" role="button">
+                                <img class="img-circle circle_modifier lower-image" src="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/buttons/manuscriptdb_button.png" alt="static"/>
+                            </a>
+                       <h2 class="menu_lower_nav">Manuscript Database</h2>
+                       <p>
+                          <a class="btn btn-overwrite" href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/pages/tools/manuscript_database.html" role="button">View more »</a>
+                       </p>
+                    </div>
+                
+                    <div class="col-sm-2" style="text-align:center;">
+                       <a href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/pages/tools/bartholomae.html" role="button">
+                                <img class="img-circle circle_modifier lower-image" src="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/buttons/aiw_button.png" alt="static"/>
+                            </a>
+                       <h2 class="menu_lower_nav">Bartholomae's Dictionary 1.0</h2>
+                      <!-- <button class="btn btn-overwrite" role="button" onclick="showTools()">See Tools »</button> -->
+                       <div id="tool-menu">
+                           <p>
+                              <a class="btn btn-overwrite" href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/pages/tools/bartholomae.html" role="button">View more »</a>
+                           </p>
+                       </div>
+                    </div>
+                    
+                     <div class="col-sm-2" style="text-align:center;">
+                       <a href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/pages/tools/static.html" role="button">
+                                <img class="img-circle circle_modifier lower-image" src="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/buttons/static_button.png" alt="static"/>
+                            </a>
+                       <h2 class="menu_lower_nav">Static Ceremonies</h2>
+                       <p>
+                          <a class="btn btn-overwrite" href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/pages/tools/static.html" role="button">View more »</a>
+                       </p>
+                    </div>
+                    
+                    <div class="col-sm-2" style="text-align:center;">
+                       <a href="https://ada.geschkult.fu-berlin.de/" role="button">
+                                <img class="img-circle circle_modifier lower-image" src="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/buttons/ADA_button.png" alt="static"/>
+                            </a>
+                       <h2 class="menu_lower_nav">Search Engine For Manuscripts (ADA)</h2>
+                       <p>
+                          <a class="btn btn-overwrite" href="https://ada.geschkult.fu-berlin.de/" role="button">View more »</a>
+                       </p>
+                    </div>                    
+                    
+                </div>
+            </div>
+                <div class="indiv_paragraph" style="padding:15px;margin-bottom:60px"/>
+        </div>
+        
+
+        
+        <div class="the_footer">
+            <p class="footer_text">
+                Corpus Avesticum Berolinense CC  
+                <script>document.write(new Date().getFullYear())</script>
+                – <a class="disclaimer_link" href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/pages/misc/disclaimer.html">Disclaimer</a>
+            </p>
+        </div>
+    </div>
+    </div>
+    <script type="text/javascript">
+
+    function showTools() {
+        $('#tool-menu').toggle();
+    }
+    </script>
+</div>

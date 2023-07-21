@@ -1,0 +1,1139 @@
+/* Application styles could go here */
+ html {
+     height: 100%;
+}
+ body {
+     background-color: #fff;
+     opacity: 1;
+     overflow-x: hidden;
+     font-family: Garamond, Baskerville, Baskerville Old Face, Hoefler Text, Times New Roman, serif;
+     height: 100%;
+}
+ h1, h2, h3, h4, h5, h6 {
+     font-family: Garamond, Baskerville, Baskerville Old Face, Hoefler Text, Times New Roman, serif;
+}
+ .htitle {
+     color: #314757;
+}
+ a {
+     color: #314757;
+}
+ a:hover {
+     text-decoration: none;
+     color: 
+    /*#122E4B;
+    */
+    #25511E;
+}
+ ul {
+     list-style: none;
+}
+ mark {
+     padding: 0;
+     background-color:yellow;
+}
+ mark.secondary {
+     padding: 0;
+     background-color: orange;
+}
+ bb {
+     color: #000000;
+}
+ tbody {
+     vertical-align: top;
+}
+ id {
+     display: none;
+}
+
+ #home {
+     min-height:120px;
+     overflow: hidden;
+}
+ #main_button {
+     display: none;
+}
+ #no-paral {
+     display: none;
+}
+ #error-text {
+     text-align: center;
+}
+ #error-message {
+     z-index: 6000;
+}
+ #ceremony_options {
+     display:none;
+}
+ #ceremony_navigator {
+     display:none;
+}
+ #comparative_ceremony_navigator {
+     display:none;
+}
+ #ceremony_search {
+     display: none;
+     padding: 20px;
+}
+ #nav_ceremony_header {
+     margin-bottom: 2px;
+}
+ #nav_ceremony_title {
+     font-size: 18px;
+     padding: 18px;
+}
+ #nav_ceremony_paral_title {
+     font-size: 18px;
+     padding: 18px;
+}
+ #nav_ceremony_header {
+     font-size: 14px;
+     padding:2px;
+}
+ #stanza-modals {
+     float: left;
+     width: 100%;
+}
+ #video-modal {
+     height: 90%;
+}
+ #modalstanza {
+     z-index: 99999;
+     border-style: solid;
+     border-radius: 10px;
+     border-color: #122E4B;
+     margin-bottom:10px;
+}
+ #modalstanza-paral {
+     z-index: 99999;
+     border-style: solid;
+     border-radius: 10px;
+     border-color: #6C9F20;
+}
+ #modalavestan {
+     padding-bottom: 10px;
+}
+ #close-stanza-modal {
+     float:right;
+     padding:15px;
+     font-size: 20px;
+}
+ #close-stanza-modal-paral {
+     float:right;
+     padding:15px;
+     font-size: 20px;
+     color: #6C9F20;
+    ;
+}
+ #stanza-modal {
+     padding: 30px;
+}
+ #stanza-modal-paral {
+     padding: 30px;
+}
+ #modalword {
+     z-index: 99999;
+}
+ #modalnerang {
+     z-index: 99999;
+}
+ #modalparallel {
+     z-index: 99999;
+}
+ #butcloseall {
+     float:right;
+     margin-bottom:10px;
+}
+ #current-select {
+     position: absolute;
+     display:none;
+}
+ #paral-container {
+     width: 50%;
+}
+ #ceremony-paral {
+     float: right;
+     display: none;
+}
+ #cerem_title {
+     padding-top:70px;
+}
+ #display-viewer {
+     height:auto;
+     float:left;
+     width:100%;
+     margin-bottom:70px;
+     color: #262626;
+}
+ #display-viewer-stanza {
+     height:auto;
+     width:100%;
+     margin-bottom:70px 
+}
+ #version_alert {
+     display: none;
+}
+ #see_paral {
+     display: none;
+}
+ #mega-selector-yasna {
+     display: none;
+}
+ #mega-selector-khordeh-type {
+     display: none;
+}
+ #mega-selector-khordeh {
+     display: none;
+}
+ #complex-selector {
+     text-align:center;
+}
+ #translation_menu {
+     float:right;
+}
+ #left-nav {
+     width: 50%;
+     float:left;
+}
+ #right-nav {
+     width: 50%;
+     float:right;
+}
+ #stanza_text {
+     padding: 10px;
+     background-color: #f3f0e3;
+     padding-bottom: 15px;
+     color: #262626;
+}
+ xmlid {
+     color: #c94c2d;
+}
+ xmlid_ab {
+     color: #c94c2d;
+     float: right;
+     padding: 5px;
+}
+ #stanza_text_header {
+     padding-left:5px;
+     color: #c94c2d;
+}
+ #word_text {
+     padding: 30px;
+     background-color: #f3f0e3;
+     margin-bottom: 10px;
+     text-align: justify;
+     text-justify: inter-word;
+}
+.ceremonycheck {
+     margin-left:20px !important;
+}
+ .nerang_div {
+     padding-bottom: 20px;
+     text-align: justify;
+     text-justify: inter-word;
+}
+ .cover {
+     margin-left:auto;
+     margin-right:auto;
+     background-image: url("https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/backgrounds/bck_main.png");
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     height: 100%;
+}
+ .cover-overlay {
+     background-color:rgb(0,0,0,0.55);
+     height: 100%;
+}
+ .cover_info {
+     margin-left:auto;
+     margin-right:auto;
+     background-image: url("https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/backgrounds/bck0.png");
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+ .cover_staff {
+     margin-left:auto;
+     margin-right:auto;
+     background-image: url("https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/backgrounds/bck2.png");
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+ .cover_news {
+     margin-left:auto;
+     margin-right:auto;
+     background-image: url("https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/backgrounds/bck3.png");
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+ .cover_contact {
+     margin-left:auto;
+     margin-right:auto;
+     background-image: url("https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/backgrounds/bck4.png");
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+ .cover_static {
+     margin-left:auto;
+     margin-right:auto;
+     background-image: url("https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/static/dron_slide.png");
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+ .cover_simple {
+     background-color: #fff;
+}
+ .cover_ceremonies {
+     margin-left:auto;
+     margin-right:auto;
+     background-image: url("https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/static/dron_slide.png");
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+ .navbar-cab {
+     background-color: #fff;
+}
+ .titlebox {
+     float: left;
+     padding-left:80px;
+     padding-top:17px;
+}
+ .nav-title {
+     color: #436278;
+     font-size: 4vw;
+     margin-top: 20px;
+     font-size: 29px;
+     font-weight: bold !important;
+     letter-spacing: -1px;
+     line-height: 1;
+     text-align: left;
+     margin-top: 15px;
+}
+ .nav-style {
+     font-size:50px;
+     color:#FFFFFF;
+     text-align:center;
+}
+ .nav-title_paragraph {
+     color: #25511E;
+     font-size: 4vw;
+     margin-top: 20px;
+     font-size: 20px;
+     font-weight: bold !important;
+     letter-spacing: -1px;
+     line-height: 1;
+     text-align: left;
+     margin-top: 15px;
+     padding-bottom: 20px;
+}
+ .nav-title_section {
+     color: #25511E;
+     font-size: 4vw;
+     margin-top: 20px;
+     font-size: 20px;
+     font-weight: bold !important;
+     letter-spacing: -1px;
+     line-height: 1;
+     text-align: left;
+     margin-top: 15px;
+     padding-bottom: 0px;
+}
+ .nav-title-secondary {
+     color: #122E4B;
+     font-size: 4vw;
+     margin-top: 20px;
+     font-size: 20px;
+     font-weight: bold !important;
+     letter-spacing: -1px;
+     line-height: 1;
+     margin-top: 15px;
+}
+ .nav-subtitle {
+     color: #25511E;
+     font-size: 17px;
+     font-weight: 200;
+     line-height: 20px;
+     margin: 0 0 72px;
+     margin-bottom: 72px;
+     text-align: left;
+     margin-bottom: 0px;
+}
+ .green_title {
+     color: #25511E;
+}
+ .titlebox {
+     width: 50%;
+}
+ .logo-box {
+     width: 50%;
+     text-align: center;
+     padding-top: 30px;
+     padding-right: 100px;
+     float:left;
+}
+ .sticky-menu {
+     position: sticky;
+     top: 0px;
+     z-index: 5000;
+}
+ .nav-divider-lower {
+     width: 100%;
+     background-color: #314757;
+     height: 40px;
+     color: #fff;
+     float:left;
+     white-space: nowrap;
+}
+ .nav-divider-lower-second {
+     width: 100%;
+     background-color: #313457;
+     height: 40px;
+     color: #fff;
+     float:left;
+     white-space: nowrap;
+}
+ .nav-divider-lower-center {
+     padding-left:35px;
+     padding-right: 35px;
+     margin-left:120px;
+     width: auto;
+     background-color: #436278;
+     height: 40px;
+     padding-top:10px;
+     color: #fff;
+     float:left;
+}
+ .nav-divider-lower-center-second {
+     padding-left:35px;
+     padding-right: 35px;
+     margin-left:120px;
+     width: auto;
+     background-color: #487843;
+     height: 40px;
+     padding-top:10px;
+     color: #fff;
+     float:left;
+}
+ .social-media{
+     float:right;
+     margin-right:20px;
+}
+ .menu_nav_button {
+     color: #fff !important;
+     font-size:16px;
+     padding:16px;
+     margin-top: 4px;
+}
+ .menu_nav_button a:visited, a:link, a:active {
+     text-decoration:none;
+}
+ .menu_nav_button .a:hover {
+     color: #fff;
+     text-decoration:none;
+}
+ .menu_upper_nav {
+     color: #122E4B;
+     font-size:22px;
+}
+ .indiv_paragraph {
+     padding-left: 100px;
+     padding-right: 100px;
+     padding-top:70px;
+     padding-bottom:70px;
+     background-color: #fff;
+}
+ .indiv_paragraph_nobg {
+     padding-left: 100px;
+     padding-right: 100px;
+     padding-top:70px;
+     padding-bottom:70px;
+}
+ .database_paragraph {
+     padding-left: 50px;
+     padding-right: 50px;
+     padding-top:30px;
+     background-color: #fff;
+}
+ .aiw_paragraph {
+     padding-left: 100px;
+     padding-right: 100px;
+     padding-bottom:70px;
+     background-color: #fff;
+}
+ .stanza_paragraph {
+     padding-left: 40px;
+     padding-right: 40px;
+     background-color: #fff;
+}
+ .manuscript_paragraph {
+     margin: auto;
+     padding-bottom:70px;
+     background-color: #fff;
+     width: 40%;
+}
+ .indiv_paragraph_extra {
+     height:500px;
+     padding-top:0px !important;
+}
+ .text_paragraph {
+     text-align: justify;
+     line-height: 2.0;
+}
+ .news_paragraph {
+     text-align: justify;
+     padding-bottom: 20px;
+     line-height: 1.5;
+     padding-left: 30px;
+}
+ .team_paragraph {
+     padding-left: 100px;
+     padding-right: 100px;
+     padding-bottom:30px;
+     background-color:white;
+}
+ .team_portrait {
+     padding-bottom:20px;
+}
+ .lower-image {
+     width: 170px;
+     height: 170px;
+     border-radius:20% !important;
+}
+ .options-lower {
+     width: 100%;
+     left: 0px;
+     padding-top: 26px;
+     padding-bottom:20px;
+     background: #f3f0e3;
+}
+ .menu_lower_nav {
+     color: #c94c2d;
+     font-size:19px;
+     font-weight:bold;
+}
+ .btn-stanza-options {
+     float: right;
+}
+ .btn-tertiary {
+     color: #ffffff;
+     background-color: #314757;
+     border-color: #1E4368;
+}
+ .btn-tertiary:hover {
+     color: #000000;
+     background-color: #122E4B;
+     border-color: #1E4368;
+}
+ .btn-overwrite {
+     color: #fff;
+     background-color: #6d8f60;
+}
+ .btn-overwrite:hover {
+     color: #fff;
+     background-color: #293624;
+}
+ .btn-overwrite-def {
+     color: #fff;
+     background-color: #000;
+}
+.btn-apparatus {
+    width:90px;
+}
+ .btn-success {
+     color: #ffffff;
+     background-color: #6d8f60;
+     border-color: #6d8f60;
+}
+ .btn-success:hover {
+     color: #ffffff;
+     background-color: #293624;
+     border-color: #6d8f60;
+}
+ .btn-success:active {
+     color: #ffffff;
+     background-color: #293624;
+     border-color: #6d8f60;
+}
+ .btn-success:focus {
+     color: #ffffff;
+     background-color: #6d8f60;
+     border-color: #6d8f60;
+}
+ .btn-success:visited {
+     color: #ffffff;
+     background-color: #6d8f60;
+     border-color: #6d8f60;
+}
+ .btn-ceremony {
+     color: #fff;
+     background-color: #313457 !important;
+     border-color: #23253e !important;
+}
+ .btn-ceremony:hover {
+     color: #fff;
+     background-color: #434878 !important;
+     border-color: #5470AB;
+}
+ .the_footer {
+     height: 40px;
+     width: 100%;
+     background-color: rgba(0,0,0,0.7);
+     z-index: 99998;
+     position: fixed;
+     bottom: 0;
+}
+ .ceremony_footer {
+     position:fixed;
+     bottom: 0;
+     width: 100%;
+}
+ .footer_text{
+     font-family: Garamond, Baskerville, Baskerville Old Face, Hoefler Text, Times New Roman, serif;
+     font-size: 13px;
+     line-height: 40px;
+     color: white;
+     margin: 0 30px 0 0;
+     text-align:center;
+}
+ .footer_add {
+     float:left;
+     margin-left: 20px;
+}
+ .nav-title-lower {
+     text-align:center;
+     font-weight: bold;
+     color: #314757;
+     font-size:20px;
+}
+ .nav-title-intermed {
+     text-align:center;
+     font-weight: bold !important;
+     color: #122E4B;
+}
+ .label-general {
+     padding-top:10px;
+     float:left;
+     color: #25511E;
+}
+ .btn-ceremony {
+     width:100%;
+     height:100%;
+     margin:32px;
+}
+ .error-modal {
+     top: 200px;
+}
+ .error-button {
+     background-color: #122E4B;
+     border-color: #122E4B;
+     color: #fff;
+}
+ .ceremony_navigation {
+     font-size: 30px;
+     margin: 20px;
+     color: #122E4B;
+}
+ .glyphicon-remove {
+     cursor:pointer;
+}
+ .ceremony_navigation:hover {
+     color: #fff;
+     -webkit-text-stroke-width: 1px;
+     -webkit-text-stroke-color: #122E4B;
+}
+ .tabcontent {
+     padding: 6px 12px;
+     min-height:0px;
+     -webkit-animation: fadeEffect 1s;
+     animation: fadeEffect 1s;
+    /* Fading effect takes 1 second */
+}
+ .sidenav {
+     height: 100% !important;
+     width: 0;
+     position: fixed;
+     z-index: 99999;
+     top: 0;
+     right: 0;
+     background-color: #fff;
+     overflow-x: hidden;
+     transition: 0.5s;
+     padding-top: 0px;
+     border-left: 1px solid #d6d7d9;
+}
+ .sideman {
+     height: 100% !important;
+     width: 0;
+     position: fixed;
+     z-index: 99999;
+     top: 0;
+     left: 0;
+     background-color: #fff;
+     overflow-x: hidden;
+     transition: 0.5s;
+     padding-top: 0px;
+     border-right: 1px solid #d6d7d9;
+}
+ .sidenav_paral {
+     z-index: 199999 !important;
+}
+ .bring_menu {
+     font-size:16px;
+     cursor:pointer;
+     padding:20px;
+     color: #25511E;
+}
+ .other_menu{
+     color: #6d8f60;
+}
+ .sync_menu {
+     color: #5d479d;
+}
+ .how_to_menu {
+     color: #cd603f;
+}
+ .type_menu {
+     padding:20px;
+}
+ .sidenav a {
+     padding: 0px 8px 0px 32px;
+     text-decoration: none;
+     font-size: 12px;
+     color: #436278;
+     display: block;
+     transition: 0.3s;
+}
+ .sidenav a:hover {
+     color: #122E4B;
+}
+ .sidenav .closebtn {
+     float:right;
+     top: 8px;
+     right: 10px;
+     font-size: 24px;
+     margin-left: 50px;
+}
+ .sideman .closebtn {
+     float:right;
+     color: #436278;
+     font-size: 24px;
+     margin-right: 20px;
+}
+ .sideman a:hover {
+     color: #122E4B;
+}
+ #navig_header {
+     position: sticky;
+     top: 0;
+     z-index:5000;
+     background-color: white;
+}
+ .option_button {
+     float:right;
+     font-size:14px;
+     margin-left: 5px;
+}
+ .option_button_second {
+     float:right;
+     font-size:12px;
+}
+ .option_button_second:hover{
+     color: #DC143C;
+}
+ .selected_word {
+     background-color: #a5091e;
+     color: #fff;
+}
+ .viewer-left {
+     float:left;
+     width:50% !important;
+}
+ .viewer-right {
+     float:right;
+     width:50%;
+     max-height: 3710vh;
+}
+ .viewer-right-alt {
+     overflow-y: scroll;
+     max-height: 100% !important;
+}
+ .avestantext {
+     font-family: AvestanFont;
+     font-size: 140%;
+}
+ .paral_nav {
+     color: #6C9F20;
+}
+ .ui-widget-header {
+     background-color: #314757 !important;
+     color: #ffffff !important;
+}
+ .ui-dialog {
+     z-index: 99999 !important ;
+}
+ .ui-dialog .ui-dialog-titlebar-close {
+     background-color: #ffffff !important;
+     width: auto !important;
+}
+ .uilink {
+     color: #0a4457 !important;
+}
+ .tab_float {
+     position: sticky;
+     top: 0px;
+     z-index:999;
+     height:100%;
+}
+
+.tab_header_top {
+    background-color: #314757;
+    text-align:center;
+    color: #fff;
+    padding: 30px 0px;
+    min-height: 80px;
+}
+
+ .tab_header_apparatus {
+     background-color: #314757;
+     text-align:center;
+     color: #fff;
+     padding: 5px 0px;
+}
+ .tab_header {
+     background-color: #314757;
+     color: #fff;
+     padding: 9px 24px;
+}
+ .tab_header_second {
+     background-color: #313457 !important;
+}
+ .tab_header_third {
+     background-color: #315754 !important;
+}
+ .tab_header_search {
+     background-color: #436278 !important;
+}
+
+
+ .tab_footer {
+     background-color: #314757;
+     color: #fff;
+     padding: 1px 16px;
+     margin-bottom: 25px;
+}
+ .tab_second_footer {
+     background-color: #122e4b;
+     color: #fff;
+     padding: 1px 16px;
+     display:none;
+}
+ .tab_header_below {
+     background-color: #122e4b;
+     color: #fff;
+     padding: 10px 16px;
+     text-align: justify;
+}
+ .tab_links {
+     overflow: hidden;
+     background-color: #314757;
+}
+
+.tab_links button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 10px 16px;
+    transition: 0.3s;
+    color: #fff;
+}
+
+.tab_links button.active {
+    background-color: #ccc;
+}
+
+.tab_links_apparatus button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 8px 20px !important;
+    transition: 0.3s;
+    color: #fff;
+}
+.tab_links_second {
+     background-color: #313457 !important;
+}
+ .tab_links_third {
+     background-color: #315754 !important;
+}
+ .tab_bottom {
+     overflow: hidden;
+     background-color: #314757;
+}
+ .tab button {
+     background-color: inherit;
+     float: left;
+     border: none;
+     outline: none;
+     cursor: pointer;
+     padding: 14px 16px;
+     transition: 0.3s;
+     color: #fff;
+}
+ .tab button:hover {
+     background-color: #6c9f20;
+}
+ .tab button.active {
+     background-color: #ccc;
+}
+ .tab_links_apparatus button {
+     background-color: inherit;
+     float: left;
+     border: none;
+     outline: none;
+     cursor: pointer;
+     padding: 8px 20px !important;
+     transition: 0.3s;
+     color: #fff;
+}
+ .tab_button_bottom {
+     padding: 0px 10px 0px 10px !important;
+     float:right !important;
+}
+ .tab_header_top button {
+     background-color: inherit;
+     float: left;
+     border: none;
+     outline: none;
+     cursor: pointer;
+     padding: 2px 20px;
+     transition: 0.3s;
+     color: #fff;
+}
+ .tab_links_second button:hover {
+     background-color: #434878;
+}
+ .tab_links_third button:hover {
+     background-color: #437874;
+}
+ .tab_header_top button:hover {
+     background-color: #436278;
+}
+ .tab_header_top button.active {
+     background-color: #ccc;
+}
+ .entry_apparatus {
+     padding-left:20px;
+     padding: 10px;
+     padding-bottom: 10px;
+     padding-right: 0px;
+     background-color: #f3f0e3;
+}
+ .entry_citation {
+     margin-top:20px;
+}
+ .actual_entry {
+     padding-left:20px;
+     padding: 10px;
+     background-color: #f3f0e3;
+}
+ .apparatus_entry {
+     display: none;
+}
+ .butpopall {
+     display: none;
+}
+ .blank_link {
+     color: #ffffff;
+}
+ .blank_link:hover{
+     color: #ffffff;
+     text-decoration:underline;
+}
+ .blank_link:visited{
+     color: #ffffff;
+}
+ .blank_link:active{
+     color: #ffffff;
+}
+ .anchor {
+     padding-top: 250px;
+     margin-top: -250px;
+     visibility:hidden;
+}
+ .container {
+     height: 100px;
+}
+ .well {
+     margin-bottom: 0px !important;
+     border: 0px !important;
+     box-shadow: none;
+     -webkit-box-shadow: none;
+}
+ .container_grey {
+     height:320px;
+}
+ .carousel-control {
+     font-size: 24px;
+}
+ .carousel-link:link {
+     text-decoration: none;
+     color: #ffffff;
+}
+ .carousel-link:visited {
+     text-decoration: none;
+     color: #ffffff;
+}
+ .carousel-link:hover {
+     text-decoration: none;
+     color: #ffffff;
+}
+ .carousel-link:active {
+     text-decoration: none;
+     color: #ffffff;
+}
+ .disclaimer_link {
+     color: #ffffff;
+}
+ .disclaimer_link:hover {
+     text-decoration:underline;
+     color: #ffffff;
+}
+ .disclaimer_link:focus {
+     text-decoration:underline;
+     color: #ffffff;
+}
+ .disclaimer_link:active {
+     text-decoration:underline;
+     color: #ffffff;
+}
+ .morph_note{
+     text-align: justify;
+     text-justify: inter-word;
+}
+ notes > bibl {
+     color: #9c0404;
+}
+ bibl_elem {
+     margin-left: -4px;
+}
+ .row-translit {
+     padding: 50px;
+}
+ .subtitle {
+     font-size: 16px;
+     font-weight: bold;
+     margin-bottom: 0px;
+     color: #c94c2d;
+}
+ .paragraph_prev_edition {
+     padding-top: 10px;
+     padding-bottom: 10px;
+     padding-left: 20px;
+}
+ .dropdown-menu {
+     background-color: #314757;
+}
+ .dropdown-menuA {
+     background-color: #436278;
+}
+ .diA {
+     padding: 12px !important;
+}
+ .diB {
+     padding: 12px !important;
+}
+ .diA:hover {
+     background-color: #314757 !important;
+}
+ .diB:hover {
+     background-color: #436278 !important;
+}
+ #morph_table p {
+     display: initial;
+}
+/* Tooltip container */
+ .tooltips {
+     position: relative;
+     display: inline-block;
+}
+/* Tooltip text */
+ .tooltips .tooltiptext {
+     visibility: hidden;
+     width: 120px;
+     background-color: black;
+     color: #fff;
+     text-align: center;
+     padding: 5px 0;
+     border-radius: 6px;
+    /* Position the tooltip text - see examples below! */
+     position: absolute;
+     z-index: 1;
+}
+/* Show the tooltip text when you mouse over the tooltip container */
+ .tooltips:hover .tooltiptext {
+     visibility: visible;
+}
+ @media screen and (max-height: 450px) {
+     .sidenav {
+        padding-top: 0px;
+    }
+     .sidenav a {
+        font-size: 18px;
+    }
+}
+ @-webkit-keyframes fadeEffect {
+     from {
+        opacity: 0;
+    }
+     to {
+        opacity: 1;
+    }
+}
+ @keyframes fadeEffect {
+     from {
+        opacity: 0;
+    }
+     to {
+        opacity: 1;
+    }
+}
+
+.search_result {
+    color: #c94c2d;
+    padding: 10px;   
+
+}
+
+.search_odd {
+    background-color:#E4DDBF;
+    color:#1A1A1A;
+    padding:20px;
+}
+
+.search_even {
+    background-color:#f3f0e3;
+    color:#000000;
+    padding:20px;
+}
+
+.pagination > .active > a {
+    background-color: #313457 !important;
+    border-color: #23253e !important;
+}

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns:i18n="http://exist-db.org/xquery/i18n" data-template="templates:surround" data-template-with="templates/page_tei_static.html" data-template-at="content">
+<div class="main-body" data-template="templates:include" data-template-path="templates/menu.html"/>
+    <div class="cover_simple">
+                    <div class="sticky-menu">
+                        <div class="app:navig_menu"/>
+                    </div>
+        
+
+        <div class="indiv_paragraph indiv_paragraph_extra">     
+
+        <!-- Footer -->
+        <div id="main_tei" class="col-lg-12">
+            <div id="ceremony_options">
+                <h1 id="ceremony_title">Ceremony Title</h1>
+                <a href="#/" class="bring_menu" onclick="OpenNav()">
+                    <span class="glyphicon glyphicon-th-large"/> See navigation bar
+                </a>
+                <a href="#/" id="avestan_char" val="1" class="bring_menu" onclick="AvestanChar()">
+                    <span class="glyphicon glyphicon-certificate"/> Latin / Avestan Characters
+                </a>
+                <a href="#/" id="liturgy_metadata" class="bring_menu" onclick="ShowMetadata()">
+                    <span class="glyphicon glyphicon-file"/> See liturgy metadata
+                </a>
+                <a href="#/" id="sync_paral" class="bring_menu" val="0" onclick="SetParal()" style="visibility:hidden">
+                    <span class="glyphicon glyphicon-refresh"/> Sync Parallels Off
+                </a>                
+                <form class="type_menu">
+                    <input type="radio" id="ceremonysimple" name="ceremonyview" value="simple" checked="checked"> View Each Stanza</input>
+                    <input type="radio" id="ceremonyextended" name="ceremonyview" value="extended"> View Complete Ceremony</input>
+                    <input type="radio" id="ceremonysearch" name="ceremonyview" value="search"> Search in Ceremony</input>
+                </form>
+            </div>
+            
+            <div id="ceremony_navigator">
+                <span class="glyphicon glyphicon-chevron-left ceremony_navigation" onclick="PrevStanza()"/>
+                <span class="glyphicon glyphicon-chevron-right ceremony_navigation ceremony_navigation_right" onclick="NextStanza()"/>
+            </div>
+            <div id="comparative_ceremony_navigator">
+                <div id="left-nav">
+                    <span class="glyphicon glyphicon-chevron-left ceremony_navigation" onclick="PrevStanza()"/>
+                    <span class="glyphicon glyphicon-chevron-right ceremony_navigation ceremony_navigation_right" onclick="NextStanza()"/>
+                </div>
+                <div id="right-nav">
+                    <span class="glyphicon glyphicon-chevron-left ceremony_navigation paral_nav" onclick="PrevParalStanza()"/>
+                    <span class="glyphicon glyphicon-chevron-right ceremony_navigation ceremony_navigation_right paral_nav" onclick="NextParalStanza()"/>         
+                </div>
+            </div>
+            <div id="ceremony_nav" class="sidenav navbar-fixed-righ">
+              <div id="navig_header"> 
+                  <a class="closebtn" onclick="CloseNav()">
+                      <span class="glyphicon glyphicon-remove"/>  
+                  </a>
+                  <a id="see_paral" href="#/" class="paralbtn" onclick="OpenParalNav()" style="padding-top:15px;">
+                      <span class="glyphicon glyphicon-transfer"/> See parallels  
+                  </a>
+              
+                  <h3 id="nav_ceremony_title">Ceremony Title</h3>
+              </div>
+              
+              <div id="ceremony_nav_menu"/>
+            </div>
+            <div id="ceremony_paral_nav" class="sidenav sidenav_paral navbar-fixed-righ">
+              <div id="navig_header">
+                  <a href="#/" class="closebtn" onclick="CloseParalNav()">
+                      <span class="glyphicon glyphicon-remove-sign"/>  
+                  </a>
+                  <h3 id="nav_ceremony_paral_title">Ceremony Title</h3>
+              </div>
+               
+              <div id="ceremony_paral_nav_menu"/>
+            </div>
+            <div id="translation_menu">
+                <span>
+                    <button id="butcloseall" type="button" class="btn btn-secondary butpopall" value="0">
+                         Close all tabs <span class="glyphicon glyphicon-remove"/> 
+                    </button>
+                </span>
+            </div>            
+            <div id="ceremony_search">
+                Look for: <input id="cerem_search" type="text" size="64"/>
+
+                <form>
+                    <input type="checkbox" id="searchlist" value="list"> List only results </input>
+                    <input type="checkbox" id="searchavestan" value="avestan"> Search in Avestan text </input>
+                    <input type="checkbox" id="searchtranslation" value="translation"/> Search in open translation tabs
+                    <input type="checkbox" id="searchnotes" value="notes"/> Search in notes
+                </form>
+            </div>   
+            
+            <div id="modalword" title="Word" style="display:none">
+                <div id="word-modal" class="modal-body">
+                    <p>Retrieving word information <i class="fa fa-circle-o-notch fa-spin"/>
+                        </p>
+                </div>
+            </div>
+            <div id="modalnerang" title="Nerang" style="display:none">
+                <div id="nerang-modal" class="modal-body">
+                    <p>Retrieving nerang and translation <i class="fa fa-circle-o-notch fa-spin"/>
+                        </p>
+                </div>
+            </div>
+          
+            <div id="modalparallel" title="Parallels" style="display:none">
+                <div id="parallel-modal" class="modal-body">
+                    <p>Retrieving information on parallels <i class="fa fa-circle-o-notch fa-spin"/>
+                        </p>
+                </div>
+            </div>            
+            
+            <div id="stanza-modals">
+                <div id="modalstanza" title="stanza" style="display:none">
+                    <div id="close-stanza-modal">
+                        <a onclick="CloseModal(1)">
+                            <span class="glyphicon glyphicon-remove"/>
+                        </a>
+                    </div>
+                    <div id="stanza-modal">
+                        <p>Retrieving metadata <i class="fa fa-circle-o-notch fa-spin"/>
+                            </p>
+                    </div>
+                </div>
+                <div id="modalstanza-paral" title="stanza-paral" style="display:none">
+                    <div id="close-stanza-modal-paral">
+                        <a onclick="CloseModal(2)">
+                            <span class="glyphicon glyphicon-remove"/>
+                        </a>
+                    </div>
+                    <div id="stanza-modal-paral">
+                        <p>Retrieving metadata <i class="fa fa-circle-o-notch fa-spin"/>
+                            </p>
+                    </div>
+                </div>                
+            </div>
+           
+            <div>
+                <div id="display-viewer" name="display-viewer"/>
+                <div id="main-paral-viewer" name="main-paral-viewer">
+                    <div id="no-paral">
+                        No parallel available for this stanza
+                    </div>
+                    <div id="paral-viewer" name="paral-viewer"/>
+                </div>
+            </div>
+            <div id="current-select">
+                <span class="glyphicon glyphicon-play"/>
+            </div>
+        </div>
+        
+    </div>
+    
+        <div class="the_footer ceremony_footer">
+            <p id="back_to_top" class="footer_text footer_add" style="display:none">
+                <a href="#ceremony_title" class="menu_nav_button">
+                    <span class=" glyphicon glyphicon-chevron-up "/> Back to top
+                </a>
+            </p>
+            <p class="footer_text">
+                Corpus Avesticum Berolinense CC  
+                <script>document.write(new Date().getFullYear())</script>
+                – <a class="disclaimer_link" href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/pages/misc/disclaimer.html">Disclaimer</a>
+            </p>
+    </div>
+    </div>
+    <script type="text/javascript">
+    $(document).ready(function(){    
+        $('#get-ceremony option[value="-1"]').attr('selected', 'selected');
+        $('[data-toggle="tooltip"]').tooltip(); 
+          
+        var $ceremony = getUrlParameter('ceremony');  
+        GenerateStaticCeremony($ceremony);
+          
+    });    
+
+ 
+
+    $(document).ajaxComplete(function() {
+         $('[data-toggle="popover"]').popover({container: 'body', html: true});
+    });
+    
+    function custom_alert( message ) {
+
+        $('#error-text').html( message );
+        $('#error-message').modal('toggle');
+    };
+    
+    function isLessThan(a, b) 
+    {
+        return Object.is((a-b)%1, -0);
+    };    
+
+    jQuery.extend (
+        jQuery.expr[':'].icontains = function (a, i, m) {
+            //-- faster than jQuery(a).text()
+            var sText   = (a.textContent || a.innerText || "");     
+            var zRegExp = new RegExp (m[3], 'i');
+            return zRegExp.test (sText);
+        }
+    ); 
+    </script>
+</div>

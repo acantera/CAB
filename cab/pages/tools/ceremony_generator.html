@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns:i18n="http://exist-db.org/xquery/i18n" data-template="templates:surround" data-template-with="templates/page_tei.html" data-template-at="content">
+<div class="main-body" data-template="templates:include" data-template-path="templates/menu.html"/>
+    <div class="cover_simple">
+        <div class="sticky-menu">
+            <div class="app:navig_menu"/>
+        </div>
+        
+        <div class="row">
+           <div id="cerem_title">
+              <h5 class="nav-title-lower">CAB 3.0</h5>
+           </div>
+        </div>
+        <div id="main_tei" class="col-lg-12" style="text-align:center;padding-top:10px">
+            <a id="liturgy_metadata" class="bring_menu" target="_blank" onclick="OpenManual()">
+                <span class="glyphicon glyphicon-book how_to_menu"/> How to Use
+            </a>  
+        </div>            
+        <div class="indiv_paragraph indiv_paragraph_extra">     
+            <div>
+                <button id="main_button" class="btn btn-success" type="button" data-toggle="collapse" data-target="#mega-selector" aria-expanded="false" style="margin-bottom:20px"> 
+                    <span class="glyphicon glyphicon-list"/> Show / Hide Generator
+                </button>
+                
+                <div id="paral_button" style="display:none">
+
+                    <input id="ceremoniesextended" name="ceremoniesextended" value="extended2" type="checkbox"/> View All Stanzas in Parallels       
+                </div>
+            </div>
+            
+            <div id="mega-selector" class="collapse in">
+                <div id="main-mega-selector" class="col_option col-lg-12">
+                            <label class="label-general">Ceremony Type: </label>
+                            <select id="selector-main" name="" class="form-control">
+                                <option value="-1" default="true"/>
+                                <option value="0">1. Long Liturgy (vispa ratu vispa yazata)</option>
+                                <option value="1">2. Drōn Ceremonies (vispa yazata)</option>
+                                <option value="2">3. Khordeh Avesta</option>
+                                <option value="3">4. Clusters</option>
+                            </select>
+                </div>
+            
+
+                <div id="mega-selector-yasna" class="collapse in">
+                    <div id="complex-selector" class="col_selector col-lg-12">
+                        <div id="complex-form">
+                        
+                            <div class="col_option col-lg-4">
+                                <label class="label-ceremony label-general">Ceremony: </label>
+                                <select id="get-ceremony" name="get-ceremony" class="form-control">
+                                    <option value="-1" default="true"/>
+                                </select>
+                            </div>
+                            <div class="col_option col-lg-4">
+                                <label class="label-dedicatory label-general">Xšnūman: </label>
+                                <select id="dedicatory" name="dedicatory" class="form-control">
+                                    <option id="0" default="true"/>
+                                </select>
+                            </div>
+                            <div class="col_option col-lg-4">
+                                <label class="label-gah label-general">Gāh: </label>
+                                <select id="gah" name="gah" class="form-control">
+                                    <option id="-1" default="true"/>
+                                </select>
+                            </div>                        
+                        
+                            <div class="col_option col-lg-4">
+                                <label class="label-day label-general">Rōz: </label>
+                                <select id="roz" name="roz" class="form-control">
+                                    <option id="0" default="true"/>
+                                </select>
+                            </div>
+                            <div class="col_option col-lg-4">
+                                <label class="label-month label-general">Māh: </label>
+                                <select id="mah" name="mah" class="form-control">
+                                    <option id="0" default="true"/>
+                                </select>
+                            </div>
+    
+                            <div id="see_cerem" class="col_navbar col-lg-3">
+                                <button class="btn btn-primary btn-ceremony" onclick="GenerateCeremony()">
+                                    <span class="glyphicon glyphicon-book"/> See ceremony
+                                </button>
+                            </div>
+                </div>
+            </div> 
+            
+                   <div id="ceremony-paral" class="col_selector col-lg-12">
+            
+                    <div id="complex-selector-paral" style="text-align:center;display:none;"> 
+                        <div id="complex-form-paral">
+                            <div class="col_option col-lg-4">
+                                <label class="label-ceremony label-general">Ceremony: </label>
+                                <select id="get-ceremony-paral" name="get-ceremony-paral" class="form-control">
+                                    <option value="-1" default="true"/>
+                                    <option value="0">Dron Yasht</option>
+                                    <option value="1">Yasna Rapithwin</option>
+                                    <option value="2">Yasna</option>
+                                    <option value="3">Visperad</option>
+                                    <option value="11">Visperad Do-Homast</option>
+                                    <option value="4">Videvdad</option>
+                                    <option value="5">Vishtasp Yasht</option>
+                                </select>
+                            </div>
+                            <div class="col_option col-lg-4">
+                                <label class="label-dedicatory label-general">Dedicatory: </label>
+                                <select id="dedicatory-paral" name="dedicatory-paral" class="form-control">
+                                    <option id="0" default="true"/>
+                                </select>
+                            </div>
+                            <div class="col_option col-lg-4">
+                                <label class="label-gah label-general">Gah: </label>
+                                <select id="gah-paral" name="gah-paral" class="form-control">
+                                    <option id="-1" default="true"/>
+                                </select>
+                            </div>                        
+                        
+                            <div class="col_option col-lg-4">
+                                <label class="label-day label-general">Day: </label>
+                                <select id="roz-paral" name="roz-paral" class="form-control">
+                                    <option id="0" default="true"/>
+                                </select>
+                            </div>
+                            <div class="col_option col-lg-4">
+                                <label class="label-month label-general">Month: </label>
+                                <select id="mah-paral" name="mah-paral" class="form-control">
+                                    <option id="0" default="true"/>
+                                </select>
+                            </div>
+    
+                            <div id="see_cerem_paral" class="col_navbar col-lg-3">
+                                <button id="" name="" class="btn btn-primary btn-ceremony btn-ceremony-paral" onclick="GenerateParalCeremony()">
+                                    <span class="glyphicon glyphicon-book"/> See parallel ceremony
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>        
+                </div>
+            
+                <div id="mega-selector-khordeh-type" class="collapse in">
+                    <div id="main-mega-selector" class="col_option col-lg-12">
+                            <br/>
+                            <label class="label_general">Farziyat or Non-Farziyat: </label>
+                            <select id="selector-main-khordeh" name="" class="form-control">
+                                <option value="-1" default="true"/>
+                                <option value="0">1. Farziyat</option>
+                                <option value="1">2. Non-Farziyat</option>
+                            </select>
+                    </div>
+                </div>
+                
+                <div id="mega-selector-khordeh" class="collapse in">
+                    <div id="complex-selector" class="col_selector col-lg-12">
+                        <div id="complex-form">
+                            <div id="khordeh_ceremony" class="col_option col-lg-4">
+                                <label class="label-ceremony label-general">Ceremony: </label>
+                                <select id="get-ceremony-khordeh" name="get-ceremony-khordeh" class="form-control">
+                                    <option value="-1" default="true"/>
+                                </select>
+                            </div>
+                            <div id="khordeh_type" class="col_option col-lg-3">
+                                <label class="label-khordeh-type label-general">Type: </label>
+                                <select id="type-khordeh" name="type-khordeh" class="form-control">
+                                    <option id="0" default="true"/>
+                                </select>
+                            </div>
+                            <div id="khordeh_gah" class="col_option col-lg-3">
+                                <label class="label-gah label-general">Gah: </label>
+                                <select id="gah-khordeh" name="gah-khordeh" class="form-control">
+                                    <option id="-1" default="true"/>
+                                </select>
+                            </div>
+                            
+                            <div id="see_cerem_khordeh" class="col_navbar col-lg-2">
+                                <button class="btn btn-primary btn-ceremony" onclick="GenerateKhordehCeremony()">
+                                    <span class="glyphicon glyphicon-book"/> See ceremony
+                                </button>
+                            </div>
+                    </div>
+                </div>
+            </div>
+        </div>        
+        <!-- Error message -->
+        <div class="modal" id="error-message">
+         <div class="modal-dialog">
+          <div class="modal-content error-modal">
+                <div class="modal-body">
+                    <p id="error-text">
+                        Error
+                    </p>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-success error-button" data-dismiss="modal">Close</button>
+                </div>
+          </div>
+         </div>
+        </div>
+        
+        <!-- Footer -->
+        <div id="main_tei" class="col-lg-12">
+            <div id="ceremony_options">
+                <h1 id="ceremony_title">Ceremony Title</h1>
+                <a href="#/" class="bring_menu" onclick="OpenNav()">
+                    <span class="glyphicon glyphicon-th-large other_menu"/> Navigation bar
+                </a>
+                <a href="#/" id="liturgy_metadata" class="bring_menu" onclick="ShowMetadata()">
+                    <span class="glyphicon glyphicon-file other_menu"/> See liturgy metadata
+                </a>
+                <a href="#/" id="sync_paral" class="bring_menu" val="0" onclick="SetParal()" style="visibility:hidden">
+                    <span class="glyphicon glyphicon-refresh sync_menu"/> Sync Parallels Off
+                </a>                
+                <!--<a href="#/" id="liturgy_metadata" class="bring_menu" onclick="OpenManual()">
+                    <span class="glyphicon glyphicon-book how_to_menu"/> How to use CAB
+                </a>-->                
+                <form class="type_menu">
+                    <input id="shownerangs" name="shownerangs" value="1" type="checkbox">
+                            <label_low id="shownerangs_label"> Hide nērangs</label_low>
+                        </input> 
+                    <input type="radio" id="ceremonysimple" class="ceremonycheck" name="ceremonyview" value="simple"> View Each Stanza</input>
+                    <input type="radio" id="ceremonyextended" class="ceremonycheck" name="ceremonyview" value="extended" checked="checked"> View Complete Ceremony</input>
+                    <input type="radio" id="ceremonysearch" class="ceremonycheck" name="ceremonyview" value="search"> Search in Ceremony</input>
+                    <input type="radio" id="ceremonyparal" class="ceremonycheck" name="ceremonyview" value="compare">
+                            <label_low id="ceremonyparal_label"> View Parallel Ceremonies</label_low>
+                        </input>
+                </form>
+            </div>
+            
+
+            <div id="comparative_ceremony_navigator">
+                <div id="left-nav">
+                    <span class="glyphicon glyphicon-chevron-left ceremony_navigation" onclick="PrevStanza()"/>
+                    <span class="glyphicon glyphicon-chevron-right ceremony_navigation ceremony_navigation_right" onclick="NextStanza()"/>
+                </div>
+                <div id="right-nav">
+                    <span class="glyphicon glyphicon-chevron-left ceremony_navigation paral_nav" onclick="PrevParalStanza()"/>
+                    <span class="glyphicon glyphicon-chevron-right ceremony_navigation ceremony_navigation_right paral_nav" onclick="NextParalStanza()"/>         
+                </div>
+            </div>
+            <div id="ceremony_nav" class="sidenav navbar-fixed-right">
+              <div id="navig_header"> 
+                  <a class="closebtn" onclick="CloseNav()">
+                      <span class="glyphicon glyphicon-remove"/>  
+                  </a>
+                  <a id="see_paral" href="#/" class="paralbtn" onclick="OpenParalNav()" style="padding-top:15px;">
+                      <span class="glyphicon glyphicon-transfer"/> See parallels  
+                  </a>
+              
+                  <h3 id="nav_ceremony_title">Ceremony Title</h3>
+              </div>
+              
+              <div id="ceremony_nav_menu"/>
+            </div>
+            <div id="ceremony_manual" class="sideman navbar-fixed-left">
+              <div id="navig_header"> 
+                  <a class="closebtn" onclick="CloseManual()">
+                      <span class="glyphicon glyphicon-remove"/>  
+                  </a>
+                  <h3 id="nav_ceremony_title">
+                            <span class="glyphicon glyphicon-book how_to_menu"/> How to use the CAB Ceremony Generator</h3>
+             </div>
+             <div>
+        
+                            
+                    <div style="padding-left:50px;padding-right:30px;padding-top:20px;padding-bottom:10px;font-size:16px">
+                        <a href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/cabhowto1.png">
+                            <img src="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/cabhowto1.png" style="max-width:100%"/>
+                        </a>   
+                        <br/>
+                        <p>This is the ceremony generator. We have divided the ceremonies into four types: Long Liturgy, Drōn ceremonies, Khordeh Avesta and Clusters.</p>
+                        <br/>
+
+                    </div>
+                    <br/>
+                    <div style="padding-left:50px;padding-right:30px;padding-top:20px;padding-bottom:10px;font-size:16px">
+                        <a href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/cabhowto2.png">
+                            <img src="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/cabhowto2.png" style="max-width:100%"/>
+                        </a>                      
+                        <p>For each ceremony we have defined default values, which are based on the variant of the ceremony that appears more frequently in the manuscripts. For instance, the Yasna of Mēnōg Nāvār for the first day of the year at the Hawan Gāh.</p>
+                        <br/>
+    
+                    </div>                    
+                    <br/>
+                    <div style="padding-left:50px;padding-right:30px;padding-top:20px;padding-bottom:10px;font-size:16px">
+                        <a href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/cabhowto3.png">
+                            <img src="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/cabhowto3.png" style="max-width:100%"/>
+                        </a>                      
+                        <p>You can change these parameters, except when they are blocked. This is usual in the case of the Khordeh Avesta, as you can see in the picture.</p>
+                        <br/>
+    
+                    </div>
+                    <br/>
+                    <div style="padding-left:50px;padding-right:30px;padding-top:20px;padding-bottom:10px;font-size:16px">
+                        <a href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/cabhowto4.png">
+                            <img src="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/cabhowto4.png" style="max-width:100%"/>
+                        </a>                      
+                        <p>In other cases, the number of options is more reduced. This is because one specific ceremony can be only performed on some specific days or months.</p>
+                        <br/>
+    
+                    </div>                      
+                    <br/>
+                    <div style="padding-left:50px;padding-right:30px;padding-top:20px;padding-bottom:10px;font-size:16px">
+                        <a href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/cabhowto5.png">
+                            <img src="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/cabhowto5.png" style="max-width:100%"/>
+                        </a>                
+                        <br/>
+                        <p>In the case of other ceremonies, not all combinations are possible. If you select any impossible combination, the generator will report it and give you the data for the possible combinations. This happens especially in the Visperad ceremony.</p>
+                        <br/>
+    
+                    </div>         
+                    <br/>
+                    <div style="padding-left:50px;padding-right:30px;padding-top:20px;padding-bottom:10px;font-size:16px">
+                        <a href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/cabhowto6.png">
+                            <img src="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/cabhowto6.png" style="max-width:100%"/>
+                        </a>     
+                        <br/>
+                        <p>Once you have selected the parameters, press "See ceremony" and wait until the ceremony is generated. For larger ceremonies this process might take some time.</p>
+                        <br/>
+    
+                    </div>         
+                    <br/>
+                    <div style="padding-left:50px;padding-right:30px;padding-top:20px;padding-bottom:10px;font-size:16px">
+                        <a href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/cabhowto7.png">
+                            <img src="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/cabhowto7.png" style="max-width:100%"/>
+                        </a>      
+                        <br/>
+                        <p>Once it is generated, you will see the numbering in bold letters, together with the number in Geldner's edition (preceeded by #), as well as the equivalent numbering in other ceremonies that run in parallel (1); in red, you will find the Pahlavi transcription of the ritual instruction (2); below you will find the Avestan text and an indication of the speakers reciting the text. If there is no indication, the speakers are the same as in previous stanzas (3); on the right side, in blue, you can go to the Avestan Digital Archive and the pictures of the manuscripts at this exact stanza (4); next to it, in green, you can access the Stanza Viewer, with further information of the stanza (5).</p>
+                        <br/>
+    
+                    </div>      
+                    <br/>
+                    <div style="padding-left:50px;padding-right:30px;padding-top:20px;padding-bottom:10px;font-size:16px">
+                        <a href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/cabhowto8.png">
+                            <img src="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/cabhowto8.png" style="max-width:100%"/>
+                        </a>                      
+                        <p>Nērangs contain active hyperlinks. If you press over the text, you will find a transliteration, transcription and translation of each Nērangs, as well as the source from which it was taken.</p>
+                        <br/>
+    
+                    </div>   
+                    <br/>
+                    <div style="padding-left:50px;padding-right:30px;padding-top:20px;padding-bottom:10px;font-size:16px">
+                        <a href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/cabhowto9.png">
+                            <img src="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/cabhowto9.png" style="max-width:100%"/>
+                        </a>   
+                        <p>Also, each Avestan word is an active hyperlink. If you press it, you will find the morphological analysis. **IMPORTANT**: the morphological analysis is a updating as the work progresses. Please, check "About" &gt; "Work Progress" &gt; "Critical &amp; Grammatical Edition" in order to see how far we are in the analysis.</p>
+                        <br/>
+    
+                    </div>                        
+                                   
+              </div>
+            </div>            
+            <div id="ceremony_paral_nav" class="sidenav sidenav_paral navbar-fixed-righ">
+              <div id="navig_header">
+                  <a href="#/" class="closebtn" onclick="CloseParalNav()">
+                      <span class="glyphicon glyphicon-remove-sign"/>  
+                  </a>
+                  <h3 id="nav_ceremony_paral_title">Ceremony Title</h3>
+              </div>
+               
+              <div id="ceremony_paral_nav_menu"/>
+            </div>
+            <div id="ceremony_search">
+                Look for: <input id="cerem_search" type="text" size="64"/>
+
+                <form>
+                    <input type="checkbox" id="searchlist" value="list"> List only results </input>
+                </form>
+            </div>   
+            
+            <div id="modalword" title="Word" style="display:none">
+                <div id="word-modal" class="modal-body">
+                    <p>Retrieving word information <i class="fa fa-circle-o-notch fa-spin"/>
+                        </p>
+                </div>
+            </div>
+            <div id="modalnerang" title="Nerang" style="display:none">
+                <div id="nerang-modal" class="modal-body">
+                    <p>Retrieving nerang and translation <i class="fa fa-circle-o-notch fa-spin"/>
+                        </p>
+                </div>
+            </div>
+            
+            <div id="modalvideo" title="Video" style="display:none">
+                <div id="video-modal" class="modal-body">
+                    <p>Retrieving Video <i class="fa fa-circle-o-notch fa-spin"/>
+                        </p>
+                </div>
+            </div>
+          
+            <div id="modalparallel" title="Parallels" style="display:none">
+                <div id="parallel-modal" class="modal-body">
+                    <p>Retrieving information on parallels <i class="fa fa-circle-o-notch fa-spin"/>
+                        </p>
+                </div>
+            </div>            
+            
+            <div id="stanza-modals">
+                <div id="modalstanza" title="stanza" style="display:none">
+                    <div id="close-stanza-modal">
+                        <a onclick="CloseModal(1)">
+                            <span class="glyphicon glyphicon-remove"/>
+                        </a>
+                    </div>
+                    <div id="stanza-modal">
+                        <p>Retrieving metadata <i class="fa fa-circle-o-notch fa-spin"/>
+                            </p>
+                    </div>
+                </div>
+                <div id="modalstanza-paral" title="stanza-paral" style="display:none">
+                    <div id="close-stanza-modal-paral">
+                        <a onclick="CloseModal(2)">
+                            <span class="glyphicon glyphicon-remove"/>
+                        </a>
+                    </div>
+                    <div id="stanza-modal-paral">
+                        <p>Retrieving metadata <i class="fa fa-circle-o-notch fa-spin"/>
+                            </p>
+                    </div>
+                </div>                
+            </div>
+        
+             
+           
+            <div>
+                <div id="ceremony_navigator">
+                    <span class="glyphicon glyphicon-chevron-left ceremony_navigation" onclick="PrevStanza()"/>
+                    <span class="glyphicon glyphicon-chevron-right ceremony_navigation ceremony_navigation_right" onclick="NextStanza()"/>
+                </div>   
+                <div id="display-viewer" name="display-viewer"/>
+                <div id="main-paral-viewer" name="main-paral-viewer">
+                    <div id="no-paral">
+                        No parallel available for this stanza
+                    </div>
+                    <div id="paral-viewer" name="paral-viewer"/>
+                </div>
+            </div>
+            <div id="current-select">
+                <span class="glyphicon glyphicon-play"/>
+            </div>
+        </div>
+        
+    </div>
+    
+        <div class="the_footer ceremony_footer">
+            <p id="back_to_top" class="footer_text footer_add" style="display:none">
+                <a href="#ceremony_title" class="menu_nav_button">
+                    <span class=" glyphicon glyphicon-chevron-up "/> Back to top
+                </a>
+            </p>
+            <p class="footer_text">
+                Corpus Avesticum Berolinense CC  
+                <script>document.write(new Date().getFullYear())</script>
+                – <a class="disclaimer_link" href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/pages/misc/disclaimer.html">Disclaimer</a>
+            </p>
+    </div>
+    </div>
+    <script type="text/javascript">
+    $(document).ready(function(){    
+         $('#get-ceremony option[value="-1"]').attr('selected', 'selected');
+          $('[data-toggle="tooltip"]').tooltip(); 
+          $('#selector-main').val(-1);
+          
+    });    
+
+    $(document).ajaxComplete(function() {
+         $('[data-toggle="popover"]').popover({container: 'body', html: true});
+    });
+    
+    function custom_alert( message ) {
+
+        $('#error-text').html( message );
+        $('#error-message').modal('toggle');
+    };
+    
+    function isLessThan(a, b) 
+    {
+        return Object.is((a-b)%1, -0);
+    };    
+
+    jQuery.extend (
+        jQuery.expr[':'].icontains = function (a, i, m) {
+            //-- faster than jQuery(a).text()
+            var sText   = (a.textContent || a.innerText || "");     
+            var zRegExp = new RegExp (m[3], 'i');
+            return zRegExp.test (sText);
+        }
+    ); 
+    </script>
+</div>

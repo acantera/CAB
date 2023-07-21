@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns:i18n="http://exist-db.org/xquery/i18n" data-template="templates:surround" data-template-with="templates/page_man_translit.html" data-template-at="content">
+<div class="main-body" data-template="templates:include" data-template-path="templates/menu.html"/>
+    <div class="cover_simple">
+                    <div class="sticky-menu">
+                        <div class="app:navig_menu"/>
+                    </div>
+        
+        <div class="row">
+           <div style="height:150px;padding-top:100px;">
+              <h4 class="nav-title-lower">Manuscript Transliteration Viewer 2.0</h4>
+           </div>
+        </div>
+        
+        <div id="ceremony_nav" class="sidenav navbar-fixed-right">
+            <div id="navig_header"> 
+                <a class="closebtn" onclick="CloseNav()">
+                    <span class="glyphicon glyphicon-remove"/>  
+                </a>
+                <h3 id="nav_ceremony_title">Ceremony Title</h3>
+              </div>
+              
+              <div id="ceremony_nav_menu">
+                <div style="text-align:center">
+                    <ul class="pagination">
+                        <li id="list-pages" class="page-item active">
+                            <a class="page-link" href="#" onclick="GoTo( '1' )">Pages</a>
+                        </li>
+                        <li id="list-stanzas" class="page-item">
+                            <a class="page-link" href="#" onclick="GoTo( '2' )">Stanzas</a>
+                        </li>
+                    </ul>
+                </div>
+                <div id="page_navigator">
+                </div>
+                <div id="man_navigator">
+
+                </div>
+              </div>
+        </div>    
+        
+        <div class="row-translit">
+            <div class="col_selector col-lg-12">
+                <div class="col_option col-lg-4">
+                    <label class="label-ceremony label-general">Manuscript Type: </label>
+                        <select id="get-type" name="get-type" class="form-control">
+                                            <option value="-1" default="true"/>
+                                            <option value="yasna">Yasna</option>
+                                            <option value="rapithwin">Yasna Rapithwin</option>
+                                            <option value="visperad">Visperad</option>
+                                            <option value="videvdad">Videvdad</option>
+                                            <option value="vishtasp">Vishtasp</option>
+                        </select>
+                </div>
+                
+                <div class="col_option col-lg-4">
+                    <label class="label-ceremony label-general">Manuscript Number: </label>
+                        <select id="get-no" name="get-no" class="form-control">
+                                <option value="-1" default="true"/>
+                        </select>
+                </div>
+                
+                <div class="col_option col-lg-4">
+                    <label class="label-ceremony label-general">Manuscript Passage: </label>
+                        <select id="get-passage" name="get-passage" class="form-control">
+                                <option value="-1" default="true"/>
+                        </select>
+                </div>                
+            </div>
+            
+        </div>
+        
+        <div>
+            <div class="row_load">
+                <div id="navig-bar" style="padding-top:10px">
+                    <a href="#/" class="bring_menu" onclick="OpenNav()">
+                        <span class="glyphicon glyphicon-th-large other_menu" style="color:#436278"/> Navigation bar
+                    </a>
+                </div>
+                <div id="display-viewer" name="display-viewer"/>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="aiw_paragraph" style="padding-top: 0px !important;height: 100px;">
+                <div class="app:transliterate_fullmanuscript"/>
+            </div>
+        </div>
+        <div id="box_correct"/>
+        <div class="the_footer ceremony_footer">
+            <p id="back_to_top" class="footer_text footer_add">
+                <a href="#home" class="menu_nav_button">
+                    <span class=" glyphicon glyphicon-chevron-up "/> Back to top
+                </a>
+            </p>        
+            <p class="footer_text">
+                Corpus Avesticum Berolinense CC  
+                <script>document.write(new Date().getFullYear())</script>
+                – <a class="disclaimer_link" href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/pages/misc/disclaimer.html">Disclaimer</a>
+            </p>
+        </div>
+      
+    </div>
+    <script type="text/javascript">
+    $(document).ready(function(){    
+
+         $('#get-type option[value="-1"]').attr('selected', 'selected');
+         $('#get-no option[value="-1"]').attr('selected', 'selected');
+         $('#get-passage option[value="-1"]').attr('selected', 'selected');
+    }); 
+        
+    function OpenNav() {
+        $('#ceremony_nav').collapse('show');
+
+        $('#ceremony_nav').css('width','300px');
+        $('.option_button').css('margin-right','205px');
+            
+    };
+    
+    function CloseNav() {
+        $('#ceremony_nav').css('width','0px');
+        $('.option_button').css('margin-right','0px');
+    };    
+    
+    function GoTo( $i ) 
+    {   
+        if ( $i == 1 )  {
+            $( '#page_navigator' ).show();
+            $( '#man_navigator' ).hide();
+            $( "#list-pages" ).addClass( 'active' );
+            $( "#list-stanzas" ).removeClass( 'active' );
+        } else if ( $i == 2 )   {
+            $( '#page_navigator' ).hide();
+            $( '#man_navigator' ).show();
+            $( "#list-pages" ).removeClass( 'active' );
+            $( "#list-stanzas" ).addClass( 'active' );
+        } 
+    };
+    </script>
+</div>

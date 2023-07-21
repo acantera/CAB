@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns:i18n="http://exist-db.org/xquery/i18n" data-template="templates:surround" data-template-with="templates/page_stanza.html" data-template-at="content">
+<div class="main-body" data-template="templates:include" data-template-path="templates/menu.html"/>
+    <div class="cover_simple">
+                    <div class="sticky-menu">
+                        <div class="app:navig_menu"/>
+                    </div>
+
+        <div class="row">
+           <div style="height:10px;padding-top:50px;">
+           </div>
+        </div>
+        
+        <div id="main_tei" class="col-lg-12">
+            <a href="#/" class="bring_menu" style="float:left" onclick="OpenNav()">
+                <span class="glyphicon glyphicon-th-large other_menu"/> Navigation bar
+            </a>
+            <a href="#/" id="liturgy_metadata" class="bring_menu" style="float:right" onclick="OpenManual()">
+                <span class="glyphicon glyphicon-book how_to_menu"/> How to use Stanza Analysis
+            </a>  
+        </div>        
+        
+        <div id="ceremony_nav" class="sidenav navbar-fixed-right">
+            <div id="navig_header"> 
+                <a class="closebtn" onclick="CloseNav()">
+                    <span class="glyphicon glyphicon-remove"/>  
+                </a>
+                    <div id="stanza_navigator"/>
+              </div>
+              
+              <div id="ceremony_nav_menu"/>
+        </div>
+        <div id="ceremony_manual" class="sideman navbar-fixed-left">
+            <div id="navig_header" style="text-align:justify"> 
+                <a class="closebtn" onclick="CloseManual()">
+                    <span class="glyphicon glyphicon-remove"/>  
+                </a>
+              
+                <h3 id="nav_ceremony_title">
+                    <span class="glyphicon glyphicon-book how_to_menu"/> How to use the CAB Stanza Viewer</h3>
+            </div>
+            <div>
+                    <div style="padding-left:50px;padding-right:30px;padding-top:20px;padding-bottom:10px;font-size:16px">
+                        <a href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/howto1.png">
+                            <img src="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/howto1.png" style="max-width:100%"/>
+                        </a>
+                        <p>The Stanza Viewer gives further information about the stanza, regarding not only the linguistic features, but also some other important data, such as the parallels or the ritual context.</p>
+                        <br/>
+                        <p>The first box offers the text of the stanza and its division in smaller units (a, b, c, d, etc.)</p>
+                        <br/>
+                        <p>If you want to navigate to the previous or the next stanza, press on the arrows on the left and
+right sides respectively.</p>
+    
+                    </div>
+                    <br/>
+                    <div style="padding-left:50px;padding-right:30px;padding-bottom:10px;font-size:16px">
+                        <a href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/howto2.png">
+                            <img src="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/howto2.png" style="max-width:100%"/>
+                        </a>
+                        <p>
+                        <b style="color:#c94c2d">Morphological Glossing:</b> Morphological details and the possible meanings of the
+words in the stanza, all shown in parallel.
+                        </p>
+                    </div>
+                    <div style="padding-left:50px;padding-right:30px;padding-bottom:10px;font-size:16px">
+                        <a href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/howto3.png">
+                            <img src="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/howto3.png" style="max-width:100%"/>
+                        </a>
+                        <p>
+                        <b style="color:#c94c2d">Pahlavi Version:</b> a standardized Pahlavi transcription of the intended stanza is given on the basis on the four manuscripts 400. Significant variants from other manuscripts (410, 500, 510) are indicated in a reduced critical apparatus. It does not intend to be a critical edition, but an accompanying text that might contribute to the text critical analysis of the Avestan text.
+                        </p>
+                    </div>
+                    <div style="padding-left:50px;padding-right:30px;padding-bottom:10px;font-size:16px">
+                        <a href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/howto4.png">
+                            <img src="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/howto4.png" style="max-width:100%"/>
+                        </a>
+                        <p>
+                        <b style="color:#c94c2d">Previous Editions:</b> the version of the corresponding text in previous editions (Spiegel,
+Westergaard and Geldner) are displayed here, with their corresponding numbering.
+                        </p>
+                    </div>
+                    <div style="padding-left:50px;padding-right:30px;padding-bottom:10px;font-size:16px">
+                        <a href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/howto5.png">
+                            <img src="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/howto5.png" style="max-width:100%"/>
+                        </a>
+                        <p>
+                        <b style="color:#c94c2d">Speaker:</b> the instruction about the narrator(s) of this stanza is shown in this section and the
+sources available to know it, either manuscripts or bibliography. If there are discrepancies, these are shown. When there is no information about this specific stanza, it is given the number of the last previous stanza where there is available information. E.g. for Y1.2 <i>vid</i>. Y1.1.
+                        </p>
+                    </div>
+                    <div style="padding-left:50px;padding-right:30px;padding-bottom:10px;font-size:16px">
+                        <a href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/howto6.png">
+                            <img src="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/howto6.png" style="max-width:100%"/>
+                        </a>                    
+                        <p>
+                        <b style="color:#c94c2d">Apparatus:</b> we produce the apparatus with the tool <i>Textual Communities</i>. Each variant is analysed, verse by verse. If you want to open <i>Textual Communities</i>, click on <i>See dynamic</i> ... There you will find the variants already classified, after prsesing "Ord": regularized variants (clicking in "show non-edition subreadings"), orthographic variants (in grey, if there is a non-expected orthographical variant) and variants (meaningful for the understanding of the text).
+                        </p>
+                    </div>           
+                    <div style="padding-left:50px;padding-right:30px;padding-bottom:10px;font-size:16px">
+                        <a href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/howto7.png">
+                            <img src="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/howto7.png" style="max-width:100%"/>
+                        </a>
+                        <p>
+                        <b style="color:#c94c2d">Critical Commentaries:</b> we provide here, on one side, the divergences between the CAB edition and other editions (Geldner, Kellens, Pirart, Humbach…), together with some bibliography, if required. Furthermore, we offer some recitation instructions given in the manuscripts, such as the number of repetitions of one stanza, of a prayer and the ways the manuscripts abbreviate, such as <i>čiyōn pad … nibišt</i> ("as it is written in…"), etc.
+                        </p>
+                    </div>           
+                    <div style="padding-left:50px;padding-right:30px;padding-bottom:10px;font-size:16px">
+                        <a href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/howto8.png">
+                            <img src="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/howto8.png" style="max-width:100%"/>
+                        </a>                    
+                        <p>
+                        <b style="color:#c94c2d">Parallels:</b> In this section, different type of parallels are to be seen:
+                        <ul style="list-style-type: square;">
+                            <li>
+                                quotations, if the stanza quotes or is quoted in another stanza. This is valid just for
+quotations of Old Avestan into Middle or Young Avestan.
+                            </li>
+                            <br/>
+                            <li>
+                                Stanzas with the same text that are not necessarily quotations are displayed with <b>"="</b>;
+                            </li>
+                            <br/>
+                            <li>
+                                structural parallels, this means, stanzas playing the same role in the cursus of the recitation (mostly in the litanies), are displayed with <b>"≈"</b>; other types of minor parallels (similar texts, similar sentences or similar syntagma) are displayed with <b>"~"</b>.
+                            </li>                     
+                        </ul>
+                        </p>
+                    </div>
+                    <div style="padding-left:50px;padding-right:30px;padding-bottom:10px;font-size:16px">
+                        <a href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/howto9.png">
+                            <img src="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/howto9.png" style="max-width:100%"/>
+                        </a>                    
+                        <p>
+                        <b style="color:#c94c2d">Ritual Information:</b> this section has several sub-sections:
+
+                        <ul style="list-style-type: square;">
+                            <li>alternative versions of the <i>nērangs</i> beside the one that is shown at the ceremony generator). The numbering corresponds to Cantera’s critical edition on the <i>nērangs</i> (in press)</li>
+                            <br/>
+                            <li>
+                                quotations of the passage in the Pahlavi and Persian meta-ritual literature (such as the Nerangestān and the Revāyāt)
+                            </li>
+                            <br/>
+                            <li>
+                                Bibliographical references regarding the "modern practice" (e.g. Anklesaria, Kotwal and Boyd, etc.), only if the modern practice differs from what it is attested in the manuscripts or the meta-ritual literature.
+                            </li>
+                            <br/>
+                            <li>
+                                If there is any further remark, that is not present in any other bibliography, we add it at the end under "Commentaries".
+                            </li>
+                
+                        </ul>
+                        </p>
+                    </div>   
+                    <div style="padding-left:50px;padding-right:30px;padding-bottom:10px;font-size:16px">
+                        <a href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/howto10.png">
+                            <img src="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/howto10.png" style="max-width:100%"/>
+                        </a>                    
+                        <p>
+                        <b style="color:#c94c2d">Translation:</b> The translation of the intended Stanza in modern European languages can be seen in this part.
+                        </p>
+                    </div>    
+                    <br/>
+                    <div style="padding-left:50px;padding-right:30px;padding-bottom:10px;font-size:16px">
+                        <a href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/howto11.png">
+                            <img src="https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/howto/howto11.png" style="max-width:100%"/>
+                        </a>                    
+                        <p>
+                        At the end, one can see how to <b style="color:#c94c2d">cite this entry</b>.
+                        </p>
+                        <br/>
+                    <br/>
+                    <br/>
+                    </div>
+            </div>
+        </div>           
+        
+        <div class="row">
+           <div style="height:10px;padding-top:40px;">
+           </div>
+        </div>
+
+        <div class="row">
+           <div class="stanza_paragraph">
+                <div class="app_stanza:get_stanza"/>
+           </div>
+            <div id="modalword" title="Word" style="display:none">
+                <div id="word-modal" class="modal-body">
+                    <p>Retrieving word information <i class="fa fa-circle-o-notch fa-spin"/>
+                        </p>
+                </div>
+            </div>  
+            <div id="modalavestan" title="Avestan Stanza" style="display:none">
+                <div id="avestan-modal" class="modal-body">
+                    <p>Converting paragraph to Avestan <i class="fa fa-circle-o-notch fa-spin"/>
+                        </p>
+                </div>
+            </div>
+            <div id="modalbiblio" title="Full Bibliographical Reference" style="display:none">
+                <div id="biblio-modal" class="modal-body">
+                    <p>Retrieving bibliographical reference <i class="fa fa-circle-o-notch fa-spin"/>
+                        </p>
+                </div>
+            </div>              
+        </div>
+        
+    </div>
+    <div class="the_footer ceremony_footer">
+        <p id="back_to_top" class="footer_text footer_add">
+            <a href="#home" class="menu_nav_button">
+                <span class=" glyphicon glyphicon-chevron-up "/> Back to top
+            </a>
+        </p>
+            <p class="footer_text">
+                Corpus Avesticum Berolinense CC  
+                <script>document.write(new Date().getFullYear())</script>
+                – <a class="disclaimer_link" href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/pages/misc/disclaimer.html">Disclaimer</a>
+            </p>
+    </div>
+</div>

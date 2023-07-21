@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns:i18n="http://exist-db.org/xquery/i18n" data-template="templates:surround" data-template-with="templates/page.html" data-template-at="content">
+<div class="main-body" data-template="templates:include" data-template-path="templates/menu.html"/>
+    <div class="cover_info">
+    <div class="cover-overlay">
+                    <div class="sticky-menu">
+                        <div class="app:navig_menu"/>
+                    </div>
+        
+        <div class="row">
+           <div style="height:200px;padding-top:100px;">
+              <h5 class="nav-title nav-style">Work Progress</h5>
+           </div>
+        </div>
+    
+        <div>
+            <div id="info" class="indiv_paragraph" style="margin-top:40px;">
+                <div>
+                    <h2 id="scope2" class="nav-title_paragraph">The CAB Project: A Visual Representation of Its Current Status</h2>
+                    <p>This is a visual representation of the current state of the Long Liturgy and Khordeh Avesta ceremonies within the CAB project. The list is being updated constantly until all stanzas will be covered, so visit this page periodically to see what has been added. The numbering and abbreviations used in the tables below are the ones being used for the whole Corpus Avesticum Berolinense.</p>
+                </div>  
+                <br/>
+                <div class="entry_apparatus">
+                    <div class="tab_header tab_header_first">
+                        <h4 style="display:inline-block;">
+                                <b>Long Liturgy</b>
+                            </h4>
+                            <div class="tab_links tab_links_first" style="display:inline-block;float:right">
+                                <div>
+                                    <button id="morpho_button_expand" class="tablinks expander" data-toggle="collapse" data-target="#long_liturgy" role="button" aria-expanded="true" aria-controls="glossing_entry">Expand ∇</button>
+                                </div>
+                            </div>
+                    </div>
+                    <div>
+                    <div id="long_liturgy" class="collapse">
+                        <br/>
+                        <table>
+                            <tr style="vertical-align:middle">
+                                <td>
+                                        <b>Legend: </b>
+                                    </td>
+                                <td width="14"/>
+                                <td style="background-color:#c94c2d;" width="20"> </td>
+                                <td width="4"/>
+                                <td> Unavailable</td>
+                                <td width="24"/>
+                                <td style="color:#25511E;font-size:18px">📄</td>
+                                <td width="6"/>
+                                <td>Hover over to see manuscripts</td>
+                            </tr>
+                        </table>
+                    
+                        <br/>
+                    
+                        <div>
+                            <div class="app:get_progress"/>
+                        </div>                    
+                        
+                        <br/>
+                        
+                    </div>
+                    </div>
+                </div>
+        
+                <div class="entry_apparatus">
+                    <div class="tab_header tab_header_second">
+                        <h4 style="display:inline-block;">
+                                <b>Khordeh Avesta</b>
+                            </h4>
+                            <div class="tab_links tab_links_second" style="display:inline-block;float:right">
+                                                    <div>
+                                    <button id="morpho_button_expand" class="tablinks expander" data-toggle="collapse" data-target="#khordeh_liturgy" role="button" aria-expanded="true" aria-controls="glossing_entry">Expand ∇</button>
+                                </div>
+                            </div>
+                    </div>
+                    <div>
+                        <div id="khordeh_liturgy" class="collapse">
+                            <br/>
+                            <p style="padding-left:10px;padding-bottom:10px;">Basic Editions for all parts (except PaIr, AfrinRap, YtFra, YtG) are done and available.</p>
+                            <table style="text-align:center;width:100%">
+                                <tr style="background-color: #313457; color: #ffffff; vertical-align: middle;height: 50px">
+                                    <th colspan="2" width="100" style="text-align:center">
+                                            <b>Shorter Liturgies ("Xorde Avesta")</b>
+                                        </th>
+                                    <th width="200">Farziyat or Non-Farziyat</th>
+                                    <th width="120" style="text-align:center">
+                                            <b>Type</b>
+                                        </th>
+                                </tr>
+                                <tr style="vertical-align: middle; background-color: #E4DDBF;">
+                                    <td>
+                                            <b>Ashem Vohu</b>
+                                        </td>
+                                    <td/>
+                                    <td>Farziyat</td>
+                                    <td>IR &amp; IND</td>   
+                                </tr>
+                                <tr style="vertical-align: middle; background-color: #f3f0e3;">
+                                    <td>
+                                            <b>Ahuna Vairya</b>
+                                        </td>
+                                    <td/>
+                                    <td>Farziyat</td>
+                                    <td>IR &amp; IND</td>   
+                                </tr>                                  
+                                <tr style="vertical-align: middle; background-color: #E4DDBF;">
+                                    <td rowspan="3">
+                                        <b>Bāj</b>
+                                    </td>
+                                    <td>Gomēz Kardan</td>
+                                    <td>Farziyat</td>
+                                    <td>IR</td>                                    
+                                </tr>
+                                <tr style="vertical-align: middle; background-color: #f3f0e3;">
+                                    <td>Nan Xordan (short version)</td>
+                                    <td>Farziyat</td>
+                                    <td>IR</td>
+                                </tr>
+                                <tr style="vertical-align: middle; background-color: #E4DDBF;">
+                                    <td>Nan Xordan (longer version for Priests)</td>
+                                    <td>Farziyat</td>
+                                    <td>IR</td>                                    
+                                </tr>
+                                <tr style="vertical-align: middle; background-color: #f3f0e3;">
+                                    <td rowspan="9">
+                                        <b>Nērang</b>
+                                    </td>
+                                    <td>
+                                            Sroš Baj
+                                        </td>
+                                    <td>Farziyat</td>
+                                    <td>IR</td>                                    
+                                </tr>   
+                                <tr style="vertical-align: middle; background-color: #E4DDBF;">
+                                    <td>Kostï Bastan</td>
+                                    <td>Farziyat</td>
+                                    <td>IR</td>
+                                </tr>                                  
+                                <tr style="vertical-align: middle; background-color: #f3f0e3;">
+                                    <td>Nāxon Cīdan</td>
+                                    <td>Non-Farziyat</td>
+                                    <td>IR</td>
+                                </tr>      
+                                <tr style="vertical-align: middle; background-color: #E4DDBF;">
+                                    <td>Sheytān Bāzī</td>
+                                    <td>Non-Farziyat</td>
+                                    <td>IR &amp; IND</td> 
+                                </tr>       
+                                <tr style="vertical-align: middle; background-color: #f3f0e3;">
+                                    <td>ʿAtse (<i>Pazand &amp; Parsi</i>)</td>
+                                    <td>Non-Farziyat</td>
+                                    <td>IR</td>
+                                </tr>   
+                                <tr style="vertical-align: middle; background-color: #E4DDBF;">
+                                    <td>Barsom Cīdan</td>
+                                    <td>Non-Farziyat</td>
+                                    <td>IR</td>
+                                </tr>              
+                                <tr style="vertical-align: middle; background-color: #f3f0e3;">
+                                    <td>Jam Duxtan</td>
+                                    <td>Non-Farziyat</td>
+                                    <td>IR</td>
+                                </tr>
+                                <tr style="vertical-align: middle; background-color: #E4DDBF;">
+                                    <td>Zur Gereftan</td>
+                                    <td>Non-Farziyat</td>
+                                    <td>IR</td>
+                                </tr>  
+                                <tr style="vertical-align: middle; background-color: #f3f0e3;">
+                                    <td>Waras</td>
+                                    <td>Non-Farziyat</td>
+                                    <td>IR</td>
+                                </tr>        
+                                <tr style="vertical-align: middle; background-color: #E4DDBF;;">
+                                    <td>
+                                        <b>Nām Stāyishn</b> (<i>Pazand &amp; Pahlavi</i>)
+                                    </td>
+                                    <td/>
+                                    <td>Farziyat</td>
+                                    <td>IR</td>                                    
+                                </tr>                                
+                                <tr style="vertical-align: middle; background-color: #f3f0e3;">
+                                    <td rowspan="5">
+                                        <b>Niyāyišn</b>
+                                    </td>
+                                    <td>Xwaršed</td>
+                                    <td>Farziyat</td>
+                                    <td>IR</td>                                    
+                                </tr>
+                                <tr style="vertical-align: middle; background-color: #E4DDBF;">
+                                    <td>Mihr</td>
+                                    <td>Farziyat</td>
+                                    <td>IR</td>
+                                </tr>
+                                <tr style="vertical-align: middle; background-color: #f3f0e3;">
+                                    <td>Mah</td>
+                                    <td>Farziyat</td>
+                                    <td>IR</td>                                    
+                                </tr>
+                                <tr style="vertical-align: middle; background-color: #E4DDBF;">
+                                    <td>Ataš</td>
+                                    <td>Farziyat</td>
+                                    <td>IR</td>                                    
+                                </tr>
+                                <tr style="vertical-align: middle; background-color: #f3f0e3;">
+                                    <td>Ābān</td>
+                                    <td>Non-Farziyat</td>
+                                    <td>IND</td>                                    
+                                </tr>
+                                <tr style="vertical-align: middle; background-color: #E4DDBF;">
+                                    <td rowspan="5">
+                                        <b>Gāh</b>
+                                    </td>
+                                    <td>Hawan</td>
+                                    <td>Farziyat</td>
+                                    <td>IR</td>                                    
+                                </tr>
+                                <tr style="vertical-align: middle; background-color: #f3f0e3;">
+                                    <td>Rapitwin</td>
+                                    <td>Farziyat</td>
+                                    <td>IR</td>
+                                </tr>
+                                <tr style="vertical-align: middle; background-color: #E4DDBF;">
+                                    <td>Uzerin</td>
+                                    <td>Farziyat</td>
+                                    <td>IR</td>                                    
+                                </tr>
+                                <tr style="vertical-align: middle; background-color: #f3f0e3;">
+                                    <td>Ebsrusrim</td>
+                                    <td>Farziyat</td>
+                                    <td>IR</td>                                    
+                                </tr>
+                                <tr style="vertical-align: middle; background-color: #E4DDBF;">
+                                    <td>Ušahin</td>
+                                    <td>Farziyat</td>
+                                    <td>IR</td>                                    
+                                </tr>
+                                
+                                <tr style="vertical-align: middle; background-color: #f3f0e3;">
+                                    <td>
+                                            <b>Hōshbām</b>
+                                        </td>
+                                    <td/>
+                                    <td>Farziyat</td>
+                                    <td>IND</td>   
+                                </tr>
+                                <tr style="vertical-align: middle; background-color: #E4DDBF;">
+                                    <td>
+                                            <b>Namaskar Cahār Nēmag</b>
+                                        </td>
+                                    <td/>
+                                    <td>Farziyat</td>
+                                    <td>IND</td>   
+                                </tr>
+                                <tr style="vertical-align: middle; background-color: #f3f0e3;">
+                                    <td>
+                                            <b>Vīspa Humata</b>
+                                        </td>
+                                    <td/>
+                                    <td>Farziyat</td>
+                                    <td>IND</td>   
+                                </tr>    
+                                
+                                <tr style="vertical-align: middle; background-color: #E4DDBF;">
+                                    <td rowspan="5">
+                                        <b>Āfrīnagān</b>
+                                    </td>
+                                    <td>Dahmān</td>
+                                    <td>Non-Farziyat</td>
+                                    <td>IR</td>                                    
+                                </tr>
+                                <tr style="vertical-align: middle; background-color: #f3f0e3;">
+                                    <td>Gāhāmbār</td>
+                                    <td>Non-Farziyat</td>
+                                    <td>IR</td>
+                                </tr>    
+                                <tr style="vertical-align: middle; background-color: #E4DDBF;">
+                                    <td>Gāthā</td>
+                                    <td>Non-Farziyat</td>
+                                    <td>IR</td>
+                                </tr> 
+                                <tr style="vertical-align: middle; background-color: #f3f0e3;">
+                                    <td>Rapithwin</td>
+                                    <td>Non-Farziyat</td>
+                                    <td>IR</td>
+                                </tr>  
+                                <tr style="vertical-align: middle; background-color: #E4DDBF;">
+                                    <td>Nōg Nāwar</td>
+                                    <td>Non-Farziyat</td>
+                                    <td>IR</td>
+                                </tr>   
+                                <tr style="vertical-align: middle; background-color: #f3f0e3;">
+                                    <td>
+                                            <b>Cithrəm</b> (<i>Pazand &amp; Parsi</i>)
+                                        </td>
+                                    <td/>
+                                    <td>Non-Farziyat</td>
+                                    <td>IR</td>   
+                                </tr>                                
+                                <tr style="vertical-align: middle; background-color: #E4DDBF;">
+                                    <td>
+                                            <b>Sēpās-e Aōi</b> (<i>Pazand &amp; Parsi</i>)
+                                        </td>
+                                    <td/>
+                                    <td>Non-Farziyat</td>
+                                    <td>IR</td>   
+                                </tr>     
+                                <tr style="vertical-align: middle; background-color: #f3f0e3;">
+                                    <td>
+                                            <b>Pad Nām Dādār Ohrmazd (= Be Nām-e Yazd)</b> (<i>Pazand &amp; Parsi</i>)
+                                        </td>
+                                    <td/>
+                                    <td>Non-Farziyat</td>
+                                    <td>IR</td>   
+                                </tr>   
+                                <tr style="vertical-align: middle; background-color: #E4DDBF;">
+                                    <td>
+                                            <b>Nām-e Xāwar</b> (<i>Pazand &amp; Parsi</i>)
+                                        </td>
+                                    <td/>
+                                    <td>Non-Farziyat</td>
+                                    <td>IR</td>   
+                                </tr>  
+                                <tr style="vertical-align: middle; background-color: #f3f0e3;">
+                                    <td>
+                                            <b>Namāz Urmazd</b> (<i>Pazand &amp; Parsi</i>)
+                                        </td>
+                                    <td/>
+                                    <td>Non-Farziyat</td>
+                                    <td>IR</td>   
+                                </tr>     
+                                <tr style="vertical-align: middle; background-color: #E4DDBF">
+                                    <td rowspan="9">
+                                        <b>Yasht</b>
+                                    </td>
+                                    <td>Ohrmazd</td>
+                                    <td>Farziyat</td>
+                                    <td>IR</td>                                    
+                                </tr>
+                                <tr style="vertical-align: middle; background-color: #f3f0e3;">
+                                    <td>Ardwahisht</td>
+                                    <td>Farziyat</td>
+                                    <td>IR</td>
+                                </tr>    
+                                <tr style="vertical-align: middle; background-color:  #E4DDBF;">
+                                    <td>Srōsh Hadōxt</td>
+                                    <td>Farziyat</td>
+                                    <td>IR</td>
+                                </tr>  
+                                <tr style="vertical-align: middle; background-color: #f3f0e3;">
+                                    <td>Srōsh</td>
+                                    <td>Farziyat</td>
+                                    <td>IR</td>
+                                </tr>         
+                                <tr style="vertical-align: middle; background-color: #E4DDBF;">
+                                    <td>Hōm</td>
+                                    <td>Farziyat</td>
+                                    <td>IND</td>
+                                </tr>  
+                                <tr style="vertical-align: middle; background-color: #f3f0e3;">
+                                    <td>Wanand</td>
+                                    <td>Farziyat</td>
+                                    <td>IND</td>
+                                </tr>                                   
+                                <tr style="vertical-align: middle; background-color: #E4DDBF;">
+                                    <td>Wahrām</td>
+                                    <td>Non-Farziyat</td>
+                                    <td>IR</td>
+                                </tr> 
+                                <tr style="vertical-align: middle; background-color: #f3f0e3;">
+                                    <td>Amesha Spenta </td>
+                                    <td>Non-Farziyat</td>
+                                    <td>IND</td>
+                                </tr>  
+                                <tr style="vertical-align: middle; background-color: #E4DDBF;">
+                                    <td>Hordad</td>
+                                    <td>Non-Farziyat</td>
+                                    <td>IR &amp; IND</td>
+                                </tr>                                 
+                                <tr style="vertical-align: middle; background-color: #f3f0e3;">
+                                    <td>
+                                        <b>Doʿā Ziyān-e Mardomān</b>
+                                    </td>
+                                    <td/>
+                                    <td>Non-Farziyat</td>
+                                    <td>IR</td>   
+                                </tr>           
+                                <tr style="vertical-align: middle; background-color: #E4DDBF;">
+                                    <td>
+                                            <b>Mayā Yasht</b>
+                                        </td>
+                                    <td/>
+                                    <td>Non-Farziyat</td>
+                                    <td>IR</td>
+                                </tr>                                 
+                            </table>
+                        </div>
+                    </div>
+                </div>
+        </div>
+
+    </div>
+
+        <div class="the_footer">
+            <p id="back_to_top" class="footer_text footer_add">
+                <a href="#home" class="menu_nav_button">
+                    <span class=" glyphicon glyphicon-chevron-up "/> Back to top
+                </a>
+            </p>
+            <p class="footer_text">
+                Corpus Avesticum Berolinense CC  
+                <script>document.write(new Date().getFullYear())</script>
+                – <a class="disclaimer_link" href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/pages/misc/disclaimer.html">Disclaimer</a>
+            </p>
+    </div>
+    </div>
+    </div>
+    <script>
+    $(document).ready(function(){   
+        function ButtonName( $todo )
+        {
+            if ($( $todo ).text().trim() == 'Collapse Δ') {
+                $( $todo ).text('Expand ∇');
+            } else {
+                $( $todo ).text('Collapse Δ');
+            }           
+        }
+    
+        $('.expander').click(function(){
+            ButtonName( this );
+
+        });
+
+    });
+    
+    $(document).on("click", "#morpho_button", function(){
+            if ($( "#morpho_button_expand" ).text().trim() == 'Collapse Δ') {
+                $( "#morpho_button_expand" ).text('Expand ∇');
+            } else {
+                $( "#morpho_button_expand" ).text('Collapse Δ');
+            }   
+    });    
+    </script>    
+</div>

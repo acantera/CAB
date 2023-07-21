@@ -1,0 +1,85 @@
+note {
+    display:none;
+}
+
+head {
+    display: none;
+}
+
+ab {
+    display: inline !important;
+}
+
+ritual ab {
+    display: block !important;
+}
+
+l {
+    display: inline !important;
+    padding-left: 0px !important;
+    margin-left: 0px !important;
+}
+
+.ab_special {
+    display: block !important;
+    margin: 0;
+    padding-top:10px;
+}
+
+.ab_special_frauuarane {
+    display: block !important;
+    margin: 0;
+    padding-top:10px;
+    padding-left:20px;
+}
+
+.ab_special_inline {
+    display: inline;
+    margin: 0;
+    padding-top:10px;
+}
+
+.note {
+    display:none;
+}
+
+.red {
+    display: inline !important;
+    color: #c94c2d;
+    font-weight: bold;
+    padding-left: 20px;
+}
+
+.frauuarane {
+    padding-left:0px !important;
+}
+
+.ab_indent {
+    padding-left:30px;
+}
+
+.ab_indent_extra {
+    padding-left:60px;
+}
+
+.gallery_item
+{
+    padding: 30px;
+    background-color:#e0e0e0;
+}
+
+.gallery_video
+{
+    text-align:center;    
+}
+
+.header_red
+{
+    color: #820101;   
+}
+
+.morph_table_entry
+{
+    overflow-x: scroll;
+    scrollbar-color: #c94c2d #f3f0e3;
+}

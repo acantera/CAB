@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns:i18n="http://exist-db.org/xquery/i18n" data-template="templates:surround" data-template-with="templates/page_aiw.html" data-template-at="content">
+<div class="main-body" data-template="templates:include" data-template-path="templates/menu.html"/>
+    <div class="cover_simple">
+                    <div class="sticky-menu">
+                        <div class="app:navig_menu"/>
+                    </div>
+        
+        <div style="min-height:600px">     
+        
+            <div class="row">
+               <div style="height:200px;padding-top:100px;">
+                  <h4 class="nav-title-lower">Search in Christian Bartholomae's <i>Altiranisches Wörterbuch</i> (AIW) 1.0</h4>
+               </div>
+            </div>
+
+
+            <div class="alert alert-warning" role="alert">
+                <p>The Avestan alphabet (in Bartholomae): <bb>a ā e ē i ī o ō u ū ə ə̄ ą ā̊ k g γ x x́ č ǰ t d δ t̰ ϑ p b w (for -β-) f n m ŋ ŋ́ v (for -uu-) y (for -ii-) r s š z ž h xᵛ</bb> .</p>
+            </div>
+
+            <div class="well">
+                <div style="padding-left:16px;display:none">
+                    <button type="button" class="btn btn-info">Search by Lemma</button>
+                    <button type="button" class="btn btn-primary">Search plain text</button>
+                </div>
+                <div class="search container" style="width:100% !important">
+                    <form class="form form-horizontal">
+                        <div class="well well-sm">
+                                   <div class="form-group is-empty">
+                                      <div class="col-md-12 col-xs-12">
+                                         <span class="input-group" style="width: 100% !important">
+                                         <input id="aiwquery" name="aiwquery" class="templates:form-control form-control typeahead-search" placeholder="Search by lemma" autocomplete="off" type="search"/>
+                                         <span class="input-group-btn">
+                                         </span>
+                                         </span>
+                                         <input name="field" value="text" type="hidden"/>
+                                      </div>
+                                   <span class="material-input"/>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                
+                <div class="search container" style="width:100% !important; display:none">
+                    <form class="form form-horizontal">
+                        <div class="well well-sm">
+                                   <div class="form-group is-empty">
+                                      <div class="col-md-12 col-xs-12">
+                                         <span class="input-group" style="width: 100% !important">
+                                         <input id="textquery" name="textquery" class="templates:form-control form-control typeahead-search" placeholder="Search plain text" autocomplete="off" type="search"/>
+                                         <span class="input-group-btn">
+                                         </span>
+                                         </span>
+                                         <input name="field" value="text" type="hidden"/>
+                                      </div>
+                                   <span class="material-input"/>
+                            </div>
+                        </div>
+                    </form>
+                </div>                
+            </div>
+
+        </div>
+
+
+    </div>
+    <div class="the_footer ceremony_footer">
+        <p id="back_to_top" class="footer_text footer_add">
+            <a href="#home" class="menu_nav_button">
+                <span class=" glyphicon glyphicon-chevron-up "/> Back to top
+            </a>
+        </p>
+            <p class="footer_text">
+                Corpus Avesticum Berolinense CC  
+                <script>document.write(new Date().getFullYear())</script>
+                – <a class="disclaimer_link" href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/pages/misc/disclaimer.html">Disclaimer</a>
+            </p>
+    </div>
+</div>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns:i18n="http://exist-db.org/xquery/i18n" data-template="templates:surround" data-template-with="templates/page_database.html" data-template-at="content">
+<div class="main-body" data-template="templates:include" data-template-path="templates/menu.html"/>
+    <div class="cover_simple">
+                    <div class="sticky-menu">
+                        <div class="app:navig_menu"/>
+                    </div>
+        
+        <div class="row">
+           <div id="cerem_title">
+              <h5 class="nav-title-lower">Manuscript Database</h5>
+           </div>
+        </div>
+        
+        <div id="main_tei" class="col-lg-12" style="text-align:center;padding-top:10px">
+            <a href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/pages/about/sigla.html" id="liturgy_metadata" class="bring_menu" target="_blank">
+                <span class="glyphicon glyphicon-book how_to_menu"/> Manuscript Sigla in CAB
+            </a>  
+        </div>             
+        
+        <div id="database_space">
+            <div class="database_paragraph">
+                <div id="selector_one_full" class="col_option col-lg-12">
+                    <div id="selector_one" class="col_option col-lg-4">
+                        <label class="label-general">(#1) Search by: </label>
+                            <select id="get-condition_one" name="get-condition_one" class="form-control">
+                                <option value="-1" default="true"/>
+                            </select>
+                    </div>
+                    <div id="selector-options_one" class="col_option col-lg-8"/>
+                </div>
+                <br/>
+                <div id="selector_two_full" class="col_option col-lg-12" style="display:none">
+                    <div id="selector_two" class="col_option col-lg-4">
+                        <label class="label-ceremony label-general">(#2) Then filter by: </label>
+                            <select id="get-condition_two" name="get-condition_two" class="form-control">
+                                <option value="-1" default="true"/>
+                            </select>
+                    </div>
+                    <div id="selector-options_two" class="col_option col-lg-8"/>
+                    
+                </div>
+                <br/>
+                <div id="selector_three_full" class="col_option col-lg-12" style="display:none">
+                    <div id="selector_three" class="col_option col-lg-4">
+                        <label class="label-ceremony label-general">(#3) And also by: </label>
+                            <select id="get-condition_three" name="get-condition_three" class="form-control">
+                                <option value="-1" default="true"/>
+                            </select>
+                    </div>
+                    <div id="selector-options_three" class="col_option col-lg-8"/>
+                </div>
+            </div>
+            <br/>
+            <div class="database_paragraph">
+                <div class="col_option col-lg-12">
+                 <div class="col_option col-lg-12">
+                    <p>
+                        Number of results: <b id="man_results"/>
+                    </p>
+                    <p id="actualizing-db" style="display:none;text-align:center">
+                        Actualizing Database <i class="fa fa-circle-o-notch fa-spin"/>
+                      
+                    </p>
+                 </div>
+                </div>
+            </div>
+    
+            <div class="database_paragraph">
+                <div id="man-db-list" class="col_option col-lg-12">
+                    <div style="text-align:center; padding-bottom:40px">
+                        <ul class="pagination"/>
+                        <div class="nav">
+                        </div>
+                    </div>            
+                    <div id="full_database">
+                        <div style="text-align:center;padding-bottom:40px;margin-top:-50px">
+                                <p>
+                                    Populating Manuscript Database <br/>
+                                    (This can take anywhere between 5 and 15 seconds)
+                                </p>
+                                <p style="font-size:20px">
+                                    <i class="fa fa-circle-o-notch fa-spin"/>
+                                </p>
+                                  
+                        </div>
+                        <div class="app:short_db"/>
+                    </div>
+                    <div style="text-align:center; padding-top:20px; padding-bottom:80px">
+                        <div class="nav">
+                        </div> 
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+        <div class="the_footer ceremony_footer">
+            <p id="back_to_top" class="footer_text footer_add">
+                <a href="#man-db-list" class="menu_nav_button">
+                    <span class=" glyphicon glyphicon-chevron-up "/> Back to top
+                </a>
+            </p>
+            <p class="footer_text">
+                Corpus Avesticum Berolinense CC  
+                <script>document.write(new Date().getFullYear())</script>
+                – <a class="disclaimer_link" href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/pages/misc/disclaimer.html">Disclaimer</a>
+            </p>
+        </div>
+    </div>
+</div>

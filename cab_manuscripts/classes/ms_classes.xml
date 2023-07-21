@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text>
+<msclass id="YS">Yasna S.</msclass>
+<msclass id="YiRS">Yasna ī Rapiϑwin S.</msclass>
+<msclass id="YCom">Combined Yasna</msclass>
+<msclass id="YP">Pahlavi yasna</msclass>
+<msclass id="YSkt">Sanskrit Yasna</msclass>
+<msclass id="YTri">Trilingual Yasna</msclass>
+<msclass id="VrS">Visperad S.</msclass>
+<msclass id="VrP">Pahlavi Visperad</msclass>
+<msclass id="VS">Vidēvdād S.</msclass>
+<msclass id="VP">Vidēvdād P.</msclass>
+<msclass id="VGuj">Vidēvdād Guj.</msclass>
+<msclass id="VTri">Trilingual Vidēvdād</msclass>
+<msclass id="VytS">Vištāsp Yašt S.</msclass>
+<msclass id="VytP">Vištāsp Yašt P.</msclass>
+<msclass id="VytFr">Vīštāsp fragards</msclass>
+<msclass id="XAS_Av" sigla="6000_6499">XA Sade Avestan</msclass>
+<msclass id="TXA" sigla="6500_6799">Niyāyeš-Yašt</msclass>
+<msclass id="XAS_PerTranscrip" sigla="6800_6999">XA Sade Avestan NP script</msclass>
+    <msclass id="XAPahl" sigla="7000_7249">XA PahlTr</msclass>
+<msclass id="XAPer" sigla="7250_7499">XA NPTr</msclass>
+<msclass id="XASkt" sigla="7500_7749">XA SktTr</msclass>
+<msclass id="XAGuj" sigla="7750_7999">XA GujTr</msclass>
+<msclass id="Yt_XA" sigla="8000_8499">XA with Yt</msclass>
+<msclass id="Yt" sigla="8500_8999">Yt-Mss</msclass>
+<msclass id="XA_Anthol" sigla="9000-9749">Anthological mss. of XA texts</msclass>
+<msclass id="Anthol" sigla="9750_9999">Anthological mss. of different nature, including XA texts</msclass>
+<msclass id="Baj_Dron" sigla="1000_1999">Bāj/Drōn (Bāj–Dharnū) </msclass>
+<msclass id="Faroxsi" sigla="3000_3999">Faroxši mss.</msclass>
+</text>

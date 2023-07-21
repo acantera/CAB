@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns:i18n="http://exist-db.org/xquery/i18n" data-template="templates:surround" data-template-with="templates/page_tei_static.html" data-template-at="content">
+<div class="main-body" data-template="templates:include" data-template-path="templates/menu.html"/>
+    <div class="cover_simple">
+                    <div class="sticky-menu">
+                        <div class="app:navig_menu"/>
+                    </div>
+        
+
+        <div class="indiv_paragraph indiv_paragraph_extra">     
+            <div style="padding-top:80px;padding-bottom:40px">   
+                <div class="stanza_paragraph entry_apparatus">
+                    <div class="app:get_static_search"/>
+                </div>
+            </div>
+        
+        </div>
+    
+        <div class="row">
+            <div id="modalword" title="Word" style="display:none">
+                <div id="word-modal" class="modal-body">
+                    <p>Retrieving word information <i class="fa fa-circle-o-notch fa-spin"/>
+                        </p>
+                </div>
+            </div>  
+        </div>    
+    
+        <div class="the_footer ceremony_footer">
+            <p id="back_to_top" class="footer_text footer_add">
+                <a href="#home" class="menu_nav_button">
+                    <span class=" glyphicon glyphicon-chevron-up "/> Back to top
+                </a>
+            </p>    
+            <p class="footer_text">
+                Corpus Avesticum Berolinense CC  
+                <script>document.write(new Date().getFullYear())</script>
+                – <a class="disclaimer_link" href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/pages/misc/disclaimer.html">Disclaimer</a>
+            </p>
+    </div>
+    </div>
+    <script type="text/javascript">
+    $(document).ready(function(){    
+        
+        var $link = "";
+        var $word  = $.urlParam( 'word' );
+        var $param = $.urlParam( 'param' );
+
+        $link = $link.concat( "https://cab.geschkult.fu-berlin.de/exist/apps/cab/modules/static_search.xql?word=", $word, "&amp;param=", $param );
+    
+        var $result = '';
+    
+        $.ajax({
+                    
+            url: $link,
+            async: false,
+            success: function( data ) {
+                var $val_data = xmlToString(data);
+                $( '#search_result' ).html( $val_data );         
+            },
+            
+            type: "GET",
+            processData: false,  // tell jQuery not to process the data
+            contentType: false   // tell jQuery not to set contentType
+                       
+        }).done(function( data ) {
+                console.log( data );
+        });
+     
+    });    
+    </script>
+</div>

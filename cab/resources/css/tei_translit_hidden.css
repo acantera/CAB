@@ -1,0 +1,227 @@
+supplied[source="Secunda manu"] {
+     text-decoration: underline;
+}
+
+supplied[source="secunda manu"] {
+     text-decoration: underline;
+}
+
+gap[unit="word"]:before {
+    content: "[ _______ ]";
+}
+
+gap[unit="char"][extent="1"]:before {
+    content: "[ . ]";
+}
+
+gap[unit="line"][extent="1"]:before {
+    content: "[ _ ]";
+}
+
+gap[unit="char"][extent="2"]:before {
+    content: "[ .. ]";
+}
+
+gap[unit="line"][extent="2"]:before {
+    content: "[ __ ]";
+}
+
+gap[unit="char"][extent="3"]:before {
+    content: "[ ... ]";
+}
+
+gap[unit="line"][extent="3"]:before {
+    content: "[ ___ ]";
+}
+
+
+gap[unit="char"][extent="4"]:before {
+    content: "[ .... ]";
+}
+
+gap[unit="line"][extent="4"]:before {
+    content: "[ ____ ]";
+}
+
+gap[unit="char"][extent="5"]:before {
+    content: "[ ..... ]";
+}
+
+gap[unit="line"][extent="5"]:before {
+    content: "[ _____ ]";
+}
+
+
+gap[unit="char"][extent="6"]:before {
+    content: "[ ...... ]";
+}
+
+gap[unit="line"][extent="6"]:before {
+    content: "[ ______ ]";
+}
+
+gap[unit="char"][extent="7"]:before {
+    content: "[ ....... ]";
+}
+
+gap[unit="line"][extent="7"]:before {
+    content: "[ _______ ]";
+}
+
+gap[unit="char"][extent="8"]:before {
+    content: "[ ........ ]";
+}
+
+gap[unit="line"][extent="8"]:before {
+    content: "[ ________ ]";
+}
+
+gap[unit="char"][extent="9"]:before {
+    content: "[ ......... ]";
+}
+
+gap[unit="line"][extent="9"]:before {
+    content: "[ _________ ]";
+}
+
+gap[unit="char"][extent="10"]:before {
+    content: "[ .......... ]";
+}
+
+gap[unit="line"][extent="10"]:before {
+    content: "[ __________ ]";
+}
+
+#manuscript_box {
+    background-color:#f3f0e3; 
+    box-shadow: 5px 5px #436278;
+    color:#262626;
+    margin-top:40px;
+    padding:10px;
+    line-height: 2;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+}
+
+#manuscript_viewer {
+    padding: 10px;
+}
+
+#manuscript_viewer div[type="stanza"] {
+    display: inline;
+}
+
+#manuscript_viewer ab {
+    display: inline !important;
+    line-height: 2;
+    font-family: "Helvetica Neue";
+    font-size: 14px;
+}
+
+
+#manuscript_viewer lb {
+    display: block !important;
+}
+
+#manuscript_viewer lb:before{
+    content: " ";
+}
+
+#manuscript_viewer lb[break ="no"]:before{
+    content: "";
+}
+
+#manuscript_viewer lb[break="no"] {
+/*  display: block !important;*/
+}
+
+#manuscript_viewer seg[rend="red"] {
+    color: #c94c2d;
+}
+
+#manuscript_viewer ab[rend="red"] {
+    color: #c94c2d;    
+}
+
+#manuscript_viewer foreign[rend="red"] {
+    color: #c94c2d;
+}
+
+#manuscript_viewer abbr    {
+    color: #1600a3;   
+}
+
+#manuscript_viewer pb[break ="no"]:before{
+    content: "";
+}
+
+#manuscript_viewer pb::after {
+ content: "";   
+}
+
+#manuscript_viewer seg[type="1"]   {
+    text-decoration: line-through !important;
+}
+
+#manuscript_viewer ab[xml\:lang = 'Skt'] {
+    display: none !important;  
+    color: #c94c2d;
+}
+
+#manuscript_viewer ab[xml\:lang = 'Guj'] {
+    display: none !important;  
+    color: #c94c2d;
+}
+
+#manuscript_viewer ab[xml\:lang = 'Pahl'][n *= "Nerang"]    {
+    display: inline !important;
+    color: #c94c2d;
+}
+
+#manuscript_viewer ab[xml\:lang = 'Pahl'][n != "Nerang"]    {
+    display: inline !important;
+    color: #c94c2d;
+}
+
+#manuscript_viewer ab[xml\:lang = 'Pers'] {
+   /* display: none !important;  */
+   color: #c94c2d;
+}
+
+#manuscript_viewer ab[xml\:lang = 'PazPahl'] {
+  /*    display: none !important; */
+  color: #c94c2d;
+}
+
+#manuscript_viewer lb {
+    display: inline !important;
+}
+
+#manuscript_viewer lb[break="no"] {
+  display: inline !important;
+}
+
+#manuscript_viewer rdg seg[type= '1' ] {
+  display: none !important;
+}
+
+#manuscript_viewer rdg seg[type= '2' ]   {
+  display: none !important;
+}
+
+#manuscript_viewer rdg[type= "orig" ]   {
+  text-decoration: line-through !important;
+}
+
+#manuscript_viewer rdg[type= "mod" ]   {
+  display: none !important;
+}
+
+#box_correct {
+    display: none;
+    position: absolute;
+    background-color: #122e4b;
+    color: #fff;
+    padding:10px;
+    border-radius: 10px;
+}

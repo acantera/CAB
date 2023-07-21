@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns:i18n="http://exist-db.org/xquery/i18n" data-template="templates:surround" data-template-with="templates/page_stanza_focus.html" data-template-at="content">
+<div class="main-body" data-template="templates:include" data-template-path="templates/menu.html"/>
+    <div class="cover_simple">
+                    <div class="sticky-menu">
+                        <div class="app:navig_menu"/>
+                    </div>
+        
+        <div class="row">
+           <div style="height:10px;padding-top:80px;">
+           </div>
+        </div>
+        
+        <div class="row">
+           <div class="stanza_paragraph">
+                <div class="app_stanza:get_stanza_focus"/>
+           </div>
+            <div id="modalword" title="Word" style="display:none">
+                <div id="word-modal" class="modal-body">
+                    <p>Retrieving word information <i class="fa fa-circle-o-notch fa-spin"/>
+                        </p>
+                </div>
+            </div>  
+            <div id="modalbiblio" title="Full Bibliographical Reference" style="display:none">
+                <div id="biblio-modal" class="modal-body">
+                    <p>Retrieving bibliographical reference <i class="fa fa-circle-o-notch fa-spin"/>
+                        </p>
+                </div>
+            </div>              
+        </div>
+        
+    </div>
+    <div class="the_footer ceremony_footer">
+        <p class="footer_text">
+            Corpus Avesticum Berolinense CC  
+            <script>document.write(new Date().getFullYear())</script>
+        </p>
+    </div>
+</div>

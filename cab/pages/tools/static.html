@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns:i18n="http://exist-db.org/xquery/i18n" data-template="templates:surround" data-template-with="templates/page.html" data-template-at="content">
+<div class="main-body" data-template="templates:include" data-template-path="templates/menu.html"/>
+    <div id="cver" class="cover_static">
+    <div class="cover-overlay">
+                    <div class="sticky-menu">
+                        <div class="app:navig_menu"/>
+                    </div>
+        
+        <section class="container-fluid">
+            <div ng-view="" class="ng-scope">
+                <div id="myCarousel" class="carousel slide ng-scope" data-ride="carousel" style="padding-top:80px;">
+                       <h5 class="nav-title nav-style">Static</h5>
+                       <h5 class="nav-title nav-style">Ceremonies</h5>
+                       <!-- Indicators -->
+                       <ol class="carousel-indicators">
+                          <li data-target="#myCarousel" data-slide-to="0" class="active"/>
+                          <li data-target="#myCarousel" data-slide-to="1"/>
+                          <li data-target="#myCarousel" data-slide-to="2"/>
+                          <li data-target="#myCarousel" data-slide-to="3"/>
+                          <li data-target="#myCarousel" data-slide-to="4"/>
+                          <li data-target="#myCarousel" data-slide-to="5"/>
+                          <li data-target="#myCarousel" data-slide-to="6"/>
+                       </ol>
+                       <div class="carousel-inner" role="listbox">
+                          <div id="dron" class="item active">
+                             <div class="thumbnail-item new-slide">
+                              </div>
+                             <div class="container">
+                                <div class="carousel-caption">
+                                   <a href="static_ceremony.html?ceremony=dron" class="carousel-link">
+                                      <h1 class="carousel_subtitle">Dron Yasht</h1>
+                                   </a>
+                                   <p/>
+                                </div>
+                             </div>
+                          </div>
+                          <div id="rapithwin" class="item">
+                             <div class="thumbnail-item new-slide">
+                             </div>
+                             <div class="container">
+                                <div class="carousel-caption">
+                                   <a href="static_ceremony.html?ceremony=yasnar" class="carousel-link">
+                                      <h1 class="carousel_subtitle">Yasna Rapithwin</h1>
+                                   </a>
+                                   <p/>
+                                </div>
+                             </div>
+                          </div>
+                          <div id="yasna" class="item">
+                             <div class="thumbnail-item new-slide">
+                             </div>
+                             <div class="container">
+                                <div class="carousel-caption">
+                                   <a href="static_ceremony.html?ceremony=yasna" class="carousel-link">
+                                      <h1 class="carousel_subtitle">Yasna</h1>
+                                   </a>
+                                   <p/>
+                                </div>
+                             </div>
+                          </div>
+                          <div id="visperad" class="item">
+                             <div class="thumbnail-item new-slide">
+                             </div>
+                             <div class="container">
+                                <div class="carousel-caption">
+                                   <a href="static_ceremony.html?ceremony=visperad" class="carousel-link">
+                                      <h1 class="carousel_subtitle">Visperad</h1>
+                                   </a>
+                                   <p/>
+                                </div>
+                             </div>
+                          </div>   
+                          <div id="visperad-dh" class="item">
+                             <div class="thumbnail-item new-slide">
+                             </div>
+                             <div class="container">
+                                <div class="carousel-caption">
+                                   <a href="static_ceremony.html?ceremony=visperad-dh" class="carousel-link">
+                                      <h1 class="carousel_subtitle">Visperad Do-Homast</h1>
+                                   </a>
+                                   <p/>
+                                </div>
+                             </div>
+                          </div>   
+                          <div id="videvdad" class="item">
+                             <div class="thumbnail-item new-slide">
+                             </div>
+                             <div class="container">
+                                <div class="carousel-caption">
+                                   <a href="static_ceremony.html?ceremony=videvdad" class="carousel-link">
+                                      <h1 class="carousel_subtitle">Videvdad</h1>
+                                   </a>
+                                   <p/>
+                                </div>
+                             </div>
+                          </div>
+                          <div id="vishtasp" class="item">
+                             <div class="thumbnail-item new-slide">
+                             </div>
+                             <div class="container">
+                                <div class="carousel-caption">
+                                   <a href="static_ceremony.html?ceremony=vishtasp" class="carousel-link">
+                                      <h1 class="carousel_subtitle">Vishtasp Yasht</h1>
+                                   </a>
+                                   <p/>
+                                </div>
+                             </div>
+                          </div>
+                       </div>
+                       <span class="left carousel-control carousel_control_overwrite control_carousel" data-target="#myCarousel" onclick="ChangeBackground(-1)" role="button" data-slide="prev">
+                       <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"/>
+                       <span class="sr-only">Previous</span>
+                       </span>
+                       <span class="right carousel-control carousel_control_overwrite control_carousel" data-target="#myCarousel" onclick="ChangeBackground(+1)" role="button" data-slide="next">
+                       <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"/>
+                       <span class="sr-only">Next</span>
+                       </span>
+                    </div>
+                </div>
+           </section>
+    
+        <div class="indiv_paragraph" style="padddin-bottom:10px !important;">
+            <h2 class="nav-title_paragraph">A Static Representation of the Liturgies</h2>
+            <p class="text_paragraph">The “static” versions of the ceremonies will display each single ritual as it was performed in a concrete context (a particular day or month). This is the way in which they appear in the canonical editions.</p>
+            
+            <p class="text_paragraph">To date, no single edition of Avestan texts has taken into consideration the actual context of the Zoroastrian ceremonies; their successive editors (Spiegel, Westergaard, and Geldner) delivered these texts deprived from their ritual contexts and from the performative information that accompanies them in the manuscripts.</p> 
+            
+            <p class="text_paragraph">By contrast, <a href="https://ada.geschkult.fu-berlin.de/exist/apps/cab/ceremony_generator.html">CAB</a> will include the performative information found in the manuscripts and in the meta-ritual literature.</p>
+
+            <br/>
+
+            <h2 class="nav-title_paragraph">Search in Statics</h2>
+            <p class="text_paragraph">Search for any occurence of a word or paragraph or structure inside the six canonical ceremonies:</p>
+            <div class="well">
+                <div class="search container" style="width:100% !important;height:auto">
+                    <form class="form form-horizontal">
+                        <div class="well well-sm">
+                                   <div class="form-group is-empty">
+                                      <div class="col-md-12 col-xs-12">
+                                         <span class="input-group" style="width: 100% !important">
+                                         <input id="staticquery" name="staticquery" class="templates:form-control form-control typeahead-search" placeholder="Search" autocomplete="off" type="search" style="float:left;width:90%"/>
+                                         <button id="searchBut" type="button" class="btn btn-success" style="float:right;width:10%">Search</button>
+                                         <span class="input-group-btn">
+                                         </span>
+                                         </span>
+                                         <input name="field" value="text" type="hidden"/>
+                                      </div>
+                                   <span class="material-input"/>
+                            </div>
+                        </div>
+                    </form>
+                    <button type="button" id="checkall" class="btn btn-warning">(Un) Check All</button>
+                    <input type="checkbox" id="checkDron" style="margin-left:10px" value="0"/>
+                    <label for="scales">Dron</label>
+                    <input type="checkbox" id="checkYR" style="margin-left:10px" value="0"/>
+                    <label for="scales">Yasna  Rapithwin</label>
+                    <input type="checkbox" id="checkY" style="margin-left:10px" value="1" checked="true"/>
+                    <label for="scales">Yasna</label> 
+                    <input type="checkbox" id="checkVrS" style="margin-left:10px" value="0"/>
+                    <label for="scales">Visperad</label>     
+                    <input type="checkbox" id="checkVS" style="margin-left:10px" value="0"/>
+                    <label for="scales">Videvdad</label>     
+                    <input type="checkbox" id="checkVyt" style="margin-left:10px" value="0"/>
+                    <label for="scales">Vishtasp Yasht</label>
+                    <input type="checkbox" id="checkKhordeh" style="margin-left:10px" value="0"/>
+                    <label for="scales">Khordeh Avesta*</label>
+                    <input type="checkbox" id="checkBlocks" style="margin-left:10px" value="0"/>
+                    <label for="scales">Other fragments</label>    
+                </div>
+                <div class="search container" style="width:100% !important;height:auto">
+                        <div class="well well-sm">
+                            <div>* This does not include generic blocks (like <i>ašəm vohu</i> or sections dedicated to the <i>gāh</i>, <i>rōz</i>, or <i>māh</i>), which fall under the "Other fragments" category.</div>
+                        </div>
+                </div>
+            </div>            
+            
+            <br/>
+            
+            <div class="alert alert-warning" role="alert">
+                <p>The Avestan alphabet (in order): <bb>a ā ā̊ ą ə ǝ̄ e ē o ō i ī u ū k x x́ x<sup>v</sup> g γ c j t ϑ d δ t̰ p f b β ŋ ŋ́ ŋ<sup>v</sup> n ṇ ń m y/ii v/uu r s z š ṣ̌ š ́ h</bb> .</p>
+            </div>            
+            
+        </div>
+
+        <!-- Error message -->
+        <div class="modal" id="error-message">
+         <div class="modal-dialog">
+          <div class="modal-content error-modal">
+                <div class="modal-body">
+                    <p id="error-text">
+                        Error
+                    </p>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-success error-button" data-dismiss="modal">Close</button>
+                </div>
+          </div>
+         </div>
+        </div>
+
+        <div class="the_footer">
+            <p class="footer_text">
+                Corpus Avesticum Berolinense CC  
+                <script>document.write(new Date().getFullYear())</script>
+                – <a class="disclaimer_link" href="https://cab.geschkult.fu-berlin.de/exist/apps/cab/pages/misc/disclaimer.html">Disclaimer</a>
+            </p>
+    </div>
+    </div>
+    </div>
+    <script type="text/javascript">
+    $( "#checkall" ).click(function() {
+        if ( $( '#checkDron' ).is(":checked") ) {
+            $( '#checkDron' ).prop( "checked", false );
+            $( '#checkYR' ).prop( "checked", false );
+            $( '#checkY' ).prop( "checked", false );
+            $( '#checkVrS' ).prop( "checked", false );
+            $( '#checkVS' ).prop( "checked", false );
+            $( '#checkVyt' ).prop( "checked", false );
+            $( '#checkBlocks' ).prop( "checked", false );
+        } else {
+            $( '#checkDron' ).prop( "checked", true );
+            $( '#checkYR' ).prop( "checked", true );
+            $( '#checkY' ).prop( "checked", true );
+            $( '#checkVrS' ).prop( "checked", true );
+            $( '#checkVS' ).prop( "checked", true );
+            $( '#checkVyt' ).prop( "checked", true );           
+            $( '#checkBlocks' ).prop( "checked", true ); 
+        }
+    });
+    
+    $( "#searchBut" ).click(function() {
+        var $word = $( "#staticquery" ).val();
+        var $param = "";
+        
+        if ( $( '#checkDron' ).prop('checked')   ) $param += "1"; 
+        if ( $( '#checkYR' ).prop('checked')     ) $param += "2"; 
+        if ( $( '#checkY' ).prop('checked')      ) $param += "3"; 
+        if ( $( '#checkVrS' ).prop('checked')    ) $param += "4"; 
+        if ( $( '#checkVS' ).prop('checked')     ) $param += "5";
+        if ( $( '#checkVyt' ).prop('checked')    ) $param += "6";
+        if ( $( '#checkKhordeh' ).prop('checked')    ) $param += "7";
+        if ( $( '#checkBlocks' ).prop('checked') ) $param += "8";
+    
+        if ( $word.length == 0 ) {
+            custom_alert( "Search field is empty" );
+            return;
+        }
+        
+        if ( $param.length == 0 ) {
+            alert("No ceremony selected")
+            return;
+        }
+    
+        window.open("static_searchresult.html?word=" + $word + "&amp;param=" + $param, '_blank');
+    });
+    
+    $('#myCarousel').bind('slide.bs.carousel', function (e) {
+
+        var $button = $(e.relatedTarget).index();
+        var $dir = 0;
+
+        if (e.direction == 'left') {
+            $dir = 1;
+        } else if (e.direction == 'right' ) {
+            $dir = -1;
+        }
+
+        ChangeBackground( $button, $dir );
+        
+    });
+  
+    function custom_alert( message ) {
+
+        $('#error-text').html( message );
+        $('#error-message').modal('toggle');
+    };    
+    
+    function ChangeBackground($lastIndex, $i)
+    {
+        $currentIndex = $('div.active').index() + $i;
+      
+        if ($lastIndex != $currentIndex ) {
+            $currentIndex = $lastIndex;
+        }
+      
+        if ( $currentIndex &gt; 6 ) {
+            $currentIndex = 0;
+        } else if ( $currentIndex &lt; 0 ) {
+            $currentIndex = 6;
+        }
+        
+        if ( $currentIndex == 0 ) {
+            $('#cver').css("background-image", "url(https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/static/dron_slide.png)");
+            
+        } else if ( $currentIndex == 1 ) {
+            $('#cver').css("background-image", "url(https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/static/yasna_r_slide.png)");
+            
+        } else if ( $currentIndex == 2 ) {
+            $('#cver').css("background-image", "url(https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/static/yasna_slide.png)");
+            
+        } else if ( $currentIndex == 3 ) {
+            $('#cver').css("background-image", "url(https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/static/visperad_slide.png)");
+        
+        } else if ( $currentIndex == 4 ) {
+            $('#cver').css("background-image", "url(https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/static/visperad_slide.png)");
+                        
+        } else if ( $currentIndex == 5 ) {
+            $('#cver').css("background-image", "url(https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/static/videvdad_slide.png)");
+            
+        } else if ( $currentIndex == 6 ) {
+            $('#cver').css("background-image", "url(https://cab.geschkult.fu-berlin.de/exist/apps/cab/images/static/vyt_slide.png)");
+            
+        }
+    };
+    </script>    
+</div>

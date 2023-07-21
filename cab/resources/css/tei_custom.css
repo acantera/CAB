@@ -1,0 +1,220 @@
+/* imports */
+/* @import url("shell.css"); */
+@import url('http://fonts.googleapis.com/css?family=Arvo:400,700,400italic,700italic|Gentium+Book+Basic:400,400italic,700,700italic');
+/* namespaces */
+/* @namespace "http://www.tei-c.org/ns/1.0"; */
+/* @namespace with prefix, as below, throws and error in less. */
+/* @namespace html "http://www.w3.org/1999/xhtml"; */
+/* Less variables */
+.note-like {
+  display: block;
+  margin: 1.5em auto 1.5em auto;
+  padding: .5em 1.5em 1.5em 1.5em;
+  border: 1px solid black;
+  border-radius: 15px;
+  width: 325px;
+  position: relative;
+  border: 1px solid #AAA;
+  background: #FAFAFA;
+  /* reset text-indent for note with <l> ancestors. */
+  text-indent: 0;
+  font-size: 85%;
+  text-align: justify;
+  -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+  -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+}
+
+ab {
+  display: inherit;
+  margin: 0 0 10px;
+  font-family: "Garamond,Baskerville,Baskerville Old Face,Hoefler Text,Times New Roman,serif";
+  font-size: 17px;
+}
+
+#display-viewer-stanza ab {
+    display: block !important;
+}
+
+ab1 {
+  display: block;
+  margin: 0 0 10px;
+  font-family: "Garamond,Baskerville,Baskerville Old Face,Hoefler Text,Times New Roman,serif";
+  font-size: 17px;
+}
+
+ab2 {
+  display: block;
+  margin: 0 0 10px;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+ab_mod {
+  color: #006363;
+}
+
+bibl {
+  cursor: pointer;
+}
+
+#stanza_full {
+    texte-align: justify;
+}
+
+orth {
+    display:block;
+    padding-left:30px;
+}
+
+note {
+    color:#c94c2d;
+    padding-right: 5px;    
+}
+
+emph {
+    font-style: italic;
+}
+
+p {
+    margin: 0 0 0px !important;
+}
+
+.stanza_width {
+ 
+}
+
+.in1line {
+    display:inline;
+    max-width: auto !important;
+}
+
+.in1line-table {
+    display:inline;
+    max-width: auto !important;
+}
+
+.in1lineblock {
+    display:inline;
+    max-width: auto !important;
+}
+
+.in1lineblock-table {
+    display:inline;
+    max-width: auto !important;
+}
+
+.in1lineblock:before { content: ' '; display: block;padding-top:5px; }
+
+.in1lineblock-table:before { content: ' '; display: block;padding-top:5px; }
+
+.in1lineblock_stanza:before { content: ' '; display: block;padding-top:10px; }
+
+.in1lineblock_stanza-table:before { content: ' '; display: block;padding-top:10px; }
+
+.ab_special-table {
+    
+}
+
+.ab_special-table:before {
+    content: ' '; display: block; padding-top:10px;
+}
+
+.div_gen {
+    padding-top: 0.1em;
+    overflow: auto;
+    padding-bottom:25px;
+}
+
+.red {
+    float: left;
+    color:#c94c2d;
+    padding-right: 5px;
+}
+
+.red_nofloat {
+    color:#c94c2d;
+    padding-right: 5px;
+}
+
+.nerang_red {
+    color:#c94c2d;
+}
+
+.header_red {
+    color:#c94c2d;
+}
+
+.frauuarane {
+    float: lgeft;
+    color:#c94c2d;
+    padding-right: 5px;
+    font-size:16px;
+}
+
+.times {
+    padding-left: 250px;
+    position: relative;
+   /* top: -20px; */
+}
+
+.prayer_space {
+    height: 10px;
+}
+
+div > head {
+  font-size: 170%;
+  text-indent: -0.5em;
+}
+div > div > head {
+  font-size: 155%;
+}
+div > div > div > head {
+  font-size: 140%;
+}
+div > div > div > div > head,
+list > head {
+  font-size: 130%;
+}
+div > div > div > div > div > head {
+  font-size: 120%;
+}
+div > div > div > div > div > div head {
+  font-size: 110%;
+}
+
+l {
+  display: block;
+  padding-left: 2em;
+  text-indent: -2em;
+  margin-left: 1em;
+}
+
+list[type="gloss"] > label {
+  display: block;
+  margin-top: 0.25em;
+  margin-bottom: 0.25em;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 1.563em;
+}
+
+.popover {
+    max-width:750px !important;
+
+}
+
+.stanza_width {
+    max-width:65%;   
+}
+
+@font-face {
+    font-family: AvestanFont;
+    src: url(avestan.otf) format("opentype");
+}
+
+ab[type=prayer] {
+    margin: 0 0 0 0;
+}
