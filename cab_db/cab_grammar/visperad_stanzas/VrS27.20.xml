@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS27.20" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y24.14" xml:id="VrS27.20">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS13.20a" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat3.1" on_line="in1line"/>
+      <!-- In sequence after DVrS27.19 -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS13.20b" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS13.20c" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat3.2" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS13.20d" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS13.20e" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat3.3" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS13.20f" on_line="in1line"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y24.14.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS27.20"/>
+   </translation>
+</text>

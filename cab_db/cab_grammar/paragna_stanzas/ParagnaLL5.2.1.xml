@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL5.2.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="1" xml:id="ParagnaLL5.2.1">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL5.2.1 Var. a (Mss. K7, RJ):</ab>
+            <ab class="ab_indent">
+                avval se serešk u zamin duḫtan <em>aṣ̌a.sara manaŋha</em> miguyad šir u ǧāmdān midušad digar <em>aṣ̌a.sara vacaŋha</em> miguyad šir u ǧāmdān midušad digar <em>aṣ̌a.sara š́iiaoθəna</em> 
+                miguyad ǧām andar ǧāmdān midušad</ab>  
+            <ab class="ab_indent">
+                "First, he should milk three drops onto the earth while he says <em>aṣ̌a.sara manaŋha</em>. He says further <em>aṣ̌a.sara vacaŋha</em> and milks milk into the ǧāmdān. He 
+                further says <em>aṣ̌a.sara š́iiaoθəna</em> and milks the <em>ǰīwām</em> into the <em>ǰīwāmdān</em>."</ab>
+            
+            <ab>ParagnaLL5.2.1 Var. b (Ms. K36):</ab>
+            <ab class="ab_indent">
+                va pas <em>aṣ̌a</em> andak-i dušad <em>sara</em> andak-i dušad <em>manaŋha</em> andak-i dušad <em>aṣ̌a</em> andak-i dušad <em>sara</em> andak-i dušad <em>vacaŋha</em> 
+                andak-i dušad <em>aṣ̌a</em> andak-i dušad <em>sara.š́iiaōθna</em> inǧā har čand ke ḫᵛāhad be-dušad va be-hamān peštān ke avval dušide ke wāǧ gerefte andak-i dušad 
+                <em>aṣ̌a.sara manaŋha</em> ke guyad hamā gav yā gusfand be negarad va be har vāǧe yek duš be-dušad tā sar-e u āḫer pas har čandān ke ḫᵛāhad be-dušad va pas be-ān pestān
+                ke vāǧ gerefte be āḫer az ān pestān ǧodā nakonad va guyad <em>š́iiaōθna</em> va dast bar hamān pestān ǧodā nakonad</ab>
+            <ab class="ab_indent">
+                "Then, he milks a drop at <em>aṣ̌a</em>; he milks a drop at <em>sara</em>. He milks a drop at <em>manaŋha</em>. He milks a drop at <em>aṣ̌a</em>. He milks a drop at 
+                <em>aṣ̌a</em>. He milks a drop at <em>vacaŋha</em>. He milks a drop at <em>aṣ̌a</em> (and continues with) <em>sara.š́iiaōθna</em>. Now, he milks a furtehr drop so 
+                many times as he wants from the same udder from which he milked when they took the <em>wāz</em>. When he milks while he says <em>aṣ̌a.sara manaŋha</em>, he looks 
+                at the cow or sheep and at each word he milks once until it has no more milk. Then he milks as much as he wants (from other udder), but at the end he does not separate his hand
+                from the udder at which he took the <em>vāǧ</em> and he says <em>š́iiaōθna</em> without removing the hand from this very same udder."</ab>
+        </Nerangs>
+        
+        <Quotations id="ritualQuotations">
+            <ab>N49.14-5 (Mss. K7, RJ):</ab>
+            <ab class="ab_indent">
+                u-š <em>aṣ̌a.sara manaŋha</em> be gōwišn u-š hamē gōspand be āyēd <em>aṣ̌a.sara vacaŋha aṣ̌a.sara š́iiaōθana</em> ka abestāg wēš gōwēd jīw kam gīrēd ā nē šāyēd ka kam
+                gōwēd ud wēš gīrēd ā nē šāyēd ka-š tanuk-ā-tanuk pad dōšišn andar ōftēd ā šāyēd ka 'mōy tāg pad kanišn andar ōftēd ā šāyēd ka-š rēš-ē pad *ōy pestān ka abāg dast be āyēd ā šāyēd</ab> 
+            <ab class="ab_indent">
+                "He has to say <em>aṣ̌a.sara manaŋha</em> and he goes to the animal. (Then he continues with) <em>aṣ̌a.sara vacaŋha aṣ̌a.sara š́iiaōθana</em>. When he says more <em>abestāg</em> 
+                or takes less <em>ǰīwām</em>, this is not allowed. When while milking, (the milk) falls in very thin squirts, this is allowed. If a hair falls on him while pressing (the udders), it is
+                allowed. If there is hair in the breasts, it is allowed, when it can be removed with the hand."</ab>
+        </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL5.2.1"/>
+    </translation>
+</text>

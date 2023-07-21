@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y6.5" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y6.5">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY5.1" on_line="in1lineblock"/>
+      <!-- Sequence after Y6.4 -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY6.5a" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY5.2" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY6.5b" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY5.3" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY6.5c" on_line="in1line"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y6.3.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y6.5c <em>hutāštəm</em>] sec Redard; Geldner, Kellens <em>hutaštəm</em>, cf. Y1.6 <em>hutāštahe</em>, cf. <em>hąm.tāšta-</em> vs. <em>tašta-</em>.</ab>
+         <ab>Y6.5c <em>vanaiṇtīmca uparatātəm yazamaide</em>] add. post. <em>ẏąmca arštōiš ẏazatahe</em> mss. 672, 677. Cf. Y57.48 <em>vanaiṇtīmca uparatātəm yazamaide yąmca sraōšahe aṣ̌iiehe yąmca arštōiš yazamaide</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>Y6.5 = Y17.5, Y59.5, VrS81.5; ≈ Y1.6, Y2.6, Y3.8, Y4.11, Y7.9, Y22.9, Y24.16, Y66.6, VrS78.18, VrS79.11, VrS82.6.</ab>
+      <ab>
+         <em>aməmca hutaštəm huraōδəm yazamaide vərəϑraγnəca ahuraδātəm yazamaide vanaiṇtīmca uparatātəm yazamaide</em>; ~ VrS1.14, VrS25.16, VrS27.30, VrS90.14. <em>vərəϑraγnahe ahuraδātahe vanaiṇtiiā̊sca uparatātō</em>;
+         ~ VrS2.16, VrS17.15, VrS77.15 ~ <em>vərəϑraγnəm ahuraδātəm ... vanaiṇtīmca uparatātəm</em>; ~ Y16.5, Y59.29 <em>vərəϑraγnəm ahuraδātəm yazamaide</em>
+      </ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY6.5"/>
+   <include type="W" corresp="WTrY6.5"/>
+        <include type="K" corresp="KTrY6.5"/>
+        <include type="D" corresp="DTrY6.5"/>
+    </translation>
+</text>

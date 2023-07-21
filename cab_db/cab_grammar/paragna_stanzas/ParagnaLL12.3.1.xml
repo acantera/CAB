@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL12.3.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="1" xml:id="ParagnaLL12.3.1">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL12.3.1 Var. a (Ms. K7):</ab>
+            <ab class="ab_indent">
+                <em>aməṣ̌ā spəṇtā huxšaϑrā huδā̊ŋhō yaz</em> hāvan-e rāst be-naheš <em>iməm haōməm aṣ̌aiia uzadātąm yaz</em> hum va urvarān andar hāvan nahādan <em>imąmca uruuarąm
+                    haδānaēpatąm aṣ̌aiia uzdātąm yazamaide</em></ab> 
+            <ab class="ab_indent">
+                "(He should recite) <em>aməṣ̌ā spəṇtā huxšaϑrā huδā̊ŋhō</em>, turn the <em>hāvan</em> upright, (continue with) <em>iməm haōməm aṣ̌aiia uzadātąm yaz</em>, put the 
+                <em>hum</em> and <em>urvarān</em> in the <em>hāvan</em> (and continue again with) <em>imąmca uruuarąmca haδānaēpatąm aṣ̌aiia uzdātąm yazamaide</em>."</ab>
+
+            <ab>ParagnaLL12.3.1 Var. b (Mss. K7, RJ):</ab>
+            <ab class="ab_indent">
+                <em>aməṣ̌ā spəṇtā huxšaϑrā huδā̊ŋhō yaz</em> hāvan av āǧ vardinešn <em>iməm haōməm</em> hum va urvarām andar konešn <em>aṣ̌aiia uzadātąm y</em> </ab>
+            <ab class="ab_indent">
+                "At <em>aməṣ̌ā spəṇtā huxšaϑrā huδā̊ŋhō</em> he should turn the <em>hāvan</em> upright. At <em>iməm haōməm</em> he should put <em>hum</em> and <em>urvarām</em> 
+                inside (the <em>hāvan</em> and continue with) <em>aṣ̌aiia uzadātąm y</em>."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL12.3.1"/>
+    </translation>
+</text>

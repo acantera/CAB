@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS24.2" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS24.2" quote="Y51.23, Y51.24a">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS10.0a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS10.0b"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS10.0c"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS10.0d"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. VrS24.1.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS24.2 quotes Y51.22, Y51.23a; = Y15.2, Y63.4, Y65.16, Y69.3, VrS11.30, VrS31.7, VrS42.2, VrS65.2, VrS75.2, VrS87.4, VrS89.16, VrS93.2, DoHom1.2; ~ Y69.1, Y69.2, VrS78.2.</ab>
+      <ab>VrS24.2-11  (<em>srōš barišnīh</em>) ~ VrS11.30-32, VrS15.2-4, VrS31.7-10, VrS42.2-9, VrS65.2-9, VrS75.2-9, VrS87.4-6, VrS89.16-20, VrS93.2-4.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS24.2"/>
+   </translation>
+</text>

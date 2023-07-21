@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS7.7" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VVrS7.7">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VS7.2"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. VVrS7.6.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>VVrS7.7 ≈ VVrS3.6, VVrS4.9, VVrS6.3, VVrS14.7, VVrS78.16, VVrS79.9, VVrS81.3, VVrS82.4 ; ~ Y1.3, Y2.3, Y3.5, Y4.8, Y6.2, Y7.6, Y17.2, Y22.6, Y24.13, Y59.2, Y66.3, YR1.3, YR2.3, YR3.5, YR4.8, YR6.2, YR7.6, YR17.2, YR22.6, YR24.13,YR59.2, YR66.3, VrS78.15, VrS79.8, VrS81.2, VrS82.3.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS7.7"/>
+   </translation>
+</text>

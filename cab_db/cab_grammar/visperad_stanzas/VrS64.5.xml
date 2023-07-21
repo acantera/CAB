@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS64.5" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS64.5">
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS25.3a"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS25.3b"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS25.3c"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS25.3d"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS25.3e"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS25.3f"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>
+            <em>auuat̰ dasuuarə yazamaide auuat̰ baēšazəm yazamaide auuat̰ fradaϑəm yazamaide</em> = VrS64.6, VrS71.4, VrS71.6; ~ Y9.17 <em>ni dasuuarə nī baēšazəm nī fradaϑəm nī varədaϑəm</em>; 
+         ~ Y55.3 <em>tā dasuuara tā baēšaza tā fradaϑa tā varədaϑa</em>; ~ Y68.2 <em>dasuuarə baēšazāica fradaiϑe varədaϑāica</em>;
+      ~ Y71.18 <em>dasuuarəca baēšazəmca yazamaide fradaϑəmca varədaϑəmca yazamaide</em>; ~ VytS5.6 <em>dasuuarə baēšazəm fradaϑəm varədaϑəm</em>.</ab>
+      <ab>
+            <em>auuat̰ dasuuarə yazamaide auuat̰ baēšazəm yazamaide</em> ~ Y10.7 <em>dasuuarə baēšazəm</em>; ~ Y68.16 <em>dasuuarə baēšaza</em>.</ab>
+     
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS64.5"/>
+   </translation>
+</text>

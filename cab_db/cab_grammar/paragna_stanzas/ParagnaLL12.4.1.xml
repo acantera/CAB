@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL12.4.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="1" xml:id="ParagnaLL12.4.1">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL12.4.1 (Ms. 100):</ab>
+            <ab class="ab_indent">
+                <em>aētaṯ dim vīspanąm</em> daste-ye hāvan az ruy-e sang-e urvis be-dast gereftan <em>mazištəm dazdiiāi ahūmca ratūmca yim ahurəm mazdąm</em> čašm va ruy andar 
+                vāḫtar afšānidan <em>snaϑāi aŋhrahe mainiiə̄uš druuatō</em> yaʾni zanešn b-ahreman druvand <em>snaθāi aešmahe xruuī.draōš</em> čašm va ruy andar avāḫtar afšānidan 
+                yaʾni zaneš be-hišm ḫore-ye vepadraḫš (***?) div dādam <em>snaθāi mazaniianąm daēuuanąm</em> čašm va ruy andar avāḫtar afšānidan yaʾni zaneš be māzanigān divān dādam 
+                <em>snaθāi vīspanąm daēuuanąm</em> čašm va ruy andar avāḫtar afšānidan yaʾni zanešn bā hamān divān dādam <em>varənīnąmca druuatąm</em> daste az ruy-e sang-urvis
+                bar dāštan se bār bar se sān hāvan zadan yekbār az ānsu ke xoršid bar-āyad yeki az ānsuy-e nimruz yeki az ānsuy ke xoršid foru šavad pas daste bar dast negāh dāštan </ab>
+            <ab class="ab_indent">
+                "(He should recite) <em>aētaṯ dim vīspanąm</em>, take in the hand the pestle of the <em>hāvan</em> from the <em>urvis</em>-stone (and continue with) <em>mazištəm 
+                    dazdiiāi ahūmca ratūmca yim ahurəm mazdąm</em>. He should turn his glance and face towards the East (and recite) <em>snaϑāi aŋhrahe mainiiə̄uš druuatō</em> that means, 
+                the striking of the <em>druvand Ahreman</em>. At <em>snaθāi aešmahe xruuī.draōš</em> he should turn his glance and face to the North that means, I stroke the <em>div Hišm</em> 
+                with bloody mace. At <em>snaθāi mazaniianąm daēuuanąm</em> he should (again) turn his glance and face to the North that means, I stroke the <em>divs māzanigān</em>. 
+                At <em>snaθāi vīspanąm daēuuanąm</em> he should turn his glance and face to the North that means, I stroke all <em>divs</em>. At <em>varənīnąmca druuatąm</em> he 
+                should take the pestle from the <em>urvis</em>-stone and hit the <em>hāvan</em> three times and at three sides: once at the side in which the sun goes up, once from the south
+                side and once at the side in which the sun goes down. Then he should keep the pestle in his hand."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL12.4.1"/>
+    </translation>
+</text>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y11.14" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y11.14" quote="Y52.6">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY11.12a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY11.12b"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY11.12c"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y11.13.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y11.14b <em>aṣ̌a.ciϑra</em>] cod.; Geldner, Redard <em>aṣ̌aciϑra</em>.</ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab><em>vasascā tū...</em>] <em>vasasca tī ahura mazda uštāca xšaēša</em> OD <em>druuatō staōiš</em> (Y11.17) 6; <em>vasasca tū ahura mazda</em> OD <em>vīspaiiā̊ druuatō stōiš</em> (Y11.17) 40; <em>vasasca tī ahura mazda</em> OD OL Y <em>druuatō stōiš</em> (Y11.17) 88; <em>vasasca tū ahura mazda</em> OD <em>yā ahūiriš zaraϑuštriš</em> (Y11.16) 234; <em>vasascatū ahurmazda</em> OD <em>rauuasca</em> (Y11.17) 235; <em>vascatū ahuramazda</em> OD LOYŠE <em>vīspaiiā̊ druuatōstōiš</em> (Y11.17) 672.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>Y11.14-17 quotes Y52.6-9; = Y8.8-11, Y68.17-20; ~ Y60.10-12, Y71.29-31 (omit last stanza).</ab>
+      <ab>Y11.14 quotes Y52.6; = Y8.8, Y60.10, Y68.17, Y71.29.</ab>
+         <ab><em>vasō. āpō. vasō. uruuarā̊.</em> ~ Y8.4 <em>yā̊ apasca uruuarā̊</em>; ~ Y9.4 <em>āpa uruuaire</em>; ~  Y18.2, Y51.8, Y65.15 <em>yə̄ gąm tašō apascā uruuarā̊sca</em>; 
+            ~ Y12.12 <em>yā varanā āpō yā varanā uruuarā̊   </em>; Y16.9 ~ <em>yazamaide vīspā̊ āpō yazamaide vīspā uruuarā̊</em>; ~ Y37.1 <em>dāt̰ apascā dāt̰ uruuarā̊sca vaŋᵛhīš</em>; ~ Y44.4 <em>kə̄ apō uruuarā̊scā</em>;  ~ VrS65.78, VrS65.80 <em>auui apąmca vaŋᵛhinąm uruuuarnąmca</em>; ~ VrS65.78, VrS65.80 <em>yā̊ vaŋᵛhīš yā̊ āpō yā̊sca uruuarā̊</em>.</ab>
+         <ab><em>vīspa vohū aṣ̌a.cīϑra</em> ~ Y19.2, Y19.4, VS11.1, VS11.2, VS11.10, VS11.13, VS13.16 <em>vīspa vohu mazdaδāta aṣ̌a.ciϑra</em>
+            ~ Y22.4, Y22.24, Y22.25, Y24.3, Y24.8, Y25.3 <em>vīspaca vohu mazdaδāta aṣ̌a.ciϑra</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY11.14"/>
+      <include type="W" corresp="WTrY11.12c"/>
+      <include type="K" corresp="KTrY11.12c"/>
+      <include type="D" corresp="DTrY11.12c"/>
+   </translation>
+</text>

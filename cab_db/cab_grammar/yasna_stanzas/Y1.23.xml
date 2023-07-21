@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y1.23" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y1.23">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY1.22"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. Y1.18.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Orthographical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels>
+        <ab>Y1.23 ≈ YR1.14; ≈ Y1.22 (in 2nd. sg. <em>yezi ϑβā</em>).</ab>
+        <ab>
+            <em>ratauuō vīspe mazišta</em> ~ Y1.10, Y3.12, Y4.15, Y7.13, Y17.9, Y22.13, Y24.20, Y59.9, Y66.10, VrS27.34, VrS78.22, VrS79.15, VrS82.10 <em>vīspaēibiiō aēibiiō ratubiiō yōi həṇti aṣ̌ahe ratauuō ϑraiiasca ϑrisąsca nazdišta pairiš.hāuuanaiiō</em>; ~Y2.10, Y6.9, Y17.9, Y59.9, VrS81.9 <em>vīspe aṣ̌ahe ratauuō [...] yōi həṇti aṣ̌ahe ratauuō ϑraiiasca ϑrisąsca nazdišta pairiš.hāuuanaiiō</em> ; ~ VytS3.6<em>vīspe ā tē ā ϑātuš tē ā ratūš yōi həṇti aṣ̌ahe ratauuō ϑraiiasca ϑrisąsca nazdišta pairiš.hāuuanaiiō yōi həṇti aṣ̌ahe ratauuō ϑrātōtəmō</em>.</ab>
+        <ab>
+            <em>yezi ϑβā diduuaēša yezi manaŋha yezi vacaŋha yezi š́iiaōϑna... ā.tē aŋ́he fraca stuiiē</em> ~ Y12.13 <em>āstuiiē humatəm manō āstuiiē hūxtəm vacō āstuiiē huarštəm š́iiaōϑanəm</em>
+        </ab>
+        <ab>
+            <em>yezi manaŋha yezi vacaŋha yezi š́iiaōϑna</em> ~ Y0.7, Y12.3 <em>fərā manaŋhā fərā vacaŋhā fərā š́iiaōϑnā</em>; ~ Y18.2, Y18.9 Y47.2, Y47.8, Y48.13, Y49.13, Y50.12, Y68.36, Y68.42 <em>vahištācā manaŋhā hacā aṣ̌āt̰ š́iiaōϑanācā vacaŋhācā</em> ~ Y19.17 <em>aršmanaŋha aršuuacaŋha aršš́iiaōϑna</em>; ~ A1.11 <em>raϑbiia manaŋha raϑβiia vacaŋha raϑβiia š́iiaōϑna</em>
+        </ab>
+        <ab>
+            <em>nī.vō vaēδaiiemi</em> ~ Y1 <em>passim</em> <em>ńiuuaēδaiiemi</em>
+        </ab>
+        <ab>
+            <em>yasnaheca vaɱaheca</em> ~ <em>passim</em> in formula <em>yasnāica vaɱāica (xšnaōϑrāica frasastaiiaēca)</em>
+        </ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrY1.23"/>
+        <include type="W" corresp="WTrY1.22"/>
+        <include type="K" corresp="KTrY1.22"/>
+        <include type="D" corresp="DTrY1.22"/>
+    </translation>
+</text>

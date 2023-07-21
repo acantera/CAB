@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS0.9" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS0.9">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS0.9NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>zōt ud rāspīg: vid. Y0.6.</div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <RecitationInstruction>
+         <ab>III gwptn'] 2007, 2030, 2070, 2101; III 2065.</ab>
+      </RecitationInstruction>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Quotations id="ritualQuotations"/>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS0.9"/>
+   </translation>
+</text>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y11.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y11.1" headerPointer="Head11">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y11.1NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY11.1"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: Kotwal and Boyd, Geldner.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y11.1a <em>haiϑīm aṣ̌auuanō</em>] Bartholomae and <bibl>Josephson, 1997</bibl> <em>haiϑīm.aṣ̌auuanō</em> as compound.</ab>
+         <ab>Y11.1a <em>āfri.vacaŋhō</em>] Kellens (Bartholomae), Pirart; Geldner <em>āfriuuacaŋhō</em>.</ab>
+         <ab>Y11.1a <em>zauuaiṇti</em>] Pirart <em>zauuaiṇte</em>.</ab>
+         <ab>Y11.1c <em>zauuaiti</em>] Pirart <em>zauuaite</em>.</ab>
+         <ab>Y11.1e <em>baxšahi</em>] Geldner; Kellens (<bibl>Kellens, 1984</bibl> p. 74, n.19, Klingenschmitt, MSS 29 p. 143 ff.), Pirart.</ab>
+         <ab>Y11.1f <em>fšaōniiehe</em>] sec. Kellens, cod.; Geldner, Bartholomae, Pirart <em>fšaonaiiehe</em>. <bibl>Kellens, 1984</bibl>, p.131, n.3 "Comme <em>fsaoni-</em> est bien attesté et que rien n'indique qu'un dérivé
+            <em>*fsaona-</em> ait pu exister, nous sommes contraints de préférer fsaoniiehe de J2 K5 à <em>fsaonaiiehe</em> de tous les autres manuscrits."</ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab><em>ϑrāiiō haiϑīm...</em>] <em>ϑrāiiō haiϑim</em> OD <em>pairiš.x́axtəm aiiaŋhahe</em> (Y11.7).</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab><em>uta buiiā̊ afrazaiṇtiš uta də̄uš.srauuā̊ hacimnō</em> = Y11.3.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY11.1"/>
+      <include type="W" corresp="WTrY11.1"/>
+      <include type="K" corresp="KTrY11.1"/>
+      <include type="D" corresp="DTrY11.1"/>
+   </translation>
+</text>

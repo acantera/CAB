@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y0.4" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+    <created>1 June 2019</created>
+    <approved/>
+    <updated/>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y0.4">
+            <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y0.4NerangTransc.a"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV2" times="3"/>
+
+               </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>zōt: vid. Y0.3 wāz gīrišnīh.</div>
+        </SpeakerInfo>
+    </Speaker>
+     <Commentary/>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Y0.4 (ms.5, 15, 40, 82, 300, 355, 360, 370, 400, 410, 2007, 2030, 2040, 2101, 2104a, 4000a, 4010, 4020, 4025, 4050, 4055, 4060, 4161, 5020, 5106): </ab>
+            <ab class="ab_indent">
+                zōt ō kustag ī did šudan mayān ī ādišt abāz sar barsom andar kardan pad <em>aṣ̌əm vohū</em> sē abāz ō kustag ī did šustan ud ka-š šust u-š dast pad pādyāb abāz kardan</ab>
+            <ab class="ab_indent">
+                "The <em>zōt</em> should go to the other side of the <em>ādišt</em> and he should take place next to the center of the <em>ādišt</em> and with his back looking to the 
+                upper end of the <em>barsom</em>. With three <em>aṣ̌əm vohū</em> he has to wash from one side to the other. When he has washed (the four sides), 
+                then he should wash his hands again with <em>pādyāb.</em>"</ab>
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+            <ab>cf. N28.32b (description of the ceremony to be performed at <em>ušahina</em>), <bibl>Kotwal and Kreyenbroek, 2003</bibl>, pp. 88-88::</ab>
+            <ab class="ab_indent">u-š az kust ī frabardārān šawišn u-š ātaxš sar ī barsom andar gīrišn u-š pad se <em>aṣ̌əm vohū</em> ātaxšgāh pad pādyāb bē kunišn andar bōxtan nē nērang kē pad čahār gōwēd</ab>
+            <ab class="ab_indent">He has to go past the side of the <em>frabardārān</em> and to take place next to the fire and the head of the <em>barsom</em> and purify the <em>ātaxšgāh</em> with three <em>aṣ̌əm vohū.</em>
+                Concerning the purification, there is no instruction that says: 'With four Aṣ̌əm Vohū'"</ab>
+        </Quotations>
+        
+        <ModernPractice id="ritualModernPractice">
+            <ab>
+                <ab>
+                    <bibl>Redard and Daruwalla, 2021</bibl>, p. 71:</ab>
+                <ab class="ab_indent">"After that, the chief priest, while reciting 3 <em>Aṣ̌əm Vohū</em>, makes the fire stand
+                    pure, while taking care that the jug does not touch the fire urn and anything else. And after having made that table pure, he purifies again that hand with which the table has been made pure."</ab>
+            </ab>
+            
+            <ab>
+                <ab>
+                    <bib>Kotwal and Boyd, 1991</bib>, p. 87-89: </ab>
+            <ab class="ab_indent">"Turning and facing south, the zōt begins to purify the eastern side of the firestand by pouring water, in one gesture, from the north corner
+                southward, and wiping the firestand with his right hand. While doing so he chants the whole <em>ashem vohu</em> prayer, repeating the beginning word
+                <em>ashem</em> to emphasize "righteousness." Without lifting his right hand from the firestand, he repeats the same prayer and gesture, cleansing the south
+                side of the firestand, and then in one continuous gesture cleanses the west and north sides of the stand while saying <em>ashem vohu</em>e, repeating the beginning word.
+                Purifying his right hand with water from the vaselike container (which he is holding from the inside with his left hand), he recites the Avestan formula
+                ´For the pleasure of Ahura Mazda, righteousness is good' (<em>khshnaothra ahurahē mazdāo a.v.1</em>)."</ab>
+            <ab class="ab_indent">"While the chief priest stands in silence, the seated <em>rāspī</em> releases his left hand from the <em>barsom</em> to pick up the metal wire lying across the saucer of goat's milk,
+                and with his right hand takes the ring tied with bull's hair. He recites the closing Avestan passages of the rite of takink <em>parāhōm</em> (<em>bāj</em> of <em>waras</em>) [...], with the dedication in honor
+                of the holy guardian spirit of Zarathushtra. He returns the ring and the wire to their appropriate places on the ritual table, picks up the <em>parāhōm</em> cup [...] with his left hand, and standing, palces it
+                in the outside wall niche. From another niche, and with the same hand, he takes the metal vase containing goat's mil and pours its contents into the saucer [...] until it is full. He returns the vase to the niche and walks over
+                to the vessel containing the sacred bread (<em>drōn</em>), removes the cover with his left hand, and with his pure hand picks up the sacred bread with ghee on it and places it on the saucer
+                situated in the center and southernmost side of the ritual table."</ab>
+            </ab>
+        </ModernPractice>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY0.4"/>
+        <include type="W" corresp="WTrY0.3b"/>
+        <include type="K" corresp="KTrY0.1"/>
+        <include type="D" corresp="DTrY0.3b"/>
+    </translation>
+</text>

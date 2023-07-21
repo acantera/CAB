@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL1.3.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="1" xml:id="ParagnaLL1.3.1">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL1.3.1 Var. a (Ms. RJ):</ab>
+            <ab class="ab_indent">
+                <em>yaθā ahū vairiiō</em> dō <em>yasnəmca vahməmca aojasca zauuarəca āfrīnāmi uruuaraiiā̊ vaŋhuiiā̊ mazdaδātaiiā̊ aṣ̌aoniiā̊</em> pas aiwanghan gašte va barsom bist-o se 
+                tā andar barsomdān pādyāvi kardan yaʿni se bār andar āb kardan wa šostan pas barsom andar u kardan andar yašt ḫāne bordan va moḥkam nahādan pas dur āmadan</ab> 
+            <ab class="ab_indent">
+                "(He should recite) two <em>yaθā ahū vairiiō</em> and then <em>yasnəmca vahməmca aojasca zauuarəca āfrīnāmi uruuaraiiā̊ vaŋhuiiā̊ mazdaδātaiiā̊ aṣ̌aoniiā̊</em>. Then, the <em>aiwanghan</em> 
+                (should be) put around and he should  the 23 twigs of the <em>barsom</em>, purified, on the <em>barsomdān</em>, that is, he should put three times under water and wash them,
+                the he should put the <em>barsom</em> on it (the <em>barsomdān</em>)."</ab>
+            
+            <ab>ParagnaLL1.3.1 Var. b (Mss. K36, 31, 89, 19):</ab>
+            <ab class="ab_indent">
+                <em>yaθā ahū vairiiō</em> do <em>yasnəmca</em> tā <em>āfrināmi uruuaraiiā̊</em> ta u <em>aṣ̌aōnaiiā̊</em> bāyad ke ruy-e be suy-e vāḫtar na-bāšad čo vāǧ miḫᵛānad va 
+                čon vāǧ tamām ḫᵛāhad goftan barsom be barsomdān konad va be-ǧāy-e ḫᵛiš nahad </ab>
+            <ab class="ab_indent">
+                "He should recite two <em>yaθā ahū vairiiō</em> and <em>yasnəmca</em> until <em>uruuaraiiā̊</em> and <em>aṣ̌aōnaiiā̊</em>. His face should not look to the East, when
+                he says the <em>vāǧ</em>. When he has completed the <em>vāǧ</em>, he puts the <em>barsom</em> on the <em>barsomdān</em> and places it at its position."</ab>
+            
+            <ab>ParagnaLL1.3.1 Var. c (Ms. RKS):</ab>
+            <ab class="ab_indent">
+                <em>yaθā ahū vairiiō</em> ĪĪ do <em>ẏasnəmca vahməmca aojasca zauuarəca afrīnāmi uruuariiā̊ vaŋhuiiā̊ mazdaδātaiiā̊ aṣ̌aoniiā̊</em> pas avanghan cidan barsom avanghan 
+                dar barsomdān kardan</ab>   
+            <ab class="ab_indent">
+                "He should recite two <em>yaθā ahū vairiiō</em> and then <em>ẏasnəmca vahməmca aojasca zauuarəca afrīnāmi uruuariiā̊ vaŋhuiiā̊ mazdaδātaiiā̊ aṣ̌aoniiā̊</em>. Afterwards,
+                he should cut the <em>avanghan</em> and put the <em>barsom</em> and the <em>avanghan</em> on the <em>barsomdān</em>.</ab> 
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL1.3.1"/>
+    </translation>
+</text>

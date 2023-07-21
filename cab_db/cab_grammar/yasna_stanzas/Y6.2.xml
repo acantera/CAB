@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y6.2" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y6.2">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY6.2a"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY2.1" on_line="in1lineblock"/>
+      <!-- All ratus possible -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY6.2b" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY2.2" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY6.2c" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY2.3" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY6.2d" on_line="in1line"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y6.1.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y6.2c <em>sāuuaŋhaēm</em>] vid. Y2.3.</ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab>Y6.2c <em>sāuuaŋhaēm vīsīmca... </em>]  <em>sāuuaŋhaēm vīsīmca aṣ̌auuanəm aṣ̌ahe ratūm yaz</em> OD <em>ratauuō vīspe</em> (Y6.17) 110, 231, 234.</ab>
+         <ab>Y6.2d <em>miϑrəm vouru.gaōiiaōitīm...</em>]  <em>rāma xāstarəm yaz.</em> OD <em>ratuuō vīspa</em> (Y6.17) 235.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>Y6.2 = Y17.2, Y59.2, VrS81.2; ≈ Y1.3, Y3.5, Y4.8, Y2.3, Y7.6, Y22.6, Y24.13, Y66.3, VrS78.15, VrS79.8, VrS82.3.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY6.2"/>
+   <include type="W" corresp="WTrY6.2"/>
+        <include type="K" corresp="KTrY6.2"/>
+        <include type="D" corresp="DTrY6.2"/>
+    </translation>
+</text>

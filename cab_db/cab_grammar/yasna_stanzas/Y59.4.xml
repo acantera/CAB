@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y59.4" status="created">  <!-- created, approved, updated--> <header><creators><creator>Porro</creator><creator>Cantera</creator></creators><created>1 June 2019</created></header><div type="Stanza" sameAs="" xml:id="Y59.4">
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY4.1" on_line="in1lineblock"/>
+               <!-- In sequence after DY60.3 -->
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY59.4a" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY4.2" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY59.4b" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY4.3" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY59.4c" on_line="in1line"/>
+            </div><Apparatus><Critical/><Commentary/></Apparatus><Parallels/><Ritual/><translation><include type="CAB" corresp="CABTrY59.4"/><include type="W" corresp="WTrY59.4"/><include type="K" corresp="KTrY59.4"/><include type="D" corresp="DTrY59.4"/></translation></text>

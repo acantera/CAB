@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR16.1" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y16.1" xml:id="YR16.1">
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR16.1"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. Y16.0.</ab>
+            </div>
+        </SpeakerInfo>
+      </Speaker>
+      <Apparatus>
+          <Critical/>
+          <Commentary/>
+          <RecitationInstruction>
+              <ab>YR16.1a <em>ahurəm mazdąm</em>...] <em>mazdą̇m huδā̊ŋhəm</em> OD <em>ahurəm mazdą̇m</em> (YR17.1) 320; 
+                  <em>huδā̊ŋhəm mazištəm</em> OD OL Y <em>at̰ hama</em> (360 <em>ahmi</em>) <em>at̰ zaiiene</em> (YR16.10) 360, 370.</ab>
+          </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrYR16.1"/>
+    </translation>
+</text>

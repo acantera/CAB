@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="DoHom2.31" status="created">  <!-- created, approved, updated--> <header><creators><creator>Porro</creator><creator>Cantera</creator></creators><created>1 June 2019</created></header><div type="Stanza" sameAs="" xml:id="DoHom2.31">
+         <include href="/db/apps/cab_db/cab_rituals/fragards/FragardDH" xpointer="DoHom2.31a"/>
+         <include href="/db/apps/cab_db/cab_rituals/fragards/FragardDH" xpointer="DoHom2.31b"/>
+         <include href="/db/apps/cab_db/cab_rituals/fragards/FragardDH" xpointer="DoHom2.31c"/>
+         <include href="/db/apps/cab_db/cab_rituals/fragards/FragardDH" xpointer="DoHom2.31d" on_line="in1lineblock"/>
+         <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen42" on_line="in1line"/>
+         <include href="/db/apps/cab_db/cab_rituals/fragards/FragardDH" xpointer="DoHom2.31e" on_line="in1line"/>
+      </div><Apparatus><Critical/><Commentary/></Apparatus><Parallels/><Ritual/><translation><include type="CAB" corresp="CABTrDoHom2.31"/></translation></text>

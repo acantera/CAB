@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS75.3" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS75.3">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS75.3NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr1"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS30.0e"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS75.3 (mss. 2005, 2007, 2010, 2030, 2101, 2104, 2106, 2109, 4000, 4010, 4025, 4055, 4060, 5020):</ab>
+         <ab class="ab_indent">
+            rāspīg pad gāh ī srōšāwarzān <em>yaθā ahū vairiiō yō zaōtā frā.mē mrūtē</em> zōt <em>aϑā ratuš</em> kardan</ab>
+         <ab class="ab_indent">
+            "The <em>rāspīg</em> (should recite) at the place of the <em>srōšāwarz: yaθā ahū vairiiō yō zaōtā frā.mē mrūtē</em> and the <em>zōt</em> should answer: <em>aθā ratuš</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS75.3"/>
+   </translation>
+</text>

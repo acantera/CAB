@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y11.13" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y11.13">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV2"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: Anklesaria, Geldner, Kotwal and Boyd.</ab> 
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>yaϑā ahū vairiiō</em> II gpwtn'] 5, 6, 15, 40, 88; <em>yaϑā ahū vairiiō</em> II 100, 110, 231, 234, 235, 677; <em>yaϑā ahū vairiiō</em> wyc(y)st' byšʾmlwtyk gwbšn' 400, 410, 500, 510; ytʾhwwkwylykk dwbʾl gwptn' 672.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY11.13"/>
+      <include type="W" corresp="WTrY11.12b"/>
+      <include type="K" corresp="KTrY11.12b"/>
+      <include type="D" corresp="DTrY11.12b"/>
+   </translation>
+</text>

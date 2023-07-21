@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS17.8" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS17.8">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS7.1"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. VrS17.3.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Problematic text. Vid. commentary VrS1.9.</ab>
+         <ab>VrS17.8a-g] every <em>ratauuō</em> and their attributes are irregular acc. pl. forms.</ab>
+         <ab>VrS17.8g <em>caṇgraŋhāca</em>] Kellens (vid. VrS1.9). Geldner <em>caŋraŋhāca</em>. Vid. <bibl>Hoffmann and Narten, 1989</bibl>, p. 69, n. 112.</ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab>VrS17.8a <em>ratauuō maińiiauua</em>...] <em>ratauuō maińiiauua y.</em> OD OL Y <em>ϑβą̇m ātrəm</em> 2070.</ab>
+         <ab>VrS17.8b <em>ratauuō gaēϑiia</em>...] <em>ratauuō gaēiϑiia y.</em> OD <em>miϑrəm vīspanąm</em> (VrS17.20) 2065.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS17.8 = VrS77.8; ≈ VrS1.9, VrS2.9, VrS25.11, VrS27.25, VrS90.9.</ab>
+      <ab><em>ratauuō upāpa āiiese yešti ratauuō upasma āiiese yešti ratauuō fraptərəjāta āiiese yešti ratauuō rauuascarāta āiiese yešti ratauuō caṇgraŋhāca āiiese yešti</em> ~ Y71.9. <em>vīspąmca gąm upāpąmca upasmąmca fraptərəjātąmca rauuascarātąmca caṇgraŋhācasca yazamaide</em></ab>
+      <ab><em>ratauuō fraptərəjāta āiiese yešti ratauuō caṇgraŋhāca āiiese yešti</em> ~ Yt8.48 <em>yāca fraptərəją yāca rauuascarą</em></ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS17.8"/>
+   </translation>
+</text>

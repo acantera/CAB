@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y25.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y25.1">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY25.1b"/>
+               <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y25.1NerangTransc.b"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY25.1c"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY25.1d"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: vid. Y25.0.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab>Y25.1a <em>iməm haōməm</em> ...] <em>aṣ̌aiia uzdātəm y.</em> OD LOYŠE <em>staōmi zbaiiemi</em> (Y25.4) 40.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels>
+        <ab>VrS29.1 = DoHom6.1.</ab>
+        <ab><em>iməm haōməm aṣ̌aiia uzdātəm yazamaide imąmcā gąm jīuuiiąm aṣ̌aiia uzdātąm yazamaide imąmcā uruuarąm haδānaēpatąm aṣ̌aiia uzdātąm yazamaide</em> 
+            ~ Y22.2, Y22.22, Y22.25 <em>iməm haōməm aṣ̌aiia uzdātəm āiiese yešti imąmcā gąm jīuuiiąm aṣ̌aiia uzdātąm āiiese yešti imąmcā uruuarąm haδānaēpatąm aṣ̌aiia uzdātąm āiiese yešti</em>.</ab>
+        <ab><em>imąmcā gąm jīuuiiąm aṣ̌aiia uzdātąm yazamaide imąmcā uruuarąm haδānaēpatąm aṣ̌aiia uzdātąm yazamaide</em>; ~ Y24.6 <em>imąmcā gąm jīuuiiąm aṣ̌aiia uzdātąm imąmcā uruuarąm haδānaēpatąm aṣ̌aiia uzdātąm</em>;
+            ~ Y3.3 <em>gąm jīuuiiąm āiiese yešti uruuarąm haδānaēpatąm aṣ̌aiia uzdātąm āiiese yešti</em>; ~ Y7.4 <em>aṣ̌aiia daδąmi gąm jīuuiiąm aṣ̌aiia daδąmi uruuarąm haδānaēpatąm aṣ̌aiia uzdātąm</em>.</ab>
+        <ab><em>uruuarąm haδānaēptąm</em> ~ Y62.9 <em>uruuarąm vā haδānaēpatąm</em>.</ab>
+    </Parallels>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Y25.1a  (mss. 40, 88, 400, 410):</ab>
+            <ab class="ab_indent">
+                <em>aməṣ̌ā spəṇtā</em> (Y25.0) hāwan abāz wardēnišn <em>huxšaϑrā huδā̊ŋhō yazamaide iməm haōməm</em> (Y25.1) hōm ud urwarām andar hāwan abganišn <em>aṣ̌aiia uzdātəm</em> ...</ab> 
+            <ab class="ab_indent">"At <em>aməṣ̌ā spəṇtā</em> (Y25.0), he has to turn the <em>hāwan</em> right side (and continue with) <em>huxšaϑrā huδā̊ŋhō yazamaide.</em>                
+                At <em>iməm haōməm</em> (Y25.1), he has to throw the <em>hōm</em> and <em>urwarām</em> into the <em>hāwan</em> (and continue with) <em>aṣ̌aiia uzdātəm</em> ..."</ab>
+            <ab>Y25.1b (40, 88, 400, 410):</ab>
+            <ab class="ab_indent"><em>iməm haōməm</em> hōm ud urwarām andar hāwan abganišn <em>aṣ̌aiia uzdātəm</em> ...</ab>
+            <ab class="ab_indent"> "At <em>iməm haōməm</em>, he has to throw the <em>hōm</em> and <em>urwarām</em> into the <em>hāwan</em> (and continue with) <em>aṣ̌aiia uzdātəm</em>..."</ab>
+        </Nerangs>
+        
+        <Quotations id="ritualQuotations">
+            <ab>N28.46d (<bibl>Kotwal and Kreyenbroek, 2003</bibl>, pp. 104-105):</ab>
+            <ab class="ab_indent">u-š pad <em>iməm haōməm</em> hōm ud urwarām andar hāwan abganēd</ab>   
+            <ab class="ab_indent">"At <em>iməm haōməm</em>, he throws the <em>hōm</em> and <em>urwarām</em> into the <em>hāwan</em>."</ab>
+            <ab>Vid. also Y25.0.</ab>
+        </Quotations>
+        <ModernPractice id="ritualModernPractice">
+            <ab><bibl>Redard and Daruwalla, 2021</bibl>, p. 91-92:</ab>
+            <ab class="ab_indent">"The chief priest, after striking the inverted mortar on the table three times, turns it upright, and wiping the inside by hand, cleans (it). The chief priest puts
+                the <em>hom</em> twigs into the mortar. <em>imǝm haomǝm aṣ̌aiia uzdātǝm yazamaide</em>. He pours the milk into the mortar. <em>imąmcā gąm jīuuiiąm aṣ̌aiia uzdātąm yazamaide imąmcā uruuarąm
+                    haδānaēpatąm aṣ̌aiia uzdātąm yazamaide</em>".</ab>
+            <ab><ab><bibl>Kotwal and Boyd, 1991</bibl>, p. 106: </ab>
+                <ab class="ab_indent">"With his right hand he picks up the three <em>hōm</em> twigs from the saucer and drops them into the mortar, saying "We revere this <em>hōm</em> offered with righteousness" (<em>imem haomem
+                ashaya uzdātem yazamaidē</em>). With the words "We revere this mixture of milk and consecrated water offered with righteousness" (<em>imāmcha gām jīvyām ashaya uzdātām yazamaidē</em>), the <em>zōt</em> picks up
+                the cup located near the base of the <em>barsom</em> stand and pours a small amount of the goat's milk into the mortar, then returns the cup to its place. As he says the next phrases, "and we revere the pomegranate tree
+                offered with righteousness" (<em>imāmcha urvarām hadhānaēpatām ashaya uzdātām yazamaidē)</em>, the <em>zōt</em> picks up the pomegranate twig from the saucer and drops it into the mortar",</ab></ab>
+        </ModernPractice>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY25.1"/>
+    <include type="W" corresp="WTrY25.1"/>
+        <include type="K" corresp="KTrY25.1"/>
+        <include type="D" corresp="DTrY25.1"/>
+    </translation>
+</text>

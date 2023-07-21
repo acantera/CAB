@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS11.34" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS11.34">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS4.1"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt̰: vid. VrS11.32-33.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>āca manō mata...</em>] <em>āca manō mata āca yaz.</em> OD <em>sraošō astu</em> (VrS11.36) 2065; <em>āca manō matāca yazamaide</em> OD OLY <em>tā̊sca y.</em> (VrS11.37) 2070.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab><em>vaŋᵛhīmca ādąm vaŋᵛhīmca aṣ̌īm</em> ~ Y52.4 <em>vaŋᵛhīšca aδā̊ vaŋᵛhīšca aṣ̌aiiō</em>; ~ Y68.23, Y68.28 (x2) <em>vaŋᵛhīm iδāt̰ ādąm vaŋᵛhīm aṣ̌īm</em>.</ab>
+      <ab><em>vaŋᵛhīmca ādąm</em> ~ Y49.1 <em>vaŋᵛhī ādā</em>.</ab>
+      <ab><em>vaŋᵛhīmca cistīm</em> ~ VS19.39, Yt11.16 <em>cistōiš vaŋhuiiā̊</em>; ~ Y36.4, VrS65.29, VrS80.4 <em>vaŋhuiiā̊ ϑβā cistōiš</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS11.34"/>
+   </translation>
+</text>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS18.2" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS18.2">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS8.2"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y17.18.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VrS18.2a <em>vahištahe aŋhə̄uš</em> ...] <em>vahištahe aŋhə̄uš</em> OD OL Y <em> yeŋ́hē hātą̇m</em> 2070; AHL <em>vahištahe aŋhə̄uš</em> 2106.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+      <Parallels>
+         <ab>VrS18.2 = VrS28.3.</ab>
+         <ab><em>arštātəm yazamaide</em> = Y16.6.</ab>
+         <ab><em>rašnūm razištəm yazamaide</em> = Y16.5.</ab>
+         <ab><em>miϑrəm vouru.gaōiiaōitīm yazamaide</em> =  Y16.5, VrS17.16, VrS77.16.</ab>
+      </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS18.2"/>
+   </translation>
+</text>

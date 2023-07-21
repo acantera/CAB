@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS17.3" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y17.3" xml:id="VrS17.3">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY3.1" on_line="in1lineblock"/>
+      <!-- Following after DY18.2 -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY17.3a" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY3.2" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY17.3b" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY3.3" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY17.3c" on_line="in1line"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y17.3; 2109.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VrS17.3a <em>rapiϑβinəm aṣ̌auuanəm</em>...] <em>rapiϑβinəm</em> OD OL Y <em>varədat̰.gaēϑąm</em> (VrS17.6) 2030.</ab>
+         <ab>VrS17.3a <em>rapiϑβinəm aṣ̌auuanəm</em>...] (Per.) rāsfi ḫāmuš <em>rapiϑβinəm aṣ̌auuanəm</em> 2109.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS17.3"/>
+   </translation>
+</text>

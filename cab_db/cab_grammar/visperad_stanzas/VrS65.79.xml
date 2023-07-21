@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS65.79" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS65.79">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS26.23a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS26.23b"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS26.23c"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS26.23d"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS26.23e"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab><em>sraōtəmca marždikəmca yazamaide</em> ~ Y33.11 <em>sraōtā.mōi mərəždātā.mōi</em></ab>
+      <ab><em>frārāiti vīdīše yazamaide yat̰ asti aṇtarə xᵛādaēnāiš aṣ̌aōnīš</em> ~ P36 <em>frārāitīšca vīdīšā̊sca aṇtarə xᵛādaēnāiš aṣ̌aōnīš</em></ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS65.79"/>
+   </translation>
+</text>

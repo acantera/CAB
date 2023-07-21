@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="DoHom1.2" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="DoHom1.2">
+      <include href="/db/apps/cab_db/cab_rituals/fragards/FragardDH" xpointer="DoHom1.2"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>DoHom1.2 (mss. 2000, 2035):</ab>
+         <ab class="ab_indent">
+            rāspīg wāz gīrišnīh zōt <em>aθā ratuš</em> bowandag guftan rāspīg <em>səraōšō iδā astū</em> tā <em>yə̄ nā̊ ištō</em></ab>
+         <ab class="ab_indent">
+            "Taking of the <em>wāz</em> by the <em>rāspīg</em>, the <em>zōt</em> should say complete <em>aθā ratuš</em> and the <em>rāspīg səraōšō iδā astū</em> 
+            until <em>yə̄ nā̊ ištō</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrDoHom1.2"/>
+   </translation>
+</text>

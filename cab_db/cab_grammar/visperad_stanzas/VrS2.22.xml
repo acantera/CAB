@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS2.22" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y2.12" xml:id="VrS2.22">
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY2.10c" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RozAcc" xpointer="RozAcc1" on_line="in1line"/>
+               <!-- All days possible -->
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY2.10d" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY2.10e" on_line="in1lineblock"/> <!-- Eliminate in Gatha days -->
+               <include href="/db/apps/cab_db/cab_rituals/blocks/MahAcc" xpointer="MahAcc1" on_line="in1line"/>
+               <!-- All months possible -->
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY2.10f" on_line="in1line"/> <!-- Eliminate in Gatha days -->
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: 2109.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab><em>ńiuuaēδaiiemi  haṇkāraiiemi</em>] (Per.) zud va rāsfi ḫvāndan 2109.</ab>
+            <ab><em>aɱiia zaōϑre barəsmanaēca</em>] <em>aɱiia zaōϑre barəsmanaēca</em> YWM W BYRH gwptn' <em>āiiese yešti</em> 2007, 2010; <em>ahmiia zaōϑre</em> (2109 <em>barəsmanaēca</em>) (2030, 2109 <em>nigahi</em>) YWM W BYRH gwptn' 2030, 2101, 2109; <em>āhm. z. b.</em> YWM W BYRH ZKš ḆYN gwptn' 2040.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrVrS2.22"/>
+    </translation>
+</text>

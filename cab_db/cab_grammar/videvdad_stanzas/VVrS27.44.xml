@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS27.44" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VVrS27.44">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS13.42a" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen19" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS13.42b" on_line="in1line"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y24.28.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VVrS27.44a <em>āat̰ dīš āuuaēδaiiamahi</em> ...] <em>xšnaōϑrāica frasastaiiaēca</em> HT' hšnwmn' slwš LA YHWWN-yt' ZK hšnwmn' AMT' YHWWN-yt' gwptn' 4000.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VVrS27.44 (mss. 4000, 4010, 4020, 4025, 4030a, 4055, 4060, 4063, 4161):</ab>
+         <ab class="ab_indent">
+            <em>āat̰ dīš āuuaēδaiiamahi sraōšahe aṣ̌iiehe taxmahe tanu.mąϑrahe darši.draōš āhūiriiehe yasnāica vaɱāica xšnaōϑrāica frasastaiiaēca</em> ka xšnūman srōš bēd ēdōn abāyēd 
+            guftan ī mān nibišt agar xšnūman srōš nē bēd ān ī bēd guftan bōy ō ī ātaxš dādan</ab>
+         <ab class="ab_indent">
+            "<em>āat̰ dīš āuuaēδaiiamahi sraōšahe aṣ̌iiehe taxmahe tanu.mąϑrahe darši.draōš āhūiriiehe yasnāica vaɱāica xšnaōϑrāica frasastaiiaēca</em>. When the <em>šnūman</em> is 
+            for Srōš, they must recite so as we have written. If the <em>šnūman</em> is not for Srōš, they have to recite the corresponding one. He has to bring <em>bōy</em> to the fire."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS27.44"/>
+   </translation>
+</text>

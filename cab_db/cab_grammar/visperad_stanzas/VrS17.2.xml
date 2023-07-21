@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS17.2" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y17.2" xml:id="VrS17.2">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY17.2a"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY2.1" on_line="in1lineblock"/>
+      <!-- All posible -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY17.2b" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY2.2" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY17.2c" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY2.3" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY17.2d" on_line="in1line"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. VrS17.1.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VrS17.2a <em>asńiia aṣ̌auuana</em>...] <em>asniia aṣ̌auuana aṣ̌ahe ratauuō yazamaide</em> OD <em>pərənō.mā̊ŋhəm višaptaϑəm</em> (VrS17.7) 2000, 2065; <em>asniia</em> OD OL Y <em>ratauuō maińiiauua y.</em> (VrS17.8) 2070.</ab>
+         <ab>VrS17.2c <em>sāuuaŋhaēm vīsīmca</em>...] <em>sāuuaŋhīm</em> OD <em>pərənō.mā̊ŋhəm vīspšaptaϑəm</em> (VrS17.7) 2230.</ab>
+         <ab>VrS17.2d <em>miϑrəm vouru.gaōiiaōitīm</em>...] <em>miϑrəm</em> OD OL Y <em>pərənō.mā̊ŋhəm vīšaptaϑəm</em> (VrS17.7) 2101.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS17.2"/>
+   </translation>
+</text>

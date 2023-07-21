@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y2.6" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y2.6">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.6a" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccAY" xpointer="RatuLetAccAY5.1" on_line="in1line"/>
+               <!-- successive gāh from Y2.5 -->
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.6b" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccAY" xpointer="RatuLetAccAY5.2" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.6c" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.6d" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccAY" xpointer="RatuLetAccAY5.3" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.6e" on_line="in1line"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. Y2.4.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab>Y2.6c <em>hutāštəm</em>] Geldner <em>hutaštəm</em>, cf. Y1.6 <em>hutāštahe</em>, cf. <em>hąm.tāšta-</em> vs. <em>tašta-</em>.</ab>
+            <ab>Y2.6c <em>vanaiṇtīmca uparatātəm āiiese yešti</em>] add. post. <em>ẏąmca arštōiš ẏazatahe</em> mss. 672, 677. Cf. Y57.48 <em>vanaiṇtīmca uparatātəm yazamaide yąmca sraōšahe aṣ̌iiehe yąmca arštōiš yazamaide</em>. Cf. Y1.6Translation.c (and parallels in dat.-gen-) [<em>warhrān yazd ast kē āštād yazd gōwēd</em>].</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels>
+    <ab>Y2.6 ≈ Y1.6, Y3.8, Y4.11, Y6.5, Y7.9, Y17.5, Y22.9, Y24.16, Y59.5, Y66.6, VrS78.18, VrS79.11, VrS81.5, VrS82.6.</ab>
+    <ab>
+            <em>aməmca hutaštəm huraōδəm āiiese yešti vərəϑraγnəca ahuraδātəm āiiese yešti vanaiṇtīmca uparatātəm āiiese yešti</em>; ~ VrS1.14, VrS25.16, VrS27.30, VrS90.14. <em>vərəϑraγnahe ahuraδātahe vanaiṇtiiā̊sca uparatātō</em>; VrS2.16, VrS17.15, VrS77.15 ~ <em>vərəϑraγnəm ahuraδātəm ... vanaiṇtīmca uparatātəm</em>; ~ Y16.5, Y59.29 <em>vərəϑraγnəm ahuraδātəm yazamaide</em>
+        </ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrY2.6"/>
+    <include type="W" corresp="WTrY2.6"/>
+        <include type="K" corresp="KTrY2.6"/>
+        <include type="D" corresp="DTrY2.6"/>
+    </translation>
+</text>

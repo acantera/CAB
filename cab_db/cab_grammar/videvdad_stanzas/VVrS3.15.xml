@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS3.15" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VVrS3.15">
+         <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY3.12a" on_line="in1lineblock"/>
+         <include href="/db/apps/cab_db/cab_rituals/blocks/RatuCerGen" xpointer="RatuCerGenV" on_line="in1line"/>
+      </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. VVrS3.12.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+        <Parallels>
+            <ab>VVrS3.15 = VVrS25.29, VVrS78.25; ≈ VVrS1.27, VVrS2.29, VVrS4.18, VVrS6.12, VVrS7.16, VVrS14.16, VVrS17.29, VVrS27.43, VVrS77.29, VVrS79.18, VVrS81.12, VVrS82.25, VVrS90.27.</ab>
+        <ab>
+            <em>raϑβō bərəzatō</em> ~ VrS1.16, VrS25.18, VrS27.32, VrS90.16 <em>ratə̄uš bərəzō</em>; ~ VrS2.18, VrS17.17, VrS77.17 <em>ratūm bərəzəm</em>
+        </ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrVVrS3.15"/>
+    </translation>
+</text>

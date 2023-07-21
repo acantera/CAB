@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS65.34" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS65.34">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS26.15ax"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS26.15ay"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS26.15az"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS65.34 = Y5.2, Y37.2</ab>
+      <ab><em>yōi gə̄uš hacā š́iieiṇtī</em> ~ Y12.8 <em>yāiš upairī āiia zəmā gaōbīš š́iieiṇtī</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS65.34"/>
+   </translation>
+</text>

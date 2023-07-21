@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS1.29" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y1.20" xml:id="VVrS1.29">
+         <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY1.19"/>
+      </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. VVrS1.5.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrVVrS1.29"/>
+    </translation>
+</text>

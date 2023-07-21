@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS0.Ext3" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+        <approved/>
+        <updated/>
+    </header>
+    <div xml:id="VVrS0.Ext3">
+         <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="5"/>
+      </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>zōt: vid. Y0.1.</div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <RecitationInstruction/>
+        <Commentary>
+            <ab><em>yaϑā. ahū. vairiiō.</em>] 4075.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab class="ab_indent" n="NerangTranslit.a" xml:id="VVrS0.1NerangTransc.a" xml:lang="Pers">Ms. 4075: agar vandidād soruš pe panǧ ḫᵛāndan agar vandidād ašōān
+                hašt <em> yaϑā ahī. vairiiō.</em> ḫᵛāndan</ab>
+            <ab class="ab_indent" n="NerangEnglish.a" source="4075" xml:id="VVrS0.1NerangEnglish.a">"If it is a Vidēvdād to Srōš he should recite with five (<em>yaϑā ahū vairiiō</em>);
+                if it is a Vidēvdād to the Frauuaṣ̌is, he should recite eight <em>yaϑā ahū vairiiō</em>."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrVVrS0.Ext3"/>
+    </translation>
+</text>

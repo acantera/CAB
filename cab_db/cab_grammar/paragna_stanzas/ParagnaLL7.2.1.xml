@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL7.2.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="1" xml:id="ParagnaLL7.2.1">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL7.2.1 (Phl.) (WīD95.2c):</ab>
+            <ab class="ab_indent">
+                <em>aṣ̌əm vōhū</em> čahār pad harw ašamwohū-ēw wars rāy pad harw ēk čahār jām ī zōhr šustan čiyōn ka-š warr ī ātaxš ī warahrām pad ān ōy wars āmēxtag nē mānēd.</ab>
+            <ab class="ab_indent">
+                "He should recite four <em>aṣ̌əm vōhū</em>s. At each <em>aṣ̌əm vohū</em>, he should wash the wars in each one of the four goblets so the ashes of the <em>Ātaxš ī Warahrām</em> 
+                do not remain mixed in the <em>wars</em>."</ab>
+            
+            <ab>ParagnaLL7.2.1 (Mss. K7, RJ):</ab>
+            <ab class="ab_indent">
+                čahār <em>ašem vohu</em> čon piš neveštam pas digar be-ḫalqe dar-ārand dar hamān ḫalqe-ye zarrin andazand va hezār-o-yek bār b-āb-e pādyāvi foru barand va bar-āvarand
+                va varsdān nahand</ab> 
+            <ab class="ab_indent">
+                "(He should recite) four <em>Aṣ̌əm Vohū</em>s as I have written before. Then, they bring (the <em>vars</em>) again to the ring and put it on the golden ring and immerse 
+                and take it out of the <em>pādyāvi</em>-water thousend and one times."</ab> 
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL7.2.1"/>
+    </translation>
+</text>

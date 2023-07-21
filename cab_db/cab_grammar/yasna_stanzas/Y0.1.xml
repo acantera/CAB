@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y0.1" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+        <approved/>
+        <updated/>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y0.1">
+        <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y0.1NerangTransc.a"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>zōt: vid. Nērang.</div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+
+        <Critical/>
+        <RecitationInstruction>
+            <ab>ʾywk' gwptn'] 5, 40, 82, 400, 410.</ab>
+        </RecitationInstruction>
+        <Commentary>
+            <ab>
+                <em>aṣ̌əm. vohū.</em>] om. 15.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Y0.1 Var. a (ms. 5, 40, 82, 400, 410):</ab>
+            <ab class="ab_indent">
+                barsom wist ud ēk tāg ud frāgām dō tāg barsom bastan ud parāhōm kardan ud sāzišn hamāg frāz nihādan ud ān kas kē zōtīh kāmēd kardan 
+                <em>aṣ̌əm vōhū</em> (Y0.Ext2) ēk guftan ud dast pad pādyāb kardan</ab>
+            <ab class="ab_indent">
+                The barsom (consists of) 21 twigs and 2 frāgām. He should tie the barsom, prepare the parāhōm and dispose all implements. 
+                The one who wants to act as zōt should recite one <em>aṣ̌əm vōhū</em> (Y0.Ext2) wash his hands with pādyāb. </ab>
+            <ab>Y0.1 Var. b (ms. 15):</ab>
+            <ab class="ab_indent">barsom wist ud ēk ud frāgām dō tāg barsom bastan parāhōm kardan sāzišn hamāg frāz
+                nihādan ud ān kas ka zōtīh kāmēd kardan <em>xšnaōϑra ahurahe mazdā</em> (Y0.Ext1)
+                    <em>aṣ̌əm vohū</em> ēk (Y0.Ext2) <em>yaθā ahū vairiiō</em>. (Y0.Ext.3) haft
+                guftan <em>xšnaōϑra ahurahe mazdā̊</em> (Y0.Ext4) <em>aṣ̌əm vohū</em> ēk (Y0.Ext5)
+                    <em>nəmasə.tē ātarš mazdā̊ ahurahe hudā̊ mazišta yazata</em> (Y0.Ext8)
+                    <em>xšnaōϑra ahurahe mazdā̊</em> (Y0.Ext9). </ab>
+            <ab class="ab_indent">"The
+                    <em>barsom</em> consists of 21 twigs and the <em>frāgām</em> are two. He should
+                tie the <em>barsom</em>, prepare the <em>parāhōm</em> and dispose all the
+                implements. The one who wants to play the role of the <em>zōt</em> should recite
+                    <em>xšnaōϑra ahurahe mazdā</em> (Y0.Ext1) and one <em>aṣ̌əm vohū</em> (Y0.Ext2),
+                seven <em>yaθā ahū vairiiō</em> (Y0.Ext3) and then <em>xšnaōϑra ahurahe mazdā̊</em>
+                (Y0.Ext4), one <em>aṣ̌əm vohū</em> (Y0.Ext5) <em>nəmasə.tē ātarš mazdā̊ ahurahe.
+                    hudā̊ mazišta yazata</em> (Y0.Ext8) (and) <em>xšnaōϑra ahurahe mazdā̊</em>
+                (Y0.Ext9)". </ab>
+            <ab>Y0.1 Var. c (ms.K7):</ab>
+            <ab class="ab_indent">
+                ka ādurgāh kāmēd šustan naxost dast pad pādyāb bē kunišn u-š ātaxš ud barsom bē nigerišn u-š az nōg dast pad pādyāb abāz kunišn u-š 
+                <em>xšnaoθra ahurahe mazdā̊ tarōidite</em> (Y0.Ext1) tā fərašaōtəməm bē gōwišn u-š az nōg  dast pad pādyāb abāz kunišn ud ašemwohū sē ...
+                rōz ī dudīgar ka yašt ī srōš kunēd pēš az ādurgāh suštan yatāhūwairyō panǰ bē gōwišn u-š ādurgāh šustan ...
+                rōz ī sidīgar pēš az ādurgāh šustan <em>yaθā ahū vairiiō</em> (Y0.Ext3) dō ...</ab>
+            <ab class="ab_indent">When he wants to clean the <em>ādurgāh </em> first, he has to made his hands clean with 
+                <em>pādyāb</em> and to look at the fire and the <em>barsom</em> He has to make anew his hands clean.  He has to recite 
+                <em>xšnaoθra ahurahe mazdā̊ tarōidite</em> (Y0.Ext1)  until <em>fərašaōtəməm</em> He has to make anew his hands clean with <em>pādyāb</em> 
+                (He has to continue with) three Ašemwohū. ...
+                The second day, when he performs the Yašt for Srōš, before cleaning the <em>ādurgāh</em>, he has to recite five Yatāhuwairyō. He should clean the <em>ādurgāh</em> ...
+                The third day, before cleaning the <em>ādurgāh</em>, (he should recite) two <em>yaθā ahū vairiiō</em> (Y0.Ext3) </ab>
+            <ab>Y0.1 Var.d (300, 355, 360, 370):</ab>
+            <ab class="ab_indent">
+                ka ādurgāh kāmēd šustan naxost dast pad pādyāb abāz kunišn u-š  <em>xšnaōθra ahurahe mazdā̊ taraōi.diti</em> (Y0.Ext1) tā <em>staōmi aṣ̌əm</em> 
+                bē gōwišn u-š  nōg  dast pad pādyāb abāz kunišn <em>aṣ̌əm vohū</em> (Y0.Ext2) sē ...
+                rōz ī dudīgar ka yašt ī srōš kunēd pēš az ādurgāh suštan yatāhūwairyō panǰ bē gōwišn u-š ādurgāh šustan ...
+                rōz ī sidīgar pēš az ādurgāh šustan <em>yaθā ahū vairiiō</em> (Y0.Ext3) dō bē gōwišn</ab>
+            <ab class="ab_indent">
+                When he wants to clean the <em>ādurgāh</em>, first, he has to make his hands clean with <em>pādyāb</em>.  
+                He has to recite <em>xšnaoθra ahurahe mazdā̊ taraōi.dīti</em> (Y0.Ext1) until <em>staōmi aṣ̌əm</em> He has to make anew his hands clean with <em>pādyāb</em> 
+                (He has to continue with) three Ašemwohū. ...
+                The second day, when he performs the Yašt for Srōš, before cleaning the <em>ādurgāh</em>, he has to recite five Yatāhuwairyō. He should clean the <em>ādurgāh</em>  ...
+                The third day, before cleaning the <em>ādurgāh</em>, (he should recite) two <em>yaθā ahū vairiiō</em> (Y0.Ext3) </ab>  
+            <ab>See as well Y0.Ext3 for further <em>nērang</em></ab>
+            
+            
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+            <ab>N28.30 (Mss. 5, 40, 82, 400, 410):</ab>
+            <ab class="ab_indent">
+                az bunīh ēn and tis ōh abāyēd barsomdān wistarišn any kār nē dānēm abārīg pad gāh ī xwēš rasēd ā šāyēd dādweh guft hād ka parahōm kard andar ān pad hān 4 <em>ẏaθā ahū vairiiō</em> 
+                pādyāb ān gyāg abāyēd dādweh guft ay be nigērišn</ab>  
+            <ab class="ab_indent">
+                "From the beginning, the following things are necessary: the <em>barsom</em> stands should be put in place; I don't know of any other action. If the other things come at the 
+                proper time it is permissible. <em>Dādweh</em> said: "When the <em>parāhōm</em> is prepared, during those four <em>Ahuna Vairiia</em> the <em>pādyāb</em> must
+                be in place." <em>Dādweh</em> said: "One should gaze at it."</ab>
+        </Quotations>
+        
+        <ModernPractice id="ritualModernPractice">
+            <ab>
+                <ab>
+                    <bibl>Redard and Daruwalla, 2021</bibl>, pp. 69-70: </ab>
+                <ab class="ab_indent">"... then the priest who has performed the <em>Paragnā</em>,
+                    he remains seated on the stone seat keeping his hand on the bundle. After that,
+                    the priest who is about to become the chief priest, he standing in the
+                        <em>pāvī</em> outside of the <em>pāvī</em> of the table of the ritual
+                    precinct, reciting one <em>Aṣ̌ǝm Vohū</em>, coming into the <em>pāvī</em> of
+                    the table, he stands near the water container containing the pure
+                    implements."</ab>
+            </ab>
+        </ModernPractice>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY0.1"/>
+        <include type="W" corresp="WTrY0.1a"/>
+        <include type="K" corresp="KTrY0.1"/>
+        <include type="D" corresp="DTrY0.1a"/>
+    </translation>
+</text>

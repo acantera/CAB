@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y9.27" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y9.27">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY9.27"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y9.3.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y9.27a <em>nmānō.paite vīspaite zaṇtu.paite daiŋ́hu.paite ... vaēiδiiā.paite</em>] Geldner <em>... zaṇtupaite daiŋ́hupaite ... vaēiδiiā paite</em>; Kellens <em>... zaṇtupaite daŋ́hupaite ... </em>; Pirart <em>nmąnō.paite ... daŋ́hu.paite</em>.</ab>
+         <ab>Y9.27b <em>ϑrimāica</em>] Geldner, Kellens; Pirart <em>*ϑrumāica</em>.</ab>
+         <ab>Y9.27b <em>yat̰</em>] Pirart. del.</ab>
+         <ab>Y9.27b <em>pouru.baōxšnahe</em>] pro ⁺<em>pouru.baōxšnāi</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>amāica ... vərəϑraγnāica ... ϑrimāica</em> ~ Yt1.22 <em>aməmca ϑrəməmca ... yazamaide</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY9.27"/>
+        <include type="W" corresp="WTrY9.27"/>
+        <include type="K" corresp="KTrY9.27"/>
+        <include type="D" corresp="DTrY9.27"/>
+    </translation>
+</text>

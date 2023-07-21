@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y72.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y72.1">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y72.1NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY72.1"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: ms. 40. Cf. VrS97.1, VVrS97.1, VytVrS97.1.</ab>
+            <ab class="ab_indent">zōt: Anklesaria, Kotwal and Boyd</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>Y72.1-5 = Y61.1-5</ab>
+      <ab>Y71.1 = Y61.1.</ab>
+      <ab><em>yeŋ́hē.hātąmca hufrāiiaštąm</em> ~ VrS2.14, VrS17.13, VrS77.13 <em>yeŋ́hē.hātąm hufrāiiaštąm</em>.</ab>
+   </Parallels>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y72.1 Var. a (mss. 40, 88, 400, 410, 2010, 2030, 2106, 2109, 4161):</ab>
+         <ab class="ab_indent">
+            ēn gyāg ō pāy ēstišn rāspīg dast pad pādyāb bē kunišn pad gāh frabardārān šawišn abāg zōt abastāg bē gōwišn <em>ahunəm vairīm</em> ... </ab> 
+         <ab class="ab_indent">
+            "At this passage, (the <em>zōt</em>) has to stand up. The <em>rāspīg</em> has to wash his hands with <em>pādyāb</em>, to go to the place of the <em>frabardārān</em> 
+            and to recite the <em>abastāg</em> with the <em>zōt: ahunəm vairīm</em> ..."</ab>
+         <ab>Y72.1 Var. b (mss. 5, 2007, 2101, 4010, 4025, 4040, 4050, 5020):</ab>
+         <ab class="ab_indent">
+            ēn gyāg ō pāy ēstišn rāspīg dast pad pādyāb bē kunišn pad gāh ābardān šawišn abāg zōt abastāg bē gōwišn <em>ahunəm vairīm</em> ...</ab> 
+         <ab class="ab_indent">
+            "At this passage, (the <em>zōt</em>) has to stand up. The <em>rāspīg</em> has to wash his hands with <em>pādyāb</em>, to go to the place of the <em>ābardān</em> and to
+            recite the <em>abastāg</em> with the <em>zōt ahunəm vairīm</em> ..."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY72.1"/>
+      <include type="W" corresp="WTrY72.1"/>
+      <include type="K" corresp="KTrY72.1"/>
+      <include type="D" corresp="DTrY72.1"/>
+   </translation>
+</text>

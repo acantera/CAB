@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS3.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y3.1" xml:id="VrS3.1">
+        <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY3.1a" on_line="in1lineblock"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/RatuGen" xpointer="RatuGen2" on_line="in1line"/>
+        <!-- All five possibble -->
+        <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY3.1b" on_line="in1line"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. VrS2.25. Cf. Y3.1.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Var. b (mss. 2007, 2010):</ab>
+            <ab class="ab_indent" n="NerangTransc.a" xml:id="VrS3.1NerangTransc.a" xml:lang="Pahl">drōn ud gōšudāg ud ēsm ud bōy 3 tāg ānōh nihādan ud frasast aziš kār-ē nēst srōšdrōn pad bun pad ʾsšn' har čiš bē nigerišn tā srōšdrōn xwardan ā-š wars ud abzār az barsom ō pahrezišn hōm kamistīh 3 tāk urwarām pārag-ē nihādan</ab>
+            <ab class="ab_indent" n="NerangEnglish.a" xml:id="VrS3.1NerangEnglish.a">"He should put there in place the <em>drōn</em> and the <em>gōšudāg</em> and three pieces of <em>ēsm</em> and bōy. There is no need of any <em>frasast</em>. At the beginning of the Srōš Drōn, he has to gaze continously and carefully at the implements until the partaking of the <em>drōn</em>. He should keep the <em>wars</em> and the tools away from the barsom. He should put in place the <em>hōm</em> (at least three pieces) and the <em>urwarām</em> (one piece).."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation/>
+</text>

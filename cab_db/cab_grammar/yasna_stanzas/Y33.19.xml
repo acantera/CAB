@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y33.19" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y33.19">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YeH" xpointer="YeH"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y33.19 Var. a (mss. 5, 6, 15, 88, 2005, 2007, 2010, 2030, 2040, 2104, 2109, 4000, 4010, 4020, 4025, 4030a, 4040, 4050, 4055, 4060, 4063, 4162, 5020):</ab>
+         <ab class="ab_indent">
+            <em>yeŋ́hē hātąm</em>. tā sar guftan ēn gyāg hōm ud urwarām kōftag ō ī rāspīg dahišn ō ī dast ī hōy ī zōt barišn hāwan ō ī dast ī hōy nihādan ǰīwdān abar sar ī zōhr nihādan 
+            az yanīm tā ērman sar harw <em>yazamaide</em> ēsm-ē tāg ō ī ātaxš nihādan</ab>
+         <ab class="ab_indent">
+            "They have to recite <em>yeŋ́hē hātąm</em> until the end. At this passage, (the <em>zōt</em>) has to give the pounded <em>hōm</em> and <em>urwarām</em> to the 
+            <em>rāspīg</em> and (the latter) has to bring it to the left side of the <em>zōt</em>. He has to put the <em>hāwan</em> on the left side and to put <em>ǰīwdān</em> on the 
+            <em>zōhr</em>. (The <em>rāspīg</em>) should put one piece of wood into the fire at each <em>yazamaide</em> since the <em>Yānīm</em> until the end of the Ērman."</ab>
+         <ab>Y33.19 Var. b (ms. 40): </ab>
+         <ab class="ab_indent">
+            <em>yeŋ́hē hātąm</em>. skūrag andar mayān ī hōm pālā nihišn rāspīg pad sar ī čahār angust abar gīrišn be dast ī hōy ī zōt barišn ǰīwdān abar sar ī zōhr nihišn</ab>
+         <ab class="ab_indent">
+            "He has to put the bowl in the middle of the <em>hōm pālā</em>. The <em>rāspīg</em> has to take it with the tips of four fingers and bring it to the left hand of the 
+            <em>zōt</em> and to put the <em>ǰīwdān</em> on the <em>zōhr</em>."</ab>
+         <ab>Y33.19 Var. c (mss. 83, 2101):</ab>
+         <ab class="ab_indent">
+            <em>yeŋ́hē hātąm</em>. tā sar guftan ēsm ud bōy ō ī ātaxš dahišn zōhrdān andar mayān ī hōm pālā nihādan hāwan ō ī dast ī rāspīg dahišn tā ō ī dast ī hōy ī zōt barēd zōt hāwan 
+            nūn gīrēd ud rāspīg zōhr be gāh ī frabardārān barišn zōt abar gīrišn u-š ǰīvdān abar sar ī zōhr nihišn tā yāšōtan az yānīm tā  ā. <em>airiiə̱mā</em> pad harw <em>yazamaide </em> ēsm-ē ō ī ātaxš dahišn</ab>
+         <ab class="ab_indent">
+            "They have to recite <em>yeŋ́hē hātąm</em> until the end. (The <em>rāspīg</em>) should give one piece of wood to the fire. (The <em>zōt</em>) should put the <em>zōhrdān</em> in the middle 
+            of the <em>hōm pālā</em> and the has to give the <em>hāwan</em> to the hand of the <em>rāspīg</em> so that he brings it to the left hand of the <em>zōt</em>. The <em>zōt</em> takes now the 
+            <em>hāwan</em>. The <em>rāspīg</em> has to go to the place of the <em>frabardārān</em> and the <em>zōt</em> has to take it and he has to put the <em>ǰīwdān</em> on 
+            the <em>zōhr</em> until <em>yāšōtan</em>. From Yānīm until ā. <em>airiiə̄mā</em>, (the <em>rāspīg</em>) has to give a piece of <em>ēsm</em> to the fire at each <em>yazamaide</em>."</ab>
+     </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY33.19"/>
+   </translation>
+</text>

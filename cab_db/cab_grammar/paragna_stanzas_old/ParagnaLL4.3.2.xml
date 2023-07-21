@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL4.3.2" status="created">  <!-- created, approved, updated--> <header><creators><creator>Porro</creator><creator>Cantera</creator></creators><created>1 June 2019</created></header><div type="Stanza" sameAs="" n="2" xml:id="ParagnaLL4.3.2">
+                        <include href="/db/apps/cab_db/cab_rituals/blueprint/Khordeh_rituals/Nerang/NerJamDuxtan" xpointer="NerJamDuxtan3.2a"/>
+                        <include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen64a"/>
+                        <include href="/db/apps/cab_db/cab_rituals/blueprint/Khordeh_rituals/Nerang/NerJamDuxtan" xpointer="NerJamDuxtan3.2b" on_line="in1lineblock"/>
+                        <include href="/db/apps/cab_db//cab_rituals/nerang/khordeh_nerangs/NerJamDuxtan_nerang" xpointer="NerJamDuxtan1.2NerangTransc.a"/>
+                        <include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen64b"/>
+                        <include href="/db/apps/cab_db/cab_rituals/blueprint/Khordeh_rituals/Nerang/NerJamDuxtan" xpointer="NerJamDuxtan3.2c" on_line="in1lineblock"/>
+                        <include href="/db/apps/cab_db//cab_rituals/nerang/khordeh_nerangs/NerJamDuxtan_nerang" xpointer="NerJamDuxtan1.2NerangTransc.b"/>
+                        <include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen64c"/>
+                        <include href="/db/apps/cab_db/cab_rituals/blueprint/Khordeh_rituals/Nerang/NerJamDuxtan" xpointer="NerJamDuxtan3.2d" on_line="in1lineblock"/>
+                        <include href="/db/apps/cab_db//cab_rituals/nerang/khordeh_nerangs/NerJamDuxtan_nerang" xpointer="NerJamDuxtan3.2NerangTransc.a"/>
+                    </div><Apparatus><Critical/><Commentary/></Apparatus><Parallels/><Ritual/><translation><include type="CAB" corresp="CABTrParagnaLL4.3.2"/></translation></text>

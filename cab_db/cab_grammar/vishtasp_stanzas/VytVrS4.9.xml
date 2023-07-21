@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VytVrS4.9" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="VVrS4.9" xml:id="VytVrS4.9">
+      <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VytS4.2"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. VVrS4.8.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>āat̰ dīš āuuaēδaiiamahi ...</em>] <em>āat̰ dīš āuuaēδiiamahe asńiiaēibiiō aṣ̌ahe ratubiiō (5010: yasnāica)</em> cygwn PWN <em>āiiese (5010: yeštti)</em> npšt' OD <em>yōi. həṇti aṣ̌ahe ratauuō</em> (VytVrS4.18) 5010, 5030.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation/>
+</text>

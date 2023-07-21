@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS31.13" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VrS31.13">
+            <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS31.13NerangTransc.a"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS16.7"/>
+            </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels>
+        <ab><em>srauuaŋhąmca zaraϑuštrinąm</em> ~ VrS11.36 <em>vīspa srauuā̊ zaraϑuštri yazamaide</em> ~ Y16.2 <em>zaraϑuštrahe srauuā̊ yazamaide</em>.</ab>
+    </Parallels>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Vid. VrS31.11</ab>
+        </Nerangs>
+    <ab>~ Y27.8</ab>
+    <Quotations id="ritualQuotations">
+    <ab>Cf. N28.47d: </ab>
+    <ab>
+            <em>pad </em>aršuxδanąmcā vacaŋhąm <em> ēw srešk andar ō</em> jīuu <em> abganišn</em>
+        </ab>
+    <ab>At <em>aršuxδanąmca vacaŋhąm</em> he has to pour one drop into the consecrated milk (cf. <bibl>Kotwal and Kreyenbroek, 2003</bibl>: p. 107-9)</ab>
+</Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrVrS31.13"/>
+    </translation>
+</text>

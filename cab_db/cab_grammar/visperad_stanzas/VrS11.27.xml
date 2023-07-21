@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS11.27" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS11.27">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS3.9"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt̰ ud rāspīg: mss. 2040, 2065, 2109; Anklesaria.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>mazdaiiasnō aɱī</em>] KRA II <em>mazdaiiasnō aɱi</em> 2065; lʾspyk W zwt' <em>mazdaiiasnō ahmī</em> 2040; (Pers.) har do ḫvāndan <em>mazdaiiasnō ahmī</em> 2109.</ab>
+         <ab><em>mazdaiiasnō aɱī...</em>] <em>mazdaiiasnō ahmī</em> OD OL Y <em>astūitiš</em> (VrS11.28) 2010, 2070, 2109; <em>mazdaiiasnō ahmī</em> OD <em>astūitiš</em> (VrS11.28) 2030, 2065, 2101; <em>mazdaiiasnō ahmī mazdaiiasnō zaraϑuštrəš.</em> OD <em>astūitiš</em> (VrS11.28) 2007, 2220.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <Parallels>
+         <ab>VrS11.27-28 ≈ Y12.13-14, VrS32.2-3.</ab>
+         <ab>VrS11.27 = VrS32.2; ≈ Y12.13.</ab>
+         <ab><em>mazdaiiasnō zaraϑuštriš frauuarānē</em> ~ Frauuarane.a <em>frauuarāne mazdaiiasnō zaraϑuštriš</em>; ~ VrS11.35 <em>frā gauue vərəṇdiiāi mazdaiiasna zaraϑuštraiiō</em>.</ab>
+         <ab> <em>āstuiiē humatəm manō āstuiiē hūxtəm vacō āstuiiē huuarštəm š́iiaōϑanəm</em> ~ VrS2.13 <em>humatəmca manō hūxtəmca vacō huuarštəmca š́iiaōϑnəm</em>; ~ VrS11.12 <em>narəmca aṣ̌auuanəm āstāiia frāiiō.humatəm frāiiō.hūxtəm frāiiō.huuarštəm</em>; ~ Y57.20, Y57.48 <em>nāca aṣ̌auua frāiiō.humatō frāiiō.hūxtō frāiiō.huuarštō</em>; ~ Y59.32 <em>tū.tūm ... frāiiō.humatō frāiiō.hūxtō frāiiō.huuarštō</em>.</ab>
+      </Parallels>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS11.27"/>
+   </translation>
+</text>

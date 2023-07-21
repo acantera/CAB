@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y24.14" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y24.14">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY24.14a" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat3.1" on_line="in1line"/>
+      <!-- Following after DY25.13 -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY24.14b" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY24.14c" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat3.2" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY24.14d" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY24.14e" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat3.3" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY24.14f" on_line="in1line"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: Kotwal and Boyd.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>Y24.21b <em>āat̰ dīš āuuaēδaiiamahi frādat̰.fšauue</em> ...] <em>āuuaēδaiiamahe frādat̰.fšauue</em> cygwn PWN <em>āiiese yešti</em> npšt' gwptn' OD OL Y <em>miϑrahe dax́iiunąm</em> (Y24.21) 5;
+         <em>dīš āuuaēδaiiamahe</em> cygwn npšt' OD OL Y <em>miϑrahe dax́iiunąm</em> (Y24.21) 6.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>Y24.14 = Y4.9, VrS79.9; ≈ Y1.4, Y2.4, Y3.6, Y6.3, Y7.7, Y17.3, Y22.7 Y59.3, Y66.4, VrS78.16, VrS81.3, VrS82.4.</ab>
+      <ab>VrS27.20 = DoHom4.20.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY24.14"/>
+      <include type="W" corresp="WTrY24.14"/>
+      <include type="K" corresp="KTrY24.14"/>
+      <include type="D" corresp="DTrY24.14"/>
+   </translation>
+</text>

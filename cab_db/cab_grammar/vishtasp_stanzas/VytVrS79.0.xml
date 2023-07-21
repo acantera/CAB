@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VytVrS79.0" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VytVrS79.0">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP9"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab> WazGr8 <em>yaθā. ahū....</em>] In contrast to the Visperad and Vīdēvdād, the Vyt
+            manuscripts show the double <em>wāz gīrišnīh</em>. Ms. 5010, 5030, 5105 and the rest of
+            manuscripts of this group show a <em>nērang</em> indicating it, see below. Ms. 5020
+            gives the text of the double <em>wāz gīrišnīh</em> in extenso. Ms. 5102 have the typical
+               <em>wāz gīrišnīh</em> of the Visperad, because it is dereived from a Visperad
+            manuscript. (AC)</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs"> Ms. 5010 (= 5030, 5105) <ab>zōt ud rāspīg wāz gīrišnīh dōgānag
+            kardan </ab>
+         <ab> The <em>zōt</em> and the <em>rāspīg</em> have to make the double <em>wāz
+            gīrišnīh</em></ab>
+      </Nerangs>
+      <Commentary id="ritualCommentary">
+          <ab>In the other ceremonies, the Frauuarāne of the second Drōn Yašt (VrS79.0) is the same as in the first Drōn Yašt. Only the manuscripts
+         of the Vīštāsp Yašt (with exception of ms. 5102) show the double <em>wāz gīrišnīh</em>. Two alternative explanations are possible: 1. the mansucripts of the Visperad
+         nad the Vīdēvdād have taken the Frauuaraēne of the Srōš Drōn and used it wrongly in the
+         second one 2. there is a real ritual difference between the Drōn Yašt and the rest of
+         the ceremony and the simple <em>wāz gīrišnīh</em> is correct in the all manuscripots, but the ones
+         of the Vīštāsp Yašt. Although there is no certainty, I consider the first hypothesis more
+         likely, since the scribes are usually well aware of the difference between the first and
+         the second Drōn Yašt and copy them faithfully. Accordingly, the dissimilar <em>wāz gīrišnīh</em>
+         in all Vıštāsp Yašt might be a common error harking back to Rōstam Mihrābān’s manuscript
+         or his source. (AC)</ab>
+      </Commentary>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVytVrS79.0"/>
+   </translation>
+</text>

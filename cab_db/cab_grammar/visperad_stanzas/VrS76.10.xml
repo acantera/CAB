@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS76.10" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS76.10">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY58.9"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels><ab><em>masānascā vaŋhānascā sraiianascā</em> = Y58.4; ~ Y12.14, VrS11.28, VrS32.3 <em>mazištāca vahištāca sraēštāca</em>;  ~ Y26.1, Y59.20, VrS81.19, VS19.14, DrYt4.10, Yt13.80 <em>mazištąmca vahištąmca sraēštąmca</em>;
+      ~ Y1.1, Yt13.91, Yt13.92 <em>mazištaheca vahištaheca sraēštaheca</em>.</ab></Parallels>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS76.10 Var. a (mss. 2005, 2007, 2010, 2030, 2040, 2101, 2106, 2109, 4000, 4010, 4025, 4040, 4045, 4050, 4060, 4161, 4162, 5020):</ab>
+         <ab class="ab_indent">
+            pas zōt gōwēd <em>hə̄.ptā gə̄ušcā aṣ̌aŋhācā</em> čīyōn nibišt tā ō ī <em>huuarə̄ auuācī</em>.</ab>
+         <ab class="ab_indent">
+            "Then the <em>zōt</em> recites: <em>hə̄.ptā gə̄ušcā aṣ̌aŋhācā</em> as it is written until <em>huuarə̄ auuācī</em>."</ab>
+         
+         <ab>VrS76.10 Var. b (ms. 2104):</ab>
+         <ab class="ab_indent">
+            ēn čīyōn nibišt ēstēd rāspīgān ‡kunēd ‡ pad gāh-ē ēstēd haft gāh čīyōn paydāg zōt guftan <em>hə̄.ptā gə̄ušcā aṣ̌aŋhācā aṣ̌aōnascā aṣ̌āuuairiiā̊scā</em> tā ō ī <em>yā.at̰ auuācə̄</em>.</ab> 
+         <ab class="ab_indent">
+            "He makes this as it is written for the <em>rāspīg</em>, he stays (each time) at one place of the places as it is represented in the picture. The <em>zōt</em> should say: 
+            <em>hə̄.ptā gə̄ušcā aṣ̌aŋhācā aṣ̌aōnascā aṣ̌āuuairiiā̊scā</em> until <em>yā.at̰ auuācə̄</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS76.10"/>
+   </translation>
+</text>

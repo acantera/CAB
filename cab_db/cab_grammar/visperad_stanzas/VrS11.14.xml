@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS11.14" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y11.9" xml:id="VrS11.14">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS11.14NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY11.9"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">rāspīg: vid. Nērangs. Cf. Y11.9.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>yō nō aēuuō...</em>] <em>ẏō nō aēuuō</em> cygwnPWN yšt' YHWWN-yt'. OD <em>vīspō.xᵛāϑrəm</em> (VrS11.15) 2065.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS11.14 Var. a (mss. 2010, 2030, 2040, 2070, 2101, 2109, 4000, 4010, 4020, 4040, 4045, 4050, 4161, 4162, 4030a):</ab>
+         <ab class="ab_indent">
+            rāspīg parāhōm pad dast ī hōy abar griftan pad gāh ī frabardārān šawišn dast čahār angust az barsom dūr dārišn  yō. nō. bē gōwišn tā gyāg parāhōm ul ō ī zōt dahišn 
+            <em>yō nō aēuuō at̰ tē uiiē ϑrāiiōidiiāi tūrahe maṇdāidiiāi xšuuīdəm haptāždiiāi nauua dasme yōi və̄ yaēϑma</em></ab>
+         <ab class="ab_indent">
+            "The <em>rāspīg</em> should take the <em>parāhōm</em> with the left hand and has to go to the place of the <em>frabardarān</em>. He has to hold his hand at a distance of 
+            four finger away from the <em>barsom</em>. He has to recite <em>yō nō</em> until the moment when he has to give the <em>parāhōm</em> to the <em>zōt: yō nō aēuuō at̰
+            tē uiiē ϑrāiiōidiiāi tūrahe maṇdāidiiāi xšuuīdəm haptāždiiāi nauua dasme  yōi və̄ yaēϑma</em>"</ab>
+         <ab>VrS11.14 Var b (mss. 2007, 5020):</ab>
+         <ab class="ab_indent">rāspīg parāhōm ul stānišn ud bē gāh ī frabardārān šawišn ud bē gōwišn 
+            <em>yō nō aēuuō at̰ tē uiiē ϑrāiiōidiiāi tūrahe maṇdāidiiāi xšuuīdəm haptāždiiāi nauua dasme yōi və̄ yaēϑma</em>.</ab>
+         <ab class="ab_indent">"The <em>rāspīg</em> has to take the <em>parāhōm</em>, go to the place of the <em>frabardārān</em>
+            and say: <em>yō nō aēuuō at̰ tē uiiē ϑrāiiōidiiāi tūrahe maṇdāidiiāi xšuuīdəm haptāždiiāi nauua dasme yōi və̄ yaēϑma</em>"</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS11.14"/>
+   </translation>
+</text>

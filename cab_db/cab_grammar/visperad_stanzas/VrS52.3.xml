@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS52.3" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS52.3">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Vid. VrS52.1</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS52.3"/>
+   </translation>
+</text>

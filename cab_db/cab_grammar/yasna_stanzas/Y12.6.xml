@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y12.6" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y12.6">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY12.1"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: Anklesaria, Kotwal and Boyd, Geldner.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y12.6a <em>nāismī</em>] secondary from <em>nāist</em>.</ab>
+         <ab>Y12.6d <em>vohu.maidē</em>] YIrS, 2007, 2010, 2109, 4025, 5020, YP, 672 <em>°maidē̌</em>, but In. mss., some VrIrS, VIrS (except 4025), YCom, 677 <em>°maitē°ˇ̌</em>; Geldner, Kellens <em>vohumaitē</em>. <bibl>Hintze, 2000</bibl>
+            (pp. 171-173) <em>vohumaidē</em>, from a root <em>mad-</em> "assign". Lectio difficilior: <em>-tē</em> influenced by the context (<em>raēuuaitē xᵛarənaŋᵛhaitē</em>). 
+            <em>°u.maidē</em> better attested as <em>°umaidē</em>. Cf. VS19.11, attesting regularly <em>-maid/δe</em> (vid. also Parallels).</ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab><em>nāismī daēuuō ...</em>] <em>nāismī daēuuō</em> OD OL Y <em>māzdaiiasnōiš
+               āstūitiš</em> (Y12.14) 40.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>Vid. Parallels Y12.4.</ab>
+      <ab><em>frauuarānē mazdaiiasnō zaraϑuštriš vīdaēuuō ahura.t̰kaēšō</em> = Frauuarane.a.</ab>
+      <ab><em>frauuarānē mazdaiiasnō zaraϑuštriš</em> ~ Y12.13, VrS11.27, VrS32.2 <em>mazdaiiasnō
+            zaraϑuštriš frauuarānē</em>; ~ Y12.11 <em>azə̄mcīt̰ yō mazdaiiasnō
+         zaraϑuštriš</em>.</ab>
+      <ab><em>ahurāi mazdāi vaŋhauuē vohu.maidē vīspā vohū cinaɱī</em> ~ Y12.14, VrS11.28, VrS32.3
+            <em>ahurāi mazdāi vīspā vohū cinaɱī</em>; ~ Y13.5, Y39.4, VrS65.48, VS10.4 <em>yā vōhū
+            aϑā tōi dadəmahī aϑā cīšmahī ... ϑβā mazdā ahurā</em>.</ab>
+      <ab><em>ahurāi mazdāi vaŋhauuē vohu.maidē</em> ~ VS19.11 <em>ahurāi mazdāi vaŋhauue
+            vohu.maide</em></ab>. <ab><em>ahurāi mazdāi ... raēuuaitē xᵛarənaŋᵛhaitē</em> ~
+            <em>passim</em>
+         <em>ahurahe mazdā̊ raēuuatō xᵛarənaŋᵛhatō</em>.</ab>
+      <ab><em>aṣ̌āune raēuuaitē xᵛarənaŋᵛhaitē yā.zī cīcā vahištā</em> quotes Y46.5 <em>aṣ̌aunē cōiš
+            yā.zī cīcā vahištā</em>.</ab>
+      <ab><em>raōcə̄bīš rōiϑβən xᵛāϑrā</em> quotes Y31.7.</ab>
+   </Parallels>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Vid. Y12.2. Cf. VVrS12.6.</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY12.6"/>
+      <include type="W" corresp="WTrY12.1"/>
+      <include type="K" corresp="KTrY12.1"/>
+      <include type="D" corresp="DTrY12.1"/>
+   </translation>
+</text>

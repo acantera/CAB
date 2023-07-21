@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y9.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y9.1" headerPointer="Head9">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY9.1"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: Geldner, Kotwal and Boyd.</ab>
+            <ab class="ab_indent">zōt ud rāspīg <em>hāuuanīm ... ahi</em>, zōt [<em>miϑrō ziiāt̰
+                  ...</em>]: <bibl>Anklesaria, 1888</bibl>, p. 48.</ab>
+            <ab class="ab_indent">zōt: N28.40. Vid. Ritual Quotations.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Orthographical/>
+      <Commentary>
+         <ab>Y9.1c ā.dīm] likely for <em>āat̰. īm.</em></ab>
+         <ab>Y9.1c <em>kō narə ahi</em>] add. post. glossa <em>miϑrō ziiāt̰ zaraϑuštrəm</em> 100
+            (sec. manu), 110 (sec. manu), 231, 235, 672, 677. Kellens <em>[miϑrō ziiāt̰
+               zaraϑuštrəm]</em>. Vid. Modern Practice.</ab>
+         <ab>Y9.1d <em>xᵛanuuatō aməṣ̌ahe</em>] add. post. glossa <em>amaraba saiiehe stūn</em> 672,
+            677; <em>amərəza gaiiehe stūna</em> 400, 410, 500, 510; <em>amərəzagaiiie stūna</em>
+            235; <em>amairazaγaiiahi stūnē</em> 231. Kellens <em>[amərəza gaiiehe stūna]</em>;
+               <bib>Unvala, 1924</bib>, p.6 also includes the text. <bibl>Pirart, 2004</bibl>, p.59,
+            n.16 cf. Yt10.71 <em>mərəzuca stūnō gaiiehe</em>.</ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab><em>hāuuanīm ā ratūm</em> ...] <em>hāuuanīm ā ratūm</em> OD LOYŠE <em>višapą̇m iδa
+               patəṇtu</em> (Y10.1) 40.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab><em> ā.dim. pərəsat̰. zaraϑuštrō.</em> ~ Nik 1 <em>ādim. pərəsat̰. zaraθuštrō. ahurahe. mazdā̊.</em></ab>
+      <ab><em>gāϑā̊sca srāuuaiiaṇtəm</em> ~ Y19.5 <em>gāϑanąm anapiiūxδanąm anapišūtanąm srāuuaiiamnanąm</em>; ~ VS18.9 <em>yō ... nōit̰ gāϑā̊ srāuuaiieiti</em>.</ab>
+      <ab><em>ā.dim pərəsat̰ zaraϑuštrō kō narə ahi yim azəm vīspahe aŋhə̄uš astuuatō sraēštəm dādarəsa</em> 
+         ~ VytS8.5 <em>ā.dim aōxta pərəsō yō narš aṣ̌aōnō uruua cišca tūm carāitiš ahi yąm. it̰.yauua carāitinąm kəhrpa sraēštąm dādarəsa</em>.</ab>
+      <ab><em>vīspahe aŋhə̄uš astuuatō</em> = VS18.30, VS18.31, VytS5.3, YtOhr2.2 (x2), YtOhr2.4 (x2); ~ Y19.10, VS1.2, VS3.33, VS5.4, VS5.7, VS8.34 <em>vīspō aŋhuš astuuā̊</em>;
+         ~ Y19.2, Y19.4, Y57.24, VS18.16, VS18.24, YtSr8.2, YtSrH3.2, ARap2.4, KardeSrošRawan2.2 <em>vīspəm ahūm astuuaṇtəm</em>.</ab>
+      <ab><em>xᵛahe gaiiehe xᵛanuuatō aməṣ̌ahe</em> = Yt8.11, Yt10.55.</ab>
+   </Parallels>
+   <Ritual>
+      <Quotations id="ritualQuotations">
+         <ab>N28.40 <bibl>Kotwal and Kreyenbroek, 2003</bibl>, pp. 96-97:</ab>
+         <ab class="ab_indent">Dādweh guft hād nar [ka wars] pad parāhōm kard estēd, ēw-tom [[hān ī
+            xūbtar]] az rāspīg ī abēgumān wāz frāz gīrēd. Ēk pad abestāg frōd kunēnd ud zōt hōm-stūt
+            bun abāz kunēd, pad hōm-stūt bun be nigērišn. Pad <em>nəmō haōmāi mazdaδātāi vaŋhuš
+               haōmā huδātō</em> be nigērišn. Pas ka nihuft estēd weh-iz ast.</ab>
+         <ab class="ab_indent">"Dādweh said: 'When the priest has applied the <em>waras</em> to the
+               <em>parāhōm</em> the foremost priest [[i.e. the best]] takes the <em>bāj</em> from a
+            well-qualified <em>rāspī</em> (= Y9.0). They set down one with (recitation of) Avestan,
+            and the <em>zōt</em> starts (reciting) the Hōm Stūt from the beginning (= Y9.1); at the
+            beginning of the Hōm Stūt he should gaze at it. At <em>nəmō haomāi mazdaδātāi vaŋhuš
+               haomō huδātō</em> he should gaze at it (again). After this it is indeed better if it
+            is hidden."</ab>
+         <ab class="ab_indent"><bibl>Kotwal and Kreyenbroek, 2003</bibl>, p.97, n. 333 "Probably
+            Y9.16; although extant versions of the text do not contain the word
+            <em>mazdaδātāi</em>". More likely Y11.8 (= VrS11.8) before the installation of the
+            priests (VrS11.9), mentioned just afterwards in N28.41, but the text does not contain
+               <em>huδātō</em>, but <em>mazdaδātō</em>.</ab>
+      </Quotations>
+      <ModernPractice id="ritualModernPractice">
+         <ab><bib>Unvala, 1924</bib>, p. 4, n. e: </ab>
+         <ab>"It must be noted that the expr. <em>miϑrō zyāṯ zaraϑuštrəm</em> [...] is never left
+            out in the recitation of Y. IX during ceremonies".</ab>
+      </ModernPractice>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY9.1"/>
+
+      <include type="W" corresp="WTrY9.1"/>
+      <include type="K" corresp="KTrY9.1"/>
+      <include type="D" corresp="DTrY9.1"/>
+   </translation>
+</text>

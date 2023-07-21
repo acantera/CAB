@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS1.18" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y1.10" xml:id="VrS1.18">
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY1.10"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. VrS1.4.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <RecitationInstruction>
+            <ab><em>ńiuuaēδaiiemi  haṇkāraiiemi ... zaraϑuštrō.fraōxta</em>] <em>niuuaē. vīspaēibiiīo aēibiiō ratubiiī</em> čygwn PWN yšt YHWWNyt OD. ʾysnyy sl OD. <em>pərənō.mā̊ŋhəm</em> (VrS2.8) 2065;
+            <em>yōi həṇti aṣ̌ahe ratauuō ϑraiiasca</em> gwptn' OD OL Y <em>pərənō.mā̊ŋhāi</em> (VrS2.8) 2070; <em>niuu. haṇ. vīspaēibiiō aēibiiō ratubiiō yōi həṇti</em> OD <em>daŋ́hupatōiš</em> (VrS1.19) 2230.
+            </ab>
+        </RecitationInstruction>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrVrS1.18"/>
+    </translation>
+</text>

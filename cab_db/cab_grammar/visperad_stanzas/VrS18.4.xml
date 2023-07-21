@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS18.4" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS18.4">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS8.4"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y17.18.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>VrS18.4a] grammatically irr. <em>auuā̊</em> (fem. acc. pl.) + <em>dāmąn</em> (nt. gen. sg. or nt. acc. pl.?) + <em>aṣ̌auuanō</em> (fem.? nom. as acc. pl.?). Cf. Y16.3, where <em>dāmąn</em> nt. acc. pl. as fem.</ab>
+         <ab>Vrs18.4c <em>vouru.kašəm</em>] sec. cod., Kellens sec. Bartholomae; Geldner <em>vourukaṣ̌əm</em>.</ab> 
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS18.4 = VrS28.5.</ab>
+      <ab><em>auuā̊ dāmąn aṣ̌auuanō yazamaide yā̊ həṇti paōiriiō.dāta paōiriiō.fraϑβaršta</em> ~ Y16.3 <em>pauruuā̊ dātā̊ dāmąn aṣ̌aōnīš ... yazamaide</em>.</ab>
+      <ab><em>apāat̰ca zəmāat̰ca uruuaraiiāat̰ca</em> ~ Y1.17, Y3.19, Y4.22, Y7.20, Y22.20, Y24.27, Y66.17, Y71.20, VrS78.29, VrS79.22, VrS82.17 <em>apąmca zəmąmca uruuaranąmca</em>;
+         ~ Y2.17, Y6.16, Y17.17, Y59.17, VrS81.16, VVrS14.15, VS6.3 <em>apasca zəmasca uruuaraiiā̊sca</em>; ~ G2.6 <em>apasca zəmasca yazamaide uruuarā̊sca</em>.</ab>
+      <ab><em>gaōt̰ca huδā̊ŋhat̰</em> ~ VrS1.17, VrS2.19, VrS17.18, VrS25.19, VrS27.33, VrS77.18, VrS90.1, VS5.20 (x2), VytS6.2 <em>gauue huδā̊ŋhe</em>; 
+         ~ Y4.1 (x2), Y4.3 (x2), VrS27.9, V13.45 <em>gąmca huδā̊ŋhəm</em>; ~ VrS28.5 ; Y59.22 <em>gə̄uš huδā̊ŋhō uruuanəm</em>; ~ FrW6.1 <em><em>gə̄uš huδā̊ŋhō uruuane</em></em>.</ab>
+      <ab><em>zraiiō vouru.kašəm</em>: <em>zraiiah- vouru.kaša-</em> <em>passim</em>, e.g. ~ VS5.19, VS5.23 <em>zraiiō vouru.kašəm</em>; 
+         Y42.4, VrS65.71 <em>zraiiaŋhō vouru.kašahe</em>; ~ VS5.15 <em>zraiiaŋhat̰ haca vouru.kašāt̰</em>, etc.</ab>
+      <ab><em>vātəm daršīm mazdaδātəm yazamaide</em> ~ Y42.3 <em>vātəmcā daršīm mazdadātəm yazamaide</em>.</ab>
+      <ab><em>vātəm daršīm</em> ~ Yt8.33, Yt18.5, Yt18.7 <em>vātō daršiš</em>; ~ Yt8.34 <em>vātasca yō daršiš</em>.</ab>
+      <ab><em>asmanəm xᵛanuuaṇtəm</em> = VS19.35.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS18.4"/>
+   </translation>
+</text>

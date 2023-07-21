@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y7.24" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y7.24">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY7.21c"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY7.21d"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y7.21.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>aṣ̌aiia dadąmi xᵛarəϑəm miiazdəm ... aōxtō.nāmanō yazatahe</em>] MN <em>aṣ̌aiia daδąmi xᵛarəϑəm miiazdəm hauruuata</em> OD <em>puϑra aōxtō.nāmanō yazatahe</em> II bʾl gwptn' 5, 6; II bʾl gwptn' 15, 88.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>Cf. Y7.22 and Y7.23.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY7.24"/>
+
+        <include type="W" corresp="WTrY7.21b"/>
+        <include type="K" corresp="KTrY7.21b"/>
+        <include type="D" corresp="DTrY7.21b"/>
+    </translation>
+</text>

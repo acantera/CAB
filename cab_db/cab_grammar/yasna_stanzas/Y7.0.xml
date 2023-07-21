@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y7.0" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y7.0">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y7.0NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr1"/>
+      <!-- Only WazGr1 possible -->
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: antiphonal recitation.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab><em>yaϑā ahū vairiiō ...</em>] om. 400, 410, 500, 510, 672, 677.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY7.0"/>
+      <include type="W" corresp="WTrY6.21b"/>
+      <include type="K" corresp="KTrY6.21b"/>
+      <include type="D" corresp="DTrY6.21b"/>
+   </translation>
+</text>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS19.0" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS19.0">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS19.0NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr1"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Nērangs, Recitation Instruction.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>yaϑā ahū vairiiō</em>...] lʾpsyk OL gʾs Y plbltʾlʾn OẔLWNšn <em>yaϑā ahū vairiiō</em> ... zwt <em>aϑā ratuš</em> krtn' 2000; 
+            lʾspyk PWN gʾs Y plbltʾlʾn' gwptn' <em>yaϑā ahū vairiiō</em> ...  zwt' <em>aϑā ratuš</em> krtn' 2007, 2070; lʾspyk PWN gʾs Y plbltʾ lʾn' OẔLWN-šn' BRA gwbšn' <em>yaϑā ahī vairiiō</em> ... zwt <em>aϑā ratuš</em> krtn' 2010, 2030;
+            lʾspyk PWN gʾs Y plbltʾlʾn' ZK gywʾk AYḴ zwt' OẔLWN-tn' <em>yaϑā ahī vairiiō</em> ... zwt' <em>aϑā ratuš</em> krtn' 2040; lʾpsyk OL gʾs Y plbltʾlʾn OẔLWNšn <em>yō zaotā</em> zwt <em>aϑā ratuš</em> krtn' 2065; 
+            lʾspyk PWN gʾs Y plbltʾlʾn' <em>yaϑā ahī vairiiō</em> ...  zwt' <em>aϑā ratuš</em> krtn' 2101; lʾspyk' PWN gʾs Y plbltʾlʾn' ZK gywʾk AYḴ YDE Y hwd zwt' AYT' ʾp̄ʾyt' gwptn' <em>yaϑā ahī vairiiō</em> ... zwt' <em>aϑā ratuš</em> krtn' 2106;
+            lʾspyk PWNgʾs Y plbltʾlʾn' OẔLWN-šn' nzdyk Y YDE hwd ʾp̄ʾyt gwptn' <em>yaϑā ahū vairiiō</em> ... zwt' <em>aϑā ratuš</em> krtn' 2109.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS19.0 (mss. 2000, 2010, 2040, 2109, 4000, 4010, 4020, 4025, 4040, 4045, 4050, 4161, 4162, 5020, 4030a):</ab>
+         <ab class="ab_indent">
+            rāspīg pad gāh ī frabardārān šawišn ān gyāg kū dast ī hōy ī zōt abāyēd guftan <em>yaϑā ahū vairiiō yō zaōtā frā.mē mrūtē</em> zōt <em>aϑā ratuš</em> kardan</ab> 
+         <ab class="ab_indent">
+            "The <em>rāspīg</em> has to go to the place of the <em>frabardārān</em>, to the place to the left hand of the <em>zōt</em>, and must say: <em>yaϑā ahū vairiiō yō zaōtā 
+               frā.mē mrūtē</em>. The <em>zōt</em> should answer: <em>aϑā ratuš</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS19.0"/>
+   </translation>
+</text>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL2.2.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="1" xml:id="ParagnaLL2.2.1">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL2.2.1 Var. a (Mss. K7, RJ; RKS):</ab>
+            <ab class="ab_indent">
+                <em>xšnaoϑra ahurahe mazdā̊</em> goftan aivyanghan bar miyān-e barsom be dasturi ke kosti bar miyān mi-bandand pičidan va barsom šemordan va barsom ke kučektar bāšad 
+                be <em>aṣ̌əm</em> sar-aš boridan pe vohū yeki digar yekǧou bolandtar ān boridan pe vahištəm bāqi ǧou bolandtar išān sar-aš boridan va pas <em>uštā astī uštā ahmāi hiiat̰ aṣ̌āi vahištāi aṣ̌əm</em></ab> 
+            <ab class="ab_indent">
+                "He should recite <em>xšnaoϑra ahurahe mazdā̊</em> and  then twine the <em>aivyanghan</em> in the middle of the <em>barsom</em> in the same way as the tie the <em>kosti</em> 
+                in the middle (of the waist). He should count the <em>barsom</em>(-twigs) and (check) which one is the smallest. At <em>aṣ̌əm</em> he should cut its end (the one of the 
+                smallest). At <em>vohū</em>, he should cut another one, one corn of barley longer than that one. At <em>vahištəm</em>, he should cut the end of the rest of twigs, one corn 
+                of barley longer than the previous ones."</ab>
+            
+            <ab>ParagnaLL2.2.1 Var. b (Mss. K36, 31, 89, 19):</ab>
+            <ab class="ab_indent">
+                <em>xšnaoϑra ahurahe mazdā̊</em> ʿaivyānghan avar miyān-e barsom nahādan va <em>aṣ̌əm vohī</em> yek goftan <em>aṣ̌əm</em> kas va <em>vohī</em> miyāne va 
+                <em>vahištəm</em> mas čidan tamām goftan</ab>  
+            <ab class="ab_indent">
+                "(He must recite) <em>xšnaōϑra ahurahe mazdā̊</em> and put the <em>aivyānhān</em> on the middle of the <em>barsom</em>. He should recite one <em>Aṣ̌əm Vohū</em>. 
+                At <em>aṣ̌əm</em>, he should cut a small one; at <em>vohū</em>, a middle one; at <em>vahištəm</em>, a bigger one and recite it complete."</ab>
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+            <ab>N53.42</ab>
+            <ab class="ab_indent">
+                ā-š harw barsom-ē rāy ā-š <em>aṣ̌əm vohū ẏaθā ahū vairiiō</em>-ē bē gōwišn ka abāz ō abestāg ī rāspīgīh estēd ā-š nōg wāz frāz gīrišn.</ab>  
+            <ab class="ab_indent">
+                "Thus for each <em>barsom</em> (twig) he should recite one <em>Aṣ̌əm Vohū</em> and and one <em>ẏaθā ahū vairiiō.</em> When he is back to (the recititation of) the 
+                <em>abastāg</em> proper of the <em>rāspīg</em>, he should take the <em>wāz</em> anew."</ab>
+        </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL2.2.1"/>
+    </translation>
+</text>

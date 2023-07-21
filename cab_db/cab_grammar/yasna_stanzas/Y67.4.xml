@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y67.4" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y67.4" quote="Y38.5">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY67.8a"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY67.8b"/>
+               <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y67.8NerangTransc.a"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY67.8c"/>
+            </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Y67.4-5 Var. a (mss. 40, 88, 400, 410): </ab>
+            <ab class="ab_indent">
+                <em>apascā vā̊ azīšcā vā̊ mātərąšcā vā̊ agəńiiā̊ drigudāiiaŋhō vīspō.paitīš auuaōcāmā vahištā̊ sraēštā̊ auuā və̄ vaŋᵛhīš rātōiš darəgō.bāzāuš</em> zōhr čahār angust az ǰīwām ul 
+                dārišn zōhr andak-ē andar āb kunišn  <em>nāšū paitī</em> zōhr abar āb nihišn <em>viiādā̊ paitī</em> abar barsom <em>sə̄ṇdā̊</em> abar āb <em>mātarō</em> abar barsom 
+                <em>jītaiiō</em> abar āb <em>yeŋ́hē hātąm āat̰ yesnē paitī</em> tā gyāg guftan zōhr abar barsom nihādan</ab>  
+            <ab class="ab_indent">
+                "<em>apascā vā̊ azīšcā vā̊ mātərąšcā vā̊ agəńiiā̊ drigudāiiaŋhō vīspō.paitīš auuaōcāmā vahištā̊ sraēštā̊ auuā və̄ vaŋᵛhīš rātōiš darəgō.bāzāuš</em>. He has to hold the <em>zōhr</em> four <em>angust</em> 
+                from the <em>ǰīwām</em> and to pour one drop of <em>zōhr</em> into the water. At <em>nāšū paitī</em>, he has to put the <em>zohr</em> over the water. At <em>viiādā̊ paitī</em>, 
+                over the <em>barsom</em>. At <em>sə̄ṇdā̊</em>, over the water. At <em>mātarō</em>, over the <em>barsom</em>. At <em>jītaiiō</em>, over the water.  The should recite 
+                <em>yeŋ́hē hātąm āat̰ yesnē paitī</em> until the end and put the <em>zōhr</em> over the <em>barsom</em>."</ab>
+            <ab>Y67.4-5 Var. b (mss. 5, 6, 2007, 2010, 2030, 2101, 2104, 2106, 2109, 4000, 4010, 4020, 4025, 4040, 4060, 4161, 4162, 5020):</ab>
+            <ab class="ab_indent">
+                <em>apascā vā̊ azīšcā vā̊ mātərąšcā vā̊ agəńiiā̊ drigudāiiaŋhō vīspō.paitīš auuaōcāmā vahištā̊ sraēštā̊ auuā və̄ vaŋᵛhīš rātōiš darəgō.bāzāuš</em> zōhr andak-ē ō ī āb kunišn 
+                <em>nāšū paitī</em> zōhr abar āb nihišn <em>viiādā̊</em> abar barsom <em>paitī</em> abar āb <em>sə̄ṇdā̊</em> abar barsom <em>mātarō jītaiiō</em> abar āb 
+                <em>yeŋ́hē hātąm</em> abar barsom tā sar guftan</ab> 
+            <ab class="ab_indent">
+                "<em>apascā vā̊ azīšcā vā̊ mātərąšcā vā̊ agəńiiā̊ drigudāiiaŋhō vīspō.paitīš auuaōcāmā vahištā̊ sraēštā̊ auuā və̄ vaŋᵛhīš rātōiš darəgō.bāzāuš</em>  He has to pour one drop of 
+                <em>zōhr</em> into the water. At' <em>nāšū paitī</em>, he has to put the <em>zōhr</em> over the water. At <em>viiādā̊</em>, over the <em>barsom</em>. At <em>paitī</em>, 
+                over the water. At <em>sə̄ṇdā̊</em>, over the <em>barsom</em>. At <em>mātarō jītaiiō</em>, over the water. At <em>yeŋ́hē hātąm</em>, over the <em>barsom</em> and 
+                they should recite until the end."</ab>
+        </Nerangs>
+    <Quotations id="ritualQuotations"> 
+        <ab>N51.9-10:</ab>
+        <ab class="ab_indent">
+            u-š ābestāg pad barsom bē gōwišn u-š be šawišn u-š pēmišn pad āb bē kunišn u-š abāz āyišn u-š ān ī pad barsom bē kunišn <em>apō ... viiādā̊ ... mātarō jītaiiō</em> abar āb ud abārīg 
+            abar barsom pad <em>rātōiš</em> zōhrag andak-ē andar ō āb rēzišn zōhrag čahār angust az āb ul dārišn barsom čahār angust az zōhr ul dārišn az ān gyāg paydāg <em>auuauuat̰ taδa 
+                ẏaθa caθβarō ərəzuuō</em> pad hamāg abestāg</ab>
+        <ab class="ab_indent">
+            "He has to recite the <em>abastāg</em> for the <em>barsom</em>, to go and to make the milk-offering for the waters. He has to come back and make to it for the <em>barsom</em>.
+            At <em>apō ... viiādā̊ ... mātarō jītaiiō</em>, (he has to make the offering) for the water and (to offer) the rest to the <em>barsom</em>. At <em>rātōiš</em>, he has to pour a 
+            little <em>zōhrag</em> into the water. He has to hold the <em>zōhrag</em> four fingers above the water and the <em>barsom</em> four fingers above the <em>zōhr</em>, 
+            (this) is evident from this passage: <em>auuauuat̰ taδa ẏaθa caθβarō ərəzuuō</em>, (which is found) throughout the Avesta."</ab>
+    <ab>Cf. N51.10 (<bibl>Kotwal and Kreyenbroek, 2003</bibl>: p. 234-5</ab>
+    <ab class="ab_indent">apō ... viiā̊dā̊ ... mātarō jītaiiō <em> abar āb ud abārīg [abar]
+barsom pad</em> rātōiš <em> zōhrag andak-ē andar ō āb rēzišn zōhrag 4
+angust az āb ul dārišn barsom 4 angušt az zōhr ul dārišn az ān gyāg
+paydāg </em> auuauuat̰ taδa ẏaθa caθβarō ərəzuu<em> pad hamāg
+abestāg </em>
+        </ab>
+<ab class="ab_indent"> At <em>apō ... viiā̊dā̊ ... mātarō jītaiiō</em> (he has to make the offering)on the water and the rest on the <em>barsom</em>. At <em>rātōiš</em>, he has to pour a little of <em>zōhrag</em> on the water. He has to hold the <em>zōhrag</em> four fingers away from the water; the <em>barsom</em> four fingers from <em>zōhr</em>. This is revealed in this passage: <em>auuauuat̰ taδa ẏaθa caθβarō ərəzuuō</em>("as much as four fingers") , everywhere in the <em>abastāg</em>.</ab>
+    </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY67.4"/>
+    <include type="W" corresp="WTrY67.8a"/><include type="K" corresp="KTrY67.8a"/><include type="D" corresp="DTrY67.8a"/></translation>
+</text>

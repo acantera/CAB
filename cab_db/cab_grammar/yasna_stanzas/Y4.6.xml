@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y4.6" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y4.6">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY4.6"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y4.2.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>Y4.6 = Y24.11, VrS79.6.</ab>
+      <ab><em>aṣ̌āunąm vaŋᵛhībiiō frauuaṣ̌ibiiō yā̊ uγrā̊sca aiβiϑurā̊sca</em> ~ Y1.19, Y2.19, Y3.21, Y4.24, Y6.18, Y7.22, Y17.18, Y22.22, Y24.29, Y59.19, 
+         Y66.19, Y71.22, VrS78.31, VrS79.24, VrS81.18, VrS82.19 <em>aṣ̌āunąm frauuaṣ̌inąm uγranąm aiβiϑūranąm</em>; ~ Yt13.1 <em>yat̰ aṣ̌aōnąm frauuaṣ̌inąm uγranąm aiβiϑūranąm yaϑa mē jasən auuaŋhe</em>.
+      </ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY4.6"/>
+       <include type="W" corresp="WTrY4.6"/>
+        <include type="K" corresp="KTrY4.6"/>
+        <include type="D" corresp="DTrY4.6"/>
+    </translation>
+</text>

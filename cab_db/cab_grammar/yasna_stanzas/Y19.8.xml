@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y19.8" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y19.8">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY19.8"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y19.3.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y19.8e <em>ϑβarštō</em>] irr. loc. as abl., or mutilated abl. *<em>ϑβarštōit̰</em>, cf. <em>dā̊ŋhōit̰</em> (<bibl>Kellens, 2010</bibl> p. 32).</ab>
+         <ab>Y19.8e <em>ape</em>] on meaning and formation, vid. <bibl>Morano, 1987</bibl> pp. 977-981.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>fraca aētat̰ vacō vaōce</em> ~ Y19.11 <em>aētat̰ca nō vacō frauuaōce</em>.</ab>
+      <ab><em>para auuaŋ́he ašnō dā̊ŋhōit̰ para āpō para zəmō para uruuaraiiā̊ para gə̄uš caϑβarə.paitištānaiiā̊ dā̊ŋhōit̰ para narš aṣ̌aōnō bipaitištānahe ząϑāt̰</em>
+         ~ Y19.2, Y19.4 <em>para asməm para āpəm para ząm para gąm para uruuarąm para ātrəm ahurahe mazdā̊ puϑrəm para narəm aṣ̌auuanəm</em>.</ab>
+      <ab><em>para āpō para zəmō para uruuaraiiā̊</em> ~ Y1.17, Y3.19, Y4.22, Y7.20, Y22.20, Y24.27, Y66.17, VrS78.29, VrS79.22, VrS82.17 <em>apąmca zəmąmca uruuaranąmca</em>;
+         ~ VrS18.4 <em>apāat̰ca zəmāat̰ca uruuaraiiāat̰ca</em>; ~ Y2.17, Y6.16, Y17.17, Y59.17,Y71.21, VrS81.16, VVrS14.15, VS6.3 <em>apasca zəmasca uruuaraiiā̊sca</em>; ~ G2.6 <em>apasca zəmasca yazamaide uruuarā̊sca</em>.
+      </ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY19.8"/>
+      <include type="W" corresp="WTrY19.8"/>
+      <include type="K" corresp="KTrY19.8"/>
+      <include type="D" corresp="DTrY19.8"/>
+   </translation>
+</text>

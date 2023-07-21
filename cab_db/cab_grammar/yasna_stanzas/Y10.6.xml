@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y10.6" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y10.6">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY10.6"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: Anklesaria, Kotwal and Boyd, Geldner.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y10.6b <em>haōma.hūitiš haōma.stūitiš haōma.xᵛarəitiš</em>] Kellens, Pirart; Geldner <em>haoma hūitiš haoma stūitiš haoma xᵛarəitiš</em>.</ab>
+         <ab>Y10.6b <em>asti</em>] Pirart del.</ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab><em>viš apąm...</em>] <em>haōmō uxšaiieiti</em> OD <em>yeŋ́hē hātą̇m</em> (Y10.22) 40.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab><em>haōma.xᵛarəitiš</em> ~ Purs. 28 <em> xᵛarōiš haōməm zaraθuštra</em></ab>
+      <ab><em>hazaŋhraγniiāi asti daēuuanąm</em> ~ Yt13.45 <em>hazaŋhraγniiāi daēuuanąm</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY10.6"/>
+      <include type="W" corresp="WTrY10.6"/>
+      <include type="K" corresp="KTrY10.6"/>
+      <include type="D" corresp="DTrY10.6"/>
+   </translation>
+</text>

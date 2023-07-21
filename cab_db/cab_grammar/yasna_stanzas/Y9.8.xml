@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y9.8" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y9.8">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY9.8"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y9.3.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y9.8a <em>ϑri.zafanəm ϑri.kamərəδəm</em>] Geldner, Kellens, Pirart <em>ϑrizafanəm ϑrikamərəδəm</em>.</ab>
+         <ab>Y9.8b <em>ašaōjaŋhəm</em>] Geldner; Kellens <em>aš.aojaŋ́həm</em>; Pirart <em>aš.aojaŋhəm</em>.</ab>
+         <ab>Y9.8b <em>daēuuīm</em>] Geldner, Kellens. Pirart <em>daēiuuīm</em>.</ab>
+         <ab>Y9.8b <em>gaēϑāuuiiō</em>] Geldner; Kellens, Pirart <em>gaēϑāuuaiiō</em>.</ab>
+         <ab>Y9.8c <em>ašaōjastəmąm</em>] Geldner; Kellens, Pirart <em>aš.aojastəmąm</em>.</ab>
+         <ab>Y9.8c <em>aṣ̌ahe gaēϑanąm</em>] add. post. glossa. <em>kō ϑβąm yim ahurəm mazdąm</em> 110 (man.), 234, 400, 410, 500, 510, 672, 677; <em>kō ϑβąm yąm ahurəm mazdąm</em> 231, 235. <bibl>Kellens, 2007</bibl>, p. 52 add. <em>metri causa</em>. <bibl>Unvala, 1924</bibl>, p. 16, note <em>b</em> "The full quotation is <em>kō ϑβąm yim ahurəm mazdąm mazištaiiaṇti inaōiti</em>" (VS18.61). Pirart. del. <em>aṣ̌ahe gaēϑanąm</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>Y9.8 = Yt19.37; ~ Yt15.24.</ab>
+      <ab>
+            <em>yō janat̰ ažīm dahākəm</em> ~ VS1.18 <em>yaɱāi zaiiata ϑraētaōnō ažōiš dahākāi</em>; ~ Yt19.93 <em>yat̰ ažiš dahākō jaini</em>.</ab>
+      <ab>
+            <em>ažīm dahākəm ϑri.zafanəm</em> ~ Yt5.29, Yt15.19 <em>ažiš ϑrizafā̊ dahākō</em>; ~ Yt19.50 <em>aže ϑrizafəm dahāka</em>.</ab>
+      <ab>
+            <em>ašaōjaŋhəm daēuuīm drujəm</em> ~ Y57.23 <em>daēuuaiiā̊ drujō ašaōjaŋhō</em>.</ab>
+      <ab>
+            <em>daēuuīm drujəm</em> ~ VS8.21, VS9.27, VS9.28 (x6), VS10.20, VS11.3, VS11.8, VS11.9, VS11.17, VS18.31, VS18.34, VS18.40, VS18.43, VS18.46, VS18.49, VS18.54, VS18.57, VS20.13, VS21.22, VS22.26 <em>daēuuī druxš</em>
+        </ab>
+      <ab>
+            <em>fraca kərəṇtat̰ aŋhrō maińiiuš</em> ~ VS1.3 and VS1 <em>passim</em> <em>frākərəṇtat̰ aŋhrō maińiiuš</em>; ~ VS20.3 and VS20 <em>passim</em> <em>aŋhrō maińiiuš frākərəṇtat̰</em>.</ab>
+      <ab>
+            <em>mahrkāi aṣ̌ahe gaēϑanąm</em> = Yt19.50.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY9.8"/>
+
+   <include type="W" corresp="WTrY9.8"/>
+        <include type="K" corresp="KTrY9.8"/>
+        <include type="D" corresp="DTrY9.8"/>
+    </translation>
+</text>

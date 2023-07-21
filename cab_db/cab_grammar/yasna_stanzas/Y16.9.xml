@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y16.9" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y16.9">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY16.9"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y16.0.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab><em>gaēϑiiāca</em>] sec. cod. 6, 8, 110, 672, 2030, 2106, 4045, 4162, 4200, 4210; Kellens <em>⁺gaēϑiiāca</em>; Geldner irr. <em>gaēϑiiāica</em> (sec. other cod.).</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>yazamaide vīspā̊ āpō yazamaide vīspā uruuarā̊</em> ~ Y8.4 <em>yā̊ apasca uruuarā̊</em>; ~ Y9.4 <em>āpa uruuaire</em>;  ~ Y18.2, Y51.8, Y65.15 <em>yə̄ gąm tašō apascā uruuarā̊sca</em>; 
+         ~ Y8.8, Y11.4, Y52.6, Y60.10, Y68.17, Y71.29 <em>vasō. āpō. vasō. uruuarā̊.</em>;  ~ Y12.12 <em>yā varanā āpō yā varanā uruuarā̊</em>; ~ Y37.1 <em>dāt̰ apascā dāt̰ uruuarā̊sca vaŋᵛhīš</em>; ~ Y44.4 <em>kə̄ apō uruuarā̊scā</em>; 
+         ~ VrS65.78, VrS65.80 <em>auui apąmca vaŋᵛhinąm uruuuarnąmca</em>; ~ VrS65.78, VrS65.80 <em>yā̊ vaŋᵛhīš yā̊ āpō yā̊sca uruuarā̊</em>.</ab>
+      <ab><em>yazamaide vīspā̊ vaŋhauuō yazamaide vīspā̊ vaŋᵛhīš</em> ~ Y8.4, Y65.12, Y65.13 <em>vaŋhuuasca vaŋᵛhīšca</em>; ~ Y39.3, VrS65.47 <em>yazamaidē vaŋhūšcā. īt̰ vaŋᵛhīšcā īt̰</em>.</ab>
+      <ab><em>vīspā̊ maińiiauuaca yazata gaēϑiiāca yōi vaŋhuδā̊ŋhō aṣ̌auuanō</em>; ~ Y1.20, Y3.25, Y4.26, Y7.26, Y14.3, Y17.19, Y22.30, Y24.31, Y66.25, VrS78.37, VrS79.26, VrS82.25 <em>vīspaēibiiō vaŋhuδā̊biiō yazataēbiiō maińiiaōibiiascā gaēϑiiaēibiiascā</em>; 
+         ~ Y71.5 <em>vīspaēca aṣ̌auuanō maińiiauuaca yazata gaēϑiiāca yazamaide</em></ab>
+      <ab><em>maińiiauuaca yazata gaēϑiiāca</em> ~ Yt19.22 <em>maińiiauanąm yazatanąm gaēiϑiianąmca</em>.</ab>
+      <ab><em>maińiiauuaca ... gaēϑiiāca</em> ~ Y3.4, Y7.5, <em>maińiiauuanąm gaēϑiianąm</em> ~ Y19.20, Y20.4 <em>maińiiaōmca gaēϑīmca</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY16.9"/>
+   <include type="W" corresp="WTrY16.9"/><include type="K" corresp="KTrY16.9"/><include type="D" corresp="DTrY16.9"/></translation>
+</text>

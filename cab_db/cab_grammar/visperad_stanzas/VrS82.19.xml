@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS82.19" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS82.19">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS36.18a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS36.18b" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen42" on_line="in1line"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS82.19 (mss. 2005, 2007, 2010, 2030, 2101, 2106, 2109):</ab>
+         <ab class="ab_indent">
+            <em>aṣ̌aiia daδąmi aēsma baōiδi tauua āϑrō ahurahe mazdā̊ puϑra imąm aŋhuiiąmca aṣ̌aiiąmca raϑβąmca ratufritīmca xšnūmaine ahurahe mazdā̊ raēuuatō xᵛarənaŋᵛhatō aməṣ̌anąm
+               spəṇtanąm</em> xšnūman ān ī bēd dō bār wizārdan agar ahlawān bēd <em>auuaŋ́hā̊ frauuaṣ̌aiiō</em> bē gōwišn tā <em>yasnąsca vaɱąsca</em> pad gāhānbār <em>aṣ̌aiia
+                  daδąmi raϑβō bərəzatō</em> tā <em>sarəδanąmca yōi həṇti aṣ̌ahe ratauuō maiδiiōi.zarəmiiehe raθβō</em> ayāb ān gāh ī bēd <em>aṣ̌aiia daδąmi aēsma baōiδi tauua āϑrō
+                     ahurahe mazdā̊ puϑra imąm aŋhuiiąmca aṣ̌aiiąmca raϑβąmca ratufritīmca xšnūmaine raϑβō bərəzatō</em> tā <em>sarəδanąmca raθβąm vīspe mazištanąm yōi həṇti aṣ̌ahe 
+                        ratauuō hāuuanīm paiti ratūm</em> gāh ān bēd <em>maiδiiōi.zarəmiiehe raθβō aōxtō.nānmanō yazatahe</em></ab> 
+         <ab class="ab_indent">
+            "At <em>aṣ̌aiia daδąmi aēsma baōiδi tauua āϑrō ahurahe mazdā̊ puϑra imąm aŋhuiiąmca aṣ̌aiiąmca raϑβąmca ratufritīmca xšnūmaine ahurahe mazdā̊ raēuuatō xᵛarənaŋᵛhatō aməṣ̌anąm
+               spəṇtanąm</em>, they should utter the corresponding <em>šnūman</em> twice. If (the liturgy) is for the <em>ahlawān</em>, they have to recite <em>auuaŋ́hā̊ frauuaṣ̌aiiō</em> 
+            until <em>yasnąsca vaɱąsca</em>. In the case of a Gāhānbār, (they should recite) <em>aṣ̌aiia daδąmi raϑβō bərəzatō</em> until <em>sarəδanąmca yōi həṇti aṣ̌ahe ratauuō 
+               maiδiiōi.zarəmiiehe raθβō</em> or the corresponding <em>gāh</em> (and continue with) <em>aṣ̌aiia daδąmi aēsma baōiδi tauua āϑrō ahurahe mazdā̊ puϑra imąm aŋhuiiąmca 
+                  aṣ̌aiiąmca raϑβąmca ratufritīmca xšnūmaine raϑβō bərəzatō</em> until <em>sarəδanąmca raθβąm vīspe mazištanąm yōi həṇti aṣ̌ahe ratauuō hāuuanīm paiti ratūm</em> 
+            and the corresponding <em>gāh</em> (e.g.) <em>maiδiiōi.zarəmiiehe raθβō aōxtō.nānmanō yazatahe</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS82.19"/>
+   </translation>
+</text>

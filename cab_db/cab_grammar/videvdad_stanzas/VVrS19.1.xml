@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS19.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="VrS19.1" xml:id="VVrS19.1">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS9.1"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">rāspīg: vid. Recitation Instruction.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VVrS19.1a <em>aēta vaca maδaiiaŋᵛha</em> ...] lʾspyk <em>aēta vaca maδaiiaŋᵛha</em> 4000, 4010, 4020, 4025, 4030, 4040, 4045, 4050, 4161, 4162.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS19.1"/>
+   </translation>
+</text>

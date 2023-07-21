@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS11.33" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="VrS11.33" xml:id="VVrS11.33">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS3.13"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS3.14"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt̰: vid. VVrS11.32. Cf. VrS11.33.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS11.33"/>
+   </translation>
+</text>

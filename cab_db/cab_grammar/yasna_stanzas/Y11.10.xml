@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y11.10" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y11.10">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY11.10"/>
+               <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y11.10NerangTransc.a"/>
+            </div>
+    <Apparatus>
+        <Speaker>
+            <SpeakerInfo>
+                <div>
+                    <ab class="ab_indent">zōt: vid. Nērangs and Quotations; Anklesaria, Kotwal and Boyd, Geldner.</ab>
+                </div>
+            </SpeakerInfo>
+            <Commentary/>
+        </Speaker>
+        <Critical/>
+        <Commentary>
+            <ab>Y11.10a <em>aṣ̌auuāzō</em>] nom. sg. as voc. sg. (exp. *<em>aṣ̌auuāzā̊</em>).</ab>
+            <ab>Y11.10b <em>haōmāi</em>] Pirart <em>haōma</em>. <bibl>Kellens, 2007</bibl> p. 90 "datif incompatible avec le vocatif; la restitution de *<em>haoma</em> (Pirart) crée une répétition suspecte".</ab>
+            <ab>Y11.10c <em>aṣ̌auua</em>] nom. sg. as voc. sg.; Pirart contra cod. exp. ⁺<em>aṣ̌āum</em>.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels>
+        <ab><em>pairi.tē haōma aṣ̌āum aṣ̌auuazō daδąmi imąm tanūm yā tē vaēnaite huraōδa</em> = Y10.14.</ab>
+        <ab> <em>haōma ... dūraōša</em> = Y9.19 (x2), Y9.20 (x2); ~ Y9.2, Y9.4, Y9.7, Y9.10, Y9.13 <em>haōmō ... dūraōšō</em>; ~ Y10.21, Y42.5, VrS65.72 <em>haōməm dūraōšəm</em>.</ab>
+        <ab><em>hauuaŋᵛhāi aṣ̌auuastāi</em> ~ Y14.1 <em>hauuaŋᵛhāica aṣ̌auuastāica</em>; ~ Y68.4 <em>hauuaŋᵛhāi aṣ̌auuastanąm</em> ~ Yt10.33 <em>hauuaŋhum aṣ̌auuastəmca</em>; ~ VrS14.1 <em>hauuaŋᵛhāica ratufritaiiaēca aṣ̌auuastāica vərəϑraγniiāica huruniiāica</em>.</ab>
+        <ab><em>pairi.mē tūmcit̰ dāiiā̊ haōma ... vahištəm ahūm aṣ̌aōnąm raōcaŋhəm vīspō.xᵛāϑrəm</em> ~ Y62.6, VrS78.11 <em>dāiiā̊ mē ātarš ... vahištəm ahūm aṣ̌aōnąm raōcaŋhəm vīspō.xᵛāϑrəm</em> ~ Y68.5 <em>dāiiā̊.mē ahurāne ... vahištəm ahūm aṣ̌aōnąm raōcaŋhəm vīspō.xᵛāϑrəm</em>. </ab>
+        <ab><em>vahištəm ahūm aṣ̌aōnąm raōcaŋhəm vīspō.xᵛāϑrəm</em> = Y9.19, Y68.11, Y72.14, AD2.12, AGahambar2.23, AGatha2.11, ARap2.12, ANogNavar2.7, ŠnĀsman; ~ Y16.7, VrS18.1 (x3), VrS28.2 (x3), VrS69.5 <em>vahištəm ahūm aṣ̌aōnąm yazamaide raōcaŋhəm vīspō.xᵛāϑrəm</em>; ~ P37.2 <em>vahištəmca ahūm anaγraca raōcā̊ afrasaŋhąnca xᵛāϑra</em>.</ab>
+    </Parallels>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Y11.10 Var. a (mss. 40, 88, 400, 410):</ab>
+            <ab class="ab_indent">
+                zōt dast pad bun ī barsom frāz dārišn ud frabardār ul ō dast ī dašn ī zōt nihišn zōt gōwēd <em>pairi.tē. haōma aṣ̌āum aṣ̌auuāzō </em>tā <em>vīspō.xᵛāϑrəm</em>.</ab>
+            <ab class="ab_indent">
+                "The <em>zōt</em> has to hold his hand on the beginning of the <em>barsom</em> and the <em>frabardār</em> has to put the <em>parāhōm</em> in the right hand of the <em>zōt</em> 
+                The <em>zōt</em> says: <em>pairi.tē haōma aṣ̌āum aṣ̌auuāzō </em> until <em>vīspō.xᵛāϑrəm</em>."</ab>
+            <ab>Y11.10 Var. b (mss. 5, 6, 60, 2030, 2040, 2070, 2109, 4000, 4010, 4020, 4025, 4045, 4161, 4162):</ab>
+            <ab class="ab_indent">parāhōm ul ō ī dast ī dast ī dašn ī zōt nihišn' zōt bē gōwēd
+                <em>pairi.tē haōma aṣ̌āum aṣ̌auuāzō daδąmi</em>...</ab>
+            <ab class="ab_indent">"He has to put the <em>parāhōm</em> in the right hand of the <em>zōt</em>. The
+                <em>zōt</em> says: <em>pairi.tē haōma aṣ̌āum aṣ̌auuāzō daδąmi</em>...</ab>
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+            <ab>Cf. N28.43 (<bibl>Kotwal and Kreyenbroek, 1995</bibl>: pp. 100-101):</ab>
+            <ab class="ab_indent">
+                u-š dast pad bun ī barsom frāz dārišn frabardār parāhōm ul *ō *dast nihišn ud <em>pairi tē haoma aṣ̌əm vohū</em> III be gōwišn</ab>
+            <ab class="ab_indent">
+                "He has to keep his hand on the lower part of the <em>barsom</em>. The <em>frabradār</em> puts it in the <em>zōt</em>'s hand, and (the <em>zōt</em>) has to recite 
+                <em>pairi tē haoma</em> and three <em>aṣ̌əm vohū</em>."</ab>
+        </Quotations>
+        <ModernPractice id="ritualModernPractice">
+            <ab><ab><bibl>Redard and Daruwalla, 2021</bibl>, p. 81:</ab>
+                <ab class="ab_indent">"The assistant priest after touching the <em>hom</em> cup to the bundle (and) touching (it) to the moon-shaped stands, 
+                    he puts (it) in the chief priest’s right hand, and the chief priest looking at the <em>hom</em> inside the cup, recites."</ab></ab>
+            
+            <ab><ab><bibl>Kotwal and Boyd, 1991</bibl> p. 98:</ab> 
+                <ab class="ab_indent">"While holding the <em>parāhōm</em> cup, the zot recites st. l 0, which extols the exhilarating properties of the <em>parāhōm</em> juice."</ab></ab>
+        </ModernPractice>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY11.10"/>
+    <include type="W" corresp="WTrY11.10"/><include type="K" corresp="KTrY11.10"/><include type="D" corresp="DTrY11.10"/></translation>
+</text>

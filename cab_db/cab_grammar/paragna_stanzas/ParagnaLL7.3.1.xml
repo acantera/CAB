@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL7.3.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="1" xml:id="ParagnaLL7.3.1">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL7.3.1 (Phl.) (WīD95.3a)</ab>
+            <ab class="ab_indent">
+                pas wars andar harw dō dast griftag wāz hilišn <em>yaθā ahū vairiiō</em> dō <em>yasnəmca</em> tā ān <em>āfrīnāmi ahurahe mazdå raēuuatō xᵛarənaŋhatō</em> andar wāz 
+                ham-ēdōn hixtēnd ud wars pādyāb abāz andarrōn ī †warsdān nihišn pas hamāg sāzišn abāz az sar bē šōyišn ud āb az wastarg pādyābīh bē †pālāyišn pas hamāg ābzār ud urwēs 
+                abāz sē bār pādyāb kardag ātaxš abrōzēnānd ud †sāzišn hamāg xūb bē nihišn pas wars pazīdag bē āwarēd</ab>
+            <ab class="ab_indent">
+                "Afterwards, once he has taken the <em>wars</em> with both hands, he has to leave the <em>wāz</em>, (reciting) two <em>yaθā ahū vairiiō</em> and <em>yasnəmca</em>
+                up to <em>āfrīnāmi ahurahe mazdå raēuuatō xᵛarənaŋhatō</em>. During the <em>wāz</em>, they draw water and wash again the <em>wars</em>. He should put it in the innner 
+                of the <em>warsdān</em>. Afterwards, he has to wash all the implement from the top and filter the water though clean cloth. Then, after having clean all tools and the <em>urwēs</em> 
+                again three times, they shall kindle the fire and to dispose correctly all implements. Then, he brings the boiled <em>wars</em>."</ab>
+            
+            <ab>ParagnaLL7.3.1 (Ms. K7):</ab>
+            <ab class="ab_indent">
+                va <em>yaθā ahū vairiiō</em> do <em>yasnəmca</em> tā <em>ahurahe mazdā̊ raēuuatō xvarənaŋhatō</em> sar-aš moḥkam be-nahand va dar yazešngāh moḥkam be-nahand 
+                pas yek <em>aṣ̌əm vohū ahmāi raēsca</em> OD <em>hazaŋhrəm</em> OD <em>jasa.mē</em> tamām ḫᵛāndan</ab> 
+            <ab class="ab_indent">
+                "(He should recite) two <em>Yaθā Ahū Vairiiō</em>s and <em>yasnəmca</em> until (the <em>šnūman</em>) <em>ahurahe mazdā̊ raēuuatō xvarənaŋhatō</em>. They fix its 
+                end and they deposite it on the <em>yazešngāh</em>. Then he should recite one <em>Aṣ̌əm Vohū ahmāi raēšca</em> until <em>hazaŋhrəm</em> and <em>jasa.me</em> complete."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL7.3.1"/>
+    </translation>
+</text>

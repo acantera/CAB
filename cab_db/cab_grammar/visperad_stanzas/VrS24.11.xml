@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS24.11" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS24.11">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr2"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS10.7e"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt̰ ud rāspīg: vid. Nērang.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VrS24.11WazGr zwt' <em>yaϑā ahū vairiiō yō ātrauuaxšō frā.mē mrūtē</em> lʾspyk <em>aϑā ratuš</em> krtn'] 2010, 2030, 2040, 2101, 2106, 2109; zwt' <em>yaϑā ahū vairiiō yō ātrauuaxšō</em> lʾspyk <em>aϑā ratuš</em> krtn' 2070; 
+            zwt' <em>yaϑā ahū vairiiō yō ātrauuaxšō frā.mē mrutē</em> lʾspyk <em>aϑā ratuš</em> 2000; zwt' <em>yaϑā ahū vairiiō yō ātrauuaxšō</em> OD gywʾk lʾspyk <em>aϑā ratuš</em> krtn' 2010; 
+            zwt' <em>yō ātrəuuaxšō</em> lʾspyk <em>aϑā ratuš</em> krtn' 2065.</ab>
+         <ab>VrS24.11a <em>auuaϑāt̰ iδā səraōšō astū...</em>] zwt' <em>auuaϑāt̰ iδā səraōšō astū</em> 2007, 2010, 2030, 2040, 2070, 2101, 2106, 2109; zwt ẔNE gwptn' AYḴ <em>auuaϑāt̰ iδā sraošō astū</em> 2065.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS24.11 = DoHom1.11.</ab>
+   </Parallels>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS24.3 (mss. 2005, 2007, 2010, 2030, 2040, 2101, 2109, 4010, 4020, 4025, 4040, 4050, 4055, 4063, 4161, 4162, 5020):</ab>
+         <ab class="ab_indent">
+            zōt <em>yaϑā ahū vairiiō yō ātrauuaxšō frā.mē mrūtē</em> rāspīg <em>aϑā ratuš</em> kardan</ab>
+            <ab class="ab_indent">zōt <em>auuaϑāt̰</em>. ...</ab>
+         <ab class="ab_indent">
+            "The <em>zōt: yaϑā ahū vairiiō yō ātrauuaxšō frā.mē mrūtē</em> The <em>rāspīg</em> should answer: <em>aϑā. ratuš</em>.</ab>
+         <ab class="ab_indent">The <em>zōt: auuaϑāt̰</em> ..."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS24.11"/>
+   </translation>
+</text>

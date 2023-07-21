@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR6.3" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y6.11" xml:id="YR6.3">
+        <include href="/db/apps/cab_db/cab_rituals/blocks/RozAcc" xpointer="RozAcc1" on_line="in1lineblock"/>
+        <!-- All days possible -->
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR6.3a" on_line="in1line"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/MahAcc" xpointer="MahAcc1" on_line="in1lineblock"/>
+        <!-- All days possible -->
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR6.3b" on_line="in1line"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. Y6.3.</ab> 
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab>YR4.9]  nigāh. u. rōzamā.<em>ahurim mazadą̇m raeuuaṇtəm x́arənaŋhaṇtəm ẏ. aṣ̌aoną̇m vaŋuhīš́ sūrā̊ spəaṇtā̊frauuaṣ̌iiō ẏ.</em> 350, vid. commentary Y1.4.</ab>
+        </Commentary>
+        <RecitationInstruction>
+            <ab>YR4.9] YWM W BYRH gwptn' OD OL Y <em>yim ahurəm mazdąm</em> (YR6.8) 300, 360, 370. 350 does not abbreviate.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation/>
+</text>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS65.7" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS65.7">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS26.5"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS65.7-8 = VrS24.9-10, VrS42.7-8, VrS75.7-8; ~ VrS89.18-19.</ab>
+      <ab>VrS65.7 = VrS24.9, VrS42.7, VrS75.7; ~ VrS89.18.</ab>
+      <ab>VrS65.7 = VrS65.10.</ab>
+      <ab><em>ratə̄ušca aṣ̌aōnō bərəzatō</em> ~ Y1.18 Y3.20, Y4.23, Y7.21, Y24.28, Y66.18, VrS78.30, VrS79.23, VrS81.17 <em>raϑβō bərəzatō</em>; ~ Y57 (<em>passim</em>), Y70.7, Y71.25, VrS11.3, VrS18.6, VrS30.12, VrS41.7, VrS42.11, VrS51.9, VrS57.9, VrS62.9, VrS64.10, VrS65.11, VrS65.83, VrS69.9, VrS71.9, VrS74.6, VrS75.11; VrS87.13, VrS89.22, VrS93.12 <em>ratūm bərəzaṇtəm</em>; 
+         ~ VrS1.16, VrS25.18, VrS27.32, VrS90.16 <em>ratə̄uš bərəzō</em>; ~ VrS2.18, VrS17.17, VrS77.17 <em>ratūm bərəzəm</em>.</ab>
+      <ab><em>jaγmūš́iiā̊ ratufritōiš</em> ~ Y24.3 (x2), Y24.8 (x2), Y25.3 (x2), VrS87.11 (x2) <em>jaγmūšīmca ratufritīm</em>.</ab>
+   </Parallels>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Vid. VrS65.3</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS65.7"/>
+   </translation>
+</text>

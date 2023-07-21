@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y10.12" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y10.12">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY10.12"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y10.6.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y10.12a <em>pauruuatāhuua</em>] Pirart <em>pauruuatāhu[ua]</em>.</ab>
+         <ab>Y10.12a <em>haōmō gaōma</em>] Pirart <em>haōma gaomō</em>.</ab>
+         <ab>Y10.12b <em>irīriϑarə</em>]  cod., Kellens (<bibl>Lommel, 1922</bibl> p. 270-271); Geldner <em>irīraϑarə</em>; Pirart <em>irīriϑβarə</em>.</ab>
+         <ab>Y10.12c <em>dušsaŋhahe</em>] cod., Geldner; Kellens, Pirart (Bartholomae) <em>duš.saŋhahe</em>.</ab>
+         <ab>Y10.12d <em>nī manō manō</em>] Pirart <em>nī.manō manō</em>.</ab>
+         <ab>Y10.12d <em>dušsaŋhō</em>] cod., Geldner; Kellens, Pirart (Bartholomae) <em>duš.saŋhō</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY10.12"/>
+      <include type="W" corresp="WTrY10.12"/>
+      <include type="K" corresp="KTrY10.12"/>
+      <include type="D" corresp="DTrY10.12"/>
+   </translation>
+</text>

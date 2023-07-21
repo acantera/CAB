@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS15.4" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Vrs15.4" xml:id="VVrS15.4">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr2"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS6.3b"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt̰ ud rāspīg (this at the place of the <em>āϑrawaxšan</em>): vid. VrS15.4. Vid. Recitation Instruction.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VVrS15.4WazGr zwt' <em>yaϑā ahū vairiiō yō ātrauuaxšō frā.mē mrūtē</em> lʾspyk <em>aϑā ratuš</em> krtn'] 4000, 4010, 4025, 4040, 4045, 4050, 4161;
+            zwt' <em>yaϑā ahū vairiiō yō ātrauuaxšō frā.mē mrūtē</em> lʾspyk <em>aϑā ratuš</em> OD sl 4020, 4162; zwt' <em>yaϑā ahī vairiiō yō āϑrauuaxšō frā.mē mrītē</em> lʾsp'' <em>aϑā ratuš</em> gwptn' 4030</ab>
+         <ab>VVrS15.4a <em>auuaϑāt̰ iδā səraōšō astū...</em>] zwt' <em>auuaϑāt̰ iδā səraōšō astū</em> 4000, 4010, 4020, 4025, 4030, 4040, 4045, 4050, 4161, 4162.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS15.4"/>
+   </translation>
+</text>

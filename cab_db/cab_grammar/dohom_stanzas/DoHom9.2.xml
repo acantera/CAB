@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="DoHom9.2" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="DoHom9.2">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV1" times="3"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>DoHom9.2 (mss. 2000, 2035):</ab>
+         <ab class="ab_indent">
+            <em>aṣ̌əm vohū</em> sē <em>aiβi.gərəδmahi</em> čīyōn pad wisperad tā uštawāit</ab>
+         <ab class="ab_indent">
+            "They should recite three <em>Aṣ̌əm Vohū</em> (and continue with) <em>aiβi.gərəδmahi</em> like in the Visperad until the Uštauuaiti Gāθā."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrDoHom9.2"/>
+   </translation>
+</text>

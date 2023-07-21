@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS8.3" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y8.3" xml:id="VrS8.3">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS8.3NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY8.2"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">rāspīg pad gāh ī hāwanān: cod.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation/>
+</text>

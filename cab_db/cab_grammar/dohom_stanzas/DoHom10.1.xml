@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="DoHom10.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="DoHom10.1">
+      <include href="/db/apps/cab_db/cab_rituals/fragards/FragardDH" xpointer="DoHom10.1"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>DoHom10.1 (mss. 2000, 2035):</ab>
+         <ab class="ab_indent">
+            <em>vahištōištōiš gāϑaiiā̊ sraōθrəm āiiese yešti xšnūmaine zaraθuštrahe spəntamahe aṣ̌aonō frauuaṣ̌ə̄e</em> tā <em>frasastaiiaēca</em> zōt wāz gīrišnīh rāspīg <em>aθā ratuš</em> 
+            bowandag guftan rāspīg <em>aθā ratuš</em> bowandag guftan <em>yō zaōtā</em> bowandag guftan zōt <em>aθā ratuš</em> bowandag guftan</ab>
+         <ab class="ab_indent">
+            "(He should continue with) <em>vahištōištōiš gāϑaiiā̊ sraōθrəm āiiese yešti xšnūmaine zaraθuštrahe spəntamahe aṣ̌aonō frauuaṣ̌ə̄e</em> until <em>frasastaiiaēca</em>. (Then) 
+            taking of the <em>wāz</em> by the <em>zōt</em> and the <em>rāspīg</em> should recite complete <em>aθā ratuš</em>, (then) he should recite complete <em>yō zaōtā</em>
+            and the <em>zōt</em> should recite complete <em>aθā ratuš</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrDoHom10.1"/>
+   </translation>
+</text>

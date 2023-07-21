@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y68.27" status="created">
+               <!-- created, approved, updated-->
+               <header>
+                              <creators>
+                                             <creator>Porro</creator>
+                                             <creator>Cantera</creator>
+                              </creators>
+                              <created>1 June 2019</created>
+               </header>
+               <div type="Stanza" sameAs="" xml:id="Y68.27" quote="Y38.5">
+                              <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY68.21f"/>
+                              <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y68.22NerangTransc.f"/>
+               </div>
+               <Apparatus>
+                              <Critical/>
+                              <Commentary/>
+               </Apparatus>
+               <Parallels/>
+               <Ritual>
+                              <Nerangs id="ritualNerangs">
+                                             <ab>Y68.27 (mss. 5, 6, 40, 82, 88, 400, 2005, 2007, 2010, 2030, 2040, 2101, 2102, 2104, 2106, 4000, 4010, 4020, 4025, 4050, 4162, 4056):</ab>
+                                             <ab class="ab_indent">
+                                                            <em>apascā</em> pad war ī zōhrag vā̊ āb abāz ō ī āb kunišn sē bār pad ēn ēwēnag kardan</ab>  
+                                             <ab class="ab_indent">
+                                                            "At <em>apascā</em>, next to the <em>zōhrag</em>. At <em>vā̊</em>, he has to bring the water back to the water. 
+                                                            He should do it three times in the same way."</ab>
+                              </Nerangs>
+                              <Quotations id="ritualQuotations">
+                                             <ab>Cf. for the Āb-zōhr with Drōn Yašt N53.31d (cf.
+                                                  <bibl>Kotwal and Kreyenbroek, 2003</bibl>: p. 256-7:</ab>
+                                   <ab class="ab_indent"> <em>apasca</em> pad war ī zōhrag <em>vā̊</em> āb abāz ō āb kunišn</ab>
+                                             <ab class="ab_indent">"At <em>apasca</em>, (he has to put it) beside the <em>zōhrag</em>. At <em>vā̊</em> , he has to bring the water back to the water." </ab>
+                              </Quotations>
+               </Ritual>
+               <translation>
+                              <include type="CAB" corresp="CABTrY68.27"/>
+                              <include type="W" corresp="WTrY68.21e"/>
+                              <include type="K" corresp="KTrY68.21e"/>
+                              <include type="D" corresp="DTrY68.21e"/>
+               </translation>
+</text>

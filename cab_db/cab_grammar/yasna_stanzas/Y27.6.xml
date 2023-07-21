@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y27.6" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y27.6">
+            <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y27.6NerangTransc.a"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+            </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Y27.6 (mss. 40, 88, 400, 410, 2005, 2007, 2010, 2030, 2040, 2101, 2106, 2109, 4000, 4010, 4020, 4025, 4030a, 4040, 4050, 4055, 4060, 4063, 4161, 4162, 5020):</ab>
+            <ab class="ab_indent">
+                <em>aṣ̌əm vohū</em> sē guftan pad harw ēk-ē zōhr andak-ē pad vohū andar hāwan kardan</ab>
+            <ab class="ab_indent">
+                "They should recite <em>aṣ̌əm vohū</em> three times. At each one, he has to pour a <em>zōhr</em>'s drop in the <em>hāwan</em>."</ab>
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+            <ab>N28.47a</ab>
+            <ab class="ab_indent">
+                u-š pad ān sē <em>aṣ̌əm vohū</em> pādyāb andak-ē andar kunišn</ab>
+            <ab class="ab_indent">
+                An he has to pour at these three <em>aṣ̌əm vohū</em> one <em>pādyāb</em>'s drop.</ab>        
+</Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY27.6"/>
+    <include type="W" corresp="WTrY27.5b"/><include type="K" corresp="KTrY27.5b"/><include type="D" corresp="DTrY27.5b"/></translation>
+</text>

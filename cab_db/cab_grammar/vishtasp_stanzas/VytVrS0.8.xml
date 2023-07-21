@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VytVrS0.8" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VytVrS0.8" quote="Y12.4">
+        <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VytSY0.6a"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>zōt ud rāspīg: vid. Y0.6.</div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <RecitationInstruction>
+            <ab>Vid. VytVrS0.6.</ab>
+        </RecitationInstruction>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrVytVrS0.8"/>
+    </translation>
+</text>

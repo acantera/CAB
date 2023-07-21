@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y68.14" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y68.14">
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+            </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Quotations id="ritualQuotations">
+    <ab>Cf. N51.11 (<bibl>Kotwal and Kreyenbroek, 2003</bibl>: p. 234-5):</ab>
+    <ab class="ab_indent">jīuu <em>pad </em>surunuiiā̊<em> andar rēzišn be pad dah-hōmāst abar ān ī
+pad </em> vīspaiia ... āfrīnāmi <em>andar rēzišn zōhrag 4 angust az āb ul dārišn ciyōn guft</em>
+            </ab>
+<ab class="ab_indent">At <em>surunuiiā̊</em> he has to pour (<em>zōhr</em>) into the <em>jīuu</em>, except in the Dō-Hōmāst, when it is at <em>vīspaiia ... āfrīnāmi</em>(Y68.15). The <em> zōhrag</em> has to be hold four fingers from the water, as it has been said.</ab>
+        </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY68.14"/>
+    <include type="W" corresp="WTrY68.13b"/><include type="K" corresp="KTrY68.13b"/><include type="D" corresp="DTrY68.13b"/></translation>
+</text>

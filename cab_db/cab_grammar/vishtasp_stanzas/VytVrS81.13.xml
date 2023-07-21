@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VytVrS81.13" status="created">
+         <!-- created, approved, updated-->
+         <header>
+                  <creators>
+                           <creator>Porro</creator>
+                           <creator>Cantera</creator>
+                  </creators>
+                  <created>1 June 2019</created>
+         </header>
+         <div type="Stanza" sameAs="" xml:id="VytVrS81.13">
+                  <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VrS35.27b"/>
+                  <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VrS35.28"/>
+                  <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanAcc" xpointer="ShnumanAcc26"/>
+                  <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VrS35.31a"/>
+                  <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VrS35.31b"/>
+         </div>
+         <Apparatus>
+                  <Critical/>
+                  <Commentary/>
+         </Apparatus>
+         <Parallels/>
+         <Ritual>
+                  <Nerangs id="ritualNerangs">
+                           <ab>VytVrS81.13 (ms. 5020):</ab>
+                           <ab class="ab_indent">
+                                    <em>aēsmąsca baōiδīmca ... ratufritīmca yazamaide ahurəm mazdąm raēuuaṇtəm xᵛarənaŋᵛhəṇtəm yazamaide aməṣ̌ā spəṇtā huxšaθrā huδā̊ŋhō yazamaide</em> xšnūman ān ī
+                                    bēd tā gyāg guftan ka ardā fraward bēd <em>aṣ̌āunąm vaŋᵛhīš sūrā̊ spəṇtā̊ frauuaṣ̌aiiō staōmi zbaiiemi ufiiemi yazamaide</em> ...</ab>
+                           <ab class="ab_indent">
+                                    "At <em>aēsmąsca baōiδīmca ... ratufritīmca yazamaide ahurəm mazdąm raēuuaṇtəm xᵛarənaŋᵛhəṇtəm yazamaide aməṣ̌ā spəṇtā huxšaθrā huδā̊ŋhō yazamaide</em>,
+                                    they should recite the corresponding <em>šnūman</em> until the end. When it is for Ardā Fraward, (they should recite) <em>aṣ̌āunąm vaŋᵛhīš sūrā̊ spəṇtā̊ frauuaṣ̌aiiō 
+                                             staōmi zbaiiemi ufiiemi yazamaide</em>. ..."</ab>
+                  </Nerangs>
+         </Ritual>
+         <translation>
+                  <include type="CAB" corresp="CABTrVytVrS81.13"/>
+         </translation>
+</text>

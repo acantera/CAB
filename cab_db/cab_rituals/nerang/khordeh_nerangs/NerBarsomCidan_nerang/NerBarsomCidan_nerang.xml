@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div type="ceremony" n="NerBarsomCidan">
+    <header>
+        <creators>
+            <creator>Cantera</creator>
+        </creators>
+        <created>09 February 2020</created>
+        <updated/>
+    </header>
+
+    <div n="1" type="chapter">
+        <div n="0" type="stanza">
+            <ab1 n="NerangTransc.a" source="K7c" xml:id="NerBarsomCidan1.0NerangTransc.a" xml:lang="Pers">
+                <l>be-nām-e yazdān</l>
+                <l>naxost nīrang barsom čidan </l>
+            </ab1>
+            <ab1 n="NerangEnglish.a" source="K7c" xml:id="NerBarsomCidan1.0NerangEnglish.a" xml:lang="Pers">
+                <l>In the name of god</l>
+                <l>First, the <em>nērang </em> for cutting the <em>barsom</em>.</l>
+            </ab1>
+        </div>
+        <div n="1" type="stanza">
+            <ab1 n="NerangTransc.a" source="K7c" xml:id="NerBarsomCidan1.1NerangTransc.a" xml:lang="Pers">nazdik-deraḫt gaz nabāšad anār nīz šāyad va haft šāḫ-e barsom pāk
+                kardan va pas kosti nō kardan va fanām-e (?) moḥkam bastan va <em>xšnaoθra ahurahe
+                    mazdā̊ aṣ̌əm vohū</em> yek ḫvāndan </ab1>
+            <ab1 n="NerangEnglish.a" source="K7c" xml:id="NerBarsomCidan1.1NerangEnglish.a" xml:lang="Pers">(He goes) to a next tree. The tamarisk-tree is not allowed, but the
+                pomegranate-tree is. He purifies seven branches of the <em>barsom</em> and then puts
+                a new <em>kostī</em> and ties the girdle firmly. Then he has to recite <em>xšnaoθra
+                    ahurahe mazdā̊ </em> and one Aṣ̌əm Vohū.</ab1>
+        </div>
+        <div n="3" type="stanza">
+            <ab1 n="NerangTransc.a" source="K7c" xml:id="NerBarsomCidan1.3NerangTransc.a" xml:lang="Pers">va mašrabe-ye āb bar dāštan va āb az mašrabe-ye bozorg be mašrabe-ye
+                ḫord riḫtan tā porr šavad tā yek-pāre niz foru rizad va digar bāre xšnaoθra ahurahe
+                mazdā̊ aṣ̌əm vohū yek ḫvāndan </ab1>
+            <ab1 n="NerangEnglish.a" source="K7c" xml:id="NerBarsomCidan1.3NerangEnglish.a" xml:lang="Pers">He has to raise the vessel for the water and pour the water from the
+                big vessel into the small one until it is full and and a bit of water overflows."
+                Then he has to recite <em>xšnaoθra ahurahe mazdā̊ </em> and one Aṣ̌əm Vohū.</ab1>
+        </div>
+        <div n="4" type="stanza">
+            <ab1 n="NerangTransc.a" source="K7c" xml:id="NerBarsomCidan1.4NerangTransc.a" xml:lang="Pers">va se bār āb az mašrabe-ye bozorg dar mašrabe-ye ḫord riḫtan va niku
+                āb rā eḥtyāṭ yek zarre az mašrabe-ye ḫord dar mašrabe-ye bozorg riḫtan bār-e avval
+                be-vāǧ guftan ke yōzdāṯare zereh-ye farākard va bār-e dovvom be-vāǧ guftan ke
+                yōzdāṯare zereh-ye vurkaš bār-e šeivom be-vāǧ guftan ke yōzdāṯare zereh-ye *pūiti
+                harvisb minuy-e arvīsūr āb-e pāk-e yōzdāṯare pas in-rā āb-e pādyāvi guyand pas har
+                do dast barsom-čin b-ān āb šostan yek šāḫ-e barsom be-dast-e rāst be-gereftan va
+                sar-aš be-daste-čab va barsom-čin be-gereftan va se bār namāz bordan pas xšnaoθra
+                ahurahe mazdā̊ aṣ̌əm vohū 3 </ab1>
+            <ab1 n="NerangEnglish.a" source="K7c" xml:id="NerBarsomCidan1.4NerangEnglish.a" xml:lang="Pers">He has to pour three times water from the big vessel into the small
+                vessel and then a bit of water from the small vessel into the big vessel. The first
+                time while saying the <em>wāz</em> : <em>yōzdāṯare zereh-ye farākard</em>. The
+                second time while saying the <em>wāz</em>: <em> yōzdāṯare zereh-ye vurkaš</em>. The
+                third time, saying the <em>vāz</em>: <em>yōzdāṯare zereh-ye pūiti harvisb minuy-e
+                    arvīsūr āb-e pāk-e yōzdāṯare</em>. Then, they determine it as pure water.
+                Afterwards, he has to wash his two hands and the <em> barsom-čin</em> with this
+                water, to take a branch of the <em>barsom</em> with the right hand and to take its
+                end with the left hand and the <em>barsom-čin</em>. He has to bring <em>namāz</em>
+                three times nd to recite then <em> xšnaoθra ahurahe mazdā</em> and three Aṣ̌əm
+                Vohū.</ab1>
+        </div>
+    </div>
+    <div n="2" type="chapter">
+        <div n="1" type="stanza">
+            <ab1 n="NerangTransc.a" source="K7c" xml:id="NerBarsomCidan2.1NerangTransc.a" xml:lang="Pers">urvar va dār va deraḫt tamām be-negarand </ab1>
+            <ab1 n="NerangEnglish.a" source="K7c" xml:id="NerBarsomCidan2.1NerangEnglish.a">He
+                examines completely the plant, the wood and the three. </ab1>
+        </div>
+        <div n="2" type="stanza">
+            <ab1 n="NerangTransc.a" source="K7c" xml:id="NerBarsomCidan2.2NerangTransc.a" xml:lang="Pers">va be aṣ̌əm sar-e šāḫ-e barsom boridan va meqdār-e ēk dāne-e ǧou dur
+                afgandan pas vohū barsom-čin bar miyān-e barsom nihādan pas vahištəm teke-ye barsom
+                boridan pas astī uštā astī uštā. am̦āi. tā sar ḫvāndan se šāḫ-e barsom b-in dastur
+                āvāyad čidan pas har čand ke xāhand činand hame-rā yek-yek bar āvāyad boridan
+                hame-rā yek-yek sar āvāyad boridan meqdār-e yek dāne-ye ǧou vaqt šomordan mi-vāyad
+                ke ǧoft ǧoft šomārand dar āxari yeki ke ṭāq bāšad agar ǧoft bāšad yeki digar čidan
+                pas aivanghan be-hamin vāǧ bečinand ke aivanghan vāǧ gīrišn nadārad va pas be-hamān
+                šāḫ-e barsom āyand ke vāǧ gerefte bāšand vāǧ be-guyand </ab1>
+            <ab1 n="NerangEnglish.a" source="K7c" xml:id="NerBarsomCidan2.2NerangEnglish.a">At
+                    <em>aṣ̌əm</em> he cuts the end of the <em>barsom</em>-twig and he throws it away
+                (as) a corn of barley. Then (at) <em>vohū</em> he puts the <em>barsom-čin</em> in
+                the middle of the <em>barsom</em>. Then at <em>vahištəm</em> he cuts a piece of the
+                barsom and then recites <em>astī uštā astī uštā am̦āi</em> upto the end. He must cut
+                in this way (at least) three twigs of the <em>barsom</em>. Then he must cut twig by
+                twig as many twigs as they want to cut. He must cut the end of all branches, one to
+                one, in the size of a wheat corn. When the count, they should count by pairs.
+                Eventually, it must be a single piece. If they are pairs, then another one should be
+                cut. Afterwards, they cut the <em>aivanghan</em> with even the same <em>vāǧ</em>. If
+                there is not <em>vāǧ-gīrišn</em> for the <em>aivanghan</em>, then they go to exactly
+                the branch of the <em>barsom</em> at which they mihght have taken the <em>vāǧ</em>
+                and say the <em>vāǧ</em>.</ab1>
+        </div>
+    </div>
+    <div n="3" type="chapter">
+        <div n="2" type="stanza">
+            <ab1 n="NerangTransc.a" source="K7c" xml:id="NerBarsomCidan3.2NerangTransc.a" xml:lang="Pers">pas aivanghan čidan barsom va aivanghan  va barsom post va se tā andar barsomdān pādyāvi
+                kardan yaʿni se bār andar āb kardan va šostan pas barsom andar u kardan andar yašt
+                xāne bordan va moḥkam nahādan pas dur āmadan </ab1>
+            <ab1 n="NerangEnglish.a" source="K7c" xml:id="NerBarsomCidan3.2NerangEnglish.a">Then, the has to cut the <em>aivyanghan</em>. He pas to
+                 wash with <em>pādyāb</em> the <em>barsom</em>, the <em>aivanghan</em>, the back of the
+                    <em>barsom</em> and the three pieces in the <em>barsom-dān</em>. That means: he
+                has to put them three times in the water and wash them. Them he puts the
+                    <em>barsom</em> on it and bring it to the <em>yašt xāne</em> and goes away.
+            </ab1>
+        </div>
+        <div n="9" type="stanza">
+            <ab1 n="NerangTransc.a" source="K7c" xml:id="NerBarsomCidan3.9NerangTransc.a" xml:lang="Pers">agar aivyanghan ǧā-ye digar bud vāǧ-e barsom guftan va barsomdān dur
+                nahādan va pas <em>ahmāi raesca</em> tā sar va <em>hazaŋhrəm</em> tā sar va
+                    <em>jasamē</em> tā sar ḫvāndan pas digar bār <em>xšnaoθra ahurahe mazdā̊ aš̱əm
+                    vōhū</em> se ḫvāndan barsom va barsomdām va āb bar dāštan va nazdik-e aivanghan
+                šodan va aivanghan az har deraḫt-e sabz šāyad elā nār va gaz našāyad va digar dast
+                b-āb pādyāvi šostan barsom az barsomdān bedar kardan va dar dast gereftan pas
+                be-kārd-e barsom-čin aivanghan čidan ba hǐč čiz našāyad ḫvāndan va ān <em>ašem
+                    vohu</em> ke šomā neveste budid niz navāyad ḫvāndan va barsom be-dast našāyad
+                čidan barsom šab našāyad čidan va ān <em>xšaθrahe vairiiehe</em> ke šoma nevešte
+                budid niz nabāyad ḫvāndan ke barsom bandand se tā yā panǧ tā yā hafta tā barsom va
+                aivanghan dar dast gereftan čenān konand ke dast-e čab az barsom ǧodā nabāšad </ab1>
+            <ab1 n="NerangEnglish.a" source="K7c" xml:id="NerBarsomCidan3.9NerangEnglish.a"> If the
+                    <em>aivanghan</em> was at a different place, he has to recite again the
+                    <em>vāǧ</em> for the <em>barsom</em> and to put the <em>barsom-dān</em> far
+                away. Then, he has to recite <em>ahmāi. raesca</em> till the end and
+                    <em>jasa.me</em> till the end. Then he has to recite again <em>xšnaoθra ahurahe
+                    mazdā̊</em> and three Aṣ̌əm Vohū. He has to raise the <em>barsom</em>, the
+                    <em>barsom-dān</em> and the water and go near the <em>aivanghan</em>. The
+                    <em>aivanghan</em> can be from any fruti tree, but pomegranate and tamarisk are
+                not allowed. He has to wash the other hand with <em>pādyāb</em> and to remove the
+                    <em>barsom</em> from the <em>barsom-dān</em>and to take it with the hand and
+                then to cut the <em>aivanghan</em> with the knife of the <em>barsom-čin</em>. It is
+                not allowed to recite anything else. It is not allowed to recite the Aṣ̌əm Vohī that
+                you have written. It is also not allowed to recite the <em>xšaθrahe vairiiehe</em>
+                that you have written. The ones who tie the <em>barsom</em>, they have to take
+                three, five, seven branches of the <em>barsom</em> and the <em>aivanghan</em> in the
+                right hand and the make so that the left hand get not separated from the
+                    <em>barsom</em>
+            </ab1>
+
+        </div>
+    </div>
+</div>

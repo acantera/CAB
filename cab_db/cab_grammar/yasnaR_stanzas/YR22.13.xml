@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR22.13" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y22.22" xml:id="YR22.13">
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR22.12"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: vid. Y22.21.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab>YR22.13a <em>iməm haōməm</em> ...] <em>aṣ̌aiia uzdātąm</em> OD <em>aṣ̌aōne aṣ̌ahe ratufritīm</em> (YR22.15) 300; <em>ašaiia uzdātəm āiie</em> OD <em>jaγmūšīmca aṣ̌aonō</em> (YR22.15) 320;
+                <em>aṣ̌aaiiōzadātəm āiie.</em> OD <em>gāϑaną̇mca saraoϑarəm</em> (YR22.15) 350; <em>aṣ̌aiia uzdātəm āiiese yešti</em> OD sl <em>aṣ̌aōnō aṣ̌ahe ratufritīm</em> (YR22.15) 360;
+                <em>aṣ̌aiia uzdātəm āiiese</em> OD <em>aṣ̌aōnō aṣ̌ahe ratufritīm</em> (YR22.15) 370.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrYR22.13"/>
+    </translation>
+</text>

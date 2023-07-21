@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+    <Header xml:id="Dron">
+    </Header>
+    <Header xml:id="YasnaR">
+    <fileDesc>
+            <titleStmt>
+                <title>
+                    <hi rend="italic">Yasna with the šnūman of Rapithwin</hi>
+                </title>
+            </titleStmt>
+            <respStmt>
+                <resp>
+                    <b>Reconstruction of the ceremony and preparation of the electronic version by
+                    Alberto Cantera and Jaime Martínez Porro</b>
+                    <div>
+                    <p>Please cite as follows: 
+                        <ab><note> A. Cantera
+                            and J. Martínez Porro, The Yasna with the šnūman of Rapihwin. A dynamic edition, Corpus Avesticum
+                            Berolinense, https://ada.geschkult.fu-berlin.de/exist/apps/cab/ceremony_generator.html
+                        </note>
+                            </ab>
+                    </p>
+                    </div>
+                </resp>
+            </respStmt>
+            <date>
+                <ab>
+                    <l>Created: January 2019.</l>
+                <l>Last Update: 18.01.2020</l>
+                </ab>
+            </date>
+            <sourceDesc>
+                <p>
+                    <ab>The edition of the Yasna ī Rapithwin is based on the manuscripts of the Yasna ī Rapithwin available for the Avestan Digital Archive (mss. 300, 360 and 370), 
+                        as well as the facsimile of ms. 365 (Jamasp Asa and Nawabi, 1976). </ab>
+                    <ab>The ritual of Yasna with the dedicatory of Rapithwin seems that it was celebrated just in the 3rd day of the 1st month of the year, 
+                        so in the day Ardwahišt of the month Frawardin, although in the Revāyāt of Kaus Kamdin the Indian priests state that it is celebrated on the 1st day of the 1st month, 
+                        so in the day Ohrmazd of the month Frawardin (Dhabhar, 1932, p. 302). 
+                        In the WīD (Sanjana, 1848, p. 73) it is also mentioned at the day of Ardwahišt of the month Frawardin. 
+                        Kotwal justifies it in the similarities of the dedicatory of Rapithwin with the dedicatory of Ardwahišt (Kotwal and Boyd, 1982, pp. 151-152). 
+                        In fact, the dedicatory of Rapihwin mentions first as well Aṣ̌a Vahišta: 
+                        <em>ahurahe mazdā̊ raēuuatō xᵛarənaŋᵛhatō aməṣ̌anąm spəṇtanąm aṣ̌ahe vahištahe āϑrasca ahurahe mazdā̊ puϑra 
+                            vīspaēšąm yazatanąm aṣ̌aōnąm maińiiauuanąm gaēϑiianąm aṣ̌āunąm frauuaṣ̌inąm uγranąm aiβiϑūranąm paōiriiō.t̰kaēšanąm frauuaṣ̌inąm nabānazdištanąm frauuaṣ̌inąm.</em> 
+                        Since our edition is based in the Iranian rituals, attending the evidences of the WīD, 
+                        as well as the Revāyāts, our default ceremony is edited with the day of Ardwahišt and the month Frawardin.</ab>
+                    <ab>Kotwal (<em>ibidem</em>) mentions the possibility of celebrating this ceremony other days if it is not possible the third day of the month Frawardin, 
+                        always within the Rapithwin period, between the spring equinox and the autumn equinox. 
+                        The Rapithwin watch (noon), between the Hāwan and Uzaiieirin watches, only appears in these six months, while in the other six months it merges with the <em>hāwan gāh</em>, 
+                        as the Nērangestān states (Kotwal, 2003, p. 112).</ab>
+                    <ab>A ceremony of Yasna ī Rapithwin is a vīspa- yazata- ceremony, but not a vīspa- ratu- ceremony. 
+                        This is the main difference with the standard Yasna ceremony and has consequences, especially in the litanies:
+                        the asńiia- ratu- are not mentioned, but just the <em>rapiϑβina- ratu-</em>, the only possible for this ceremony (Dhabhar, 1932, p. 302). 
+                        Moreover, the other temporal <em>ratu-</em>, the <em>māhiia-</em>, <em>yāiriia-</em> and <em>sarəδa-</em>, are not mentioned, as well as the mention of the 33 <em>ratu- pairiš.hāuuani-</em> and the <em>ahura- miϑra-</em> section before the date. 
+                        This way, the ceremony of Yasna ī Rapithwin presents the litanies in a similar way to the Drōn ceremony.</ab>
+                    <ab>The divergences with the standard Yasna ritual also affect the Frauuarāne, since it omits the <em>raϑβąm aiiaranąmca asńiianąmca māhiianąmca yāiriianąmca sarəδanąmca</em>, 
+                        precisely because it is not a <em>vīspa- ratu-</em> ceremony. 
+                        The same happens with the mention of the <em>ratu- bərəzaṇt-</em>. 
+                        In both cases (e.g. YR0.11 and after YR1.9), the manuscripts (e.g. ms. 300, ff. 41r and 41v respectively) attest <em>raϑβąm LA ʾp̄ʾyt' gwptn'</em> ("<em>raϑβąm</em> -section- shall not be recited"). 
+                        The same applies to the mention of the “satisfaction of the ratus” in the sequence <em>imąm aŋhuiiąmca aṣ̌aiiąmca raϑβąmca ratufritīmca</em> (e.g. Y3.4 and Y4.3). 
+                        In the case of the Yasna ī Rapithwin <em>raϑβąmca</em> is omitted.</ab>
+                    <ab>Dhabhar, E. B. N. (1932). <em>The Persian Rivayats of Hormazyar Framarz and others.</em> K. R. Cama Oriental Institute.</ab>
+                    <ab>Jamasp Asa, K. M., and Nawabi, M. (Eds.). (1976). <em>Manuscript j 2. Few Yazishn, Niyayishns, Afarins and Dast Shapin, Names of 21 Nasks of Evesta, Preliminary Portion of the Larger Sorsh Yasht, etc.</em> Asia Institute of Pahlavi University.</ab>
+                    <ab>Kotwal, F., and Boyd, J. (1982). <em>A guide to the Zoroastrian religion: a Nineteenth Century Catechism with Modern Commentary.</em> Scholars Press.</ab> 
+                    <ab>Kotwal, F. K., Philip. (2003). <em>The Hērbedetān and Nērangestān. Volume III: Nērangestān, Fragard 2.</em> Association pour l'avancement des études iraniennes.</ab> 
+                    <ab>Sanjana, P. B. (Ed.). (1848). <em>Vajarkard Dini.</em></ab> 
+                </p>
+            </sourceDesc>
+            <titleStmt>
+                <title>
+                    <hi rend="italic"> Pahalvi Nērangs of the Yasna with the šnūman of Rapihwin</hi>
+                </title>
+            </titleStmt>
+            <respStmt>
+                <ab><resp>Edition and translation of the Nerangs by </resp> <name>Alberto Cantera</name></ab>
+                <ab type="citation"><em>The ritual instructions in Pahlavi for the performance
+                    of the Yasna with the šnūman of Rapihwin, Corpus Avesticum Berolinense</em>. </ab>
+                <ab type="sources">Source: ms. 0300</ab>
+            </respStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </Header>
+    <Header xml:id="Visperad">
+    </Header>
+    <Header xml:id="Videvdad">
+    </Header>
+    <Header xml:id="Vishtasp">
+    </Header>
+    
+    <Header xml:id="Yasna">
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <hi rend="italic">Yasna</hi>
+                </title>
+            </titleStmt>
+            <respStmt>
+                <resp>
+                    <b>Reconstruction of the ceremony and preparation of the electronic version by
+                    Alberto Cantera and Jaime Martínez Porro</b>
+                    <div>
+                    <p>Please cite as follows: 
+                        <ab>
+                                <note> A. Cantera
+                            and J. Martínez Porro, TheYasna. A dynamic edition, Corpus Avesticum
+                            Berolinense, https://ada.geschkult.fu-berlin.de/exist/apps/cab/ceremony_generator.html
+                        </note>
+                            </ab>
+                    </p>
+                    </div>
+                </resp>
+            </respStmt>
+            <date>
+                <ab>
+                    <l>Created: January 2019.</l>
+                <l>Last Update: 25.02.2019</l>
+                </ab>
+            </date>
+            <sourceDesc>
+                <p>
+                    <ab>The edition is based mainly in the manuscripts of the Yasna available online in the
+                    Avestan Digital Archive (https://ada.geschkult.fu-berlin.de/). For the performative
+                    variation s. A. Cantera, Textual performative variation in the Long Liturgy: the
+                    ceremonies of the last ten days of the year, Dabir 6, pp. 16-49 </ab>
+                </p>
+            </sourceDesc>
+            <titleStmt>
+                <title>
+                    <hi rend="italic"> Pahalvi Nērangs of the Yasna</hi>
+                </title>
+            </titleStmt>
+            <respStmt>
+                <resp>Edition and translation of the Nerangs by </resp>
+                <name>Alberto Cantera</name>
+                <ab type="citation"> A. Cantera, The ritual instructions in Pahlavi for the performance
+                    of the Yasana, Corpus Avesticum Berolinense, </ab>
+                <ab2 type="sources">mss. 0400 and occasionally ms. 0040</ab2>
+            </respStmt>
+
+            <sourceDesc>Manuscript mss. 0400 and occasionally ms. 0040 </sourceDesc>
+        </fileDesc>
+        <ab>
+            <b>Ritual comments</b>
+        </ab>
+        <ab>The Avestan text of N32.4-6 confirms that the Long Liturgy can be performed at <em>uzaiieirina</em>:</ab>
+        <ab class="ab_indent">
+            <em> āat̰ *aiβi.gāme ẏezi para hū.*frāšmō.dātōit̰ ahunąsca
+vairiiąn frasrāuuaiieiti spəṇta mainiiūmca *vacastaštīm xšuuaš vahištəm *srāuuaiieiti anastərətō *pascaēta auuā ẏā̊ anii̇ā̊ srāuuaiiōit̰ maiδiiāt̰ xšapāt̰</em>
+        </ab>
+        <ab class="ab_indent">In winter, if he recites the Ahuna Vairiia  and the best Spəṇta.maińiiuū (Hāiti) that consists of six stanzas before ""the offering of brightness (to the sun)" (i.e. sunset), then he might recite the other texts without sin until midnight."</ab>
+<ab>[The mention of the recitation of the Spəṇta.maińiiu Hāiti during the āb-zōhr (Y68.36-40) so that the libation to the waters takes place before sunset.]</ab>
+
+    </Header>
+    
+    <Header xml:id="Paragna">
+    </Header>
+</div>

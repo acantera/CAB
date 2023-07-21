@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS27.37" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y24.22" xml:id="VVrS27.37">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS13.35b" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RozGen" xpointer="RozGen1" on_line="in1line"/>
+      <!-- All days possible -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS13.35c" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS13.35d" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/MahGen" xpointer="MahGen1" on_line="in1line"/>
+      <!-- All months possible -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS13.35e" on_line="in1line"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y24.14.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VVrS27.37a <em>āat̰ dīš āuuaēδaiiamahi</em> ...] <em>āat̰ dīš āuuaēδaiiamahe</em> YWM W BYRH ẔKš ḆYN YKOYMWNd gwptn' 4000; <em>āat̰ dīš āuuaēδaiiamahe</em> YWM W BYRH gwptn' 4010, 4020, 4025, 4030, 4050, 4161, 4162;
+         [....] BYRH gwptn' 4040; <em>āuu</em> YWM W BYRH MNW YHWWNyt' gwptn' 4045; <em>āat̰ dīš</em> YWM W BYRH 4075.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS27.37"/>
+   </translation>
+</text>

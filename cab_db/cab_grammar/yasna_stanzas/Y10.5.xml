@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y10.5" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y10.5">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY10.5"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y10.5NerangTransc.a"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: Anklesaria; Kotwal and Boyd.</ab>
+            <ab class="ab_indent">(zōt) <em>varəδaiiaŋuha</em> rāspī <em>mana vaca...</em> Geldner.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y10.5b-c <em>varšajīš</em>] Geldner, Pirart; Kellens (Bartholomae) <em>varəšajīš</em>. Vid. <bibl>Kellens, 1974</bibl>,  p. 321-322).</ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab>Vid. Nērang, cf. VVrS10.5.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+   <Nerangs id="ritualNerangs">
+      <ab>Y10.5 Var. a (mss. 5, 6, 40, 60, 88, 400, 2007, 2010, 2030, 2101, 4000, 4020, 4040, 5020):</ab>
+      <ab class="ab_indent">
+         az  <em>vīspə̄sca paiti varəšacīš vīspə̄sca paiti frasarəγə̄ vīspə̄sca paiti frauuāxšə̄</em>.  dō bār harw dō bār rāspīg-iz abāg zōt bē gōwišn bōy ō ī ātaxš dahišn </ab>
+      <ab class="ab_indent">
+         "From <em>vīspə̄sca paiti varəšacīš vīspə̄sca paiti frasarəγə̄ vīspə̄sca paiti frauuāxšə̄</em> they have to recite it twice. 
+         The <em>rāspīg</em> has also to recite it together with the <em>zōt</em>. He has to give <em>bōy</em> to the fire."</ab>
+      <ab>Y10.5 Var. b (mss. 2040, 4010, 4020, 4025, 4040, 4050, 4055, 4060, 4063, 4161, 4162, 4030a):</ab>
+      <ab class="ab_indent">
+         ... <em>frauuāxšə̄</em> harw dō bār bōy ōy ī ātaxš dahišn ud rāspīg-iz abāg zōt bē gōwišn </ab> 
+      <ab class="ab_indent">
+         "... <em>frauuāxšə̄</em> Each of the two times, he has to give <em>bōy</em> to the fire. The <em>rāspīg</em> has also to recite (the text) together with the <em>zōt</em>."</ab>
+   </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY10.5"/>
+      <include type="W" corresp="WTrY10.5"/>
+      <include type="K" corresp="KTrY10.5"/>
+      <include type="D" corresp="DTrY10.5"/>
+   </translation>
+</text>

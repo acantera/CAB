@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y10.3" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y10.3">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY10.3"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt vid. Y9.3.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y10.3a <em>barəšnuš</em>] Kellens; Geldner <em>barṣ̌nuš</em>; Pirart <em>barəšnušu</em>. Irr. loc. pl. for <em>barəšnušu</em> or irr. acc. pl. for <em>barəšnūš</em>.Cf. Y10.17 <em>barəšnušuua gairinąm</em>.</ab>
+         <ab>Y10.3b <em>urūruδuša</em>] Bartholomae, Kellens, Pirart *<em>urūruδiša</em> (2nd. sg. perf. opt.); <bibl>Josephson, 1997</bibl> *<em>urūruδuš</em>, (n.sg. part.perf.); <bibl>Kümmel, 2000</bibl> p. 666 <em>urūruδuša</em> (instr.sg. part.perf. perhaps as unadapted quotation from a lost passage).</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>
+         <em>baršnuš paiti gairinąm</em> = Y9.26, VS2.23; ~ Y10.17 <em>barəšnušuua gairinąm</em>; ~
+         V5.1 <em>haca barəšnauuō gairinąm</em>; ~ VS5.1, VS5.2 <em>auui barəšnauuō gairinąm</em>; ~
+         Yt14.21 <em>barəšnauuō ... gairinąm</em>; ~ Yt18.6 <em>barəšnauuō gairinąm</em>.</ab>
+      <ab><em>garaiiō bərəzaṇto</em> = Yt10.14; ~ Yt13.9 <em>garaiiasca yōi bərəzaṇtō</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY10.3"/>
+      <include type="W" corresp="WTrY10.3"/>
+      <include type="K" corresp="KTrY10.3"/>
+      <include type="D" corresp="DTrY10.3"/>
+   </translation>
+</text>

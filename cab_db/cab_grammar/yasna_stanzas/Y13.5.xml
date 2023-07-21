@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y13.5" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y13.5">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY13.5"/>
+   </div>
+   <Speaker>
+   <SpeakerInfo>
+      <div>
+         <ab class="ab_indent">zōt ud rāspīg: vid. Y13.4.</ab>
+      </div>
+   </SpeakerInfo>  
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y13.5a <em>ahurā. mazdā</em>] sec. Ir. cod.; Geldner <em>ahura.mazdā</em>; Kellens <em>ahuramazdā</em>.</ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab>Y13.5] <em>āat̰</em> MN <em>yaϑā tū.ī</em> ... <em>mazdā ahurā</em> II bʾl gwptn' 5, 60, 88; <em>āat̰</em> MN <em>yaϑā tēī</em> ... <em>mazdā ahurā</em> II bʾl 15;
+            <em>yaϑā tū.ī ahura mazda</em> II bʾl gwptn' 40; <em>mazdā ahurā</em> wycst byšʾmlwtyk 410, 500, 510; <em>mazdā ahurā</em> wycyst byšʾmlwtyk gwbšn' 400.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>Y13.5 quotes Y39.4 = VrS65.48; ~ VS10.4.</ab>
+      <ab><em>yā vōhū aϑā tōi dadəmahī aϑā cīšmahī ... ϑβā mazdā ahurā</em>; ~ Y35.5, VrS19.2, VrS65.19, VrS82.37, VrS89.26 <em>dadəmahicā cīšmahicā huuąmahicā hiiat̰ mazdāi ahurāi aṣ̌āicā vahištāi</em>; 
+         ~ Y12.14, VrS11.28, VrS32.3 <em>ahurāi mazdāi vīspā vohū cinaɱi</em>; ~ Y12.6 <em>ahurāi mazdāi vaŋhauuē vohumaitē vīspā vohū cinaɱī</em>.</ab>
+      <ab><em>aϑā ϑβā āiš yazamaide aϑā nəmax́iiāmahī aϑā išūidiiāmahī ϑβā mazdā ahurā</em> ~ Y38.4, Y67.3, VrS65.42 <em>tāiš vā̊ yazamaidē tāiš friiąmahī tāiš nəmax́iiāmahī tāiš išūidiiāmahī</em>.</ab>
+      <ab><em>aϑā nəmax́iiāmahī aϑā išūidiiāmahī ϑβā mazdā ahurā</em> ~ Y36.5, VrS65.30, VrS80.5 <em>nəmax́iiāmahī išūidiiāmahī ϑβā mazdā ahurā</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY13.5"/>
+      <include type="W" corresp="WTrY13.5"/>
+      <include type="K" corresp="KTrY13.5"/>
+      <include type="D" corresp="DTrY13.5"/>
+   </translation>
+</text>

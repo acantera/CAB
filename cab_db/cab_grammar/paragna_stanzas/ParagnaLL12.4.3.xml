@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL12.4.3" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="3" xml:id="ParagnaLL12.4.3">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL12.4.3 (Ms. K7):</ab>
+            <ab class="ab_indent">
+                pas čahār <em>yaθā ahū vairiiō</em> ḫᵛāndan <em>yaθā ahū vairiiō</em> avval ḫᵛāndan tā <em>š́iiaoθananąm</em> yekbār hum va urvarān kuftan <em>aŋhə̄uš</em> yekbār 
+                kuftan <em>mazdā̊</em> yekbār kuftan <em>xšaθrəmca ahurāi ā yim darəɤubiiō</em> vāstārəm ḫᵛāndan čahār angušt daste az hāvan ǧodā kardan pas <em>yaθā ahū vairiiō</em> 
+                dovvom be <em>š́iiaoθananąm</em> do bār kuftan <em>aŋhə̄uš</em> do bār kuftan <em>mazdā̊</em> do bār kuftan <em>xšaθrəmcā</em> tā sar ḫāndan <em>yaθā ahū vairiiō</em>
+                seivom be <em>š́iiaoθnanąm</em> se bār kuftan be <em>aŋhə̄uš</em> se bār kuftan va se bār kuftan <em>xšaθrəmcā</em> tā sar ḫᵛāndan <em>yaθā ahū vairiiō</em> čahārom 
+                tā vāstārəm  kuftan va hāvan šekāftan</ab>  
+            <ab class="ab_indent">
+                "Then he should recite four <em>Yaθā ahū vairiiō</em>. He should recite the first <em>Yaθā ahū vairiiō</em> until <em>š́iiaoθananąm</em>, when he should pound (the <em>hum</em> and 
+                <em>urvarān</em>) once; at <em>aŋhə̄uš</em> he should pound them once; at <em>mazdā̊</em> he should pound them once; at <em>xšaθrəmca</em> he should pound them 
+                once. He should recite <em>ahurāi ā yim darəγubiiō vāstārəm</em> and lift the pestle four fingers from the <em>hāvan</em>. During the second <em>Yaθā ahū vairiiō</em>,
+                he should pound them at <em>š́iiaoθananąm</em> twice; at <em>aŋhə̄uš</em> he should pound them twice; at <em>mazdā̊</em> he should pound them twice; at <em>xšaθrəmca</em> 
+                he should pound them twice. He should recite it until the end. During the third <em>Yaθā ahū vairiiō</em>, he should pound them at <em>š́iiaoθananąm</em> thrice; at <em>aŋhə̄uš</em>
+                he should pound them thrice; at <em>mazdā̊</em> he should pound them thrice; at <em>xšaθrəmca</em> he should pound them thrice. He should recite it until the end. During the 
+                fourth <em>Yaθā ahū vairiiō</em> until <em>vāstārəm</em> he should pount (them) and hit the <em>hāvan</em>."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL12.4.3"/>
+    </translation>
+</text>

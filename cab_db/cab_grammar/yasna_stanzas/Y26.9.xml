@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y26.9" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y26.10" shnumandep="1">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY26.10"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y25.4.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y26.9c <em>saōš́iiaṇtāt̰</em>] irr. (thematized, sec. Barth.) sec. cod., Geldner; Kellens<em>saōš́iiaṇtat̰</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>Y26.9 = Y59.28, VrS81.27, DrYt4.18.</ab>
+      <ab>VrS30.9 = DoHom7.9.</ab>
+      <ab><em>aṣ̌āunąm vaŋuhīš sūrā̊ spəṇtā̊ frauuaṣ̌aiiō</em> = Y2.19, Y6.20, Y17.19, Y26.2, Y59.19, Y66.24, Y71.23, VrS14.7, VrS81.29, Yt13 (<em>passim</em>), Šn. ext. <em>ardafrawahr</em>.</ab>
+      <ab><em>narąm aṣ̌aōnąm frauuaṣ̌aiiō yazamaide nāirinąm aṣ̌aōninąm frauuaṣ̌aiiō yazamaide</em> = VrS51.5, VrS51.6; ~ Y26.7 <em>vīspanąm narąm aṣ̌aōnąm frauuaṣ̌aiiō yazamaide vīspanąm nāirinąm aṣ̌aōninąm frauuaṣ̌aiiō yazamaide</em>. Cf. Yt13.143-145.</ab>
+      <ab><em>saōš́iiaṇtāt̰ vərəϑraγnat̰</em> ~ Y59.29 <em>saōš́iiaṇtəm vərəϑrājanəm</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY26.9"/>
+      <include type="W" corresp="WTrY26.10"/>
+      <include type="K" corresp="KTrY26.10"/>
+      <include type="D" corresp="DTrY26.10"/>
+   </translation>
+</text>

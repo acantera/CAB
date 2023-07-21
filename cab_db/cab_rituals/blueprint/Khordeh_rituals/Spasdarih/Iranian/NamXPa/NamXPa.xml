@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+			<div type="Spasdarih" xml:id="NamX_Parsi"> <!-- vide: K37; non vide: 3080(MF16), 7305(MF28) (3x [Parsi + Pazand ?]), Ethé1941 (2x [Parsi + Pazand ?]), 6860(MF75) (Parsi?), Katrak132, Katrak166 -->
+				<div type="SpasdarihStanza" xml:id="NamX_Parsi1.1">
+                    <ab n="a" xml:id="NamX_Parsi1.1a">nʾm xʾwr dʾdʾr ʾwxšydʾr fyrwz bʾd </ab>
+					<ab n="b" xml:id="NamX_Parsi1.1b">dʾdʾr ʾwrmzd rʾywmnd xrwhmnd hrwsf āgʾh dʾnʾy twʾnʾy twʾnkrdʾr ʾwxšʾyšnykr</ab>
+                </div>
+				<div type="SpasdarihStanza" xml:id="NamX_Parsi3.1">  
+					<ab n="a" xml:id="NamX_Parsi2.1a">hrwsf nykh dʾdʾr</ab>
+					<ab n="b" xml:id="NamX_Parsi2.1b">hrwsf nykh dʾštʾr</ab>
+					<ab n="c" xml:id="NamX_Parsi2.1c">hrwsf ʾnʾkh ʾwʾǧ dʾštʾr</ab>
+					<ab n="d" xml:id="NamX_Parsi2.1d">kš ʿmʾ fh mhswdh dʾd āfryd w brhnyd hm</ab>
+                </div>
+				<div type="SpasdarihStanza" xml:id="NamX_Parsi2.2">
+                    <ab n="a" xml:id="NamX_Parsi2.2a">ʾuš dʾd hrwsf dʾm w wh str w mʾh w xwršyd w āsmʾn w blnd swd w ʾnġr rwšn gʾh xdʾ</ab>
+					<ab n="b" xml:id="NamX_Parsi2.2b">hrwsf spnʾhmynw dʾmʾn ʾšwʾn</ab>
+				</div>
+				<div type="SpasdarihStanza" xml:id="NamX_Parsi3.1">
+                    <ab n="a" xml:id="NamX_Parsi3.1a">ʾšʾyh rdʾn dyn wh mʾzdysnʾn fyrwzkr bnd</ab>
+					<ab n="b" xml:id="NamX_Parsi3.1b">hmʾ ʾmʾsfndʾn hmʾ yzdʾn mynwʾn w gytʾn</ab>
+					<ab n="c" xml:id="NamX_Parsi3.1c">w hmʾ frhwhrʾn ʾšwʾn</ab>
+					<ab n="d" xml:id="NamX_Parsi3.1d">mhr w srwš ršn</ab>
+					<ab n="e" xml:id="NamX_Parsi3.1e">w xrwh ʾwyǧh whdyn mʾzdysnʾn</ab>
+					<ab n="f" xml:id="NamX_Parsi3.1f">kš dʾd fh ʾwʾǧ dʾštn wnydn ʾhrmn druwnd ʾwʾ hmʾ dywʾn drǧʾn ǧʾdwyʾn pryʾn sʾstʾrʾn w knkʾn w krfʾn wnʾh kʾrʾn</ab>
+				</div>
+				<div type="SpasdarihStanza" xml:id="NamX_Parsi3.2">
+					<ab n="a" xml:id="NamX_Parsi3.2a">ʾǧ wh dʾm w dhšn yzdʾn ʾnwšhšʾn rwʾn bʾd</ab>
+					<ab n="b" xml:id="NamX_Parsi3.2b">yšt frhwhr zʾdʾn frǧ twm mrdʾn fšwm twm ʾšw twm frhwhr zrʾtšt sfntmʾn rd hrwsf dynyʾn dyn burdʾrʾn</ab>
+				</div>	
+				<div type="SpasdarihStanza" xml:id="NamX_Parsi3.3">	
+					<ab n="a" xml:id="NamX_Parsi3.3a">ʾndr hft kšwr zmyn brsnd rwʾn mʾ rwʾn</ab>
+					<ab n="b" xml:id="NamX_Parsi3.3b">hmʾ frhwhrʾn ʾšwʾn ʾǧ ʾwl kyʾmrs̱ tʾ bsywšʾns pur xrwh hstʾn w bydʾn</ab>
+					<ab n="c" xml:id="NamX_Parsi3.3c">w cyr w fyrwzkr bʾd</ab>
+					<ab n="d" xml:id="NamX_Parsi3.3d">wrǧʾwnd dhywmnd dyn wh mʾzdysnʾn ʾfrwxth brʾzhʾ dwr pʾyndh bʾd</ab>
+				</div>	
+				<div type="SpasdarihStanza" xml:id="NamX_Parsi3.4">	
+					<ab n="a" xml:id="NamX_Parsi3.4a">txt kʾh w xdʾ stʾym ʾzbʾym</ab>
+				</div>
+				<div type="SpasdarihStanza" xml:id="NamX_Parsi3.5">
+					<ab n="a" xml:id="NamX_Parsi3.5a">ʾš wrǧ xrwh ǧʾwydʾn ptʾyšny wyrʾyšny bʾd</ab>
+					<ab n="b" xml:id="NamX_Parsi3.5b">hmy gʾh frmʾn rdʾn dyn burdʾrʾn mwbdʾn rubʾ āfryngʾn bʾd</ab>
+					<ab n="c" xml:id="NamX_Parsi3.5c">wrǧ xrwh wyš w wh ʾwzynytr bʾd</ab>
+					<ab n="d" xml:id="NamX_Parsi3.5d">hmʾ ʾyrʾn whʾn whh dynʾn ʾndr hft kšwr zmyn fh dyn rbʾynydʾrh ʾstwʾn krfh wrzydʾrh ʾǧ wnʾh phryxtʾrh bnd</ab>
+					<ab n="e" xml:id="NamX_Parsi3.5e">ʾušʾn bʾd gyty fh kʾmh tn mynw fh kʾmh rwʾn ʾnyrʾn duš pʾdšʾhʾn hmwʾrh šksth hwsth</ab>
+					<ab n="f" xml:id="NamX_Parsi3.5f">ʾndr šʾhnšʾ mrdm fšwm ʾyr w hw wynš bʾd frmʾn burdʾr sʾw bʾǧ ā wrtʾr bnd</ab>
+					<ab n="g" xml:id="NamX_Parsi3.5g">fh kʾm frmʾn tw xʾwr dʾdʾr dyn rbʾ āfrynkʾn bʾd</ab>
+					<ab n="h" xml:id="NamX_Parsi3.5h">dyn burdʾrʾn šʾn ʾǧ dyn nykh rsʾd</ab>
+				</div>
+				<div type="SpasdarihStanza" xml:id="NamX_Parsi4.1">
+					<include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+                </div>
+			</div>
+</div>

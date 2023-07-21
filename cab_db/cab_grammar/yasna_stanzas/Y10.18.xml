@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y10.18" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y10.18">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY10.18"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y10.6.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y10.18a <em>staōmaōiiō</em>] Kellens; Geldner <em>staomāiiō</em>; Pirart <em>staomāuiiō</em>.</ab>
+         <ab>Y10.18b <em>cīcašānā̊</em>] Pirart <em>cīcišānā̊</em>.</ab>
+         <ab>Y10.18b] add. post. glossa <em>aϑā nā yō dim staōiti</em> 400, 410, <em>iϑā nā ẏōidim staōiti</em> 510, <em>iϑā [n]ā ẏūidim staōiti</em> 500, <em>iϑānā ẏōidim štaoiti</em> 100, <em>iϑānā ẏūidīm staoti</em> 110. Cf. Y10.6a <em>haōmō uxšiieiti stauuanō aϑa nā yō dim staōiti vərəϑrająstarō bauuaiti</em>.</ab>
+         <ab>Y10.18c <em>dāsmainiš</em>] unknown word. <bibl>Kellens, 2007</bibl> p.83 suggest an (irregular) derivative in <em>-i</em> of <em>das(ə)ma-</em> "ceremony" (sec.<bibl>De Vaan, 2003</bibl> p. 92); <bibl>Pirart, 2004</bibl> p. 104, n. 324 suggests a corruption of <em>dasuuarəm</em> (?).</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>ime həṇti aršuxδa vacō dāsmainiš vārəϑraγniš paiti.bišiš baēšaziia</em> ~ Yt18.8 <em>vaca aršuxδa vārəϑraγniš baēšaziš yazamaide ... baēšaziš vaca aršuxδa vārəϑraγniš yazamaide</em>.</ab>
+      <ab>(Related to <em>haōma</em>) <em>dāsmainiš vārəϑraγniš paiti.bišiš baēšaziia</em> ~ VrS24.4, VrS24.12 <em>haōmanąm ... vārəϑraγninąm paiti.bišinąm aṣ̌ōiš baēšaza</em> ~ FrW9.1 <em>vārəϑraγniš paiti.bišiš baēšaziiō</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY10.18"/>
+      <include type="W" corresp="WTrY10.18"/>
+      <include type="K" corresp="KTrY10.18"/>
+      <include type="D" corresp="DTrY10.18"/>
+   </translation>
+</text>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS1.17" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VrS1.17">
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS1.9"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. VrS1.4.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab><em>dax́iiumahe</em>] Kellens. Geldner <em>dāx́iiumahe</em>.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels>
+        <ab>VrS1.17 ≈ VrS2.19, VrS17.18, VrS25.19, VrS27.33, VrS77.18, VrS90.17.</ab>
+        <ab><em>āhurōiš frašnahe āhurōiš t̰kaēšahe</em> ~ Y57.35 <em>frā āhūiriš frašnō frā āhūiriš t̰kaēšō</em>; ~ Y71.12, G1.5 <em>āhūirīm frašnəm aṣ̌auuanəm aṣ̌ahe ratūm yazamaide āhūirīm t̰kaēšəm aṣ̌auuanəm aṣ̌ahe ratūm yazamaide</em></ab>
+        <ab>~ Y17.19, Y26.1, Y59.19, Y71.23; Yt13.21 <em>dax́iiumā̊ zaraϑuštrōtəmā̊</em>; ~ Yt10.115<em>dax́iiuma zaraϑuštrōtəma</em></ab>
+        <ab><em>hadišaheca vāstrauuatō</em> ~ VrS24.8 <em>hadišasca aṣ̌iuuatō vāstrauuatō xᵛaϑrauuatō marždikauuatō</em>.</ab>
+        <ab><em>vāstrō.bərətaheca gauue huδā̊ŋ́he</em> ~ Y35.7 <em>gə̄ušca vāstrəm</em></ab>
+        <ab><em>vāstrō.bərətaheca ... gaōidiieheca...</em> ~ Y29.2 <em>vāstrā gaōdāiiō</em></ab>
+        <ab><em>gauue huδā̊ŋhe</em> = VS5.20 (x2) VytS6.2; ~ Y4.1 (x2), Y4.3 (x2), VrS27.9, V13.45 <em>gąmca huδā̊ŋhəm</em>; ~ VrS28.5 <em>gaōt̰ca huδā̊ŋhat̰</em>; Y59.22 <em>gə̄uš huδā̊ŋhō uruuanəm</em>; ~ FrW6.1 <em><em>gə̄uš huδā̊ŋhō uruuane</em></em></ab>
+        <ab><em> gaōidiieheca narš aṣ̌aōnō</em>; ~ Y33.3 <em>yə̄ aṣ̌āune vahištō ... vīdąs vā ϑβaxšaŋhā gauuōi</em></ab>
+    </Parallels>
+    <Ritual>
+        <ab>This stanza refers to unknown texts.</ab>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrVrS1.17"/>
+        <include type="W" corresp="WTrVr1.9"/>
+        <include type="D" corresp="DTrVr1.9"/>
+        <include type="K" corresp="KTrVr1.9"/>
+    </translation>
+</text>

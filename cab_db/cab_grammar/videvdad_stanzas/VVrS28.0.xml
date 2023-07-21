@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS28.0" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="VrS28.0" xml:id="VVrS28.0">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS14.1a"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/videvdad_nerang" xpointer="VVrS28.1NerangTransc.a"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. VrS27.49.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS28.0"/>
+   </translation>
+</text>

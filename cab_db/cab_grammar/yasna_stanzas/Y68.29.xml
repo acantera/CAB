@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y68.29" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y68.29">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY68.21i"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y68.22NerangTransc.h"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y68.29 (mss. 5, 6, 40, 88, 400, 410 (sec. m. marg.), 2005, 2010, 2030, 2101, 2102, 2104, 2106, 4000, 4010, 4020, 4025, 4040, 4050, 4060, 4161, 4162, 5020, 4056):</ab>
+         <ab class="ab_indent">
+            <em>jaiδiiamnā̊ nō yūžəm dasta xšaiiamnā̊ raēšca xᵛarənasca āpō dasta</em> ǰām purr az āb bē kunišn ud abar dast nihišn <em>nō təm yānəm yō yūšmat̰ parō frauuistō</em></ab> 
+         <ab class="ab_indent">
+            "At <em>jaiδiiamnā̊.nō yūžəm dasta xšaiiamnā̊ raēšca xᵛarənasca āpō dasta</em>, he has to fill the bowl with water and put it in the hand (and he continues with) <em>nō təm yānəm yō yūšmat̰ parō frauuistō</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY68.29"/>
+      <include type="W" corresp="WTrY68.21f"/>
+      <include type="K" corresp="KTrY68.21f"/>
+      <include type="D" corresp="DTrY68.21f"/>
+   </translation>
+</text>

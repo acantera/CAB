@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y1.22" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y1.22">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY1.21"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. Y1.18.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Orthographical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels>
+        <ab>Y1.22 ≈ Y1.23, YR1.14 (in 2nd pl. <em>yezi vō...</em>)</ab>
+        <ab>
+            <em>yezi ϑβā diduuaēša yezi manaŋha yezi vacaŋha yezi š́iiaōϑna... ā.tē aŋ́he fraca stuiiē</em> ~ Y12.13 <em>āstuiiē humatəm manō āstuiiē hūxtəm vacō āstuiiē huarštəm š́iiaōϑanəm</em>
+        </ab>
+        <ab><em>yezi manaŋha yezi vacaŋha yezi š́iiaōϑna</em> ~ Y0.7, Y12.3 <em>fərā manaŋhā fərā vacaŋhā fərā š́iiaōϑnā</em>; 
+            ~ Y18.2, Y18.9 Y47.2, Y47.8, Y48.13, Y49.13, Y50.12, Y68.36, Y68.42 <em>vahištācā manaŋhā hacā aṣ̌āt̰ š́iiaōϑanācā vacaŋhācā</em> 
+            ~ Y19.17 <em>aršmanaŋha aršuuacaŋha aršš́iiaōϑna</em>; ~ A1.11 <em>raϑβiia manaŋha raϑβiia vacaŋha raϑβiia š́iiaōϑna</em></ab>
+        <ab>
+            <em>nī.tē vaēδaiiemi</em> ~ Y1 <em>passim</em> <em>ńiuuaēδaiiemi</em>
+        </ab>
+        <ab>
+            <em>yasnaheca vaɱaheca</em> ~ <em>passim</em> in formula <em>yasnāica vaɱāica (xšnaōϑrāica frasastaiiaēca)</em>
+        </ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrY1.22"/>
+        <include type="W" corresp="WTrY1.21"/>
+        <include type="K" corresp="KTrY1.21"/>
+        <include type="D" corresp="DTrY1.21"/>
+    </translation>
+</text>

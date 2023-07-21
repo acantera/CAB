@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS7.8" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y7.8" xml:id="VrS7.8">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY7.7a" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat4.1" on_line="in1line"/>
+      <!-- Ratu in sequence after GY7.6 -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY7.7b" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat4.2" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY7.7c" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat4.3" on_line="in1line"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. VrS7.7.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation/>
+</text>

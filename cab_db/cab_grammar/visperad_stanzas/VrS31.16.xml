@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS31.16" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS31.16">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS31.16NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV1"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS31.16 Var. a (mss. 2005, 2007, 2010, 2030, 2040, 2101, 2106, 2109, 4000, 4010, 4020, 4025, 4030a, 4040, 4050, 4055, 4060, 4063, 4161, 4162, 5020):</ab>
+         <ab class="ab_indent">
+            <em>yaθā ahū vairiiō</em> čahār guftan pad ān ī fradom zōhr andar hōm pālā kunišn pad xšaϑrəmcā bē afšārišn pad dudīgar ud sidīgar ud čahārom bē afšārišn rāspīg pad gāh ī 
+            hāwanān <em>aṣ̌əm vohū</em> ēk guftan</ab> 
+         <ab class="ab_indent">
+            "He should recite the <em>yaθā ahū vairiiō</em> four times. During the first one, he has to pour the <em>zōhr</em> into the <em>hōm-pālā</em>. At <em>xšaϑrəmcā</em>, 
+            he has to strain (the <em>hōm</em> and <em>urwarām</em>). During the second, third and fourth (<em>yaθā ahū vairiiō</em>), he has to strain them. The <em>rāspīg</em> 
+            should recite one <em>aṣ̌əm vohū</em> at the place of the <em>hāwanān</em>."</ab>
+         
+         <ab>VrS31.16 Var. b (ms. 2000):</ab>
+         <ab class="ab_indent">
+            zōt ud rāspīg <em>yaθā ahū vairiiō</em> čahār pad fradom <em>yaθā ahū vairiiō</em> pad <em>xš́iiaoθənanąm</em> hāwandastag pad sar ī hōm pālā dāštan ud hōm ud hāwan
+            abar sar ī hāwandastag pad harw <em>xš́iiaoθənanąm</em> afšārdan rāspīg pad gāh ī hāwanān <em>aṣ̌əm vohū</em> ēk</ab>
+         <ab class="ab_indent">
+            "The <em>zōt</em> and the <em>rāspīg</em> (should recite) four <em>yaθā ahū vairiiō</em>. During the first, at <em>xš́iiaoθənanąm</em>, he should hold the <em>hāwandastag</em> 
+            on the rim of the <em>hōm pālā</em> and bring the <em>hōm</em> and <em>hāwan</em> to the end the <em>hāwandastag</em>. At each <em>xš́iiaoθənanąm</em>, he should 
+            strain (the <em>hōm</em> and <em>urwarām</em>). The <em>rāspīg</em> at the place of the <em>hāwanān</em> (should say) one <em>aṣ̌əm vohū</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS31.16"/>
+   </translation>
+</text>

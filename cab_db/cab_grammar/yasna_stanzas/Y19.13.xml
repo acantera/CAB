@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y19.13" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y19.13">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY19.13"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y19.3.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y19.13a <em>ā.drəṇjaiieiti</em>] sec. cod. (cf. VS9.14 <em>ā.drəṇjaiiōiš</em>); Geldner, Kellens <em>ādrəṇjaiieiti</em>.</ab>
+         <ab>Y19.13b-c <em>kāraiieiti</em>] on the meaning, vid. <bibl>Kellens, 2010</bibl> pp. 36-37; <bibl>Skjaervo, 1989</bibl> p. 400.</ab>
+         <ab>Y19.13c <em>yat̰ dim dāmabiiō cinasti</em>] sec. Kellens; Geldner in Y19.14. PT together with Y19.14a.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>vaŋhə̄uš ... dazda manaŋhō ... š́iiaōϑənanąm</em> quotes YAV.b <em>vaŋhə̄uš dazdā manaŋhō š́iiaōϑananąm</em>.</ab>
+      <ab><em>fradaxštārəm manaŋhe</em> quotes Y31.17 (<bibl>Kellens, 2010</bibl>, p. 42) <em>vaŋhə̄uš fradaxštā manaŋhō</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY19.13"/>
+      <include type="W" corresp="WTrY19.13"/>
+      <include type="K" corresp="KTrY19.13"/>
+      <include type="D" corresp="DTrY19.13"/>
+   </translation>
+</text>

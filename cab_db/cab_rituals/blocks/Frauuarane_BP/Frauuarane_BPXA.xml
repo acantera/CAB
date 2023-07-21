@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+    <div type="Frauuarane" xml:id="Frauuarane_BP1XA">
+		<ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō. ahura.t̰kaēšō.</ab>
+		<include type="block_ratu" href="/db/apps/cab_db/cab_rituals/blocks/RatuFra" xpointer="RatuFra2"/>
+        <include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen"/>
+		<ab n="b" xml:id="Frauuarane.c">xšnaōϑra. yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr1XA"/>    
+    </div>
+</div>

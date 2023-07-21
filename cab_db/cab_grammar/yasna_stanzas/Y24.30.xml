@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y24.30" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y24.30">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY24.33"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y24.28.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>Y24.30 = Y4.25, VrS79.25; ≈ Y1.19, Y2.19, Y3.24, Y6.20, Y7.25, Y17.19, Y22.29, Y59.19, Y66.24, Y71.23, VrS78.36, VrS81.29, VrS82.24.</ab>
+      <ab>VrS27.49 = DoHom4.49.</ab>
+      <ab><em>aṣ̌āunąm frauuaṣ̌inąm uγranąm aiβiϑūranąm paōiriiō.t̰kaēšanąm frauuaṣ̌inąm nabānazdištanąm frauuaṣ̌inąm</em> = Šnuman Frauuaṣ̌i; 
+         ~ Yt13.156 <em>aṣ̌āunąm frauuaṣ̌inąm uγranąm aiβiθūranąm uγranąm vārəθraγninąm paōiriiō.t̰kaēšanąm frauuaṣ̌inąm nabānazdištanąm frauuaṣ̌inąm</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY24.30"/>
+      <include type="W" corresp="WTrY24.33"/>
+      <include type="K" corresp="KTrY24.33"/>
+      <include type="D" corresp="DTrY24.33"/>
+   </translation>
+</text>

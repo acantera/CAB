@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR0.Ext4" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+        <approved/>
+        <updated/>
+    </header>
+    <div xml:id="YR0.Ext4">
+            <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR0Ext4"/>
+        </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <em>zōt: vid. YR0.Ext1.</em>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <RecitationInstruction/>
+        <Commentary>
+            <ab><em>nəmasə.tē. ātarš. mazdā̊. ahurahe. hudā̊. mazišta. yazata.</em>] 320, 350.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Ms. 350 (= Revāyat of Kāma Bohra):</ab>
+            <ab class="ab_indent" n="NerangTransc.a" xml:id="YR0.1NerangTransc.a" xml:lang="Paz">pīš. ātaš. īštāδan. <em>nəmsitē. ātaraš. mazdā̊. ahurahe. haodā̊. mazšta. yazata. xšnaoϑra. ahurahe. mazdā̊.</em></ab>
+            <ab class="ab_indent" n="NerangEnglish.a" xml:id="Y0.1NerangEnglish.a">"Afterwards, he stands before the fire (and he recites) <em>nəmsitē. ātarš. mazdå. ahurahē. haodå. mazšta. yazata. xšnaōθra. ahurahe. mazdå </em>"</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrYR0.Ext4"/>
+    </translation>
+</text>

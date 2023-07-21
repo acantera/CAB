@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y12.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y12.1">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP3"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y11.17, Recitation Instruction.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>zwt' <em>yaϑā ahū vairiiō zaōtā frā.mē mrūtē</em> lʾspyk <em>yaϑā ahū vairiiō yō zaōtā frā.mē mrūtē</em> zwt' <em>aϑā ratuš</em> krtn'] 6, 15, 88; 
+            zwt' <em>yaϑā ahī vairiiō zaōta frā.mē mrīte</em> lʾspyk <em>yaϑā ahī vairiiō yō zaōta frā.mē mrītē</em> zwt' <em>aϑā ratuš</em> krtn' OD <em>mraōtē</em> 5;
+            zwt' <em>ẏaϑā ahū vairiiō zaota frā.mē mrūte</em> lʾspyk <em>ẏaϑā ahū vairiiō ẏō zaota frā.mē mrūte</em> zwt' <em>aϑā ratuš</em> OD <em>mraotū</em> 400;
+            zwt' <em>ẏaϑā ahū vairiiō zaōtā frā.mē mrūtē</em> lʾspyk <em>ẏaϑā ahū vairiiō ẏō zaōtā frā.mē mrūtē</em> zwt' <em>aϑā ratuš aṣ̌āt̰cīt̰ hacā frā aṣ̌auuā vīδuuā̊ mraōtū</em> 410, 500, 510;
+            zwt' <em>yaϑā ahū vairiiō zaōta</em> lʾspyk <em>yaϑā ahū vairiiō yō zaōta</em> zwt' <em>aϑā ratuš</em> krtn' 40.
+         </ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY12.1"/>
+      <include type="W" corresp="WTrY11.16b"/>
+      <include type="K" corresp="KTrY11.16b"/>
+      <include type="D" corresp="DTrY11.16b"/>
+   </translation>
+</text>

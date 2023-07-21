@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS25.33" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y22.26" xml:id="VrS25.33" shnumandep="1">
+      <!-- question VrS25.33 to VrS25.35 if Shnuman 15, 17, 18, 21, 25, 26, 35, 39, 40, 41, 43, 44, 45, 46, 47, 48, 49, 50, 51, 54, 56, 57, 58. -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY23.1"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y22.26.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VrS25.31a <em>āiiese yešti auuaŋ́hā̊</em> ...] HT šnwmn' ʾltʾy plwʾhl <em>auuaŋhā̊ frauuašaiiō</em> OD <em>vaŋhuš yasnąsca</em> (VrS25.35) 2000;
+            <em>āiiese yešti</em> HT' hšnwmn' dtygl YHWWN-yt' AMT' hšnwmn' ʾhlbʾn' ptš YHWWN-yt' <em>auuaŋhā̊ frauuaṣ̌aiiō</em> (VrS25.33) 2007; HT hšnwmn' ʾhlwbʾn' ptš byt' <em>auuaŋ́hā̊ frauuaṣ̌aiiō</em> 2010;
+            HT <em>aṣ̌āunąm</em> PWN ʾycšn' YHWWNyt' <em>ā. y. auuaŋ́hā̊</em> 2030, 2101, 2106 (<em>āiiese auuaŋ́hā̊</em>);
+            HT <em>aṣ̌āunąm</em> PWN ʾycšn' YHWWNyt' <em>ā. y. auuaŋ́hā̊ frauuašaiiō</em> gwptn' OD <em>yasną̇sca vahmą̇sca</em> 2070;
+            HT hšnwmn' ʾhlwbʾn' YHWWNyt <em>ā. y. auuaŋ́hā̊ frauuaṣ̌aiiō</em> 2109.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Vid. VrS25.31</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS25.33"/>
+   </translation>
+</text>

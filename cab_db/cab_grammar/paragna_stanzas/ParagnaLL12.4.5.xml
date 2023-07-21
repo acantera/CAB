@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL12.4.5" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="5" xml:id="ParagnaLL12.4.5">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL12.4.5 (K7):</ab>
+            <ab class="ab_indent">
+                <em>ā airiiə̄mā iš́iiō rafəδrāi jaṇtū nərəbiiascā nāiribiiascā zaraϑuštrahē vaŋhə̄uš rafəδrāi manaŋhō: yā daēnā vairīm hanāt̰ mīždəm aṣ̌ahiiā yāsā aṣ̌īm yąm iš́iiąm ahurō masatā mazdā̊</em> 
+                in vacašt čahār bār ḫᵛāndan har yek bār hum va urvarām kuftan hāvan škāftan</ab> 
+            <ab class="ab_indent">
+                "<em>ā airiiə̄mā iš́iiō rafəδrāi jaṇtū nərəbiiascā nāiribiiascā zaraϑuštrahē vaŋhə̄uš rafəδrāi manaŋhō: yā daēnā vairīm hanāt̰ mīždəm aṣ̌ahiiā yāsā aṣ̌īm yąm iš́iiąm ahurō masatā mazdā̊</em>.
+                He should recite this stanza four times and each time he should pound the <em>hum</em> and <em>urvarām</em> and hit the <em>hāvan</em>."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL12.4.5"/>
+    </translation>
+</text>

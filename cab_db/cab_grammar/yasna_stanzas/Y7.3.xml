@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y7.3" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y7.3">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY7.2"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y7.1.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y7.3b <em>aēsmi</em>] Kellens, Redard; Geldner <em>aēsma</em>. Instead of <em>aēsmą</em>. Cf. Y7.23b, 24b  <em>aēsmi</em> instead of <em>aēsmą</em> and Y7.4 <em>haōmi</em> instead of <em>haōmą</em>. <bibl>De Vaan, 2003</bibl> p. 493, n. 639 <em>-mi</em> as an influence of the ending in <em>daδąmi</em>. <bibl>Kelllens, 1997</bibl> as an evolution of *<em>aēsmə̄</em> and *<em>haōmə̄</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>Y7.3 ≈ Y3.2, Y4.1, Y4.3, VrS78.14, VrS79.1, VrS79.3, VrS82.2; ~ Y3.22, Y3.23, Y6.19, Y7.23, Y7.24</ab>
+      <ab>
+         <em>haōməmca para.haōməmca [...] aēsmi baōiδi</em> ~ Y4.1, Y4.3, Y8.2 <em>haōməmca para.haōməmca aēsmąsca baōiδīmca</em>; ~ Y7.30 <em>haōməmca para.haōməmca yazamaide aēsmąsca baōiδīmca yazamaide</em>
+      </ab>
+      <ab><em>xšnūmaine zaraϑuštrahe spitāmahe aṣ̌aōnō frauuaṣ̌ə̄e</em> ~ Y4.24, Y24.5 <em>āat̰ dīš āuuaēδaiiamahi zaraϑuštrahe spitāmahe aṣ̌aōnō frauuaṣ̌ə̄e</em>;
+         ~ Y10.21, Y13.7, Y26.4, Y59.23, VrS51.5, VrS81.22, DrYt4.13; ~ <em>zaraϑuštrahe spitāmahe iδa aṣ̌aōnō aṣ̌īmca frauuaṣ̌īmca yazamaide</em>; ~ Y68.29, NyMihr1.6, NyXwar1.6 <em>nəmō zaraϑuštrahe spitāmahe aṣ̌aōnō frauuaṣ̌ə̄e</em>;
+         ~ <em>šnūman</em> Paragna LL9.1.2.
+      </ab>
+      <ab>
+         <em>aēsmą āiiese yešti baōiδi xšnūmaine tauua āϑrō ahurahe mazdā̊ puϑra</em> ~ Y22.4, Y22.24, Y22.25, Y24.5, Y24.8, Y25.3, VrS82.39 <em>aēsmąsca baōiδīmca āiiese yešti tauua āϑrō ahurahe mazdā̊ puϑra</em>; ~ VrS78.14, VrS78.31, VrS78.32 <em>aēsmą āiiese yešti baōiδi tauua āϑrō ahurahe mazdā̊ puϑra</em>; ~ VrS79.1, VrS79.3 <em>imą [...] aēsmąsca baōiδīmca</em>; VrS81.18 ~ <em>aēsmąsca baōiδīmca yazamaide tauua āϑrō ahurahe mazdā̊ puϑra</em>; VrS82.19, VrS82.20, VrS83.2 ~ <em>aṣ̌aiia daδąmi aēsma baōiδi tauua āϑrō ahurahe mazdā̊ puϑra</em>
+      </ab>
+      <ab>
+         <em>aēsmą āiiese yešti baōiδi</em> ~ Y62.2 <em>dāitiiō.aēsmi buiiā̊ dāitiiō.baōiδi buiiā̊</em>
+      </ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY7.3"/>
+   <include type="W" corresp="WTrY7.2"/>
+        <include type="K" corresp="KTrY7.2"/>
+        <include type="D" corresp="DTrY7.2"/>
+    </translation>
+</text>

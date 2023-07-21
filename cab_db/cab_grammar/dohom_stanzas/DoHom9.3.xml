@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="DoHom9.3" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="DoHom9.3">
+      <include href="/db/apps/cab_db/cab_rituals/fragards/FragardDH" xpointer="DoHom9.3"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Vid. DoHom9.2</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrDoHom9.3"/>
+   </translation>
+</text>

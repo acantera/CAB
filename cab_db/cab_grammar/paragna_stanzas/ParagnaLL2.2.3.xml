@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL2.2.3" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="3" xml:id="ParagnaLL2.2.3">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL2.2.3 Var. a (Mss. K7, RJ, RKS):</ab>
+            <ab class="ab_indent">
+                pas dō <em>yaθā ahū vairiiō</em> guftan pe <em>š́iiaoθənanąm</em> be-dasturi-ye kosti gereh afgandan <em>aŋhə̄uš mazdā xšaθəmcā</em> tā sar guftan</ab>  
+            <ab class="ab_indent">
+                "Then he should recite two <em>Yaθā ahū Vairiiō</em> and tie knots in the way doing with the <em>kosti</em> and recite <em>aŋhə̄uš mazdā xšaθəmcā</em> until the end."</ab>
+            
+            <ab>ParagnaLL2.2.3 Var. b (Mss. K36, 31, 89, 19):</ab>
+            <ab class="ab_indent">
+                va <em>yaθā ahū vairiiō</em> do goftan va fe <em>š́iiaoθənanąm</em> do gere čin fe kosti avar barsom afgandan.</ab>
+            <ab class="ab_indent">
+                "He should recite two <em>Yaθā Ahū Vairiiō</em> and at <em>š́iiaoθənanąm</em> he should tie two knots over the <em>barsom</em> like for the <em>kosti</em>."</ab>
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+            <ab>N28.22 <bibl>Kotwal and Kreyenbroek, 2003</bibl> pp: 79-81</ab>
+            <ab class="ab_indent">
+                u-š *frāgām pad sar abāz nihišn u-š <em>aṣ̌əm vohū</em> ēk-ē be gōwišn u- š aiwyānghan-ē pērāmōn āwarišn u-š <em>ẏaθā ahū vairiiō</em> ĪĪ bē gōwišn u-š pad <em>š́iiaōθananąm</em> 
+                grih ī *gaštag bē kunišn barsom pad 5 [3 azēr ud 2 azabar] grih *pardazišn ō bahr ī azēr ast kē ēdōn gōwēd ay hād andar srišwadag ī mayānag harw gyāg-ē kū bast estēd ā šāyēd.
+                Ast kē ēdōn gōwēd ay hād *az ān ĪĪ [bahr ī azabar] ka ašem-ē *wohū-z kam ā nē šāyēd *wišād ō dašn ud bālēn ō hōy; ka nē owōn ā nē xūb. Ka dō grih ā nē šāyēd.</ab>
+            <ab class="ab_indent">
+                "And one should place the <em>frāgām</em> back on top of these, and pray one a.v. and wind a leaf tie around it, pray y.a.v. (2) and tie a firm (?) knot on it at (the word) 
+                <em>š́iiaoθananąm</em>. The <em>barsom</em> is to be finished with five knots [[3 underneath and 2 on top]] on the lower part. There is one who says thus: "If he tied it in 
+                the middle third (part of the <em>barsom</em>), it is permissible wherever he tied it." There is one who says thus: "If of those two [[on the upper part]] one <em>aṣ̌em vohū</em> 
+                is omitted it is not permissible." The open part (of the <em>barsom</em> should be) on the right and the top (?) on the left; if it is not like this it is not good. If there are (only) 
+                two knots it is not permissible."</ab>
+        </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL2.2.3"/>
+    </translation>
+</text>

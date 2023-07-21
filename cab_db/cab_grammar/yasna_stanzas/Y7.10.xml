@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y7.10" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y7.10">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY7.9a" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat1.1" on_line="in1line"/>
+      <!-- Ratu in sequence after GY7.8 -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY7.9b" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat1.2" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY7.9c" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat1.3" on_line="in1line"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y7.7.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>Y7.10 = Y66.7, VrS82.7; ≈ Y1.7, Y2.7, Y3.9, Y4.12, Y6.6, Y17.6, Y22.10, Y24.17, Y59.6, VrS78.19, VrS79.12, VrS81.6.</ab>
+      <ab>
+         <em>sraōšahe aṣ̌iiehe aṣ̌iuuatō vərəϑrājanō frādat̰.gaēϑahe rašnaōš razištahe</em> ~ Y70.3 <em>yā sraōšahe aṣ̌iiehe yā rašnaōš razištahe</em>.</ab>
+      <ab>
+         <em>rašnaōš razištahe arštātasca frādat̰.gaēϑaiiā. varədat̰.gaēϑaiiā.</em> ~ in <em>xšnūman Rašn</em>: <em>rašnaōš razištahe arštātasca frādat̰.gaēϑaiiā̊ varədat̰.gaēϑaiiā̊ ərəžuxδahe vacaŋhō yat̰ frādat̰.gaēϑahe</em>
+      </ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY7.10"/>
+
+        <include type="W" corresp="WTrY7.9"/>
+        <include type="K" corresp="KTrY7.9"/>
+        <include type="D" corresp="DTrY7.9"/>
+    </translation>
+</text>

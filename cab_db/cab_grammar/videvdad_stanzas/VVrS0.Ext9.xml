@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS0.Ext9" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+        <approved/>
+        <updated/>
+    </header>
+    <div xml:id="VVrS0.Ext9">
+        <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VVrS0.Ext9"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>zōt: vid. Y0.1.</div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <RecitationInstruction/>
+        <Commentary>
+            <ab>
+                <em>xšnaōϑra. ahurahe. mazdā̊.</em>] 4075.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Quotations id="ritualQuotations">
+            <ab>Vid. VrS0.Ext8.</ab>
+        </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY0.Ext9"/>
+    </translation>
+</text>

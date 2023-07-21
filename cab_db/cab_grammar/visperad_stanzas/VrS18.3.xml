@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS18.3" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VrS18.3">
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS8.3"/>
+            </div>
+    <Apparatus>
+        <Speaker>
+            <SpeakerInfo>
+                <div>
+                    <ab class="ab_indent">zōt ud rāspīg: vid. Y17.18.</ab>
+                </div>
+            </SpeakerInfo>
+        </Speaker>
+        <Critical/>
+        <Commentary>
+            <ab>VrS18.3a †<em>āsiiaiiā̊</em> ... †<em>taxmō.tąšiiaiiā̊</em>] sec. cod.; Geldner, Kellens <em>āsiiā̊ ... taxmō.tąšiiā̊</em>, sec. 2000 [K7b] (<em>āsiiā̊</em>, but corr. sec. man. <em>āsiiaiiā̊</em>) and 4260 [P1] (<em>taxmō.tąšiiā̊</em>). <bibl>Kellens, 2010</bibl> p.22 "masculins incongrus". Irregular forms. Expected *<em>āsiiehi</em> and <em>taxmō.tąšiiehi</em>. Likely corrupted with the following <em>yā</em>,
+            i.e. *<em>āsiiehi yā</em> to <em>āsiiaiiā̊ yā</em> and *<em>taxmō.tąšiiehi yā</em> to <em>taxmō.tąšiiaiiā̊ yā</em>.</ab>
+            <ab>VrS18.3a †<em>taxmō.tąšiiaiiā̊</em>] exp. *<em>taxmō.tąš́iiaiiā̊</em>.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels>
+        <ab>VrS18.3 = VrS28.4.</ab>
+        <ab><em>nairiiąm ... framən.narąm framən.narō.vīrąm</em> ~ G5.5 <em>ušāŋhəm ... framən.narąm framən.narō.vīrąm</em>.</ab>
+        <ab><em>nairiiąm hąm.varəitīm yazamaide</em> = Yt19.39, S2.22.</ab>
+        <ab><em>nairiiąm hąm.varəitīm</em> ~ Yt10.66, Yt11.2 <em>naire hąm.varəitiš</em>; ~ S1.22 <em>nairiiaiiā̊ hąm.varətōiš</em>; ~ Yt10.71 <em>nairiia hąm.varəta</em>;
+            ~ Yt19.38 <em>nairiiaiiāt̰ parō hąm.vərətōit̰</em>;</ab>
+    <ab><em>pasuuā̊ vīraiiā̊</em> =  Yt13.10, Yt13.43, Yt13.44; ~ Y9.4 <em>pasu vīra</em>; ~ Y31.15 <em>pasə̄uš vīrāat̰ca</em>; ~ Y45.9 <em>pasūš vīrə̄ṇg</em>; ~ Y58.6 <em>pairī pasūš pairī vīrə̄ṇg</em>; ~ VS6.32, VS6.35, VS6.38, VS6.41 <em>pasubiia vīraēibiia</em>.</ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrVrS18.3"/>
+    </translation>
+</text>

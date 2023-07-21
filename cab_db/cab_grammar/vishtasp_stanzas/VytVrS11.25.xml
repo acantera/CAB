@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VytVrS11.25" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VytVrS11.25">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr2"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VrS3.7b"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt̰ ud rāspīg: ms. 5020.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <ab>zwt' <em>yaϑā ahī vairiiō yō ātrauuaxšō frā.mē mrītē</em> lʾspyk <em>aϑā ratuš</em> krtn'] 5020.</ab>
+      <eb><em>azəm aēta...</em>] zwt' YMRRWN-yt' <em>azəm aēta</em> 5020.</eb>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVytVrS11.25"/>
+   </translation>
+</text>

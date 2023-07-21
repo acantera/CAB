@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS17.19" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y17.9" xml:id="VrS17.19">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY17.8"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. VrS17.3.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VrS17.19a <em>vīspe aṣ̌ahe</em>...] <em>vīspe aṣ̌ahe ratauuō y. yōi həṇti</em> OD daŋ́hu.paitīm y. (VrS17.20) 2230; <em>ϑraiiasca ϑriąsca nazdišta</em> OD OL daŋ́hupaitīm y. (VrS17.20) 2101;
+         <em>nazdišta pairiš.hāuuanaiiō</em> OD OL Y <em>dax́iiunąm daŋ́hupaitīm yaz.</em> (VrS17.20) 2030.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS17.19"/>
+   </translation>
+</text>

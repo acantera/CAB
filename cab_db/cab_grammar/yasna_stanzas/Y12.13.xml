@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y12.13" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y12.13">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY12.7c"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY12.8"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: Y12.13a: Kotwal and Boyd.</ab>
+            <ab class="ab_indent">zōt ud rāspīg: Y12.13b-d: Kotwal and Boyd.</ab>
+            <ab class="ab_indent">Cf. VrS11.27.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y12.13a <em>tā varənācā t̰kaēšācā mazdaiiasnō aɱī</em>] cf. parallels VrS11.27, VrS32.2; Geldner, Kellens in Y12.12 (= GY12.7). Vid. <bibl>Geldner, 1886-1996</bibl> p. 62, n. 12.7, 18. </ab>
+         <ab>Y12.13d <em>huuarštəm</em>] Geldner; Kellens ⁺<em>huuarəštəm</em>.</ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab><em>mazdaiiasnō aɱī ...</em>] <em>mazdaiiasnō ahmī mazdaiiasnō</em> OD OL Y <em>daēnaiiā̊ māzdaiiasnōiš</em> (Y12.14) 88; <em>mazdīašnō ahmami</em> OD <em>āstōiie.tiš</em> (Y12.14) 231; <em>mazdaiiasnō amī</em> OD <em>āstōi.tiṣ̌</em> (Y12.14) 235.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <Parallels>
+         <ab>Y12.13-14 ≈ VrS11.27-28, VrS32.2-3.</ab>
+         <ab>Y12.13 ≈ VrS11.27, VrS32.2.</ab>
+         <ab><em>tā varənācā t̰̰kaēšācā</em> ~ Y16.2 <em>zaraϑuštrahe varənəmca t̰kaēšəmca yazamaide</em>.</ab>
+         <ab><em>mazdaiiasnō zaraϑuštriš frauuarānē</em> ~ Y12.6, Frauuarane.a <em>frauuarānē mazdaiiasnō zaraϑuštriš</em>; ~ Y12.11 <em>azə̄mcīt̰ yō mazdaiiasnō zaraϑuštriš</em>.</ab>
+         <ab> <em>āstuiiē humatəm manō āstuiiē hūxtəm vacō āstuiiē huuarštəm š́iiaōϑanəm</em> = VrS11.12, VrS11.27; ~ VrS2.13 <em>humatəmca manō hūxtəmca vacō huuarštəmca š́iiaōϑnəm</em>; ~ VrS11.12 <em>narəmca aṣ̌auuanəm āstāiia frāiiō.humatəm frāiiō.hūxtəm frāiiō.huuarštəm</em>; ~ Y57.20, Y57.48 <em>nāca aṣ̌auua frāiiō.humatō frāiiō.hūxtō frāiiō.huuarštō</em>; ~ Y59.32 <em>tū.tūm ... frāiiō.humatō frāiiō.hūxtō frāiiō.huuarštō</em>.</ab>
+         <ab>Vid. Y13.11.</ab>
+      </Parallels>
+   </Parallels>
+   <Ritual>
+      <Textual id="textualQuotations">
+         <ab>Dk9.24.11-12 [DkM820.15ff.]:</ab>
+         <ab class="ab_indent"><em>ohrmazd ō zardušt guft kū ōy ī dānāg mēnē 
+            zardušt pad ān passox mēnōgīhā guft kū mazdēst hom ud mazdēstīh ī zardušt franāmon [ēd kū ohrmazd frēstag hom ud ohrmazd frēst-om]</em></ab>
+         <ab class="ab_indent">Ohrmazd said to Zardušt: “Think about the wise one”.
+            Zardušt answered in the immaterial world: “I am a <em>mazdēst</em>. I profess Zardušt's <em>mazdēstīh</em> [that is, I am Ohrmazd’s messenger and Ohrmazd sent me].”</ab> 
+         
+      </Textual>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY12.13"/>
+      <include type="W" corresp="WTrY12.8"/><include type="K" corresp="KTrY12.7b-8"/><include type="D" corresp="DTrY12.7b-12.8a"/></translation>
+</text>

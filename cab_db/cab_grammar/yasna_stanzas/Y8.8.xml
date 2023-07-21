@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y8.8" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y8.8" quote="Y52.6">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY8.5"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y8.7.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y8.8b <em>aṣ̌a.ciϑra</em>] cod.; Geldner, Redard <em>aṣ̌aciϑra</em>.</ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab><em>vasasca tū ahura.mazda</em>] <em>vasasca tū ahura.mazda</em> OD <em>yā̊ āhūirəš zaraϑuštrəš</em> (Y8.10) 40.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>Y8.8-11 quotes Y52.6-9; = Y11.14-17, Y68.17-20; ~ Y60.10-12, Y71.29-31 (omit last stanza).</ab>
+      <ab>Y8.8 quotes Y52.6, = Y11.14, Y60.10, Y68.17, Y71.29.</ab>
+      <ab><em>vasō. āpō. vasō. uruuarā̊.</em> ~ Y8.4 <em>yā̊ apasca uruuarā̊</em>; ~ Y9.4 <em>āpa uruuaire</em>; ~  Y18.2, Y51.8, Y65.15 <em>yə̄ gąm tašō apascā uruuarā̊sca</em>; 
+         ~ Y12.12 <em>yā varanā āpō yā varanā uruuarā̊   </em>; Y16.9 ~ <em>yazamaide vīspā̊ āpō yazamaide vīspā uruuarā̊</em>; ~ Y37.1 <em>dāt̰ apascā dāt̰ uruuarā̊sca vaŋᵛhīš</em>; ~ Y44.4 <em>kə̄ apō uruuarā̊scā</em>; ~ VrS65.38, VrS65.41 <em>auui apąmca vaŋᵛhinąm uruuuarnąmca</em>; ~ VrS65.38, VrS65.41 <em>yā̊ vaŋᵛhīš yā̊ āpō yā̊sca uruuarā̊</em>.</ab>
+      <ab><em>vīspa vohū aṣ̌a.cīϑra</em> ~ Y19.2, Y19.4, VS11.1, VS11.2, VS11.10, VS11.13, VS13.16 <em>vīspa vohu mazdaδāta aṣ̌a.ciϑra</em>;
+         ~ Y22.4, Y22.24, Y22.25, Y24.3, Y24.8, Y25.3 <em>vīspaca vohu mazdaδāta aṣ̌a.ciϑra</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY8.8"/>
+
+   <include type="W" corresp="WTrY8.5"/>
+        <include type="K" corresp="KTrY8.5"/>
+        <include type="D" corresp="DTrY8.5"/>
+    </translation>
+</text>

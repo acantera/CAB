@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS31.11" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VVrS31.11">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS16.5"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VVrS31.11 (mss. 4020, 4025, 4040, 4050, 4055, 4060, 4161, 4162):</ab>
+         <ab class="ab_indent">
+            abarhāwan čīyōn xwaršēd gardēd andar hāwan sē bār gardēnīdan ud hōm ud urwarām pad abarhāwan stānišn <em>haomanąmca harəš́iiamnanąm ... hunuuaitiiā̊ aṣ̌aiia fraš́ūtaiiā̊ 
+               fraš́āuuaiiamnaiiā̊</em> pad <em>aršuxδanąmca vacaŋhąm</em> ēk srēšk ǰīwām abganišn <em>srauuaŋhąmca zaraϑuštrinąm ... vaxəδβanąmca varštuuanąmca</em> pad 
+            <em>aϑa.zī nə̄ humāiiōtara aŋhən</em> hāwandastag az hōm ud urwarām hammis az dast ī hōy be barsom barišn <em>humaiia aēta ... īžiiāca cinaϑāmaide aϑa.zī.nə̄ humāiiōtara 
+               aŋhən</em> urwarām ud hōm pad abarhāwan abāg kustag ī hōy pad sar ī barsom abāz nihišn</ab>  
+         <ab class="ab_indent">
+            "He has to turn turn three times the pestle around in the mortar in the direction in which the sun rotates and to take <em>hōm</em> and <em>urwarām</em> with the <em>abarhāwan</em>. 
+            <em>haomanąmca harəš́iiamnanąm ... hunuuaitiiā̊ aṣ̌aiia fraš́ūtaiiā̊ fraš́āuuaiiamnaiiā̊</em>. At <em>aršuxδanąmca vacaŋhąm</em>, he has to pour a drop (of <em>hōm</em>
+            and <em>urwarām</em>) into the <em>ǰīwām</em> (and continue with) <em>srauuaŋhąmca zaraϑuštrinąm ... vaxəδβanąmca varštuuanąmca</em>. At <em>aϑa.zī nə̄ humāiiōtara 
+               aŋhən</em>, he has to bring the <em>hāwandastag</em> together with the <em>hōm</em> and the <em>urwarām</em> from the left hand to the <em>barsom</em> (and 
+            continue with) <em>humaiia aēta ... īžiiāca cinaϑāmaide</em>. (At) <em>aϑa.zī.nə̄ humāiiōtara aŋhən</em>, he has to touch the end of the <em>barsom</em> on the left side 
+            with the <em>abarhāwan</em> that has the <em>hōm</em> and <em>urwarām</em>."</ab> 
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS31.11"/>
+   </translation>
+</text>

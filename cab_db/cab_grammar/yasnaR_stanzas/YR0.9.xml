@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR0.9" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="YR0.9">
+            <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="YR0.11NerangTransc.a"/>
+            <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP14"/>
+        </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>zōt ud rāspīg: vid. Y0.10.</div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <RecitationInstruction>
+            <ab>
+                <em>rapiϑβināi ... frasastaiiaēca</em>]  add. <em>raϑβąm nē abāyed goftan</em> 300, 360, 370.</ab>
+        </RecitationInstruction>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Quotations id="ritualQuotations">
+            <ab>Cf. N31.4 (<bibl>Kotwal and Kreyenbroek, 2003</bibl>: p. 138-9)</ab>
+            <ab class="ab_indent">šnūman <em>aṣ̌ahe vahištahe āϑrasca ahurahe mazdā̊</em> ardā-fraward ast kē ēdōn gōwēd <em>aṣ̌ahe vahištahe āϑrasca ahurahe mazdā̊ puϑra.</em>
+            </ab>
+            <ab class="ab_indent">"The <em>šnūman</em> is <em>aṣ̌ahe vahištahe āθrasca ahurahe mazdā̊</em>. There is one commentator who says: '<em>aṣ̌ahe vahištahe āθrasca ahurahe mazdā̊ puϑra</em>.'"</ab>
+        </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrYR0.9"/>
+    </translation>
+</text>

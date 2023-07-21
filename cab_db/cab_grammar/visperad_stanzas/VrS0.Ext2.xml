@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS0.Ext2" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+        <approved/>
+        <updated/>
+    </header>
+    <div xml:id="VrS0.Ext2">
+         <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV2" times="1"/>
+      </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>zōt: vid. Y0.1.</div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        
+        <Critical/>
+        <RecitationInstruction>
+            <ab>ʾywk' gwptn'] 2038.</ab>
+        </RecitationInstruction>
+        <Commentary>
+            <ab><em>aṣ̌əm vohū.</em>] 2038, 2230.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrVrS0.Ext2"/>
+    </translation>
+</text>

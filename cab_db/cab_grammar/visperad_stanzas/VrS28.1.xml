@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS28.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS28.1">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS14.1b"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS14.1c"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS14.1d"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS14.1e"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS14.2a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS14.2b"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS14.2c"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. VrS27.49.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>VrS11.33f <em>manax́iiāca</em>] vid. Commentary in VrS11.33.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS28.1 = DoHom5.1.</ab>
+      <ab>VrS28.1 = Y71.2-3, VrS36.1, VrS11.33, VrS41.1, VrS51.1, VrS57.1, VrS62.1, VrS64.1, VrS65.75, VrS69.1, VrS71.1, VrS89.28, VrS93.4.</ab>
+      <ab>
+            <em>ahurəm mazdąm aṣ̌auuanəm aṣ̌ahe ratūm yazamaide</em> = Y16.1, Y17.1, Y59.1, Y71.4, VrS87.7; ~ VrS81.1 <em>daδuuā̊ŋhəm ahurəm mazdąm aṣ̌auuanəm aṣ̌ahe ratūm yazamaide</em>.</ab>
+      <ab>
+            <em>zaraϑuštrəm aṣ̌auuanəm aṣ̌ahe ratūm yazamaide</em> = Y16.2, Y71.2.</ab>
+      <ab>
+            <em>zaraϑuštrahe aṣ̌aōnō frauuaṣ̌īm yazamaide</em> = Y16.2, Y71.2.</ab>
+      <ab>
+            <em>aməṣ̌ə̄ spəṇtə̄ aṣ̌aōnąm yazamaide</em> = Y71.2.</ab>
+      <ab>
+            <em>aṣ̌āunąm vaŋᵛhīš sūrā̊ spəṇtā̊ frauuaṣ̌aiiō yazamaide</em> = Y6.5, Y6.20, Y16.5, Y17.5, Y26.2, Y59.5, Y59.21, Y71.3; ~ Y26.9, Y59.28 <em>vīspā̊ aṣ̌āunąm vaŋᵛhīš sūrā̊ spəṇtā̊ frauuaṣ̌aiiō yazamaide</em>; ~ Y71.5 <em>vīspā̊sca aṣ̌āunąm vaŋᵛhīš sūrā̊ spəṇtā̊ frauuaṣ̌aiiō yazamaide</em>.</ab>
+      <ab>
+            <em>astuuatō manahiiāca apanō.təməm raϑβąm yazamaide</em> = Y71.3; ~ VrS24.9, VrS24.12, VrS42.7, VrS42.10, VrS65.7, VrS65.10, VrS75.7, VrS75.10, VrS89.18, VrS89.21 <em>ratə̄ušca aṣ̌aōnō bərəzatō yasnāica vaɱāica yat̰ apanō.təmahe raϑβō</em>: ~ Y57 (<em>passim</em>), Y70.7, 71.25, VrS18.6, VrS30.12, VrS36.6, VrS41.7, VrS42.11, VrS51.9, VrS57.9, VrS62.9, VrS64.10, VrS65.11, VrS65.83, VrS69.9, VrS71.9, VrS75.11, VrS87.13, VrS89.22, VrS93.12 <em>ratūm bərəzaṇtəm yazamaide yim ahurəm mazdąm yō aṣ̌ahe apanō.təmō</em>.</ab>
+      <ab>
+            <em>astuuatō manahiiāca</em> ~ Y43.3, Y60.3 <em>astuuatō manaŋhascā</em>.</ab>
+      <ab>
+            <em>yaētuštəməm yazatanąm haŋhanuštəməm aṣ̌ahe raϑβąm aiβinasąstəməm jaγmūštəməm aṣ̌aōnō aṣ̌ahe raϑβō ratufritīm yazamaide</em> = Y71.3.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS28.1"/>
+   </translation>
+</text>

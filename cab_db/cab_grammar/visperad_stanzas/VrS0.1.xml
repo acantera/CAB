@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS0.1" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+        <approved/>
+        <updated/>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VrS0.1">
+        <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS0.1NerangTransc.a"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>zōt: vid. Y0.1.</div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <RecitationInstruction>
+            <ab>ʾywk' gwptn'] 2007, 2070, 2101, 2109; III gwptn' 2010; om. 2038, 2065, 2230.</ab>
+        </RecitationInstruction>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>VrS0.1 Var. a (mss. 2007, 2010, 2040, 2070, 2101, 2103, 2104a, 2106, 2109):</ab> 
+            <ab class="ab_indent">
+                barsom sih ud se tāg ud frāgām dō tāg barsom bastan parāhōm kardan sāzišn hamāg xūb frāz nihādan ud ān kas kē zōtīh kāmēd kardan <em>aṣ̌əm vohū</em> ēk guftan ud dast
+                pad pādyāb kunišn</ab>
+            <ab class="ab_indent">
+                "The <em>barsom</em> (consists of) 33 twigs and the <em>frāgām</em> are two. He should tie the <em>barsom</em>, prepare the <em>parāhōm</em> and dispose all the 
+                implements carefully. The one who wishes to perform in the office of <em>zōt</em> should recite one <em>aṣ̌əm vohū</em> and has to wash his hands with <em>pādyāb</em>."</ab>
+            <ab>VrS0.1 Var. b (ms. 2065):</ab>
+            <ab class="ab_indent">
+                barsom sih ud sē tāg ud frāgām dō tāg barsom bastan parāhōm kardan sāzišn hamāg xūb frāz nihādan ud parāhōm kardan rāy pad har hōmāst-ē pad kamistīh hōm sē tāg urwarām
+                pārag-ē ǰām andak-ē frāz nihišn ud ōy kē zōtīh kāmēd kardan dast pad pādyāb bē kunišn </ab>
+            <ab class="ab_indent">
+                "The <em>barsom</em> (consists of) 33 twigs and the <em>frāgām</em> are two. He should tie the <em>barsom</em>, prepare the <em>parāhōm</em> and dispose all the 
+                implements carefully. For the preparation of the <em>parāhōm</em>, he has to dispose for each <em>hōmāst</em> at least three twigs of <em>hōm</em>, one branch of 
+                <em>urwarām</em> and a drop of <em>ǰām</em>. The one who wishes to perform in the office of <em>zōt</em> has to wash his hands with <em>pādyāb</em>."</ab>
+        </Nerangs>
+        <ModernPractice id="ritualModernPractice">
+            <ab>
+                <ab><bibl>Redard and Daruwalla, 2021</bibl>, pp. 193: </ab>
+                <ab class="ab_indent">"... the priest who is about to become the chief priest, comes into that <em>pāvī</em> which is outside of the <em>pāvī</em> of the table
+                    of the ritual precinct; (after) reciting one <em>Aṣ̌ǝm Vohū</em>, he comes into the <em>pāvī</em> of the (ritual) table (and) stands near the water container containing the pure
+                    implements;"</ab>
+            </ab>
+        </ModernPractice>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrVrS0.1"/>
+    </translation>
+</text>

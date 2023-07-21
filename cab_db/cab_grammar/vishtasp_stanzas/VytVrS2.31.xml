@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VytVrS2.31" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VytVrS2.31">
+               <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VytSY2.18a"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VytSY2.18b"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuCerPaitiRatu" xpointer="RatuCerPaitiRatuVyt" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VytSY2.18c" on_line="in1line"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. VytVrS2.26.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels>
+        <ab>VytVrS2.31 = VytVrS14.9; ≈ VytVrS1.29, VytVrS3.20, VytVrS4.21, VytVrS6.16, VytVrS7.21, VytVrS17.31, VytVrS25.40, VytVrS27.51, VytVrS77.41, VytVrS78.32, VytVrS79.21, VytVrS81.25, VytVrS82.20, VytVrS90.36.</ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrVytVrS2.31"/>
+    </translation>
+</text>

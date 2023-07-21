@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y71.18" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y71.18">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY71.17"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab><em>dasuuarəca baēšazəmca yazamaide fradaϑəmca varədaϑəmca yazamaide</em> ~ Y9.17 <em>ni dasuuarə nī baēšazəm nī fradaϑəm nī varədaϑəm</em>; ~ Y55.3 <em>tā dasuuara tā baēšaza tā fradaϑa tā varədaϑa</em>; ~ Y68.2 <em>dasuuarə baēšazāica fradaiϑe varədaϑāica</em>;
+         ~ VrS64.5, VrS64.6, VrS71.4, VrS71.6 <em>auuat̰ dasuuarə yazamaide auuat̰ baēšazəm yazamaide auuat̰ fradaϑəm yazamaide</em>;
+         ~ VytS5.6 <em>dasuuarə baēšazəm fradaϑəm varədaϑəm</em>.</ab>
+      <ab><em>dasuuarəca baēšazəmca yazamaide</em> ~ Y10.7 <em>dasuuarə baēšazəm</em>; ~ Y68.16 <em>dasuuarə baēšaza</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY71.18"/>
+   <include type="W" corresp="WTrY71.17"/><include type="K" corresp="KTrY71.17"/><include type="D" corresp="DTrY71.17"/></translation>
+</text>

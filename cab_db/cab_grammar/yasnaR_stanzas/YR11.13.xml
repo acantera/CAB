@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR11.13" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y11.13" xml:id="YR11.13">
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV2"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: vid. Y11.12.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab><em>yaϑā ahū vairiiō</em> II bʾl] 360; <em>yaϑā ahī vairiiō</em> II 370.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrYR11.13"/>
+    </translation>
+</text>

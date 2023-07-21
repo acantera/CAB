@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS17.21" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y17.11" xml:id="VrS17.21">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RozAcc" xpointer="RozAcc1" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY17.9c" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/MahAcc" xpointer="MahAcc1" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY17.9d" on_line="in1line"/>
+      <!-- Eliminate in Gatha days -->
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. VrS17.3.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VrS17.21a ... <em>yazamaide</em>] YWM W BYRH gwptn' 2007, 2010, 2030, 2101, 2109; YWM BYRH cygwn PWN yšt' YHWWN-yt 2000, 2065; YWM W BYRH ZK-š ḆYN gwptn' 2040; 
+            YWM W BYRH ZK-š ḆYN YKOYMWN-d gwptn' 2106.</ab>
+         <ab>VrS17.21a ... <em>yazamaide</em>] YWM BYRH cygwn PWN yšt' YHWWN-yt OD <em>ratauuō vīspe</em> (VrS17.30) 2000, 2065.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS17.21"/>
+   </translation>
+</text>

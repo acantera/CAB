@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y10.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y10.1" headerPointer="Head10">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY10.1"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt vid. Y9.3.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y10.1a <em>daēuuiiō</em>] Geldner, Bartholomae, Kellens, Pirart <em>daēuuaiiō</em>, but <em>daēuuiiō</em>/<em>daēiuuiō</em> and <em>daēīuuiiō</em> well attested in cod. ir. and also ms. 677 (cf. Skt. <em>devyàs</em> beside older <em>devī́s</em>)</ab>
+         <ab>Y10.1a <em>viš</em>] perhaps for <em>viš́a</em>, false cut in <em>viš́a apąm</em> <bibl>Pirart, 2004</bibl>, p.90.</ab>
+         <ab>Y10.1c <em>rāmiiat̰</em>] Geldner, Bartholomae, Kellens, Pirart. Narten (1982: 31 n. 19), Hintze (2000: 275) +<em>rāmaiiat̰</em></ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab><em>viš apąm...</em>] <em>višapą̇m iδa patəṇtu</em> OD <em>varəδiiaŋha manca vaca</em> (Y10.5) 40.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab><em>haōmahe aṣ̌auuazaŋhō</em> = Y8.13, Yt20.3.</ab>
+   </Parallels>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y10.1 (mss. 5, 6, 15, 40, 88, 400, 410 (sec.m. marg.), 2007, 2010, 2030, 2040, 2101, 2104, 2106, 2109, 4000a, 4010, 4020, 4025, 4040, 4045, 4050, 4055, 4060, 4063, 4161, 4162, 5020, 4030a, 20):</ab>
+         <ab class="ab_indent">
+            bōy ō ī ātaxš dahišn <em>viš apąm iδa</em> ...</ab>
+         <ab class="ab_indent">
+            "He has to give <em>bōy</em> to the fire. <em>viš apąm iδa.</em> ..."</ab>
+      </Nerangs>
+      <ModernPractice/>
+   </Ritual>
+   <translation> 
+      <include type="CAB" corresp="CABTrY10.1"/>
+        <include type="W" corresp="WTrY10.1"/>
+        <include type="K" corresp="KTrY10.1"/>
+        <include type="D" corresp="DTrY10.1"/>
+    </translation>
+</text>

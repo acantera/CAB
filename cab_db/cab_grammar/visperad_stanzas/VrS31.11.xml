@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS31.11" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VrS31.11">
+            <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS31.11NerangTransc.a"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS16.5"/>
+            </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>VrS31.11 Var. a (mss. 2005, 2007, 2010, 2030, 2040, 2101, 2106, 2109, 5020 ):</ab>
+            <ab class="ab_indent">
+                abarhāwan čīyōn xwaršēd gardēd andar hāwan sē bār gardēnīdan ud hōm ud urwarām pad abarhāwan stānišn <em>haomanąmca harəš́iiamnanąm ... hunuuaitiiā̊ aṣ̌aiia fraš́ūtaiiā̊
+                fraš́āuuaiiamnaiiā̊</em> pad <em>aršuxδanąmca vacaŋhąm</em> srešk-ē andar ǰīwdān abganišn <em>srauuaŋhąmca zaraϑuštrinąm ... vaxəδβanąmca varštuuanąmca</em> pad  
+                <em>aϑa.zī nə̄ humāiiōtara aŋhən</em> hōm ud urwarām pad abarhāwan az dast ī hōy be barsom barišn <em>humaiia aēta ... īžiiāca cinaϑāmaide ... haδa.ratufrītinąm</em> pad 
+                <em>aϑa.zī.nə̄ humāiiōtara aŋhən</em> abarhāwan abāg hōm ud urwarām pad kustag ī hōy pad sar ī barsom abāz nihišn</ab> 
+            <ab class="ab_indent">
+                "He has to turn turn three times the pestle around over the mortar in the direction in which the sun rotates and to take <em>hōm</em> and <em>urwarām</em> with the 
+                <em>abarhāwan. haomanąmca harəš́iiamnanąm ... hunuuaitiiā̊ aṣ̌aiia fraš́ūtaiiā̊ fraš́āuuaiiamnaiiā̊</em>. At <em>aršuxδanąmca vacaŋhąm</em>, he has to pour one drop 
+                (of <em>hōm</em> and <em>urwarām</em>) into the <em>ǰīwdān</em> (and continue with) <em>srauuaŋhąmca zaraϑuštrinąm ... vaxəδβanąmca varštuuanąmca</em>. 
+                At <em>aϑa.zī.nə̄ humāiiōtara aŋhən</em>, he has to bring the <em>hōm</em> and <em>urwarām</em> with the <em>abarhāwan</em> from the left hand to the <em>barsom</em>
+                (and continue with) <em>humaiia aēta ... īžiiāca cinaϑāmaide</em>. At <em>aϑa.zī.nə̄ humāiiōtara aŋhən</em>, he has to touch with the <em>abarhāwan</em> that has the 
+                <em>hōm</em> and the <em>urwarām</em> the end of the <em>barsom</em> from the left side."</ab>
+            
+            <ab>VrS31.11 Var. b (ms. 2000):</ab>
+            <ab class="ab_indent">
+                <em>haomanąmca harəš́iiamnanąm ... hə̄ca iδa yōiϑβā astu</em> ēn gyāg abarhāwan pēš ī dastag hōm ī kōftag stadan <em>humaiia upaŋhā̊ cīṣ̌maide ahunahe vairiiehe aṣ̌aiia 
+                frasrūtahe frasrāuuaiiamnahe hāuuanaiiā̊sca</em> ēn gyāg hāwandastag pad hōm harw dō pad bun ī hāwan hunīdan <em>haomą hunuuaiṇtiiā̊ frašutaiiā̊ frašāuuaiiamnaiiā̊ ... 
+                vaxəδβanąmca varštuuanąmca aϑa.zī nə̄</em> ēn gyāg abarhāwan dastag hōm abāg ǰām ī jiąm ēk ud srešk-ē andar <em>jiąm</em> abganišn <em>humāiiōtara aŋhən</em> 
+                pad ēn wāzag <em>humāiiōtara aŋhən ... aϑa.zī.nə̄</em> ēn gyāg hāwandastag ud hōm abāg pad war ī zōhrag barišn bar-ā-bar ī barsom dārišn <em>humāiiōtaraca īžiiōtaraca 
+                humāiiōtara aŋhən ... aϑa.zī.nə̄ humāiiōtara aŋhən</em> ēn gyāg hāwandastag bun pad pādyāb kardan pad dast ī hōy griftan ud rāspīg guftan kū <em>humāiiō.tara aŋhən</em> ...</ab>  
+            <ab class="ab_indent">
+                "<em>haomanąmca harəš́iiamnanąm ... hə̄ca iδa yōiϑβā astu</em> At this passage, he should to grab the <em>abarhāwan</em> and the striken <em>hōm</em> by the handgrip 
+                (and continue with) <em>humaiia upaŋhā̊ cīšmaide ahunahe vairiiehe aṣ̌aiia frasrūtahe frasrāuuaiiamnahe hāuuanaiiā̊sca</em>. At this passage, he shuold pound the <em>hāwandastag</em> 
+                together with the <em>hōm</em> against the bottom of the <em>hāwan. haomą hunuuaiṇtiiā̊ frašutaiiā̊ frašāuuaiiamnaiiā̊ ... vaxəδβanąmca. varštuuanąmca. aϑa.zī. nə̄</em>. At this 
+                passage, he has to join the handgrip of the <em>abarhāwan</em> and the <em>hōm</em> with the container of the <em>ǰīw</em> and pour one drop into the <em>ǰīwām</em> 
+                with these words: <em>humāiiōtara. aŋhən ... aϑa.zī.nə̄</em>. At this passage, he has to bring the <em>hāwandastag</em> and the <em>hōm</em> towards the <em>zōhrag</em> 
+                and hold it at the level with the <em>barsom. humāiiōtaraca īžiiōtaraca humāiiōtara ... aϑa.zī.nə̄ humāiiōtara aŋhən</em>. At this passage, he has to clean the end of the <em>hāwandastag</em> 
+                with <em>pādyāb</em>, he should take it with the left hand and the <em>rāspīg</em> should say: <em>humāiiō.tara aŋhən</em>."</ab>
+        </Nerangs>
+   <ab> ~ Y27.7</ab>
+        <Quotations id="ritualQuotations">
+            <ab>N28.47c-e:</ab>
+            <ab class="ab_indent">
+                pad <em>haomanąmca harəš́iiamnanąm</em> abarhāwan abāz gardēnišn pad <em>aršuxδanąmca vacaŋhąm</em> ēw srešk andar ō jīuu abganišn pad <em>aϑa.zī nə̄ humāiiōtara aŋhən</em> 
+                be war ī zōhrag barišn ud pad barsom dārišn</ab>  
+            <ab class="ab_indent">
+                "At <em>haomanąmca harəš́iiamnanąm</em>, he has to turn the <em>abarhāwan</em> around. At <em>aršuxδanąmca vacaŋhąm</em>, he has to pour a drop (of the <em>hōm</em> 
+                and <em>urwarām</em>) into the <em>ǰīw</em>. At <em>aϑa.zī nə̄ humāiiōtara aŋhən</em>, he has to bring them (the <em>hōm</em> and <em>urwarām</em>) towards the
+                <em>zōhrag</em> and to hold them over the <em>zōhrag</em>."</ab>
+            <ab> Cf. N28.47c <bibl>Kotwal and Kreyenbroek, 2003</bibl> p. 107:</ab>
+            <ab class="ab_indent">
+            <em>pad</em> haomanąmca harəšiiamnanąm <em> abar hāwan abāz gardēnišn</em>
+        </ab>
+            <ab class="ab_indent">
+                At <em>haomanąmca harəšiiamnanąm</em> he has to turn the pestle around over the mortar cf. </ab>
+        </Quotations>
+ </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrVrS31.11"/>
+    </translation>
+</text>

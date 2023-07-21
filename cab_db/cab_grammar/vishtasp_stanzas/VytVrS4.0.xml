@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VytVrS4.0" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VytVrS4.0">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP9"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. VVrS4.0.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>rąϑβąm aiiaranąmca ...</em>] <em>rąϑβąm aiiaranąmca</em> cygwn PWN yšt' YHWWN-yt OD <em>maińiiə̄uš maińiiaōiiehe.</em> (VytVrS4.7) 5010, 5030.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVytVrS4.0"/>
+   </translation>
+</text>

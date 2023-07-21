@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR55.2" status="created">  <!-- created, approved, updated--> <header><creators><creator>Porro</creator><creator>Cantera</creator></creators><created>1 June 2019</created></header><div type="Stanza" sameAs="" xml:id="YR55.2">
+            <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR55.2"/>
+        </div><Apparatus><Critical/><Commentary/></Apparatus><Parallels/><Ritual/><translation><include type="CAB" corresp="CABTrYR55.2"/></translation></text>

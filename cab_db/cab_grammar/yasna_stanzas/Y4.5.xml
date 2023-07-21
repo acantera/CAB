@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y4.5" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y4.5">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY4.5"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y4.2.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab><bibl>Kellens, 1996</bibl> (p. 61) either one <em>fradaϑāi</em> is missing or there is one extra <em>ahe nmānahe</em>. Manuscripts <em>ahe nmānahe fradaϑāi ahe nmānahe</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>Y4.5 = Y24.10, VVrS79.5.</ab>
+      <ab><em>fradaϑāi ahe nmānahe</em> =  Y52.5</ab>
+      <ab><em>fradaϑāi ahe nmānahe pauuąmca narąmca</em> ~ Y45.9 <em>pasūš vīrə̄ṇg aɱākə̄ṇg fradaϑāi</em></ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY4.5"/>
+        <include type="W" corresp="WTrY4.5"/>
+        <include type="K" corresp="KTrY4.5"/>
+        <include type="D" corresp="DTrY4.5"/>
+    </translation>
+</text>

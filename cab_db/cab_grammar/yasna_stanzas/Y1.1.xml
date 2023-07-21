@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y1.1" status="approved">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+        <approved>Cantera, 22 February 2020</approved>
+        <updated>Cantera, 22 February 2020</updated>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y1.1" headerPointer="Head1">
+        <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y1.1NerangTransc.a"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY1.1"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: Anklesaria, Kotwal and Boyd, Geldner.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab><em>xraōždištaheca xraϑβištaheca hukərəptəmaheca aṣ̌āt̰ apanō.təmaheca</em>] <em>xraoždištąmca xraϑβištąmca hukərəptəmąmca aṣ̌āt̰ apanōtəmąmca</em> 510, corr.
+                <em>xraoždištaheca xraϑβištaheca hukərəptəmaheca aṣ̌āt̰ apanōtəmaheca </em>, cf. Y26.1 <em>frauuaṣ̌īm ... xraōždištąmca ...</em>, vid. Parallels.</ab>
+        </Commentary>
+        <RecitationInstruction>
+            <ab><em>ńiuuaēδaiiemi ...</em>] <em>niuuaēδaiiemi haṇkāraiiemi</em> OD <em>miϑrahe dax́iiuną̇m daŋ́hupatōiš</em> (Y1.11) 40.</ab> 
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels>
+        <ab>Y1.1 ≈ Y2.2, Y4.7, Y6.1, Y17.1, Y22.2, Y24.12, Y59.1, VrS78.13, VrS79.7, VrS81.1.</ab>
+        <ab><em>daϑušō ahurahe mazdā̊ raēuuatō xᵛarənaŋᵛhatō</em> = Y16.3.</ab>
+        <ab><em>mazištaheca vahištaheca sraēštaheca xraōždištaheca xraϑβištaheca hukərəptəmaheca aṣ̌āt̰ apanō.təmaheca</em> ~ Y26.1, Y59.20, VrS81.19, VS19.14, DrYt4.10, Yt13.80 <em>mazištąmca vahištąmca sraēštąmca xraōždištąmca xraϑβištąmca hukərəptəmąmca aṣ̌āt̰ apanō.təmąmca</em>. </ab>
+        <ab><em>mazištaheca vahištaheca sraēštaheca</em> = Yt13.91, Yt13.92; ~ Y12.14, VrS11.28, VrS32.3 <em>mazištāca vahištāca sraēštāca</em>; ~ Y58.4, VrS76.10 <em>masānascā vaŋhānascā sraiianascā</em>.</ab>
+        <ab><em>aṣ̌āt̰. apanō.təmaheca</em> ~ Y57.6, Y70.7, Y71.25, Yt11.9 <em>aṣ̌ahe apanō.təmō</em>; ~ Y33.5 <em>apānō [...] aṣ̌āt̰ ā ərəzūš paϑō</em>. See <bibl>Kellens, 1996</bibl>: 44.</ab>
+        <ab><em>yō nō daδa yō tataša</em> ~ Yt19.52 <em>yō nərə̄uš daδa yō nərə̄uš tataša</em></ab>
+        <ab><em>yō tataša</em> ~ Yt19.52 <em>(apąm napātəm) ... yō nərə̄uš tataša</em>.</ab>
+        <ab><em>yō maińiiuš spəṇtō.təmō</em> ~ Yt1.12 <em>maińiiušca aɱi spəṇtō.təmō</em>.</ab>
+        <ab><em>ńiuuaēδaiiemi</em>  ~ Y1.22 <em>nī.tē vaēδaiiemi</em>; ~ Y1.23 <em>nī.vō vaēδaiiemi</em>.</ab>
+    </Parallels>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Y1.1 Var. a (mss. 40, 400, 410 (sec. m. mg.), 2007, 2010, 2030, 2101, 2106, 2109, 4000, 4010, 4020, 4025, 4030a, 4050, 4055, 4060, 4063, 4161): </ab>
+            <ab class="ab_indent">
+                pad <em>niuuaēδaiiemi.</em> bōy ō ī ātaxš dahišn xšnūman pad menišn frāz kunišn ud yazdān ō yazišn xwānišn 
+                <em>niuuaēδaiiemi. haṇkāraiiemi. daϑušō. ahurahe. mazdā̊.</em> ...</ab>
+            <ab class="ab_indent">
+                "At <em>ńiuuaēδaiiemi</em> he has to give <em>bōy</em> to the fire, recite the <em>šnūman</em> mentally and call the gods to the <em>yazišn</em> 
+                and continue with <em>niuuaēδaiiemi haṇkāraiiemi daϑušō ahurahe mazdā̊.</em> ..."</ab>
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+            <ab>N85.4 <bibl>Kotwal and Kreyenbroek, 2009</bibl>, p. 86: </ab>
+            <ab class="ab_indent">bōy ī ō puhl šawēd ēn <em>niuuaēδaiiemi</em></ab>
+            <ab class="ab_indent">"Following offerings of <em>bōy</em> go to the bridge: (the one) at <em>niuuaēδaiiemi.</em>"</ab>
+            
+            <ab>ŠnŠ9.11 <bibl>Tavadia 1930:</bibl> p. 120, cf. <bibl>Shaked 2004</bibl>, p. 340:</ab>
+            <ab class="ab_indent">pad hamāg yazišn pad bun ī yazišn ud bun ī drōn yazdān ud ahlawān frawahr be ō yazišn niwēyēnišn</ab>
+            <ab class="ab_indent">"In each ceremony (<em>yazišn</em>), at the beginning of the <em>yazišn</em> and at the beginning of the <em>drōn</em>, 
+                (the priest) has to invite to the ceremony the gods and the <em>frawahr</em> of the <em>ahlaw</em>."</ab>
+
+        </Quotations>
+        <ModernPractice id="ritualModernPractice">
+        <ab><ab><bibl>Kotwal and Boyd, 1991</bibl>, p. 92: </ab>
+            <ab class="ab_indent"> "At the outset of the recitation of the first chapter of the Yasna, the <em>zōt</em> moistens the date palm cord, tied around the <em>barsom</em>, 
+                with water from the large basin. Each new chapter of the Yasna will be marked by this ritual act. 
+                Both priests recite sianzas (sts.) 1-3 and later 17-23 (Y.1.1-3, 17-23)."</ab></ab>
+        </ModernPractice>
+        <Commentary id="ritualCommentary">
+            <!--<ab>On <em>ńiuuaēδaiiemi haṇkāraiiemi</em> and the <em>ńiuuaēδaiiemi</em> section , see <bibl>Scheftelowitz, 1919</bibl>, <bibl>Kellens, 1996</bibl>, pp. 38-40; <bibl>Swennen, 2015</bibl>.</ab>
+            <ab>It is not certain, nonetheless, whether the verb <em>niwēyēnidan</em> (vid. Quotations, ŠnŠ9.11) refers exclusively to the <em>ńiuuaēδaiiemi</em> litany or to any “invitation” of the gods to the ceremony. 
+                At ŠnŠ9.12, it is said that the gods and <em>frauuaṣ̌is</em> are not invited at the beginning but at <em>staōmi</em> (Y25.4), at <em>frašō.carəϑram saōš́iiaṇtąm</em> (Y26.5) 
+                or <em>vīspā̊ frauuaṣ̌aiiō aṣ̌āunąm yazamaide</em> (Y26.10). Every quotation points to Y26, when the <em>frauuaṣ̌is</em> are addressed with a <em>frawahr</em> dedicatory. 
+                Also happens in the Drōn Yašt (DrYt4.9) with a <em>frawahr</em> dedicatory. Very unlikely that <em>niwēyēnidan</em> only refers to the <em>ńiuuaēδaiiemi hāiti</em>.
+                In the Nērangestān it refers alto to <em>ā-vaēδaiia</em> (cf. N63.3 quoting Y24.1) or  <em>aiβi-vaēδaiia-</em> (cf. N63.2 quoting VrS11.35).</ab>
+            <ab>On the comparison of the <em>ńiuuaēδaiiemi</em> section with the Vedic <em>nivid-</em>, see <bibl>Scheftelowitz, 1919</bibl>, <bibl>; Kellens, 1996</bibl>: p. 39 ff.; <bibl>Swennen, 2015</bibl> </ab>-->
+        </Commentary>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY1.1"/>
+        <include type="W" corresp="WTrY1.1"/>
+        <include type="K" corresp="KTrY1.1"/>
+        <include type="D" corresp="DTrY1.1"/>
+    </translation>
+</text>

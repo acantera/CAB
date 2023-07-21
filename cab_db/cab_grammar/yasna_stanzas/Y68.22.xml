@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y68.22" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y68.22" quote="Y35.2">
+        <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY68.20a"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY68.20b"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY68.20c"/>
+        <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y68.21NerangTransc.a"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY68.20d"/>
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Y68.22 Var. a (mss. 5, 40, 88, 400, 410, 2005, 2101, 2102, 2106, 4000, 4010, 4020, 4050, 4060, 4162, 5020):</ab>
+            <ab class="ab_indent">
+                <em>humatanąm ... vohunąm mahī</em> dō bār guftan āb az ǰām ō ī dudīgar gyāg pad pādyāb rēxtan</ab>  
+            <ab class="ab_indent">
+                "They should recite twice the stanza <em>humatanąm ... vohunąm mahī</em>.  (The <em>zōt</em>) has to pour the water from one cup to another container with <em>pādyāb</em>."</ab>
+            <ab>Y68.22 Var. b (mss. 6, 15, 82, 2007, 2010, 2030, 2040, 2104, 4056): </ab>
+            <ab class="ab_indent">
+                <em>humatanąm ... vohunąm mahī</em> dō bār guftan ǰām purr az āb bē kunišn ud āb az ǰām ō ī dudīgar ǰām ī pādyābdān kardan</ab>  
+            <ab class="ab_indent">
+                "They should recite twice the stanza <em>humatanąm ... vohunąm mahī</em>. (The <em>zōt</em>) has to fill the cup with water and bring the water from one cup to the cup <em>pādyābdān</em>."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY68.22"/>
+        <include type="W" corresp="WTrY68.20"/>
+        <include type="K" corresp="KTrY68.20"/>
+        <include type="D" corresp="DTrY68.20"/>
+    </translation>
+</text>

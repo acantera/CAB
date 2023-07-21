@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR19.2" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y19.2" xml:id="YR19.2">
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR19.2"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">Vid. Y19.2.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrYR19.2"/>
+    </translation>
+</text>

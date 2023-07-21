@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y27.13" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y27.13" quote="Y33.14">
+        <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY27.11a"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY27.11b"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY27.11c"/>
+        <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y27.13NerangTransc.a"/>
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Y27.13 Var. a (mss. 40, 88, 400, 410 (sec.m.), 2106):</ab>
+            <ab class="ab_indent">
+                … <em>səraošəm xṣ̌aϑrəmcā</em>. taštag kē-š zōhr andar pad sar ī barsom datuš dārišn pad urwēs bē nihišn</ab>
+            <ab class="ab_indent">
+                "At ... <em>səraošəm xṣ̌aϑrəmcā</em>, he has to hold the cup that contains the <em>zōhr</em> on the <em>datuš</em> of the <em>barsom</em> and to put it on the <em>urwēs</em>."</ab>
+            <ab>Y27.13 Var. b (mss. 15,82): </ab>
+            <ab class="ab_indent">
+                … <em>səraoṣ̌əm xṣ̌aϑrəmcā</em>. bē afšārišn pad dudīgar pad sidīgar bē afšārišn pad fradom zōhr andar hōm ud harw hōm ud urwarām pālā kardan</ab>
+            <ab class="ab_indent">
+                "At ... <em>səraošəm xṣ̌aϑrəmcā</em>, he has to strain (the <em>hōm</em> and <em>urwarām</em>). At the second (stanza) and at the third, he has to strain (them). 
+                During the first (stanza), he has to pour <em>zōhr</em> into the <em>hōm</em> and to filter each (piece) of <em>hōm</em> and <em>urwarām</em>."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY27.13"/>
+        <include type="W" corresp="WTrY27.11a"/>
+        <include type="K" corresp="KTrY27.11a"/>
+        <include type="D" corresp="DTrY27.11a"/>
+    </translation>
+</text>

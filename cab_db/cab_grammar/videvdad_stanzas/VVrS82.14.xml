@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS82.14" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VVrS82.14">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS36.18a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS36.18b" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen19" on_line="in1line"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VVrS82.14 (mss. 4010, 4020, 4025, 4040, 4050, 4055, 4060, 4161):</ab>
+         <ab class="ab_indent">
+            <em>aṣ̌aiia daδąmi aēsma baōiδi xšnūmaine tauua āϑrō ahurahe mazdā̊ puϑra imąm aŋhuiiąmca aṣ̌aiiąmca raϑβąmca ratufritīmca xšnūmaine sraōšahe aṣ̌iiehe</em> tā 
+            <em>āhūiriiehe aōxtō.nāmanō yazatahe</em> az <em>aṣ̌aiia daδąmi aēsma baōiδi</em> tā ō ī <em>aōxtō.nāmanō yazatahe</em> dō bār guftan ka xšnūman nē srōš bēd ān ī bēd
+            wizārdan agar ahlawān bēd <em>auuaŋ́hā̊ frauuaṣ̌aiiō</em> abāyēd guftan</ab>   
+         <ab class="ab_indent">
+            "At <em>aṣ̌aiia daδąmi aēsma baōiδi xšnūmaine tauua āϑrō ahurahe mazdā̊ puϑra imąm aŋhuiiąmca aṣ̌aiiąmca raϑβąmca ratufritīmca xšnūmaine sraōšahe aṣ̌iiehe</em> until 
+            <em>āhūiriiehe aōxtō.nāmanō yazatahe</em>. They should from <em>aṣ̌aiia daδąmi aēsma baōiδi</em> until <em>aōxtō.nāmanō yazatahe</em> twice. If it is not the 
+            <em>šnūman</em> for Srōš, they should utter the corresponding one. If it is (a liturgy) for the <em>ahlawān</em>, they must recite <em>auuaŋ́hā̊ frauuaṣ̌aiiō</em>..."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS82.14"/>
+   </translation>
+</text>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+    <div xml:id="DronDescription" type="RitualDescription">
+        <ab>Description goes here</ab>
+        <ab>Second paragraph in description if needed</ab>
+    </div>
+    <div xml:id="YasnaDescription" type="RitualDescription">
+        <ab>Description goes here</ab>
+        <ab>Second paragraph in description if needed</ab>
+    </div>
+    <div xml:id="YasnaRapithwinDescription" type="RitualDescription">
+        <ab>Description goes here</ab>
+        <ab>Second paragraph in description if needed</ab>
+    </div>    
+    <div xml:id="VisperadDescription" type="RitualDescription">
+        <ab>Description goes here</ab>
+        <ab>Second paragraph in description if needed</ab>
+    </div>    
+    <div xml:id="VidevdadDescription" type="RitualDescription">
+        <ab>Description goes here</ab>
+        <ab>Second paragraph in description if needed</ab>
+    </div>    
+    <div xml:id="VishtaspYashtDescription" type="RitualDescription">
+        <ab>Description goes here</ab>
+        <ab>Second paragraph in description if needed</ab>
+    </div>    
+</div>

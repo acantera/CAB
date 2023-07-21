@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS4.17" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y4.17" xml:id="VrS4.17">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY4.16b" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RozGen" xpointer="RozGen1" on_line="in1line"/>
+      <!-- All days possible -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY4.16c" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY4.16d" on_line="in1lineblock"/>
+      <!-- Elminate in Gatha days -->
+      <include href="/db/apps/cab_db/cab_rituals/blocks/MahGen" xpointer="MahGen1" on_line="in1line"/>
+      <!-- All months possible -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY4.16e" on_line="in1line"/>
+      <!-- Eliminate in Gatha days -->
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: 2109.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>āat̰ dīš ...</em>] (Per.) rōz va māh har dō ḫvāndan 2109.</ab>
+         <ab><em>āat̰ dīš āuuaēδaiiamahi ...</em>] <em>āat̰ dīš āuuaēδaiimahe</em> YWM W BYRH ZKš ḆYN YKOYMWNyt (2010 YKOYMWNd) gwptn' 2007, 2010; YWM W BYRH ZKš gwptn' 2040.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation/>
+</text>

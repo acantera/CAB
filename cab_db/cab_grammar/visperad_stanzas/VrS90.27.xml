@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS90.27" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS90.27">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY66.16a" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen42" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY66.16b" on_line="in1line"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS90.27 Var. c (ms. 2106):</ab>
+         <ab class="ab_indent">
+            <em>aṣ̌aiia daδąmi imąm zaōϑrąm ... xšnūmaine raϑβō bərəzatō ... sarəδanąmca raϑβąm vīspe mazištanąm yōi həṇti aṣ̌ahe ratauuō hāuuanīm paiti ratūm maiδiiōizarəmaiiehe raϑβō
+               aōxtō.nāmanō yazatahe</em> agar ahlawān bēd <em>xšnūmaine ahurahe mazdā̊ raēuuatō xᵛarənaŋᵛhatō aməṣ̌anąm spəṇtanąm aṣ̌āunąm frauuaṣ̌inąm</em> tā ō ī <em>yazatahe</em> 
+            tā ō ī aṣ̌.: d.: <em>auuaŋhā̊ frauuaṣ̌aiiō</em> tā ō ī  <em>yasnąsca vaɱąsca</em>.</ab> 
+         <ab class="ab_indent">
+            "<em>aṣ̌aiia daδąmi imąm zaōϑrąm ... xšnūmaine raϑβō bərəzatō ... sarəδanąmca raϑβąm vīspe mazištanąm yōi həṇti aṣ̌ahe ratauuō hāuuanīm paiti ratūm maiδiiōizarəmaiiehe raϑβō
+               aōxtō.nāmanō yazatahe</em>. If it is for the <em>ahlawān</em>, (they should recite) <em>xšnūmaine ahurahe mazdā̊ raēuuatō xᵛarənaŋᵛhatō aməṣ̌anąm spəṇtanąm aṣ̌āunąm 
+                  frauuaṣ̌inąm</em> until <em>yazatahe</em> until aṣ̌.: d.: <em>auuaŋhā̊ frauuaṣ̌aiiō</em> until <em>yasnąsca vaɱąsca</em>."</ab>
+         
+         <ab>VrS90.27 Var. d (ms. 2040):</ab>
+         <ab class="ab_indent">
+            <em>aṣ̌aiia daδąmi imąm zaōϑrąm haōmauuaitīm ... xšnūmaine raϑβō bərəzatō</em> tā <em>sarəδanąmca raϑβąm vīspe mazištanąm yōi həṇti aṣ̌ahe ratauuō hāuuanīm paiti ratūm
+               maiδiiōizarəmaiiehe raϑβō aōxtō.nāmanō yazatahe</em> dō bār guftan agar ahlawān bēd <em>xšnūmaine ahurahe mazdā̊ raēuuatō xᵛarənaŋᵛatō aməṣ̌anąm spəṇtanąm aṣ̌āunąm
+                  frauuaṣ̌inąm</em> tā ō ī  <em>yasnąsca vaɱąsca</em>.</ab>
+         <ab class="ab_indent">
+            "They should rcite twice <em>aṣ̌aiia daδąmi imąm zaōϑrąm haōmauuaitīm ... xšnūmaine raϑβō bərəzatō</em> until <em>sarəδanąmca raϑβąm vīspe mazištanąm yōi həṇti aṣ̌ahe 
+               ratauuō hāuuanīm paiti ratūm maiδiiōizarəmaiiehe raϑβō aōxtō.nāmanō yazatahe</em>. If it is for the <em>ahlawān</em>, (they should recite): <em>xšnūmaine ahurahe mazdā̊
+                  raēuuatō xᵛarənaŋᵛatō aməṣ̌anąm spəṇtanąm aṣ̌āunąm frauuaṣ̌inąm</em> until <em>yasnąsca vaɱąsca</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS90.27"/>
+   </translation>
+</text>

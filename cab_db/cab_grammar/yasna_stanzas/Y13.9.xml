@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y13.9" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y13.9">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y13.7NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: Anklesaria, Geldner.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>yaϑā ahū vairiiō</em> IV gwptn'] 5, 6, 15, 40, 88; <em>ẏaϑā ahū vairiiō</em> IV 100, 110, 231, 234, 235; 
+            <em>ẏaϑā ahū vairiiō aϑā ratuš aṣ̌āt̰.cīt̰ hacā</em> wycst' cslwšʾmywtyk (400 wycyst' cslyšʾmlwtyk) gwbšn' 400, 410, 500, 510; <em>ẏaϑā ahū vairiiō</em> chl bʾl gwptn' 672.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y13.9 Var. a (mss. 5, 2010, 4040):</ab>
+         <ab class="ab_indent">
+            <em>yaϑā ahū vairiiō</em> čahār guftan pad harw <em>š́iiaōϑananąm</em> grih ī barsom
+            ǰumbēnīdan rāspīg bōy ō ī ātaxš dahišn abāg zōt bē gōwišn <em>aṣ̌əm. vohū.</em> sē</ab>
+         <ab class="ab_indent"> "They should
+            recite four <em>yaθā ahū vairiiō.</em> At each <em>š́iiaōϑananąm</em>, he (the
+               <em>zōt</em>) shoud move the knots of the <em>barsom</em> and the <em>rāspīg</em> has
+            to give <em>bōy</em> to the fire and recite together with the <em>zōt</em> three
+               <em>aṣ̌əm vohū</em>."</ab>
+         <ab>Y13.9 Var. b (mss. 6, 40, 88, 2030, 2101, 2106, 4000, 4010, 4020, 4025, 4050, 4161):</ab>
+         <ab class="ab_indent">
+            <em>yaϑā ahū vairiiō</em> čahār guftan pad harw <em>š́iiaōϑananąm</em> grih ī barsom
+            ǰumbēnīdan</ab>
+         <ab class="ab_indent"> "They should
+            recite four <em>Ahuna Vairiia</em>. At each <em>š́iiaōϑananąm</em>, he (the
+            <em>zōt</em>) should move the knots of the <em>barsom</em>."</ab>
+      </Nerangs>
+      <Quotations id="ritualQuotations">
+         <ab>N28.44b <bibl>Kotwal and Kreyenbroek 2003</bibl> pp. 102-3:</ab>
+         <ab class="indent_ab">
+            pad ān čahār yatāhūwēryō pad <em>š́iiaoθananąm</em> ī fradom andak-ē grih be sōhišn u-š pas tā ō <em>sastica</em> be hilišn ast kē ēdōn gōwēd ay xwad-iš
+            tā ō <em>sastica</em> bē hilišn</ab>
+         <ab class="indent_ab">
+            During the four <em>Yatāhuwayryō</em> he should touch the <em>grih</em> a little at the first <em>š́iiaoθananąm</em>, and then he should let go of it by the time
+            he reaches <em>sastica</em>. There is one who says: "He should certainly let go of it by the time he reaches <em>sastica</em>."</ab>
+      </Quotations>
+      <ModernPractice id="ritualModernPractice">
+         <ab><ab><bibl>Redard and Daruwalla, 2021</bibl>, p. 84:</ab>
+            <ab class="ab_indent">"Out of these above 4 <em>Ahuna Vairiia</em>, while reciting 2 <em>Ahuna Vairiia</em>, the chief priest with the right hand, 
+               holding both ends of the date-palm leaf of the bundle, ties two front knots like the girdle, from the middle outside the moon-shaped stand, 
+               then he goes on reciting the two remaining <em>Ahuna Vairiia</em>"</ab></ab>
+         
+         <ab><ab><bibl>Kotwal and Boyd, 1991</bibl> pp. 100-101:</ab> 
+            <ab class="ab_indent">"While reciting the first two <em>y. a. v.</em>, the <em>zōt</em> ties, with his right hand, the ends of the woven date-palm
+               leaf together with two knots, one for each <em>y. a. v.</em>, tightening each knot with the word 'actions' (<em>shyaothnanām</em>), 
+               and creating a loop with the cord. Throughout, the priest's left hand remains in continuous contact with the <em>barsom</em>.</ab></ab>
+      </ModernPractice>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY13.9"/>
+      <include type="W" corresp="WTrY13.7c"/>
+      <include type="K" corresp="KTrY13.7c"/>
+      <include type="D" corresp="DTrY13.7c"/>
+   </translation>
+</text>

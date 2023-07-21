@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y8.10" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y8.10" quote="Y52.8">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY8.7"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y8.7.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y8.10b <em>anu.mataiiaēca anu.uxtaiiaēca anu.varštaiiaēca</em>] cod. Geldner, Redard <em>anumataiiaēca anuxtaiiaēca anuuarštaiiaēca</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>Y8.10 quotes Y52.8, = Y11.16, Y60.12, Y68.19, Y71.31.</ab>
+      <ab><em>fratəmą nmānanąmca vīsąmca zaṇtunąmca dax́iiunąmca</em> ~ Y22.26 <em>yā̊ paōiriia ā̊ŋharə nmānanąmca vīsąmca zaṇtunąmca dax́iiunąmca</em>; ~ Yt13.150 <em>paōiriiąn t̰kaēšə̄ yazamaide nmānanąmca vīsąmca zaṇtunąmca dax́iiunąmca yōi ā̊ŋharə</em>
+         <ab>(About <em>daēnā</em>) <em>yā āhūiriš zaraϑuštriš</em> = Y12.14, VrS11.28, VrS32.3.</ab>
+        </ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY8.10"/>
+
+        <include type="W" corresp="WTrY8.7"/>
+        <include type="K" corresp="KTrY8.7"/>
+        <include type="D" corresp="DTrY8.7"/>
+    </translation>
+</text>

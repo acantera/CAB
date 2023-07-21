@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS90.2" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS90.2">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS90.2NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY66.1a"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS90.2NerangTransc.b"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS90.2 (mss. 2005, 2007, 2010, 2030, 2101, 2102, 2104, 2106, 4010, 4020, 4025, 4040, 4050, 4055, 4060, 4161, 4162, 5020):</ab>
+         <ab class="ab_indent">
+            <em>aṣ̌aiia daδąmi imąm zaōϑrąm</em> zōhr bē nigerišn <em>haōmauuaitīm gaōmauuaitīm haδānaēpatauuaitīm aṣ̌aiia uzdātąm tauua ahurāne ahurahe</em> āb bē nigerišn 
+            <em>xšnūmaine ahurahe mazdā̊ aməṣ̌anąm spəṇtanąm sraōšahe aṣ̌iiehe āϑrō ahurahe mazdā̊ raϑβō bərəzatō yō aṣ̌ahe</em></ab>
+         <ab class="ab_indent">
+            "At <em>aṣ̌aiia daδąmi imąm zaōϑrąm</em>, he has to gaze at the <em>zōhr</em> (and continue with) <em>haōmauuaitīm gaōmauuaitīm haδānaēpatauuaitīm aṣ̌aiia uzdātąm</em> 
+            and at <em>tauua ahurāne ahurahe</em>, he has to gaze at the water (and continue with) <em>xšnūmaine ahurahe mazdā̊ aməṣ̌anąm spəṇtanąm sraōšahe aṣ̌iiehe āϑrō ahurahe 
+               mazdā̊ raϑβō bərəzatō yō aṣ̌ahe</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS90.2"/>
+   </translation>
+</text>

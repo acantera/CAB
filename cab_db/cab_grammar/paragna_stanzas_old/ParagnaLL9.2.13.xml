@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL9.2.13" status="created">  <!-- created, approved, updated--> <header><creators><creator>Porro</creator><creator>Cantera</creator></creators><created>1 June 2019</created></header><div type="Stanza" sameAs="" n="13" xml:id="ParagnaLL9.2.13">
+                <include href="/db/apps/cab_db/cab_rituals/nerang/dron_nerang" xpointer="HomastP2.13NerangTransc.a"/>
+                <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.13a"/>
+                <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.1"/>
+                <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.13b"/>
+                <include href="/db/apps/cab_db/cab_rituals/nerang/dron_nerang" xpointer="HomastP2.13NerangTransc.b"/>
+                <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.13c"/>
+                <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.2"/>
+                <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.13d"/>
+                <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.13e"/>
+                <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.3"/>
+                <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.13f"/>
+            </div><Apparatus><Critical/><Commentary/></Apparatus><Parallels/><Ritual/><translation><include type="CAB" corresp="CABTrParagnaLL9.2.13"/></translation></text>

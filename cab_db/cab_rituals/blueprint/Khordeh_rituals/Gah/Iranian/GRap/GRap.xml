@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+            <div type="Gāh" xml:id="GRap">
+                <div type="GāhStanza" xml:id="GRap1.1" corresp="#GG2.1"> <!-- In the IndXA and in later IrXA mss. (see MZK6, KM8, but also MZK9) xšnaōθra. ahurahe. mazdā̊. before the AV (3x); the later IrXA mss. start with a Parsi or Pāzand introduction -->
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/>
+                </div>
+                <div type="Frauuarane" xml:id="GRap1.2" corresp="#GG2.1, #GG2.2">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP1XA"/>
+                </div>
+                <div type="GāhStanza" xml:id="GRap2.1" corresp="#GG2.3" quote="#GY71.2"> <!-- GRap2.1 = GUz2.1 = GRap2.1 = GUš2.1 = GHaw2.1 -->
+                    <ab n="a" xml:id="GRap2.1a">ahurəm. mazdąm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                    <ab n="b" xml:id="GRap2.1b">zaraϑuštrəm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                    <ab n="c" xml:id="GRap2.1c">zaraϑuštrahe. aṣ̌aōnō. frauuaṣ̌īm. yazamaide.</ab>
+                    <ab n="d" xml:id="GRap2.1d">aməṣ̌ə̄. spəṇtə̄. aṣ̌aōnąm. yazamaide.</ab>
+                </div>
+                <div type="GāhStanza" xml:id="GRap2.2" corresp="#GG2.4" quote="#GY71.3"> <!-- GRap2.2 = GUz2.2 = GRap2.2 = GUš2.2 = GHaw2.2 -->
+                    <ab n="a" xml:id="GRap2.2a">aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spəṇtā̊. frauuaṣ̌aiiō. yazamaide.</ab>
+                    <ab n="b" xml:id="GRap2.2b">astuuatō. manahiiāca. apanōtəməm. raϑβąm. yazamaide.</ab>
+                    <ab n="c" xml:id="GRap2.2c">yaētuštəməm. yazatanąm. haŋhanuštəməm. aṣ̌ahe. raϑβąm. aiβinasąstəməm. jaγmūštəmąm. aṣ̌aōnō. aṣ̌ahe. raϑβō. ratufritīm. yazamaide.</ab>
+                </div>
+                <div type="GāhStanza" xml:id="GRap2.3" corresp="#GG2.5"> <!-- GRap2.3-7 is an enlarged version of #GY6.3 --> <!-- for GRap2.3b-f cf. AGatha2.1 --> 
+                    <ab n="a" xml:id="GRap2.3a">rapiϑβinəm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                    <ab n="b" xml:id="GRap2.3b">ahunauuaitīm. gāϑąm. aṣ̌aōnīm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                    <ab n="c" xml:id="GRap2.3c">uštauuaitīm. gāϑąm. aṣ̌aōnīm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                    <ab n="d" xml:id="GRap2.3d">spəṇtā.maińiiūm. gāϑąm. aṣ̌aōnīm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                    <ab n="e" xml:id="GRap2.3e">vohuxšaϑrąm. gāϑąm. aṣ̌aōnīm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                    <ab n="f" xml:id="GRap2.3f">vahištōištīm. gāϑąm. aṣ̌aōnīm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                </div>
+                <div type="GāhStanza" xml:id="GRap2.4" corresp="#GG2.6">
+                    <ab n="a" xml:id="GRap2.4a">frādat̰.fšāum. zaṇtuməmca. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                    <ab n="b" xml:id="GRap2.4b">fšūṣ̌əmca. mąϑrəm. yazamaide.</ab>
+                    <ab n="c" xml:id="GRap2.4c">aršuxδəmca. vācəm. yazamaide.</ab>
+                    <ab n="d" xml:id="GRap2.4d">vaca. aršuxδa. yazamaide. vārəϑraγnīš. daēuuō.γnīta. yazamaide.</ab> <!-- cf. #GYt18.8, #GVr20.1 -->
+                    <ab n="e" xml:id="GRap2.4e">apasca. zəmasca. yazamaide. uruuarā̊sca. maińiiauuaca. yazata. yazamaide.</ab> <!-- With GRap2.4e-g cf. FrW1.2 mrūiδi. vacō. zaraθuštra. aɱākəm. yasnāica. vaɱāica. yat̰. aməṣ̌anąm. spəṇtanąm. yaθa. te. aŋhən. yaštā̊. āpō. yaštā̊. uruuarā̊. yaštā̊. aṣ̌aōnąm. frauuaṣ̌aiiō. yaštā̊. maińiiauuaca. yazata. yaēca. gaēiθiia. fraθβaršta. vaŋ́hazdā̊. aṣ̌auuanō. -->
+                    <ab n="f" xml:id="GRap2.4f">yōi. vaŋhazdā̊. aṣ̌auuanō.</ab>
+                    <ab n="g" xml:id="GRap2.4g">aməṣ̌ə̄sca. spəṇtə̄. aṣ̌aōnąm. yazamaide.</ab>
+                </div>
+                <div type="GāhStanza" xml:id="GRap2.5" corresp="#GG2.7">
+                    <ab n="a" xml:id="GRap2.5a">aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spəṇtā̊. frauuaṣ̌aiiō. yazamaide.</ab>
+                    <ab n="b" xml:id="GRap2.5b">barəṣ̌nūšca. aṣ̌ahe. yat̰. vahištahe. mazišta. mąϑra. mazišta. vərəziia. mazišta. uruuaitiia. mazišta. haiϑiiā.vərəziia. mazišta. vīndaiϑiia. daēnaiiā̊. māzdaiiasnōiš. yazamaide.</ab>
+                </div>
+				<div type="GāhStanza" xml:id="GRap2.6" corresp="#GG2.8">				
+					<ab n="a" xml:id="GRap2.6a">auuat̰. viiāxnəmca. haṇjamanəmca. yat̰. as. aməṣ̌anąm. spəṇtanąm. barəṣ̌nuuō. auuaŋhe. ašnō. γəmatəm. zaṇtumahe. raϑβō. yasnāica. vaɱāica. zaṇtuməmca. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                </div>
+                <div type="GāhStanza" xml:id="GRap2.7" corresp="#GG2.9">
+                    <ab n="a" xml:id="GRap2.7a">aṣ̌əm. vahištəm. ātrəmca. ahurahe. mazdā̊. puϑrəm. yazamaide.</ab>
+                </div>
+                <div type="GāhStanza" xml:id="GRap3.1" corresp="#GG2.10, #GG2.11" quote="#GY71.23, #GY71.24"> <!-- This section is recited as a kind of ritornello in all five Gāhs: GRap2.8 = GUz2.7 = GRap2.9 = GUš2.6 = GHaw2.7; cf. also the Nīrang barā-ye dafʿ kardan-e dard-e nīm sar (Antia, p. 196.9-21) -->
+                    <ab n="a" xml:id="GRap3.1a">ϑβąm. ātrəm. ahurahe. mazdā̊. puϑrəm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                    <ab n="b" xml:id="GRap3.1b">haδa.zaōϑrəm. haδa.aiβiiā̊ŋhanəm. imat̰. barəsma. aṣ̌aiia. frastarətəm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                    <ab n="c" xml:id="GRap3.1c">apąm. naptārəm. yazamaide. nairīm. saŋhəm. yazamaide.</ab>
+                    <ab n="d" xml:id="GRap3.1d">taxməm. dāmōiš. upamanəm. yazatəm. yazamaide.</ab>
+                    <ab n="e" xml:id="GRap3.1e">iristanąm. uruuąnō. yazamaide. yā̊. aṣ̌aōnąm. frauuaṣ̌aiiō.</ab>
+                    <ab n="f" xml:id="GRap3.1f">ratūm. bərəzaṇtəm. yazamaide. yim. ahurəm. mazdąm. yō. aṣ̌ahe. apanōtəmō. yō. aṣ̌ahe. jaγmūštəmō.</ab>
+                    <ab n="g" xml:id="GRap3.1g">vīspa. srauuā̊. zaraϑuštri. yazamaide.</ab> 
+	 <ab n="h" xml:id="GRap3.1h">vīspaca. huuaršta. š́iiaōϑna. yazamaide.</ab> 
+	 <ab n="i" xml:id="GRap3.1i">varštaca. varəš́iiamnaca.</ab>
+                </div> 
+                <div type="GāhStanza" xml:id="GRap3.2" corresp="#GG2.11">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YeH" xpointer="YeH"/>  
+                </div>
+                <div type="GāhStanza" xml:id="GRap4.1" corresp="#GG2.12">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="2"/>
+                </div>
+                <div type="GāhStanza" xml:id="GRap4.2" corresp="#GG2.12">
+                    <ab n="a" xml:id="GRap3.2a">yasnəmca. vaɱəmca. aōjasca. zauuarəca. āfrīnāmi.</ab>
+                    <include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGenXA68"/> <!-- In the formula of the Xšnūman used in Rapiϑβin the usually appended puθra. (!; see ARap) is missing; the Acc. version has puϑrəm. regularly-->
+                </div>
+                <div type="GāhStanza" xml:id="GRap4.3" corresp="#GG2.12">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+                </div>
+                <div type="GāhStanza" xml:id="GRap4.4" corresp="#GG2.12"> 
+                    <ab n="a" xml:id="GRap4.4a">aɱāi. raēšca. xᵛarənasca. aɱāi. tanuuō. druuatātəm.</ab>
+                    <ab n="b" xml:id="GRap4.4b">aɱāi. tanuuō. vazduuarə. aɱāi. tanuuō. vərəϑrəm.</ab>
+                    <ab n="c" xml:id="GRap4.4c">aɱāi. īštīm. pouruš.xᵛāϑrąm.</ab>
+                    <ab n="d" xml:id="GRap4.4d">aɱāi. āsnąmcit̰. frazaṇtīm. aɱāi. darəγąm. darəγō.jītīm. aɱāi. vahištəm. ahūm. aṣ̌aōnąm. raōcaŋhəm. vīspō.xᵛāϑrəm.</ab>
+                </div>
+                <div type="GāhStanza" xml:id="GRap4.5" corresp="#GG2.12">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+                </div>
+                <div type="GāhStanza" xml:id="GRap4.6" corresp="#GG2.12">
+                    <ab n="a" xml:id="GRap4.6a">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+                    <ab n="b" xml:id="GRap4.6b">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+                    <ab n="c" xml:id="GRap4.6c">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+					</div>
+                <div type="GāhStanza" xml:id="GRap4.7" corresp="#GG2.12">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+                </div>
+                <div type="GāhStanza" xml:id="GRap4.8" corresp="#GG2.12">
+                    <ab n="a" xml:id="GRap4.8a">jasa.mē. auuaŋhe. mazda.</ab>
+                    <ab n="b" xml:id="GRap4.8b">jasa.mē. auuaŋhe. mazda.</ab>
+                    <ab n="c" xml:id="GRap4.8c">jasa.mē. auuaŋhe. mazda.</ab>
+				</div>
+                <div type="GāhStanza" xml:id="GRap4.9" corresp="#GG2.12">
+                    <ab n="a" xml:id="GRap4.9a">amahe. hutāštahe. huraōδahe.</ab> <!-- Xšnūman  Gen day 20-->
+                    <ab n="b" xml:id="GRap4.9b">vərəθraγnahe. ahuraδātahe. vanaiṇtiiā̊sca. uparatātō.</ab>
+                    <ab n="c" xml:id="GRap4.9c">rāmanasca. xᵛāstrahe. vaiiaōš. uparō.kairiiehe. taraδātō. ańiiāiš. dāmąn.</ab> <!-- Xšnūman  Gen day 21-->
+                    <ab n="d" xml:id="GRap4.9d">aētat̰. tē. vaiiō. yat̰. tē. asti. spəṇtō.maińiiaōm.</ab>
+                    <ab n="e" xml:id="GRap4.9e">θβāṣ̌ahe. xᵛaδātahe. zruuānahe. akaranahe. zruuānahe. darəγō.xᵛaδātahe.</ab><!-- In the IndXA it follows the kərba. mažd. Vāj -->
+                </div>
+                <div type="GāhStanza" xml:id="GRap4.10" corresp="#GG2.12">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/> 
+                </div>
+            </div>
+</div>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y26.5" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y26.6" shnumandep="1">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY26.6"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y25.4.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>Y26.5 = Y59.24, VrS81.23, DrYt4.14.</ab>
+      <ab>VrS30.5 = DoHom7.5.</ab>
+      <ab><em>nabānazdištanąm iδa aṣ̌aōnąm aṣ̌aōninąmca ahūmca daēnąmca baōδasca uruuānəmca frauuaṣ̌īmca yazamaide yōi aṣ̌āi vaōnarə</em> = Y13.149; Cf. <em>nabānazdišta- frauuaṣ̌i-</em>. Vid. e.g. Y1.19 and parallels..</ab>
+      <ab><em>iδa aṣ̌aōnąm aṣ̌aōninąmca ahūmca daēnąmca baōδasca uruuānəmca frauuaṣ̌īmca yazamaide yōi aṣ̌āi vaōnarə</em> = Y26.3, Y59.22.</ab>
+      <ab><em>yōi aṣ̌āi vaōnarə</em> = Y26.4, Y59.23.</ab>
+      <ab><em>mat̰ vīspābiiō aṣ̌aōnibiiō frauuaṣ̌ibiiō yā̊ irīriϑušąm aṣ̌aōnąm yā̊sca juuaṇtąm aṣ̌aōnąm yā̊sca narąm azātanąm frašō.carəϑrąm saōš́iiaṇtąm</em> = Y24.5.</ab>
+      <ab><em>frauuaṣ̌ibiiō ... yā̊sca juuaṇtąm aṣ̌aōnąm yā̊sca narąm azātanąm frašō.carəϑrąm saōš́iiaṇtąm</em> ~ Yt13.17 <em>frauuaṣ̌aiiō ... yā̊ vā narąm azātanąm frašō.carəϑrąm saōš́iiaṇtąm āat̰ anniaēšąm frauuaṣ̌aiiō
+         juuanąm narąm aṣ̌aōnąm</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY26.5"/>
+      <include type="W" corresp="WTrY26.6"/>
+      <include type="K" corresp="KTrY26.6"/>
+      <include type="D" corresp="DTrY26.6"/>
+   </translation>
+</text>

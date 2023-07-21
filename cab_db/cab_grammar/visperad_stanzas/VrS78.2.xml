@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS78.2" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS78.2" quote="Y51.23">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS78.2NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS32.0a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS32.0b"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS32.0c"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS78.2 Var. a (ms. 2010):</ab>
+         <ab class="ab_indent">
+            rāspīg pad gāh ī hāwanān <em>yeŋ́hē mē aṣ̌āt̰ hacā</em> tā <em>vaṇtā</em> hamrāspīg pad gāh ī srōšāwarzān <em>yeŋ́hē.hātąm</em> tā sar guftan hamrāspīg pad gāh ī frabardārān 
+            šawišn <em>aṣ̌əm vohū</em> ēk guftan</ab>  
+         <ab class="ab_indent">
+            "The <em>rāspīg</em> (should recite) at the place of the <em>hāwanān</em>: <em>yeŋ́hē mē aṣ̌āt̰ hacā</em> until <em>vaṇtā</em>. The same <em>rāspīg</em> should recite,
+            at he place of the <em>srōšāwarzān yeŋ́hē.hātąm</em> until the end. The same <em>rāspīg</em> should recite one <em>aṣ̌əm vohū</em> at the place of the <em>frabardārān</em>."</ab>
+         
+         <ab>VrS78.2 Var. b (mss. 2030, 2101, 2104, 2106, 2109, 4000, 4010, 4020, 4025, 4040, 4050, 4055, 4060, 4162):</ab>
+         <ab class="ab_indent">
+            pas rāspīg pad gāh ī hāwanān bē gōwišn <em>yeŋ́hē mē</em> tā ō ī <em>vaṇtā</em> hamrāspīg pad gāh ī srōšāwarzān <em>yeŋ́hē.hātąm</em> tā sar guftan hamrāspīg ō ī gāh frabardārān 
+            <em>aṣ̌əm vohū</em> ēk guftan ō ī gāh ī xwēš āmadan ātaxš abrōxtan</ab> 
+         <ab class="ab_indent">
+            "Afterwards, the <em>rāspīg</em> has to recite at the place of the <em>hāwanān: yeŋ́hē.mē</em> until <em>vaṇtā</em>. The same <em>rāspīg</em> should recite, at he place 
+            of the <em>srōšāwarzān yeŋ́hē.hātąm</em> until the end. The same <em>rāspīg</em> should recite one <em>aṣ̌əm vohū</em> at the place of the <em>frabardārān</em>. He 
+            should come to his own place and kindle the fire."</ab> 
+         
+         <ab>VrS78.2 Var. c (ms. 2040):</ab>
+         <ab class="ab_indent">
+            pas rāspīg pad gāh ī srōšāwarzān <em>yeŋ́hē mē aṣ̌āt̰ hacā vahištəm yesnē paitī vaēdā mazdā̊ ahurō yōi ā̊ŋharəcā həṇticā tą yazāi xᵛāiš nāmə̄nīš pairicā jasāi vaṇtā yeŋ́hē hātąm</em> tā sar guftan 
+            <em>aṣ̌əm vohū</em> ēk guftan</ab> 
+         <ab class="ab_indent">
+            "Afterwards, the <em>rāspīg</em> should recite at the place of the <em>srōšāwarzān yeŋ́hē.mē aṣ̌āt̰ hacā vahištəm yesnē paitī vaēdā mazdā̊ ahurō yōi ā̊ŋharəcā həṇticā tą yazāi 
+               xᵛāiš nāmə̄nīš pairicā jasāi vaṇtā</em> and the <em>yeŋ́hē.hātąm</em> until the end. He should recite one <em>aṣ̌əm vohū</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS78.2"/>
+   </translation>
+</text>

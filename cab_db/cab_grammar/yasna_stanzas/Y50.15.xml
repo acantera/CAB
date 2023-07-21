@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y50.15" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y50.15">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YeH" xpointer="YeH"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y50.15 (mss. 88, 2106):</ab>
+         <ab class="ab_indent">
+            ... <em>tā̊scā yazamide</em>. tā sar nō wacistīg sē gāh rāyēnīdan</ab>
+         <ab class="ab_indent">
+            (They shoould recite) <em>tā̊scā yazamide</em> until the end, arrange the nine <em>wacašt</em> and the three <em>gāh</em>.</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY50.15"/>
+   </translation>
+</text>

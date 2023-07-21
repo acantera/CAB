@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y9.29" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y9.29">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY9.29"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y9.3.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y9.29a <em>aiβi.tūtuiiā̊</em>] Geldner, Kellens; Pirart (<bibl>Junker, 1970</bibl>) <em>aiβi.tuiiā̊</em></ab>
+         <ab>Y9.29c ⁺<em>aēnaŋ́heiti</em> (x2)] em. Pirart; Geldner <em>aēnaŋhaiti</em>; Kellens <em>aēnaŋ́həiti</em>; vid. <bibl>Hoffmann and Narten, 1989</bibl>, p. 56 ff.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>mā gąm vaēnōit̰ ašibiia</em> ~ Y32.10 <em>gąm ašibiia</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY9.29"/>
+
+        <include type="W" corresp="WTrY9.29"/>
+        <include type="K" corresp="KTrY9.29"/>
+        <include type="D" corresp="DTrY9.29"/>
+    </translation>
+</text>

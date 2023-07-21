@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VytVrS82.14" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VytVrS82.14">
+      <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VrS36.18a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VrS36.18b" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen26" on_line="in1line"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VytVrS82.14 (mss. 2005, 2007, 2010, 2030, 2040, 2101, 2104, 2106, 2109, 4000, 4010, 4020, 4050, 4055, 4161, 4162, 5020):</ab>
+         <ab class="ab_indent">
+            <em>aṣ̌aiia daδąmi aēsma baōiδi tauua āϑrō ahurahe mazdā̊ puϑra imąm aŋhuiiąmca aṣ̌aiiąmca raϑβąmca ratufritīmca</em> xšnūman ān ī bēd dō bār guftan agar ahlawān bēd  
+            <em>auuaŋ́hā̊ frauuaṣ̌aiiō</em> bē gōwišn tā <em>yasnąsca vaɱąsca</em>.</ab> 
+         <ab class="ab_indent">
+            "At <em>aṣ̌aiia daδąmi aēsma baōiδi tauua āϑrō ahurahe mazdā̊ puϑra imąm aŋhuiiąmca aṣ̌aiiąmca raϑβąmca ratufritīmca</em>, they shoud recite twice the corresponding <em>šnūman</em>. 
+            If it is (a liturgy) for the <em>ahlawān</em>, they have to recite <em>auuaŋ́hā̊ frauuaṣ̌aiiō</em> until <em>yasnąsca vaɱąsca</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVytVrS82.14"/>
+   </translation>
+</text>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y24.23" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y24.23">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY24.22"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y24.14.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>Y24.23b <em>āat̰ dīš āuuaēδaiiamhi aiβiiō</em> ...] <em>aiβiiō vaŋhībiiō</em> cygwn' npšt OD OL Y <em>raϑβō bərəzatō</em> (Y24.28) 5; <em>apąm mazdaδātanąm</em> cygwn pyš npšt' OD OL Y <em>aṣ̌aōninąmca aṣ̌ahe</em> (Y24.27) 6;
+         <em>aiβiiō vaŋhībiiō</em> OD OL Y <em>aṣ̌aōninąmca aṣ̌ahe</em> (Y24.27) 88.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>Y24.23 = Y4.18, VrS79.18; ≈ Y1.13, Y2.13, Y3.15, Y6.12, Y7.16, Y17.12, Y22.16, Y59.12, Y66.13, VrS78.25, VrS81.12, VrS82.13, VVrS14.11.</ab>
+      <ab>VrS27.37 = DoHom4.37.</ab>
+      <ab><em>vīspanąmca apąm mazdaδātanąm vīspanąmca uruuaranąm mazdaδātanąm</em> ~ Y8.4 <em>yā̊ apasca uruuarā̊</em>; ~ Y8.8, Y11.4, Y52.6, Y60.10, Y68.18, Y71.29 <em>vasō. āpō. vasō. uruuarā̊.</em>; 
+         ~ Y9.4 <em>āpa uruuaire</em>; ~ Y12.12 <em>yā varanā āpō yā varanā uruuarā̊   </em>; Y16.9 ~ <em>yazamaide vīspā̊ āpō yazamaide vīspā uruuarā̊</em>; Y18.2, Y51.8, Y65.15 ~ <em>dāidī mōi yə̄ gąm tašō apascā uruuarā̊sca</em>; 
+         ~ Y37.1 <em>dāt̰ apascā dāt̰ uruuarā̊sca vaŋᵛhīš</em>; ~ Y44.4 <em>kə̄ apō uruuarā̊scā</em>; ~ VrS65.78, VrS65.80 <em>auui apąmca vaŋᵛhinąm uruuuarnąmca</em>; ~ VrS65.78, VrS65.80 <em>yā̊ vaŋᵛhīš yā̊ āpō yā̊sca uruuarā̊</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY24.23"/>
+      <include type="W" corresp="WTrY24.23"/>
+      <include type="K" corresp="KTrY24.23"/>
+      <include type="D" corresp="DTrY24.23"/>
+   </translation>
+</text>

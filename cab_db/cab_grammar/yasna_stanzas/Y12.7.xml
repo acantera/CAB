@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y12.7" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y12.7">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY12.2"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y12.6.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y12.7a <em>spəṇtąm ārmaitīm</em>] Geldner, Kellens, Ind. mss; Ir. mss. <em>spəṇtąm və̄ ārmaitīm</em> (except 2030, 2101 -Indian influence?). <em>və̄</em> influence from Y32.2 quotation (vid. Parallels), but no sense in this passage.</ab>
+         <ab>Y12.7b <em>tāiiā.at̰cā</em>] cod.; Geldner, Kellens <em>tāiiāat̰ca</em>.</ab>
+         <ab>Y12.7b ⁺<em>māzdaiiasninąm</em>] em. sec. Kellens (cf. Y12.8 <em>māzdaiiasnīš auui vīsō</em>); Geldner <em>mazdaiiasnanąm</em>.</ab>
+         <ab>Y12.7b ⁺<em>ziiānaiiat̰cā</em>] em.; Geldner, Kellens, cod. <em>ziiānaiiaēcā</em>. Graphical confusion <em>ē</em> for <em>t̰</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>spəṇtąm ārmaitim vaŋᵛhīm vərənē hā.mōi astū</em> quotes Y32.2 <em>spəṇtąm və̄ ārmaitīm vaŋᵛhīm varəmaidī hā.nə̄ aŋhat̰</em>.</ab>
+      <ab><em>us gə̄uš stuiiē tāiiā.at̰cā hazaŋhat̰cā</em> ~ Y61.3 <em>hamistaiiaēca nižbərətaiiaēca tāiiunąmca hazasnąmca</em>~ Yt6.4 <em>paitištātə̄e tāiuunąmca hazasnąmca</em>; ~ Yt12.8 <em>at̰bišta hāiδišta jaγništa nasišta tāiiūmca hazaŋᵛhanəmca</em>.</ab>
+      <ab><em>us (stuiiē) māzdaiiasninąm vīšąm ziiānaiiat̰ca vīuuāpat̰ca</em> ~ Y12.8 <em>nōit̰ aɱāt̰ ā ziienīm nōit̰ vīuuāpəm xštā māzdaiiasnīš auui vīsō</em>.</ab>
+      <ab><em>māzdaiiasninąm vīsąm</em> ~ Y68.15 <em>vīse māzdaiiasne</em>;  ~ VS18.12, <em>māzdaiiasnīš auui vīsō</em>; ~ VS19.12 <em>vīsat̰ yat̰ māzdaiiasnōḭt̰</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY12.7"/>
+      <include type="W" corresp="WTrY12.2"/>
+      <include type="K" corresp="KTrY12.2"/>
+      <include type="D" corresp="DTrY12.2"/>
+   </translation>
+</text>

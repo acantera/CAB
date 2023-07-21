@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y35.5" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y35.5">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY35.5"/>
+            </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab>Y35.5a <em>bā.at̰</em>] sec. Bartholomae, Kellens, Humbach; Geldner <em>bāt̰</em>. Vid. <bibl>Kellens and Pirart, 1990</bibl> p. 170 on <em>bā</em>, <bibl>Kellens and Pirart, 1990</bibl> p. 105ff. on <em>at̰</em>. </ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels> 
+        <ab>Y35.5 quoted by VrS19.2, VrS65.19, VrS82.37, VrS89.26, AGahambar2.4.</ab>
+        <ab><em>huxšaϑrō.təmāi bā.at̰ xšaϑrəm aɱat̰ hiiat̰ aibī dadəmahicā cīšmahicā huuąmahicā hiiat̰ mazdāi ahurāi aṣ̌āicā vahištāi</em> ~ VrS82.38 <em>huxšaϑrō.təmahe xšaϑrəm yazamaide daϑušō yat̰ ahurahe mazdā̊</em>; 
+            ~ AGahambar2.4 <em>huxšaϑrō.təmāicit̰ at̰ xšaϑrəm cišiiāt̰ yat̰ ahurāi mazdāi</em>.</ab>
+        <ab><em>dadəmahicā cīšmahicā huuąmahicā hiiat̰ mazdāi ahurāi aṣ̌āicā vahištāi</em> ~ Y13.5, Y39.4, VrS65.48, VS10.4 <em>yā vōhū aϑā tōi dadəmahī aϑā cīšmahī ... ϑβā mazdā ahurā</em>; 
+            ~ Y12.14, VrS11.28, VrS32.3 <em>ahurāi mazdāi vīspā vohū cinaɱi</em>; ~ Y12.6 <em>ahurāi mazdāi vaŋhauuē vohumaitē vīspā vohū cinaɱī</em></ab>
+    </Parallels>
+    <Ritual>
+        <ab>Cf. VS10.7-9</ab>
+        <ab>Cf. N17.1 (<bibl>Kotwal and Kreyenbroek, 1995</bibl>: pp. 98-9):</ab>
+        <ab class="ab_indent"><em>kaiia θrišāmrūta</em></ab>
+        <ab class="ab_indent"><em>aṣ̌əm vohū</em> (Y28.0) ... <em>ẏə̄ səuuištō</em> (Y33.11) ... <em>huxšaθrōtəmāi</em> (Y35.5)... <em>dužuuarənāiš</em>(Y53.10)</ab>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY35.5"/>
+    <include type="W" corresp="WTrY35.5"/><include type="K" corresp="KTrY35.5"/><include type="D" corresp="DTrY35.5"/></translation>
+</text>

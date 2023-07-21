@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS24.12" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS24.12">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS10.8"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt̰: vid. VrS24.11 Nērang.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VrS24.12a <em>haōmanąm uzdātanąm</em> ...] <em>haōmanąm uzdātanąm</em> ʾytwn cygwn npšt' OD <em>sraošō astu</em> 2000, 2065; <em>haōmanąm uzdātanąm</em> cygwn npšt' gwptn' OD OL Y <em>fra. sraōšō astū</em> 2007;
+            <em>haōmanąm uzdātanąm</em> OD OL Y <em>frasastaiiaēca sraōšō astu</em> 2010, 2040; <em>haōmanąm uzdātanąm zaōϑranąm uzdātanąm</em> cygwn lʾspyk gwpt OD <em>frasastaiiaēca sraōšō astī</em> 2030;
+            <em>haōmanąm uzdātanąm</em> cygwn gwptn OD OL Y <em>fra. sraōšō astu</em> 2070; <em>haōmanąm uzdātanąm</em> OD OL Y <em>sraōšō astī</em> 2101; <em>haōmaną̇m uzdātaną̇m</em> OD gywʾk lʾspyk gwptn' OL Y <em>frasastaiiaēca sraōšō astī</em> 2106;
+            <em>haōmanąm uzdātanąm</em> cygwn npšt' OD <em>fra. sraōšō astu</em> 2109; <em>haomanąm uzdā̊tanąm</em> OD <em>fra. sraošō astu</em> 2220, 2230.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>Vid. VrS24.4-10.</ab>
+      <ab>VrS24.12 = DoHom1.12.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS24.12"/>
+   </translation>
+</text>

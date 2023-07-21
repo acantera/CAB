@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+			<div type="Spasdarih" xml:id="SpAoi_Parsi"> <!-- vide: MZK9, K37 -->
+				<div type="SpasdarihStanza" xml:id="SpAoi_Parsi1.1">
+                    <ab n="a" xml:id="SpAoi_Parsi1.1a">spʾs ʾwʿh kš spʾs ʾknʾrh āwʾdh krdʾrh āsmʾn frdʾm ʾǧ frmʾn mhst ʾǧ mynwyʾn frzʾnyhh hrwsf k[yh]ʾn dʾštʾr dʾmʾn āfrydʾr ʾstwmndʾn yk fh yk wstkʾn čʾrh xwʾstʾrh ʾčʾrkʾn ʾwzʾynydʾr krftʾrkʾn bwǧʾynydʾr hr ks ʾǧ pm w āstʾnh krʾn āyft xwʾstʾrh hm bwčn brʾzyn bwmyn brʾhyn ʾndr hr dw ʾxwʾnʾn</ab>
+                </div>
+				<div type="SpasdarihStanza" xml:id="SpAoi_Parsi1.2">
+                    <ab n="a" xml:id="SpAoi_Parsi1.2a">ʾmʾn tndrsth rmšnh ʾwʿh  kʾn dyr zywšnh ʾwʿh hyr āwʾdh ʾwʿh nʾm hwslwbyh bh ʾwʿh rwʾn ʾšʾyh dh</ab>
+					<ab n="b" xml:id="SpAoi_Parsi1.2b">ʾmʾn ʾnǧmny bkn</ab>
+					<ab n="c" xml:id="SpAoi_Parsi1.2c">ʾmʾn dl ʾwʾyšny bkn</ab>
+					<ab n="d" xml:id="SpAoi_Parsi1.2d">ʾmʾn hyr twʾnkry bkn</ab>
+					<ab n="e" xml:id="SpAoi_Parsi1.2e">ʾmʾn  nkhdʾr w kwšdʾr w ʾfʾdʾr pʾnh w pʾsbʾn bʾš</ab>
+					<ab n="f" xml:id="SpAoi_Parsi1.2f">ʾǧ hr ʿybh kh ptyʾrh ʾǧ knkʾn w w ʾršknyʾn w kynhwrʾn wd xwʾhʾn w nwdrʾyʾn ʾwʾryn knšnʾn bzh ʾndyšʾn ʾrwnd xwʾhšnʾn ʾšmʾršnʾn bydʾdkrʾn msth krʾn</ab>
+					<ab n="g" xml:id="SpAoi_Parsi1.2g">kh tn hyrmʾn ʾzʾrnd rwʾn mʾnh mrwčynnd hč wznd w zyʾn ʾnʾkh bh ʾwʿh mʾ mtwʾn bʾd kfš w krdn w mnydn ʾwyš w znd zyʾn ʾnʾkh kʾmyd bwdn</ab>
+				</div>
+				<div type="SpasdarihStanza" xml:id="SpAoi_Parsi1.3">
+                    <ab n="a" xml:id="SpAoi_Parsi1.3a">wtrʾn btn xwyš hmydʾrnd tʾ bhnkʾm mhr frʾǧ kwywd rsyd</ab>
+                </div>
+				<div type="SpasdarihStanza" xml:id="SpAoi_Parsi2.1">
+                    <ab n="a" xml:id="SpAoi_Parsi2.1a">ʾydwn bʾd ʾydwntrǧ bʾd</ab>
+                </div>
+				<div type="SpasdarihStanza" xml:id="SpAoi_Parsi2.2">
+					<include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+				</div>
+				<div type="SpasdarihStanza" xml:id="SpAoi_Parsi2.3">
+                    <ab n="a" xml:id="SpAoi_Parsi2.3a">fh yzdʾn ʾmšʾsfndʾn kʾmh bʾd</ab>
+					<ab n="b" xml:id="SpAoi_Parsi2.3b">ʾydwn bʾd ʾydwntrǧ bʾd</ab>
+                </div>
+				<div type="SpasdarihStanza" xml:id="SpAoi_Parsi2.4">
+					<include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+				</div>
+			</div>
+</div>

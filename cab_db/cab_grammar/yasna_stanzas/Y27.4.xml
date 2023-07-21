@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y27.4" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y27.4" quote="Y34.15">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY27.4"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y27.4NerangTransc.a"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y27.4 Var. a (mss. 82, 88, 400, 410 (sec. m.), 2010, 2030, 2040, 2109):</ab>
+         <ab class="ab_indent">
+            <em>mazdā at̰ mōi ... haiϑiiə̄m dā̊ ahūm</em> čahār bār guftan pad harw čahār bār hōm ud urwarām hamē abāyēd kōftan ud hāwan škāftan</ab>
+         <ab class="ab_indent">
+            "They should recite <em>mazdā at̰ mōi ... haiϑiiə̄m dā̊ ahūm</em> four times. During each of the four times, he must strike the <em>hōm</em> and <em>urwarām</em> and hit the <em>hāwan</em>."</ab>
+         <ab>Y27.4 Var. b (mss. 15, 2005, 2007, 2106, 4000, 4010, 4020, 4025, 4030a, 4040, 4050, 4161, 4162, 5020):</ab>
+         <ab class="ab_indent">
+            <em>mazdā at̰ mōi ... haiϑiiə̄m dā̊ ahūm</em> čahār bār guftan pad harw čahār bār hōm ud urwarām hamē abāyēd kōftan</ab>
+         <ab class="ab_indent">
+            "They should recite <em>mazdā at̰ mōi ... haiϑiiə̄m dā̊ ahūm</em> four times. During each of the four times, he must strike continiously the <em>hōm</em> and <em>urwarām</em>."</ab>
+         <ab>Y27.4 Var. c (ms. 40): </ab>
+         <ab class="ab_indent">
+            <em>mazdā at̰ mōi</em> tā sar čahār bār guftan hōm ud urwarām kōftan hāwan škāftan ka ō(h) škāfēd ān ī xwēš barsom ud zōt ā-š ēdōn kunišn kū abar harw sē ōh rasēd ō hōm ud urwarām ēk</ab>
+         <ab class="ab_indent">
+            "They should recite <em>mazdā at̰ mōi</em> until the end four times. He should strike the <em>hōm</em> and <em>urwarām</em> and hit the <em>hāwan</em>. 
+            When he strikes his own <em>barsom</em> and the <em>zōt</em> has to strike the fire, he has to do it so that he reaches all the three, including <em>hōm</em> and <em>urwarām</em> (that count as) one."</ab> 
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY27.4"/>
+      <include type="W" corresp="WTrY27.4"/>
+      <include type="K" corresp="KTrY27.4"/>
+      <include type="D" corresp="DTrY27.4"/>
+   </translation>
+</text>

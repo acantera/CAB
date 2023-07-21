@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y6.11" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y6.11">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RozAcc" xpointer="RozAcc1" on_line="in1lineblock"/>
+      <!-- All days possible -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY6.10b" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/MahAcc" xpointer="MahAcc1" on_line="in1lineblock"/>
+      <!-- All days possible -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY6.10c" on_line="in1line"/>
+      <!-- Eliminate when gatha days -->
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y6.3.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+      <ab><em>... yazamaide</em>] YWM W BYRH gwptn' 5, 88; YWM W BYRH ZK gwptn' 15; YWM W BYRH ZKš 60; YWM <em>ẏ.</em> BYRH. <em>ẏ.</em> 672. 400, 410, 500, 510 do not abbreviate.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>Y6.11 = Y17.11, Y59.11, VrS81.11; ≈ Y1.12, Y2.12, Y3.14, Y4.17, Y7.15, Y22.15, Y24.22, Y66.12, VrS78.24, VrS79.17, VrS82.12, VVrS14.10.</ab>
+   </Parallels>
+   <Ritual>
+      <ab><ab>Revāyat of Kama Bohra (MU1, p. 457) on the Yašt ī <em>gāϑābiiō</em>:</ab>
+         <ab class="ab_indent">(Pers.) negāh ruz māh <em>gāϑā̊ spəṇtā̊ ratuxṣ̌aϑrā̊ aṣ̌aonīš yaz. ahunuuaitīm gāϑą̇m aṣ̌auuanəm aṣ̌ahe ratūm yaz.</em>.</ab>
+         <ab class="ab_indent">(Pers.) "He should consider the day and month (and then recite): <em>gāϑā̊ spəṇtā̊ ratuxṣ̌aϑrā̊ aṣ̌aonīš yaz. ahunuuaitīm gāϑą̇m aṣ̌auuanəm aṣ̌ahe ratūm yaz.</em>".</ab>
+      </ab>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY6.11"/>
+
+       <include type="W" corresp="WTrY6.10b"/>
+        <include type="K" corresp="KTrY6.10b"/>
+        <include type="D" corresp="DTrY6.10b"/>
+    </translation>
+</text>

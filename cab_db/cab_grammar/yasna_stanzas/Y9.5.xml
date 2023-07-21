@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y9.5" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y9.5">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY9.5"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y9.3.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y9.5c <em>pita</em>] Pirart <em>ptā</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>
+            <em>yimahe xšaϑre auruuahe nōit̰ aōtəm ā̊ŋha nōit̰ garəməm nōit̰ zauruua ā̊ŋha nōit̰ mərəϑiiuš nōit̰ araskō daēuuō.dātō</em> ~ VS2.5 <em>nōit̰ mana xšaϑre buuat̰ aōtō vātō nōit̰ garəmō nōit̰ axtiš nōit̰ mahrkō</em>;
+         ~ Yt10.50 <em>yaϑra nōit̰ xšapa nōit̰ təmā̊ nōit̰ aōtō vātō nōit̰ garəmō nōit̰ axtiš pouru.mahrkō nōit̰ āhitiš daēuuō.dāta</em>.</ab>
+      <ab>
+            <em>paṇca.dasa fracarōiϑe pita puϑrasca raōδaēšuua katarascit̰</em> ~ VytS8.4 <em>kainīnō kəhrpa ... paṇcadasaiiā̊ raōδaēšuua</em>.</ab>
+      <ab>
+            <em>huuąϑβō yimō</em>  ~ Y9.4, VS2.20, Yt5.25, Yt17.28, Yt19.34 <em>yīmō xšaētō huuąϑβō</em>; ~ V2.20 <em>yimāi srīrāi huuąϑβāi</em>; ~ VS19.39 <em>yimāi xšaētāi huuąϑβāi</em>;
+         ~ Yt19.31 <em>yiməm xšaētəm huuąϑβəm</em>.</ab>
+      <ab>
+            <em>yimō vīuuaŋᵛhatō</em> ~ VS2.3,  V2.9, V2.22 <em>yima [...] vīuuaŋᵛhana</em>; ~ Yt13.130 <em>yimahe vīuuaŋᵛhanahe</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY9.5"/>
+
+   <include type="W" corresp="WTrY9.5"/>
+        <include type="K" corresp="KTrY9.5"/>
+        <include type="D" corresp="DTrY9.5"/>
+    </translation>
+</text>

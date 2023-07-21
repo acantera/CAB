@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+			<div type="IntroductoryPrayer" xml:id="BajGomK"> <!-- vide: YL2-17, K36; non vide: MF32, Katrak563, MF29, MF31, W1, Ethé1943 -->
+				<div type="IntroductoryPrayerStanza" xml:id="BajGomK1.1">
+				<include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+				<span class="note red">[act of urination or defecation]</span>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajGomK2.1">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/>
+				</div>
+                <div type="IntroductoryPrayerStanza" xml:id="BajGomK2.2" quote="Y35.2 (#GY35.2) = YR35.2 VrS43.2 VVrS43.2 VytVrS43.2">
+                    <ab n="a" xml:id="BajGomK2.2a">humatanąm. hūxtanąm. huuarštanąm. iiadacā. ańiiadacā.</ab>
+                    <ab n="b" xml:id="BajGomK2.2b">vərəziiamnanąmcā. vāuuərəzananąmcā. mahī.</ab>
+                    <ab n="c" xml:id="BajGomK2.2c">aibī.jarətārō. naēnaēstārō. yaϑanā. vohunąm. mahī.</ab>
+					</div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajGomK2.3" quote="Y35.5 (#GY35.5) = YR35.5 VrS43.5 VVrS43.5 VytVrS43.5">
+                    <ab n="a" xml:id="BajGomK2.3a">huxšaϑrōtəmāi. bāt̰. xšaϑrəm. aɱat̰. hiiat̰.</ab>
+                    <ab n="b" xml:id="BajGomK2.3b">aibī. dadəmahicā. cīšmahicā. huuąmahicā.</ab>
+                    <ab n="c" xml:id="BajGomK2.3c">hiiat̰. mazdāi. ahurāi. aṣ̌āicā. vahištāi.</ab>
+					</div>
+                <div type="IntroductoryPrayerStanza" xml:id="BajGomK2.4">
+                    <ab n="a" xml:id="BajGomK2.4a">ahunəm. vairīm. yazamaide.</ab>
+					<ab n="b" xml:id="BajGomK2.4b">aṣ̌əm. vahištəm. sraēštəm. aməṣ̌əm. spəṇtəm. yazamaide.</ab>
+                </div>
+                <div type="IntroductoryPrayerStanza" xml:id="BajGomK2.5">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YeH" xpointer="YeH"/>  
+                </div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajGomK3.1">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="2"/>
+                </div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajGomK3.2">
+                    <ab n="a" xml:id="BajGomK3.2a">yasnəmca. vaɱəmca. aōjisca. zauuarəca. āfrīnāmi.</ab>
+					<include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGenXA19"/>
+					</div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajGomK3.3">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+                </div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajGomK3.4">
+					<ab n="a" xml:id="BajGomK3.4a">aɱāi. raēšca. xᵛarənasca. aɱāi. tanuuō. druuatātəm.</ab>
+                    <ab n="b" xml:id="BajGomK3.4b">aɱāi. tanuuō. vazduuarə. aɱāi. tanuuō. vərəϑrəm.</ab>
+                    <ab n="c" xml:id="BajGomK3.4c">aɱāi. īštīm. pouruš.xᵛāϑrąm.</ab>
+                    <ab n="d" xml:id="BajGomK3.4d">aɱāi. āsnąmcit̰. frazaṇtīm. aɱāi. darəγąm. darəγō.jītīm. aɱāi. vahištəm. ahūm. aṣ̌aōnąm. raōcaŋhəm. vīspō.xᵛāϑrəm.</ab>
+				</div>	
+				<div type="IntroductoryPrayerStanza" xml:id="BajGomK3.5">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajGomK3.6">
+                    <ab n="a" xml:id="BajGomK3.6a">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+                    <ab n="b" xml:id="BajGomK3.6b">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+                    <ab n="c" xml:id="BajGomK3.6c">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajGomK3.7">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajGomK3.8">
+                    <ab n="a" xml:id="BajGomK3.9a">jasa.mē. auuaŋhe. mazda.</ab>
+                    <ab n="b" xml:id="BajGomK3.9b">jasa.mē. auuaŋhe. mazda.</ab>
+                    <ab n="c" xml:id="BajGomK3.9c">jasa.mē. auuaŋhe. mazda.</ab>
+				</div>
+			    <div type="IntroductoryPrayerStanza" xml:id="BajGomK3.9">
+			        <ab n="a" xml:id="BajGomK3.9a">amahe. hutāštahe. huraōδahe.</ab> <!-- Xšnūman  Gen day 20-->
+			        <ab n="b" xml:id="BajGomK3.9b">vərəθraγnahe. ahuraδātahe. vanaiṇtiiā̊sca. uparatātō.</ab>
+			        <ab n="c" xml:id="BajGomK3.9c">rāmanasca. xᵛāstrahe. vaiiaōš. uparō.kairiiehe. taraδātō. ańiiāiš. dāmąn.</ab> <!-- Xšnūman  Gen day 21-->
+			        <ab n="d" xml:id="BajGomK3.9d">aētat̰. tē. vaiiō. yat̰. tē. asti. spəṇtō.maińiiaōm.</ab>
+			        <ab n="e" xml:id="BajGomK3.9e">θβāṣ̌ahe. xᵛaδātahe. zruuānahe. akaranahe. zruuānahe. darəγō.xᵛaδātahe.</ab><!-- In the IndXA it follows the kərba. mažd. Vāj -->
+			    </div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajGomK3.10">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+                </div>
+            </div>
+</div>

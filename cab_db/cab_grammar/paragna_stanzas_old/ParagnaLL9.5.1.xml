@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL9.5.1" status="created">  <!-- created, approved, updated--> <header><creators><creator>Porro</creator><creator>Cantera</creator></creators><created>1 June 2019</created></header><div type="Stanza" sameAs="" n="1" xml:id="ParagnaLL9.5.1">                
+                <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr4"/>
+            </div><Apparatus><Critical/><Commentary/></Apparatus><Parallels/><Ritual/><translation><include type="CAB" corresp="CABTrParagnaLL9.5.1"/></translation></text>

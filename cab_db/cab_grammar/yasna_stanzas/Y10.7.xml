@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y10.7" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y10.7">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY10.7"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y10.6.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y10.7a <em>haϑra frākərəsta</em>] Geldner, Kellens; Pirart <em>hixra.frā.kərəsta</em>.</ab>
+         <ab>Y10.7b <em>upa.staōiti</em>] cod., Pirart; Geldner, Kellens <em>upastaoiti</em>.</ab>
+         <ab>Y10.7c <em>ahe vīsi uta maēϑanəm</em>] damn.; Kellens, Pirart suggest del. of the passage. Vid. <bibl>Pirart, 2004</bibl> p. 94, n. 237.</ab>
+         <ab>Y10.7c <em>vīsi</em>] cod., Pirart; Geldner, Kellens <em>vīse</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>haōmahe baēšaziiehe</em> ~ Y9.16 <em>haōmō ... baēšaziiō</em></ab>
+      <ab><em>dasuuarə baēšazəm</em> ~ Y9.17 <em>ni dasuuarə nī baēšazəm</em>; ~ Y68.16 <em>dasuuarə baēšaza</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY10.7"/>
+      <include type="W" corresp="WTrY10.7"/>
+      <include type="K" corresp="KTrY10.7"/>
+      <include type="D" corresp="DTrY10.7"/>
+   </translation>
+</text>

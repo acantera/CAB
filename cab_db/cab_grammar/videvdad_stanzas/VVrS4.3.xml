@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS4.3" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y4.3" xml:id="VVrS4.3">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/videvdad_nerang" xpointer="VVrS4.3NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY4.3"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. VVrS4.2.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VVrS4.3 (mss. 4010, 4020, 4025, 4030, 4040, 4045, 4050, 4055, 4060, 4063, 4161, 4162):</ab>
+         <ab class="ab_indent">
+            bōy ō ī ātaxš dō bār dahišn <em>āat̰ dīš āuuaēδaiiamahi ima humatāca huxtāca huuarštāca</em>. ...</ab>  
+         <ab class="ab_indent">
+            "He has to give <em>bōy</em> to the fire twice at <em>āat̰ dīš āuuaēδaiiamahi ima humatāca huxtāca huuarštāca</em> ..."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation/>
+</text>

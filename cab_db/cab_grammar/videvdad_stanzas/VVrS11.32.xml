@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS11.32" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="VrS11.32" xml:id="VVrS11.32">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr2"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS3.12b"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt̰ ud rāspīg (at the place of the <em>srōšwarzān</em>): mss. Cf. VVrS11.31.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>zwt' <em>yaϑā ahū vairiiō yō ātrauuaxšō frā.mē mrūtē</em> lʾspyk <em>aϑā ratuš</em> krtn'] 4000, 4010, 4025, 4030, 4040, 4045, 4050, 4161; zwt' <em>yaϑā ahū vairiiō yō ātrauuaxšō frā.mē mrūtē</em> lʾspyk <em>aϑā ratuš</em> OD sl 4020, 4162.</ab>
+         <ab><em>auuaϑāt̰ iδā...</em>] zwt' <em>auuaϑāt̰ iδā</em> 4000, 4010, 4020, 4025, 4030, 4040, 4045, 4050, 4161, 4162.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS11.32"/>
+   </translation>
+</text>

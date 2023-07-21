@@ -1,0 +1,1036 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <hi rend="italic">Manuscript 2510, TD4a at the K. R. Cama Oriental Institute,
+                        Mumbai</hi>
+                </title>
+            </titleStmt>
+            <editionStmt>
+                <edition>This is an original publication of the CAB Project at the Freie Universität
+                    Berlin <date calendar="#gregorian">2019-07-05</date>
+                </edition>
+                <respStmt>
+                    <orgName ref="https://www.geschkult.fu-berlin.de/e/iranistik/index.html">Institut für Iranistik, Freie Universität Berlin</orgName>
+                    <orgName ref="https://ada.geschkult.fu-berlin.de/exist/apps/cab/index.html">Corpus Avesticum Berolinense</orgName>
+                    <name>Prof. Dr. Alberto Cantera</name>
+                    <resp>Principal Investigator</resp>
+                </respStmt>
+                <respStmt>
+                    <name/>
+                    <resp>data entry and proof correction, conversion to TEI-conformant
+                        markup</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <p>This is a digital version of Avesta, VrS0.1 to VrS11.37</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Transliteration from original pictures hold by the Avestan Digital Archive</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc> </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="ceremony" xml:id="VrS" n="VrS">
+
+                <pb n="615"/>
+                <lb/>
+                <lb/>
+                <lb/>
+                <lb/>
+                <div n="1" type="chapter" xml:id="VrS1">
+                    <div n="12" type="Stanza" xml:id="VrS1.12">
+                        <ab n="Nerang.a" xml:id="VrS1.12Nerang.a" xml:lang="Pahl">
+                            <lb/>OD</ab>
+                        <ab n="c" xml:id="VrS1.12c">yeŋ́he⸳hātaiiā̊. <app>
+                                <rdg type="lit">
+                                    <seg type="1">hufrāiiašta<lb break="no"/>iio.</seg>
+                                    <seg type="2">hufrāiiašta<lb break="no"/>iiā̊.</seg>
+                                </rdg>
+                                <rdg type="orig">hufrāiiaštaiio.</rdg>
+                                <rdg type="mod" resp="1">hufrāiiaštaiiā̊.</rdg>
+                            </app> aṣ̌aōniiā̊. aṣ̌ahe. raϑβō.</ab>
+                        <ab n="Translation.c" xml:id="VrS1.12Translation.c" xml:lang="Pahl">nwykynm
+                            <lb/>W hngltynm yhhʾtʾm hwprʾcycšnyh ʾhlwb' W ʾhlʾyyh Y <lb/>lt W ZK Y
+                            PWN plwt'</ab>
+                    </div>
+
+                    <div n="13" type="Stanza" xml:id="VrS1.13">
+                        <ab n="a" xml:id="VrS1.13a">
+                            <abbr>ńiuu.</abbr>
+                            <abbr>ha.</abbr>
+                            <app>
+                                <rdg type="lit">
+                                    <seg type="1">ahunuuataiiā̊.</seg>
+                                    <seg type="2">ahunauuataiiā̊.</seg>
+                                </rdg>
+                                <rdg type="orig">ahunuuataiiā̊.</rdg>
+                                <rdg type="mod" resp="1">ahunauuataiiā̊.</rdg>
+                            </app> g <lb break="no"/>āϑaiiā̊. aṣ̌aōniiā̊. aṣ̌ahe. raϑβō.</ab>
+                        <ab n="Translation.a" xml:id="VrS1.13Translation.a" xml:lang="Pahl">
+                            <lb/>nwykynm W hngltynm ʾhnwt' gʾs Y ʾhlwb' W ʾhlʾyyh Y lt'.</ab>
+
+                        <ab n="b" xml:id="VrS1.13b">
+                            <abbr>ńiuu.</abbr>
+                            <abbr>ha.</abbr> γə̄nąnąm. paouru⸳sarəδō⸳vīrō <lb break="no"/>vąϑβanąm.
+                            mazdaδātanąm. aṣ̌aōnąm. a <lb/>ṣ̌ahe. raϑβąm.</ab>
+                        <ab n="Translation.b" xml:id="VrS1.13Translation.b" xml:lang="Pahl">nwykynm
+                            W hngltynm NKḆʾn Y pwlsltkʾn' <lb/>wylw lmkʾn Y ʾwhrmmẕddʾt' Y ʾhlwb'
+                            ʾhlʾyyh Y lt'</ab>
+                        <ab n="c" xml:id="VrS1.13c">
+                            <abbr>ńiu.</abbr>
+                            <lb/>
+                            <abbr>ha.</abbr> ahumato. ratumatō. aṣ̌aōnō. aṣ̌ah <lb break="no"/>e.
+                            raϑβō.</ab>
+                        <ab n="Translation.c" xml:id="VrS1.13Translation.c" xml:lang="Pahl">nwykynm
+                            W hngltynm ʾhwʾwmndyh lt'ʾwmndyh Y <lb/>ʾhlwb' ʾhlʾyyh lt' ZK mynwy AMT
+                            hwtʾy dstwbl PWN lʾs Y ʾ <pb n="616"/>
+                            <lb/> w'</ab>
+                        <ab n="d" xml:id="VrS1.13d">
+                            <abbr>ńiuu.</abbr>
+                            <abbr>ha.</abbr> yasnahe. haptaŋhātōi <lb break="no"/>š. aṣ̌aōnō.
+                            aṣ̌ahe. raϑβō.</ab>
+                        <ab n="Translation.d" xml:id="VrS1.13Translation.d" xml:lang="Pahl">nwykynm
+                            W hngltynm <lb/>ysn Y hp̄thʾt Y ʾhlwb' ʾhlʾyyh lt'</ab>
+                        <ab n="e" xml:id="VrS1.13e">
+                            <abbr>ńiuu.</abbr>
+                            <abbr>ha.</abbr> a <lb break="no"/>rəduiiā̊. āpō. anāhitaiiā̊.
+                            aṣ̌aōniiā̊. <lb/>aṣ̌ahe. raϑβō.</ab>
+                        <ab n="Translation.e" xml:id="VrS1.13Translation.e" xml:lang="Pahl">nwykynm
+                            W hngltynm ʾltwyswl MY<lb/> ʾnwst' ʾhlwb' ʾhlʾyyh lt' </ab>
+                    </div>
+
+                    <div n="14" type="Stanza" xml:id="VrS1.14">
+                        <ab n="a" xml:id="VrS1.14a">
+                            <abbr>ńiuu.</abbr>
+                            <abbr>ha.</abbr> uštauuait <lb break="no"/>iiā̊. gāϑaiiā̊. aṣ̌aōniiā̊.
+                            aṣ̌ahe. raϑ <lb break="no"/>βō.</ab>
+                        <ab n="Translation.a" xml:id="VrS1.14Translation.a" xml:lang="Pahl">nwykynm
+                            W hngltynm ʾwštwt' gʾs Y ʾlwb' Y ʾhlʾyyh <lb/>lt'</ab>
+                        <ab n="b" xml:id="VrS1.14b">
+                            <abbr>ńiuu.</abbr>
+                            <abbr>ha.</abbr> gairiianąm. aṣ̌a⸳xᵛāϑraną <lb break="no"/>m.
+                            pōuru⸳xᵛāϑranąm. mazdaδātanąm. aṣ̌aō <lb break="no"/>nąm. aṣ̌ahe.
+                            raϑβąm.</ab>
+                        <ab n="Translation.b" xml:id="VrS1.14Translation.b" xml:lang="Pahl">nwykynm
+                            W hngltynm gl ʾn Y <lb/>ʾhlʾyyh Y hwʾlyh pwlhwʾlyh ʾnd ʾwhrmẕddʾt'
+                            ʾhlwb' <lb/>ʾhlʾyyh Y lt' </ab>
+                        <ab n="c" xml:id="VrS1.14c">
+                            <abbr>ńiuu.</abbr>
+                            <abbr>haṇ.</abbr> spəṇtā⸳maińii <lb break="no"/>ə̄uš. gāϑaiiā̊.
+                            aṣ̌aōniiā̊. aṣ̌ahe. raϑ <lb break="no"/>βō.</ab>
+                        <ab n="Translation.c" xml:id="VrS1.14Translation.c" xml:lang="Pahl">nwykynm
+                            W hngltynm spndrmt' gʾs Y ʾhlwb' ʾhlʾyyh <lb/> lt' . </ab>
+                        <ab n="d" xml:id="VrS1.14d">
+                            <abbr>ńiuu.</abbr>
+                            <abbr>haṇ.</abbr> vərəϑraγnahe. ahuraδāta <lb break="no"/>he.
+                            vanaiṇtiiā̊sca. uparatāto. aṣ̌ <pb n="617" break="no"/>
+                            <lb break="no"/> aōnō. aṣ̌ahe. raϑβō.</ab>
+                        <ab n="Translation.d" xml:id="VrS1.14Translation.d" xml:lang="Pahl">nwykynm
+                            W hngltyn <lb break="no"/>m pylwc<lb break="no"/>gklyh ʾwhrmẕddʾt
+                            wʾnytʾlyh Y c Y PWN Q̱DM lwbšnyh wlhlʾn' <lb/> yẕdt' </ab>
+                    </div>
+
+                    <div n="15" type="Stanza" xml:id="VrS1.15">
+                        <ab n="a" xml:id="VrS1.15a">
+                            <abbr>ńiuu.</abbr>
+                            <abbr>ha.</abbr> vohu⸳xšaϑraiiā̊. gāϑaii <lb break="no"/>ā̊. aṣ̌aōniiā̊.
+                            aṣ̌ahe. raϑβō.</ab>
+                        <ab n="Translation.a" xml:id="VrS1.15Translation.a" xml:lang="Pahl">nwykynm
+                            W hnglt<lb break="no"/>ynm whwkhštl gʾs Y ʾhlwb ʾhlʾyyh lt'</ab>
+                        <ab n="b" xml:id="VrS1.15b">
+                            <abbr>ńiuu.</abbr>
+                            <abbr>h <lb break="no"/>aṇ.</abbr> miϑrahe. vōuru⸳gaōiiaōitōiš.
+                            <lb/>rāmanasca⸳xᵛāstrahe. aṣ̌aōnō. aṣ̌ah <lb break="no"/>e. raϑβō.</ab>
+                        <ab n="Translation.b" xml:id="VrS1.15Translation.b" xml:lang="Pahl">nwykynm
+                            W hngltynm mtr' Y plʾhwgʾwywt' Y<lb/> lʾmšn' hwʾlwm ʾhlwb ʾhlʾyyh lt' </ab>
+                        <ab n="c" xml:id="VrS1.15c">
+                            <abbr>ńiuu.</abbr>
+                            <abbr>haṇ.</abbr> va <lb break="no"/>hištōištōiš. gāϑaiiā̊. aṣ̌aōniiā̊.
+                            a <lb break="no"/>ṣ̌ahe. raϑβō.</ab>
+                        <ab n="Translation.c" xml:id="VrS1.15Translation.c" xml:lang="Pahl">nwykynm
+                            W hngltynm whyštwkyšt' gʾs Y <lb/> ʾhlwb ʾhlʾyyh lt'</ab>
+                        <ab n="d" xml:id="VrS1.15d">
+                            <abbr>ńiuu.</abbr>
+                            <abbr>haṇ.</abbr> dahmaiiā̊. vaŋ <lb break="no"/>huiiā̊. āfritōiš
+                            dahmaheca. narš. aṣ̌ <lb break="no"/>aōnō. uγraheca. taxmahe. dāmōiš.
+                            upam <lb break="no"/>anahe. yazatahe. aṣ̌aōnō. aṣ̌ahe. raϑ <lb break="no"/>βō.</ab>
+                        <ab n="Translation.d" xml:id="VrS1.15Translation.d" xml:lang="Pahl">nwykynm
+                            W hngltynm dʾhmʾn' ŠPYLʾn' ʾpryyn'c dʾhmc <lb/>Q̱DM GBRA Y ʾhlwb' Y ZKc
+                            Y cyl Y tkyk dʾhm <lb/>Q̱DM PWN mynšn' <pb n="618"/>
+                            <lb/> yẕdt' Y ʾhlwb' ʾhlʾyyh Y lt' .</ab>
+                    </div>
+
+                    <div n="16" type="Stanza" xml:id="VrS1.16">
+                        <ab n="a" xml:id="VrS1.16a">
+                            <abbr>ńiuu.</abbr>
+                            <abbr>ha.</abbr> airiiaman <lb break="no"/>ō. išiiehe. aṣ̌aōnō. aṣ̌ahe.
+                            raϑβō.</ab>
+                        <ab n="Translation.a" xml:id="VrS1.16Translation.a" xml:lang="Pahl">
+                            <lb/>nwykynm W hngltynm ʾylmʾn BOYHWNšnyh ʾhlwb' Y ʾhlʾyyh lt' .</ab>
+                        <ab n="b" xml:id="VrS1.16b">
+                            <lb/>
+                            <abbr>ńiuu.</abbr>
+                            <abbr>ha.</abbr> fšīšō⸳mąϑrahe. aṣ̌aōnō. a <lb break="no"/>ṣ̌ahe.
+                            raϑβō.</ab>
+                        <ab n="Translation.b" xml:id="VrS1.16Translation.b" xml:lang="Pahl">nwykynm
+                            W hngltynm pšwwšw' mʾnsl Y <lb/> ʾhlwb' Y ʾhlʾyyh lt' </ab>
+                        <ab n="c" xml:id="VrS1.16c">
+                            <abbr>ńiuu.</abbr>
+                            <abbr>haṇ.</abbr> ratə̄uš. bərəz <lb break="no"/>ō. haδaōxδahe. <app>
+                                <rdg type="lit">
+                                    <seg type="1"/>
+                                    <seg type="2">aṣ̌aōnō.</seg>
+                                </rdg>
+                                <rdg type="orig"/>
+                                <rdg type="mod" resp="1">aṣ̌aōnō.</rdg>
+                            </app> aṣ̌ahe. raϑβō.</ab>
+                        <ab n="Translation.c" xml:id="VrS1.16Translation.c" xml:lang="Pahl">nwykynm W hngltynm lt' Y bwlnd  
+                            hʾtwxt' ʾhlwb' ʾhlʾyyh lt'  </ab>
+                    </div>
+
+                    <div n="17" type="Stanza" xml:id="VrS1.17">
+                        <ab n="a" xml:id="VrS1.17a">
+                            <lb/>
+                            <abbr>ńiuu.</abbr>
+                            <abbr>ha.</abbr> āhurōiš. frašnahe. āhurōi <lb break="no"/>š.
+                            t̰kaēṣ̌ahe. āhurōiš. dax́iiumahe. <lb/>āhurōiš. zaraϑuštrōtəmahe.
+                            aṣ̌aōnō. a <lb break="no"/>ṣ̌ahe. raϑβō.</ab>
+                        <ab n="Translation.a" xml:id="VrS1.17Translation.a" xml:lang="Pahl">nwykynm W hngltynm ZK Y ʾwhrmẕd <lb/> pwrsšn' ʾp̄stʾk W znd  
+                            ZK Y ʾwhrmẕd dyn Y pyšymʾlyh
+                            <lb/>W psymʾlyh ZK Y ʾwhrmẕd MTA W PWN ʾywk L kyh W ZK Y <lb/> ʾwhrmẕd W zltwhšt' MTA W dhywpt' ʾhlwb' ʾhlʾyyh <lb/> lt' .</ab>
+                        <ab n="b" xml:id="VrS1.17b">hadišaheca. vastrauuatō. vāst <lb break="no"/>rō⸳bərətaheca. gaōuue. <app>
+                                <rdg type="lit">
+                                    <seg type="1">hudā̊ŋhe.</seg>
+                                    <seg type="2">huδā̊ŋhe.</seg>
+                                </rdg>
+                                <rdg type="orig">hudā̊ŋhe.</rdg>
+                                <rdg type="mod">huδā̊ŋhe.</rdg>
+                            </app> gaōi <pb n="619" break="no"/>
+                            <lb break="no"/> diieheca. narš. aṣ̌aōnō.</ab>
+                        <ab n="Translation.b" xml:id="VrS1.17Translation.b" xml:lang="Pahl">nwykynm W hngltynm <lb/>hdš 
+                             mynwy Y hʾnk Y wʾstlʾwmnd AYḴš  ḆYN gwspnd  w<lb break="no"/>ʾstl lwbšnc Y gwspnd Y ʾn ʾk  ZK Y mynwy AMT
+                            gwspndʾn <lb/> lʾd LAWHL OḆYDWNd PWN lʾs ʾw' ZKc Y  gwspndʾn dʾštʾl 
+                            <lb/>GBRA ʾhlwb' pwsšhwlwn .</ab>
+                    </div>
+                </div>
+
+
+                <div n="2" type="chapter" xml:id="VrS2">
+                    <div n="Header" type="stanza" xml:id="VrS2Header">
+                        <ab n="a" xml:id="VrS2Header.a" xml:lang="Pahl">dtykl kltk' bwn</ab>
+                    </div>
+                    <div n="9" type="Stanza" xml:id="VrS2.9">
+                        <ab n="a" xml:id="VrS2.9a">
+                            <lb/>ahmiia. zaōϑre. barəsmanaēca. ratauu <lb break="no"/>ō. maińiiauua.
+                            āiiese. yešti.</ab>
+                        <ab n="Translation.a" xml:id="VrS2.9Translation.a" xml:lang="Pahl">PWN ẔNE
+                            zwhlk W<lb/> blswm lt'c mynwyʾn' ʾwhrmẕd BOYHWNm ʾw' ẔNE ycšn' </ab>
+                        <ab n="b" xml:id="VrS2.9b">rata <lb break="no"/>uuō. gaēϑaiia.
+                                <abbr>ā.</abbr>
+                            <abbr>y.</abbr>
+                        </ab>
+                        <ab n="c" xml:id="VrS2.9c">rat<gap unit="char" extent="3" reason="damage"/>ō. upāpa. <abbr>ā.</abbr>
+                            <lb break="no"/>
+                            <abbr>y.</abbr>
+                        </ab>
+                        <ab n="d" xml:id="VrS2.9d">ratauuō. up<gap unit="char" extent="3" reason="damage"/>a. <abbr>ā.</abbr>
+                            <abbr>y.</abbr>
+                        </ab>
+                        <ab n="e" xml:id="VrS2.9e">ra<unclear reason="damage">t</unclear>
+                            <gap unit="char" extent="5" reason="damage"/>
+                            <gap unit="char" extent="5" reason="damage"/>
+                            <lb break="no"/>ərəjāta. <gap unit="word" extent="10" reason="damage"/>
+                        </ab>
+                        <lb/>
+                        <gap unit="line" extent="1" reason="damage"/>
+                        <lb/>
+                        <gap unit="line" extent="1" reason="damage"/>
+                        <lb/>
+                        <gap unit="line" extent="1" reason="damage"/>
+                        <lb/>
+                        <gap unit="line" extent="1" reason="damage"/>
+                        <lb/>
+                        <gap unit="line" extent="1" reason="damage"/>
+                        <lb/>
+                        <gap unit="line" extent="1" reason="damage"/>
+                    </div>
+
+
+                    <pb n="620"/>
+                    <lb/>
+
+
+
+                    <div n="10" type="Stanza" xml:id="VrS2.10">
+                        <ab n="a" xml:id="VrS2.10a">
+                            <abbr>ah.</abbr> zaōϑre. barəsmanaēca. yāiriia. aṣ̌ <lb break="no"/>auuana. aṣ̌ahe. ratauuō. <abbr>ā.</abbr>
+                            <abbr>y.</abbr>
+                        </ab>
+                        <ab n="b" xml:id="VrS2.10b">maiδiiō <lb break="no"/>i⸳zarəmə̄m. paiiaŋhəm.
+                            aṣ̌auuanəm. aṣ̌ahe. <lb/>ratīm. <abbr>ā.</abbr>
+                            <abbr>y.</abbr>
+                        </ab>
+                        <ab n="Translation.a" xml:id="VrS2.10Translation.a" xml:lang="Pahl">PWN ẔNE zwhlk W blswm gʾsʾnbʾl
+                            <lb/>ʾhlwb' ʾhlʾyyh lt' BOYHWNm ʾw' ẔNE ycšn'.</ab>
+                        <ab n="c" xml:id="VrS2.10c">ahmiia. <lb/>maiδiiōi⸳šəməm. vāstrō⸳dātaēnīm.
+                            aṣ̌ <lb break="no"/>auuanəm. aṣ̌ahe. ratīm. <abbr>ā.</abbr>
+                            <abbr>y.</abbr>
+                        </ab>
+                        <ab n="Translation.c" xml:id="VrS2.10Translation.c" xml:lang="Pahl">PWN ẔNE zwhln' 
+                            <lb/>W blswm mytykššym Y wʾstl HCDLWNšn'yh ḆYN Y ʾhlwb' Y <lb/> ʾhlʾyyh lt' BOYHWNm ʾw' ẔNE ycšn' </ab>
+                        <ab n="d" xml:id="VrS2.10d">ahmiia. pai <lb break="no"/>tiš⸳hahīm. hahīm.
+                            aṣ̌auuanəm. aṣ̌ahe. <lb/>ratīm. <abbr>ā.</abbr>
+                            <abbr>y.</abbr>
+                        </ab>
+                        <ab n="Translation.d" xml:id="VrS2.10Translation.d" xml:lang="Pahl">PWN ẔNE zwhln' W blswm pytyšhyȳ Y
+                            <lb/>ʾhlwb' ʾhlʾyyh lt' BOYHWNm ʾw' ẔNE ycšn' .</ab>
+                        <ab n="e" xml:id="VrS2.10e">ahmiia. <lb/>aiiāϑrəməm. fraōuruuaēštrəməm.
+                            varəšne⸳h <lb break="no"/>arəštəməm. aṣ̌auuanəm. aṣ̌ahe. ratīm.
+                                <abbr>ā.</abbr>
+                            <lb/>
+                            <abbr>y.</abbr>
+                        </ab>
+                        <ab n="Translation.e" xml:id="VrS2.10Translation.e" xml:lang="Pahl">PWN ẔNE zwhln' W blswm ʾyʾslym Y plwtwšt' AMTš
+                            <lb/>YATWNyt MNW gwšn' ŠḆKWNšn'yh ptš ḆYN YATWNyt' ʾhlwb' <lb/>ʾhlʾyyh lt' BOYHWNm ʾw' ẔNE ycšn'.</ab>
+
+
+                        <pb n="621"/>
+                        <lb/>
+
+
+                        <ab n="f" xml:id="VrS2.10f">
+                            <lb/>
+                            <gap unit="line" extent="1" reason="damage"/>
+                            <lb/>
+                            <gap unit="line" extent="1" reason="damage"/>
+                            <lb/>
+                            <gap unit="line" extent="1" reason="damage"/>
+                        </ab>
+                        <ab n="g" xml:id="VrS2.10g">
+                            <lb/>
+                            <gap unit="line" extent="1" reason="damage"/>
+                            <lb/>
+                            <gap unit="line" extent="1" reason="damage"/>
+                            <lb/>
+                            <gap unit="line" extent="1" reason="damage"/>
+                        </ab>
+                    </div>
+
+                    <div n="11" type="Stanza" xml:id="VrS2.11">
+                        <ab n="a" xml:id="VrS2.11a">
+                            <lb/>
+                            <gap unit="line" extent="1" reason="damage"/>
+                            <lb/>
+                            <gap unit="line" extent="1" reason="damage"/>
+                            <lb/>
+                            <gap unit="line" extent="1" reason="damage"/>
+                            <lb/>
+                            <gap unit="line" extent="1" reason="damage"/>
+                            <lb break="no"/>īzanən.</ab>
+                        <ab n="b" xml:id="VrS2.11b">vīspe. tē. ratauuō. <abbr>ā.</abbr>
+                            <abbr>y.</abbr>
+                        </ab>
+                        <ab n="Translation.b" xml:id="VrS2.11Translation.b" xml:lang="Pahl">PWN ẔNE zwhlk' W blswm gyhʾnʾn' YHWWNšnyh Y ʾhlwb' ʾhlʾyyh 
+                            <lb/>lt' MNW ZK gwšn' ŠḆKWNšnyh OZLWNšn'yh ME W gwšnyh <lb/> Y̱LYDWNʾy Y̱LYDWNšnyh lʾd  ḆYN ʾp̄ʾyt BOYHWNm ʾw' ẔNE ycšn' <lb/>Pahl <lb/>Pahl.</ab>
+                        <ab n="c" xml:id="VrS2.11c">
+                            <lb/>yō. <unclear reason="damage">a</unclear>ōxta. ahurō. mazdā̊.
+                            zaraϑuštr <lb break="no"/>āi. y<unclear reason="damage">a</unclear>sniiāica. vahmiiāica. aṣ̌āt̰. <lb/>haca. yat̰.
+                            vahištāt̰.</ab>
+                        <ab n="Translation.c" xml:id="VrS2.11Translation.c" xml:lang="Pahl">ẔNE gwpt' ʾwhrmẕd <pb n="622"/>
+                            <lb/> OL zldwšt' ycšn' HWEd ngʾdšn HWEd ʾhlʾyyh  <lb/>pʾhlwm </ab>
+                    </div>
+
+                    <div n="12" type="Stanza" xml:id="VrS2.12">
+                        <ab n="a" xml:id="VrS2.12a"> ahmiia. ϑβąm ratīm. <abbr>ā.</abbr>
+                            <abbr>y.</abbr> yi <lb break="no"/>m ahurəm. mazdąm. maińiiā̊.
+                            maińiiauuanąm. <lb/>dāmanąm. maińiiaiiā̊. stōiš.</ab>
+                        <ab n="Translation.a" xml:id="VrS2.12Translation.a" xml:lang="Pahl">PWN ẔNE zwhlk W
+                            <lb/>blswm LK lt' BOYHWNm ʾw' ẔNE ycšn' MNW ʾwhrmẕd mynwyʾn'  <lb/>HWEyy mynwyʾn mynwy styy ʾhw Y lt' AYḴ hwtʾy dst'blyhʾ <lb/>.</ab>
+                        <ab n="b" xml:id="VrS2.12b">ahmiia. ϑβąm. ratīm. <abbr>ā.</abbr>
+                            <abbr>y.</abbr> yim. zara <lb break="no"/>ϑuštrəm. spitāməm. gaēϑīm.
+                            gaēϑiianą <lb break="no"/>m. dāmanąm. gaēϑiiaiiā̊. stōiš. ahīm <lb break="no"/>ca. ratīmca.</ab>
+                        <ab n="Translation.b" xml:id="VrS2.12Translation.b" xml:lang="Pahl">PWN ẔNE zwhlk' W blswmc LK lt' BOYHWNm
+                            <lb/>ʾw' ẔNE ycšn' MNW zltwšt' spytʾmʾn' Y gytyy HWEyȳ  <lb/>ḆYN ZK gytyḏyyʾn' dʾmʾn'  gytyḏyyʾn' styy ʾhw' lt' AYḴ <lb/>dst'blyhʾ</ab>
+                    </div>
+
+                    <div n="13" type="Stanza" xml:id="VrS2.13">
+                        <ab n="a" xml:id="VrS2.13a" next="VrS2.13aM"> ahmiia. raϑβąm. framərətārəm. <lb/>
+                            <abbr>ā.</abbr>
+                            <abbr>y.</abbr> yim. narəm. aṣ̌auuanəm. diδrānəm.</ab>
+                        <ab n="Translation.a" xml:id="VrS2.13Translation.a" next="VrS2.13Translation.aM" xml:lang="Pahl">
+                            <lb/>PWN ẔNE zwhlk W blswmc lt' Y prʾc ʾwšmwltʾl BOYHWNm <lb/> ʾw' ẔNE ycšn' MNW GBRA ʾhlwb'd YHSNNd HNA AYḴ BRA  <lb/>LA ywdyt .</ab>
+                        <ab xml:id="VrS2.13aM" next="VrS2.13aF">humatəmca. manō. hīxtəmca. v <pb n="623" break="no"/>
+                            <lb break="no"/> acō. huuarəštəmca. š́ii<unclear reason="damage">a</unclear>ōϑanəm.</ab>
+                        <ab next="VrS2.13Translation.aF" xml:id="VrS2.13Translation.aM" xml:lang="Pahl">hwmt' 
+                            <lb/>mnytʾl PWN mynšn' hwht gwptʾl PWN gwbšn' W hwwlšt' <lb/>wlcytʾl PWN kwnšn'.</ab>
+                        <ab xml:id="VrS2.13aF">spəṇtąm. ārmaitīm. darə <lb break="no"/>təm. yōi.
+                            mąϑrəm. saōš́iiaṇtō. </ab>
+                        <ab n="b" xml:id="VrS2.13b">yeŋ́ <lb break="no"/>he. š́iiaōϑanāiš. gaēϑā̊.
+                            aṣ̌a. frā <lb break="no"/>dəṇte.</ab>
+                        <ab xml:id="VrS2.13Translation.aF" xml:lang="Pahl">bwndk dʾštʾl MNW mʾnsl Y swtʾwmndʾn'</ab> 
+                        <ab n="Translation.b" xml:id="VrS2.13Translation.b" xml:lang="Pahl">MNW 
+                            <lb/>PWN ZKY kwnšn' gyhʾn' Y ʾhlʾyyh lt' plʾdhšnyh AYḴ  <lb/>MN krt' OL BRA ʾp̄zʾyt'.</ab>
+                    </div>
+
+                    <div n="14" type="Stanza" xml:id="VrS2.14">
+                        <ab n="a" xml:id="VrS2.14a">ahmiia. <foreign xml:lang="Pahl">OD</foreign>
+                            sarəδa. a <lb break="no"/>ṣ̌auuana. aṣ̌ahe. ratauuō. <foreign xml:lang="Pahl">OD</foreign>
+                        </ab>
+                    </div>
+
+                    <div n="15" type="Stanza" xml:id="VrS2.15">
+                        <ab n="b" xml:id="VrS2.15b">γənā. hubaγ <lb break="no"/>ā̊. hufəδrīš.
+                            huraōδaŋhō. <abbr>ā.</abbr>
+                            <abbr>y.</abbr>
+                        </ab>
+                        <ab n="Translation.b" xml:id="VrS2.15Translation.b" xml:lang="Pahl"> NKḆʾn' Y
+                            <lb/>hwbhtʾn Y hwpyt Y hwlwst BOYHWNm ʾw' ẔNE ycšn' </ab>
+                        <ab n="c" xml:id="VrS2.15c">ahmii <lb break="no"/>a. ahumaṇtəm. ratumaṇtəm.
+                            aṣ̌auuanəm. <lb break="no"/>aṣ̌ahe. ratīm. <abbr>ā.</abbr>
+                            <abbr>y.</abbr> hō⸳zī. asti. ahu <lb break="no"/>maca. ratumca. yō.
+                            ahurō. mazdā̊.</ab>
+                        <ab n="Translation.c" xml:id="VrS2.15Translation.c" xml:lang="Pahl">PWN <lb/> ẔNE zwhlk' 
+                            blswmc ʾhwmndyh W ltʾwmndyh ʾhlwb' ʾhlʾyyh lt' BOYHWNm OL ẔNE ycšn ME ZK AYT' ʾhw' lt' MNW ʾwhrmẕd <lb/> OD LOYŠE cygwn ḆYN 
+                         <foreign xml:lang="Av">ńiuuaēδaiiemi</foreign>
+                            npšt' OD LOYŠE'</ab>
+                    </div>
+                </div>
+
+
+                <pb n="624"/>
+                <lb/>
+
+
+                <div n="11" type="chapter" xml:id="VrS11">
+                    <div n="Header" type="Stanza" xml:id="VrS11Header" next="VrS11HeaderF">
+                        <ab n="a" xml:id="VrS11Header.a" xml:lang="Pahl">stykl kltk' bwn</ab>
+                    </div>
+                    <div n="9" type="Stanza" xml:id="VrS11.9">
+                        <ab n="a" xml:id="VrS11.9a">hāuuanānəm. āstā <lb break="no"/>iia.</ab>
+                        <ab n="Nerang.a" xml:id="VrS11.9Nerang.a" xml:lang="Pahl">zwt
+                            YMRRWN-yt'</ab>
+                        <ab n="Translation.a" xml:id="VrS11.9Translation.a" xml:lang="Pahl">znd ẔNE
+                            AYK ʾm hʾwʾnyh W YKOYMWN-yn'<!--YKOYMWN-ṯ' / -x₁ ?-->.</ab>
+                        <ab n="b" xml:id="VrS11.9b">
+                            <lb/>azəm. vīsāi.</ab>
+                        <ab n="Nerang.b" xml:id="VrS11.9Nerang.b" xml:lang="Pahl">lʾspyk
+                            YMRRWN-yt'</ab>
+                        <ab n="Translation.b" xml:id="VrS11.9Translation.b" xml:lang="Pahl">znd ẔNE
+                            AYK ʾm <lb/>MKḆLWN-t'</ab>
+                        <ab n="c" xml:id="VrS11.9c">ātrauuaxšəm. āstāiia.</ab>
+                        <ab n="Nerang.c" xml:id="VrS11.9Nerang.c" xml:lang="Pahl">zwt
+                            YMRRWN-yt'</ab>
+                        <ab n="Translation.c" xml:id="VrS11.9Translation.c" xml:lang="Pahl">
+                            <lb/>znd ẔNE AYK ʾtlwhš YKOYMWN-yn'<!--YKOYMWN-ṯ' / -x₁ ?-->.</ab>
+                        <ab n="Nerang.d" xml:id="VrS11.9Nerang.d" xml:lang="Pahl">lʾspyk.</ab>
+                        <ab n="d" xml:id="VrS11.9d">azəm. vī <lb break="no"/>sāi.</ab>
+                        <ab n="Translation.d" xml:id="VrS11.9Translation.d" xml:lang="Pahl">ʾm
+                            MKḆLWN-t'.</ab>
+                        <ab n="e" xml:id="VrS11.9e">frabərətārəm. āstaiia.</ab>
+                        <ab n="Translation.e" xml:id="VrS11.9Translation.e" xml:lang="Pahl">
+                            <lb/>znd YMRRWN-yt' plbltʾl YKOYMN-yn'<!--YKOYMWN-ṯ' / -x₁ ?-->
+                        </ab>
+                        <ab n="Nerang.e" xml:id="VrS11.9Nerang.e" xml:lang="Pahl">lʾspyk
+                            YMRRWN-yt.</ab>
+                        <ab n="f" xml:id="VrS11.9f">azəm. vī <lb break="no"/>sāi.</ab>
+                        <ab n="Translation.f" xml:id="VrS11.9Translation.f" xml:lang="Pahl">znd
+                            YMRRWN-yt' ʾm MKḆLWN-t'.</ab>
+                        <ab n="g" xml:id="VrS11.9g">ābərətəm. āstāii <lb break="no"/>a.</ab>
+                        <ab n="Translation.g" xml:id="VrS11.9Translation.g" xml:lang="Pahl">znd
+                            YMRRWN-yt' AYK ʾbltyh YḴOYMWN-yn'<!--YKOYMWN-ṯ' / -x₁ ?-->
+                        </ab>
+                        <ab n="Nerang.f" xml:id="VrS11.9Nerang.f" xml:lang="Pahl">lʾspyk
+                            YMRRWN-yt'.</ab>
+                        <ab n="h" xml:id="VrS11.9h">az <lb break="no"/>əm. vīsāi.</ab>
+                        <ab n="Translation.h" xml:id="VrS11.9Translation.h" xml:lang="Pahl">
+                            <app>
+                                <rdg type="lit">
+                                    <seg type="1">zwt</seg>
+                                    <seg type="2">znd</seg>
+                                </rdg>
+                                <rdg type="orig">zwt</rdg>
+                                <rdg type="mod">znd</rdg>
+                            </app> ẔNE AYK ʾm MKḆLWN-t'.</ab>
+                        <ab n="i" xml:id="VrS11.9i">āsnatā <lb break="no"/>rəm. āstāiia.</ab>
+                        <ab n="Translation.i" xml:id="VrS11.9Translation.i" xml:lang="Pahl">znd
+                            YMLLWN-yt' AYK ʾsn'tʾlyh YKOYMWN-yn'<!--YKOYMWN-ṯ' / -x₁ ?-->
+                        </ab>
+                        <ab n="Nerang.g" xml:id="VrS11.9Nerang.g" xml:lang="Pahl">
+                            <lb/>lʾspyk YMRRWN-yt'.</ab>
+                        <ab n="j" xml:id="VrS11.9j">azəm. vīsāi.</ab>
+                        <ab n="Translation.j" xml:id="VrS11.9Translation.j" xml:lang="Pahl">znd
+                            YMRRWN-yt' AYK ʾm <lb/>MKḆLWN-t'.</ab>
+                        <ab n="k" xml:id="VrS11.9k">raēϑβiškarəm. āstāiia.</ab>
+                        <ab n="Translation.k" xml:id="VrS11.9Translation.k" xml:lang="Pahl">znd
+                            YMRRWN-yt' <lb/>AYK lyspyškʾlyh YKOYMWN-yn'<!--YKOYMWN-ṯ' / -x₁ ?-->
+                        </ab>
+                        <ab n="Nerang.h" xml:id="VrS11.9Nerang.h" xml:lang="Pahl">lʾsp̄yk
+                            YMRRWN-yt'.</ab>
+                        <ab n="l" xml:id="VrS11.9l">azəm. vī <lb break="no"/>sāi.</ab>
+                        <ab n="Translation.l" xml:id="VrS11.9Translation.l" xml:lang="Pahl">znd
+                            YMRRWN-yt' AYKʾm MKḆLWN-t'.</ab>
+                        <ab n="m" xml:id="VrS11.9m">sraōṣ̌āuua <lb break="no"/>rzəm. āstāiia.
+                            dąhištəm. arṣ̌uuacastəməm.</ab>
+                        <ab n="Translation.m" xml:id="VrS11.9Translation.m" xml:lang="Pahl">
+                            <lb/>slwšʾwlc YKOYMN-yn'<!--YKOYMWN-ṯ' / -x₁ ?-->
+                        </ab>
+                        <ab n="Translation.n" xml:id="VrS11.9Translation.n" xml:lang="Pahl">dʾnʾk
+                            twm lʾst' gwbšn' twm</ab>
+                        <ab n="Nerang.i" xml:id="VrS11.9Nerang.i" xml:lang="Pahl">lʾsp̄yk.</ab>
+
+
+                        <pb n="625"/>
+                        <lb/>
+
+
+                        <ab n="n" xml:id="VrS11.9n">azəm. vīsāi.</ab>
+                        <ab n="Translation.o" xml:id="VrS11.9Translation.o" xml:lang="Pahl">znd
+                            YMRRWN-yt' AYK ʾm. MKḆLWN-t'.</ab>
+                    </div>
+
+                    <div n="10" type="Stanza" xml:id="VrS11.10">
+                        <ab n="a" xml:id="VrS11.10a">āϑrauuanəm. āstāiia. raϑaēštārəm. ā <lb break="no"/>stāiia.</ab>
+                        <ab n="b" xml:id="VrS11.10b">vāstrīm. fšuiiaṇtəm. āstā <lb break="no"/>iia.</ab>
+                        <ab n="Nerang.a" xml:id="VrS11.10Nerang.a" xml:lang="Pahl">zwt W lʾsp̄yk KRA
+                            2 YMRRWN-yt' AYḴ</ab>
+                        <ab n="Translation.b" xml:id="VrS11.10Translation.b" xml:lang="Pahl">Pahl
+                            <lb/>Pahl.</ab>
+                        <ab n="c" xml:id="VrS11.10c">nmāna <lb break="no"/>he. nmānō.paitīm.
+                            āstāiia. vīsō. v <lb break="no"/>īspaitīm. āstāiia. zaṇtə̄uš. zaṇtō. <lb break="no"/>paitīm. āstāiia. daŋhə̄uš. daŋhō.pat <lb break="no"/>ō.
+                            āstāiia.</ab>
+                        <ab n="Translation.c" xml:id="VrS11.10Translation.c" xml:lang="Pahl">Pahl
+                            <lb/>Pahl <lb/>Pahl.</ab>
+                    </div>
+
+                    <div n="11" type="Stanza" xml:id="VrS11.11">
+                        <ab n="a" xml:id="VrS11.11a">yauuānəm. hu.manaŋhəm. huuacaŋ <lb break="no"/>həm. huš́iiaōϑanəm. hudaēnəm. āstāiia <lb/>yauuānəm. uxδō.vacaŋhəm.
+                            āstāiia. xᵛ <lb break="no"/>aēϑuuadaϑəm. āstāiia.</ab>
+                        <ab n="Translation.a" xml:id="VrS11.11Translation.a" xml:lang="Pahl">Pahl
+                            <lb/>Pahl <lb/>Pahl.</ab>
+                        <ab n="b" xml:id="VrS11.11b">daŋhu.uruuaēsəm. āstā <lb break="no"/>iia.
+                            humāiium. pairi.jaϑnəm. āstāiia. nm <pb n="626" break="no"/>
+                            <lb break="no"/> ā.nahe. nmānō.paϑnīm. āstāiia.</ab>
+                        <ab n="Translation.b" xml:id="VrS11.11Translation.b" xml:lang="Pahl">Pahl
+                            <lb/>Pahl <lb/>Pahl.</ab>
+                    </div>
+
+                    <div n="12" type="Stanza" xml:id="VrS11.12">
+                        <ab n="a" xml:id="VrS11.12a">nāirikąmca. <lb/>
+                            <gap unit="char" extent="1" reason="damage"/>st<gap unit="char" extent="4" reason="damage"/>. frāiiō.humatəm. frāiiō.hī <lb break="no"/>xtəm. fr<unclear reason="damage">ā</unclear>iiō.huuarəštəm. huš.hąm.sās <lb break="no"/>tąm.
+                            ratuxšaϑrąm. aṣ̌aōnīm.</ab>
+                        <ab n="Translation.a" xml:id="VrS11.12Translation.a" xml:lang="Pahl">Pahl
+                            <lb/>Pahl <lb/>Pahl.</ab>
+                        <ab n="b" xml:id="VrS11.12b">y <lb break="no"/>ąm. ārmaitīm. spəṇtąm.
+                            yā̊sca. tē. γə <lb break="no"/>n<unclear reason="damage">ā̊.</unclear>
+                            ahura. mazda.</ab>
+                        <ab n="Translation.b" xml:id="VrS11.12Translation.b" xml:lang="Pahl">Pahl
+                            <lb/>Pahl <lb/>Pahl.</ab>
+                        <ab n="c" xml:id="VrS11.12c">narəmca. yim. <lb/>aṣ̌auuanəm. āstāiia.
+                            frāiiō.humatəm. <lb/>frāiiō.hīxtəm. frāiiō.huuarəštəm.</ab>
+                        <ab n="Translation.c" xml:id="VrS11.12Translation.c" xml:lang="Pahl">Pahl
+                            <lb/>Pahl <lb/>Pahl.</ab>
+                        <ab n="d" xml:id="VrS11.12d">vistō.fraōiritīm. <lb/>iuuistō.kaiiaδəm.</ab>
+                        <ab n="e" xml:id="VrS11.12e">yeŋ́hē. š́iiaōϑanā <pb n="627" break="no"/>
+                            <lb break="no"/> iš. gaēϑā̊. aṣ̌a. frādəṇte.</ab>
+                        <ab n="Translation.d" xml:id="VrS11.12Translation.d" xml:lang="Pahl">Pahl
+                            <lb/>Pahl <lb/>Pahl.</ab>
+                        <ab n="Translation.e" xml:id="VrS11.12Translation.e" xml:lang="Pahl">Pahl
+                            <lb/>Pahl.</ab>
+                    </div>
+
+                    <div n="13" type="Stanza" xml:id="VrS11.13">
+                        <ab n="a" xml:id="VrS11.13a">
+                            <lb/>āat̰. vō. kascit̰. mazdaiiasnanąm. ratīš <lb/>āmrīmaide. ratīš.
+                            āstāiia.maide.</ab>
+                        <ab n="Translation.a" xml:id="VrS11.13Translation.a" xml:lang="Pahl">Pahl
+                            <lb/>Pahl.</ab>
+                        <ab n="b" xml:id="VrS11.13b">aməṣ̌ə̄sca. spəṇtə̄. saōš́iiaṇtasc<gap unit="char" extent="2" reason="damage"/>
+                            <lb/>dąhištə̄.</ab>
+                        <ab n="Translation.b" xml:id="VrS11.13Translation.b" xml:lang="Pahl">Pahl
+                            <lb/>Pahl <lb/>Pahl.</ab>
+                        <ab n="c" xml:id="VrS11.13c">
+                            <lb/>aršuuacastəməm. aiβiiā.matəmąm. aṣ̌.xᵛ <lb break="no"/>arā.xᵛanu.təmąm.</ab>
+                        <ab n="Translation.c" xml:id="VrS11.13Translation.c" xml:lang="Pahl">Pahl
+                            <lb/>Pahl <lb/>Pahl <lb/>Pahl.</ab>
+                        <ab n="d" xml:id="VrS11.13d">mazištąn̄. amąn. ām <lb break="no"/>rīmaide.
+                            daēnaiiā̊. māzdaiiasnōiš.</ab>
+
+
+                        <pb n="628"/>
+                        <lb/>
+
+
+                        <ab n="Translation.d" xml:id="VrS11.13Translation.d" xml:lang="Pahl">Pahl
+                            <lb/>Pahl.</ab>
+                        <ab n="e" xml:id="VrS11.13e">aϑa.urunąscā. raϑaēštārə̄scā. <lb/>vāstriiąscā.
+                            fšuiiaṇtō.</ab>
+                        <ab n="Translation.e" xml:id="VrS11.13Translation.e" xml:lang="Pahl">Pahl
+                            <lb/>Pahl <lb/>Pahl.</ab>
+                    </div>
+
+                    <div n="24" type="stanza" xml:id="VrS11.24">
+                        <ab n="WazGr" xml:id="VrS11.24WazGr">yō. ātrauua <lb break="no"/>xšō.</ab>
+                        <ab n="Translation.a" xml:id="VrS11.24Translation.a" xml:lang="Pahl">Pahl.</ab>
+                    </div>
+
+                    <div n="25" type="Stanza" xml:id="VrS11.25">
+                        <ab n="a" xml:id="VrS11.25a">tīm <lb/>nō. āϑrīm. zaōtastī.</ab>
+                        <ab n="Translation.a" xml:id="VrS11.25Translation.a" xml:lang="Pahl">Pahl
+                            <lb/>Pahl.</ab>
+                        <ab n="b" xml:id="VrS11.25b" next="VrS11.25bF"> azəm <lb/>aēta. zaōta.
+                            vīsāi. staōtanąm. ye <lb break="no"/>niiąm.</ab>
+                        <ab n="Translation.b" xml:id="VrS11.25Translation.b" xml:lang="Pahl">Pahl
+                            <lb/>Pahl.</ab>
+                        <ab xml:id="VrS11.25bF">fra.sraōϑrəmca.</ab>
+                        <ab n="Translation.c" xml:id="VrS11.25Translation.c" xml:lang="Pahl">Pahl.</ab>
+                        <ab n="c" xml:id="VrS11.25c">
+                            <lb/>fra.mərəϑrəmca.</ab>
+                        <ab n="Translation.d" xml:id="VrS11.25Translation.d" xml:lang="Pahl">Pahl</ab>
+                        <ab n="d" xml:id="VrS11.25d">fra.gāϑ <lb break="no"/>rəmca.</ab>
+                        <ab n="Translation.e" xml:id="VrS11.25Translation.e" xml:lang="Pahl">Pahl.</ab>
+                        <ab n="e" xml:id="VrS11.25e">frā.iiaštīmca.</ab>
+                        <ab n="Translation.f" xml:id="VrS11.25Translation.f" xml:lang="Pahl">Pahl.</ab>
+                    </div>
+
+                    <lb/>
+                    <div type="Stanza" xml:id="VrS11HeaderF">
+                        <ab n="b" xml:id="VrS11Header.b" xml:lang="Pahl"> chʾlwm kltk' bwn</ab>
+                    </div>
+                    <div n="34" type="Stanza" xml:id="VrS11.34">
+                        <ab n="a" xml:id="VrS11.34a">
+                            <lb/>āca. manō. matāca. <abbr>yaz.</abbr>
+                        </ab>
+                        <ab n="Translation.a" xml:id="VrS11.34Translation.a" xml:lang="Pahl">Pahl
+                            <lb/>Pahl.</ab>
+                        <ab n="b" xml:id="VrS11.34b">vaŋhīmca. ādąm <lb/>vaŋhīmca. aṣ̌īm. vaŋhīmca.
+                            cistīm <pb n="629"/>
+                            <lb/> vaŋhīmca. druuatātəm.</ab>
+                        <ab n="Translation.b" xml:id="VrS11.34Translation.b" xml:lang="Pahl">Pahl
+                            <lb/>Pahl <lb/>Pahl.</ab>
+                        <ab n="c" xml:id="VrS11.34c">auui. ratəūš. auui. ra <lb break="no"/>ϑβiia.
+                            gərəṇti.</ab>
+                        <ab n="Translation.c" xml:id="VrS11.34Translation.c" xml:lang="Pahl">Pahl
+                            <lb/>Pahl.</ab>
+                    </div>
+
+                    <div n="35" type="Stanza" xml:id="VrS11.35">
+                        <ab n="a" xml:id="VrS11.35a">frā. gauui. vərəzaṇdiiāi. mazdaii <lb break="no"/>asna. zaraϑuštraiiō.</ab>
+                        <ab n="Translation.a" xml:id="VrS11.35Translation.a" xml:lang="Pahl">Pahl
+                            <lb/>Pahl.</ab>
+                        <ab n="b" xml:id="VrS11.35b">ā.hīm. vaēδaiiamnahe. <lb/>raϑβaēca.
+                            miiazdaēca. raϑβaēca. ratufri <lb break="no"/>taiiaēca.</ab>
+                        <ab n="Translation.b" xml:id="VrS11.35Translation.b" xml:lang="Pahl">Pahl
+                            <lb/>Pahl.</ab>
+                        <ab n="c" xml:id="VrS11.35c">vīspaiiā̊. sąc <lb break="no"/>at̰ca. aṣ̌aonō.
+                            staōiš. yasnāica. <abbr>v <lb break="no"/>ah.</abbr>
+                            <abbr>xš.</abbr>
+                            <abbr>fra.</abbr>
+                        </ab>
+                        <ab n="Translation.c" xml:id="VrS11.35Translation.c" xml:lang="Pahl">Pahl
+                            <lb/>Pahl.</ab>
+                    </div>
+                </div>
+                <lb/>
+                <div n="14" type="chapter" xml:id="VrS14">
+                    <div n="Header" type="stanza" xml:id="VrS14Header">
+                        <ab n="a" xml:id="VrS14Header.a" xml:lang="Pahl">pncwm krtk' bwn</ab>
+                    </div>
+                    <div n="1" type="stanza" xml:id="VrS14.1">
+                        <ab n="a" xml:id="VrS14.1a" next="VrS14.1aF">vīse. vō. aməṣ̌ <lb break="no"/>a. spəṇta. staōta. zaōta. zbāta. ya <lb break="no"/>šta. framərəta.
+                            aibi.jarəta⁛</ab>
+                        <ab n="Transl.a" xml:id="VrS14.1Transl.a" xml:lang="Pahl">Pahlavi
+                            <lb/>Pahlavi <pb n="630"/>
+                            <lb/>Pahlavi</ab>
+                        <ab xml:id="VrS14.1aF">yīšmākəm. yasnā <lb break="no"/>ica. vahmāica.
+                                <abbr>xš.</abbr>
+                            <abbr>f.</abbr> yat̰. aməṣ̌anąm <lb/>spəṇtanąm. </ab>
+                        <ab n="Transl.b" xml:id="VrS14.1Transl.b" xml:lang="Pahl">Pahlavi
+                            <lb/>Pahlavi </ab>
+                        <ab n="b" xml:id="VrS14.1b">aɱākəm. ha <lb break="no"/>uuaŋhāica.
+                            ratufritaiiaēca. aṣ̌auuasta <lb break="no"/>iiaēca. vərəϑraγnaiiaēca.
+                            hurunaiiaēca. y <lb break="no"/>at̰. saōš́iiantąm. aṣ̌aonąm⁛</ab>
+                        <ab n="Transl.c" xml:id="VrS14.1Transl.c" xml:lang="Pahl">Pahlavi
+                            <lb/>Pahlavi <lb/>Pahlavi</ab>
+                    </div>
+                    <div n="2" type="stanza" xml:id="VrS14.2">
+                        <ab n="a" xml:id="VrS14.2a">pairī.vī. aməṣ̌ā. s <lb break="no"/>pəntā.
+                            huxšaϑrā. huδā̊ŋhō. daδąmi. ta <lb break="no"/>nuuascīt̰. xᵛax́iiā̊.
+                            uštanəm.</ab>
+                        <ab n="b" xml:id="VrS14.2b">pairi. vīspā <lb/>hujītaiiō⁛</ab>
+                        <ab n="Transl.a" xml:id="VrS14.2Transl.a" xml:lang="Pahl">Pahlavi
+                            <lb/>Pahlavi</ab>
+                    </div>
+                    <lb/>
+                    <div n="3" type="stanza" xml:id="VrS14.3">
+                        <ab n="a" xml:id="VrS14.3a">frā. tē. vərənē. ahe. daēnaiia. ašāum. a <lb break="no"/>hura. mazda⁛</ab>
+                        <ab n="Transl.a" xml:id="VrS14.3Transl.a" xml:lang="Pahl">Pahlavi</ab>
+                        <lb/>
+                        <ab n="b" xml:id="VrS14.3b">mazdaiiasnō. zaraϑuštriš. vaēdaēuuō. <foreign xml:lang="Pahl">cygwn <lb/>npšt' OD LOYŠE'.</foreign>
+                        </ab>
+                    </div>
+                </div>
+                <div n="15" type="chapter" xml:id="VrS15">
+                    <div n="Header" type="stanza" xml:id="VrS15Header">
+                        <ab n="a" xml:id="VrS15Header.a" xml:lang="Pahl">ššwm kltk' bwn.</ab>
+                    </div>
+                    <pb n="631"/>
+                    <lb/>
+                    <div n="1" type="stanza" xml:id="VrS15.1">
+                        <ab n="a" xml:id="VrS15.1a">sastica. vantāca. rafnaŋhāca.</ab>
+                        <lb/>
+                        <ab n="Transl.a" xml:id="VrS15.1Transl.a" xml:lang="Pahl">Pahlavi</ab>
+                        <ab n="b" xml:id="VrS15.1b">vīϑušaēibiia <lb break="no"/>sca. zaōϑrābiiō.
+                            aršuxδaēibiiasca. vāγ <lb break="no"/>žibiiō⁛</ab>
+                        <ab n="Transl.b" xml:id="VrS15.1Transl.b" xml:lang="Pahl">Pahlavi
+                            <lb/>Pahlavi</ab>
+                        <ab n="c" xml:id="VrS15.1c">aməṣ̌aē. <lb/>spəṇtə̄. vaŋhə̄uš. srīrāiš. nāmąn.
+                            āzba <lb/>iia⁛</ab>
+                        <ab n="Transl.c" xml:id="VrS15.1Transl.c" xml:lang="Pahl">Pahlavi
+                            <lb/>Pahlavi</ab>
+                        <ab n="d" xml:id="VrS15.1d">aməṣ̌ə̄. spəntə̄. vaŋhə̄uš. srīrā <lb break="no"/>iš. nāmąm. aṣ̌aahe.</ab>
+                        <ab n="e" xml:id="VrS15.1e">frāiiezi. bərəja.</ab>
+                        <lb/>
+                        <ab n="Transl.d" xml:id="VrS15.1Transl.d" xml:lang="Pahl">Pahlavi
+                            <lb/>Pahlavi <lb/>Pahlavi</ab>
+                    </div>
+                </div>
+
+                <div n="18" type="chapter" xml:id="VrS18">
+                    <div n="Header" type="stanza" xml:id="VrS18Header">
+                        <ab n="a" xml:id="VrS18Header.a" xml:lang="Pahl">hptwm krtk' bwn.</ab>
+
+                    </div>
+                    <lb/>
+                    <div n="1" type="stanza" xml:id="VrS18.1">
+                        <ab n="a" xml:id="VrS18.1a"> vaca. aršuxδa. <abbr>yaz ⁛</abbr>
+                        </ab>
+                        <ab n="Transl.a" xml:id="VrS18.1Transl.a" xml:lang="Pahl">Pahlavi
+                            <lb/>Pahlavi</ab>
+                        <ab n="b" xml:id="VrS18.1b">sraōšəm. aṣ̌im. <abbr>y.</abbr>
+                        </ab>
+                        <ab n="c" xml:id="VrS18.1c"> aṣ̌īm. vaŋh <lb break="no"/>īm. <abbr>y.</abbr>
+                        </ab>
+                        <ab n="d" xml:id="VrS18.1d">nairim. saŋhəm. <abbr>yaz⁛</abbr>
+                        </ab>
+                        <ab n="Transl.b" xml:id="VrS18.1Transl.b" xml:lang="Pahl">Pahlavi</ab>
+                        <lb/>
+                        <ab n="e" xml:id="VrS18.1e">āxštīm. hṇm.vaintīm. <abbr>yaz⁛</abbr>
+                        </ab>
+                        <ab n="Transl.c" xml:id="VrS18.1Transl.c" xml:lang="Pahl">Pahlavi <pb n="632"/>
+                            <lb/>Pahlavi</ab>
+                        <ab n="f" xml:id="VrS18.1f">astərətaca. amuiiamna. <abbr>ya <lb break="no"/>z⁛</abbr>
+                        </ab>
+                        <ab n="Transl.d" xml:id="VrS18.1Transl.d" xml:lang="Pahl">Pahlavi</ab>
+                        <ab n="g" xml:id="VrS18.1g">aṣ̌ <lb break="no"/>aōnąmca. frauuaṣ̌aiiō.
+                                <abbr>yaz⁛</abbr>
+                        </ab>
+                        <ab n="Transl.e" xml:id="VrS18.1Transl.e" xml:lang="Pahl">Pahlavi
+                            <lb/>Pahlavi</ab>
+                        <ab n="h" xml:id="VrS18.1h">cinuuatō. pərətīm. <abbr>yaz⁛</abbr>
+                        </ab>
+                        <ab n="Transl.f" xml:id="VrS18.1Transl.f" xml:lang="Pahl">Pahlavi
+                            <lb/>Pahlavi</ab>
+                        <ab n="i" xml:id="VrS18.1i">garō.nmānəm. ahurahe. mazdā̊. <lb/>
+                            <abbr>yaz⁛</abbr>
+                        </ab>
+                        <ab n="Transl.g" xml:id="VrS18.1Transl.g" xml:lang="Pahl">Pahlavi</ab>
+                        <ab n="j" xml:id="VrS18.1j">vahištəm. a <lb break="no"/>hīm. aṣ̌aōnąm.
+                                <abbr>yaz⁛</abbr> raōcaŋhəm. vīspō. <lb break="no"/>xᵛāϑrəm⁛</ab>
+                        <ab n="Transl.h" xml:id="VrS18.1Transl.h" xml:lang="Pahl">Pahlavi
+                            <lb/>Pahlavi</ab>
+                    </div>
+                    <div n="2" type="stanza" xml:id="VrS18.2">
+                        <ab n="a" xml:id="VrS18.2a">vahištahe. aŋhə̄uš. vahiš <lb break="no"/>tąm.
+                            aiianąm. <abbr>yaz⁛</abbr>
+                        </ab>
+                        <ab n="Transl.a" xml:id="VrS18.2Transl.a" xml:lang="Pahl">Pahlavi
+                            <lb/>Pahlavi</ab>
+                        <ab n="b" xml:id="VrS18.2b">arəš <lb break="no"/>tātəm. <abbr>yaz⁛</abbr>
+                        </ab>
+                        <ab n="Transl.b" xml:id="VrS18.2Transl.b" xml:lang="Pahl">Pahlavi</ab>
+                        <ab n="c" xml:id="VrS18.2c" next="VrS18.2cF">vaŋhīm. f <lb break="no"/>rādat̰.gaēϑąm. varədat̰.gaēϑąm. sauuō.g <lb break="no"/>aēϑąm. yąm.
+                            daēnąm. māzdaiiasnim⁛</ab>
+                        <ab n="Transl.c" xml:id="VrS18.2Transl.c" xml:lang="Pahl">Pahlavi
+                            <lb/>Pahlavi <lb/>Pahlavi</ab>
+                        <ab xml:id="VrS18.2cF">rašnīm. razištəm. <abbr>yaz⁛</abbr>
+                        </ab>
+                        <ab n="d" xml:id="VrS18.2d">m <lb break="no"/>iϑrəm. vouru.gaōiiaoitīm.
+                                <abbr>yaz⁛</abbr>
+                        </ab>
+                        <ab n="Transl.d" xml:id="VrS18.2Transl.d" xml:lang="Pahl">Pahlavi <pb n="633"/>
+                            <lb/>Pahlavi</ab>
+                        <ab n="e" xml:id="VrS18.2e">rauuīm. parəṇdī <lb break="no"/>m.
+                                <abbr>y⁛</abbr> rauuīm. rauuō.manaŋhąm. rauuīm. ra <lb break="no"/>uuō.vacaŋhąm. rauuīm. rauuō. š́iiaoϑina <lb break="no"/>nąm.
+                            frātanuuō. ranjaiieiti⁛ </ab>
+                        <ab n="Transl.e" xml:id="VrS18.2Transl.e" xml:lang="Pahl">Pahlavi
+                            <lb/>Pahlavi <lb/>Pahlavi</ab>
+                    </div>
+                    <lb/>
+                    <div n="3" type="stanza" xml:id="VrS18.3">
+                        <ab n="a" xml:id="VrS18.3a">nairiiąm. hąm.varaitīm. <abbr>y.</abbr> framən.
+                            narą <lb break="no"/>m. framən.narō.vīrąm. yā. ā.saot̰. ās <lb break="no"/>iiaiiā̊. yā̊. taxmō.tąšaiiaiiā̊⁛</ab>
+                        <ab n="Transl.a" xml:id="VrS18.3Transl.a" xml:lang="Pahl">Pahlavi
+                            <lb/>Pahlavi <lb/>Pahlavi</ab>
+                        <ab n="b" xml:id="VrS18.3b">yā. dim. jasaiti. ba <lb break="no"/>γō.baxtəmcit̰. yā. narąm. vī.gərəptāc <lb break="no"/>it̰. tanuuō.
+                            baōxtārəm. daδāiti⁛</ab>
+                        <ab n="Transl.b" xml:id="VrS18.3Transl.b" xml:lang="Pahl">Pahlavi
+                            <lb/>Pahlavi <lb/>Pahlavi</ab>
+                        <ab n="c" xml:id="VrS18.3c">xᵛafnəm. mazdaδātəm. <lb/>
+                            <abbr>y.</abbr> šāitīm. pasuuā̊. vīraiiā̊.</ab>
+                    </div>
+                    <div n="4" type="stanza" xml:id="VrS18.4">
+                        <ab n="a" xml:id="VrS18.4a" next="VrS18.4aF">auuā̊. dā <lb break="no"/>mąn.
+                            aṣ̌auuanō.</ab>
+                        <ab n="Transl.a" xml:id="VrS18.4Transl.a" xml:lang="Pahl">Pahlavi <pb n="634"/>
+                            <lb/>Pahlavi</ab>
+                        <ab xml:id="VrS18.4aF">auuā̊. dāmąn. aṣ̌a <lb break="no"/>uuanō.
+                                <abbr>y.</abbr> yā. hənti. paōiriiō.dāta. p <lb break="no"/>aōiriiō.frāϑβaršta⁛</ab>
+                        <ab n="Transl.b" xml:id="VrS18.4Transl.b" xml:lang="Pahl">Pahlavi
+                            <lb/>Pahlavi</ab>
+                        <lb/>
+                        <ab n="b" xml:id="VrS18.4b">aṣ̌nā.at̰ca. apā.at̰ca. zimāat̰ca. ur <lb break="no"/>uuaraiiā̊.at̰ca. gaōt̰ca. huδā̊ŋhat̰⁛</ab>
+                        <ab n="Transl.c" xml:id="VrS18.4Transl.c" xml:lang="Pahl">Pahlavi
+                            <lb/>Pahlavi</ab>
+                        <ab n="c" xml:id="VrS18.4c">zraiiō. vou <lb break="no"/>ru.kaṣ̌əm.
+                                <abbr>y.</abbr>
+                        </ab>
+                        <ab n="d" xml:id="VrS18.4d">vātəmca. darəšəm. mazda <lb break="no"/>δātəm.
+                                <abbr>yaz⁛</abbr>
+                        </ab>
+                        <ab n="Transl.d" xml:id="VrS18.4Transl.d" xml:lang="Pahl">Pahlavi
+                            <lb/>Pahlavi</ab>
+                        <ab n="e" xml:id="VrS18.4e">asmanəm. xᵛanuua <lb break="no"/>ṇtəm.
+                                <abbr>yaz.</abbr> paōiriiō.dātəm. paōiriiō.f <lb break="no"/>raϑβarəštəm. gaēϑīm. gaēϑaiiā̊. stōiš.</ab>
+                        <lb/>
+                        <ab n="Transl.e" xml:id="VrS18.4Transl.e" xml:lang="Pahl">Pahlavi
+                            <lb/>Pahlavi</ab>
+                    </div>
+                    <div n="5" type="stanza" xml:id="VrS18.5">
+                        <ab n="a" xml:id="VrS18.5a">ϑβąm. āϑrəm. ahu <lb break="no"/>rahe. mazdā̊.
+                            puϑrəm. aṣ̌auuanəm. aṣ̌ahe. <lb/>ratūm. <abbr>yaz.</abbr>
+                        </ab>
+                        <ab n="Transl.a" xml:id="VrS18.5Transl.a" xml:lang="Pahl">Pahlavi <pb n="635"/>
+                            <lb/>Pahlavi</ab>
+                        <ab n="b" xml:id="VrS18.5b">haδa.zaōϑrəm. haδa.aiβiiā̊ŋ <lb break="no"/>hanəm. imat̰. barəsma. aṣ̌aiia. frastərətə <lb break="no"/>m.
+                            aṣ̌auuanəm. ratīm. <abbr>y.</abbr>
+                        </ab>
+                        <ab n="Transl.b" xml:id="VrS18.5Transl.b" xml:lang="Pahl">Pahlavi
+                            <lb/>Pahlavi <lb/>Pahlavi </ab>
+                    </div>
+                </div>
+                <lb/>
+                <div n="19" type="chapter" xml:id="VrS19">
+                    <div n="Header" type="stanza" xml:id="VrS19Header">
+                        <ab n="a" xml:id="VrS19Header.a" xml:lang="Pahl">hštwm kltk' bwn</ab>
+                    </div>
+                    <div n="1" type="stanza" xml:id="VrS19.1">
+                        <ab n="a" xml:id="VrS19.1a">aētauuaca. ma <lb break="no"/>iδaiiaŋha. ahe.
+                            vaca. sadaiiaŋha. ahurō. <lb/>mazdā̊. aṣ̌auua.</ab>
+                        <ab n="Transl.a" xml:id="VrS19.1Transl.a" xml:lang="Pahl">Pahlavi
+                            <lb/>Pahlavi</ab>
+                        <ab n="b" xml:id="VrS19.1b">haϑra. va <lb break="no"/>ŋhaēibiiō.
+                            yazataēibiiō. yat̰. aməṣ̌aēibii <lb break="no"/>ō. spəṇtaēibiiō.
+                            huxšaϑraēibiiō. huδā̊bii <lb break="no"/>ō.</ab>
+                        <ab n="Transl.b" xml:id="VrS19.1Transl.b" xml:lang="Pahl">Pahlavi
+                            <lb/>Pahlavi</ab>
+                        <ab n="c" xml:id="VrS19.1c">paṇca.sat̰.bīšca. s <lb break="no"/>atāišca.
+                            hazaŋrāišca. baēuuarəbīšca. <lb/>ahąxštāišca. frāiizbiš.cat̰ca. aɱ
+                            <lb/>at̰.</ab>
+                        <ab n="Transl.c" xml:id="VrS19.1Transl.c" xml:lang="Pahl">Pahlavi
+                            <lb/>Pahlavi</ab>
+                    </div>
+
+                    <div n="2" type="stanza" xml:id="VrS19.2">
+                        <ab n="a" xml:id="VrS19.2a">huxšaϑrōtəmāi. bāat̰. <pb n="636"/>
+                            <lb/>xšaϑrəm. aɱat̰. hiiat̰. aibī.dadi.mahicā.</ab>
+                        <ab n="Transl.a" xml:id="VrS19.2Transl.a" xml:lang="Pahl">Pahlavi
+                            <lb/>Pahlavi</ab>
+                        <ab n="b" xml:id="VrS19.2b">dadimahicā. <lb/>ciš.mahicā. huuąmahecā.</ab>
+                        <ab n="c" xml:id="VrS19.2c">hiiat̰. mazd <lb break="no"/>āi. ahurāi.
+                            aṣ̌āica. vahištāi.</ab>
+                        <ab n="Transl.b" xml:id="VrS19.2Transl.b" xml:lang="Pahl">Pahlavi
+                            <lb/>Pahlavi <lb/>Pahlavi <lb/>Pahlavi</ab>
+                    </div>
+                </div>
+                <div n="24" type="chapter" xml:id="VrS24">
+                    <div n="4" type="stanza" xml:id="VrS24.4">
+                        <ab n="a" xml:id="VrS24.4a">haōmaną <lb break="no"/>m. uzdātanąm. zaōϑranąm.
+                            uzdātanąm ⁛ </ab>
+                        <ab n="Transl.a" xml:id="VrS24.4Transl.a" xml:lang="Pahl">PAHLAVI
+                            <lb/>PAHLAVI <lb/>PAHLAVI ⁛ </ab>
+                        <ab n="b" xml:id="VrS24.4b">uzdā<gap extent="5" unit="char" reason="damage"/>
+                            <lb/>dāxᵛiiamnanąm ⁛ </ab>
+                        <ab n="Transl.b" xml:id="VrS24.4Transl.b" xml:lang="Pahl">PAHLAVI
+                            <lb/>PAHLAVI</ab>
+                        <ab n="c" xml:id="VrS24.4c" next="VrS24.4cF">vārəϑraγnanąm. paiti. <lb break="no"/>bišanąm ⁛ </ab>
+                        <ab n="Transl.c" xml:id="VrS24.4Transl.c" xml:lang="Pahl">PAHLAVI</ab>
+                        <ab xml:id="VrS24.4cF">aōiš. baē <lb break="no"/>šaza.</ab>
+                        <ab n="d" xml:id="VrS24.4d">hacimnanąm. cistōiš. baēšaz<gap extent="1" unit="char" reason="damage"/>
+                            <lb/>
+                            <gap extent="4" unit="char" reason="damage"/>mninąm ⁛ </ab>
+                        <ab n="Transl.d" xml:id="VrS24.4Transl.d" xml:lang="Pahl">PAHLAVI
+                            <lb/>PAHLAVI</ab>
+                        <ab n="e" xml:id="VrS24.4e">mazdā̊. baēšaza. ha <pb n="637" break="no"/>
+                            <lb break="no"/>cimnanąm. zaraϑuštrahe. baēša<gap extent="2" unit="char" reason="damage"/>
+                            <lb/>
+                            <gap extent="4" unit="char" reason="damage"/>mnanąm ⁛ </ab>
+                        <ab n="Transl.e" xml:id="VrS24.4Transl.e" xml:lang="Pahl">PAHLAVI
+                            <lb/>PAHLAVI</ab>
+                        <ab n="f" xml:id="VrS24.4f">
+                            <gap extent="7" unit="char" reason="damage"/>trō.təmahe. baē <lb break="no"/>šaza. hacimnanąm </ab>
+                    </div>
+                    <div n="5" type="stanza" xml:id="VrS24.5">
+                        <ab n="a" xml:id="VrS24.5a">auua. baēšaza. hacim <lb break="no"/>nanąm ⁛ </ab>
+                        <ab n="Transl.a" xml:id="VrS24.5Transl.a" xml:lang="Pahl">PAHLAVI
+                            <lb/>PAHLAVI ⁛ </ab>
+                        <ab n="b" xml:id="VrS24.5b">yā. humāiiehe. aṣ̌ <lb break="no"/>aōnō. yā.
+                            humāiiehe. pairijaϑnō </ab>
+                        <lb/>
+                        <ab n="c" xml:id="VrS24.5c">yā̊. daēnaiiā̊. vaŋhuiiā̊. māzdaiiasnōiš.
+                            <lb/>yā̊. dahmiiā̊. vaŋhuiiā̊. āfritōiš ⁛ </ab>
+                        <ab n="Transl.b" xml:id="VrS24.5Transl.b" xml:lang="Pahl">PAHLAVI
+                            <lb/>PAHLAVI ⁛ <foreign xml:lang="Av">yā. <lb/>daēniiā̊. vaŋhuiiā̊.
+                                māzdaiiasnōiš ⁛ </foreign> PAHLAVI <lb/>PAHLAVI <foreign xml:lang="Av">yā. da <lb break="no"/>hmaiiā̊. vaŋhuiiā̊. āfritōiš ⁛
+                            </foreign> PAHLAVI <lb/>PAHLAVI ⁛ </ab>
+                        <ab n="d" xml:id="VrS24.5d">yā̊. dahmiiā̊. <lb/>vaŋhuiiā̊.
+                            anā.druxtōiš.</ab>
+                        <ab n="e" xml:id="VrS24.5e">yā. dahmii <lb break="no"/>ā̊. vaŋhuiiā̊.
+                            anauua.uruxtōiš ⁛ </ab>
+                        <ab n="Transl.c" xml:id="VrS24.5Transl.c" xml:lang="Pahl">PAHLAVI
+                            <lb/>PAHLAVI ⁛ </ab>
+                    </div>
+
+
+
+
+                    <pb n="638"/>
+                    <lb/>
+                    <div n="6" type="stanza" xml:id="VrS24.6">
+                        <ab n="a" xml:id="VrS24.6a">āuuistaiiaēca. aiβistaiiaēca. aiβiš.hu <lb break="no"/>taiiaēca ⁛ </ab>
+                        <ab n="Transl.a" xml:id="VrS24.6Transl.a" xml:lang="Pahl">PAHLAVI
+                            <lb/>PAHLAVI</ab>
+                        <lb/>
+                        <ab n="b" xml:id="VrS24.6b">upāštaiiaēca. upaŋharštaiiaēca. huf <lb break="no"/>rāiiaštaēca. hufra.mərətaiiaēca ⁛ </ab>
+                        <ab n="Transl.b" xml:id="VrS24.6Transl.b" xml:lang="Pahl">PAHLAVI
+                            <lb/>PAHLAVI <lb/>PAHLAVI ⁛ </ab>
+                        <ab n="c" xml:id="VrS24.6c">yōi. həṇti. haōma. s <lb break="no"/>īra.
+                            spəṇta. aṣ̌auuana ⁛ </ab>
+                        <ab n="Transl.c" xml:id="VrS24.6Transl.c" xml:lang="Pahl">PAHLAVI
+                            <lb/>PAHLAVI ⁛ </ab>
+                        <ab n="d" xml:id="VrS24.6d">aṣ̌aiia. uzdā <lb break="no"/>ta. aṣ̌aiia.
+                            uzdāxiiamna ⁛ </ab>
+                        <ab n="Transl.d" xml:id="VrS24.6Transl.d" xml:lang="Pahl">PAHLAVI
+                            <lb/>PAHLAVI <lb/>PAHLAVI ⁛ </ab>
+                        <lb/>
+                        <ab n="e" xml:id="VrS24.6e">aṣ̌aiia. aiβi.uuaēδ<gap extent="3" unit="char" reason="damage"/>amna. aṣ̌aii <lb break="no"/>a. aiβi.uuaēδaiiaṇta ⁛ </ab>
+                        <ab n="Transl.e" xml:id="VrS24.6Transl.e" xml:lang="Pahl">PAHLAVI
+                            <lb/>PAHLAVI ⁛ </ab>
+                        <ab n="f" xml:id="VrS24.6f">aṣ̌a <lb break="no"/>iia. ahunuuana. <gap extent="1" unit="word" reason="damage"/> hōš́iiaṇta ⁛ </ab>
+                        <ab n="Transl.f" xml:id="VrS24.6Transl.f" xml:lang="Pahl">PAHLAVI</ab>
+                    </div>
+                    <div n="7" type="stanza" xml:id="VrS24.7">
+                        <lb/>
+                        <ab n="a" xml:id="VrS24.7a">amauuatō. ahmāi. amauuatō. vərəϑraγ <pb n="639" break="no"/>
+                            <lb break="no"/>nāi ⁛ </ab>
+                        <ab n="Transl.a" xml:id="VrS24.7Transl.a" xml:lang="Pahl">PAHLAVI
+                            <lb/>PAHLAVI ⁛ </ab>
+                        <lb/>
+                        <ab n="b" xml:id="VrS24.7b">amauuaēϑiiā̊. ərəϑiiā̊. amauuaēϑiiā̊. aṣ̌ <lb break="no"/>ōiš. amauuaēϑiiā̊. cistōiš ⁛ </ab>
+                        <ab n="Transl.b" xml:id="VrS24.7Transl.b" xml:lang="Pahl">PAHLAVI
+                            <lb/>PAHLAVI ⁛ </ab>
+                        <ab n="c" xml:id="VrS24.7c">am <lb break="no"/>auuaēϑiiā̊. paōuruuatātō.
+                            amauuaēϑiiā̊. <lb/>uparatātō ⁛ </ab>
+                        <ab n="Transl.c" xml:id="VrS24.7Transl.c" xml:lang="Pahl">PAHLAVI
+                            <lb/>PAHLAVI ⁛ </ab>
+                        <ab n="d" xml:id="VrS24.7d" next="VrS24.7dF">amauuat̰biiō. aēibii <lb break="no"/>ō. yazataēibiiō ⁛ </ab>
+                        <ab n="Transl.d" xml:id="VrS24.7Transl.d" xml:lang="Pahl">PAHLAVI
+                            <lb/>PAHLAVI ⁛ </ab>
+                        <ab xml:id="VrS24.7dF">yat̰. aməṣ̌aēibii <lb break="no"/>ō. spəṇtaēibiiō.
+                            huxšaϑraēibiiō. huδā̊ <lb break="no"/>biiō. yauuaējibiiō. yauuaēsubiiō ⁛ </ab>
+                        <ab n="Transl.e" xml:id="VrS24.7Transl.e" xml:lang="Pahl">PAHLAVI
+                            <lb/>PAHLAVI ⁛ <lb/>
+                            <foreign xml:lang="Av">yat̰. aməṣ̌aēibiiō. spəṇtaēibiiō ⁛ </foreign>
+                        </ab>
+                        <ab n="Transl.f" xml:id="VrS24.7Transl.f" xml:lang="Pahl">PAHLAVI
+                            <lb/>PAHLAVI <lb/>PAHLAVI ⁛ </ab>
+                        <ab n="e" xml:id="VrS24.7e">yōi. vaŋhə̄uš. ā.ma <lb break="no"/>naŋhō.
+                            š́iiaṇti. yāsca. uiti ⁛ </ab>
+                        <ab n="Transl.g" xml:id="VrS24.7Transl.g" xml:lang="Pahl">PAHLAVI <pb n="640"/>
+                            <lb/>PAHLAVI <lb/>PAHLAVI ⁛ </ab>
+                    </div>
+                    <div n="8" type="stanza" xml:id="VrS24.8">
+                        <ab n="a" xml:id="VrS24.8a">hauruua.tā̊sca. nō. amərətatā̊. <lb/>gə̄ušca.
+                            taṣ̌nō. gə̄ušca. urunō. āϑrasc <lb break="no"/>a. aōxtō.nāmanō ⁛ </ab>
+                        <ab n="Transl.a" xml:id="VrS24.8Transl.a" xml:lang="Pahl">PAHLAVI
+                            <lb/>PAHLAVI <lb/>PAHLAVI ⁛ </ab>
+                        <ab n="b" xml:id="VrS24.8b">hadišasca. aṣ̌auuatō. vās <lb break="no"/>trauuatō. xᵛāϑrauuatō. mariždi.kauuat <lb break="no"/>ō ⁛ </ab>
+                        <ab n="Transl.b" xml:id="VrS24.8Transl.b" xml:lang="Pahl">PAHLAVI
+                            <lb/>PAHLAVI <lb/>PAHLAVI <lb/>PAHLAVI ⁛ </ab>
+                    </div>
+                    <div n="9" type="stanza" xml:id="VrS24.9">
+                        <ab n="a" xml:id="VrS24.9a">staōtaca. yasnā <lb break="no"/>ica. vahmāica.
+                            frasastaiiaēca.</ab>
+                        <ab n="b" xml:id="VrS24.9b">yat̰. <lb/>aēša. ahurahe. mazdā̊. yat̰. aēša. a
+                                <lb break="no"/>məṣ̌anąm. spəṇtanąm ⁛ </ab>
+                        <ab n="Transl.a" xml:id="VrS24.9Transl.a" xml:lang="Pahl">PAHLAVI
+                            <lb/>PAHLAVI <lb/>PAHLAVI ⁛ </ab>
+                        <ab n="c" xml:id="VrS24.9c">ratə̄ušca. aṣ̌aōnō. bərəzat <lb break="no"/>ō.
+                            yasnāica. vahmāica. yat̰. ap <pb n="641" break="no"/>
+                            <lb break="no"/>anōtəmahe. raϑβō ⁛ </ab>
+                        <ab n="Transl.b" xml:id="VrS24.9Transl.b" xml:lang="Pahl">PAHLAVI
+                            <lb/>PAHLAVI ⁛ </ab>
+                        <ab n="d" xml:id="VrS24.9d">yat̰. jaγmīšaiiā̊. rat <lb break="no"/>ufritōiš
+                            ⁛ </ab>
+                        <ab n="Transl.c" xml:id="VrS24.9Transl.c" xml:lang="Pahl">PAHLAVI
+                            <lb/>PAHLAVI ⁛ </ab>
+                    </div>
+                    <div n="10" type="stanza" xml:id="VrS24.10">
+                        <ab n="a" xml:id="VrS24.10a">yat̰. mąϑrahe <lb/>spəṇtahe. yat̰. daēnaiiā̊.
+                            māzdaiiasn <lb break="no"/>ōiš. yat̰. staōtanąm. yasnaiianąm ⁛ </ab>
+                        <ab n="Transl.a" xml:id="VrS24.10Transl.a" xml:lang="Pahl">PAHLAVI ⁛ </ab>
+                        <ab n="b" xml:id="VrS24.10b">ya <lb break="no"/>t̰. vīspaēšąmca. raϑβąm.
+                            vīspanąmca. <lb/>ratufritinąm ⁛ </ab>
+                        <ab n="Transl.b" xml:id="VrS24.10Transl.b" xml:lang="Pahl">PAHLAVI
+                            <lb/>PAHLAVI ⁛ </ab>
+                        <ab n="c" xml:id="VrS24.10c">vīspaiiā̊. sącit̰ca. aṣ̌aōnō. <lb/>staōiš.
+                            yasnāica. vahmāica. xšnaō <lb break="no"/>ϑrāica. frasastaiiaēca.</ab>
+                        <ab n="d" xml:id="VrS24.10d">sraōšō. astu. <lb/>sraōšəm. aṣ̌īm. <abbr>yaz ⁛
+                            </abbr>
+                        </ab>
+                        <ab n="Transl.c" xml:id="VrS24.10Transl.c" xml:lang="Pahl">PAHLAVI
+                            <lb/>PAHLAVI <lb/>⁛ </ab>
+                        <ab n="Transl.d" xml:id="VrS24.10Transl.d" xml:lang="Pahl">PAHLAVI
+                            <lb/>PAHLAVI ⁛ </ab>
+                    </div>
+
+
+
+
+                    <pb n="642"/>
+                    <lb/>
+
+                    <div n="36" type="stanza" xml:id="VrS25.36">
+                        <ab n="a" xml:id="VrS25.36a">āiiese. yešti. arəzahebiiō. sauu <lb break="no"/>ahibiiō. fradaδufšubiiō. vīδadafšubiiō. vō <lb break="no"/>uru.barəštibiiō. vōuru.jarəštibiiō. ahec <lb break="no"/>a. karšuuane.
+                            yat̰. xᵛanarəϑahe.</ab>
+                        <ab n="Transl.a" xml:id="VrS25.36Transl.a" xml:lang="Pahl">PAHLAVI
+                            <lb/>PAHLAVI <lb/>PAHLAVI </ab>
+                    </div>
+                    <div n="37" type="stanza" xml:id="VrS25.37">
+                        <ab n="a" xml:id="VrS25.37a">
+                            <abbr>ā ⁛ </abbr>
+                            <abbr>y ⁛ </abbr> asmana<gap extent="1" unit="char" reason="damage"/>ib
+                                <lb break="no"/>iia. hāuuanaēibiia. aiiaŋhaēnibiia. hiuu <lb break="no"/>ānaēibiia. taštāi. zaōϑrō.barəmnai. <lb/>varasāi.
+                            haōmō.aŋharəzānāi. tauua <lb break="no"/>ca. barəsmanō. aṣ̌aiia.
+                            frastarətahe ⁛ </ab>
+                        <ab n="Transl.a" xml:id="VrS25.37Transl.a" xml:lang="Pahl">PAHLAVI</ab>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

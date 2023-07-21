@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VytVrS1.5" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VytVrS1.5">
+               <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VytSY1.4a" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat3.1" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VytSY1.4b" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat3.2" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VytSY1.4a" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat3.3" on_line="in1line"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. VVrS1.5.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical>
+            <RecitationInstruction>
+                <ab><em>ńiuuaēδaiiemi haṇkāraiiemi hāuuanə̄e</em>] <em>ńiuuaēδaiiemi haṇkāraiiemi hāuuanə̄e</em> OD gywʾk gwptn' AHL lpytpyn' (VytVrS1.6) AHL ʾwzylyn' (VytVrS1.7) W AHL ʾydbslwkslʾm 
+                   OD <em>vanaiṇtiiā̊sca uparatātō</em> (VytVrS1.8) 5010, 5030.</ab> 
+            </RecitationInstruction>
+        </Critical>
+        <Commentary/>
+    </Apparatus>
+    <Parallels>
+    <ab> VytVrS1.5 ≈ VytVrS2.5, VytVrS17.4, VytVrS25.7, VytVrS27.21, VytVrS77.4, VytVrS90.5.</ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrVytVrS1.5"/>
+    </translation>
+</text>

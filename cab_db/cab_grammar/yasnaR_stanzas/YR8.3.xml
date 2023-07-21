@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR8.3" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y8.3" xml:id="YR8.3">
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR8.2"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">rāspīg pad gāh ī hāwanān: vid. Y8.3.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary>
+            <ab>However, ms. 672 [K6] <em> lʾspyk.YMRRWN-yt PWN gʾs plbltʾl</em>; <bibl>Geldner, 1886-1996</bibl>, p.37, n.2.1 "according to J3 at the Frabartār's place".</ab>
+        </Commentary>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation/>
+</text>

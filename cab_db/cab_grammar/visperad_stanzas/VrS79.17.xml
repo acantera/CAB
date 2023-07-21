@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS79.17" status="created">  <!-- created, approved, updated--> <header><creators><creator>Porro</creator><creator>Cantera</creator></creators><created>1 June 2019</created></header><div type="Stanza" sameAs="" xml:id="VrS79.17">
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS33.16b" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RozGen" xpointer="RozGen1" on_line="in1line"/>
+               <!-- all days possible -->
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS33.16c" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS33.16d" on_line="in1lineblock"/><!-- Eliminate in Gatha days -->
+               <include href="/db/apps/cab_db/cab_rituals/blocks/MahGen" xpointer="MahGen1" on_line="in1line"/>
+               <!-- All months possible -->
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS33.16e" on_line="in1line"/> <!-- Eliminate in Gatha days -->
+            </div><Apparatus><Critical/><Commentary/></Apparatus><Parallels/><Ritual/><translation><include type="CAB" corresp="CABTrVrS79.17"/></translation></text>

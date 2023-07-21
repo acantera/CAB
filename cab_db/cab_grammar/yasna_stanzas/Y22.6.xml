@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y22.6" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y22.6">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY22.5a" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.1" on_line="in1line"/>
+      <!-- All possible -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY22.5b" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.2" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY22.5c" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.3" on_line="in1line"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y22.1.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>Y22.6a <em>āiiese yešti hāuuanə̄e</em> ...] <em>hāuuanə̄e aṣ̌aōne aṣ̌ahe raϑβe</em> [...] ʾytwn' cygwn PWN slwšdlwn' npšt' OD <em>aṣ̌ahe raϑβō</em> . <em>raϑβō bərəzatō</em> (Y22.21) 500, 510.</ab>
+         <ab>Y22.6b <em>āiiese yešti sāuuaŋhə̄e</em> ...] <em>sāuuaŋhə̄e</em> cygwn npšt OD OL Y <em>dax́iiunąm daŋ́hupatōiš</em> (Y22.14) 88.</ab>
+         <ab>Y22.6c <em>āiiese yešti miϑrahe</em> ...] <em>rāmanō x́āstrahe</em> OD <em>hāuuanōiš raϑβō</em> (Y22.21) 235.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>Y22.6 = Y3.5, VrS78.15; ≈ Y1.3, Y2.3, Y4.8, Y6.2, Y7.6, Y17.2, Y24.13, Y59.2, Y66.3, VrS79.8, VrS81.2, VrS82.3.</ab>
+      <ab>VrS25.5 = DoHom2.5.</ab>
+      <ab><em>miϑrahe vouru.gaōiiaōtōiš hazaŋhrō.gaōšahe baēuuarə.cašmanō aōxtō.namanō yazatahe rāmanō xᵛāstrahe aṣ̌aōne aṣ̌ahe raϑβe</em> = The standard <em>xšnūman Mihr</em>.</ab>
+   </Parallels>
+   <Ritual>
+      <ModernPractice id="ritualModernPractice">
+         <ab><bibl>Redard and Daruwalla, 2021</bibl>, p. 88:</ab>
+         <ab class="ab_indent">"The chief priest puts back the wire on the milk saucer."</ab>
+      </ModernPractice>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY22.6"/>
+      <include type="W" corresp="WTrY22.5"/>
+      <include type="K" corresp="KTrY22.5"/>
+      <include type="D" corresp="DTrY22.5"/>
+   </translation>
+</text>

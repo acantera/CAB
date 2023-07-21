@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS29.4" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y25.4" xml:id="VrS29.4">
+
+      <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanAcc" xpointer="ShnumanAcc42"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY26.1"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: Šnūman, vid. VrS29.1; zōt: VrS29.4a-b, vid. Y25.4.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VrS29.4ShnumanAcc.a] šnwmn wcʾlšnyh PWN yzm bwndk gwptn' OD <em>stami</em> OD <em>vīspā̊ frauuašaiiō</em> (VrS30.10) 2000;
+            hšnwmn' MN ẔK Y YHWWNyt' wcʾltn' HT' hšnwmn' ʾhlwbʾn ptš YHWWNyt' gwptn' OD <em>staōmi zbaiiemi</em> 2007; hšnwmn' MN ẔK Y byt' wcʾltn' HT' hšnwmn' <em>aṣ̌aōnąm</em> ptš YHWWNyt' <em>staōmi zbaiiemi</em> 2010;
+            hšnwmn' MN ẔK Y YHWWNyt' wcʾltn' HT' hšnwmn' <em>aṣ̌āunąm</em> ptš YHWWNyt' <em>staōmi zbaiiemi</em> 2030, 2101; AMT gʾsʾnbʾl YHWWNyt <em>ratauuō vīspe</em> 2040;
+            hšnwmn ẔK Y YHWWNyt wcʾltn' HT' PWN hšnwmn <em>aṣ̌āuną̇m</em> ptš YHWWNyt <em>st[aōmi]</em> (folio lost) 2070;
+            hšnwmn ẔK Y YHWWNyt' wcʾltn' HT PWN hšnwmn ʾltʾplwlc YHWWNyt' cygwn <em>ahurəm mazdąm</em> ... (VrS29.4, VrS30.1-13) <em>tā̊vsca yaz.</em> OD sl gwptn' W HT hšnwmn gʾsʾnbʾl YHWWNyt' (VrS29.3)
+            <em>vīspaca vohu mazdaδāta aša.ciϑra y.</em> (VrS29.4) <em>ratauuō vīspa</em> ... <em>maiδiiōizarəmaēm aṣ̌auuanəmm ašahe ratīm y.</em> ʾywp ẔK gʾs YHWWNyt' 2106;
+            hšnwmn' MN ẔK Y YHWWNyt' wcʾltn' HT' PWN hšnwmn' <em>aṣ̌aōnąm</em> ptš byt' <em>staōmi zbaiiemi</em> 2109.</ab>
+         <ab>VrS29.4 <em>yazamaide nmāńiiā̊</em> ...] <em>vīsaiiā̊ zaṇtumā̊</em> OD OL Y <em>vīspā̊ frauuaṣ̌aiiō</em> (VrS30.10) 2007; <em>nmāniiā̊ vūsiiā̊</em> OD OL <em>vūspā̊ frauuašaiiō</em> (VrS30.10) 2030;
+            <em>y.</em> OD <em>vīspā̊ frauuaṣ̌aiiō</em> (VrS30.10) 2101; <em>nmāniiā̊ vīsiiā̊</em> OD OL Y <em>vīspaiiā̊ frauuašaiiō</em> (VrS30.10) 2109.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Vid. VrS29.3</ab>  
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS29.4"/>
+   </translation>
+</text>

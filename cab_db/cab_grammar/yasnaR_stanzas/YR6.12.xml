@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR6.12" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="YR6.12">
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR6.12a"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/RatuPaitiShort" xpointer="RatuPaitiRatu3"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: vid. Y6.17.</ab> 
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels>
+        <ab>YR6.12 ≈ YR2.11, YR14.3, YR17.11, YR59.21.</ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrYR6.12"/>
+    </translation>
+</text>

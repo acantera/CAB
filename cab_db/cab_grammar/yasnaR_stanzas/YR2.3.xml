@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR2.3" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="YR2.3">
+            <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR2.3a"/>
+            <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccAY" xpointer="RatuLetAccAY2.1" on_line="in1lineblock"/>
+            <!-- Only Rapithwin possible -->
+            <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR2.3b" on_line="in1line"/>
+            <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccAY" xpointer="RatuLetAccAY2.2" on_line="in1lineblock"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR2.3c" on_line="in1line"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR2.3d" on_line="in1lineblock"/>
+            <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccAY" xpointer="RatuLetAccAY2.3"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR2.3e" on_line="in1line"/>
+            <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="YR2.3NerangTransc.a"/>
+        </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: vid. Y2.0.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab><em>aɱiia zaōϑre barəsmanaēca rapiϑβināi ...</em>] gʾs Y lpytpyn' ʾp̄ʾyt' gwptn' <em>māhiiaēibiiō.</em> (= Y2.8) ʾyc' gywʾk' LA ʾp̄ʾyt' gwptn' 300, 360, 370.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels>
+        <ab>YR2.3 ≈  YR1.3, YR3.5, YR4.8, YR6.2, YR7.6, YR17.2,YR22.6, YR24.13, YR59.2, YR66.3</ab>
+</Parallels>
+<Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrYR2.3"/>
+    </translation>
+</text>

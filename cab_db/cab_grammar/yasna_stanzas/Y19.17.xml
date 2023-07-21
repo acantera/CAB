@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y19.17" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y19.17">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY19.17"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y19.3.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y19.17b <em>⁺vīspaiieirina</em>] Kellens em. sec. <bibl>Humbach, 1959</bibl> II p. 48, <bibl>Benveniste, 1964</bibl> pp. 12-13; Geldner <em>vīspaiia irina</em>. Ir. cod. (vid. Apparatus) <em>vīspaiie.irina</em> (5020 <em>vīspaiiēirina</em>).
+         False cut, but with the etymological vocalism.</ab>
+         <ab>Y19.17b <em>arš.manaŋha arš.vacaŋha arš.š́iiaōϑana</em>] Kellens (sec. Bartholomae); Geldner <em>aršmanaŋha aršuuacaŋha aršš́iiaoϑna</em>.</ab>
+         <ab>Y19.17c <em>ratuš.mərəta</em>] sec. Kellens (vid. <bibl>Kellens, 1974</bibl> p. 143); Geldner <em>ratuš mərəta</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>āϑrauua raϑaēštā̊ vāstriiō fšuiiąs</em> ~ Y11.6 <em>āϑrauua naēδa raϑaēštā̊ naēδa vāstriiō fšuiiąs</em>; ~ VrS11.10 <em>āϑrauuanəm āstāiia raϑaēštārəm āstāiia vāstrīm fšuiiaṇtəm āstāiia</em>;
+         ~ Y13.3 <em>aϑaurunąscā raϑaēštąscā vāstriiąscā fšuiiaṇtō</em>; ~ VrS11.13 <em>aϑaurunąsca raϑaēštārə̄sca vāstriiąsca fšuiiaṇtō</em>.</ab>
+      <ab><em>yeŋ́hē š́iiaōϑnāiš gaēϑā̊ aṣ̌a frādəṇte</em> quotes Y43.6 <em>yehiiā š́iiaōϑanāiš gaēϑā̊ aṣ̌ā frādəṇtē</em>; = Y19.17, VrS2.13, VrS11.12, VrS17.12, VrS77.12.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY19.17"/>
+      <include type="W" corresp="WTrY19.17"/>
+      <include type="K" corresp="KTrY19.17"/>
+      <include type="D" corresp="DTrY19.17"/>
+   </translation>
+</text>

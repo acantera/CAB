@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL12.2.2" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="2" xml:id="ParagnaLL12.2.2">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL12.2.2 (Ms. RJ):</ab>
+            <ab class="ab_indent">
+                <em>aiβiiō. vaŋᵛhibiiō.</em> čašm andar zur konešn <em>imā̊ zaoϑrā̊ haomauuaitīš gaomauuaitīš haδānaēpatauuaitīš aṣ̌aiia uzdātā̊ aiβiiō vaŋhibiiō apəmca haomiiąm</em> 
+                čašm andar hāvan konešn <em>asmanaca hāuuana aiiaŋhaēnaca hāuuana</em></ab>
+            <ab class="ab_indent">
+                "(He has to recite) <em>aiβiiō. vaŋᵛhibiiō.</em> and he has to gaze at the <em>zur</em> at <em>imā̊ zaoϑrā̊ haomauuaitīš gaomauuaitīš haδānaēpatauuaitīš aṣ̌aiia uzdātā̊ aiβiiō 
+                    vaŋhibiiō apəmca haomiiąm</em> and he has to gaze at the <em>hāvan</em> at <em>asmanaca hāuuana aiiaŋhaēnaca hāuuana</em>."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL12.2.2"/>
+    </translation>
+</text>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VytVrS25.23" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y22.15" xml:id="VytVrS25.23">
+      <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VytSY22.12b" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RozGen" xpointer="RozGen1" on_line="in1line"/>
+      <!-- All days possible -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VytSY22.12c" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/MahGen" xpointer="MahGen1" on_line="in1line"/>
+      <!-- All months possible -->
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid Y22.7.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VytVrS25.23a <em>āiiese yešti</em> ...] (Paz.) nigahi (Pahl.) YWM W BYRH gwptn' 5020.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVytVrS25.23"/>
+   </translation>
+</text>

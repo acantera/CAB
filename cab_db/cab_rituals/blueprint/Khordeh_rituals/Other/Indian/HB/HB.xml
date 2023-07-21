@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+            <div type="Nerang" xml:id="HB"> <!-- The HB - an enlarged form of the SrB for the time of Hōšbām - seems to be unknown in Iranian mss. However, the ms. MF25, which is probably of Iranian origin, contains the HB as it contains the 'typically Indian' texts NyAbab and YtHom -->
+				<div type="NerangStanza" xml:id="HB0.1" corresp="#GHB1"> <!-- HB0.1-2.5 = GV9.27, GV 11.3 (= VS11.3, VS11.8, VS11.11 (#GV11.3) (#GV11.8) (#GV11.11); cf. GYt13.20, GV 9.12, and also YtOhr2.11d-e, YtOhr2.16b-c -->
+                    <ab n="a" xml:id="HB0.1a">aθa. imą. vacō. drəṇjaiiōiš. yōi. aŋhən. vārəθraγńiiōtəməmca. baēšaziiōtəməmca.</ab> <!-- Cf. GV9.27, GV11.3; cf. also GYt13.20; GV9.12 -->
+					<ab n="b" xml:id="HB0.1b">paṇca. ahuna. vairiiō. frasrāuuaiiōiš.</ab>
+				</div>
+				<div type="NerangStanza" xml:id="HB1.1" corresp="#GHB1">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="5"/>
+				</div>
+                <div type="NerangStanza" xml:id="HB2.1" corresp="#GHB1" quote="SrB2.1">
+                    <ab n="a" xml:id="SrB2.1a">ahunəm. vairīm. tanūm. pāiti.</ab>
+                    <ab n="b" xml:id="SrB2.1b">ahunəm. vairīm. tanūm. pāiti.</ab>
+                    <ab n="c" xml:id="SrB2.1c">ahunəm. vairīm. tanūm. pāiti.</ab>
+				</div>
+				<div type="NerangStanza" xml:id="HB2.2" corresp="#GHB1"> <!-- Missing in K18a+b, but not in K18c -->
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+				</div>
+				<div type="NerangStanza" xml:id="HB2.3" corresp="#GHB1" quote="SrB2.4 = Y46.7 (#GY46.7) = YR46.7 VrS56.7 VVrS56.7 VytVrS56.7 (#GV8.20)">
+                    <ab n="a" xml:id="HB2.3a">kə̄m.nā. mazdā. mauuaitē. pāiiūm. dadāt̰.</ab>
+                    <ab n="b" xml:id="HB2.3b">hiiat̰. mā. drəguuā̊. dīdarəṣ̌atā. aēnaŋhē.</ab>
+                    <ab n="c" xml:id="HB2.3c">ańiiə̄m. ϑβaɱāt̰. āϑrascā. manaŋhascā.</ab>
+                    <ab n="d" xml:id="HB2.3d">yaiiā̊. š́iiaōϑanāiš. aṣ̌əm. ϑraōštā. ahurā.</ab>
+                    <ab n="e" xml:id="HB2.3e">tąm. mōi. dąstuuąm. daēnaiiāi. frāuuaōcā.</ab>
+				</div>
+				<div type="NerangStanza" xml:id="HB2.4" corresp="#GHB1" quote="SrB2.4 = Y44.16b-e (#GY44.16b-e) = YR44.16b-e VrS54.16b-e VVrS54.16b-e VytVrS54.16b-e(#GV8.20">
+                    <ab n="a" xml:id="HB2.4a">kə̄. vərəϑrəm.jā. ϑβā. pōi. sə̄ṇghā. yōi. həṇtī.</ab>
+                    <ab n="b" xml:id="HB2.4b">ciϑrā. mōi. dąm. ahīmbiš. ratūm. cīždī.</ab>
+                    <ab n="c" xml:id="HB2.4c">at̰. hōi. vohū. səraōšō. jaṇtū. manaŋhā.</ab>
+                    <ab n="d" xml:id="HB2.4d">mazdā. aɱāi. yaɱāi. vaṣ̌ī. kaɱāicīt̰.</ab>
+                </div>
+                <div type="NerangStanza" xml:id="HB2.5" corresp="#GHB1" quote="SrB2.5 = GV8.21"> <!-- cf. YtArW2.17 = #GYt3.17 -->
+                    <ab n="a" xml:id="HB2.5a">pāta.nō. t̰bišiiaṇtat̰. pairi. </ab>
+                    <ab n="b" xml:id="HB2.5b">mazdā̊sca. ārmaitišca. spəṇtasca.</ab>
+                    <ab n="c" xml:id="HB2.5c">nase. daēuui. druxš.</ab>
+                    <ab n="d" xml:id="HB2.5d">nase. daēuuō.ciϑre.</ab>
+                    <ab n="e" xml:id="HB2.5e">nase. daēuuō.frakaršte.</ab>
+                    <ab n="f" xml:id="HB2.5f">nase. daēuuō.fradāiti.</ab>
+                    <ab n="g" xml:id="HB2.5g">apa. druxš. nase.</ab>
+                    <ab n="h" xml:id="HB2.5h">apa. druxš. duuāra.</ab>
+                    <ab n="i" xml:id="HB2.5i">apa. druxš. vīnase. apāxəδre. apanasiiehe.</ab>
+                    <ab n="j" xml:id="HB2.5j">mā. mərəṇcainīš. gaēϑā̊. astuuaitiš. aṣ̌ahe.</ab>
+				</div>
+				<div type="NerangStanza" xml:id="HB2.6" corresp="#GHB2" quote="SrB2.6 = Y49.10c (#GY49.10c) = YR49.10c VrS60.10c VVrS60.10c VytVrS60.10c"> <!-- cf. GV9.12; cf. the quotation in the Nīrang barā-ye dafʿ kardan-e ǧādūi-ye ǧādū-garān wa saḥerān -->
+                    <ab n="a" xml:id="HB2.6a">nəmascā. yā. ārmaitiš. īžācā.</ab> <!-- 3x? -->
+                </div>
+				<div type="NerangStanza" xml:id="HB2.7" corresp="#GHB2">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+                </div>
+				<div type="NerangStanza" xml:id="HB2.8" corresp="#GHB2">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="21"/>
+                </div>
+				<div type="NerangStanza" xml:id="HB2.9" corresp="#GHB2">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="12"/>
+                </div>
+				<div type="NerangStanza" xml:id="HB2.10" corresp="#GHB2">
+                    <ab n="a" xml:id="GHB2.10a">nəmasə.tē. Hōšbām</ab>
+					<ab n="b" xml:id="GHB2.10b">nəmasə.tē. Hōšbām</ab>
+					<ab n="c" xml:id="GHB2.10c">nəmasə.tē. Hōšbām</ab>
+                </div>
+				<div type="NerangStanza" xml:id="HB2.11" corresp="#GHB2" quote="VrS31.1 (#GY27.1) = Y27.1 YR27.1 VVrS31.1 VytVrS31.1 = YtOhr3.14 (#GYt1.32) = YtOhr3.14">
+                    <ab n="a" xml:id="GHB2.11a">aētat̰. dim. vīspanąm. mazištəm. dazdiiāi. ahūmca. ratūmca.</ab>
+					<ab n="b" xml:id="GHB2.11b">yim. ahurəm. mazdąm.</ab>
+					<ab n="c" xml:id="GHB2.11c">snaϑāi. aŋhrahe. maińiiə̄uš. druuatō.</ab>
+					<ab n="d" xml:id="GHB2.11d">snaϑāi. aēšmahe. xruuīm.draōš.</ab>
+					<ab n="e" xml:id="GHB2.11e">snaϑāi. māzaińiianąm. daēuuanąm.</ab>
+					<ab n="f" xml:id="GHB2.11f">snaϑāi. vīspanąm. daēuuanąm. varəńiianąmca. druuatąm.</ab> <!-- Vāj: škasta. ganāh. mainiiō. bar. āhārə̄man. lānat. saṯ. hazār. bār. In K18b 241.16 Pāz. with NPTr: škasta. ganāh. mainiiō. bar. āhārə̄man. lząnat. saṯ. hazār. bār. / škaste bād ganā mīnū bar ahrīman laʿnat ṣad hezār bār -->
+                </div>
+				<div type="NerangStanza" xml:id="HB2.12" corresp="#GHB3" quote="VrS31.2 (#GY27.2) = Y27.2 YR27.2 VVrS31.2 VytVrS31.2 = YtOhr3.15 (#GYt1.32)= YtOhr3.15">
+					<ab n="a" xml:id="GHB2.11a">fradaϑāi. ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō.</ab>
+					<ab n="b" xml:id="GHB2.11b">fradaϑāi. aməṣ̌anąm. spəṇtanąm.</ab>
+					<ab n="c" xml:id="GHB2.11c">fradaϑāi. tištriiehe. stārō. raēuuatō. xᵛarənaŋᵛhatō.</ab>
+					<ab n="d" xml:id="GHB2.11d">fradaϑāi. narš. aṣ̌aōnō.</ab> 
+					<ab n="e" xml:id="GHB2.11e">fradaϑāi. vīspanam. spəṇtahe. maińiiə̄uš. dāmanąm. aṣ̌aōnąm.</ab>
+				</div>
+				<div type="NerangStanza" xml:id="HB3.1" corresp="#GHB4">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="2"/>
+                </div>
+				<div type="NerangStanza" xml:id="HB3.2" corresp="#GHB4" quote="Y52.2 (#GY52.1) = YR52.2 VrS67.2 VVrS67.2 VytVrS67.2">
+                    <ab n="a" xml:id="GHB3.2a">vaŋhuca. vaŋhā̊sca. āfrīnāmi. vīspaiiā̊. aṣ̌aōnō. stōiš.</ab>
+					<ab n="b" xml:id="GHB3.2b">haiθiiāica. bauuąiθiiāica. būš́iiąiθiiāica.</ab>
+					<ab n="c" xml:id="GHB3.2c">aṣ̌īm. rāsaiṇtīm. darəγō.vārəθmanəm.</ab>
+					<ab n="d" xml:id="GHB3.2d">mišācim. huuō.aiβišācīm. mišācim. āfrasā̊ŋhaitīm.</ab>
+				</div>
+				<div type="NerangStanza" xml:id="HB3.3" corresp="#GHB4" quote="Y52.3 (#GY52.2) = YR52.3 VrS67.3 VVrS67.3 VytVrS67.3">
+                    <ab n="a" xml:id="GHB3.3a">barəṇtīm. vīspā̊. baēšazā̊. apąmca. gauuąmca. uruuaranąmca.</ab>
+					<ab n="b" xml:id="GHB3.3b">tauruuaiieiṇtīm. vīspā̊. t̰baēšā̊. daēuuanąm. maṣ̌iiānąmca.</ab>
+					<ab n="c" xml:id="GHB3.3c">arəš́iiaṇtąm. aɱāica. nmānāi. aɱāica. nmānahe. nmānō.patə̄e.</ab>
+				</div>
+				<div type="NerangStanza" xml:id="HB3.4" corresp="#GHB4" quote="Y52.4 (#GY52.3) = YR52.4 VrS67.4 VVrS67.4 VytVrS67.4">
+                    <ab n="a" xml:id="GHB3.4a">vaŋᵛhīšca. aδā̊. vaŋᵛhīšca. aṣ̌aiiō.</ab>
+					<ab n="b" xml:id="GHB3.4b">hupauruuā̊. vahehīš. aparā̊. rāsaiṇtīš. darəγō.vārəθmanō.</ab>
+					<ab n="c" xml:id="GHB3.4c">yaθa.nō. mazištā̊sca. vahištā̊sca. sraēštā̊sca. aṣ̌aiiō. ərənauuaṇte.</ab>
+				</div>
+				<div type="NerangStanza" xml:id="HB3.5" corresp="#GHB4" quote="Y52.5 (#GY52.4) = YR52.5 VrS67.5 VVrS67.5 VytVrS67.5">
+                    <ab n="a" xml:id="GHB3.5a">aməṣ̌anąm. spəṇtaną.yasnāica. vaɱāica. xšnaōθrāica. frasastaiiaēca.</ab>
+					<ab n="b" xml:id="GHB3.5b">fradaθāi. ahe. nmānahe. fradaθāi. vīspaiiā̊. aṣ̌aōnō. stōiš.</ab>
+					<ab n="c" xml:id="GHB3.5c">hamistə̄e. vīspaiiā̊. druuatō. stoiš.</ab>
+					<ab n="d" xml:id="GHB3.5d" quote="Y45.6b (#Y45.6b)">stauuas. aṣ̌ā. yə̄. hudā̊. yōi. həṇtī.</ab>
+				</div>
+				<div type="NerangStanza" xml:id="HB3.6" corresp="#GHB4" quote="Y52.6 (#GY52.5) = YR52.6 VrS67.6 VVrS67.6 VytVrS67.6">
+                    <ab n="a" xml:id="GHB3.6a">vasasca.tū. ahura.mazda. uštāca. xšaēša. hauuanąm. dāmanąm.</ab>
+					<ab n="b" xml:id="GHB3.6b">vasō. āpō. vasō. uruuarā̊. vasō. vīspa. vohu. aṣ̌aciθra.</ab>
+					<ab n="c" xml:id="GHB3.6c">xšaiiamnəm. aṣ̌auuanəm. dāiiata. axšaiiamnəm. druuaṇtəm.</ab>
+				</div>
+				<div type="NerangStanza" xml:id="HB3.7" corresp="#GHB4" quote="Y52.7 (#GY52.6) = YR52.7 VrS67.7 VVrS67.7 VytVrS67.7 = Y60.11 (#GY60.9) = YR60.11 VrS84.9 VVrS84.9 VytVrS84.9">
+                    <ab n="a" xml:id="GHB3.7a">vasō.xšaθrō. hiiāt̰. aṣ̌auua. auuasō.xšaθrō. hiiāt̰. druuā̊.</ab>
+					<ab n="b" xml:id="GHB3.7b">gatō. hamistō. nižbərətō. haca. spəṇtahe. maińiiə̄uš. dāmabiiō.varatō. auuasō.xšaθrō.</ab>
+				</div>
+				<div type="NerangStanza" xml:id="HB3.8" corresp="#GHB4" quote="Y52.8 (#GY52.7) = YR52.8 VrS67.8 VVrS67.8 VytVrS67.8) = Y60.12 (#GY60.10) = YR60.12 VrS84.10 VVrS84.10 VytVrS84.10">
+                    <ab n="a" xml:id="GHB3.8a">haxšaiia. azəmcit̰. yō. zaraθuštrō. fratəmą. nmānanąmca. vīsąmca. zaṇtunąmca. dax́iiunąmca.</ab>
+					<ab n="b" xml:id="GHB3.8b">aŋ́hā̊. daēnaiiā̊. anumataiiaēca. anuxtaiiaēca. anuuarštaiiaēca. yā. āhūiriš. zaraθuštriš.</ab>
+				</div>
+				<div type="NerangStanza" xml:id="HB3.9" corresp="#GHB5" quote="Y60.13 (#GY60.11) = YR60.13 VrS84.11 VVrS84.11 VytVrS84.11) = Y71.32 (#GY71.29) = YR71.32 VrS96.32 VVrS96.32 VytVrS96.32">
+					<ab n="a" xml:id="GHB3.9a">yaθa.nō. ā̊ŋhąm. š́iiātō.  manā̊. vahištō. uruuąnō.</ab>
+					<ab n="b" xml:id="GHB3.9a">xᵛāθrauuaitīš. tanuuō. həṇti. vahištō. aŋhuš</ab>
+					<ab n="c" xml:id="GHB3.9a">ākā̊scōit̰. āhūire. mazda. jasəṇtąm.</ab>
+				</div>
+				<div type="NerangStanza" xml:id="HB3.10" corresp="#GHB5" quote="Y60.14 (#GY60.12) = YR60.14 VrS84.12 VVrS84.12 VytVrS84.12 = Y71.33 (#GY71.30) = YR71.33 VrS96.33 VVrS96.33 VytVrS96.33">
+					<ab n="a" xml:id="GHB3.10a">aṣ̌a. vahišta. aṣ̌a. sraēšta. darəsāma.</ab>
+					<ab n="b" xml:id="GHB3.10a">θβā. pairi. θβā. jamiiama. haməm. θβā. haxma.</ab>
+				</div>
+				<div type="NerangStanza" xml:id="HB3.11" corresp="#GHB5">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+                </div>
+				<div type="NerangStanza" xml:id="HB3.12" corresp="#GHB5">
+					<ab n="a" xml:id="GHB3.12a">aṣ̌a. vahišta. aṣ̌a. sraēšta. darəsāma.</ab>
+					<ab n="b" xml:id="GHB3.12a">θβā. pairi. θβā. jamiiama. haməm. θβā. haxma.</ab>
+				</div>
+				<div type="NerangStanza" xml:id="HB3.13" corresp="#GHB5">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+                </div>
+				<div type="NerangStanza" xml:id="HB3.14" corresp="#GHB5">
+					<ab n="a" xml:id="GHB3.14a">aṣ̌a. vahišta. aṣ̌a. sraēšta. darəsāma.</ab>
+					<ab n="b" xml:id="GHB3.14a">θβā. pairi. θβā. jamiiama. haməm. θβā. haxma.</ab>
+				</div>
+				<div type="NerangStanza" xml:id="HB3.15" corresp="#GHB5">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+                </div>
+				<div type="NerangStanza" xml:id="HB3.16" corresp="#GHB5">
+					<ab n="a" xml:id="GHB3.16a">aɱāi. raēšca. xᵛarənasca. aɱāi. tanuuō. druuatātəm.</ab>
+                    <ab n="b" xml:id="GHB3.16b">aɱāi. tanuuō. vazduuarə. aɱāi. tanuuō. vərəϑrəm.</ab>
+                    <ab n="c" xml:id="GHB3.16c">aɱāi. īštīm. pouruš.xᵛāϑrąm.</ab>
+                    <ab n="d" xml:id="GHB3.16d">aɱāi. āsnąmcit̰. frazaṇtīm. aɱāi. darəγąm. darəγō.jītīm. aɱāi. vahištəm. ahūm. aṣ̌aōnąm. raōcaŋhəm. vīspō.xᵛāϑrəm.</ab>
+				</div>	
+				<div type="NerangStanza" xml:id="HB3.17" corresp="#GHB5"> <!-- The expected formula aθa. jamiiāt̰. yaθa. āfrīnāmi. is missing in K18c (cf. the Iranian mss. in the case of the SrB -->
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+				</div>
+				<div type="NerangStanza" xml:id="HB3.18" corresp="#GHB5">
+                    <ab n="a" xml:id="GHB3.18a">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+                    <ab n="b" xml:id="GHB3.18b">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+                    <ab n="c" xml:id="GHB3.18c">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+				</div>
+				<div type="NerangStanza" xml:id="HB3.19" corresp="#GHB5">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+				</div>
+				<div type="NerangStanza" xml:id="HB3.20" corresp="#GHB5">
+                    <ab n="a" xml:id="GHB3.20a">jasa.mē. auuaŋhe. mazda.</ab>
+                    <ab n="b" xml:id="GHB3.20b">jasa.mē. auuaŋhe. mazda.</ab>
+                    <ab n="c" xml:id="GHB3.20c">jasa.mē. auuaŋhe. mazda.</ab>
+				</div>
+            	<div type="NerangStanza" xml:id="HB3.21" corresp="#GHB5">
+            		<ab n="a" xml:id="GHB3.21a">amahe. hutāštahe. huraōδahe.</ab> <!-- Xšnūman  Gen day 20-->
+            		<ab n="b" xml:id="GHB3.21b">vərəθraγnahe. ahuraδātahe. vanaiṇtiiā̊sca. uparatātō.</ab>
+            		<ab n="c" xml:id="GHB3.21c">rāmanasca. xᵛāstrahe. vaiiaōš. uparō.kairiiehe. taraδātō. ańiiāiš. dāmąn.</ab> <!-- Xšnūman  Gen day 21-->
+            		<ab n="d" xml:id="GHB3.21d">aētat̰. tē. vaiiō. yat̰. tē. asti. spəṇtō.maińiiaōm.</ab>
+            		<ab n="e" xml:id="GHB3.21e">θβāṣ̌ahe. xᵛaδātahe. zruuānahe. akaranahe. zruuānahe. darəγō.xᵛaδātahe.</ab><!-- In the IndXA it follows the kərba. mažd. Vāj -->
+            	</div>				
+            	<div type="NerangStanza" xml:id="HB3.22" corresp="#GHB5">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+                </div>
+			</div>
+</div>

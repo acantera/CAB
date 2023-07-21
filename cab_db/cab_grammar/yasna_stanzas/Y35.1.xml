@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y35.1" status="created">  <!-- created, approved, updated--> <header>
+    <creators>
+        <creator>Porro</creator>
+        <creator>Cantera</creator>
+    </creators>
+    <created>1 June 2019</created>
+</header>
+    <div type="Stanza" sameAs="" xml:id="Y35.1" headerPointer="Head35">
+        <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY35.1"/>
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels>
+        <ab><em>bərəjā vaŋhə̄uš aṣ̌ahe bərəjā daēnaiiā̊ vaŋhuiiā̊ māzdaiiasnōiš</em> = VrS65.15; ~ Y15.1 <em>bərəja vaŋhə̄uš aṣ̌ahe bərəja daēnaiiā̊ vaŋhuiiā̊ māzdaiiasnōiš</em>.</ab>
+    </Parallels>
+    <Ritual>
+        <ab>Cf. N63.8 (cf. <bibl>Kotwal and Kreyenbroek, 2003</bibl>: 272-3):</ab>
+        <ab class="ab_indent"><em>frabərətarš *gātauua ẏasnəm haptaŋhāitīm *frāiiazāiti</em></ab>
+            <ab class="ab_indent"> (The <em>zaōtar</em> performs the Yasna Haptaŋhāiti at the place of the <em>frabərətar</em>."</ab>
+          <ab>Cf. N63.9 (cf. <bibl>Kotwal and Kreyenbroek, 2003</bibl>: 272-3):</ab>  
+            <ab class="ab_indent"> <em>  u-š hamāg
+                pad gāh ī zōtān gōwišn be yasn ī haft-hād cē ān ka pad gāh ī
+                frabardārān  ā šāyēd u-š abestāg pad barsom bē
+                gōwišn u-š be šawišn u-š kār xūb be kunišn u-š abāz āyišn u-š dast abar barsom nihišn u-š ōh rāyēnišn</em></ab>
+            <ab class="ab_indent">He has to recite all text at the place of the <em>zōt</em>, except the Yasna Haptaŋhāiti, for , when (he recites) it at the place of the <em>frabardār
+            </em>, it is allowed. He has to say the <em>abastāg</em> to the <em>barsom</em>. He has to go (to the place of the <em>frabardār</em>), perform correctly his duty and 
+                come back, put his hand on the <em>barsom</em> and continue the recitation."</ab> 
+        <ab>Cf. N47.39b (cf. <bibl>Kotwal and Kreyenbroek, 2003</bibl>: 214-5):</ab>
+        <ab class="ab_indent">
+            <em>pad </em> ahurəm mazdąm <em> abāg wardēnišn</em></ab>
+        <ab class="ab_indent">
+            <em>pad </em> aməṣ̌ā spəṇtā <em> be āwarišn</em></ab>
+        <ab class="ab_indent"> At <em> ahurəm mazdąm </em> he has to turn it around (the fire).</ab>
+        <ab class="ab_indent"> At <em> aməṣ̌ā spəṇtā </em> he has to remove it (from the fire).</ab>
+         </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY35.1"/>
+    <include type="W" corresp="WTrY35.1"/><include type="K" corresp="KTrY35.1"/><include type="D" corresp="DTrY35.1"/></translation>
+</text>

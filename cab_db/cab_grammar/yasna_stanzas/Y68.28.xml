@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y68.28" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y68.28" quote="Y38.2-5 x2">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y68.22NerangTransc.g"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY68.21g"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY68.21h"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab><em>vaŋᵛhīm iδāt̰ ādąm vaŋᵛhīm aṣ̌īm</em> = Y68.23; ~ VrS11.34 <em>vaŋᵛhīmca ādąm vaŋᵛhīmca aṣ̌īm</em> ~ Y52.4 <em>vaŋᵛhīšca aδā̊ vaŋᵛhīšca aṣ̌aiiō</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY68.28"/>
+   </translation>
+</text>

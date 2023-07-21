@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL4.1.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="1" xml:id="ParagnaLL4.1.1">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Neyrang-e urwarān čidan ParagnaLL4.1.1 Var. a (Mss. K7, RJ):</ab>
+            <ab class="ab_indent">
+                avval nirang urvarān čidan mašrabe-ye āb va fanām va kārd va barsom-čin piš-e deraḫt-e urvarān šodan wa fanām bastan <em>xšnaoθra ahurahe mazdā̊ aṣ̌əm vōhū</em> yek guftan
+                va biḫ-e deraḫt-e urwarān pāk kardan va dast va kārd va biḫ-e urwarān b-āb-e pādyāvi pāk šostan dovvom bār-e digar <em>xšnaoθra ahurahe mazdā̊ ašəm vohū</em> yek ḫᵛāndan 
+                dast va biḫ-e urvarān b-āb-e bādyāvi šostan va seivom bār-e digar <em>xšnaoθra ahurahe mazdā̊ ašəm vohū</em> yek guftan va kārd va biḫ-e urwarān be-āb pādyāvi šostan</ab>
+            <ab class="ab_indent">
+                "First, the instruction for cutting the <em>urvarān</em>. He should go to the tree of the <em>urvarān</em> (pomegranate) (bringing) a watter vessel, the <em>padām</em>,
+                knife and the <em>barsom-čin</em> and bind the <em>padām</em>. He should recite <em>xšnaoθra ahurahe mazdā̊</em> and one <em>Aṣ̌əm Vohū</em>. He should purify
+                a branch (?) of the <em>urvarān</em>-tree and wash the hand, the knife and the branch of the <em>urvarān</em> with <em>pādyāvi</em>-water. Second, he should recite 
+                another time <em>xšnaoθra ahurahe mazdā̊</em> and one <em>Aṣ̌əm Vohū</em> and wash the hand and the branch of the <em>urvarān</em> with <em>pādyāvi</em>-water. 
+                Third, he should recite another time <em>xšnaoθra ahurahe mazdā̊</em> and one <em>Aṣ̌əm Vohū</em> and wash the knife and the branch of the <em>urvarān</em> with 
+                <em>pādyāvi</em>-water."</ab>
+            
+            <ab>ParagnaLL4.1.1 Var. b (Mss. K36, 31):</ab>
+            <ab class="ab_indent">
+                urvarām čidan naḫost pāy-e urvarām ḫāli kardan va āb-e pādyāv kardan va urvarām šostan <em>xšnaoθra ahurahe mazdā̊ aṣ̌əm vōhū</em> yek goftan va digar bār āb pādyāv 
+                kardan va dast va kārd va urvarām be pādyāv kardan va urvarām tarāšidan va and kas sar-e urvarān bar dāštan va sedigar bār ḫšnautra ahurahe mazdā ašem vohi yek goftan va 
+                āb pādyāv kardan va dast va kārd va urvarām šostan</ab> 
+            <ab class="ab_indent">
+                "The cutting of the <em>urvarām</em>. First, he should do the foot (of the plant) empty, prepare the <em>pādyāv</em>-water and wash the <em>urvarām</em>. He should 
+                recite <em>xšnaoθra ahurahe mazdā̊</em> and one <em>Aṣ̌əm Vohū</em>. He should prepare another time the <em>pādyāv</em>-water, wash the hand, the knife and the 
+                <em>urvarām</em> with <em>pādyāv</em>, peel the <em>urvarām</em> and take everything that is on the <em>urvarām</em>. He should recite three additional times  
+                <em>xšnaoθra ahurahe mazdā̊</em> and one <em>Aṣ̌əm Vohū</em>. He should prepare the <em>pādyāv</em>-water and wash the hand, the knife and the <em>urvarām</em>."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL4.1.1"/>
+    </translation>
+</text>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y68.21" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y68.21" quote="Y52.9">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY68.19c"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y68.20NerangTransc.a"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y68.21 (mss. 5, 40, 88, 400, 410 (sec. m. marg.), 2005, 2101, 2102, 2106, 4000, 4010, 4020, 4025, 4060, 4161, 4162, 5020, 4056):</ab>
+         <ab class="ab_indent">
+            <em>aϑa jamiiāt̰ yaθā āfrīnāmi</em> ǰām purr az āb bē kunišn</ab>  
+         <ab class="ab_indent">
+            "At <em>aϑa jamiiāt̰ yaθā āfrīnāmi</em>, he has to fill the bowl with water."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY68.21"/>
+      <include type="W" corresp="WTrY68.19"/>
+      <include type="K" corresp="KTrY68.19"/>
+      <include type="D" corresp="DTrY68.19"/>
+   </translation>
+</text>

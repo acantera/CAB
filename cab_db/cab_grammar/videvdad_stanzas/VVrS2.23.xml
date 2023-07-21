@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS2.23" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y2.12" xml:id="VVrS2.23">
+         <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY2.11c" on_line="in1lineblock"/>
+         <include href="/db/apps/cab_db/cab_rituals/blocks/RozAcc" xpointer="RozAcc1" on_line="in1line"/>
+         <!-- All days possible -->
+         <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY2.11d" on_line="in1line"/>
+         <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY2.11e" on_line="in1lineblock"/>
+         <include href="/db/apps/cab_db/cab_rituals/blocks/MahAcc" xpointer="MahAcc1" on_line="in1line"/>
+         <!-- All months possible -->
+         <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY2.11f" on_line="in1line"/>
+      </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: vid. VrS2.22, VVrS2.26.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary>
+            <ab>VVrS2.5 (Per.) inǧā rāsfī ḫamuš 4025. No rest of the rāsfī reciting together with the zōt afterwards, but cf. VrS2.22 and also VVrS2.26 (Per.) rāsfī ḫamuš 4025.</ab>
+        </Commentary>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab><em>aɱiia zaōϑre barəsmanaēca</em>] <em>aɱ.  z. b.</em> YWM W BYRH gwptn' 4000, 4050; <em>ahmiia zaōϑre barəsmanaēca</em> YWM W BYRH ZKš YKOYMWNd gwptn' <em>āiiese yešti</em> 4010, 4161;
+                <em>ahmiia zaōϑre barəsmanaēca</em> YWM W BYRH ZKš YKOYMWNd gwptn' <em>ahurəm mazdąm raēuuaṇtəm xᵛarənaŋᵛhaṇtəm yazamaide āiiese yešti</em> 4025; 
+                <em>ahmiia zaōϑre barəsmanaēca</em> YWM W BYRH ZKš ḆYN YKOYMWNd gwptn' 4020, 4030, 4162; <em>aɱ.  z. b.</em> YWM W BYRH gwptn' <em>ā. y.</em> 4040; YWM W BYRH 4075.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrVVrS2.23"/>
+    </translation>
+</text>

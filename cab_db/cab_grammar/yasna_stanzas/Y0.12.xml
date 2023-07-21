@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y0.12" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y0.12">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y0.12NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY0.14a"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>zōt ud rāspīg: Kotwal und Boyd; zōt: Anklesaria.</div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical>
+         <ab><em>fərašōtəməm</em>] add. <em>staomi aṣ̌əm</em> Anklesaria.</ab>
+      </Critical>
+      <Commentary>
+         <ab>Y0.12a <em>haiϑiiā.varəštąm.</em>] cod.; Geldner <em>haiϑiiāuuarštąm.</em>; Kellens <em>haiϑiiā. varəštąm</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>haiϑiiā.varəštąm hiiat̰ vasnā fərašō.təməm</em> quotes Y50.11; = Y64.8, Y65.14.</ab>
+   </Parallels>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y0.12 Var. a (mss. 15, 82, 2007, 2010, 2030, 2040, 2065, 2070, 2101, 2109, 4000a, 4010, 4020, 4025, 4050, 4055, 4063, 4075, 4161, 5010, 5020):</ab>
+         <ab class="ab_indent">
+            barsom frōd ō ī barsomdān nihišn <em>xšnaōϑra ahurahe mazdā̊ tarōidīte aŋhrahe maińiiə̄uš haiϑiiāuuarštąm hiiat̰ vasnā fərašōtəməm</em> </ab>
+         <ab class="ab_indent">
+            "He should put the <em>barsom</em> on the <em>barsomdān</em> (and then recite:) 
+            <em>xšnaōϑra ahurahe mazdā̊ tarōidīte aŋhrahe maińiiə̄uš haiϑiiāuuarštąm hiiat̰ vasnā fərašōtəməm</em>"</ab>
+         <ab>Y0.12 Var. b (mss. 40, 400, 410, 2101):</ab>
+         <ab class="ab_indent">
+            frōd nišastan barsom ō ī barsomdān nihādan ka nē nihēd ā nē šāyēd <em>xšnaōϑra ahurahe mazdā̊ tarōidīte aŋhrahe maińiiə̄uš haiϑiiāuuarštą hiiat̰ vasnā fərašōtəməm</em></ab>
+         <ab class="ab_indent">"He should sit down and put the <em>barsom</em> on the <em>barsomdān</em>. 
+            It is not permissible not to lay it down. (Then he has to say:) <em>xšnaōϑra ahurahe mazdā̊ tarōidīte aŋhrahe maińiiə̄uš haiϑiiāuuarštąm hiiat̰ vasnā fərašōtəməm</em>."</ab>
+      </Nerangs>
+      <Quotations id="ritualQuotations">
+         <ab>N28.36 <bibl.>Kotwal and Kreyenbroek 2003</bibl.>, pp. 92-3:</ab>
+         <ab class="ab_indent">
+            pad <em>haiθiiā.varštąm</em> barsom frōd ō barsomdān nihišn ka nē nihēd ā nē šāyēd</ab>
+         <ab class="ab_indent">
+            "At <em>haiθiiā.varštąm</em> he should lay down the <em>barsom</em> on the <em>barsomdān</em>; it is not permissible not to lay it down."</ab> 
+      </Quotations>
+      
+      <ModernPractice id="ritualModernPractice">
+         <ab>Cf. <bibl.>Kotwal and Boyd, 1991</bibl.> p. 92:</ab>
+         <ab>"Both priests declare their firm desire to please Ahura Mazda with truthful actions which repudiate Ahriman (<em>khshnaothra ... haithyā-varshtām</em>).
+            While saying this the <em>zōt</em> once again bends over and scoops water with his right hand from the large basin and sprinkles it on the date-palm cord."</ab>
+      </ModernPractice>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY0.12"/>
+      <include type="W" corresp="WTrY0.14a"/>
+      <include type="K" corresp="KTrY0.1"/>
+      <include type="D" corresp="DTrY0.14a"/>
+   </translation>
+</text>

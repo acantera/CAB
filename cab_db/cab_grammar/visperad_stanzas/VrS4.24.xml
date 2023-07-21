@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS4.24" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y4.24" xml:id="VrS4.24">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY4.23"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. VrS4.8, VrS4.17.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS4.24 Var. a (ms. 2030):</ab>
+         <ab class="ab_indent">            
+         <em>āat̰ dīš āuuaēδaiiamahi sraōšahe aṣ̌iiehe taxmahe tanu.mąϑrahe darši.draōš āhūiriiehe xšnaōϑra</em> ēsm ud bōy ō ī ātaxš dahišn <em>yasnāica vaɱāica xšnaōϑrāica frasastaiiaēca</em>.
+            <em>āat̰  dīš āuuaēδaiiamahi zaraϑuštrahe spitāmahe aṣ̌ōnō frauuaṣ̌ə̄e xšnaōϑra</em> ēsm ud bōy ō ī ātaxš dahišn <em>yasnāica vaɱāica xšnaōϑrāica frasastaiiaēca</em>.
+            <em>āat̰ dīš āuuaēδaiiamahi tauua ātarš puϑra ahurahe mazdā̊ xšnaōϑra</em> ēsm ud bōy ō ī ātaxš dahišn ēsm ud bōy ō ī ātaxš dahišn <em>yasnāica vaɱāica xšnaōϑrāica frasastaiiaēca</em>.</ab>
+         <ab class="ab_indent"> 
+         "<em>āat̰ dīš āuuaēδaiiamahi sraōšahe aṣ̌iiehe taxmahe tanu.mąϑrahe darši.draōš āhūiriiehe xšnaōϑra</em> he has to give a piece of <em>ēsm</em> and <em>bōy</em> to the fire <em>yasnāica vaɱāica xšnaōϑrāica frasastaiiaēca</em>.
+            <em>āat̰  dīš āuuaēδaiiamahi zaraϑuštrahe spitāmahe aṣ̌ōnō frauuaṣ̌ə̄e xšnaōϑra</em> he has to give a piece of <em>ēsm</em> and <em>bōy</em> to the fire <em>yasnāica vaɱāica xšnaōϑrāica frasastaiiaēca</em>.
+            <em>āat̰ dīš āuuaēδaiiamahi tauua ātarš puϑra ahurahe mazdā̊ xšnaōϑra</em> he has to give a piece of <em>ēsm</em> and <em>bōy</em> to the fire; <em>yasnāica vaɱāica xšnaōϑrāica frasastaiiaēca</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation/>
+</text>

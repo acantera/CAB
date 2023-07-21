@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y16.6" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y16.6">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY16.6"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y16.0.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab><em>daδuuā̊ŋhəm ahurəm mazdąm yazamaide</em> = Y6.1, Y16.4, Y16.5, VrS81.1.</ab>
+      <ab> <em>daēnąm vaŋᵛhīm māzdaiiasnīm</em> = Y6.12; ~ Y15.1, Y22.4, Y22.24, Y22.25, Y24.3, Y24.8, Y24.29, Y25.3, Y35.1, Y53.11 (x2), Y66.19, Y66.20, Y70.3, Y72.7, Y72.11, VrS87.11 <em>daēnaiiā̊ vaŋhuiiā̊ māzdaiiasnōiš</em>; 
+         ~ Y9.26, Yt16.5, Yt16.8, Yt16.11, Yt16.14, Yt16.16, Yt16.18 <em>vaŋᵛhīm daēnąm māzdaiiasnīm</em>.</ab>
+      <ab><em>aṣ̌īm vaŋᵛhīm</em> = Y6.14, Y13.1, Y17.15, Y38.2, Y59.15, VrS81.14, Yt17 (<em>passim</em>); ~ Y43.6, Y68.22 <em>vaŋᵛhīm aṣ̌īm</em>.</ab>
+      <ab><em>arštātəm yazamaide</em> = VrS18.2, VrS28.3.</ab>
+      <ab><em>asmanəm yazamaide</em> ~ Y71.9 <em>vīspəmca asmanəm yazamaide</em></ab>
+      <ab><em>mąϑrəm spəṇtəm yazamaide</em> ~ Y71.5 <em>vīspəmca mąϑrəm spəṇtəm yazamaide</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY16.6"/>
+      <include type="W" corresp="WTrY16.6"/>
+      <include type="K" corresp="KTrY16.6"/>
+      <include type="D" corresp="DTrY16.6"/>
+   </translation>
+</text>

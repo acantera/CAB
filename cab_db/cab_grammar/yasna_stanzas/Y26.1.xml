@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y26.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y26.2" shnumandep="1">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY26.2"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y25.4.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>Y26.1 = Y59.20, VrS81.19, DrYt4.10, Yt13.80.</ab>
+      <ab>VrS30.1-13 = DoHom7.1-13.</ab>
+      <ab>VrS30.1 = DoHom7.1.</ab>
+      <ab><em>vīspanąmca ā̊ŋhąm paōiriianąm frauuaṣ̌inąm</em> ~ Y22.26 <em>auuaŋ́hā frauuaṣ̌aiiō yā̊ paōiriia ā̊ŋharə</em>.</ab>
+      <ab><em>yazamaide frauuaṣ̌īm auuąm yąm ahurahe mazdā̊</em> ~ Y22.27 <em>āiiese yešti āfrauuaṣ̌i ahurahe mazdā̊</em>.</ab>
+      <ab><em>mazištąmca vahištąmca sraēštąmca xraōždištąmca xraϑβištąmca hukərəptəmąmca aṣ̌āt̰ apanō.təmąmca</em> = VS19.14; ~ Y1.11 <em>mazištaheca vahištaheca sraēštaheca xraōždištaheca xraϑβištaheca hukərəptəmaheca aṣ̌āt̰ apanō.təmaheca</em>.</ab>
+      <ab><em>mazištąmca vahištąmca sraēštąmca</em> ~ Y1.1, Yt13.91, Yt13.92 <em>mazištaheca vahištaheca sraēštaheca</em>; ~ Y12.14, VrS11.28, VrS32.3 <em>mazištāca vahištāca sraēštāca</em>;
+         ~ Y58.4, VrS76.10 <em>masānascā vaŋhānascā sraiianascā</em>.</ab>
+      <ab><em>aṣ̌āt̰. apanō.təmaheca</em> ~ Y57.6, Y70.7, Y71.25, Yt11.9 <em>aṣ̌ahe apanō.təmō</em>; ~ Y59.20 <em>aṣ̌āt̰. apanō.təmąmca</em>; ~ Y33.5 <em>apānō [...] aṣ̌āt̰ ā ərəzūš paϑō</em>. See <bibl>Kellens, 1996</bibl>: 44.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY26.1"/>
+      <include type="W" corresp="WTrY26.2"/>
+      <include type="K" corresp="KTrY26.2"/>
+      <include type="D" corresp="DTrY26.2"/>
+   </translation>
+</text>

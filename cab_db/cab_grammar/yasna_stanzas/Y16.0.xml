@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y16.0" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y16.0">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr2"/>
+   </div>
+   <Speaker>
+   <SpeakerInfo>
+      <div>
+         <ab class="ab_indent">zōt: Kotwal and Boyd.</ab>
+      </div>
+   </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab><em>ātrauuaxšō</em>] 5, 8, 88, 110, 231, 234, 235, 400, 410, 500, 510, Geldner; <em>yō ātrauuaxšō</em> 15, 60, 83, 100, 672, 677. Vid. Modern Practice <em>yō ātrauuaxšō</em>.</ab>
+         <RecitationInstruction>
+            <ab><em>aϑā ratuš...</em>] <em>aϑā ratuš</em> OD <em>mraōtū</em> 231, 400; <em>aϑā ratuš</em> OD <em>viδuuā̊ mraōtū</em> 235.</ab>
+         </RecitationInstruction>
+      </Commentary>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <ModernPractice id="ritualModernPractice">
+         <ab><ab><bibl>Kotwal and Boyd, 1991</bibl> p. 102, n. 107:</ab> 
+            <ab class="ab_indent">"This is the only occurrence in the entire Yasna liturgy where the <em>zōt</em> uses the phrase <em>y. a. v. yō ātarevakhshō... in place of y.a. v. yō zaotā...</em> As previously noted (cf. above, n. 69),
+               <em>ātarwakhsh</em> refers to one of the eight priests in Avestan times. It appears that in the ancient Yasna liturgy the <em>ātarwakhsh</em> may have been performing some important function at this
+               point in the Yasna, hence this reference. It is most appropriate, therefore, that the <em>rāspī</em> stands at the place of the <em>ātarwakhsh</em> while responding to the <em>zōt</em>."</ab></ab>
+      </ModernPractice>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY16.0"/>
+      <include type="W" corresp="WTrY15.4"/>
+      <include type="K" corresp="KTrY15.4"/>
+      <include type="D" corresp="DTrY15.4"/>
+   </translation>
+</text>

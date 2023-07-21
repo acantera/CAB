@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS3.15" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y3.15" xml:id="VrS3.15">
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY3.14"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. VrS3.6, VrS3.14.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab><em>āiiese yešti ... mazdaδātanąm</em>] <em>vīspanąmca apąm mazdaδātanąm</em> OD OL Y <em>aṣ̌aōninąmca aṣ̌ahe raϑβąm</em> (VrS3.19) 2109.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation/>
+</text>

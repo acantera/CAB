@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS50.7" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS50.7">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YeH" xpointer="YeH"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YeH" xpointer="YeH"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS50.7 (mss. 2000, 2035):</ab>
+         <ab class="ab_indent">
+            ka dō-hōmaāst yazēd ka yasn sar guft tā <em>vīspąmcā aməṣ̌ą spəṇtą yazamaide aṣ̌əm vohū</em> sē guftan</ab> 
+         <ab class="ab_indent">
+            "When he performs a Dō-Hōmāst, when (the priest) has said the end of the Yasn until <em>vīspąmcā aməṣ̌ą spəṇtą yazamaide</em>, they should recite three <em>Aṣ̌əm Vohū</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS50.7"/>
+   </translation>
+</text>

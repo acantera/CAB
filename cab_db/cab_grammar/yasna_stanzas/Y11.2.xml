@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y11.2" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y11.2">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY11.2"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y11.1.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y11.2b <em>yūxta ... aiβišasta ... niϑaxta</em>] <bibl>Pirart, 2004</bibl> p. 109 n. 355 considers them as loc. sg. of nouns in <em>-ti</em>, against nom. sg. of nouns. in <em>-tar</em> (<bibl>Benveniste, 1935</bibl> p. 35); Bartholomae as infinitives. Cf. Y11.1 and Y11.3 <em>buiiā̊</em> + nom.</ab>
+         <ab>Y11.2c <em>jaiδiiehi</em>] Pirart <em>jaiδiiehe</em>.</ab>
+         <ab>Y11.2d <em>pouru.maiti</em>] Kellens (Bartholomae), Pirart; Geldner <em>pourumaiti</em>.</ab>
+         <ab>Y11.2d <em>karšaiiā̊</em>] cod. Geldner, Kellens, Pirart <em>karšuiiā̊</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY11.2"/>
+      <include type="W" corresp="WTrY11.2"/>
+      <include type="K" corresp="KTrY11.2"/>
+      <include type="D" corresp="DTrY11.2"/>
+   </translation>
+</text>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y51.7" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y51.7">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY51.7"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab><em>yə̄ gąm tašō apascā uruuarā̊sca</em> = Y18.2, Y65.15; ~ Y8.4 <em>yā̊ apasca uruuarā̊</em>; ~ Y9.4 <em>āpa uruuaire</em>; ~ Y8.8, Y11.4, Y52.6, Y60.10, Y68.17, Y71.29 <em>vasō. āpō. vasō. uruuarā̊.</em>; 
+         ~ Y12.12 <em>yā varanā āpō yā varanā uruuarā̊   </em>; Y16.9 ~ <em>yazamaide vīspā̊ āpō yazamaide vīspā uruuarā̊</em>; ~ Y37.1 <em>dāt̰ apascā dāt̰ uruuarā̊sca vaŋᵛhīš</em>; ~ Y44.4 <em>kə̄ apō uruuarā̊scā</em>; 
+         ~ VrS65.78, VrS65.80 <em>auui apąmca vaŋᵛhinąm uruuuarnąmca</em>; ~ VrS65.78, VrS65.80 <em>yā̊ vaŋᵛhīš yā̊ āpō yā̊sca uruuarā̊</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY51.8"/>
+   </translation>
+</text>

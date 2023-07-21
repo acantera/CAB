@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y9.32" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y9.32">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY9.32"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y9.32NerangTransc.a"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y9.3.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y9.32a <em>upaštā.bairiiāi</em>] Geldner, Kellens; Pirart <em>upastā.bairiiāi</em>.</ab>
+         <ab>Y9.32a <em>frafrauuaite</em>] Kellens, Pirart; Geldner <em>frafrauuaiti</em>. Vid. <bibl>Kellens, 1984</bibl>, pp. 77-78.</ab>
+         <ab>Y9.32a ⁺<em>vātō.š́ūtəm</em>] em. Kellens, Pirart; Geldner <em>vātō.šūtəm</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>
+         <em>kəhrpəm nāšəmnāi aṣ̌aōne haōma zāire vadarə jaiδi</em> = Y9.30 (x2), Y9.32 (x2).</ab> 
+      <ab>
+            <em>haōma zāire</em> ~ Y9.17 <em>nī.tē zāire</em>; ~ Y10.13 <em>haōma zāire</em>; ~ Y10.21 <em>haōməm zāirīm</em>; Y42.5 <em>haōməmcā zāirīm</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY9.32"/>
+
+        <include type="W" corresp="WTrY9.32"/>
+        <include type="K" corresp="KTrY9.32"/>
+        <include type="D" corresp="DTrY9.32"/>
+    </translation>
+</text>

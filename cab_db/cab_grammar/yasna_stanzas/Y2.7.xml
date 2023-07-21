@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y2.7" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y2.7">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.7a" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccAY" xpointer="RatuLetAccAY1.1" on_line="in1line"/>
+               <!-- successive gāh from Y2-6 -->
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.7b" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccAY" xpointer="RatuLetAccAY1.2" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.7c" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.7d" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccAY" xpointer="RatuLetAccAY1.3" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.7e" on_line="in1line"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. Y2.4.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels>
+    <ab>Y2.7 ≈ Y1.7, Y3.9, Y4.12, Y6.6, Y7.10, Y17.6, Y22.10, Y24.17, Y59.6, Y66.7, VrS78.19, VrS79.12, VrS81.6, VrS82.7.</ab>
+    <ab>
+            <em>sraōšəm aṣ̌īm huraōδəm vərəϑrājanəm āiiese yešti rašnūm razištəm</em> ~ Y70.3 <em>yā sraōšahe aṣ̌iiehe yā rašnaōš razištahe</em>
+        </ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrY2.7"/>
+    <include type="W" corresp="WTrY2.7"/>
+        <include type="K" corresp="KTrY2.7"/>
+        <include type="D" corresp="DTrY2.7"/>
+    </translation>
+</text>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y3.3" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y3.3">
+        <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY3.3"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: Y3.1.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab>Y3.3c <em>gąm jīuuiiąm āiiese yešti</em>] add. ante <em>gą̇m baoiriią̇m āiie(se)
+                    yešti</em> 235, 672, 677, 4370. Vid. <em>baoiriia-</em>
+                <bibl>Bartholomae, 1904</bibl> "chewable" (the edible part of the cow, i.e. "the
+                meat") vs. <em>gąm jīuuiiąm</em> "the living cow" referring to the "milk". For solid offerings to the waters s. N49.22-23</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels>
+        <ab>Y3.3 ≈ Y7.4, DrYt1.2; ~ Y22.2 + Y22.3, Y22.22 + Y22.23, Y22.25, Y24.6 + Y24.7, Y25.1 +
+            Y25.2</ab>
+        <ab>
+            <em>aiβiiō vaŋᵛhībiiō [...] āpəm haōmiiąm</em> ~ VrS27.4, VrS27.10 <em>aiβiiō vaŋᵛhībiiō
+                apəmca haōmiiąm</em></ab>
+            <ab>
+                <em>aiβiiō vaŋᵛhībiiō</em> = Y1.13, Y2.13, Y3.3, Y3.15, Y4.18, Y6.12, Y7.16, 17.12,
+                Y22.16, Y24.23, Y59.12, Y66.13, VrS78.25, VrS79.18, VrS81.12, VrS82.13, VS12.2,
+                VS12.4, VS12.6, VS12.8, VS12.10, VS12.12, VS12.14, VS12.14, VS12.16, VS12.18,
+                VS12.20, VS14.4, VS18.70, VS18.72; ~ Yt5 <em>passim</em>
+                <em>vaŋᵛhi səuuište arəduuī sūre anāhite</em>
+            </ab>
+            <ab><em>apəm haōmiiąm</em> = VrS27.2, VrS27.8.</ab>
+            <ab><em>gąm jīuuiiąm āiiese yešti uruuarąm haδānaēpatąm aṣ̌aiia uzdātąm</em> ~ VrS27.3, VrS27.9 <em>imąmca gąm jīuuiiąm aṣ̌aiia uzdātąm imąmca uruuarąm haδānaēpatąm aṣ̌aiia uzdātąm</em>
+        </ab>
+            <ab><em>uruuarąm haδānaēpatąm</em> ~ Y62.9 ~ <em>uruuarąm vā haδānaēpatąm</em>.</ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrY3.3"/>
+        <include type="W" corresp="WTrY3.3"/>
+        <include type="K" corresp="KTrY3.3"/>
+        <include type="D" corresp="DTrY3.3"/>
+    </translation>
+</text>

@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+    <!-- Khordeh stuff -->
+    <div xml:id="ShnumanGenXA1" type="ShnumanGenXA">
+        <ab xml:id="ShnumanGenXA1.a">ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō.</ab>
+    </div>
+    <div xml:id="ShnumanGenXA2" type="ShnumanGenXA">
+        <!-- Waɱan -->
+        <ab xml:id="ShnumanGenXA2.a">vaŋhauue. manaŋhe. āxštōiš. hąm.vaiṇtiiā̊. tarəδātō. ańiiāiš. dāmąn. āsnahe. xraϑβō. mazdaδātahe. gaōšō.srūtahe. xraϑβō. mazdaδātahe.</ab>
+    </div>
+    <div xml:id="ShnumanGenXA3" type="ShnumanGenXA">
+        <!-- Ardwahišt -->
+        <ab xml:id="ShnumanGenXA3.a">aṣ̌ahe. vahištahe. sraēštahe. airiiamanō. iš́iiehe. sūrahe. mazdaδātahe. saōkaiiā̊. vaŋhuiiā̊. vouru.dōiϑraiiā̊. mazdaδātaiiā̊. aṣ̌aōńiiā̊.</ab>
+    </div>
+    <div xml:id="ShnumanGenXA4" type="ShnumanGenXA">
+        <!-- Šahrewar -->
+        <ab xml:id="ShnumanGenXA4.a">xšaϑrahe. vairiiehe. aiiōxšustahe. marəždikāi. ϑrāiiō.driγauue.</ab>
+    </div>
+    <div xml:id="ShnumanGenXA5" type="ShnumanGenXA">
+        <!-- Spandarmad -->
+        <ab xml:id="ShnumanGenXA5.a">spəṇtaiiā̊. vaŋhuiiā̊. ārmatōiš. rātaiiā̊. vaŋhuiiā̊. vouru.dōiϑraiiā̊. mazdaδātaiiā̊. aṣ̌aōńiiā̊.</ab>
+    </div>
+    <div xml:id="ShnumanGenXA6" type="ShnumanGenXA">
+        <!-- Khordād -->
+		<ab xml:id="ShnumanGenXA6.a">hauruuatātō. raϑβō. yāiriiaiiā̊sca. hušitōiš. sarəδaēibiiō. aṣ̌ahe. ratubiiō.</ab>
+    </div>
+    <div xml:id="ShnumanGenXA7" type="ShnumanGenXA">
+        <!-- Amurdād -->
+        <ab xml:id="ShnumanGenXA7.a"> amərətatātō. raϑβō. fšaōnibiia. vąϑβābiia. aspinibiia. yaōnibiia. gaōkərənahe. sūrahe. mazdaδātahe.</ab>
+    </div>
+    <div xml:id="ShnumanGenXA8" type="ShnumanGenXA">
+        <!-- Dae-pa-ādar -->
+        <ab xml:id="ShnumanGenXA8.a">ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/RatuShnumanGen" xpointer="RatuShnumanGenXA2"/> <!-- Possible all -->
+    </div>
+    <div xml:id="ShnumanGenXA9" type="ShnumanGenXA">
+        <!-- Ādar -->
+        <ab xml:id="ShnumanGenXA9.a">āϑrō. ahurahe. mazdā̊. puϑra. xᵛarənaŋhō. sauuaŋhō. mazdaδātahe. airiianąm. xᵛarənō.
+            mazdaδātanąm. kāuuaiieheca. xᵛarənaŋhō. mazdaδātahe. āϑrō. ahurahe. mazdā̊. puϑra.
+            kauuōiš. haōsrauuaŋhahe. varōiš. haōsrauuaŋhahe. asnuuaṇtahe. garōiš. mazdaδātahe.
+            caēcastahe. varōiš. mazdaδātahe. kāuuaiieheca. xᵛarənaŋhō. mazdaδātahe. āϑrō. ahurahe.
+            mazdā̊. puϑra. raēuuaṇtahe. garōiš. mazdaδātahe. kāuuaiieheca. xᵛarənaŋhō. mazdaδātahe.
+            āϑrō. ahurahe. mazdā̊. puϑra. ātarš. spəṇta. raϑaēštāra. yazata. pouru.xᵛarənaŋha.
+            yazata. pouru.baēšaza. āϑrō. ahurahe. mazdā̊. puϑra. mat̰. vīspaēibiiō. ātərəbiiō.
+            xšaϑrō.nafəδrō. nairiiō.vaŋhahe. yazatahe.</ab>
+    </div>
+    <div xml:id="ShnumanGenXA10" type="ShnumanGenXA">
+        <!-- Ābān -->
+       <ab xml:id="ShnumanGenXA10.a">apąm. vaŋᵛhīnąm. mazdaδātanąm. arəduiiā̊. āpō. anāhitaiiā̊. aṣ̌aōńiiā̊. vīspanąmca. apąm. mazdaδātanąm. vīspanąm. uruuaranąm. mazdaδatanąm.</ab>
+    </div>
+    <div xml:id="ShnumanGenXA11" type="ShnumanGenXA">
+        <!-- Xwaršēd -->
+        <ab xml:id="ShnumanGenXA11.a">huuarəxšaētahe. aməṣ̌ahe. raēuuahe. auruuat̰.aspahe.</ab>
+    </div>
+    <div xml:id="ShnumanGenXA12" type="ShnumanGenXA">
+        <!-- Māh -->
+        <ab xml:id="ShnumanGenXA12.a">mā̊ŋhahe. gaōciϑrahe. gə̄ušca. aēuuō.dātaiiā̊. gə̄ušca. pouru.sarəδaiiā̊.</ab>
+    </div>
+    <div xml:id="ShnumanGenXA13" type="ShnumanGenXA">
+        <!-- Tīr -->
+        <ab xml:id="ShnumanGenXA13.a">tištriiehe. stārō. raēuuatō. xᵛarənaŋᵛhatō. satauuaēsahe. frāpahe. sūrahe. mazdaδātahe. stārąm. afšciϑranąm. zəmasciϑranąm. uruuarō.ciϑranąm. mazdaδātanąm. vanaṇtō. stārō. mazdaδātahe. aōe. stārō. yōi. haptōiriṇga. mazdaδāta. xᵛarənaŋhuṇta. baēšaziia.</ab>
+    </div>
+    <div xml:id="ShnumanGenXA14" type="ShnumanGenXA">
+        <!-- Goš -->
+        <ab xml:id="ShnumanGenXA14.a">gə̄uš. tašne. gə̄uš. urune. druuāspaiiā̊. sūraiiā̊. mazdaδātaiiā̊. aṣ̌aōńiiā̊.</ab>
+    </div>
+    <div xml:id="ShnumanGenXA15" type="ShnumanGenXA">
+        <!-- Dae-pa-mihr -->
+        <ab xml:id="ShnumanGenXA15a">ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/RatuShnumanGen" xpointer="RatuShnumanGenXA2"/>
+        <!-- Possible all -->
+        <ab xml:id="ShnumanGenXA15.b">daϑušō. ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab> 
+        <ab xml:id="ShnumanGenXA15.c">vīspaēšąm. yazatanąm. aṣ̌aōnąm. maińiiauuanąm. gaēϑiianąm.</ab> 
+        <ab xml:id="ShnumanGenXA15.d">aṣ̌āunąm. frauuaṣ̌inąm. uγranąm. aiβiϑūranąm. paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm. nabānazdištanąm. frauuaṣ̌inąm.</ab>
+    </div>
+    <div xml:id="ShnumanGenXA16" type="ShnumanGenXA">
+        <!-- Mihr Standard -->
+       <ab xml:id="ShnumanGenXA16.a">miϑrahe. vouru.gaōiiaōtōiš. hazaŋhrō.gaōšahe. baēuuarə.cašmanō. aōxtō.nāmanąm. yazatahe. rāmanō. xᵛāstrahe. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA17" type="ShnumanGenXA">
+        <!-- Bāj Mihrgān Indian -->
+        <ab xml:id="ShnumanGenXA17.a">miϑrahe. vouru.gaōiiaōtōiš. hazaŋhrō.gaōšahe. baēuuarə.cašmanō. aōxtō.nāmanąm. yazatahe. rāmanō. xᵛāstrahe. rašnaōš. razištahe. arštātasca. frādat̰.gaēϑaiiā̊. varədat̰.gaēϑaiiā̊.</ab> 
+        <ab xml:id="ShnumanGenXA17.b">vīspaēšąm. yazatanąm. aṣ̌aōnąm. maińiiauuanąm. gaēϑiianąm.</ab> 
+        <ab xml:id="ShnumanGenXA17.c">aṣ̌āunąm. frauuaṣ̌inąm. uγranąm. aiβiϑūranąm. paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm. nabānazdištanąm. frauuaṣ̌inąm. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA18" type="ShnumanGenXA">
+        <!-- Mihrgān Persian Rivayat -->
+        <ab xml:id="ShnumanGenXA18.a">miϑrahe. vouru.gaōiiaōtōiš. hazaŋhrō.gaōšahe. baēuuarə.cašmanō. aōxtō.nāmanąm. yazatahe. rāmanō. xᵛāstrahe. rašnaōš. razištahe. arštātasca.frādat̰.gaēϑaiiā̊. varədat̰.gaēϑaiiā̊. ərəžuxδahe. vacaŋhō. yat̰. frādat̰.gaēϑahe.</ab>
+        <ab xml:id="ShnumanGenXA18.b">vīspaēšąm. yazatanąm. aṣ̌aōnąm. maińiiauuanąm. gaēϑiianąm. aṣ̌āunąm.</ab> 
+        <ab xml:id="ShnumanGenXA18.c">frauuaṣ̌inąm. uγranąm. aiβiϑūranąm. paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm. nabānazdištanąm. frauuaṣ̌inąm.
+        </ab>
+    </div>
+    
+    
+    <div xml:id="ShnumanGenXA19" type="ShnumanGenXA">
+        <!-- Srōš -->
+        <ab xml:id="ShnumanGenXA19.a"> sraōšahe. aṣ̌iiehe. taxmahe. tanu.mąϑrahe. darši.draōš. āhūiriiehe.</ab>
+    </div>
+    <div xml:id="ShnumanGenXA20" type="ShnumanGenXA">
+        <!-- Rašn -->
+        <ab xml:id="ShnumanGenXA20.a">rašnaōš. razištahe. arštātasca. frādat̰.gaēϑaiiā̊. varədat̰.gaēϑaiiā̊. ərəžuxδahe. vacaŋhō. yat̰. frādat̰.gaēϑahe.</ab>
+    </div>
+    <div xml:id="ShnumanGenXA21" type="ShnumanGenXA">
+        <!-- Frawardēn -->
+       <ab xml:id="ShnumanGenXA21.a">aṣ̌āunąm. frauuaṣ̌inąm. uγranąm. aiβiϑūranąm. paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm. nabānazdištanąm. frauuaṣ̌inąm.</ab>
+    </div>
+    <div xml:id="ShnumanGenXA22" type="ShnumanGenXA">
+        <!-- Wahrām -->
+        <ab xml:id="ShnumanGenXA22.a">amahe. hutāštahe. huraōδahe. vərəϑraγnahe. ahuraδātahe. vanaiṇtiiā̊sca. uparatātō. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA23" type="ShnumanGenXA">
+        <!-- Rām -->
+        <ab xml:id="ShnumanGenXA23.a">rāmanō. xᵛāstrahe. vaiiaōš. uparō.kairiiehe. tarəδātō. ańiiāiš. dāmąn. aētat̰. tē. vaiiō. yat̰. tē. asti. spəṇtō.maińiiaōm. ϑβāṣ̌ahe. xᵛaδātahe. zruuānahe. akaranahe. zruuānahe. darəγō.xᵛaδātahe. </ab>
+    </div>
+    
+    
+    <div xml:id="ShnumanGenXA24" type="ShnumanGenXA">
+        <!-- Wād -->
+        <ab xml:id="ShnumanGenXA24.a">vātahe. huδā̊ŋhahe. aδarahe. uparahe. fratarahe. pascąiϑiiehe. nairiiaiiā̊. hąm.varətōiš. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA25" type="ShnumanGenXA">
+        <!-- Dae-pa-dēn -->
+        <ab xml:id="Shnuman25.a">ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/RatuShnumanGen" xpointer="RatuShnumanGenXA2"/>
+        <!-- Possible all -->
+        <ab xml:id="ShnumanGenXA25.b">daϑušō. ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab> 
+        <ab xml:id="ShnumanGenXA25.c">vīspaēšąm. yazatanąm. aṣ̌aōnąm. maińiiauuanąm. gaēϑiianąm.</ab> 
+        <ab xml:id="ShnumanGenXA25.d">aṣ̌āunąm. frauuaṣ̌inąm. uγranąm. aiβiϑūranąm. paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm. nabānazdištanąm. frauuaṣ̌inąm.</ab>
+    </div>
+    <div xml:id="ShnumanGenXA26" type="ShnumanGenXA">
+        <!-- Dēn -->
+        <ab xml:id="ShnumanGenXA26.a">razištaiiā̊. cistaiiā̊. mazdaδātaiiā̊. aṣ̌aōńiiā̊. daēnaiiā̊. vaŋhuiiā̊. māzdaiiasnōiš.
+        </ab>
+    </div>
+    <div xml:id="ShnumanGenXA27" type="ShnumanGenXA">
+        <!-- Ard -->
+        <ab xml:id="ShnumanGenXA27.a">aṣ̌ōiš. vaŋhuiiā̊. cistōiš. vaŋhuiiā̊. ərəϑə̄. vaŋhuiiā̊. rasąstātō. vaŋhuiiā̊.
+            xᵛarənaŋhō. sauuaŋhō. mazdaδātahe. pārəṇdiiā̊. raōraϑaiiā̊. airiianąm. xᵛarənō.
+            mazdaδātanąm. kāuuaiieheca. xᵛarənaŋhō. mazdaδātahe. axᵛarətaheca. xᵛarənaŋhō.
+            mazdaδātahe. zaraϑuštraheca. xᵛarənaŋhō. mazdaδātahe. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA28" type="ShnumanGenXA">
+        <!-- Āštād -->
+       <ab xml:id="ShnumanGenXA28.a">arštātō. frādat̰.gaēϑahe. garoiš. uši.darənahe. mazdaδātahe. aṣ̌a.xᵛāϑrahe. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA29" type="ShnumanGenXA">
+        <!-- Āsmān -->
+        <ab xml:id="ShnumanGenXA29.a">ašnō. bərəzatō. sūrahe. vahištahe. aŋhə̄uš. aṣ̌aōnąm. raōcaŋhō. vīspō.xᵛāϑrō. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA30" type="ShnumanGenXA">
+        <!-- Zam -->
+		<ab xml:id="ShnumanGenXA30.a">zəmō. huδā̊ŋhō. yazatahe. imā̊. asā̊. imā̊. šōiϑra. garōiš. uši.darənahe. mazdaδātahe.
+            aṣ̌a.xᵛāϑrahe. vīspaēšąmca. gairinąm. aṣ̌a.xᵛāϑranąm. pouru.xᵛāϑranąm. mazdaδātanąm.
+            kāuuaiieheca. xᵛarənaŋhō. mazdaδātahe. axᵛarətaheca. xᵛarənaŋhō. mazdaδātahe. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA31" type="ShnumanGenXA">
+        <!-- Māraspand -->
+        <ab xml:id="ShnumanGenXA31.a">mąϑrahe. spəṇtahe. aṣ̌aōnō. vərəziiaŋhahe. dātahe. vīdaēuuahe. dātahe. zaraϑuštrōiš.
+            darəγaiiā̊. upaiianaiiā̊. daēnaiiā̊. vaŋhuiiā̊. māzdaiiasnōiš. zrazdātōiš. mąϑrahe.
+            spəṇtahe. uši.darəϑrəm. daēnaiiā̊. māzdaiiasnōiš. vaēδīm. mąϑrahe. spəṇtahe. āsnahe.
+            xraϑβō. mazdaδātahe. gaōšō.srūtahe. xraϑβō. mazdaδātahe. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA32" type="ShnumanGenXA">
+        <!-- Anērān -->
+        <ab xml:id="ShnumanGenXA32.a">anaγranąm. raōcaŋhąm. xᵛaδātanąm. raōxšnahe. garō.nmānahe. misuuānahe. gātuuahe.
+            xᵛaδātahe. cinuuat̰.pərətūm. mazdaδātąm. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA33" type="ShnumanGenXA">
+        <!-- Burz -->
+        <ab xml:id="ShnumanGenXA33.a">bərəzatō. ahurahe. nafəδrō. apąm. apasca. mazdaδātaiiā̊. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA34" type="ShnumanGenXA">
+        <!-- Hōm -->
+        <ab xml:id="ShnumanGenXA34.a">haōmahe. aṣ̌auuazaŋhō. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA34short" type="ShnumanGenXA">
+        <!-- Hōm -->
+        <ab xml:id="ShnumanGenXA34short.a">haōmahe. aṣ̌auuazaŋhō. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA35" type="ShnumanGenXA">
+        <!-- Dahm -->
+        <ab xml:id="ShnumanGenXA35.a">ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm. daɱaiiā̊. vaŋhuiiā̊. āfritōiš. uγrāi. dāmōiš. upamanāi.</ab> 
+        <ab xml:id="ShnumanGenXA35.b">vīspaēšąm. yazatanąm. aṣ̌aōnąm. maińiiauuanąm. gaēϑiianąm.</ab> 
+        <ab xml:id="ShnumanGenXA35.c">aṣ̌āunąm. frauuaṣ̌inąm. uγranąm. aiβiϑūranąm. paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm. nabānazdištanąm. frauuaṣ̌inąm. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA36" type="ShnumanGenXA">
+        <!-- Vanant -->
+        <ab xml:id="ShnumanGenXA36.a">vanaṇtō. stārō. mazdaδātahe. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA37" type="ShnumanGenXA">
+        <!-- Nairyosangh -->
+        <ab xml:id="ShnumanGenXA37.a">xšaϑrō.nafəδrō. nairiiō.saŋhahe. yazatahe. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA38" type="ShnumanGenXA">
+        <!-- Haptoiring -->
+        <ab xml:id="ShnumanGenXA38.a">aōe. stārō. yōi. haptōiriṇga. mazdaδāta. xᵛarənaŋhuṇta. baēšaziia. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA39" type="ShnumanGenXA">
+        <!-- Rapiϑβin -->
+        <ab xml:id="ShnumanGenXA39.a">ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab>
+        <ab xml:id="ShnumanGenXA39.b">aṣ̌ahe. vahištahe. āϑrasca. ahurahe. mazdā̊. puϑra.</ab> 
+        <ab xml:id="ShnumanGenXA39.c">vīspaēšąm. yazatanąm. aṣ̌aōnąm.
+            maińiiauuanąm. gaēϑiianąm.</ab> 
+        <ab xml:id="ShnumanGenXA39.d">aṣ̌āunąm. frauuaṣ̌inąm. uγranąm. aiβiϑūranąm.
+            paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm. nabānazdištanąm. frauuaṣ̌inąm. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA40" type="ShnumanGenXA">
+        <!-- Gāthā -->
+        <ab xml:id="ShnumanGenXA40.a">ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab>
+        <ab xml:id="ShnumanGenXA40.b">gāϑābiiō. spəṇtābiiō. ratuxšaϑrābiiō. aṣ̌aōnibiiō. ahunauuaitiiā̊. gāϑaiiā̊.
+            uštauuaitiiā̊. gāϑaiiā̊. spəṇtā. maińiiə̄uš. gāϑaiiā̊. vohuxšaϑraiiā̊. gāϑaiiā̊.
+            vahištōištōiš. gāϑaiiā̊.</ab> 
+        <ab xml:id="ShnumanGenXA40.c">aṣ̌āunąm. frauuaṣ̌inąm. uγranąm. aiβiϑūranąm.
+            paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm. nabānazdištanąm. frauuaṣ̌inąm. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA41" type="ShnumanGenXA">
+        <!-- Gāthās Panj-tāe -->
+        <ab xml:id="ShnumanGenXA41.a">ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab>
+        <ab xml:id="ShnumanGenXA41.b">gāϑābiiō. spəṇtābiiō. ratuxšaϑrābiiō. aṣ̌aōnibiiō. ahunauuaitiiā̊. gāϑaiiā̊. uštauuaitiiā̊. gāϑaiiā̊. spəṇtā. maińiiə̄uš. gāϑaiiā̊. vohuxšaϑraiiā̊. gāϑaiiā̊. vahištōištōiš. gāϑaiiā̊.</ab> 
+        <ab xml:id="ShnumanGenXA41.c">vīspaēšąm. yazatanąm. aṣ̌aōnąm. maińiiauuanąm. gaēϑiianąm. aṣ̌āunąm.</ab> 
+        <ab xml:id="ShnumanGenXA41.d">frauuaṣ̌inąm. uγranąm. aiβiϑūranąm. paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm. nabānazdištanąm. frauuaṣ̌inąm. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA42" type="ShnumanGenXA">
+        <!-- Gāhānbār -->
+        <ab xml:id="ShnumanGenXA42.a">raϑβō. bərəzatō. yō. aṣ̌ahe. raϑβąm. aiiaranąmca. asńiianąmca. māhiianąmca. yāiriianąmca. sarəδanąmca. raϑβąm. vīspe. mazištanąm. yōi. həṇti. aṣ̌ahe. ratauuō.</ab>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/RatuPaitiShort" xpointer="RatuPaitiShort2"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/GahanbarGen" xpointer="GahanbarGen1"/>
+    </div>
+    <div xml:id="ShnumanGenXA43" type="ShnumanGenXA">
+        <!-- Panth -->
+        <ab xml:id="ShnumanGenXA43.a">ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab>
+        <ab xml:id="ShnumanGenXA43.b">amahe. hutāštahe. huraōδahe. vərəϑraγnahe. ahuraδātahe. vanaiṇtiiā̊sca. uparatātō. paϑąitiiā̊. xᵛāstąitiiā̊. zarənumaṇtahe. sūrahe. saōkaṇtahe. garōiš. mazdaδātahe.</ab>
+        <ab xml:id="ShnumanGenXA43.c">vīspaēšąm. yazatanąm. aṣ̌aōnąm. maińiiauuanąm. gaēϑiianąm.</ab> 
+        <ab xml:id="ShnumanGenXA43.d">aṣ̌āunąm. frauuaṣ̌inąm. uγranąm. aiβiϑūranąm. paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA44" type="ShnumanGenXA">
+        <!-- Hamkār rōz Ohrmazd, Dae-pa-ādar, Dae-pa-mehr, Dae-pa-dēn -->
+        <ab xml:id="ShnumanGenXA44.a">ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab>
+        <ab xml:id="ShnumanGenXA44.b">daϑušō. ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab> 
+        <ab xml:id="ShnumanGenXA44.c">daϑušō. ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab> 
+        <ab xml:id="ShnumanGenXA44.d">daϑušō. ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab> 
+        <ab xml:id="ShnumanGenXA44.e">vīspaēšąm. yazatanąm. aṣ̌aōnąm. maińiiauuanąm. gaēϑiianąm.</ab> 
+        <ab xml:id="ShnumanGenXA44.f">aṣ̌āunąm. frauuaṣ̌inąm. uγranąm. aiβiϑūranąm. paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm. nabānazdištanąm. frauuaṣ̌inąm. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA45" type="ShnumanGenXA">
+        <!-- Hamkār rōz Waɱan, Māh, Goš, Rām -->
+        <ab xml:id="ShnumanGenXA45a">ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab>
+        <ab xml:id="ShnumanGenXA45.b">vaŋhauue. manaŋhe. āxštōiš. hąm.vaiṇtiiā̊. tarəδātō. ańiiāiš. dāmąn. āsnahe. xraϑβō.
+            mazdaδātahe. gaōšō.srūtahe. xraϑβō. mazdaδātahe.</ab> 
+        <ab xml:id="ShnumanGenXA45.c">mā̊ŋhahe. gaōciϑrahe. gə̄ušca.
+            aēuuō.dātaiiā̊. gə̄ušca. pouru.sarəδaiiā̊.</ab> 
+        <ab xml:id="ShnumanGenXA45.d">gə̄uš. tašne. gə̄uš. urune. druuāspaiiā̊.
+            sūraiiā̊. mazdaδātaiiā̊. aṣ̌aōńiiā̊.</ab> 
+        <ab xml:id="ShnumanGenXA45.e">rāmanō. xᵛāstrahe. vaiiaōš. uparō.kairiiehe.
+            tarəδātō. ańiiāiš. dāmąn. aētat̰. tē. vaiiō. yat̰. tē. asti. spəṇtō.maińiiaōm.
+            ϑβāṣ̌ahe. xᵛaδātahe. zruuānahe. akaranahe. zruuānahe. darəγō.xᵛaδātahe.</ab> 
+        <ab xml:id="ShnumanGenXA45.f">vīspaēšąm.
+            yazatanąm. aṣ̌aōnąm. maińiiauuanąm. gaēϑiianąm.</ab> 
+        <ab xml:id="ShnumanGenXA45.g">aṣ̌āunąm. frauuaṣ̌inąm. uγranąm.
+            aiβiϑūranąm. paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm. nabānazdištanąm. frauuaṣ̌inąm. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA46" type="ShnumanGenXA">
+        <!-- Hamkār rōz ARdwahišt, Ādar, Srōš, Wahrān -->
+        <ab xml:id="ShnumanGenXA46.a">ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab>
+        <ab xml:id="ShnumanGenXA46.b">aṣ̌ahe. vahištahe. sraēštahe. airiiamanō. iš́iiehe. sūrahe. mazdaδātahe. saōkaiiā̊.
+            vaŋhuiiā̊. vouru.dōiϑraiiā̊. mazdaδātaiiā̊. aṣ̌aōńiiā̊.</ab> 
+        <ab xml:id="ShnumanGenXA46.c">āϑrō. ahurahe. mazdā̊. puϑra.
+            xᵛarənaŋhō. sauuaŋhō. mazdaδātahe. airiianąm. xᵛarənō. mazdaδātanąm. kāuuaiieheca.
+            xᵛarənaŋhō. mazdaδātahe. āϑrō. ahurahe. mazdā̊. puϑra. kauuōiš. haōsrauuaŋhahe. varōiš.
+            haōsrauuaŋhahe. asnuuaṇtahe. garōiš. mazdaδātahe. caēcastahe. varōiš. mazdaδātahe.
+            kāuuaiieheca. xᵛarənaŋhō. mazdaδātahe. āϑrō. ahurahe. mazdā̊. puϑra. raēuuaṇtahe.
+            garōiš. mazdaδātahe. kāuuaiieheca. xᵛarənaŋhō. mazdaδātahe. āϑrō. ahurahe. mazdā̊.
+            puϑra. ātarš. spəṇta. raϑaēštāra. yazata. pouru.xᵛarənaŋha. yazata. pouru.baēšaza. āϑrō.
+            ahurahe. mazdā̊. puϑra. mat̰. vīspaēibiiō. ātərəbiiō.</ab> 
+        <ab xml:id="ShnumanGenXA46.d">xšaϑrō.nafəδrō. nairiiō.vaŋhahe.
+            yazatahe. amahe. hutāštahe. huraōδahe.</ab> 
+        <ab xml:id="ShnumanGenXA46.e">vərəϑraγnahe. ahuraδātahe. vanaiṇtiiā̊sca.
+            uparatātō.</ab> 
+        <ab xml:id="ShnumanGenXA46.f">vīspaēšąm. yazatanąm. aṣ̌aōnąm. maińiiauuanąm. gaēϑiianąm.</ab> 
+        <ab xml:id="ShnumanGenXA46.g">aṣ̌āunąm.
+            frauuaṣ̌inąm. uγranąm. aiβiϑūranąm. paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm. nabānazdištanąm.
+            frauuaṣ̌inąm. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA47" type="ShnumanGenXA">
+        <!-- Hamkār rōz Šahrewar, Xvaršēd, Mihr, Āsman, Anērān -->
+        <ab xml:id="ShnumanGenXA47.a"> ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab>
+        <ab xml:id="ShnumanGenXA47.b">xšaϑrahe. vairiiehe. aiiōxšustahe. marəždikāi. ϑrāiiō.driγaōuue.</ab> 
+        <ab xml:id="ShnumanGenXA47.c">huuarəxšaētahe.
+            aməṣ̌ahe. raēuuahe. auruuat̰.aspahe.</ab> 
+        <ab xml:id="ShnumanGenXA47.d">miϑrahe. vouru.gaōiiaōtōiš. hazaŋhrō.gaōšahe.
+            baēuuarə.cašmanō. aōxtō.nāmanąm. yazatahe. rāmanō. xᵛāstrahe.</ab> 
+        <ab xml:id="ShnumanGenXA47.e">ašnō. bərəzatō. sūrahe.
+            vahištahe. aŋhə̄uš. aṣ̌aōnąm. raōcaŋhō. vīspō.xᵛāϑrō.</ab> 
+        <ab xml:id="ShnumanGenXA47.f">anaγranąm. raōcaŋhąm. xᵛaδātanąm.
+            raōxšnahe. garō.nmānahe. misuuānahe. gātuuahe. xᵛaδātahe. cinuuat̰.pərətūm. mazdaδātąm.</ab>
+        <ab xml:id="ShnumanGenXA47.g">vīspaēšąm. yazatanąm. aṣ̌aōnąm. maińiiauuanąm. gaēϑiianąm.</ab> 
+        <ab xml:id="ShnumanGenXA47.h">aṣ̌āunąm. frauuaṣ̌inąm.
+            uγranąm. aiβiϑūranąm. paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm. nabānazdištanąm. frauuaṣ̌inąm.
+        </ab>
+    </div>
+    <div xml:id="ShnumanGenXA48" type="ShnumanGenXA">
+        <!-- Hamkār rōz Spandarmad, Ābān, Dēn, Ard, Mahraspand -->
+        <ab xml:id="ShnumanGenXA48.a">ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab>
+        <ab xml:id="ShnumanGenXA48.b">spəṇtaiiā̊. vaŋhuiiā̊. ārmatōiš. rātaiiā̊. vaŋhuiiā̊. vouru.dōiϑraiiā̊. mazdaδātaiiā̊.
+            aṣ̌aōńiiā̊.</ab> 
+        <ab xml:id="ShnumanGenXA48.c">apąm. vaŋᵛhīnąm. mazdaδātanąm. arəduiiā̊. āpō. anāhitaiiā̊. aṣ̌aōńiiā̊.
+            vīspanąmca. apąm. mazdaδātanąm. vīspanąm. uruuaranąm. mazdaδatanąm.</ab> 
+        <ab xml:id="ShnumanGenXA48.d">razištaiiā̊.
+            cistaiiā̊. mazdaδātaiiā̊. aṣ̌aōńiiā̊. daēnaiiā̊. vaŋhuiiā̊. māzdaiiasnōiš. mąϑrahe.
+            spəṇtahe. aṣ̌aōnō. vərəziiaŋhahe. dātahe. vīdaēuuahe. dātahe. zaraϑuštrōiš. darəγaiiā̊.
+            upaiianaiiā̊. daēnaiiā̊. vaŋhuiiā̊. māzdaiiasnōiš. zrazdātōiš.</ab> 
+        <ab xml:id="ShnumanGenXA48.e">mąϑrahe. spəṇtahe.
+            uši.darəϑrəm. daēnaiiā̊. māzdaiiasnōiš. vaēδīm. mąϑrahe. spəṇtahe. āsnahe. xraϑβō.
+            mazdaδātahe. gaōšō.srūtahe. xruϑβō. mazdaδātahe.</ab> 
+        <ab xml:id="ShnumanGenXA48.f">vīspaēšąm. yazatanąm. aṣ̌aōnąm.
+            maińiiauuanąm. gaēϑiianąm.</ab> 
+        <ab xml:id="ShnumanGenXA48.g">aṣ̌āunąm. frauuaṣ̌inąm. uγranąm. aiβiϑūranąm.
+            paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm. nabānazdištanąm. frauuaṣ̌inąm. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA49" type="ShnumanGenXA">
+        <!-- Hamkār rōz Xordād, Tīr, Frawardēn, Vād -->
+        <ab xml:id="ShnumanGenXA49.a">ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab>
+        <ab xml:id="ShnumanGenXA49.b">hauruuatātō. raϑβō. yāiriiaiiā̊sca. hušitōiš. sarəδaēibiiō. aṣ̌ahe. ratubiiō.</ab>
+        <ab xml:id="ShnumanGenXA49.c">tištriiehe. stārō. raēuuatō. xᵛarənaŋᵛhatō. satauuaēsahe. frāpahe. sūrahe. mazdaδātahe.
+            stārąm. afšciϑranąm. zəmasciϑranąm. uruuarō.ciϑranąm. mazdaδātanąm. vanaṇtō. stārō.
+            mazdaδātahe. aōe. stārō. yōi. haptōiriṇga. mazdaδāta. xᵛarənaŋhuṇta. baēšaziia.</ab>
+        <ab xml:id="ShnumanGenXA49.d">aṣ̌āunąm. frauuaṣ̌inąm. uγranąm. aiβiϑūranąm. paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm.
+            nabānazdištanąm. frauuaṣ̌inąm.</ab> 
+        <ab xml:id="ShnumanGenXA49.e">vātahe. huδā̊ŋhahe. aδarahe. uparahe. fratarahe.
+            pascąiϑiiehe. nairiiaiiā̊. hąm.varətōiš.</ab> 
+        <ab xml:id="ShnumanGenXA49.f">vīspaēšąm. yazatanąm. aṣ̌aōnąm. maińiiauuanąm.
+            gaēϑiianąm.</ab> 
+        <ab xml:id="ShnumanGenXA49.g">aṣ̌āunąm. frauuaṣ̌inąm. uγranąm. aiβiϑūranąm. paōiriiō.t̰kaēšanąm.
+            frauuaṣ̌inąm. nabānazdištanąm. frauuaṣ̌inąm. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA50" type="ShnumanGenXA">
+        <!-- Hamkār rōz Amurdād, Rašn, Āštād, Zamyād -->
+        <ab xml:id="ShnumanGenXA50.a">ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab>
+        <ab xml:id="ShnumanGenXA50.b">amərətatātō. raϑβō. fšaōnibiia. vąϑβābiia. aspinibiia. yaōnibiia. gaōkərənahe. sūrahe.
+            mazdaδātahe.</ab>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/RatuShnumanGen" xpointer="RatuShnumanGenXA2"/>
+        <!-- Possible all -->
+    </div>
+    <div xml:id="ShnumanGenXA51" type="ShnumanGenXA">
+        <!-- Sīrōzā -->
+        <ab xml:id="ShnumanGenXA51.a">ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab>
+        <ab xml:id="ShnumanGenXA51.b">vaŋhauue. manaŋhe. āxštōiš. hąm.vaiṇtiiā̊. tarəδātō. ańiiāiš. dāmąn. āsnahe. xraϑβō. mazdaδātahe. gaōšō.srūtahe. xraϑβō. mazdaδātahe.</ab> 
+        <ab xml:id="ShnumanGenXA51.c">aṣ̌ahe. vahištahe. sraēštahe. airiiamanō. iš́iiehe. sūrahe. mazdaδātahe. saōkaiiā̊. vaŋhuiiā̊. vouru.dōiϑraiiā̊. mazdaδātaiiā̊. aṣ̌aōńiiā̊.</ab> 
+        <ab xml:id="ShnumanGenXA51.d">xšaϑrahe. vairiiehe. aiiōxšustahe. marəždikāi. ϑrāiiō.driγaōuue.</ab>
+        <ab xml:id="ShnumanGenXA51.e">spəṇtaiiā̊. vaŋhuiiā̊. ārmatōiš. rātaiiā̊. vaŋhuiiā̊. vouru.dōiϑraiiā̊. mazdaδātaiiā̊. aṣ̌aōńiiā̊.</ab> 
+        <ab xml:id="ShnumanGenXA51.f">hauruuatātō. raϑβō. yāiriiaiiā̊sca. hušitōiš. sarəδaēibiiō. aṣ̌ahe. ratubiiō.</ab> 
+        <ab xml:id="ShnumanGenXA51.g">amərətatātō. raϑβō. fšaōnibiia. vąϑβābiia. aspinibiia. yaōnibiia. gaōkərənahe. sūrahe. mazdaδātahe.</ab>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/RatuShnumanGen" xpointer="RatuShnumanGenXA2"/>
+        <!-- Possible all -->
+        <ab xml:id="ShnumanGenXA51.h">daϑušō. ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab> 
+        <ab xml:id="ShnumanGenXA51.i">āϑrō. ahurahe. mazdā̊. puϑra. xᵛarənaŋhō. sauuaŋhō. mazdaδātahe. airiianąm.
+            xᵛarənō. mazdaδātanąm. kāuuaiieheca. xᵛarənaŋhō. mazdaδātahe. āϑrō. ahurahe. mazdā̊.
+            puϑra. kauuōiš. haōsrauuaŋhahe. varōiš. haōsrauuaŋhahe. asnuuaṇtahe. garōiš.
+            mazdaδātahe. caēcastahe. varōiš. mazdaδātahe. kāuuaiieheca. xᵛarənaŋhō. mazdaδātahe.
+            āϑrō. ahurahe. mazdā̊. puϑra. raēuuaṇtahe. garōiš. mazdaδātahe. kāuuaiieheca.
+            xᵛarənaŋhō. mazdaδātahe. āϑrō. ahurahe. mazdā̊. puϑra. ātarš. spəṇta. raϑaēštāra.
+            yazata. pouru.xᵛarənaŋha. yazata. pouru.baēšaza. āϑrō. ahurahe. mazdā̊. puϑra. mat̰.
+            vīspaēibiiō. ātərəbiiō. xšaϑrō.nafəδrō. nairiiō.vaŋhahe. yazatahe.</ab> 
+        <ab xml:id="ShnumanGenXA51.j">apąm. vaŋᵛhīnąm.
+            mazdaδātanąm. arəduiiā̊. āpō. anāhitaiiā̊. aṣ̌aōńiiā̊. vīspanąmca. apąm. mazdaδātanąm.
+            vīspanąm. uruuaranąm. mazdaδatanąm.</ab> 
+        <ab xml:id="ShnumanGenXA51.k">huuarəxšaētahe. aməṣ̌ahe. raēuuahe. auruuat̰.aspahe.</ab>
+        <ab xml:id="ShnumanGenXA51.l">mā̊ŋhahe. gaōciϑrahe. gə̄ušca. aēuuō.dātaiiā̊. gə̄ušca. pouru.sarəδaiiā̊.</ab> 
+        <ab xml:id="ShnumanGenXA51.m">tištriiehe.
+            stārō. raēuuatō. xᵛarənaŋᵛhatō. satauuaēsahe. frāpahe. sūrahe. mazdaδātahe. stārąm.
+            afšciϑranąm. zəmasciϑranąm. uruuarō.ciϑranąm. mazdaδātanąm. vanaṇtō. stārō. mazdaδātahe.
+            aōe. stārō. yōi. haptōiriṇga. mazdaδāta. xᵛarənaŋhuṇta. baēšaziia.</ab> 
+        <ab xml:id="ShnumanGenXA51.n">gə̄uš. tašne. gə̄uš.
+            urune. druuāspaiiā̊. sūraiiā̊. mazdaδātaiiā̊. aṣ̌aōńiiā̊.</ab> 
+        <ab xml:id="ShnumanGenXA51.o">daϑušō. ahurahe. mazdā̊.
+            raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab> 
+        <ab xml:id="ShnumanGenXA51.p">miϑrahe. vouru.gaōiiaōtōiš.
+            hazaŋhrō.gaōšahe. baēuuarə.cašmanō. aōxtō.nāmanąm. yazatahe. rāmanō. xᵛāstrahe.</ab>
+        <ab xml:id="ShnumanGenXA51.q">sraōšahe. aṣ̌iiehe. taxmahe. tanu.mąϑrahe. darši.draōš. āhūiriiehe.</ab> 
+        <ab xml:id="ShnumanGenXA51.r">rašnaōš. razištahe.
+            arštātasca. frādat̰.gaēϑaiiā̊. varədat̰.gaēϑaiiā̊. ərəžuxδahe. vacaŋhō. yat̰.
+            frādat̰.gaēϑahe.</ab> 
+        <ab xml:id="ShnumanGenXA51.s">aṣ̌āunąm. frauuaṣ̌inąm. uγranąm. aiβiϑūranąm. paōiriiō.t̰kaēšanąm.
+            frauuaṣ̌inąm. nabānazdištanąm. frauuaṣ̌inąm.</ab> 
+        <ab xml:id="ShnumanGenXA51.t">amahe. hutāštahe. huraōδahe. vərəϑraγnahe.
+            ahuraδātahe. vanaiṇtiiā̊sca. uparatātō.</ab> 
+        <ab xml:id="ShnumanGenXA51.u">rāmanō. xᵛāstrahe. vaiiaōš. uparō.kairiiehe.
+            tarəδātō. ańiiāiš. dāmąn. aētat̰. tē. vaiiō. yat̰. tē. asti. spəṇtō.maińiiaōm.
+            ϑβāṣ̌ahe. xᵛaδātahe. zruuānahe. akaranahe. zruuānahe. darəγō.xᵛaδātahe.</ab> 
+        <ab xml:id="ShnumanGenXA51.v">vātahe.
+            huδā̊ŋhahe. aδarahe. uparahe. fratarahe. pascąiϑiiehe. nairiiaiiā̊. hąm.varətōiš.</ab>
+        <ab xml:id="ShnumanGenXA51.w">daϑušō. ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab> 
+        <ab xml:id="ShnumanGenXA51.x">razištaiiā̊.
+            cistaiiā̊. mazdaδātaiiā̊. aṣ̌aōńiiā̊. daēnaiiā̊. vaŋhuiiā̊. māzdaiiasnōiš. aṣ̌ōiš.
+            vaŋhuiiā̊. cistōiš. vaŋhuiiā̊. ərəϑə̄. vaŋhuiiā̊. rasąstātō. vaŋhuiiā̊. xᵛarənaŋhō.
+            sauuaŋhō. mazdaδātahe. pārəṇdiiā̊. raōraϑaiiā̊. airiianąm. xᵛarənō. mazdaδātanąm.
+            kāuuaiieheca. xᵛarənaŋhō. mazdaδātahe. axᵛarətaheca. xᵛarənaŋhō. mazdaδātahe.
+            zaraϑuštraheca. xᵛarənaŋhō. mazdaδātahe.</ab> 
+        <ab xml:id="ShnumanGenXA51.y">arštātō. frādat̰.gaēϑahe. garoiš. uši.darənahe.
+            mazdaδātahe. aṣ̌a.xᵛāϑrahe.</ab> 
+        <ab xml:id="ShnumanGenXA51.z">ašnō. bərəzatō. sūrahe. vahištahe. aŋhə̄uš. aṣ̌aōnąm.
+            raōcaŋhō. vīspō.xᵛāϑrō.</ab> 
+        <ab xml:id="ShnumanGenXA51.aa">zəmō. huδā̊ŋhō. yazatahe. imā̊. asā̊. imā̊. šōiϑrā̊. garōiš.
+            uši.darənahe. mazdaδātahe. aṣ̌a.xᵛāϑrahe. vīspaēšąmca. gairinąm. aṣ̌a.xᵛāϑranąm.
+            pouru.xᵛāϑranąm. mazdaδātanąm. kāuuaiieheca. xᵛarənaŋhō. mazdaδātahe. axᵛarətaheca.
+            xᵛarənaŋhō. mazdaδātahe.</ab> 
+        <ab xml:id="ShnumanGenXA51.ab">mąϑrahe. spəṇtahe. aṣ̌aōnō. vərəziiaŋhahe. dātahe. vīdaēuuahe.
+            dātahe. zaraϑuštrōiš. darəγaiiā̊. upaiianaiiā̊. daēnaiiā̊. vaŋhuiiā̊. māzdaiiasnōiš.
+            zrazdātōiš. mąϑrahe. spəṇtahe. uši.darəϑrəm. daēnaiiā̊. māzdaiiasnōiš. vaēδīm. mąϑrahe.
+            spəṇtahe. āsnahe. xraϑβō. mazdaδātahe. gaōšō.srūtahe. xruϑβō. mazdaδātahe.</ab> 
+        <ab xml:id="ShnumanGenXA51.ac">anaγranąm.
+            raōcaŋhąm. xᵛaδātanąm. raōxšnahe. garō.nmānahe. misuuānahe. gātuuahe. xᵛaδātahe.
+            cinuuat̰.pərətūm. mazdaδātąm. bərəzatō. ahurahe. nafəδrō. apąm. apasca. mazdaδātaiiā̊.
+            haōmahe. aṣ̌auuazaŋhō. daɱaiiā̊. vaŋhuiiā̊. āfritōiš. uγrāi. dāmōiš. upamanāi.</ab>
+        <ab xml:id="ShnumanGenXA51.ad">vīspaēšąm. yazatanąm. aṣ̌aōnąm. maińiiauuanąm. gaēϑiianąm.</ab> 
+        <ab xml:id="ShnumanGenXA51.ae">aṣ̌āunąm. frauuaṣ̌inąm.
+            uγranąm. aiβiϑūranąm. paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm. nabānazdištanąm.
+            frauuaṣ̌inąm.</ab>
+    </div>
+    <div xml:id="ShnumanGenXA52" type="ShnumanGenXA">
+        <!-- Haft Ameshāspand -->
+        <ab xml:id="ShnumanGenXA52.a">ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab>
+        <ab xml:id="ShnumanGenXA52.b">vaŋhauue. manaŋhe. āxštōiš. hąm.vaiṇtiiā̊. tarəδātō. ańiiāiš. dāmąn. āsnahe. xraϑβō.
+            mazdaδātahe. gaōšō.srūtahe. xraϑβō. mazdaδātahe.</ab> 
+        <ab xml:id="ShnumanGenXA52.c">aṣ̌ahe. vahištahe. sraēštahe.
+            airiiamanō. iš́iiehe. sūrahe. mazdaδātahe. saōkaiiā̊. vaŋhuiiā̊. vouru.dōiϑraiiā̊.
+            mazdaδātaiiā̊. aṣ̌aōńiiā̊.</ab> 
+        <ab xml:id="ShnumanGenXA52.d">xšaϑrahe. vairiiehe. aiiōxšustahe. marəždikāi.
+            ϑrāiiō.driγaōuue.</ab> 
+        <ab xml:id="ShnumanGenXA52.e">spəṇtaiiā̊. vaŋhuiiā̊. ārmatōiš. rātaiiā̊. vaŋhuiiā̊.
+            vouru.dōiϑraiiā̊. mazdaδātaiiā̊. aṣ̌aōńiiā̊.</ab> 
+        <ab xml:id="ShnumanGenXA52.f">hauruuatātō. raϑβō. yāiriiaiiā̊sca.
+            hušitōiš. sarəδaēibiiō. aṣ̌ahe. ratubiiō.</ab> 
+        <ab xml:id="ShnumanGenXA52.g">amərətatātō. raϑβō. fšaōnibiia. vąϑβābiia.
+            aspinibiia. yaōnibiia. gaōkərənahe. sūrahe. mazdaδātahe.</ab>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/RatuShnumanGen" xpointer="RatuShnumanGenXA2"/>
+        <!-- Possible all -->
+        <ab xml:id="ShnumanGenXA52.h">amahe. hutāštahe. huraōδahe. vərəϑraγnahe. ahuraδātahe.
+            vanaiṇtiiā̊sca. uparatātō.</ab> 
+        <ab xml:id="ShnumanGenXA52.i">anaγranąm. raōcaŋhąm. xᵛaδātanąm. raōxšnahe. garō.nmānahe.
+            misuuānahe. gātuuahe. xᵛaδātahe. cinuuat̰.pərətūm. mazdaδātąm. bərəzatō. ahurahe.
+            nafəδrō. apąm. apasca. mazdaδātaiiā̊. haōmahe. aṣ̌auuazaŋhō. daɱaiiā̊. vaŋhuiiā̊.
+            āfritōiš. uγrāi. dāmōiš. upamanāi.</ab>
+    </div>
+    <div xml:id="ShnumanGenXA53" type="ShnumanGenXA">
+        <!-- Shahen = Sīrōzā + Srōš + Frawardēn in each part of the Bāj where it goes -->
+        <ab xml:id="ShnumanGenXA53a"> </ab>
+    </div>
+    <div xml:id="ShnumanGenXA54" type="ShnumanGenXA">
+        <!-- Mēnōg Nāvār -->
+        <ab xml:id="ShnumanGenXA54.a"> ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm. </ab>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/RatuShnumanGen" xpointer="RatuShnumanGenXA2"/>
+        <!-- also 3 possible -->
+        <ab xml:id="ShnumanGenXA54.b"> huuarəxšaētahe. aməṣ̌ahe. raēuuahe. auruuat̰.aspahe.</ab>
+        <ab xml:id="ShnumanGenXA54.c"> vaiiaōš. uparō.kairiiehe. taraδātō. ańiiāiš. dāmąn. aētat̰. tē.
+            vaiiō. yat̰. tē. asti. spəṇtō.maińiiaōm. </ab>
+        <ab xml:id="ShnumanGenXA54.d"> razištaiiā̊. cistaiiā̊. mazdaδātaiiā̊. aṣ̌aōńiiā̊. daēnaiiā̊.
+            vaŋhuiiā̊. māzdaiiasnōiš. </ab>
+        <ab xml:id="ShnumanGenXA54.e"> mąϑrahe. spəṇtahe. aṣ̌aōnō. vərəziiaŋᵛhahe. dātahe. vīdaēuuahe.
+            dātahe. zaraϑuštrōiš. darəγaiiā̊. upaiianaiiā̊. daēnaiiā̊. vaŋhuiiā̊. māzdaiiasnōiš.
+            zrazdātōiš. mąϑrahe. spəṇtahe. uši.darəϑrəm. daēnaiiā̊. māzdaiiasnōiš. vaēδīm. mąϑrahe.
+            spəṇtahe. āsnahe. xraϑβō. mazdaδātahe. gaōšō.srūtahe. xraϑβō. mazdaδātahe. </ab>
+        <ab xml:id="ShnumanGenXA54.f">āϑrō. ahurahe. mazdā̊. puϑra. tauua. ātarš. puϑra. ahurahe.
+            mazdā̊. mat̰. vīspaēibiiō. ātərəbiiō. </ab>
+        <ab xml:id="ShnumanGenXA54.g">garōiš. uši.darənahe. mazdaδātahe. aṣ̌a.xᵛāϑrahe. </ab>
+        <ab xml:id="ShnumanGenXA54.h">vīspaēšąm. yazatanąm. aṣ̌aōnąm. maińiiauuanąm. gaēϑiianąm. </ab>
+        <ab xml:id="ShnumanGenXA54.i"> aṣ̌āunąm. frauuaṣ̌inąm. uγranąm. aiβiϑūranąm.
+            paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm. nabānazdištanąm. frauuaṣ̌inąm. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA55" type="ShnumanGenXA">
+        <!-- Dēn beh Mīnō Māhraspand -->
+        <ab xml:id="ShnumanGenXA55.a">ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab>
+        <ab xml:id="ShnumanGenXA55.b">razištaiiā̊. cistaiiā̊. mazdaδātaiiā̊. aṣ̌aōńiiā̊. daēnaiiā̊. vaŋhuiiā̊. māzdaiiasnōiš.</ab>
+        <ab xml:id="ShnumanGenXA55.c">mąϑrahe. spəṇtahe. aṣ̌aōnō. vərəziiaŋhahe. dātahe. vīdaēuuahe. dātahe. zaraϑuštrōiš.
+            darəγaiiā̊. upaiianaiiā̊. daēnaiiā̊. vaŋhuiiā̊. māzdaiiasnōiš. zrazdātōiš. mąϑrahe.
+            spəṇtahe. uši.darəϑrəm. daēnaiiā̊. māzdaiiasnōiš. vaēδīm. mąϑrahe. spəṇtahe. āsnahe.
+            xraϑβō. mazdaδātahe. gaōšō.srūtahe. xruϑβō. mazdaδātahe. </ab>
+        <ab xml:id="ShnumanGenXA55.d"> aṣ̌āunąm. frauuaṣ̌inąm. uγranąm. aiβiϑūranąm.
+            paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm. nabānazdištanąm. frauuaṣ̌inąm. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA56" type="ShnumanGenXA">
+        <!-- Welcoming guests -->
+        <ab xml:id="ShnumanGenXA56.a">ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab>
+        <ab xml:id="ShnumanGenXA56.b">aṣ̌ōiš. vaŋhuiiā̊. cistōiš. vaŋhuiiā̊. ərəϑə̄. vaŋhuiiā̊. rasąstātō. vaŋhuiiā̊.
+            xᵛarənaŋhō. sauuaŋhō. mazdaδātahe. pārəṇdiiā̊. raōraϑaiiā̊. airiianąm. xᵛarənō.
+            mazdaδātanąm. kāuuaiieheca. xᵛarənaŋhō. mazdaδātahe. axᵛarətaheca. xᵛarənaŋhō.
+            mazdaδātahe. zaraϑuštraheca. xᵛarənaŋhō. mazdaδātahe.</ab> 
+        <ab xml:id="ShnumanGenXA56.c">aṣ̌āunąm. frauuaṣ̌inąm. uγranąm.
+            aiβiϑūranąm. paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm. nabānazdištanąm. frauuaṣ̌inąm. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA57" type="ShnumanGenXA">
+        <!-- Xōrdād Sāl -->
+        <ab xml:id="ShnumanGenXA57.a">ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm.
+            spəṇtanąm.</ab>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/RatuShnumanGen" xpointer="RatuShnumanGenXA2"/>
+        <!-- Possible all -->
+        <ab xml:id="ShnumanGenXA57.b">hauruuatātō. raϑβō. yāiriiaiiā̊sca. hušitōiš. sarəδaēibiiō.
+            aṣ̌ahe. ratubiiō.</ab> 
+        <ab xml:id="ShnumanGenXA57.c">aiiaranąmca. asńiianąmca. māhiianąmca. yāiriianąmca. sarəδanąmca.</ab>
+        <ab xml:id="ShnumanGenXA57.d">vīspaēšąm. yazatanąm. aṣ̌aōnąm. maińiiauuanąm. gaēϑiianąm.</ab> 
+        <ab xml:id="ShnumanGenXA57.e">aṣ̌āunąm. frauuaṣ̌inąm.
+            uγranąm. aiβiϑūranąm. paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm. nabānazdištanąm. frauuaṣ̌inąm.
+        </ab>
+    </div>
+    <div xml:id="ShnumanGenXA58" type="ShnumanGenXA">
+        <!-- Avardād Sāl Gāh -->
+        <ab xml:id="ShnumanGenXA58.a"> ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab>
+        <ab xml:id="ShnumanGenXA58.b">hauruuatātō. raϑβō. yāiriiaiiā̊sca. hušitōiš. sarəδaēibiiō. aṣ̌ahe. ratubiiō.</ab>
+        <ab xml:id="ShnumanGenXA58.c">aiiaranąmca. asńiianąmca. māhiianąmca. yāiriianąmca. sarəδanąmca.</ab> 
+        <ab xml:id="ShnumanGenXA58.d">gāϑābiiō. spəṇtābiiō.
+            ratuxšaϑrābiiō. aṣ̌aōnibiiō. ahunauuaitiiā̊. gāϑaiiā̊. uštauuaitiiā̊. gāϑaiiā̊. spəṇtā.
+            maińiiə̄uš. gāϑaiiā̊. vohuxšaϑraiiā̊. gāϑaiiā̊. vahištōištōiš. gāϑaiiā̊.</ab> 
+        <ab xml:id="ShnumanGenXA58.e">vīspaēšąm.
+            yazatanąm. aṣ̌aōnąm. maińiiauuanąm. gaēϑiianąm.</ab> 
+        <ab xml:id="ShnumanGenXA58.f">aṣ̌āunąm. frauuaṣ̌inąm. uγranąm.
+            aiβiϑūranąm. paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm. nabānazdištanąm. frauuaṣ̌inąm. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA59" type="ShnumanGenXA">
+        <!-- Rašn-Āštād -->
+        <ab xml:id="ShnumanGenXA59.a">ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab>
+        <ab xml:id="ShnumanGenXA59.b">rašnaōš. razištahe. arštātasca. frādat̰.gaēϑaiiā̊. varədat̰.gaēϑaiiā̊. ərəžuxδahe.
+            vacaŋhō. yat̰. frādat̰.gaēϑahe.</ab> <ab xml:id="ShnumanGenXA59.c">arštātō. frādat̰.gaēϑahe.
+        garoiš. uši.darənahe.
+            mazdaδātahe. aṣ̌a.xᵛāϑrahe. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA60" type="ShnumanGenXA">
+        <!-- Dahm2 -->
+        <ab xml:id="ShnumanGenXA60.a"> daɱaiiā̊. vaŋhuiiā̊. āfritōiš. uγrāi. dāmōiš. upamanāi. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA61" type="ShnumanGenXA">
+        <!-- Dēn Frawahr-->
+        <ab xml:id="ShnumanGenXA61.a"> ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab>
+        <ab xml:id="ShnumanGenXA61.b">razištaiiā̊. cistaiiā̊. mazdaδātaiiā̊. aṣ̌aōńiiā̊. daēnaiiā̊. vaŋhuiiā̊. māzdaiiasnōiš.</ab>            
+        <ab xml:id="ShnumanGenXA61.c">aṣ̌āunąm. frauuaṣ̌inąm. uγranąm. aiβiϑūranąm. paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm.
+            nabānazdištanąm. frauuaṣ̌inąm. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA62" type="ShnumanGenXA">
+        <!-- Zōhr gereftan -->
+        <ab xml:id="ShnumanGenXA62.a">aiβiiō. vaŋᵛhībiiō. vīspanąmca. apąm. mazdaδātanąm. bərəzatō.
+            ahurahe. nafəδrō. apąm. apasca. mazdaδātaiiā̊. tauua. ahurane. ahurahe. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA63" type="ShnumanGenXA">
+        <!-- Barsom -->
+        <ab xml:id="ShnumanGenXA63.a"> uruuaraiiā̊. vaŋhuiiā̊. mazdaδātaiiā̊. aṣ̌aoniiā̊. </ab>
+    </div>
+    <div xml:id="ShnumanGenXA64" type="ShnumanGenXA">
+        <!-- Ǧām -->
+        <ab xml:id="ShnumanGenXA64.a"> gə̄uš. tašne. gə̄uš. urune. tauua. gə̄uš. huδā̊ŋhō. urunō. </ab>
+        <ab xml:id="ShnumanGenXA64.b"> gə̄uš. tašne. gə̄uš. urune. yauuākəm. gə̄uš. huδā̊ŋhō. urunō. </ab>
+        <ab xml:id="ShnumanGenXA64.c"> gə̄uš. tašne. gə̄uš. urune. yūšmākəm. gə̄uš. huδā̊ŋhō. urunō.
+        </ab>
+    </div>
+    <div xml:id="ShnumanGenXA65" type="ShnumanGenXA">
+        <!--Zarathushtra's Frauuashi-->
+        <ab xml:id="ShnumanGenXA65.a"> zaraϑuštrahe. spitāmahe. aṣ̌aonō. frauuaṣ̌ə̄e. </ab>
+    </div>
+	<div xml:id="ShnumanGenXA66" type="ShnumanGenXA">
+        <!-- MayaYt -->
+        <ab xml:id="ShnumanGenXA66.a">ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab>
+        <ab xml:id="ShnumanGenXA66.b">apąm. vaŋᵛhīnąm. mazdaδātanąm. arəduiiā̊. āpō. anāhitaiiā̊. aṣ̌aōńiiā̊. vīspanąmca. apąm. mazdaδātanąm. vīspanąm. uruuaranąm. mazdaδatanąm.</ab>
+		<ab xml:id="ShnumanGenXA66.c">vīspaēšąm. yazatanąm. aṣ̌aōnąm. maińiiauuanąm. gaēϑiianąm.</ab> 
+        <ab xml:id="ShnumanGenXA66.d">aṣ̌āunąm. frauuaṣ̌inąm. uγranąm. aiβiϑūranąm. paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm. nabānazdištanąm. frauuaṣ̌inąm.</ab>
+	</div>
+	<div xml:id="ShnumanGenXA67" type="ShnumanGenXA">
+        <!-- Rapiϑβin_short with puϑra.-->
+        <ab xml:id="ShnumanGenXA67.a">aṣ̌ahe. vahištahe. āϑrasca. ahurahe. mazdā̊. puϑra.</ab> 
+    </div>
+	<div xml:id="ShnumanGenXA68" type="ShnumanGenXA">
+        <!-- Rapiϑβin_short without puϑra.-->
+        <ab xml:id="ShnumanGenXA68.a">aṣ̌ahe. vahištahe. āϑrasca. ahurahe. mazdā̊. puϑra.</ab> 
+    </div>
+	<div xml:id="ShnumanGenXA69" type="ShnumanGenXA">
+        <!-- Aiβisrūϑrim-->
+        <ab xml:id="ShnumanGenXA69.a">aṣ̌āunąm. frauuaṣ̌inąm. γənąnąmca. vīrō.vąϑβanąm. yāiriiaiiā̊sca. hušitōiš. amaheca. hutāštahe. huraōδahe. vərəϑraγnaheca. ahuraδātahe. vanaiṇtiiā̊sca. uparatātō.</ab> 
+    </div>
+	<div xml:id="ShnumanGenXA70" type="ShnumanGenXA">
+        <!-- Ušahin -->
+        <ab xml:id="ShnumanGenXA70.a">sraōšahe. aṣ̌iiehe. aṣ̌iuuatō. vərəϑrājanō. frādat̰.gaēϑahe. rašnaōš. razištahe. arštātasca. frādat̰.gaēϑaiiā̊. varədat̰.gaēϑaiiā̊.</ab> 
+    </div>  
+<div xml:id="ShnumanGenXA71" type="ShnumanGenXA">
+        <ab xml:id="ShnumanGenXA71.a">ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab>
+        <ab xml:id="ShnumanGenXA71.b">vaŋhauue. manaŋhe. āxštōiš. hąm.vaiṇtiiā̊. tarəδātō. ańiiāiš. dāmąn. āsnahe. xraθβō. mazdaδātahe. gaōšō.srūtahe. xraθβō. mazdaδātahe.</ab>
+        <ab xml:id="ShnumanGenXA71.c">aṣ̌ahe. vahištahe. sraēštahe. airiiamanō. iš́iiehe. sūrahe. mazdaδātahe. saōkaiiā̊. vaŋhuiiā̊. vouru.dōiθraiiā̊. mazdaδātaiiā̊. aṣ̌aōńiiā̊.ā̊.</ab>
+        <ab xml:id="ShnumanGenXA71.d">xšaθrahe. vairiiehe. aiiōxšustahe. marəždikāi. θrāiiō.driγaōuue.</ab>
+        <ab xml:id="ShnumanGenXA71.e">spəṇtaiiā̊. vaŋhuiiā̊. ārmatōiš. rātaiiā̊. vaŋhuiiā̊. vouru.dōiθraiiā̊. mazdaδātaiiā̊. aṣ̌aōńiiā̊.</ab>
+        <ab xml:id="ShnumanGenXA71.f">hauruuatātō. raθβō. yāiriiaiiā̊. hušitōiš. sarəδaēibiiō. aṣ̌ahe. ratubiiō.</ab>
+        <ab xml:id="ShnumanGenXA71.g">amərətatātō. raθβō. fšaōnibiia. vąθβābiia. aspanibiia. yaōnibiia. gaōkərənahe. sūrahe. mazdaδātahe.</ab>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/RatuShnumanGen" xpointer="RatuShnumanGen2"/>
+        <!-- Possible all -->
+    </div>    
+    
+    
+</div>

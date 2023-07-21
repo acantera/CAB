@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y24.13" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y24.13">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY24.13a" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.1" on_line="in1line"/>
+      <!-- All five possible -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY24.13b" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY24.13c" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.2" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY24.13d" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY24.13e" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.3" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY24.13f" on_line="in1line"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y24.12.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>Y24.13a <em>āat̰ dīš āuuaēδaiiamahi asńiiaēibiiō</em> ...] <em>xšnaōϑrāica frasastaiiaēca</em> cygwn PWN slwšdlwn npšt' OD <em>aməṣ̌ā spəṇtā</em> (Y25.1) 500;
+            <em>ratubiiō hāuuanə̄e</em> cygwn PWN slwšdlwn npšt' OD hmʾn <em>aməṣ̌ā spəṇtā</em> (Y25.1) 510.</ab>
+         <ab>Y24.13b <em>āat̰ dīš āuuaēδaiiamahi sāuuaŋhə̄e vīsiiāica</em> ...] <em>sāuuaŋhə̄e</em> cygwn npšt OD OL Y <em>dax́iiunąm daŋ́hupatōiš</em> (Y24.21) 88.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>Y24.13 = Y4.8, VrS79.8; ≈ Y1.3, Y2.3, Y3.6, Y4.8, Y6.2, Y7.6, Y17.2, Y22.6, Y24.13, Y59.2, Y66.3, VrS78.15, VrS79.8, VrS81.2, VrS82.3.</ab>
+      <ab>VrS27.19 = DoHom4.19.</ab>
+      <ab><em>miϑrahe vouru.gaōiiaōitōiš hazaŋhrō.gaōšahe baēuuarə.cašmanō aōxtō.namanō yazatahe rāmanō xᵛāstrahe aṣ̌aōne aṣ̌ahe raϑβe</em> = The standard <em>xšnūman Mihr</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY24.13"/>
+      <include type="W" corresp="WTrY24.13"/>
+      <include type="K" corresp="KTrY24.13"/>
+      <include type="D" corresp="DTrY24.13"/>
+   </translation>
+</text>

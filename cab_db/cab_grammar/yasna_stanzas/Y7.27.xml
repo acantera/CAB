@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y7.27" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y7.27" quote="Y41.5">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY7.24"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y7.21.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y7.27a <em>paitī.jamiiāt̰</em>] Geldner, Kellens, Redard <em>paiti.jamiiāt̰</em>.</ab>
+         <ab>Y7.27c <em>ahurā. mazdā</em>] sec. Ir. cod.; Geldner <em>ahura.mazdā</em>; Kellens <em>ahuramazdā</em>.</ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab>Y7.27c-e  <em>ϑβōi staōtarascā...</em>] MN <em>ϑβōi staōtarascā [...] mazdā ahurā</em> II bʾl gwptn' 6.</ab>
+         <ab>Y7.27e-f  <em>mazdā ahurā ϑβōi staōtarascā...</em>] MN <em>ϑβōi staōtarascā</em> OD <em>mazdā ahurā</em> II bʾl 5; <em>mazdā ahurā</em> II bʾl 15, 83; <em>mazdā ahurā</em> II bʾl gwptn' 88; <em>ϑabōištō.tarascā</em> II 231;
+            <em>ϑβōi stao.tarascā</em> II <em>mazdā ahurā</em> 235; <em>mazdā ahurā</em> wycyst'byšʾmlwtyk gwbšn' 400; <em>mazdā ahurā</em>  wycʾst' 2 bʾl 410.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>Y7.27b <em>yehiiā ... rādaŋhō</em> quotes Y45.7a; <em>ϑβōi staōtarasca ... mazdā ahurā</em> quotes Y41.5 = VrS65.60, VS10.4.</ab>
+      <ab>Y7.27 = VrS82.26.</ab>
+      <ab><em>aṣ̌aiia.nō paitī.jamiiāt̰</em> = Y8.2, Y67.1.</ab><ab>
+            <em>ϑβōi staōtarascā mąϑranascā ahura.mazdā. aōgəmadaēcā usmahicā vīsāmadaēcā hiiat̰ mīždəm mauuaēϑəm fradadāϑā daēnābiiō mazdā ahurā</em> quotes Y41.5; = VS10.4</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY7.27"/>
+
+        <include type="W" corresp="WTrY7.24"/>
+        <include type="K" corresp="KTrY7.24"/>
+        <include type="D" corresp="DTrY7.24"/>
+    </translation>
+</text>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VytVrS18.5" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="VrS18.5" xml:id="VytVrS18.5">
+      <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VrS8.5a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VrS8.5b"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VrS8.5c"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VrS8.5d"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VrS8.5e"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VrS8.5f"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y17.18.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VrS18.5b <em>haδa.zaōϑrəm haδa.aiβiiā̊ŋhanəm</em> ...] <em>haδa.zaōϑrəm haδa.aiβiiā̊ŋhanəm</em> OD OL Y <em>varəš́iiamnaca (VrS18.6) 5020.</em></ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVytVrS18.5"/>
+   </translation>
+</text>

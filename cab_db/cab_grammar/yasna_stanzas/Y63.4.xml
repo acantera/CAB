@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y63.4" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y63.4" quote="Y51.23" headerPointer="Head63">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY63.1a"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y63.1NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY63.1b"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY63.1c"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY63.1d"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y63.4 (mss. 40, 88 (marg.), 400, 410):</ab>
+         <ab class="ab_indent">
+            <em>yeŋ́hē.mē aṣ̌āt̰ hacā vahištəm frāgām</em> pad ǰīw bē kunišn pad vaṇtā az dast ī dašn pad datuš barišn pas zōhr abar nihišn tā ō ī  <em>bāgəm aibī.barištəm</em> </ab>
+         <ab class="ab_indent">
+            "(At) <em>yeŋ́hē.mē aṣ̌āt̰ hacā vahištəm</em>, he has to dip the <em>frāgām</em> in the <em>ǰīw</em> and at <em>vaṇtā</em> he has to bring it to the <em>datuš</em> from
+            the right hand. Then he has to put <em>zōhr</em> on (the datuš) (and continue) until <em>bāgəm aibī.barištəm</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY63.4"/>
+      <include type="W" corresp="WTrY63.1"/>
+      <include type="K" corresp="KTrY63.1"/>
+      <include type="D" corresp="DTrY63.1"/>
+   </translation>
+</text>

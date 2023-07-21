@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y51.1" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+        <approved/>
+        <updated/>
+    </header>
+    <div>
+        <include xml:id="Y51.1" headerPointer="Head51"/>
+    </div>
+    <Apparatus>
+            <bibl>Kotwal and Boyd, 1991</bibl>, p. 92: "Both priests recite stanzas (sts.) 1-3 and later 17-23."
+    </Apparatus>
+</text>

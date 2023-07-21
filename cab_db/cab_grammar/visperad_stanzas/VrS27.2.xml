@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS27.2" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS27.2">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS13.2"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. VrS27.1.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>VrS27.2a <em>ima haōmiia</em>] add. <em>ima staōmaiia</em> 2010 (supra secunda manu), 4220; <em>ima staomiia</em> 2220, 2400, 2620 (supra prima manu), 2630, 4200, 4210, 4240, 4280, 4515.
+         Proper of the Indian recitation: ms. 2010 was sent to India, hence the addition.</ab>
+         <ab>VrS27.2c <em>ima asma paōiriia dāmąn</em>] difficult to undestand. <em>asma</em> masc. acc. du. analogic from nt.? (cf. <em>dāma</em>). Bartholomae <em>asma</em> as acc. pl. (?).</ab> PT ēn āsmān ī fradom dām
+         suggests <em>asma</em> as "sky", but VrS27.2 presents the instruments to be used during the Hōmāst. Maybe "two stones" (?).
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS27.2 = DoHom4.2.</ab>
+      <ab>VrS27.2-3 = VrS27.8-9.</ab>
+      <ab>VrS27.2 = VrS27.8.</ab>
+      <ab><em>ima asmana hāuuana auui.bərəta haōma zāire ima aiiaŋhaēna hāuuana auui.bərəta haōma zāire</em> ~ Y22.3 <em>asmanaca hāuuana āiiese yešti aiiaŋhaēnaca hāuuana āiiese yešti</em>; ~ Y24.2, Y24.7 <em>asmanaca hāuuana aiiaŋhaēnaca hāuuana</em>;
+         ~ Y25.2 <em>asmanaca hāuuana yazamaide aiiaŋhaēnaca hāuuana yazamaide</em>; ~ VrS25.37, VrS90.33 <em>asmnaēibiia hāuuanaēibiia aiiaŋhanaēibiia hāuuanaēibiia</em>;
+         ~ VrS87.10 <em>asmanaca hāuuana yazamaide aiiaŋhaēnaca hāuuana yazamaide</em>; ~ VrS31.15 <em>humaiia.nō buiiata asmana hāuuana aiiaŋhaēna hāuuana</em>; 
+         ~ GEbsr2.3 <em>asmana hāuuana aṣ̌ahe ratauuō yazamaide aiiaŋhaēna hāuuana aṣ̌ahe ratauuō yazamaide</em>.</ab>
+      <ab><em>apəm haōmiiąm</em> = Y3.3, Y7.4; ~ Y22.3, Y22.23, Y22.25, Y24.2, Y24.7, Y25.2 <em>apəmca haōmiiąm</em>.</ab>
+      <ab><em>imat̰ barəsma aṣ̌aiia frastarətəm</em> = Y71.24, VrS14.4, VrS18.5, VrS30.11, VrS36.5, VrS41.6, VrS51.8, VrS57.8, VrS62.8, VrS64.9, VrS65.82, VrS69.8, VrS71.8, VrS87.12, VrS93.11;
+         ~ Y2.1, Y3.4, Y7.5, Y59.29 <em>imat̰ barəsma haδa.zaōϑrəm haδa.aiβiiā̊ŋhanəm aṣ̌aiia frastarətəm</em>; ~ Y24.1, Y24.6 <em>barəsmaca aṣ̌aiia frastarətəm</em>; ~ Y62.9 <em>barəsma vā aṣ̌aiia frastarətəm</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS27.2"/>
+   </translation>
+</text>

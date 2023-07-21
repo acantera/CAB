@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS11.27" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="VrS11.27" xml:id="VVrS11.27">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS3.9"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt̰ ud rāspīg: mss.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>mazdaiiasnō aɱī...</em>] zwt' W lʾspyk' BRA gwbšn' <em>mazdaiiasnō ahmī</em> 4000, 4010, 4020, 4040, 4045, 4161, 4162; zwt W lʾspyk <em>mazdaiiasnō ahmaē</em> 4030; 
+            zwt' (but Pers. supra: zot va rāsfi)<em>mazdaiiasnō ahmū</em> 4025; (Paz.) zōt̰ u rāspī <em>mazdaiiasnō ahmī</em> 4370, 4515.</ab>
+         <ab><em>mazdaiiasnō aɱī...</em>] <em>mazdaiiasnō ahmī mazdaiiasnō zaraϑuštriš</em> OD OL Y <em>āstūitiš</em> 4025, 4040; <em>mazdaiiasnō ahmī mazdaiiasnō zaraϑuštrəš frauuarāne āstīitasca</em> OD OL Y <em>āstiitiš</em> 4050; 
+            <em>mazdaiiasnō ahmī mazdaiiasnō zaraϑuštriš</em> OD <em>āstuuitiš</em> 4210, 4240, 4280, 4515; <em>mazdaiiasnō ahmī</em> OD <em>āstuuitiš</em> 4200, 4370</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS11.27"/>
+   </translation>
+</text>

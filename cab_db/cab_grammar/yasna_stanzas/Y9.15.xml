@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y9.15" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y9.15">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY9.15"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y9.3.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y9.15a <em>zəmargūzō</em>] Kellens; Geldner <em>zəmargūrō</em>; Pirart <em>zəmarə.gūzō</em>.</ab>
+         <ab>Y9.15a <em>ākərənauuō</em>]  Geldner, Pirart; Kellens (Bartholomae) <em>ākərənuuō</em>.</ab>
+         <ab>Y9.15b ⁺<em>aš.vərəϑrająstəmō</em>] against the manuscripts. Geldner, Kellens <em>as.vərəϑrająstemō</em>; Pirart <em>aṣ̌a.vərəϑrająstəmō</em>. Cf. Y9.8 <em>ašaōjaštəmąm</em>; vid. <bibl>Kellens, 1975</bibl>, p. 151ff.</ab>
+         <ab>Y9.15b <em>abauuat̰</em>] Geldner, Kellens; Pirart <em>ubaiiā̊</em> (cf. Yt13.76).</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>tūm zəmargūzō ākərənuuō vīspe daēuua zaraϑuštra</em> ~ Yt19.81 <em>zəmargūza auuazat̰ vīspe daēuua</em>.</ab>
+      <ab><em>yō aōjištō yō taṇcištō yō ϑβaxšištō yō āsištō yō ⁺aš.vərəϑrająstəmō</em> ~ Yt10.98 <em>yō aōjištō yazatanąm yō taṇcištō yazatanąm yō ϑβaxšištō yazatanąm yō āsištō yazatanąm yō ⁺aš.vərəϑrająstəmō yazatanąm</em>.</ab>
+      <ab><em>yō aōjištō yō taṇcištō</em> ~ Yt10.141 <em>aōjištanąm asti aōjištəm taṇcištanąm asti taṇcištəm</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY9.15"/>
+
+        <include type="W" corresp="WTrY9.15"/>
+        <include type="K" corresp="KTrY9.15"/>
+        <include type="D" corresp="DTrY9.15"/>
+    </translation>
+</text>

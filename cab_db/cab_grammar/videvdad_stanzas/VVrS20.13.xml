@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS20.13" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VVrS20.13">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/videvdad_nerang" xpointer="VVrS20.13NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VVrS20.13 (mss. 2005, 2010, 2040, 4000, 4010, 4020, 4040, 4045, 4161, 4162, 4030a):</ab>
+         <ab class="ab_indent">
+            <em>yaϑā ahū vairiiō</em> čahār pad buland wāng guftan</ab> 
+         <ab class="ab_indent">
+            "They should recite four <em>yaϑā ahū vairiiō</em> in loud voice."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS20.13"/>
+   </translation>
+</text>

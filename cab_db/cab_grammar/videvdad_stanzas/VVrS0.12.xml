@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS0.12" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VVrS0.12">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/videvdad_nerang" xpointer="VVrS0.12NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY0.10a"/>
+   </div>
+   <SpeakerInfo>
+      <div>zōt ud rāspīg: ms. 4370; vid. VVrS0.11.</div>
+   </SpeakerInfo>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab><em>fərašōtəməm</em>] add. <em>staōmi</em> MU1 (vid. Rit. Quot.).</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Quotations id="ritualQuotations">
+         <ab><ab>Revāyat of Behdin Ǧāsā (MU1, p. I. 593), on the Nērang ī Āb ud Padyāb ceremony:</ab>
+            <ab class="ab_indent">barsam avar māhruy nahādan zud bāyad ke naǧonbide (AVPerTr.) <em>ḫešnus̱ar ahurahi mazdā</em> (Per.) tā  (AvPerTr.)<em>setumi</em></ab>
+            <ab class="ab_indent">The <em>barsom</em> has to be placed on the <em>māhrūy</em>. The <em>zōt</em> should not stir. (They should recite) <em>xšnaōϑra ahurahe mazdā̊</em> until <em>staōmi</em>.</ab></ab>
+      </Quotations>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS0.12"/>
+   </translation>
+</text>

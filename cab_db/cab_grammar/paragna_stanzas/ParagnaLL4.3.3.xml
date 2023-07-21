@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL4.3.3" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="3" xml:id="ParagnaLL4.3.3">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL4.3.3 (Mss. K7, RJ):</ab>
+            <ab class="ab_indent">
+                va yek <em>aṣ̌əm vōhū</em> goftan <em>aɱāi raēsca</em> tā sar va yek aṣ̌əm vōhū goftan <em>hazaŋhrəm</em> se bār tā sar va yek <em>aṣ̌em vohu</em> goftan va 
+                <em>jasa.mē auuaŋhe mazda</em> se bār tā sar va yek <em>aṣ̌em vohu</em> goftan</ab>
+            <ab class="ab_indent">
+                "He should recite one <em>Aṣ̌əm Vohū</em>, (then) <em>aɱāi raēsca</em> until the end and one <em>Aṣ̌əm Vohū</em>, (followed by) three times <em>hazaŋhrəm</em>
+                until the end. He should recite one <em>Aṣ̌əm Vohū</em> and three times <em>jasa.mē auuaŋhe mazda</em> until the end. He should recite one <em>Aṣ̌əm Vohū</em>."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL4.3.3"/>
+    </translation>
+</text>

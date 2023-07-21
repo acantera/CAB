@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL12.4.10" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="10" xml:id="ParagnaLL12.4.10">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL12.4.10 (Ms. RJ):</ab>
+            <ab class="ab_indent">
+                pas <em>yə̄ səuuištō ahurō mazdā̊scā ārmaitišcā aṣ̌əmcā frādat̰.gaēϑəm manascā vohū ḫšaϑrəmcā sraotā.mōi mərəždātā.mōi</em> hum va urvarān ašvārdan <em>ādāi kahiiāicīt̰ paitī</em> 
+                har se bār ḫᵛāndan pas dast andar hāvan nahādan ān sokure-e farāhum-ḫᵛor bar-ruy-e hāvan daste nahādan va ān sokure ke šib-e hum-pyāle nahāde ast ke-š farāhum andar-ast be-dast-e rāst 
+                bar dāštan yek qaṯre be-sokure-ruy-e hāvan kardan bāqi andar farāhum-dān kardan digar yekqaṯre be sokure-ye farāhum-dān kardan</ab> 
+            <ab class="ab_indent">
+                "Then, (he should recite) <em>yə̄ səuuištō ahurō mazdā̊scā ārmaitišcā aṣ̌əmcā frādat̰.gaēϑəm manascā vohū ḫšaϑrəmcā sraotā.mōi mərəždātā.mōi</em>, squeeze the <em>hum</em> 
+                and <em>urvarān</em> (and continue with) <em>ādāi kahiiāicīt̰ paitī</em>. He should recite (this stanza) three times. Then he should touch the <em>hāwan</em> with his hand 
+                and place the cup for drinking the <em>farāhum</em> on the <em>hāvan</em> and pestle. He has then to take with the right hand the cup that was placed under the <em>hum-pyāle</em> 
+                and in which is contained the <em>farāhum</em> and pour a drop into the cup placed on the <em>hāvan</em>. He should pour the rest into the <em>farāhum-dān</em> and pour 
+                again a drop into the <em>farāhum-dān</em>."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL12.4.10"/>
+    </translation>
+</text>

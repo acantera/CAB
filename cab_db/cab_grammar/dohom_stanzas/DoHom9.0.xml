@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="DoHom9.0" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="DoHom9.0">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>DoHom9.0 (mss. 2000, 2035):</ab>
+         <ab class="ab_indent">
+            <em>haōmanąm uzdātanąm</em> čīyōn pēš nibišt hōmāst dudīgar bār guftan tā sar ka <em>vaca aršuxδa</em> tā sar guft zōt ud rāspīg <em>aṣ̌əm vohū</em> se</ab> 
+         <ab class="ab_indent">
+            "At <em>haōmanąm uzdātanąm</em>, they should recite a second time the Hōmāst until the end as it has been written. When they have recited <em>vaca aršuxδa</em> until the 
+            end, the <em>zōt</em> and the <em>rāspīg</em> (should recite) three <em>Aṣ̌əm Vohū</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrDoHom9.0"/>
+   </translation>
+</text>

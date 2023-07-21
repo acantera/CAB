@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VytVrS1.4" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VytVrS1.4">
+               <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VytSY1.3a" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.1" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VytSY1.3b" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.2" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VytSY1.3c" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.3" on_line="in1line"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: vid. Y1.1.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels>
+    <ab> VytVrS1.4 ≈ VytVrS2.4, VytVrS17.3, VytVrS25.6, VytVrS27.20, VytVrS77.3, VytVrS90.4</ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrVytVrS1.4"/>
+    </translation>
+</text>

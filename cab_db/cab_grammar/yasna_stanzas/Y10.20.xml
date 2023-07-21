@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y10.20" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y10.20">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY10.20"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: Anklesaria, Kotwal and Boyd.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y10.20a.2 <em>nəmō</em>] cod., Geldner, Kellens; Pirart <em>aməm</em>. <bibl>Kellens, 2007</bibl> "Yt14.61 suggère la restitution de <em>*amō</em>." Likely an old error.</ab>
+         <ab>Y10.20c <em>vastrəm</em>] Geldner, Kellens; Pirart <em>vāstrəm</em> (<bibl>Benveniste and Renou, 1934</bibl> p. 8, n. 3.).</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>Y10.20 ~ Yt14.61.</ab>
+      <ab><em>gauue xᵛarəϑəm gauue vastrəm</em> ~ Y55.2 (x2) <em>xᵛarəϑəmca vastrəmca</em>; ~ VS5.38 <em>xᵛarəϑaheca vastraheca</em>; ~ VS3.19 <em>aētā̊ xᵛarəϑā̊ xᵛaratu aētā̊ vastrā̊ vaŋhatu</em>; ~ VS5.55 <em>yūtō xᵛarəϑa yūtō vastra</em>;
+         ~ VS3.18 <em>xᵛarəϑaēibiiō ... vastraēibiiō</em>.</ab>
+      <ab><em>gauue vərəziiātąm tąm nə̄ xᵛarəϑāi fšuiiō</em> ~ Y48.5 <em>gauuōi vərəziiātąm tąm nə̄ xᵛarəϑāi fšuiiō</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY10.20"/>
+      <include type="W" corresp="WTrY10.20"/>
+      <include type="K" corresp="KTrY10.20"/>
+      <include type="D" corresp="DTrY10.20"/>
+   </translation>
+</text>

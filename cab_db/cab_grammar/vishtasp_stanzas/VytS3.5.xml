@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VytS3.5" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VytS3.5">
+      <include href="/db/apps/cab_db/cab_rituals/fragards/FragardVishtasp" xpointer="Vyt3.5"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>Vyt3.5 ~ VrS11.11.</ab>
+      <ab><em>yūnō humanaŋhō huvacaŋhō huš́iiaōϑanahe hudaēnahe</em> = HN2.18; ~ HN2.12 <em>yum humanō huuaca huš́iiaōϑana hudaēna</em>; ~ P32 <em>yūnat̰ haca humanaŋhat̰ huuacaŋhat̰ huš́iiaōϑnāt̰ hudaēnāt̰</em>; ~ HN2.11 <em>humanō huuacō huš́iiaōϑana hudaēna</em>; ~ Yt19.95 <em>vərəϑraγnō humanaŋhō huuacaŋhō huš́iiaōϑnā̊ŋhō hudaēna</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVytS3.5"/>
+   </translation>
+</text>

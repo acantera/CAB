@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y68.5" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y68.5">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY68.5"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab><em>dāiiā̊.mē ahurāne ... vahištəm ahūm aṣ̌aōnąm raōcaŋhəm vīspō.xᵛāϑrəm</em>; ~ Y62.6, VrS78.11 <em>dāiiā̊ mē ātarš ... vahištəm ahūm aṣ̌aōnąm raōcaŋhəm vīspō.xᵛāϑrəm</em>; ~ Y11.10 <em>pairi.mē tūmcit̰ dāiiā̊ haōma ... vahištəm ahūm aṣ̌aōnąm raōcaŋhəm vīspō.xᵛāϑrəm</em>. </ab>
+      <ab><em>vahištəm ahūm aṣ̌aōnąm raōcaŋhəm vīspō.xᵛāϑrəm</em> = Y9.19, Y68.11, Y72.14, AD2.12, AGahambar2.23, AGatha2.11, ARap2.12, ANogNavar2.7, ŠnĀsman; ~ Y16.7, VrS18.1 (x3), VrS28.2 (x3), VrS69.5 <em>vahištəm ahūm aṣ̌aōnąm yazamaide raōcaŋhəm vīspō.xᵛāϑrəm</em>; ~ P37.2 <em>vahištəmca ahūm anaγraca raōcā̊ afrasaŋhąnca xᵛāϑra</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY68.5"/>
+      <include type="W" corresp="WTrY68.5"/>
+      <include type="K" corresp="KTrY68.5"/>
+      <include type="D" corresp="DTrY68.5"/>
+   </translation>
+</text>

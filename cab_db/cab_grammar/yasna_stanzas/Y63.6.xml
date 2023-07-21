@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y63.6" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y63.6">
+               <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y63.3NerangTransc.a"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY63.3a"/>
+               <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y63.3NerangTransc.b"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY63.3b"/>
+               <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y63.3NerangTransc.c"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY63.3c"/>
+               <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y63.3NerangTransc.d"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY63.3d"/>
+               <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y63.3NerangTransc.e"/>
+               <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y63.3NerangTransc.f"/>
+            </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Y63.6 Var. a (mss. 40, 88):</ab>
+            <ab class="ab_indent">
+                skūrag kē-š zōhr padiš abar ǰām gāh ud barsom nihādan <em>ahurəm mazdąm aṣ̌auuanəm aṣ̌ahe ratūm yazamaide</em> pad mayānag ī barsom nihādan abar war ī zōhrag az 
+                sar ī barsom pad čahār angust <em>aməṣ̌ā. spəṇtā huxšaϑrā huδā̊ŋhō yazamaide</em>. pad hōy ī barsom nihišn frāztom sar ī barsom <em>apō at̰ yazamaide</em>. abar āb 
+                nihišn abar hōytar ī barsom pad war ī zōhrag az sar ī barsom pad čahār angust <em>aṣ̌āunąm urunascā frauuaṣ̌īšcā yazamaide</em>. abar ē barēd ō dašntar ī barsom pad war ī 
+                zōhrag ham ēdōn pad čahār angust</ab>
+            <ab class="ab_indent">
+                "He should put the cup that contains the <em>zōhr</em> next to the place of the <em>ǰīw</em> and next to the <em>barsom</em>. At <em>ahurәm mazdąm aѕauuanәm aѕahe ratūm yazamaide</em>, 
+                he should put it in the middle of the <em>barsom</em>, next to the <em>zōhrag</em>, four finger away from the end of the <em>barsom</em>. At <em>aməṣ̌ā spəṇtā huxšaϑrā huδā̊ŋhō yazamaide</em>, 
+                he should put it at the left side of the <em>barsom</em>, at the front of the <em>barsom</em>. At <em>apō at̰ yazamaide</em>, he has to put it over the water, at the left side of the <em>barsom</em>, 
+                next to the <em>zōhrag</em>, four finger away from the end of the <em>barsom</em>. At <em>aṣ̌āunąm urunascā frauuaṣ̌īšcā yazamaide</em>, he should bring it to the right side 
+                of the <em>barsom</em>, next to the <em>zōhrag</em>, again thus, four finger (away from the end of the <em>barsom</em>)."</ab>
+            <ab>Y63.6 Var. b (mss. 400, 410):</ab>
+            <ab class="ab_indent">
+                <em>ahurəm mazdąm</em>. pad mayānag ī barsom abar ē barēd <em>aṣ̌auuanəm aṣ̌ahe ratūm yazamaide</em>. abar war ī zōhrag az sar ī barsom pad čahār angust 
+                <em>aməṣ̌ā spəṇtā huxšaϑrā huδā̊ŋhō yazamaide</em>. frāztom sar ī barsom <em>apō at̰ yazamaide</em>. abar hōytar ī barsom pad war ī zōhrag az sar ī barsom pad 
+                čahār angust <em>aṣ̌āunąm urunascā</em>. ō dašntar ī barsom pad war ī zōhrag az sar ī barsom pad čahār angust <em>frauuaṣ̌īšcā yazamaide</em>.</ab> 
+            <ab class="ab_indent">
+                "At <em>ahurəm mazdąm</em>, he should bring it to the middle of the <em>barsom</em>. At <em>aṣ̌auuanəm aṣ̌ahe ratūm yazamaide</em>, next to the <em>zōhrag</em>, 
+                four fingers away from the end of the <em>barsom</em>. At <em>aməṣ̌ā spəṇtā huxšaϑrā huδā̊ŋhō yazamaide</em>, to the front of the <em>barsom</em>. At <em>apō at̰ yazamaide</em>, 
+                to the left side of the <em>barsom</em>, at the level of the <em>barsom</em>, four fingers away from the end of the <em>barsom</em>. At <em>aṣ̌āunąm urunascā</em>, 
+                to the right side of the <em>barsom</em>, at the level of the <em>barsom</em>, four fingers away from the end of the <em>barsom</em> (and continue with) <em>frauuaṣ̌īšcā yazamaide</em>."</ab>
+        </Nerangs>
+   <ab>~ VrS87.7</ab>
+        <Quotations id="ritualQuotations">
+            <ab>N52.3-8 (Avestan):</ab>
+            <ab class="ab_indent">
+                <em>ẏat̰ zaōta ahurəm mazdąm ẏazāiti †maδəmāi barəsmąn paiti.barōit̰ aməṣ̌ə̄ spəṇtə̄ yazāiti †fratəmāi barəsmąn paiti.barōit̰ apō at̰ ẏazamaide †hauuiiōtəmāi barəsmąn paiti.barōit̰
+                    aṣ̌āunąm urunasca †frauuaṣ̌īšca ẏazamaide †dašinōtəmāi barəsmąn paiti.barōit̰ vīspaēibiiō ẏasnō.kərətaēibiiō maδəmāi †barəsmąn paiti.barōit̰</em> </ab>  
+            <ab class="ab_indent">
+                "When the <em>zaōtar</em> says <em>ahurəm mazdąm yazamaide</em>, he should bring (the libation) to the middle of the <em>barəsman</em>. When he says <em>aməṣ̌ə̄ spəṇtə̄ yazamaide</em>, 
+                he should bring (the libation) to the front of the <em>barəsman</em>. (When he says), <em>apō at̰ ẏazamaide</em>, he should bring (the libation) to the left side of the <em>barəsman</em>.
+                (When he says) <em>aṣ̌āunąm urunasca frauuaṣ̌īšca ẏazamaide</em>, he should bring (the libation) to the right side of the <em>barəsman</em>.  At each <em>yeŋ́hē.hātā</em>, 
+                he should bring (the libation) to the middle of the <em>barəsman</em>."</ab>
+            
+            <ab>N52.3-8 (Pahlavi):</ab>
+            <ab class="ab_indent">
+                ka zōt ohrmazd yazēd [kū ēn abestāg gōwēd ay kū <em>ahurəm mazdąm</em>] pad mayānag ī barsom abar ē barēd ka amahraspandān yazēd [pad ān ī meh ud weh nām] frāztom 
+                pad barsom abar ē barēd [pad sar ī barsom] ka āb ēdōn yazēd ō hōytom ī barsom abar ē barēd [pad war ī zōhrag] ka ahlawān ruwān frawahr yazād ō dašntom pad barsom abar ē barēd
+                [pad hassārīh ī zōhrag] ud pad harwispīn yazišn-kardārīh [pad ẏeŋ́he hātąm] pad mayānag ī barsom abar ē barēd [pad war ī zōhrag]</ab>  
+            <ab class="ab_indent">
+                "When the <em>zōt</em> worships Ohrmazd [that is, he says following Avestan text: <em>ahurəm mazdąm</em>], he should bring (the libation) to the middle of the <em>barsom</em>. 
+                When he worships the Amahraspandān, [with their big and best names], he should bring (the libation) to the front of the <em>barsom</em> [to the end of the <em>barsom</em>]. 
+                When he worships thus the waters, he should bring (the libation) to the left side of the <em>barsom</em> [at the level of the <em>zōhrag</em>]. When he worships the souls and
+                <em>frawahr</em> of the orderly ones, he should bring (the libation) to the right side of the <em>barsom</em> [at the level of the <em>zōhrag</em>]. At each <em>yazišn</em>-making
+                [at the <em>Yeŋ́hē.hātā</em>], he should bring (the libation) to the middle of the <em>barsom</em> [at the level of the <em>zōhrag</em>]."</ab>
+    <ab>Cf. N52.4(Avestan)(cf. <bibl>Kotwal and Kreyenbroek, 2003</bibl>: p. ****)</ab>
+    <ab class="ab_indent">
+                <em>ẏat̰ zaōta ahurəm mazdąm ẏazāiti *maδəmāi barəsmąn
+paiti.barōit̰ aməṣ̌ə̄ spəṇtə̄ yazāiti *fratəmāi barəsmąn paiti.barōit̰ apō at̰ ẏazamaide *hauuiiōtəmāi barəsmąn paiti.barōit̰ aṣ̌āunąm urunasca *frauuaṣ̌īšca ẏazamaide *dašinōtəmāi barəsmąn paiti.barōit̰.</em>
+            </ab>
+<ab class="ab_indent">When the <em>zaōtar</em> makes the <em>yasna</em> for Ahura Mazdā, he should bring (the offering) on the middle part of the <em>barəsman</em>. When he makes the <em>yasna</em> for the Aməṣ̌a Spəṇta, he should bring ()the offering) to the middle part of the <em>barəsman</em>. (At) <em>apō at̰ ẏazamaide</em>he should bring (the offering) on the fartest part to the left of the <em>barəsman</em>. At <em>aṣ̌āunąm urunasca *frauuaṣ̌īšca ẏazamaide</em>he should bring(the offering) to the fartest part to the right of the <em>barəsman</em>.</ab>
+<ab>The Avestan version describes the procedure as it appears in the Yasna, and the Middle Persian as in the Visperad (<bibl>Cantera, 2014</bibl>: pp. 191 ff.)</ab>
+        </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY63.6"/>
+    <include type="W" corresp="WTrY63.3a"/><include type="K" corresp="KTrY63.3a"/><include type="D" corresp="DTrY63.3a"/></translation>
+</text>

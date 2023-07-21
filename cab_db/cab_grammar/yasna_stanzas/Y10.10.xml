@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y10.10" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y10.10">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY10.10"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y10.6.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab><em>haraiϑiiā̊</em>] cod.; Geldner, Kellens, Pirart <em>haraiϑiiō</em>. Vid. Parallels Y42.3, Yt12.25, cf. Parallels Yt10.50, Yt10.88, etc.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>baγō</em> (i.e. Ahura Mazdā) <em>huuāpā̊</em> ~ Y44.5 <em>ahurā kə̄ huuāpā̊</em></ab>
+      <ab><em>haraiϑiiā̊ paiti barəzaiiā̊</em> = Y57.28; ~  Yt10.50, Yt10.88, Yt10.90 <em>haraiϑiiō paiti barəzaiiā̊</em>; ~ Yt10.51 <em>haraiϑiiāt̰ paiti barəzaŋhat̰</em>; ~ Y42.3, Yt12.25 <em>haraiϑiiā̊ barəzō</em> ~ Yt19.1 <em>haraiti barš</em></ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY10.10"/>
+      <include type="W" corresp="WTrY10.10"/>
+      <include type="K" corresp="KTrY10.10"/>
+      <include type="D" corresp="DTrY10.10"/>
+   </translation>
+</text>

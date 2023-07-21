@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS11.19" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y11.14" xml:id="VVrS11.19" quote="Y52.6">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY11.12a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY11.12b"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY11.12c"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt̰ ud rāspīg: vid. VVrS11.17.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>vasasca tū ...</em>] <em>vasasca tī ahura. mazda</em> OD OL Y <em>ązasca dužāϑrəmca</em> (VVrS11.22) 4000; <em>vasasca tē ahura mazda uštāca xšaēša</em> OD OL Y <em>ązasca dužāϑrəmca</em> (VVrS11.22) 4010;
+            <em>vasasca tē ahura mazda uštāca xšaēša huuanąm</em> OD OL Y <em>ązasca dužāϑrəmca</em> 4025; <em>vasascatē ahurahemazdā̊</em> gwptn' OD OL Y <em>druuatō stōiš</em> (VVrS11.22) 4030; 
+            <em>vasasca tē ahura. mazda</em> OD OL Y <em>vīspaiiā̊ druuatō stōiš</em> 4040, 4050; <em>vasasca tē</em> cygwn pyš npšt' gwptn' OD <em>druuatō st[...]</em> 4045; 
+            <em>vasascatū ahuramazda</em> OD (<em>vīspaiiā̊</em> 4210, 4240) <em>druuatō stōiš</em> 4200, 4210, 4240, 4280, 4370, 4515.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS11.19"/>
+   </translation>
+</text>

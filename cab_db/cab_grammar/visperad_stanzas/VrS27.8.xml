@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS27.8" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS27.8">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS13.8"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. VrS27.6.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab><em>ima. haōmiia.</em>] add. <em>ima. staomaiia.</em> 2400, 4240; <em>ima. šataomaiia.</em> 4200a; <em>ima. staomiia.</em> 4210, 4280. Cf. VrS27.2.</ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab>VrS27.8c <em>ima asma</em> ...] <em>paōriia dāmąn</em> cygwn npšt' OD OL Y <em>vīspaca vohu</em> (VrS27.11)</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>Vid. VrS27.2.</ab>
+      <ab>VrS27.8 = DoHom4.8.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS27.8"/>
+   </translation>
+</text>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS4.25" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y4.25" xml:id="VrS4.25">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY4.24"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. VrS4.8, VrS4.17.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS4.25 (mss. 2106, 2101):</ab>
+         <ab class="ab_indent">
+            <em>āat̰ dīš āuuaēδaiiamahe</em> pad harw <em>xšnaōθra</em> ēsm ud bōy tāg-ē ō ī ātaxš dahišn <em>aṣ̌āunąm frauuaṣ̌inąm</em> ...</ab>
+         <ab class="ab_indent">
+            "<em>āat̰ dīš āuuaēδaiiamahe</em> At each <em>xšnaōθra</em> he has to give one piece of <em>ēsm</em> and <em>bōy</em> to the fire (and then continue with) 
+            <em>aṣ̌āunąm frauuaṣ̌inąm</em>  ..."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation/>
+</text>

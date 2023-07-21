@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS0.14" status="created">
+  <!-- created, approved, updated-->
+  <header>
+    <creators>
+      <creator>Porro</creator>
+      <creator>Cantera</creator>
+    </creators>
+    <created>1 June 2019</created>
+  </header>
+  <div type="Stanza" sameAs="" xml:id="VrS0.14">
+    <!-- Only in Gāhānbār 10x, x4 in other VrS -->
+    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" gahamonly="1"/>
+    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" gahamonly="1"/>
+    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" gahamonly="1"/>
+    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" gahamonly="1"/>
+    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" gahamonly="1"/>
+    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" gahamonly="1"/>
+    <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS0.14NerangTransc.a"/>
+  </div>
+  <Speaker>
+    <SpeakerInfo>
+      <div>zōt ud rāspīg: vid. Y0.11.</div>
+    </SpeakerInfo>
+    <Commentary/>
+  </Speaker>
+  <Apparatus>
+    <Critical/>
+    <RecitationInstruction>
+      <ab>X ] 2065; IVgwptn' 2007, 2010, 2030, 2070, 2101, 2109.</ab> 
+    </RecitationInstruction>
+    <Commentary>
+      <ab>On the number of <em>aṣ̌əm vohū</em> and <em>yaϑā ahū vairiiō</em>, vid. Nērang and VrS0.13 Rit. Quot.</ab>
+    </Commentary>
+  </Apparatus>
+  <Parallels/>
+  <Ritual>
+    <Nerangs id="ritualNerangs">
+      <ab>VrS0.14 Var. a (mss. 2007, 2010, 2040, 2065, 2070):</ab>
+      <ab class="ab_indent">
+        <em>yaϑā ahū vairiiō</em> 4 guftan pad har <em>š́iiaōϑənanąm</em> rāspīg ēsm ud bōy tāg-ē ō ī ātaxš nihišn agar yazišn ī gāhānbār bēd har ēk dah abāyēd guftan ō ī pāy ēstēnišn</ab>
+      <ab class="ab_indent">
+        "He should recite four <em>yaϑā ahū vairiiō</em> At each <em>š́iiaōϑənanąm</em>, the <em>rāspīg</em> has to put a piece of <em>ēsm</em> and <em>bōy</em> in the fire.
+        If it is the liturgy of a <em>gāhānbār</em>, he must recite each stanza ten times. He has to be standing."</ab> 
+      
+      <ab>VrS0.14 Var. b (mss. 2030, 2101):</ab>
+      <ab class="ab_indent">
+        <em>yaϑā ahū vairiiō</em> čahār guftan pad har <em>š́iiaōϑənanąm</em> rāspīg ēsm ud bōy tāg-ē ō ī ātaxš nihišn agar yazišn ī gāhānbār bēd <em>aṣ̌əm vohū</em> dah abāyēd 
+        guftan <em>yaϑā ahū vairiiō</em> dah guftan ō ī pāy ēstēnišn</ab>
+      <ab class="ab_indent">
+        "He should recite four <em>yaϑā ahū vairiiō</em> At each <em>š́iiaōϑənanąm</em>, the <em>rāspīg</em> has to put a piece of <em>ēsm</em> and <em>bōy</em> in the fire. 
+        If it is the liturgy of a <em>gāhānbār</em>, he must recite ten <em>aṣ̌əm vohū</em> and ten <em>yaθā ahū vairiiō</em>. He has to be standing."</ab>
+
+      <ab>VrS0.14 Var. c (ms. 2109):</ab>
+      <ab class="ab_indent">
+        <em>yaϑā ahū vairiiō</em> harw ēk dah guftan ēn gyāg sāzišn ud zōhr hamāg bē nigerišn ud ēsm ud bōy ō ī ātaxš dahišn</ab>
+      <ab class="ab_indent">
+        "He should recite the <em>yaϑā ahū vairiiō</em>, each ten times. At this moment, he has to inspect all the implements and the <em>zōhr</em> and (the <em>rāspīg</em>) has to 
+        give a piece of <em>ēsm</em> and <em>bōy</em> to the fire."</ab>
+    </Nerangs>
+    <Quotations id="ritualQuotations"/>
+  </Ritual>
+  <translation>
+    <include type="CAB" corresp="CABTrVrS0.14"/>
+  </translation>
+</text>

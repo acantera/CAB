@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y0.10" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y0.10">
+        <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP2"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>zōt ud rāspīg: vid. Rit. Quot., Kotwal und Boyd; zōt: Anklesaria.</div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab><em>daēnaiiā̊. vaŋhuiiā̊. māzdaiiasnōiš. zrazdātōiš. mąϑrahe. spəṇtahe. uši.darəϑrəm</em>] PT deest.</ab>
+            <ab><em>ahurahe. ... frauuaṣ̌inąm.</em> (šnūman)] agar yazišn ašūān bīd <em>aṣ̌aōnąm. frauuaṣ̌anąm. uγranąm. aiβiϑūranąm. paōriiō.t̰kaēšanąm.
+                frauuašanąm nabānazdištanąm. frauuašanąm;</em> 88; abbv. 110, 231, 235.</ab>
+            <ab><em>yaϑā ahū vairiiō zaōtā frā.mē mrūtē yaϑā ahū vairiiō yō zaōtā frā.mē mrūtē aϑā ratuš aṣ̌āt̰cit̰ hacā aṣ̌auuā viδuuā̊ mraōtū</em>] cf. N19.8 in Rit. Quot.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs"/>
+        <ab>Y0.10 šnūman (ms. 5): </ab>
+        <ab class="ab_indent">
+            agar šnūman nōgnāwar bēd <em>ahurahe mazdā̊ raēuuatō xᵛarənaŋᵛhatō aməṣ̌anąm spəṇtanąm miϑrahe vouru.gaōiiaōitōiš rāmanasca xᵛā strahe</em>.</ab>
+        <ab class="ab_indent">
+            "If it is the <em>šnūman nōgnāwar</em>, (he has to recite) <em>ahurahe mazdā̊ raēuuatō xᵛarənaŋᵛhatō aməṣ̌anąm spəṇtanąm miϑrahe vouru.gaōiiaōitōiš rāmanasca xᵛā strahe</em> ..."</ab> 
+        <ab>Y0.10 wāz gīrišnīh (mss. 40, 60, 82, 400, 410 (sec. m. mg.), 2030, 2040, 2101, 2109, 4010, 4020, 4025, 4050, 4060, 4161, 5010, 5020, 5030):</ab>
+        <ab class="ab_indent">
+            zōt ud rāspīg  čašm pad ātaxš ud barsom dārišn zōt <em>yaϑā ahū vairiiō zaōta frā.mē. mrūte</em> 
+            rāspīg <em>yaϑā ahū vairiiō yō zaōta frā.mē mrūtē</em> zōt <em>aϑā ratuš</em> kardan</ab>
+        <ab class="ab_indent">
+            "Both, the <em>zōt</em> and the <em>rāspīg</em>, turn their gaze to the fire and the <em>barsom</em>. 
+            The <em>zōt</em> (should say): <em>yaϑā ahū vairiiō zaōta frā.mē mrūte</em>, the <em>rāspīg</em> : <em>yaϑā ahū vairiiō yō zaōta frā.mē mrūtē</em> 
+            and the <em>rāspīg</em> should answer <em>aϑā ratuš</em>" </ab>
+        <Quotations id="ritualQuotations">
+            <ab>N2.8, <bibl>Kotwal and Kreyenbroek, 1995</bibl>: pp. 32-33 (Mss. 300, 360, 370):</ab>
+            <ab class="ab_indent">ka zōt pad wāz-gīrišnīh ī pad  <em>frastuiiē</em> be šawēd <em>aṣ̌əm vohū 3
+                frauuarānē mazdaiiasnō</em> cē gāh dārēd ud šnūman abāz ōšmurēnd u-š wāz frāz-gīrišn [[ka]] az bunīh</ab>
+            <ab class="ab_indent">ka [rāspīg] wāz gīrēd be ka har 3 wēnēd tā nē šāyēd zōt ātaxš ud barsom pas ka ēk wēnēd ā šāyēd ast kē ēdōn gōwēd hād u- š [az] bunīh ēk wēnēd šāyēd pas ka wāng
+                ašnawēd šāyēd ka wāz gīrēd ā-š wāng ēdōn kunišn kū ka-z pad tan-ē kard ašnawē ud ka pad ēw-kardagīh frāz ašnawēnd ā-z šāyēd</ab>
+            <ab class="ab_indent">"When the <em>zōt</em> reaches the <em>wāz gīrišnīh</em> at the <em>frastuiiē</em> (he has to
+                recite) three Aṣ̌əm Vohū (Y0.9). They should recite the <em>frauuarāne mazdaiiasnō</em> that contains the <em>gāh</em> and the <em>šnūman</em> and he takes <em>wāz</em> </ab>
+            <ab class="ab_indent">When the <em>rāspīg</em> takes the <em>wāz</em>, if he does not see all the three, that is, <em>zōt</em>, fire and <em>barsom</em>, then it is not allowed.
+                Afterwards, if he just sees one, it is allowed. There is one who says: 'Yes, if at the beginning, he sees just one (of the three things) , then it is allowed. Then, if he hears the voice (of the
+                <em>zōt</em>, it is allowed.' When he takes the <em>wāz</em>, he has to raise his voice so that it can be heard when recited alone; and when they hear it (when recited) in unison,
+                it is also allowed."</ab>
+            
+            <ab>Cf. N19.9, <bibl>Kotwal and Kreyenbroek, 1995</bibl>: pp. 112-113 (Mss. 300, 360, 370):</ab>
+            <ab class="ab_indent">hād pad hamāg cāštag pad ān zamān bawēd ka zōt pad <em>frastuiiē</em> ī bun be šawēd tā ka zōt pad wāz-gīrišnīh pad <em>frastuiiē</em>
+                ī bun be šud zōt ay ka be namēd ay ka be drāyēd, ay ka kār-ē wizārdan šawēd hamāg yazišn sar</ab>
+            <ab class="ab_indent">"According to all doctrines, when it happens that the <em>zōt</em> grows damp ort chatters or leaves to perform a task between the time when he has come to the
+                initial <em>frastuiiē</em> (Y0.6) and the time when has reached the <em>wāz gīrišnīh</em> of the initial <em>frastuiie</em>, then the whole <em>yazišn</em> comes to an end." </ab>                        
+                        
+        </Quotations>
+        
+        <ModernPractice id="ritualModernPractice">
+            <ab><bibl>Redard and Daruwalla, 2021</bibl>: pp. 74-75</ab>
+            <ab>"From here, the chief priest makes both hands wet in the pure water container and pouring a drop of water on the date-palm leaf of the bundle, circling the bundle with both
+                    hands over the moon-shaped stands, he recites while holding it (=the bundle) in the left hand: <em>frauuarāne ...  frasastaiiaēca</em>. Recite here the dedication for whom the Yasna is to be performed.
+                    The dedication of Mīno Nāvar is given below: <em>ahurahe ... frasastaiiaēca</em>. 
+                The chief priest <em>yaϑā ... mrūte</em>. The assistant priest: <em>yaϑā ... mrūte</em>. The chief priest <em>aϑā ratuš ... mraotū</em>."</ab>
+            
+            <ab><bibl>Kotwal and Boyd, 1991</bibl>: p. 91: </ab>  
+            <ab>"Standing erect, with the <em>barsom</em> in the left hand and his right hand uplifted, the <em>zōt</em> recites with the <em>rāspī</em> another article of faith, the
+                <em>fravarānē</em> ("I profess") [...] The <em>rāspī</em> offers sandalwood and frankincense (<em>kūsh-bōy</em>) to the fire,
+                and both recite the Avestan dedication (<em>khshnūman</em>) to the spirit being (<em>yazad</em>) in whose honor the Yasna is being performed.
+                [...] The <em>zōt</em> and <em>rāspī</em> exchange the antiphonal Avestan recitation called the <em>bāj</em>"</ab>
+        </ModernPractice>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY0.10"/>
+        <include type="W" corresp="WTrY0.7-13a"/>
+        <include type="K" corresp="KTrY0.1"/>
+        <include type="D" corresp="DTrY0.7-13a"/>
+    </translation>
+</text>

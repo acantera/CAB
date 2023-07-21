@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y71.27" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y71.27">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y71.27 (mss. 15, 40, 2007, 2010, 2030, 2040 (lac.), 2101, 2104a, 5, 88, 2106, 2109, 4000, 4010, 4020, 4025, 4040, 4050, 4161, 5020):</ab>
+         <ab class="ab_indent">
+            <em>yaθā ahū vairiiō</em> dō guftan datuš ud barsom dō bār az bun tā sar šustan</ab>
+         <ab class="ab_indent">
+            "They should recite twice the <em>yaθā ahū vairiiō</em> He has to wash twice the <em>barsom</em> from the beginning to the end."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY71.27"/>
+      <include type="W" corresp="WTrY71.24c"/>
+      <include type="K" corresp="KTrY71.24c"/>
+      <include type="D" corresp="DTrY71.24c"/>
+   </translation>
+</text>

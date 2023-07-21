@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y72.20" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y72.20">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y72.20] add. post. <em>yaθā.ahū. vairiiō. Ī ... aṣ̌əm. vohū. Ī ... nǝmasǝ.tə̄. aṣ̌āum
+               sǝ̄uuišta arəduuī.sūra anāhiti. aṣ̌aoni. aṣ̌əm. vohū. Ī nəmō uruuarə. vaŋhə̄uš
+               mazdaδātahe aṣ̌aoni. aṣ̌əm. vohū. Ī huuarǝxštǝm. amǝšəm. raeūm. uruuat̰.spǝm yaz.
+               aṣ̌əm. vohū. Ī guraza. xᵛarahe. aβazāiiāt̰. xᵛuršǝ̄t̰ amarga. raiiōməṇt̰.
+               uruuat̰.aspa bǝ̄.rəšāt̰. aṣ̌aoni. aṣ̌əm. vohū. Ī dāδār. ōhrməzd. hamąvəhąn. gunāh.
+               gūzārešni. kərəfa. aβazāisni. xᵛurahe. gaβhi. bə. āvə̄z. bəhədīn. mazdaiiasną. aṣ̌əm.
+               vohū. Ī </em> 110; add. post. <em>yaθā.ahū. vairiiō. aṣ̌əm. vohū. Ī nǝmasǝ.te.
+               aṣ̌āum sǝ̄uuišta arəδuuī.sūra anāhiti. aṣ̌aone. aṣ̌əm. vohū. Ī nəmō. uruuare. vaŋhuīš
+               mazdaδāte aṣ̌aone. aṣ̌əm. vohū. yō. pəṇtȧ. yō aṣ̌ahe. īkə̄ tāb-I</em> 120; add. post.
+               <em>yaθā.ahū. vairiiō. Ī ... aṣ̌əm. vohū. Ī ... nǝma.sǝtə̄. ašāum sǝ̄uuišta
+               arəδuuīsūr. anāhita. aṣ̌aoni. aṣ̌əm. vohū. I</em>; add. post. <em>nǝmasǝ.te aṣ̌āum
+                  sǝuuište arəduui.sūra anāhite aṣ̌aone aṣ̌əm. vohū. Ī  yąm arduuīm sūrąm anāhitąm
+                  aṣ̌auuanǝm aṣ̌ahe ratūm yazamaide aṣ̌əm. vohū. Ī  huuarǝ.xšaētǝm amǝṣ̌əm raēm auruuat̰
+                  aspǝm yazamaide aṣ̌əm. vohū. Ī  xᵛuršǝ̄t̰ amarg raiiōmaṇd auruuat̰ aspa bǝ̄.rasāt̰ aṣ̌əm. vohū. Ī  xvarǝh gaβǝ̄h aβīžǝh vǝ̄h dīn i māzdaiiasnąn dāδār ahura mazda hamā vǝ̄hąn
+                  gunāh.guzāraš kǝrfǝ.aβazāiš vispa.sitāiš aṣ̌əm. vohū. Ī  </em> Anlesaria </ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y72.20 (ms. 5):</ab>
+         <ab class="ab_indent">
+            <em>aṣ̌əm vohū</em> ēk pas harw xšnūman kē bēd guftan</ab>  
+         <ab class="ab_indent">
+            "He should recite one <em>aṣ̌əm vohū</em> and then the corresponding <em>šnūman</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY72.20"/>
+      <include type="W" corresp="WTrY72.10b"/>
+      <include type="K" corresp="KTrY72.10b"/>
+      <include type="D" corresp="DTrY72.10b"/>
+   </translation>
+</text>

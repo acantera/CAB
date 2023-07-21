@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS82.28" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VVrS82.25">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS36.27a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS36.27b" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuCerGen" xpointer="RatuCerGenV" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS36.27c" on_line="in1line"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VVrS82.28 (mss. 4000, 4010, 4020, 4025, 4040, 4050, 4161, 4162):</ab>
+         <ab class="ab_indent">
+            <em>sraōšahe aṣ̌iiehe</em> tā <em>āhūiriiehe xšnaōθra yasnāica vaɱāica xšnaōϑrāica frasastaiiaēca</em> ayāb ān ī xšnūman kē bēd tā <em>fradaϑāi ahe nmānahe</em> ...</ab>
+         <ab class="ab_indent">
+            "(He should recite:) <em>sraōšahe aṣ̌iiehe</em> until <em>āhūiriiehe xšnaōθra yasnāica vaɱāica xšnaōϑrāica frasastaiiaēca</em> or the corresponding <em>šnūman</em> until
+            <em>fradaϑāi ahe nmānahe</em>. ..."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS82.28"/>
+   </translation>
+</text>

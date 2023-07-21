@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y9.4" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y9.4">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY9.4"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y9.3.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y9.4a <em>mē</em>] Pirart <em>hē</em>.</ab>
+         <ab>Y9.4a <em>haōmō aṣ̌auua dūraōšō</em>] Pirart del.</ab>
+         <ab>Y9.4b <em>gaēϑaiiāi</em>] vid. Y9.3.</ab>
+         <ab>Y9.4e <em>amaršaṇta</em>] Geldner <em>amarṣ̌əṇta</em>, Kellens <em>amarəš́aṇta</em>, Pirart <em>amarəšəṇta</em>. Cod. vv.ll.</ab>
+         <ab>Y9.4f <em>xᵛairiiąn</em>] Pirart <em>xᵛairiiąm</em>.</ab>
+         <ab>Y9.4f <em>ajiiamnəm</em>] Geldner, Pirart <em>ajaiiamnəm</em>; Kellens <em>ajiiaməm</em>, Bartholomae.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>āat̰ mē aēm paitiiaōxta haōmō aṣ̌auua dūraōšō</em> = Y9.2, Y9.7, Y9.10, Y9.13; ~ VS2.3 <em>āat̰ mē aēm paitiiaōxta yīmō srīrō zaraϑuštra</em>.</ab>
+      
+      <ab><em>haōmō aṣ̌auua dūraōšō</em> = Y11.3; ~ Y11.10 <em>haōma aṣ̌auua dūraōša</em>.</ab>
+      
+      <ab><em>haōmō ... dūraōšō</em> ~ Y9.19 (x3), Y9.20 (x2) <em>haōma jaiδiiemi dūraōša</em>; ~ Y10.21, Y42.5, VrS65.72 <em>haōməm dūraōšəm</em></ab>
+      
+      <ab><em>maṣ̌iiō astuuaiϑiiāi hunūta gaēϑaiiāi hā aɱāi aṣ̌iš ərənāuui tat̰ aɱāi jasat̰ āiiaptəm</em> = Y9.7, Y9.10, Y9.13; ~ Y9.3, Y9.6, Y9.9, Y9.12 <em>kasə.ϑβąm [...] haōma. maṣ̌iiō astuuaiϑiiāi hunūta gaēϑaiiāi kā aɱāi aṣ̌iš ərənāuui cit̰ aɱāi jasat̰ āiiaptəm</em>.</ab>
+     
+      <ab><em>aṣ̌iš ərənāuui</em> ~ 52.3 <em>aṣ̌aiiō ərənauuaṇte</em>; ~ Y56.3 <em>ašōiš ... yā.nə̄ āraēcā ərənauuataēcā ašaŋhāxš</em>.</ab>
+      
+      <ab><em>yat̰ hē puϑrō us.zaiiata</em> = Y9.7; ~ Y9.10 <em>yat̰ hē puϑrō us.zaiiōiϑe</em>; ~ Y9.13 <em>yat̰ hē tūm us.zaiiaŋha</em>.</ab>
+      
+      <ab><em>yīmō xšaētō huuąϑβō</em> = VS2.20, Yt5.25, Yt17.28, Yt19.34; ~ Yt19.31 <em>yiməm xšaētəm huuąϑβəm</em>; ~ VS19.39 <em>yimāi xšaētāi huuąϑβāi</em>;  ~ Y9.5 <em>huuąϑβō yimō</em>; ~ VS2.2 <em>yimāi srīrāi huuąϑβāi</em>.</ab>
+      
+      <ab><em>xᵛarənaŋᵛhastəmō zātanąm huuarə.darəsō maṣ̌iiānąm </em> ~ Yt15.16 <em>xᵛarənaŋᵛhastəməm zātanąm huuarə.darəsəm maṣ̌iiānąm</em>.</ab>
+      
+      <ab><em>pasu vīra</em> ~ Y31.15 <em>pasə̄uš vīrāat̰ca</em>; ~ Y45.9 <em>pasūš vīrə̄ṇg</em>; ~ Y58.6 <em>pairī pasūš pairī vīrə̄ṇg</em>; ~ VrS18.3, VrS28.4, Yt13.10, Yt13.43, Yt13.44 <em>pasuuā̊ vīraiiā̊</em>; ~ VS6.32, VS6.35, VS6.38, VS6.41 <em>pasubiia vīraēibiia</em>.</ab>
+      
+      <ab><em>āpa uruuaire</em> ~ Y8.4 <em>yā̊ apasca uruuarā̊</em>;  ~ Y18.2, Y51.8, Y65.15 <em>yə̄ gąm tašō apascā uruuarā̊sca</em>; ~ Y8.8, Y11.4, Y52.6, Y60.10, Y68.17, Y71.29 <em>vasō. āpō. vasō. uruuarā̊.</em>; 
+         ~ Y12.12 <em>yā varanā āpō yā varanā uruuarā̊   </em>; ~ Y16.9 <em>yazamaide vīspā̊ āpō yazamaide vīspā uruuarā̊</em>; ~ Y37.1 <em>dāt̰ apascā dāt̰ uruuarā̊sca vaŋᵛhīš</em>; ~ Y44.4 <em>kə̄ apō uruuarā̊scā</em>; 
+         ~ VrS65.78, VrS65.80 <em>auui apąmca vaŋᵛhinąm uruuuarnąmca</em>; ~ VrS65.78, VrS65.80 <em>yā̊ vaŋᵛhīš yā̊ āpō yā̊sca uruuarā̊</em>.</ab>
+      
+      <ab><em>xᵛairiiąn xᵛarəϑəm</em>; ~ VS3.19 <em>aētā̊ xᵛarəϑā̊ xᵛaratu</em>; ~ VS13.45 <em>xᵛarəϑa xᵛaraiti</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY9.4"/>
+
+   <include type="W" corresp="WTrY9.4"/>
+        <include type="K" corresp="KTrY9.4"/>
+        <include type="D" corresp="DTrY9.4"/>
+    </translation>
+</text>

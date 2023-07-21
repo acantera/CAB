@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS0.5" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS0.5">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS0.5NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>zōt: vid. Y0.5.</div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Quotations id="ritualQuotations"/>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS0.5 Var. b (ms. 2065):</ab>
+         <ab class="ab_indent">
+            <em>yaϑā ahū vairiiō</em> dō andar rāh bē gōwišn u-š ō ī gāh ī zōtān šawišn u-š tarsāgīhā pad ōhrmazd ud amahraspandān ud ān ī ahlawān frawahr bē abāyēd gōwišn.</ab>
+         <ab class="ab_indent">
+            "He has to recite the <em>yaϑā ahū vairiiō</em> twice on the way, and to go to the place of the <em>zōt</em>. He must respectfully speak to Ohrmazd, the Amhraspandān 
+            and the <em>frawahr</em> of the orderly ones."</ab>
+      </Nerangs>
+      <ModernPractice id="ritualModernPractice">
+         <ab><ab><bibl>Redard and Daruwalla, 2021</bibl>, p. 193:</ab>
+            <ab class="ab_indent">"then coming near the seat, climbs upon the seat while reciting 2 <em>Ahuna Vairiia</em>.  And the assistant priest, if he has stepped down from the seat (and) released the <em>bāj</em>, 
+               (and) is standing outside the <em>pāvī</em>, then taking the <em>bāj</em>, he comes back inside the <em>pāvī</em> of the table (and) recites as many <em>Ahuna Vairiia</em> as have been recited by the chief priest. 
+               Then both of them remember together in a low tone: <em>humata hūxta huuaršta humanašnǝ hugauuašnǝ hukunašnǝ īn xšnūmaine</em>:"</ab></ab>
+      </ModernPractice>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS0.5"/>
+   </translation>
+</text>

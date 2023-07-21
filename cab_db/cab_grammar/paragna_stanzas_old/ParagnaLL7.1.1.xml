@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL7.1.1" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" n="1" xml:id="ParagnaLL7.1.1">
+        <include href="/db/apps/cab_db/cab_rituals/nerang/cluster_nerangs/Paragna_nerang" xpointer="ParagnaLL7.1.1NerangTransc.a"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/Cluster_statics/Paragna_static" xpointer="ParagnaLL7.1.1a"/>
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Quotations id="ritualQuotations">
+            <ab>Revāyat Kāvus Māhyar <bibl>Unvala, 1922</bibl>p. 455</ab>: <ab class="ab_indent">maʿlum dasturān-e in-ǧāneb bude bāšand ke beh-din kāvus hum ṭalab nemud ǧahat-e
+                dindārān ferestāde-ʾim bāyad ke dar ān-ǧāneb dasturi afzudan be-vāǧ dar-e hum
+                gošudan vaqt-e yazešn se gere gereftan va be-dast-e čap gereftan <em>aṣ̌əm.
+                    vōhū.</em> sə̄. <em>frauuarāne. </em> *gāh ī hāwan´ tā sar <em>hōmahe. aṣ̌auua.
+                    zaŋ́hō. xšnaoϑra. </em>tā <em>maraotū.</em>
+                <em>aṣ̌əm. vōhū.</em> se guftan </ab>
+            <ab class="ab_indent">The Dasturs of this quarter have been informed that Behdin Kaus
+                (Mahyar) asked for some Hom. We have sent some for those pious persons (i.e., the
+                Indian congregation). It is necessary that (this Hom should be stocked up in Dar-i
+                Meher, and when wanted) a priest should perform the Kusti ritual and with the Vāj,
+                should open the lid of the Hom-vessel and for the Yasna, three pieces should be
+                taken and should be taken with the left hand. (<bibl>Dhabhar, 1932</bibl>, pp. 418-9)</ab>
+        </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL7.1.1"/>
+    </translation>
+</text>

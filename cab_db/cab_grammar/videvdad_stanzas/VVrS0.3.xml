@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS0.3" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+      <approved/>
+      <updated/>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VVrS0.3">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP7"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>   
+         <div>zōt: vid. Y0.3.</div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>VVrS0.3] om. Indian mss.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Quotations id="ritualQuotations">
+         <ab><ab>Nērang VVrS0.3 (Nērang ī āb) [mss. 4000 4010 4020 4025 4063], cf. WiD and Revāyat of Kāma Bohra (MU1, p. I. 577), on the Nērang ī Āb ud Padyāb ceremony:</ab>
+            <ab class="ab_indent">(Pahl.) dudīgar bār hamāg xūb bē nigerišn u-š ātaxš gāh šustan u-š dast pad pādyāb āwāz kardan </ab>
+            <ab class="ab_indent">For the second time (the Zōt) hast to cast a glance well at all and he should wash the fire-stand and purify his hands.</ab></ab>
+      </Quotations>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS0.3"/>
+   </translation>
+</text>

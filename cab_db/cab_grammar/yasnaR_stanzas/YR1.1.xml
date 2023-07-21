@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR1.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y1.1" xml:id="YR1.1">
+            <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR1.1"/>
+        </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: vid. Y1.1.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        
+        <RecitationInstruction>
+            <ab>YR1.1 <em>ńiuuaēδaiiemi haṇkaraiiemi ahurahe</em> ...] <em>daϑušō ahurahe</em> OD <em>aməṣ̌ną̇m spəṇtaną̇m</em> (YR1.2) 320; <em>xᵛarənaŋhatō mazištaheca</em> OD gywʾk' <em>asniiaēibiiō</em> (YR1.3) 360; 
+                <em>raēuuatō xᵛarənaŋhatō</em> OD gywʾk' <em>asńiiaēibiiō</em> (YR1.3) 370.</ab> 
+        </RecitationInstruction>        
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrYR1.1"/>
+    </translation>
+</text>

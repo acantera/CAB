@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS26.0" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS26.0">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP18"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid Y23.0 and Recitation Instruction.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>VrS26.0 <em>yō ātrauuaxšō</em>] <em>ātrauuaxšō</em> 2010.</ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab>VrS26.0WazGr] zwt' <em>yaϑā ahū vairiiō  yō ātrauuaxšō frā.me mrute</em> lʾspyk <em>aϑā ratuš</em> OD <em>vīδuuā̊ mraotū yaϑā ahū vairiiō yō zaōta frā.me mrute</em> zwt' <em>aϑā ratuš</em> OD <em>vīδuuā̊ mraotū</em> 2000, 2065;
+            zwt' <em>yaϑā ahū vairiiō yō ātrauuaxšō frā.mē mrūtē</em> lʾspyk <em>aϑā ratuš</em> krtn' hmlʾspyk <em>yaϑā ahū vairiiō yō zaōta frā.mē mrūtē</em> zwt' <em>aϑā ratuš</em> krtn'  2007, 2030, 2040, 2101, 2109;
+            zwt' <em>yaϑā ahū vairiiō ātrauuaxšō</em> OD gywʾk lʾspyk <em>aϑā ratuš</em> krtn'. hmlʾspyk <em>yaϑā ahū vairiiō yō zaōtā frāmē mrūte</em> zwt' <em>aϑā ratuš</em> krtn' 2010;
+            zwt' <em>yaϑā ahū vairiiō yō ātrauuaxšō</em> lʾspyk <em>aϑā ratuš</em> krtn' hmlʾspyk <em>yaϑā ahū vairiiō yō zaōta</em> zwt' <em>aϑā ratuš</em> krtn'  2070;
+            zwt' <em>yaϑā ahū vairiiō yō ātrauuaxšō frā.mē mrīte</em> lʾspyk <em>aϑā ratuš</em> krtn' dtygl bʾl lʾspyk <em>yaϑā ahī vairiiō yō zaōta frā.mē mrītē</em> zwt' <em>aϑā ratuš</em> OD sl gwptn' 2106.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS26.0 = DoHom3.1.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS26.0"/>
+   </translation>
+</text>

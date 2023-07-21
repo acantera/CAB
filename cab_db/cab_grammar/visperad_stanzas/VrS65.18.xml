@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS65.18" status="created">  <!-- created, approved, updated--> <header><creators><creator>Porro</creator><creator>Cantera</creator></creators><created>1 June 2019</created></header><div type="Stanza" sameAs="" xml:id="VrS65.18">
+         <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS26.15l"/>
+         <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS26.15m"/>
+         <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS26.15n"/>
+      </div><Apparatus><Critical/><Commentary/></Apparatus><Parallels/><Ritual/><translation><include type="CAB" corresp="CABTrVrS65.18"/></translation></text>

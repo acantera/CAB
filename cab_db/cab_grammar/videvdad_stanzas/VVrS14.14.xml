@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS14.14" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VVrS14.14">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS5.11"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. VVrS14.1.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>VVrS14.14 = Y2.16; ≈ Y1.16, Y3.18, Y4.21, Y6.15, Y7.19, Y17.16, Y22.19, Y24.26, Y59.16, Y66.16, VrS78.28, VrS79.21, VrS81.15, VrS82.16.</ab>
+      <ab><em>daɱam vaŋᵛhīm āfritīm [..] daɱəmca narəm aṣ̌auuanəm ... uγrəm taxməm dāmōiš upamanəm yazatəm</em> = VrS1.15, VrS25.17, VrS27.31, VrS77.16, VrS90.15; 
+         ~ Y7.30, VrS82.36 <em>daɱam vaŋᵛhīm āfritīm yazamaide uγrəm taxməm dāmōiš upamanəm yazatəm yazamaide ... frasasti daɱaiiā̊ vaŋhuiiā̊ āfritōiš</em>; ~ Y8.2 <em>daɱaiiā̊ vaŋhuiiā̊ āfritōiš uγrāi dāmōiš upamanāi</em></ab>
+      <ab><em>daɱąm vaŋᵛhīm āfrītīm ... daɱəmca narəm aṣ̌auuanəm</em> ~ Y61.1, Y72.1 <em>daɱaheca narš aṣ̌aōnō daɱąmca vaŋᵛhīm āfritīm</em>.</ab>
+      <ab><em>daɱąm vaŋᵛhīm āfrītīm ... uγrəm taxməm damōiš upamanəm yazatəm</em> ~ A1.1, A1.13 (Šn).</ab>
+      <ab><em>daɱąm vaŋᵛhīm āfrītīm</em> ~  Y70.3.</ab>
+      <ab><em>uγrəm taxməm damōiš upamanəm yazatəm</em> ~ Yt10.9, Yt12.4, Yt12.6 <em>haϑra dāmōiš upamanō</em>; ~ Yt10.66 <em>uγrasca dāmōiš upamanō</em>; ~ Yt10.68 <em>yat̰ dim dāmōiš upamanō</em>; ~ Yt10.127 <em>taxmō dāmōiš upamanō</em>; ~ Yt13.47 <em>uγraca dāmōiš upamana</em>; ~ Yt13.48 <em>uγraca dāmōiš upamanō</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS14.14"/>
+   </translation>
+</text>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y22.22" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y22.22">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY22.20"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y22.21.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Critical>
+         <ab>Y22.2c-d <em>imąmcā</em>] irr. for expected YAv. <em>imąmca</em>. Vid. other examples in <bibl>De Vaan, 2003</bibl> p. 163.</ab>
+      </Critical>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS25.29 = DoHom2.29.</ab>
+      <ab><em>iməm haōməm aṣ̌aiia uzdātəm āiiese yešti imąmcā gąm jīuuiiąm aṣ̌aiia uzdātąm āiiese yešti imąmcā uruuarąm haδānaēpatąm aṣ̌aiia uzdātąm āiiese yešti</em> = Y22.2, Y22.25; 
+         ~ Y25.1 <em>iməm haōməm aṣ̌aiia uzdātəm yazamaide imąmcā gąm jīuuiiąm aṣ̌aiia uzdātąm yazamaide imąmcā uruuarąm haδānaēpatąm aṣ̌aiia uzdātąm yazamaide</em>.</ab>
+      <ab><em>imąmcā gąm jīuuiiąm aṣ̌aiia uzdātąm āiiese yešti imąmcā uruuarąm haδānaēpatąm aṣ̌aiia uzdātąm āiiese yešti</em>; ~ Y24.6 <em>imąmcā gąm jīuuiiąm aṣ̌aiia uzdātąm imąmcā uruuarąm haδānaēpatąm aṣ̌aiia uzdātąm</em>;
+         ~ Y3.3 <em>gąm jīuuiiąm āiiese yešti uruuarąm haδānaēpatąm aṣ̌aiia uzdātąm āiiese yešti</em>; ~ Y7.4 <em>aṣ̌aiia daδąmi gąm jīuuiiąm aṣ̌aiia daδąmi uruuarąm haδānaēpatąm aṣ̌aiia uzdātąm</em>.</ab>
+      <ab><em>uruuarąm haδānaēptąm</em> ~ Y62.9 <em>uruuarąm vā haδānaēpatąm</em>.</ab>
+   </Parallels>
+   <Ritual>
+      <ModernPractice id="ritualModernPractice">
+         <ab><bibl>Kotwal and Boyd, 1991</bibl>, p. 105:</ab>
+         <ab class="ab_indent">"While recitingsts. 20-22, the <em>zōt</em> libates the date-palm cord again, after which he places the metal wire back on the saucer. 
+            This recitation (sts. 20-22) with the accompanying libation, followed by the dedication, is then repeated"</ab>
+         <ab><bibl>Redard and Daruwalla, 2021</bibl>, p. 89:</ab>
+         <ab class="ab_indent">"The chief priest, after taking the libation wire, wetting (it) in the milk saucer, touching it to the date-palm leaf of the bundle while wetting it, recites with the assistant priest"</ab>
+      </ModernPractice>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY22.22"/>
+      <include type="W" corresp="WTrY22.20"/>
+      <include type="K" corresp="KTrY22.20"/>
+      <include type="D" corresp="DTrY22.20"/>
+   </translation>
+</text>

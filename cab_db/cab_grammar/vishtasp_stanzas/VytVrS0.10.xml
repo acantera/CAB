@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VytVrS0.10" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VytVrS0.10">
+        <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP11"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>zōt ud rāspīg: vid. Y0.10.</div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab><em>ahurahe. ... māzdaiiasnōiš.</em> (šnūman)] add. <em>mąϑrahe. spəṇtahe. aṣ̌aōnō. vərəiiaŋᵛhahe. dātahe. vīdaēuuahe. dātahe. zaraϑuštrōiš. darəγaiiā̊. upaiianaiiā̊. daēnaiiā̊. vaŋhuiiā̊. māzdaiiasnōiš.
+                    zarazdātōiš. mąϑrahe. spəṇtahe. āsnahe. xraϑβō. mazdaδātahe. gaōšō.srūtahe. xraϑβō. mazdaδātahe.</em> 5030 (vid. Nērang).</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+    <Nerangs id="ritualNerangs">
+        <ab>VytVrS0.10 šnūman Var. a (mss. 5010, 5020): </ab>
+        <ab class="ab_indent">
+            <em>frauuarāne mazdaiiasnō zaraϑuštriš vīdaēuuō ahura.t̰kaēšō haδa.mąθrāi zaini.parštāi upairi.gātubiiō gərəptāi mąθrāi spəṇtāi aṣ̌aōne aṣ̌ahe raθβe yasnāica vaɱāica xšnaōθrāica
+                frasastaiiaēca raϑβąm aiiaranąmca ... frasastaiiaēca ahurahe mazdā̊ raēuuatō xᵛarənaŋᵛhatō aməṣ̌anąm spəṇtanąm razištaiiā̊ cistaiiā̊ mazdaδātaiiā̊ aṣ̌aōńiiā̊ daēnaiiā̊ vaŋhuiiā̊ māzdaiiasnōiš</em> 
+            ka fradom yazēnd šnūman dēn <em>aṣ̌aōnąm</em> pad abārīg bār harw kunēnd šāyēd šnūman wizārdan</ab> 
+        <ab class="ab_indent">
+            "<em>frauuarāne mazdaiiasnō zaraϑuštriš vīdaēuuō ahura.t̰kaēšō haδa.mąθrāi zaini.parštāi upairi.gātubiiō gərəptāi mąθrāi spəṇtāi aṣ̌aōne aṣ̌ahe raθβe yasnāica vaɱāica xšnaōθrāica
+                frasastaiiaēca raϑβąm aiiaranąmca ... frasastaiiaēca ahurahe mazdā̊ raēuuatō xᵛarənaŋᵛhatō aməṣ̌anąm spəṇtanąm razištaiiā̊ cistaiiā̊ mazdaδātaiiā̊ aṣ̌aōńiiā̊ daēnaiiā̊ vaŋhuiiā̊ māzdaiiasnōiš</em>.
+            If it is the first perfomance (of the day), the <em>šnūman</em> is the one for dēn with the <em>aṣ̌aōnąm</em>. In the rest of occasions, the recitation of any <em>šnūman</em> is allowed."</ab>
+        
+        <ab>VytVrS0.10 šnūman Var. b (mss. 5030, 5100, 5105):</ab>
+        <ab class="ab_indent">
+            <em>frauuarāne mazdaiiasnō zaraϑuštriš vīdaēuuō ahura.t̰kaēšō haδa.mąθrāi zaini.parštāi upairi.gātubiiō gərəptāi mąθrāi spəṇtāi aṣ̌aōne aṣ̌ahe raθβe yasnāica vaɱāica xšnaōθrāica
+                frasastaiiaēca raϑβąm aiiaranąmca ... frasastaiiaēca ahurahe mazdā̊ raēuuatō xᵛarənaŋᵛhatō aməṣ̌anąm spəṇtanąm razištaiiā̊ cistaiiā̊ mazdaδātaiiā̊ aṣ̌aōńiiā̊ daēnaiiā̊ vaŋhuiiā̊ 
+                māzdaiiasnōiš mąθrahe spəṇtahe aṣ̌aōnō vərəziiaŋhe dātahe vīdaēuuahe dātahe zarθuštrōiš darəγaiiå upaiianiiå daēnaiiå vaŋhuiiå māzdaiiasnōiš zarazdātōiš mąθrahe spəṇtahe 
+                uši.darəθrəm daēnaiiå māzdaiiasnōiš vaēδīm mąθrahe spəṇtahe āsnahe xraθβō mazdaδātahe gaōšō.srūtahe xraθβō mazdaδātahe</em> ka nazdist ī ēzand xšnūman dēn <em>aṣ̌aōnąm</em> 
+                ud pad abārīg bār harw kunēnd šāyēd xšnūman wizārdan</ab>
+        <ab class="ab_indent">
+            "<em>frauuarāne mazdaiiasnō zaraϑuštriš vīdaēuuō ahura.t̰kaēšō haδa.mąθrāi zaini.parštāi upairi.gātubiiō gərəptāi mąθrāi spəṇtāi aṣ̌aōne aṣ̌ahe raθβe yasnāica vaɱāica xšnaōθrāica
+                frasastaiiaēca raϑβąm aiiaranąmca ... frasastaiiaēca ahurahe mazdā̊ raēuuatō xᵛarənaŋᵛhatō aməṣ̌anąm spəṇtanąm razištaiiā̊ cistaiiā̊ mazdaδātaiiā̊ aṣ̌aōńiiā̊ daēnaiiā̊ vaŋhuiiā̊ 
+                māzdaiiasnōiš mąθrahe spəṇtahe aṣ̌aōnō vərəziiaŋhe dātahe vīdaēuuahe dātahe zarθuštrōiš darəγaiiå upaiianiiå daēnaiiå vaŋhuiiå māzdaiiasnōiš zarazdātōiš mąθrahe spəṇtahe 
+                uši.darəθrəm daēnaiiå māzdaiiasnōiš vaēδīm mąθrahe spəṇtahe āsnahe xraθβō mazdaδātahe gaōšō.srūtahe xraθβō mazdaδātahe</em>. If it is the first (performance), the <em>šnūman</em>
+            is for <em>dēn</em> with <em>aṣ̌aōnąm</em>. In the rest of performances, they might perform any <em>šnūman</em>."</ab>
+    </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrVytS0.10"/>
+    </translation>
+</text>

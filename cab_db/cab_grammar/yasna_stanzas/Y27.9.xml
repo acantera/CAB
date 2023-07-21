@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y27.9" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y27.9">
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+               <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y27.9NerangTransc.a"/>
+            </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Y27.9 (mss. 40, 88, 400, 410):</ab>
+            <ab class="ab_indent">
+                <em>yaθā ahū vairiiō</em> čahār guftan pad ān ī fradom pad <em>š́iiaōθananąm</em> zōhr andar hōm pālā kunišn pad <em>xšaϑrəmcā</em> bē afšārišn pad ān ī dudīgar ud sidīgar ud čahārom ham ēdōn bē afšārišn</ab>
+            <ab class="ab_indent">
+                "He should recite the <em>yaθā ahū vairiiō</em> four times. During the first one, at <em>š́iiaōθananąm</em> he has to pour the <em>zōhr</em> into the <em>hōm-pālā</em>. At <em>xšaϑrəmcā</em>, he has to squeeze (the <em>hōm</em> and <em>urwarām</em>). During the second, third and fourth (<em>yaθā ahū vairiiō</em>),
+                he has to press in the same way."</ab>
+        </Nerangs>
+        
+        <Quotations id="ritualQuotations">
+    <ab>Cf. N28.47f:</ab>
+            <ab class="ab_indent">
+                pad ān čahār yatāhūwēryō pad <em>š́iiaoθananąm</em> ī fradom be wardēnišn</ab> 
+            <ab class="ab_indent">
+                "In these four <em>yaθā ahū vairiiō</em>, at the first <em>š́iiaoθananąm</em> he should turn (the <em>hāwan</em>)."</ab>
+<ab>The instruction is rather to be compare with the instruction for the four Ahuna Vairiia of Y27.3.</ab>
+        </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY27.9"/>
+    <include type="W" corresp="WTrY27.7b"/><include type="K" corresp="KTrY27.7b"/><include type="D" corresp="DTrY27.7b"/></translation>
+</text>

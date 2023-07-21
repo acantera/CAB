@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR25.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y25.1" xml:id="YR25.1">
+            <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR25.1b"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR25.1c"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR25.1d"/>
+        </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: vid. Y25.0.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab>YR25.1a <em>iməm haōməm</em> ...] <em>aṣ̌aiia uzdātąm y.</em> OD <em>aēsmąsca baōiδīmca y.</em> (YR25.3) 300; <em>ašaiia uzdātəm yaz.</em> OD <em>gāϑaną̇mca sraoϑrəm</em> (YR25.3) 320;
+                <em>ašaiiaždātəẏaz.</em> OD <em>gāϑaną̇mca saraoϑarəm</em> (YR25.3) 350; <em>aṣ̌aiia uzdātəm yaz.</em> OD <em>jaγmīšīmca aṣ̌aōnō</em> (YR25.3) 360;
+                <em>aṣ̌aiia uzdātəm yaz.</em> OD OL Y <em>jaγmīšīmca aṣ̌aōnō</em> (YR25.3) 370.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrYR25.1"/>
+    </translation>
+</text>

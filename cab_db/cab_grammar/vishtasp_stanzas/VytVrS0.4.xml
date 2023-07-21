@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VytVrS0.4" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VytVrS0.4">
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV1"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>zōt: vid. VVrS0.4.</div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab>VytVrS0.4] suppl., cf. VytVrS0.3.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>VytVrS0.4 (mss. 5010, 5020, 5030, 5100, 5105, 5116):</ab>
+            <ab class="ab_indent">
+                ōy kē zōtīh kāmēd kardan dast pad pādyāb kardan ō ī gāh ī ātrawaxšān šudan war ō ī ātaxšgāh ud barsom kardan pad sē aṣ̌emwōhū har čahār kustag bē šōyišn</ab>
+            <ab class="ab_indent">
+                "The one who wishes to perform in the office of <em>zōt</em> should clean his hands with <em>pādyāb</em>, go to the place of the <em>ātrawaxš</em>, facing the <em>ātaxšgāh</em> 
+                and the <em>barsom</em> and with three Aṣ̌əm Vōhū he has to clean each one of its four sides (of the <em>ātaxšgāh</em>)."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrVytVrS0.4"/>
+    </translation>
+</text>

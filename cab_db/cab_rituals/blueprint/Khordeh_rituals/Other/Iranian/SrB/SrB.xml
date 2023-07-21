@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+            <div type="IntroductoryPrayer" xml:id="SrB"> <!-- vide: YL2-17, K36, MZK9, MZK6, RR3, DorostXANew, Pd; non vide: MF32, MF25, Katrak563, MF29, MF31, W1 -->
+				<div type="IntroductoryPrayerStanza" xml:id="SrB1.1">
+					<ab n="a" xml:id="SrB1.1a">xšnaōϑra. ahurahe. mazdā̊.</ab> <!-- IndXA instead: YAV 5x -->
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="SrB1.2" corresp="#GSrB1">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/>
+                </div>
+				<div type="Frauuarane" xml:id="SrB1.3" corresp="#GSrB1">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP1XA"/>
+                     <!-- in IndXA follows the Šnūman: sraōšəm. aṣ̌īm. huraōδəm. vərəθrājanəm. frādat̰.gaēθəm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide. -->
+                </div>
+                <div type="IntroductoryPrayerStanza" xml:id="SrB2.1" corresp="#GSrB2"> <!-- the repetition of the formula is not indicated in all mss. of the IrXA and IndXA--> <!-- cf. for SrB2.1-5: VS11.3, VS11.8, VS11.11 (#GV11.3) (#GV11.8) (#GV11.11-->
+                    <ab n="a" xml:id="SrB2.1a">ahunəm. vairīm. tanūm. pāiti.</ab>
+                    <ab n="b" xml:id="SrB2.1b">ahunəm. vairīm. tanūm. pāiti.</ab>
+                    <ab n="c" xml:id="SrB2.1c">ahunəm. vairīm. tanūm. pāiti.</ab>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="SrB2.2" corresp="#GSrB2"> <!-- missing in some mss. of the IndXA -->
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="SrB2.3" corresp="#GSrB2" quote="Y46.7 (#GY46.7) = YR46.7 VrS56.7 VVrS56.7 VytVrS56.7 (#GV8.20)">
+                    <ab n="a" xml:id="SrB2.3a">kə̄m.nā. mazdā. mauuaitē. pāiiūm. dadāt̰.</ab> <!-- *dadā̊.? -->
+                    <ab n="b" xml:id="SrB2.3b">hiiat̰. mā. drəguuā̊. dīdarəṣ̌atā. aēnaŋhē.</ab>
+                    <ab n="c" xml:id="SrB2.3c">ańiiə̄m. ϑβaɱāt̰. āϑrascā. manaŋhascā.</ab>
+                    <ab n="d" xml:id="SrB2.3d">yaiiā̊. š́iiaōϑanāiš. aṣ̌əm. ϑraōštā. ahurā.</ab>
+                    <ab n="e" xml:id="SrB2.3e">tąm. mōi. dąstuuąm. daēnaiiāi. frāuuaōcā.</ab>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="SrB2.4" corresp="#GSrB2" quote="Y44.16b-e (#GY44.16b-e) = YR44.16b-e VrS54.16b-e VVrS54.16b-e VytVrS54.16b-e(#GV8.20) ">
+                    <ab n="a" xml:id="SrB2.4a">kə̄. vərəϑrəm.jā. ϑβā. pōi. sə̄ṇghā. yōi. həṇtī.</ab>
+                    <ab n="b" xml:id="SrB2.4b">ciϑrā. mōi. dąm. ahīmbiš. ratūm. cīždī.</ab>
+                    <ab n="c" xml:id="SrB2.4c">at̰. hōi. vohū. səraōšō. jaṇtū. manaŋhā.</ab>
+                    <ab n="d" xml:id="SrB2.4d">mazdā. aɱāi. yaɱāi. vaṣ̌ī. kaɱāicīt̰.</ab>
+                </div>
+                <div type="IntroductoryPrayerStanza" xml:id="SrB2.5" corresp="#GSrB3" quote="GV8.21">
+                    <ab n="a" xml:id="SrB2.5a">pāta.nō. t̰bišiiaṇtat̰. pairi. </ab>
+                    <ab n="b" xml:id="SrB2.5b">mazdā̊sca. ārmaitišca. spəṇtasca.</ab>
+                    <ab n="c" xml:id="SrB2.5c">nase. daēuui. druxš.</ab>
+                    <ab n="d" xml:id="SrB2.5d">nase. daēuuō.ciϑre.</ab>
+                    <ab n="e" xml:id="SrB2.5e">nase. daēuuō.frakaršte.</ab>
+                    <ab n="f" xml:id="SrB2.5f">nase. daēuuō.fradāiti.</ab>
+                    <ab n="g" xml:id="SrB2.5g">apa. druxš. nase.</ab>
+                    <ab n="h" xml:id="SrB2.5h">apa. druxš. duuāra.</ab>
+                    <ab n="i" xml:id="SrB2.5i">apa. druxš. vīnase. apāxəδre. apanasiiehe.</ab>
+                    <ab n="j" xml:id="SrB2.5j">mā. mərəṇcainīš. gaēϑā̊. astuuaitiš. aṣ̌ahe.</ab>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="SrB2.6" corresp="#GSrB3" quote="Y49.10c (#GY49.10c) = YR49.10c VrS60.10c VVrS60.10c VytVrS60.10c"> <!-- missing in IndXA K18a+b; in some mss. of the IndXA follows an AV -->
+                    <ab n="a" xml:id="SrB2.6a">nəmascā. yā. ārmaitiš. īžācā.</ab>
+                    <ab n="b" xml:id="SrB2.6b">nəmascā. yā. ārmaitiš. īžācā.</ab>
+                    <ab n="c" xml:id="SrB2.6c">nəmascā. yā. ārmaitiš. īžācā.</ab>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="SrB3.1" corresp="#GSrB3">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="2"/>
+                </div>
+                <div type="IntroductoryPrayerStanza" xml:id="SrB3.2" corresp="#GSrB4">
+                    <ab n="a" xml:id="SrB3.2a">yasnəmca. vaɱəmca. aōjisca. zauuarəca. āfrīnāmi.</ab>
+					<include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGenXA19"/>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="SrB3.3" corresp="#GSrB4">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+                </div>
+				<div type="IntroductoryPrayerStanza" xml:id="SrB3.4" corresp="#GSrB5">
+					<ab n="a" xml:id="SrB3.4a">aɱāi. raēšca. xᵛarənasca. aɱāi. tanuuō. druuatātəm.</ab>
+                    <ab n="b" xml:id="SrB3.4b">aɱāi. tanuuō. vazduuarə. aɱāi. tanuuō. vərəϑrəm.</ab>
+                    <ab n="c" xml:id="SrB3.4c">aɱāi. īštīm. pouruš.xᵛāϑrąm.</ab>
+                    <ab n="d" xml:id="SrB3.4d">aɱāi. āsnąmcit̰. frazaṇtīm. aɱāi. darəγąm. darəγō.jītīm. aɱāi. vahištəm. ahūm. aṣ̌aōnąm. raōcaŋhəm. vīspō.xᵛāϑrəm.</ab>
+				</div>	
+				<div type="IntroductoryPrayerStanza" xml:id="SrB3.5" corresp="#GSrB5">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="SrB3.6" corresp="#GSrB5">
+                    <ab n="a" xml:id="SrB3.6a">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+                    <ab n="b" xml:id="SrB3.6b">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+                    <ab n="c" xml:id="SrB3.6c">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="SrB3.7" corresp="#GSrB5">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="SrB3.8" corresp="#GSrB5">
+                    <ab n="a" xml:id="SrB3.9a">jasa.mē. auuaŋhe. mazda.</ab>
+                    <ab n="b" xml:id="SrB3.9b">jasa.mē. auuaŋhe. mazda.</ab>
+                    <ab n="c" xml:id="SrB3.9c">jasa.mē. auuaŋhe. mazda.</ab>
+				</div>
+                <div type="IntroductoryPrayerStanza" xml:id="SrB3.9" corresp="#GSrB5">
+                    <ab n="a" xml:id="SrB3.9a">amahe. hutāštahe. huraōδahe.</ab> <!-- Xšnūman  Gen day 20-->
+                    <ab n="b" xml:id="SrB3.9b">vərəθraγnahe. ahuraδātahe. vanaiṇtiiā̊sca. uparatātō.</ab>
+                    <ab n="c" xml:id="SrB3.9c">rāmanasca. xᵛāstrahe. vaiiaōš. uparō.kairiiehe. taraδātō. ańiiāiš. dāmąn.</ab> <!-- Xšnūman  Gen day 21-->
+                    <ab n="d" xml:id="SrB3.9d">aētat̰. tē. vaiiō. yat̰. tē. asti. spəṇtō.maińiiaōm.</ab>
+                    <ab n="e" xml:id="SrB3.9e">θβāṣ̌ahe. xᵛaδātahe. zruuānahe. akaranahe. zruuānahe. darəγō.xᵛaδātahe.</ab><!-- In the IndXA it follows the kərba. mažd. Vāj -->
+                </div>
+				<div type="IntroductoryPrayerStanza" xml:id="SrB3.10" corresp="#GSrB5">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+                </div>
+			</div>
+</div>

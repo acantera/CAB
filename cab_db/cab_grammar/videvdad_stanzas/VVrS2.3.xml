@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS2.3" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VVrS2.3">
+         <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VS2.1a" on_line="in1lineblock"/>
+         <include href="/db/apps/cab_db/cab_rituals/blocks/RatuCerAcc" xpointer="RatuCerAccV" on_line="in1line"/>
+         <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VS2.1b" on_line="in1line"/>
+      </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: vid. VVrS1.30.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab>VVrS2.3a <em>zaraϑuštri</em>] not attested in this passage, but <em>zaraϑuštrəm</em>. Cf. VVrS2.25 and parallels <em>dātəm zaraϑuštri</em>.</ab></Commentary>
+    </Apparatus>
+    <Parallels>
+        <ab>VVrS2.3 = VVrS14.6; ≈ VVrS1.3, VVrS3.5, VVrS4.8, VVrS6.2, VVrS7.6, VVrS17.2, VVrS25.5, VVrS27.19, VVrS77.2, VVrS78.15, VVrS79.8, VVrS81.2, VVrS82.3, VVrS90.3</ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrVVrS2.3"/>
+    </translation>
+</text>

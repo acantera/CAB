@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL4.2.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="1" xml:id="ParagnaLL4.2.1">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL4.2.1 Var. a (Mss. K7, RJ):</ab>
+            <ab class="ab_indent">
+                va <em>aṣ̌əm</em> guftan sar-e ān biḫ-e urwarān boridan vohū guftan wa kārd bar miyān-e ān nahādan <em>vahištəm</em> guftan ān biḫ-e urwarān boridan <em>astī uštā astī
+                    uštā ahmāi hiiat̰ aṣ̌āi vahištāi aṣ̌əm</em> urvarān čidan hič vāǧ gīrešni-ye digar nadārad wa urvarān pāre pāre kardan dar urvarāndān nahādan va dar yazešgāh bordan moḥkam kardan</ab>  
+            <ab class="ab_indent">
+                "He should say <em>aṣ̌əm</em> and cut the end of the <em>urvarān</em>-branch. He should say <em>vohū</em> and put the knife on the middle of it (the branch). He should 
+                say <em>vahištəm</em> and cut the <em>urvarān</em>-branch. During <em>astī uštā astī uštā ahmāi hiiat̰ aṣ̌āi vahištāi</em>, he should tear it off. There is no other <em>wāz</em> 
+                to take. He should cut in pieces the <em>urvarān</em>, put it on the <em>urwarāndān</em>, bring it to the <em>yazešgāh</em> and deposite it."</ab>
+            
+            <ab>ParagnaLL4.2.1 Var. b (Ms. K36):</ab>
+            <ab class="ab_indent">
+                <em>ašem</em> sar-e urvarām čidan va be vohi kārd andar miyān nahādan va be <em>vahištem</em> čidan va asti uštā tā ǧāy goftan va andar urvarāmdān nahādan</ab>
+            <ab class="ab_indent">
+                "At <em>aṣ̌əm</em>, he should cut the top of the <em>urvarām</em>; at <em>vohū</em>, he should put the knife on the middle; at <em>vahištəm</em>, he should cut and
+                recite <em>astī uštā</em> until the end and put (the pieces) in the <em>urvarāmdān</em>.</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL4.2.1"/>
+    </translation>
+</text>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS14.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS14.1">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS5.1"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: cf. Y14.1. Ms. 2109.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Vid. Y14.1.</ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab><em>vīse vō aməṣ̌a spəṇta...</em>] <em>vīse vō aməša spəṇta</em> (2065: <em>staota</em>) OD <em>ratauuō vīspe mazišta</em> (VrS14.8) 2065, 2070.</ab>
+         <ab><em>vīse vō aməṣ̌a spəṇta ...</em>] (Per.) rāsfi ḫāmuš <em>vīse vō aməṣ̌a spəṇta</em> 2109.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab><em>yūšmākəm yasnāica vaɱāica xšnaōϑrāica frasastaiiaēca yat̰ aməṣ̌anąm spəṇtanąm aɱākəm hauuaŋᵛhāica ratufritaiiaēca aṣ̌auuastāica vərəϑraγniiāica huruniiāica yat̰ saōš́iiaṇtąm aṣ̌aōnąm</em> = VrS27.47.</ab>
+      <ab><em>hauuaŋᵛhāica ratufritaiiaēca aṣ̌auuastāica vərəϑraγniiāica huruniiāica</em> ~ Y14.1 <em>hauuaŋᵛhāica aṣ̌auuastāica</em>; 
+         ~ Y11.10 <em>hauuaŋᵛhāi aṣ̌auuastāi</em>; ~ Y68.4 <em>hauuaŋᵛhāi aṣ̌auuastanąm</em>; ~ Yt10.33 <em>hauuaŋhum aṣ̌auuastəmca</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS14.1"/>
+   </translation>
+</text>

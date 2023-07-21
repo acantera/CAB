@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y14.3" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y14.3">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY14.3a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY14.3b"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuPaitiRatu" xpointer="RatuPaitiRatu2" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.18c" on_line="in1line"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y14.1.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>Y14.3 = Y2.20; ≈ Y1.20, Y3.25, Y4.26, Y6.21, Y7.26, Y17.19, Y22.30, Y24.31, Y59.30, Y66.25, VrS78.37, VrS79.26, VrS81.30, VrS82.25.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY14.3"/>
+      <include type="W" corresp="WTrY14.3"/>
+      <include type="K" corresp="KTrY14.3"/>
+      <include type="D" corresp="DTrY14.3"/>
+   </translation>
+</text>

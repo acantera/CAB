@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS25.21" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y22.13" xml:id="VVrS25.21">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY22.11"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid Y22.7.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>VrS25.21a <em>āiiese yešti vīspaēibiiō aṣ̌ahe ratubiiō</em> ...] <em>vīspe aṣ̌ahe ratauuō āiiese</em> 4200, 4210, 4240. Err. for dative analogical to VrS2.21 (and parallels) with <em>āiiese yešti</em> + accusative.
+            Ms. 4240 joins it with <em>yōi həṇti aṣ̌ahe raϑβō dātahe</em> (VrS25.29). Mss. 4200, 4210 abv. with Pahl. OD (Vid. Recitation Instruction).</ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab>VVrS25.21a <em>āiiese yešti vīspaēibiiō</em> ...] <em>vīspe aṣ̌ahe ratauuō āiiese</em> OD <em>yōi həṇti aṣ̌ahe ratauuō</em> (VVrS25.29) 4200, 4210; <em>vīspaēibiiō aēibiiō ratubiiō</em> OD <em>yōi həṇti aṣ̌ahe ratauuō</em> 4220, 4280, 4370.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS25.21"/>
+   </translation>
+</text>

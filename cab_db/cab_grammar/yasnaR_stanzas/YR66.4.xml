@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR66.4" status="created">  <!-- created, approved, updated--> <header><creators><creator>Porro</creator><creator>Cantera</creator></creators><created>1 June 2019</created></header><div type="Stanza" sameAs="" xml:id="YR66.4">
+            <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR66.3a" on_line="in1lineblock"/>
+            <include href="/db/apps/cab_db/cab_rituals/blocks/RozGen" xpointer="RozGen1" on_line="in1line"/>
+            <!-- Possible all days -->
+            <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR66.3b" on_line="in1lineblock"/>
+            <include href="/db/apps/cab_db/cab_rituals/blocks/MahGen" xpointer="MahGen1" on_line="in1line"/>
+            <!-- Possible all months -->
+        </div><Apparatus><Critical/><Commentary/></Apparatus><Parallels/><Ritual/><translation><include type="CAB" corresp="CABTrYR66.4"/></translation></text>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS79.0" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS79.0">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP3"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS79.0 (mss. 2005, 2007, 2010, 2030, 2101, 2106, 2109):</ab>
+         <ab class="ab_indent">agar xšnūman gāhānbār bēd zōt <em>yaϑā ahū vairiiō yō ātrauuaxšō frā.mē mrūtē </em> rāspīg <em> aϑā ratuš</em> kardan hamrāspīg
+            <em> yaϑā ahū vairiiō yō zaōtā frā.mē mrūtē</em> zōt <em> aϑā ratuš</em> kardan agar ēzišn ī gāhānbār nē bēd zōt <em> yaϑā ahū vairiiō zaōtā frā.mē mrūtē</em>
+            rāspīg <em>yaϑā ahū vairiiō yō zaōtā</em> zōt <em>aθā ratuš</em> kardan
+            </ab>
+         <ab class="ab_indent">"If it is the <em>šnūman</em> for the <em>gāhānbār</em>, then the <em>zōt</em> (should say) <em>yaϑā ahū vairiiō yō ātrauuaxšō frā.mē mrūtē </em> 
+            The <em>rāspīg</em> should answer: <em> aϑā ratuš</em> the same <em>rāspīg</em> should answer: <em> yaϑā ahū vairiiō yō zaōtā frā.mē mrūtē</em>, and the <em>zōt</em> 
+            should answer: <em> aϑā ratuš</em>. It it is not a liturgy for the Gāhānbār, the <em>zōt</em> (should say): <em> yaϑā ahū vairiiō zaōtā frā.mē mrūtē</em> and the <em>rāspīg</em>
+            (should say): <em>yaϑā ahū vairiiō yō zaōtā</em> and the <em>zōt</em> should answer: <em>aθā ratuš</em>."
+         </ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS79.0"/>
+   </translation>
+</text>

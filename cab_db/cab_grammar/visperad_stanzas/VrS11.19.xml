@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS11.19" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y11.14" xml:id="VrS11.19" quote="Y52.6">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY11.12a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY11.12b"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY11.12c"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt̰ ud rāspīg: vid. VrS11.17.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>vasasca tū...</em>] <em>vasasca tē</em> OD OL Y <em>vīspaiiā̊ druuatō stōiš</em> (VrS11.22) 2010, 2109; <em>vasasca tī</em> OD OL <em>druuatō stōiš</em> (VrS11.22) 2101; <em>vasasca tē</em> OD <em>druuatō stōiš</em> (VrS11.22) 2070; <em>vasasca tē ahurō mazdā̊ uštāca</em> OD OL Y <em>vīspaiiā̊ druuatō stōiš</em> (VrS11.22) 2007; <em>vasasca tī ahura mazda</em> OD OL (<em>vīspaiiā̊</em> 2220) <em>druuatō stōiš</em> (VrS11.22) 2030, 2220, 2230.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS11.19"/>
+   </translation>
+</text>

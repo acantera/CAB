@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+            <div type="Niyayesh" xml:id="MayaYt"> <!-- vide: K36, MZK9, MZK6, RR3, NiknamXA, DorostXANew, Pd(Salemann), K37; non vide: MF32, MF28, MF3, MF29, MF31, W1, W3 --> <!-- Text called "Ābzūr" in MZK9 --> <!-- K36 gives at the end the instruction (NP): fe šab našāyad goftan; MZK6 gives: abar gāh ī hāwan rapitpin ud ūzērin šēt; but Niknam says: har gāh ke bāšad -->
+                <div type="NiyayeshStanza" xml:id="MayaYt0.1">
+                    <ab n="a" xml:id="MayaYt0.1a">nəmasə.tə̄. səuuišta. arəduuī. sūra. anāhita.</ab>
+				</div>
+				<div type="NiyayeshStanza" xml:id="MayaYt1.1" corresp="#GNy4.1"> <!-- The initial frame according to the notation in all mss.; it is unclear whether the long initial frame as given in th mss. for NyXwar was recited also in the MayaYt -->
+                    <ab n="a" xml:id="MayaYt1.1a">xšnaōϑra. ahurahe. mazdā̊.</ab>
+				</div>
+				<div type="NiyayeshStanza" xml:id="MayaYt1.2" corresp="#GNy4.1">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/>
+				</div>
+				<div type="Frauuarane" xml:id="MayaYt1.3" corresp="#GNy4.1">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP1XA"/>
+				</div>
+				<div type="NiyayeshStanza" xml:id="MayaYt2.1" corresp="#GNy4.2" quote="Y65.1(= YR65.1 VrS89.1 VVrS89.1 VytVrS89.1)"> <!-- = GYt5.1, GYt13.4 --> <!-- G gives a metrical order of Y65; CAB does not follow strictly --> 
+                    <ab n="a" xml:id="MayaYt2.1a">yazāi. āpəm.</ab>
+                    <ab n="b" xml:id="MayaYt2.1b">arəduuīm. sūrąm. anāhitąm.</ab>
+                    <ab n="c" xml:id="MayaYt2.1c">pərəϑū.frākąm. baēšaziiąm.</ab>
+                    <ab n="d" xml:id="MayaYt2.1d">vīdaēuuąm. ahurō.t̰kaēšąm.</ab>
+                    <ab n="e" xml:id="MayaYt2.1e">yesńiiąm. aŋᵛhe. astuuaite.</ab>
+                    <ab n="f" xml:id="MayaYt2.1f">vaɱiiąm. aŋᵛhe. astuuaite.</ab>
+                    <ab n="g" xml:id="MayaYt2.1g">āδū.frāδanąm. aṣ̌aōnīm.</ab>
+                    <ab n="h" xml:id="MayaYt2.1h">vąϑβō.frāδanąm. aṣ̌aōnīm.</ab>
+                    <ab n="i" xml:id="MayaYt2.1i">gaēϑō.frāδanąm. aṣ̌aōnīm.</ab>
+                    <ab n="j" xml:id="MayaYt2.1j">ṣ̌aētō.frāδanąm. aṣ̌aōnīm.</ab>
+                    <ab n="k" xml:id="MayaYt2.1k">daŋ́hu.frāδanąm. aṣ̌aōnīm.</ab>
+                </div>
+                <div type="NiyayeshStanza" xml:id="MayaYt2.2" corresp="#GNy4.3" quote="Y65.2(= YR65.2 VrS89.2 VVrS89.2 VytVrS89.2)"> <!-- = GYt5.2, GYt13.5 -->
+                    <ab n="a" xml:id="MayaYt2.2a">yā. vīspanąm. aršnąm. xšudrā̊. yaōždaδāiti.</ab>
+                    <ab n="b" xml:id="MayaYt2.2b">yā. vīspanąm. hāirišinąm. ząϑāi. garəβą. yaōždaδāiti.</ab>
+                    <ab n="c" xml:id="MayaYt2.2c">yā. vīspā̊. hāirišīš. huzātimō. daδāiti.</ab>
+                    <ab n="d" xml:id="MayaYt2.2d">yā. vīspanąm. hāirišinąm. dāitīm. raϑβīm. paēma. auua.baraiti.</ab>
+                </div>
+                <div type="NiyayeshStanza" xml:id="MayaYt2.3" corresp="#GNy4.4" quote="Y65.3(= YR65.3 VrS89.3 VVrS89.3 VytVrS89.3)"> <!-- = GYt5.3, GYt13.6 -->
+                    <ab n="a" xml:id="MayaYt2.3a">masitąm. dūrāt̰. frasrūtąm.</ab> <!-- masitąm. dūrāt̰. in CAM taken as part of Y65.2 -->
+                    <ab n="b" xml:id="MayaYt2.3b">yā. asti. auuauuaiti. masō. yaϑa. vīspā̊. imā̊. āpō. yā̊. zəmā. paiti. frataciṇti.</ab>
+                    <ab n="c" xml:id="MayaYt2.3c">yaϑa. vīspā̊. imā̊. āpō. yā̊. zəmā. paiti. frataciṇti.</ab>
+                    <ab n="d" xml:id="MayaYt2.3d">yā. amauuaiti. fratacaiti.</ab>
+                    <ab n="e" xml:id="MayaYt2.3e">hukairiiāt̰. haca. barəzaŋhat̰.</ab>
+                    <ab n="f" xml:id="MayaYt2.3f">aōi. zraiiō. vouru.kaṣ̌əm.</ab>
+                </div>
+                <div type="NiyayeshStanza" xml:id="MayaYt2.4" corresp="#GNy4.5" quote="Y65.4(= YR65.4 VrS89.4 VVrS89.4 VytVrS89.4)"> <!-- = GYt5.4, GYt13.7 -->
+                    <ab n="a" xml:id="MayaYt2.4a">yaōzəṇti. vīspe. karanō. zraiiā. vouru.kaṣ̌aiia.</ab>
+                    <ab n="b" xml:id="MayaYt2.4b">ā. vīspō. maiδiiō. yaōzaiti.</ab>
+                    <ab n="c" xml:id="MayaYt2.4c">yat̰. hīš. auui. fratacaiti.</ab>
+                    <ab n="d" xml:id="MayaYt2.4d">yat̰. hīš. auui. fražgaraiti.</ab>
+                    <ab n="e" xml:id="MayaYt2.4e">arəduuī. sūra. anāhita.</ab>
+                    <ab n="f" xml:id="MayaYt2.4f">yeŋ́he. hazaŋhrəm. vairiianąm.</ab>
+                    <ab n="g" xml:id="MayaYt2.4g">hazaŋhrəm. apaγžāranąm.</ab>
+                    <ab n="h" xml:id="MayaYt2.4h">kascit̰ca. aēšąm. vairiianąm.</ab>
+                    <ab n="i" xml:id="MayaYt2.4i">kascit̰ca. aēšąm. apaγžāranąm.</ab>
+                    <ab n="j" xml:id="MayaYt2.4j">caϑβarə.satəm. aiiarə.baranąm.</ab>
+                    <ab n="k" xml:id="MayaYt2.4k">huuaspāi. naire. barəmnāi.</ab>
+                </div>
+                <div type="NiyayeshStanza" xml:id="MayaYt2.5" corresp="#GNy4.6" quote="Y65.5(= YR65.5 VrS89.5 VVrS89.5 VytVrS89.5)"> <!-- = GYt5.5, GYt13.8 -->
+                    <ab n="a" xml:id="MayaYt2.5a">aŋ́hā̊sca. mē. aēuuaŋhā̊. āpō. apaγžārō.</ab>
+                    <ab n="b" xml:id="MayaYt2.5b">vījasāiti. vīspāiš. auui. karšuuąn. yāiš. hapta.</ab>
+                    <ab n="c" xml:id="MayaYt2.5c">aŋ́hā̊sca. mē. aēuuaŋhā̊. āpō. hamaϑa. auua.baraiti.</ab>
+                    <ab n="d" xml:id="MayaYt2.5d">hąminəmca. zaiianəmca.</ab>
+                    <ab n="e" xml:id="MayaYt2.5e">hā.mē. āpō. yaōždaδāiti.</ab>
+                    <ab n="f" xml:id="MayaYt2.5f">hā. aršnąm. xšudrā̊.</ab>
+                    <ab n="g" xml:id="MayaYt2.5g">hā. xšaϑrinąm. garəβą.</ab>
+                    <ab n="h" xml:id="MayaYt2.5h">hā. xšaϑrinąm. paēma.</ab>
+                </div>
+                <div type="NiyayeshStanza" xml:id="MayaYt2.6" quote="Y65.6(= YR65.6 VrS89.6 VVrS89.6 VytVrS89.6)">
+                    <ab n="a" xml:id="MayaYt2.6a">ā. hātąmca. aŋhušąmca. zātanąmca. azātanąmca.</ab>
+                    <ab n="b" xml:id="MayaYt2.6b">aṣ̌aōnąm. iδa. jasəṇtu. frauuaṣ̌aiiō.</ab>
+                    <ab n="c" xml:id="MayaYt2.6c">yōi. hīš. baβrarə. paitiiāpəm. nazdištaiiāt̰. apat̰. haca.</ab>
+                </div>
+                <div type="NiyayeshStanza" xml:id="MayaYt2.7" quote="Y65.7(= YR65.7 VrS89.7 VVrS89.7 VytVrS89.7)">
+                    <ab n="a" xml:id="MayaYt2.7a">mā.nō. āpō. dušmanaŋhe. mā.nō. āpō. dužuuacaŋhe.</ab>
+                    <ab n="b" xml:id="MayaYt2.7b">mā.nō. āpō. duš.š́iiaōϑanāi. mā. duždaēnāi.</ab>
+                    <ab n="c" xml:id="MayaYt2.7c">mā. haṣ̌i.t̰biše.</ab>
+                    <ab n="d" xml:id="MayaYt2.7d">mā. moγu.t̰biše.</ab>
+                    <ab n="e" xml:id="MayaYt2.7e">mā. varəzānō.t̰biše.</ab>
+                    <ab n="f" xml:id="MayaYt2.7f">mā. nāfiiō.t̰biše.</ab>
+                    <ab n="g" xml:id="MayaYt2.7g">māδa.nō. aɱi. frāδāiti. āpō. vaŋᵛhīš.</ab>
+                    <ab n="h" xml:id="MayaYt2.7h">vahištā̊. mazdaδātā̊. aṣ̌aōnīš.</ab>
+                    <ab n="i" xml:id="MayaYt2.7i">yō.nō. airīricinąm. irīrixšāite. gaēϑanąm.</ab>
+                    <ab n="j" xml:id="MayaYt2.7j">māδa.nō. aɱi. frāδāiti. āpō. vaŋᵛhīš.</ab>
+                    <ab n="k" xml:id="MayaYt2.7k">vahištā̊. mazdaδātā̊. aṣ̌aōnīš.</ab>
+                    <ab n="l" xml:id="MayaYt2.7l">yō. nō. airīricinąm. irīrixšāite. tanunąm.</ab>
+                </div>
+                <div type="NiyayeshStanza" xml:id="MayaYt2.8" quote="Y65.8(= YR65.8 VrS89.8 VVrS89.8 VytVrS89.8)">
+                    <ab n="a" xml:id="MayaYt2.8a">yō. tāiiuš. yō. hazaŋha. yō. gaδō. yō. aṣ̌auuaja.</ab>
+                    <ab n="b" xml:id="MayaYt2.8b">yō. yātumā̊. yō. nasuspā̊. yō. spərəzuuā̊. yō. arāitiuuā̊. yō. aṣ̌əmaōγō. anaṣ̌auua. yō. maṣ̌iiō. druuā̊. sāsta.</ab>
+                    <ab n="c" xml:id="MayaYt2.8c">təm. auui. t̰baēšā̊. paitiiaṇtu. iϑiiejā̊. īṣ̌a. yō. ī. daδa.</ab>
+                    <ab n="d" xml:id="MayaYt2.8d">iϑiiejā̊. yaṇtu. yō. dī. daδa.</ab>
+                </div>
+                <div type="NiyayeshStanza" xml:id="MayaYt2.9" quote="Y65.9(= YR65.9 VrS89.9 VVrS89.9 VytVrS89.9)">
+                    <ab n="a" xml:id="MayaYt2.9a">āpō. gātauua. rāmōiδβəm. yauuata. zaōta. yazāite.</ab>
+                    <ab n="b" xml:id="MayaYt2.9b">kaϑa. zaōta. xsāta. vaca. āpō. vaŋᵛhīš. yazāite.</ab>
+                    <ab n="c" xml:id="MayaYt2.9c">kuϑra. bauuāt̰. hitō.hizuuā̊. yezi. anarəϑe. yazāite.</ab>
+                    <ab n="d" xml:id="MayaYt2.9d">kuϑra. vācō. aōi.būta. yą. hē. caxse. aēϑra.paitiš.</ab>
+                    <ab n="e" xml:id="MayaYt2.9e">kuϑra. tā̊. friiō. bauuąn. kuϑra. tā̊. išudō. bauuąn.</ab>
+                    <ab n="f" xml:id="MayaYt2.9f">kuϑra. tā̊. rātaiiō. bauuąn.</ab>
+                    <ab n="g" xml:id="MayaYt2.9g">yą. ahurō. mazdā̊. zaraϑuštrāi. frāuuauuaca. frā. zaraϑuštrō. gaēϑābiiō. astuuaitibiiō.</ab>
+                </div>
+                <div type="NiyayeshStanza" xml:id="MayaYt2.10" quote="Y65.10(= YR65.10 VrS89.10 VVrS89.10 VytVrS89.10)">
+                    <ab n="a" xml:id="MayaYt2.10a">auua.jastīm. pauruuąm. āpō. jaiδiiōiš. zaraϑuštra. pascaēta. aiβiiō. zaōϑrā̊. frabarōiš. yaōždātā̊. daɱō.pairīštā̊.</ab>
+                    <ab n="b" xml:id="MayaYt2.10b">imą. vacō. framrū.</ab>
+                </div>
+                <div type="NiyayeshStanza" xml:id="MayaYt2.11" quote="Y65.11(= YR65.11 VrS89.11 VVrS89.11 VytVrS89.11)">
+                    <ab n="a" xml:id="MayaYt2.11a">āpō. yānəm. vō. yāsāmi. mazā̊ṇtəm.</ab>
+                    <ab n="b" xml:id="MayaYt2.11b">təm. mē. dāiiata. yeŋ́he. dāiti. paiti. vaŋ́hō. nisrīta. anaiβi.druxti.</ab>
+                    <ab n="c" xml:id="MayaYt2.11c">āpō. īštīm. vō. jaiδiiāmi. pouru.sarəδąm. amauuaitīm.</ab>
+                    <ab n="d" xml:id="MayaYt2.11d">frazaṇtīmca. xᵛāparąm. yeŋ́hā̊. pourūšca. bərəjaiiąn.</ab>
+                    <ab n="e" xml:id="MayaYt2.11e">naēcišca. aŋ́hā̊. yāsāiti. ziiānāi.</ab>
+                    <ab n="f" xml:id="MayaYt2.11f">nōit̰. snaϑāi. nōit̰. mahrkāi. nōit̰. aēnaŋhe. nōit̰. apaiiatə̄e.</ab>
+                </div>
+                <div type="NiyayeshStanza" xml:id="MayaYt2.12" quote="Y65.12(= YR65.12 VrS89.12 VVrS89.12 VytVrS89.12)">
+                    <ab n="a" xml:id="MayaYt2.12a">imat̰. vō. āpō. jaiδiiemi.</ab>
+                    <ab n="b" xml:id="MayaYt2.12b">imat̰. zəmō. imat̰. uruuarā̊.</ab>
+                    <ab n="c" xml:id="MayaYt2.12c">imat̰. aməṣ̌ā̊. spəṇta. huxšaϑra. huδā̊ŋhō.</ab>
+                    <ab n="d" xml:id="MayaYt2.12d">vaŋhauuasca. vaŋᵛhīšca. vohunąm. dātārō.</ab>
+                    <ab n="e" xml:id="MayaYt2.12e">imat̰. aṣ̌āunąm. vaŋᵛhīš. frauuaṣ̌aiiō. uγrā̊. aiβiϑūrā̊.</ab>
+                    <ab n="f" xml:id="MayaYt2.12f">imat̰. miϑra. vouru.gaōiiaōite.</ab>
+                    <ab n="g" xml:id="MayaYt2.12g">imat̰. sraōša. aṣ̌iia. huraōδa.</ab>
+                    <ab n="h" xml:id="MayaYt2.12h">imat̰. rašnuuō. razišta.</ab>
+                    <ab n="i" xml:id="MayaYt2.12i">imat̰. ātarə. ahurahe. mazdā̊. puϑra.</ab>
+                    <ab n="j" xml:id="MayaYt2.12j">imat̰. bərəza. ahura. xšaϑriia. apąm. napō. auruuat̰.aspa.</ab>
+                    <ab n="k" xml:id="MayaYt2.12k">imat̰. vīspe. yazatā̊ŋhō. yōi. vaŋhazdā̊. aṣ̌auuanō.</ab>
+                </div>
+                <div type="NiyayeshStanza" xml:id="MayaYt2.13" quote="Y65.13(= YR65.13 VrS89.13 VVrS89.13 VytVrS89.13)">
+                    <ab n="a" xml:id="MayaYt2.13a">imat̰. mē. āpō. dāiiata.</ab>
+                    <ab n="b" xml:id="MayaYt2.13b">imat̰. zəmō. imat̰. uruuarā̊.</ab>
+                    <ab n="c" xml:id="MayaYt2.13c">imat̰. aməṣ̌ā̊. spəṇta. huxšaϑra. huδā̊ŋhō.</ab>
+                    <ab n="d" xml:id="MayaYt2.13d">vaŋhauuasca. vaŋᵛhīšca. vohunąm. dātārō.</ab>
+                    <ab n="e" xml:id="MayaYt2.13e">imat̰. aṣ̌āunąm. vaŋᵛhīš. frauuaṣ̌aiiō. uγrā̊. aiβiϑūrā̊.</ab>
+                    <ab n="f" xml:id="MayaYt2.13f">imat̰. miϑra. vouru.gaōiiaōite.</ab>
+                    <ab n="g" xml:id="MayaYt2.13g">imat̰. sraōša. aṣ̌iia. huraōδa.</ab>
+                    <ab n="h" xml:id="MayaYt2.13h">imat̰. rašnuuō. razišta.</ab>
+                    <ab n="i" xml:id="MayaYt2.13i">imat̰. ātarə. ahurahe. mazdā̊. puϑra.</ab>
+                    <ab n="j" xml:id="MayaYt2.13j">imat̰. bərəza. ahura. xšaϑriia. apąm. napō. auruuat̰.aspa.</ab>
+                    <ab n="k" xml:id="MayaYt2.13k">imat̰. vīspe. yazatā̊ŋhō. yōi. vaŋhazdā̊. aṣ̌auuanō.</ab>
+                    <ab n="l" xml:id="MayaYt2.13l">imat̰. mē. āpō. dāiiata.</ab>
+                    <ab n="m" xml:id="MayaYt2.13m">imat̰. zəmō. imat̰. uruuarā̊.</ab>
+                    <ab n="n" xml:id="MayaYt2.13n">imat̰. aməṣ̌ā̊. spəṇta. huxšaϑra. huδā̊ŋhō.</ab>
+                    <ab n="o" xml:id="MayaYt2.13o">vaŋhauuasca. vaŋᵛhīšca. vohunąm. dātārō.</ab>
+                    <ab n="p" xml:id="MayaYt2.13p">imat̰. aṣ̌āunąm. vaŋᵛhīš. frauuaṣ̌aiiō. uγrā̊. aiβiϑūrā̊.</ab>
+                    <ab n="q" xml:id="MayaYt2.13q">imat̰. miϑra. vouru.gaōiiaōite.</ab>
+                    <ab n="r" xml:id="MayaYt2.13r">imat̰. sraōša. aṣ̌iia. huraōδa.</ab>
+                    <ab n="s" xml:id="MayaYt2.13s">imat̰. rašnuuō. razišta.</ab>
+                    <ab n="t" xml:id="MayaYt2.13t">imat̰. ātarə. ahurahe. mazdā̊. puϑra.</ab>
+                    <ab n="u" xml:id="MayaYt2.13u">imat̰. bərəza. ahura. xšaϑriia. apąm. napō. auruuat̰.aspa.</ab>
+                    <ab n="v" xml:id="MayaYt2.13v">imat̰. vīspe. yazatā̊ŋhō. yōi. vaŋhazdā̊. aṣ̌auuanō.</ab>
+                </div>
+                <div type="NiyayeshStanza" xml:id="MayaYt2.14" quote="Y65.14(= YR65.14 VrS89.14 VVrS89.14 VytVrS89.14)">
+                    <ab n="a" xml:id="MayaYt2.14a">yat̰ca. aɱāt̰. asti. maziiō. yat̰ca. aɱāt̰. asti. vaŋ́hō.</ab>
+                    <ab n="b" xml:id="MayaYt2.14b">yat̰ca. aɱāt̰. asti. sraiiō. yat̰ca. aɱāt̰. asti.</ab>
+                    <ab n="c" xml:id="MayaYt2.14c">parō.arəjastarəm.</ab>
+                    <ab n="d" xml:id="MayaYt2.14d">tat̰. nō. dāiiata. yūžəm. yazata. aṣ̌auuanō.</ab>
+                    <ab n="e" xml:id="MayaYt2.14e">xšaiiamna. isāna. moṣ̌uca. āsuiiāca.</ab>
+                    <ab n="f" xml:id="MayaYt2.14f">haϑra. ana. gāϑβiia. vaca.</ab>
+                    <ab n="g" xml:id="MayaYt2.14g">haiϑiiāuuarəštąm. hiiat̰. vasnā. fəraṣ̌ōtəməm.</ab> <!-- CAB Yasna gives haiθiiāuuarəštąm. in two words -->
+                </div>
+                <div type="NiyayeshStanza" xml:id="MayaYt2.15" quote="Y65.15(= YR65.15 VrS89.15 VVrS89.15 VytVrS89.15)">
+                    <ab n="a" xml:id="MayaYt2.15a">dāidī.mōi. yə̄. gąm. taṣ̌ō. apascā. uruuarā̊scā.</ab>
+                    <ab n="b" xml:id="MayaYt2.15b">amərətātā. hauruuātā. spə̄ništā. maińiiū. mazdā.</ab>
+                    <ab n="c" xml:id="MayaYt2.15c">təuuīṣ̌ī. utaiiūitī. manaŋhā. vohū. sə̄ṇghē.</ab>
+                </div>
+                <div type="NiyayeshStanza" xml:id="MayaYt3.1" corresp="#GNy4.10">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="2"/>
+				</div>
+				<div type="NiyayeshStanza" xml:id="MayaYt3.2" corresp="#GNy4.10">
+                    <ab n="a" xml:id="MayaYt3.2a">yasnəmca. vaɱəmca. aōjasca. zauuarəca. āfrīnāmi.</ab>
+					<include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGenXA66"/>
+				</div>
+				<div type="NiyayeshStanza" xml:id="MayaYt3.3" corresp="#GNy4.10">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+				</div>
+				<div type="NiyayeshStanza" xml:id="MayaYt3.4" corresp="#GNy4.10">				
+                    <ab n="a" xml:id="MayaYt3.4a">aɱāi. raēšca. xᵛarənasca. aɱāi. tanuuō. druuatātəm.</ab> 
+                    <ab n="b" xml:id="MayaYt3.4b">aɱāi. tanuuō. vazduuarə. aɱāi. tanuuō. vərəϑrəm.</ab> 
+                    <ab n="c" xml:id="MayaYt3.4c">aɱāi. īštīm. pouruš.xᵛāϑrąm.</ab>
+                    <ab n="d" xml:id="MayaYt3.4d">aɱāi. āsnąmcit̰. frazaṇtīm. aɱāi. darəγąm. darəγō.jītīm. aɱāi. vahištəm. ahūm. aṣ̌aōnąm. raōcaŋhəm. vīspō.xᵛāϑrəm.</ab> 
+				</div>
+				<div type="NiyayeshStanza" xml:id="MayaYt3.5" corresp="#GNy4.10">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+				</div>
+				<div type="NiyayeshStanza" xml:id="MayaYt3.6" corresp="#GNy4.10">				
+                    <ab n="a" xml:id="MayaYt3.6a">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab> 
+                    <ab n="b" xml:id="MayaYt3.6b">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+                    <ab n="c" xml:id="MayaYt3.6c">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab> 
+				</div>
+				<div type="NiyayeshStanza" xml:id="MayaYt3.7" corresp="#GNy4.10">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+				</div>
+				<div type="NiyayeshStanza" xml:id="MayaYt3.8" corresp="#GNy4.10">
+                    <ab n="a" xml:id="MayaYt3.8a">jasa.mē. auuaŋhe. mazda.</ab>
+                    <ab n="b" xml:id="MayaYt3.8b">jasa.mē. auuaŋhe. mazda.</ab>
+                    <ab n="c" xml:id="MayaYt3.8c">jasa.mē. auuaŋhe. mazda.</ab>
+				</div>
+				<div type="NiyayeshStanza" xml:id="MayaYt3.9" corresp="#GNy4.10">
+	<ab n="a" xml:id="MayaYt3.9a">amahe. hutāštahe. huraōδahe.</ab> <!-- Xšnūman  Gen day 20-->
+	<ab n="b" xml:id="MayaYt3.9b">vərəθraγnahe. ahuraδātahe. vanaiṇtiiā̊sca. uparatātō.</ab>
+	<ab n="c" xml:id="MayaYt3.9c">rāmanasca. xᵛāstrahe. vaiiaōš. uparō.kairiiehe. taraδātō. ańiiāiš. dāmąn.</ab> <!-- Xšnūman  Gen day 21-->
+	<ab n="d" xml:id="MayaYt3.9d">aētat̰. tē. vaiiō. yat̰. tē. asti. spəṇtō.maińiiaōm.</ab>
+				    <ab n="e" xml:id="MayaYt3.9e">θβāṣ̌ahe. xᵛaδātahe. zruuānahe. akaranahe. zruuānahe. darəγō.xᵛaδātahe.</ab><!-- In the IndXA it follows the kərba. mažd. Vāj -->
+				</div>
+				<div type="NiyayeshStanza" xml:id="MayaYt3.10" corresp="#GNy4.10">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+                </div>
+            </div>
+</div>

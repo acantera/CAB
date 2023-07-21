@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y19.18" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y19.18">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY19.18"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y19.3.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y19.18a <em>dax́iiumō</em>] sec. cod.; Geldner, Kellens <em>dāx́iiumō</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>ratauuō nmāńiiō vīsiiō zaṇtumō dax́iiumō zaraϑuštrō puxδō</em> ~ E.g. Y1.3 - Y1.7 <em>sāuuaŋhə̄e vīsiiāica aṣ̌aōne aṣ̌ahe raϑβe</em> (<em>hāuuani</em> Y1.3) ... <em>frādat̰.fšauue zaṇtumāica aṣ̌aōne aṣ̌ahe raϑβe</em> (<em>rapiϑβina</em> Y1.4) ...
+         <em>frādat̰.vīrāi dax́iiumāica aṣ̌aōne aṣ̌ahe raϑβe</em> (<em> uzaiieirina</em> Y1.5) ... <em>frādat̰.vīspąm.hujiiātə̄e zaraϑuštrō.təmāica aṣ̌aōne aṣ̌ahe raϑβe</em> (<em>aiβisrūϑrima aibigaiia</em> Y1.6) ... 
+         <em>bərəjiiāi nmāńiiāica aṣ̌aōne aṣ̌ahe raϑβe</em> (<em>ušahina</em> Y1.7). Vid. parallels in Y1.3 - Y1.7.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY19.18"/>
+      <include type="W" corresp="WTrY19.18"/>
+      <include type="K" corresp="KTrY19.18"/>
+      <include type="D" corresp="DTrY19.18"/>
+   </translation>
+</text>

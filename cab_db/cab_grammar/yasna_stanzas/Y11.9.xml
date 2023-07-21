@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y11.9" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y11.9">
+               <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y11.9NerangTransc.a"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY11.9"/>
+            </div>
+    <Apparatus>
+        <Speaker>
+            <SpeakerInfo>
+                <div>
+                    <ab class="ab_indent">rāspīg: vid. Nērangs, Anklesaria, Kotwal and Boyd, Geldner.</ab>
+                </div>
+            </SpeakerInfo>
+            <Commentary/>
+        </Speaker>
+        <Critical/>
+        <Commentary>
+            <ab>Y11.9] Pirart del. and analyzes them as a collection of text in Old Avestan (cf. Parallels); <bibl>Bartholomae, 1904</bibl> p. 1171: "Ein kabbalistisches Gemengsel aus meist gāϑischen Wörtern, die zum guten Teil in andrer als der ihnen zukommenden Bedeutung gebraucht sind".</ab>
+            <ab>Y11.9a <em>ϑrāiiōidiiāi</em>] Pirart <em>ϑrāiiō.diiāi</em>.</ab>
+            <ab>Y11.9a <em>məṇdāidiiāi</em>] Kellens (Bartholomae), Hoffmann and Forssman; Geldner <em>maṇdāidiiāi</em>; Pirart <em>məṇdaidiiāi</em> (<bibl>Kellens, 1984</bibl> p. 350 and <bibl>Kellens and Pirart, 1991</bibl> p. 177).</ab>
+            <ab>Y11.9a <em>haptāždiiāi</em>] Pirart <em>hapti āždiiāi</em>.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels>
+        <ab><bibl>Pirart, 2003</bibl> pp. 113-114: <em>yō nō aēuuō</em> ~ Y29.8 <em>yə̄.nə̄ aēuuō</em>; <em>at̰ tē uiiē </em> ~ Y34.11 <em>at̰ tōi ubē</em>; <em>ϑrāiiōidiiāi</em> = Y34.5 <em>ϑrāiiōidiiāi</em>; <em>tūrahe</em> ~ Y46.12 <em>tūrahiiā</em>; <em>məṇdāidiiāi</em> = Y44.8 <em>məṇdāidiiāi</em>; <em>xšuuīdəm</em> ~ Y29.7 <em>xšuuīdəmcā</em>; <em>hapti</em> (first part of <em>haptāždiiāi</em>) ~ Y31.22 <em>haptī</em>; <em>āždiiāi</em> (second part) = Y51.17 <em>āždiiāi</em>; <em>nauua</em> ~ Y35.6 <em>nā.vā</em>; <em>dasme</em> ~ Y28.11 <em>dasəmē</em>; <em>yōi və̄ yaēϑma</em> ~ Y28.11 <em>yōi və̄ yōiϑəmā</em>.</ab>
+    </Parallels>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>NerY11.9 Var.a (mss. 5, 6, 15, 60, 400, 410, 2065):</ab>
+            <ab class="ab_indent">
+                rāspīg parāhōm pad dast ī hōy abar griftan pad gāh ī frabardārān barišn dast čahār angušt barsom dārišn bē gōwišn <em>yō nō aēuuō at̰ tē uiiē ϑrāiiōidiiāi tūrahe maṇdāidiiāi xšuuīdəm haptāždiiāi nauua dasme  yōi və̄ yaēϑma</em></ab>
+            <ab class="ab_indent">
+                "The <em>rāspīg</em> should take the <em>parāhōm</em> with the left hand and bring it to the place of the <em>frabardarān</em>.
+                He has to hold his hand (at a distance of four finger of)  the <em>barsom</em>. He has to say: 
+                <em>yō. nō. aēuuō. at̰. tē. uiiē. ϑrāiiōidiiāi. tūrahe. maṇdāidiiāi. xšuuīdəm. haptāždiiāi. nauua. dasme.  yōi. və̄. yaēϑma.</em>."</ab>
+            <ab>NerY11.9 Var. b (mss. 40, 88):</ab>
+            <ab class="ab_indent">
+                rāspīg parāhōm pad dast ī hōy abar griftan pad gāh ī frabardārān barišn bē ō gāh ī xwēš 
+                pad war ī zōhrag dast čahār angušt barsom dārišn bē gōwišn <em>yō nō aēuuō at̰ tē uiiē ϑrāiiōidiiāi tūrahe manḍāidiiāi xšuuīdəm haptāždiiāi nauua dasme yōi və̄ yaēϑma</em></ab>
+            <ab class="ab_indent">"The <em>rāspīg</em> should take the <em>parāhōm</em> with the left hand and bring it to the place of the <em>frabardarān</em>, to its own place facing the <em>zōhrag</em>. 
+                He has to hold his hand (at a distance of four finger of) the <em>barsom</em>. He has to say: <em>yō nō aēuuō at̰ tē uiiē ϑrāiiōidiiāi tūrahe maṇdāidiiāi xšuuīdəm haptāždiiāi nauua dasme yōi və̄ yaēϑma</em>"</ab>
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+        <ab>N28.42 </ab>
+        <ab class="ab_indent">
+            pad <em>ẏō nō aēuuō at̰ te</em> parāhōm pad war ī zōhrag barišn u-š <em>ẏō nō aēuuō</em> pad war ī zōhrag gōwišn ast kē ēdōn gōwēd ay ka andar rāh-ē be gōwēd ā šāyēd</ab>
+        <ab class="ab_indent">
+            "At <em>ẏō nō aēuuō at̰ </em> he has to bring the <em>parāhōm</em> next to the <em>zōhrag</em>. He has to recite <em>ẏō nō aēuuō </em> facing the <em>zōhrag</em>. 
+            There is one commentator who says: "If he recites it on the way, it is allowed."</ab>
+        </Quotations>
+        <ModernPractice id="ritualModernPractice">
+            <ab><ab><bibl>Redard and Daruwalla, 2021</bibl>, p. 81:</ab>
+                <ab class="ab_indent">"The chief priest, after reciting upto here, sits quietly. The assistant priest, without saying anything, after making his left hand pure, 
+                    picking up the <em>hom</em> cup with that left hand from the top of the table, going near the fire, 
+                    with the right hand, he puts on the ladle that one (piece of) wood (and) incense  which has been kept on the second stone, 
+                    he puts (it) on the fire and then coming towards the chief priest’s left side, 
+                    putting the <em>hom</em> cup on the <em>barsam</em> holder, the assistant priest recites alone the below Avestan (text)"</ab></ab>
+            
+            <ab><ab><bibl>Kotwal and Boyd, 1991</bibl> p. 98:</ab> 
+                <ab class="ab_indent">"Before concluding st. 8, the <em>rāspī</em> purifies his left hand with water poured from the vaselike pot located next to the large
+                    basin of water. With his purified left hand he picks up the <em>parāhōm</em> cup, returns to his place, and while holding the cup before the
+                    fire, takes the last remaining set of sandalwood and frankincense (<em>ēsm-bōy</em>) from the stone block nearest the fire and offers it on a ladle to the
+                    fire. Returning the ladle to its tray, he walks around the south side of the fire to the ritual table and touches the <em>parāshōm</em> cup to the southern edge
+                    of the <em>barsom</em> wires. He recites st. 9 alone, directing his words to the <em>zōt</em>: "May this (the <em>parāhōm</em>) have ten-fold blessings on you." 
+                    He pours a few drops of the <em>parāhōm</em> juice on the date-palm cord tied around the <em>barsom</em>, and hands the cup to the <em>zōt</em>, 
+                    who takes it in his right hand."</ab></ab>
+        </ModernPractice>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY11.9"/>
+        <include type="W" corresp="WTrY11.9"/>
+        <include type="K" corresp="KTrY11.9"/>
+        <include type="D" corresp="DTrY11.9"/></translation>
+</text>

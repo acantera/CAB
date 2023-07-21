@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y17.12" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y17.12">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY17.11"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: Kotwal and Boyd.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y17.12b <em>bərəzi.sauuaŋhəm</em>] Geldner, Bartholomae, Kellens <em>bərəzisauuaŋhəm</em>; cod. vv.ll.; cf. <em>bərəzi.gāϑra-</em>, <em>bərəzi.caxra-</em>, etc.</ab>
+         <ab>Y17.12g <em>xšaϑrəm nafəδrəm</em>] exp. *<em>xšaϑrō.nafəδrəm</em>, cf. Ny5.6 <em>xšaϑrō.nafəδrō nairiiō.saŋhahe</em>. <em>xšaϑrəm</em> likely analogic to <em>nafəδrəm</em> and <em>nairiiō.saŋhəm</em>.
+         <em>nafəδrəm</em> irr., exp. <em>napātəm</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>Y17.12 = Y59.12; ≈ Y1.13, Y2.13, Y3.15, Y4.18, Y6.12, Y7.16, Y22.16, Y24.23, Y66.13, VrS78.25, VrS79.18, VrS81.12, VrS82.13, VVrS14.11.</ab>
+      <ab><em>ϑβąm ātrəm ahurahe mazdā̊ puϑrəm yazamaide</em> ~ Y6.19, VrS18.5, VrS30.11, VrS36.5, VrS41.6, VrS51.8, VrS57.8, VrS62.8, VrS64.9, VrS65.82, VrS69.8, VrS71.8, VrS87.12 <em>ϑβąm ātrəm ahurahe mazdā̊ puϑrəm aṣ̌auuanəm aṣ̌ahe ratūm yazamaide</em>; 
+         ~ Y71.24, VrS93.11 <em>ātrəm ahurahe mazdā̊ puϑrəm aṣ̌auuanəm aṣ̌ahe ratūm yazamaide</em>; ~ Y16.4 <em>ātrəm ahurahe mazdā̊ puϑrəm yazamaide</em>; ~ VrS78.13 <em>ϑβąm ātrəm ahurahe mazdā̊ puϑrəm āiiese yešti</em>.</ab>
+      <ab><em>āpō vaŋᵛhīš vahištā̊ mazdaδātā̊ aṣ̌aōnīš</em> = Y2.13, Y17.13, Y59.12, Y65.7 (x2), Y68.7, VrS81.12; ~ VrS16.4 <em>āpō vaŋᵛhīš mazdaδātā̊ aṣ̌aōnīš</em>.</ab>
+      <ab><em>ātrəm uruuāzištəm yazamaide</em> ~ Y36.2 <em>uruuāzištō huuō nā̊ yātāiiā paitī.jamiiā̊ ātarə mazdā̊ ahurahiiā</em>.</ab>
+      <ab><em>ātrəm vāzištəm yazamaide</em> ~ VS19.40 <em>ātrəm vāzištəm frāiiazaēša daēum janəm spəṇjaγrīm</em>.</ab>
+      <ab><em>xšaϑrəm nafəδrəm nairiiō.saŋhəm yazamaide</em> ~ Ny5.6 <em>mat̰ vīspaēibiiō ātərəbiiō xšaϑrō.nafəδrō nairiiō.saŋhahe yazatahe xšnaōϑra</em>.</ab>
+   </Parallels>
+   <Ritual>
+      <Quotations id="ritualQuotations">
+         <ab>GBd18.1-6:</ab>
+         <ab class="ab_indent">(18.1) gōwēd pad dēn kū panǰ ēwēnag ātaxš brēhēnīd estēd čiyōn (18.2) ātaxš ī burzisawang ātaxš ī pēš ī ohrmazd ī xwadāy waxšēd (18.3) ātaxš ī vohufriyān ān ī andar tan ī mardōmān ud gōspandān
+         (18.4) ātaxš ī urwāzišt ān ī andar urwarān (18.5) ātaxš ī wāzišt ān ī andar abr padīrag ī spinǰaγr pad kōxšišn estēd (18.6) ud ātaxš ī spēništ ān ī pad gēhān pad kār dāšt estēd ud ātaxšiz warahrān.</ab>
+         <ab class="ab_indent">"(18.1) It is said at the compilation of the religion (Dēn) that five types of fire were created this way: (18.2) the fire (called) Burzisawang, that burns in front of the lord Ohrmazd; (18.3) the fire (called) Vohufriyān, that is inside of the bodies of men and cattle;
+            (18.4) the fire (called) Urwāzišt, that it is inside the plants; (18.5) the fire (called) Wāzišt, that is inside a cloud in struggle opposed to Spinǰaγr; (18.6) and the fire (called) Spēništ, that it is in use in the material world and also (called) fire Warahrān."
+         </ab>
+      </Quotations>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY17.12"/>
+      <include type="W" corresp="WTrY17.11"/>
+      <include type="K" corresp="KTrY17.11"/>
+      <include type="D" corresp="DTrY17.11"/>
+   </translation>
+</text>

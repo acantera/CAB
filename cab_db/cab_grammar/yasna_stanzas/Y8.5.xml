@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y8.5" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y8.5">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY8.4a"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. Y8.4.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab>Y8.5a <em>aiβi.zūzuiianąm</em>] haplographical form. Vid. <bibl>Kellens, 2007</bibl>, p. 14.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <ModernPractice id="ritualModernPractice">
+            <ab><ab><bibl>Redard and Daruwalla, 2021</bibl>, p. 79:</ab>
+                <ab class="ab_indent">"The assistant priest, standing in the Western direction, puts the third (piece of) wood (and) incense on the fire. Then, the assistant priest, standing on
+                    the chief priest’s left hand side, recites alone."</ab></ab>
+        </ModernPractice>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY8.5"/>
+        <include type="W" corresp="WTrY8.4a"/>
+        <include type="K" corresp="KTrY8.4a"/>
+        <include type="D" corresp="DTrY8.4a"/>
+    </translation>
+</text>

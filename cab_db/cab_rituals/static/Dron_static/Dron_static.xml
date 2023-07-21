@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div type="book" xml:id="DrYt" n="DrYt">
+            <div type="book" xml:id="DrYt" n="DrYt">
+                <div n="1" type="Chapter" xml:id="DrYt1">
+                    <div n="0" type="Stanza" xml:id="DrYt1.0">
+                        <ab xml:id="DrYt1.0a">xšnaōϑra. ahurahe. mazdā̊.</ab>
+                        <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+                        <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+                        <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+                    </div>
+                    <div n="1" type="Stanza" xml:id="DrYt1.1" corresp="#GY3.1 #GY3.2">
+                        <ab xml:id="DrYt1.1a">barəsmana. daϑušō. ahurahe. mazdā̊. raēuuatō.
+                            xᵛarənaŋᵛhatō. maińiiə̄uš. maińiiaōiiehe. aməṣ̌anąm. spəṇtanąm.  xᵛarəϑəm. miiazdəm. āiiese. yešti. hauruuata.
+                            amərətāta. gāuš. hudā̊. āpə̄. uruuara. aēsma. baōδi. xšnūmaine. ahurahe. mazdā̊. aməṣ̌anąm. spəṇtanąm. xšnūmaine. sraōšahe. aṣ̌iiehe. āϑrō. ahurahe.
+                            mazdā̊. raϑβō. bərəzatō. yō. aṣ̌ahe.</ab>
+                    </div>
+                    <div n="2" type="Stanza" xml:id="DrYt1.2" corresp="#GY3.5">
+                        <ab xml:id="DrYt1.2a">āiiese. yešti. asńiiaēibiiō. aṣ̌ahe. ratubiiō.</ab>
+                        <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.1"/>
+                        <ab xml:id="DrYt1.2b">āiiese. yešti. </ab>
+                        <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.2"/>
+                        <ab xml:id="DrYt1.2c"> āiiese. yešti. </ab>
+                        <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.3"/>
+                    </div>
+                    <div n="3" type="Stanza" xml:id="DrYt1.3" corresp="#GY3.13">
+                        <ab xml:id="DrYt1.3a">āiiese. yešti.</ab>
+                        <include href="/db/apps/cab_db/cab_rituals/blocks/RozGen" xpointer="RozGen1"/>
+                        <ab xml:id="DrYt1.3b">āiiese. yešti. </ab>
+                        <include href="/db/apps/cab_db/cab_rituals/blocks/MahGen" xpointer="MahGen1"/>
+                    </div>
+                    <div n="4" type="Stanza" xml:id="DrYt1.4" corresp="#GY3.14">
+                        <ab xml:id="DrYt1.4a">āiiese. yešti. tauua. āϑrō. ahurahe. mazdā̊. puϑra.
+                            mat̰. vīspaēibiiō. ātərəbiiō.</ab>
+                        <ab xml:id="DrYt1.4b">āiiese. yešti. aiβiiō. vaŋᵛhībiiō. vīspanąmca. apąm.
+                            mazdaδātanąm. vīspanąmca. uruuaranąm. mazdaδātanąm.</ab>
+                    </div>
+                    <div n="5" type="Stanza" xml:id="DrYt1.5" corresp="#GY3.15">
+                        <ab xml:id="DrYt1.5a"> āiiese. yešti. mąϑrahe. spəṇtahe. aṣ̌aōnō.
+                            vərəziiaŋᵛhahe. dātahe. vīdaēuuahe. dātahe. zaraϑuštrōiš. darəγaiiā̊.
+                            upaiianaiiā̊. daēnaiiā̊. vaŋhuiiā̊. māzdaiiasnōiš.</ab>
+                    </div>
+                    <div n="6" type="Stanza" xml:id="DrYt1.6" corresp="#GY3.16">
+                        <ab xml:id="DrYt1.6a">āiiese. yešti. garōiš. ušidarənahe. mazdaδātahe.
+                            aṣ̌axᵛāϑrahe. vīspaēšąmca. gairinąm. aṣ̌axᵛāϑranąm. pouru.xᵛāϑranąm.
+                            mazdaδātanąm. kāuuaiieheca. xᵛarənaŋhō. mazdaδātahe. axᵛarətaheca.
+                            xᵛarənaŋhō. mazdaδātahe. </ab>
+                        <ab xml:id="DrYt1.6b">āiiese. yešti. aṣ̌ōiš. vaŋhuiiā̊. cistōiš. vaŋhuiiā̊.
+                            ərəϑə̄. vaŋhuiiā̊. rasąstātō. vaŋhuiiā̊. xᵛarənaŋhō. sauuaŋhō.
+                            mazdaδātahe.</ab>
+                    </div>
+                    <div n="7" type="Stanza" xml:id="DrYt1.7" corresp="#GY3.17">
+                        <ab xml:id="DrYt1.7a"> āiiese. yešti. daɱaiiā̊. vaŋhuiiā̊. āfritōiš.
+                            daɱaheca. narš. aṣ̌aōnō. uγraheca. taxmahe. dāmōiš. upamanahe.
+                            yazatahe.</ab>
+                    </div>
+                    <div n="8" type="Stanza" xml:id="DrYt1.8" corresp="#GY3.18">
+                        <ab xml:id="DrYt1.8a"> āiiese. yešti. ā̊ŋhąm. asaŋhąmca. šōiϑranąmca.
+                            gaōiiaōitinąmca. maēϑananąmca. auuō.xᵛarənanąmca. apąmca. zəmąmca.
+                            uruuaranąmca. aŋ́hā̊sca. zəmō. auuaŋ́heca. ašnō. vātaheca. aṣ̌aōnō.
+                            strąm. mā̊ŋhō. hūrō. anaγranąm. raōcaŋhąm. xᵛaδātanąm. vīspanąmca.
+                            spəṇtahe. maińiiə̄uš. dāmanąm. aṣ̌aōnąm. aṣ̌aōninąmca. aṣ̌ahe.
+                            raϑβąm.</ab>
+                    </div>
+                    <div n="9" type="Stanza" xml:id="DrYt1.9" corresp="#GY3.20">
+                        <ab xml:id="DrYt1.9a"> xᵛarəϑəm. miiazdəm. āiiese. yešti. hauruuata.
+                            amərətāta. gāuš. hudā̊. apə̄. uruuara. aēsma. baōδi. xšnūmaine.</ab>
+                        <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen21"/>
+                        <ab xml:id="DrYt1.9b">aōxtō.nāmanō. yazatahe.</ab>
+                    </div>
+                    <div n="10" type="Stanza" xml:id="DrYt1.10">
+                        <ab xml:id="DrYt1.10a"> xᵛarəϑəm. miiazdəm. āiiese. yešti. hauruuata.
+                            amərətāta. gāuš. hudā̊. apə̄. uruuara. aēsma. baōδi. xšnūmaine.</ab>
+                        <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen21"/>
+                        <ab xml:id="DrYt1.10b">aōxtō.nāmanō. yazatahe.</ab>
+                    </div>
+                    <div n="11" type="Stanza" xml:id="DrYt1.11" corresp=" #GY23.1 #GY23.2 #GY23.3">
+                        <ab xml:id="DrYt1.11a">āiiese. yešti. auuaŋ́hā̊. frauuaṣ̌aiiō. yā̊. paōiriia.
+                            ā̊ŋharə. nmānanąmca. vīsąmca. zaṇtunąmca. dax́iiunąmca. yā̊. asmanəm. vīδāraiiən. yā̊. āpəm. vīδaraiiən. yā̊.
+                            ząm. vīδāraiiən. yā̊. gąm. vīδāraiiən. yā̊. barəϑrišuua. puϑrə̄. vīδāraiiən.
+                            paiti.vərətə̄. apara.iriϑəṇtō.</ab>
+                        <ab xml:id="DrYt1.11b">āiiese. yešti. āfrauuaṣ̌i. ahurahe. mazdā̊.
+                            aməṣ̌anąm. spəṇtanąm. mat̰. vīspābiiō. aṣ̌aōnibiiō. frauuaṣ̌ibiiō. yā̊.
+                            maińiiauuanąm. yazatanąm. </ab>
+                        <ab xml:id="DrYt1.11c">āiiese. yešti. āfrauuaṣ̌i. gaiiehe. marəϑnō.
+                            zaraϑuštrahe. spitāmahe. kauuōiš. vīštāspahe. isat̰.vāstrahe.
+                            zaraϑuštrōiš. mat̰. vīspābiiō. aṣ̌aōnibiiō. frauuaṣ̌ibiiō. yā̊.
+                            paōiriianąm. t̰kaēšanąm.</ab>
+                        <ab xml:id="DrYt1.11d">āiiese. yešti. vīspaiia. aṣ̌auuane. frauuaṣ̌e. ke.
+                            asti. kuuacit̰. aŋ́hā̊. zəmō. para.irista. daɱi. nāirike. apərənāiiūke.
+                            kainike. vāstriiāuuarəzi. upa.šaēta. haca. aɱāt̰. nmānāt̰. iziieiṇti.
+                            yā̊. paitišmarəṇti. yā̊. aiβināsəṇti. vaŋhūš. yasnąsca. vaɱąsca.</ab>
+                    </div>
+                    <div n="12" type="Stanza" xml:id="DrYt1.12" corresp="#GY3.22">
+                        <ab xml:id="DrYt1.12a"> āiiese. yešti. aṣ̌āunąm. frauuaṣ̌inąm. uγranąm.
+                            aiβiϑūranąm. paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm. nabānazdištanąm.
+                            frauuaṣ̌inąm.</ab>
+                    </div>
+                    <div n="13" type="Stanza" xml:id="DrYt1.13" corresp="#GY3.23b">
+                        <ab xml:id="DrYt1.13a"> āiiese. yešti. vīspaēibiiō. vaŋhuδābiiō.
+                            yazataēibiiō. maińiiaōibiiascā. gaēϑiiaēibiiascā. yōi. həṇti.
+                            yasńiiāca. vaɱiiāca. aṣ̌āt̰. haca. yat̰. vahištāt̰.</ab>
+                    </div>
+                </div>
+                <div n="2" type="Chapter" xml:id="DrYt2">
+                    <div n="1" type="Stanza" xml:id="DrYt2.1" corresp="#GY3.24 #GY3.25">
+                        <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP16"/>
+                    </div>
+                    <div n="2" type="Stanza" xml:id="DrYt2.2" corresp="#GY4.1">
+                        <ab xml:id="DrYt2.2a"> ima. humatāca. hūxtāca. huuarštāca. </ab>
+                        <ab xml:id="DrYt2.2b">imą. miiazdąsca. zaōϑrā̊sca. 
+                            hauruuata. amərətāta. gąmca. huδā̊ŋhəm. apəmca. uruuarąm. aēsmąsca. baōiδīmca. pairica. dadəmahi. āca.
+                            vaēδaiiamahi.</ab>
+                    </div>
+                    <div n="3" type="Stanza" xml:id="DrYt2.3" corresp="#GY4.2">
+                        <ab xml:id="DrYt2.3a"> āat̰. dīš. āuuaēδaiiamahi. ahurāica. mazdāi. sraōšāica. aṣ̌iiāi.
+                            aməṣ̌aēibiiasca. spəṇtaēibiiō. aṣ̌āunąmca. frauuaṣ̌ibiiō. aṣ̌āunąmca.
+                            uruuōibiiō. āϑraēca. ahurahe. mazdā̊. raϑβaēca. bərəzaite. vīspaiiā̊.
+                            sącat̰ca. aṣ̌aōnō. stōiš. yasnāica. vaɱāica. xšnaōϑrāica.
+                            frasastaiiaēca.</ab>
+                    </div>
+                    <div n="4" type="Stanza" xml:id="DrYt2.4" corresp="#GY4.3">
+                        <ab xml:id="DrYt2.4a">āat̰. dīš. āuuaēδaiiamahi. ima. humatāca. hūxtāca.
+                            huuarštāca.</ab>
+                        <ab xml:id="DrYt2.4b">imą. miiazdąsca. zaōϑrā̊sca. hauruuata. amərətāta.
+                            gąmca. huδā̊ŋhəm. apəmca. uruuarąm. aēsmąsca. baōiδīmca. pairica. dadəmahi. āca.
+                            vaēδaiiamahi.</ab>
+                    </div>
+                    <div n="5" type="Stanza" xml:id="DrYt2.5" corresp="#GY4.4">
+                        <ab xml:id="DrYt2.5a"> āat̰. dīš. āuuaēδaiiamahi. aməṣ̌aēibiiō.
+                            spəṇtaēibiiō. huxšaϑraēibiiō. huδābiiō. yauuaējibiiō. yauuaēsubiiō.  yōi. vaŋhə̄uš. ā. manaŋhō. š́iieiṇti. yā̊sca.
+                            uiti.</ab>
+                    </div>
+                    <div n="6" type="Stanza" xml:id="DrYt2.6" corresp="#GY4.5">
+                        <ab xml:id="DrYt2.6a"> āat̰. dīš. āuuaēδaiiamahi. frāiiehīš. ahe. nmānahe.
+                            fradaϑāi. ahe. nmānahe. pasuuąmca. narąmca. zātanąmca. ząhiiamnanąmca.
+                            aṣ̌aōnąm. yeŋ́he. aēm. həṇti.</ab>
+                    </div>
+                    <div n="7" type="Stanza" xml:id="DrYt2.7" corresp="#GY4.6">
+                        <ab xml:id="DrYt2.7a"> āat̰. dīš. āuuaēδaiiamahi. aṣ̌āunąm. vaŋᵛhībiiō.
+                            frauuaṣ̌ibiiō. yā̊. uγrā̊sca. aiβiϑūrā̊sca. aṣ̌aōnąm. auuaŋhe.</ab>
+                    </div>
+                    <div n="8" type="Stanza" xml:id="DrYt2.8" corresp="#GY4.7">
+                        <ab xml:id="DrYt2.8a"> āat̰. dīš. āuuaēδaiiamahi. daϑušō. ahurahe. mazdā̊.
+                            raēuuatō. xᵛarənaŋᵛhatō. maińiiə̄uš. maińiiaōiiehe. aməṣ̌anąm.
+                            spəṇtanąm. yasnāica. vaɱāica. xšnaōϑrāica. frasāstaiiaēca.</ab>
+                    </div>
+                    <div n="9" type="Stanza" xml:id="DrYt2.9" corresp="'#GY4.8">
+                        <ab xml:id="DrYt2.9a"> āat̰. dīš. āuuaēδaiiamahi. asńiiaēibiiō. aṣ̌ahe.
+                            ratubiiō.</ab>
+                        <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.1"/>
+                        <ab xml:id="DrYt2.9b">yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab> 
+                        <ab xml:id="DrYt2.9c">āat̰. dīš. āuuaēδaiiamahi.</ab>
+                        <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.2"/>
+                        <ab xml:id="DrYt2.9d">yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+                        <ab xml:id="DrYt2.9e">āat̰. dīš. āuuaēδaiiamahi.</ab>
+                        <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.3"/>
+                        <ab xml:id="DrYt2.9f">yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+                    </div>
+                    <div n="10" type="Stanza" xml:id="DrYt2.10" corresp="#GY4.16">
+                        <ab xml:id="DrYt2.10a"> āat̰. dīš. āuuaēδaiiamahi. </ab>
+                        <include href="/db/apps/cab_db/cab_rituals/blocks/RozGen" xpointer="RozGen1"/>
+                        <ab xml:id="DrYt2.10b">yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+                        <ab xml:id="DrYt2.10c">āat̰. dīš. āuuaēδaiiamahi. </ab>
+                        <include href="/db/apps/cab_db/cab_rituals/blocks/MahGen" xpointer="MahGen1"/>
+                        <ab xml:id="DrYt2.10d">yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+                    </div>
+                    <div n="11" type="Stanza" xml:id="DrYt2.11" corresp="#GY4.17">
+                        <ab xml:id="DrYt2.11a"> āat̰. dīš. āuuaēδaiiamahi. tauua. āϑrō. ahurahe.
+                            mazdā̊. puϑra. mat̰. vīspaēibiiō. ātərəbiiō. yasnāica. vaɱāica.
+                            xšnaōϑrāica. frasastaiiaēca.</ab>
+                        <ab xml:id="DrYt2.11b">āat̰. dīš. āuuaēδaiiamahi. aiβiiō. vaŋᵛhībiiō.
+                            vīspanąmca. apąm. mazdaδātanąm. vīspanamca. uruuaranąm. mazdaδātanąm.
+                            yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+                    </div>
+                    <div n="12" type="Stanza" xml:id="DrYt2.12" corresp="#GY4.18">
+                        <ab xml:id="DrYt2.12a"> āat̰. dīš. āuuaēδaiiamahi. mąϑrahe. spəṇtahe.
+                            aṣ̌aōnō. vərəziiaŋᵛhahe. dātahe. vīdaēuuahe. dātahe. zaraϑuštrōiš.
+                            darəγaiiā̊. upaiianaiiā̊. daēnaiiā̊. vaŋhuiiā̊. māzdaiiasnōiš. yasnāica.
+                            vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+                    </div>
+                    <div n="13" type="Stanza" xml:id="DrYt2.13" corresp="#GY4.19">
+                        <ab xml:id="DrYt2.13a"> āat̰. dīš. āuuaēδaiiamahi. garōiš. ušidarənahe.
+                            mazdaδātahe. aṣ̌axᵛāϑrahe. vīspaēšąmca. gairinąm. aṣ̌axᵛāϑranąm.
+                            pouru.xᵛāϑranąm. mazdaδātanąm. kāuuaiieheca. xᵛarənaŋhō. mazdaδātahe.
+                            axᵛarətaheca. xᵛarənaŋhō. mazdaδātahe. yasnāica. vaɱāica. xšnaōϑrāica.
+                            frasastaiiaēca. </ab>
+                        <ab xml:id="DrYt2.13b">āat̰. dīš. āuuaēδaiiamahi. aṣ̌ōiš. vaŋhuiiā̊.
+                            cistōiš. vaŋhuiiā̊. ərəϑə̄. vaŋhuiiā̊. rasąstātō. vaŋhuiiā̊. xᵛarənaŋhō.
+                            sauuaŋhō. mazdaδātahe. yasnāica. vaɱāica. xšnaōϑrāica.
+                            frasastaiiaēca.</ab>
+                    </div>
+                    <div n="14" type="Stanza" xml:id="DrYt2.14" corresp="#GY4.20">
+                        <ab xml:id="DrYt2.14a"> āat̰. dīš. āuuaēδaiiamahi. daɱaiiā̊. vaŋhuiiā̊.
+                            āfritōiš. daɱaheca. narš. aṣ̌aōnō. uγraheca. taxmahe. dāmōiš. upamanahe.
+                            yazatahe. yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+                    </div>
+                    <div n="15" type="Stanza" xml:id="DrYt2.15" corresp="#GY4.21">
+                        <ab xml:id="DrYt2.15a"> āat̰. dīš. āuuaēδaiiamahī. ā̊ŋhąm. asaŋhąmca.
+                            šōiϑranąmca. gaōiiaōitinąmca. maēϑananąmca. auuō.xᵛarənanąmca. apąmca.
+                            zəmąmca. uruuaranąmca. aiŋ́hā̊sca. zəmō. auuaŋ́heca.. ašnō. vātaheca.
+                            aṣ̌aōnō. strąm. mā̊ŋhō. hūrō. anaγranąm. raōcaŋhąm. xᵛaδātanam.
+                            vīspanąmca. spəṇtahe. maińiiə̄uš. dāmanąm. aṣ̌aōnąm. aṣ̌aōninąmca.
+                            aṣ̌ahe. raϑβąm. yasnāica. vahmāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+                    </div>
+                    <div n="16" type="Stanza" xml:id="DrYt2.16">
+                        <ab xml:id="DrYt2.16a"> āat̰. dīš. āuuaēδaiiamahi. </ab>
+                        <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen21"/>
+                        <ab xml:id="DrYt2.16b">xšnaōϑra. yasnāica. vaɱāica. xšnaōϑrāica.
+                            frasastaiiaēca.</ab>
+                    </div>
+                    <div n="17" type="Stanza" xml:id="DrYt2.17" corresp="#GY4.24">
+                        <ab xml:id="DrYt2.17a"> āat̰. dīš. āuuaēδaiiamahi. aṣ̌āunąm. frauuaṣ̌inąm.
+                            uγranąm. aiβiϑūranąm. paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm.
+                            nabānazdištanąm. frauuaṣ̌inąm. yasnāica. vaɱāica. xšnaōϑrāica.
+                            frasastaiiaēca.</ab>
+                    </div>
+                    <div n="18" type="Stanza" xml:id="DrYt2.18" corresp="#GY4.25">
+                        <ab xml:id="DrYt2.18a"> āat̰. dīš. āuuaēδaiiamahi. vīspaēibiiō. vaŋhuδābiiō.
+                            yazataēibiiō. maińiiaōibiiascā. gaēϑiiaēibiiascā. yōi. həṇti.
+                            yasńiiāca. vaɱiiāca. aṣ̌āt̰. haca. yat̰. vahištāt̰.</ab>
+                        <ab xml:id="DrYt2.18b">aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab>
+                    </div>
+                    <div n="19" type="Stanza" xml:id="DrYt2.19" corresp="#GY4.26">
+                        <include href="/db/apps/cab_db/cab_rituals/prayers/YeH" xpointer="YeH"/>
+                    </div>
+                </div>
+                <div n="3" type="Chapter" xml:id="DrYt3">
+                    <div n="1" type="Stanza" xml:id="DrYt3.1" corresp="#GY5.1">
+                        <ab xml:id="DrYt3.1a"> iϑā. āt̰. yazamaidē. ahurəm. mazdąm. yə̄. gąmcā.
+                            aṣ̌əmcā. dāt̰. apascā. dāt̰. uruuarā̊scā. vaŋᵛhīš.</ab>
+                        <ab xml:id="DrYt3.1b">raōcā̊scā. dāt̰. būmīmcā. vīspācā. vohū. ahiiā.
+                            xšaϑrācā. mazə̄nācā. hauuapaŋhāišcā.</ab>
+                    </div>
+                    <div n="2" type="Stanza" xml:id="DrYt3.2" corresp="#GY5.2">
+                        <ab xml:id="DrYt3.2a"> tə̄m. at̰. yasnanąm. pauruuatātā. yazamaidē.</ab>
+                        <ab xml:id="DrYt3.2b">yōi. gə̄uš. hacā. š́iieiṇtī.</ab>
+                    </div>
+                    <div n="3" type="Stanza" xml:id="DrYt3.3" corresp="#GY5.3">
+                        <ab xml:id="DrYt3.3a"> tə̄m. at̰. āhūiriiā. nāmə̄nī. mazdā.varā.
+                            spəṇtō.tə̄mā. yazamaidē. </ab>
+                        <ab xml:id="DrYt3.3b">tə̄m. aɱākāiš. azdibīšcā. uštānāišcā. yazamaidē. </ab>
+                        <ab xml:id="DrYt3.3c">tə̄m. aṣ̌āunąm. frauuaṣ̌īš. narąmcā. nāirinąmcā.
+                            yazamaidē.</ab>
+                    </div>
+                    <div n="4" type="Stanza" xml:id="DrYt3.4" corresp="#GY5.4">
+                        <ab xml:id="DrYt3.4a"> aṣ̌əm. at̰. vahištəm. yazamaidē.</ab>
+                        <ab xml:id="DrYt3.4b">hiiat̰. sraēštəm. hiiat̰. spəṇtəm. aməṣ̌əm. </ab>
+                        <ab xml:id="DrYt3.4c">hiiat̰. raōcōŋhuuat̰. hiiat̰. vīspā. vohū.</ab>
+                    </div>
+                    <div n="5" type="Stanza" xml:id="DrYt3.5" corresp="#GY5.5">
+                        <ab xml:id="DrYt3.5a"> vohucā. manō. yazamaidē. vohucā. xšaϑrəm.</ab>
+                        <ab xml:id="DrYt3.5b">vaŋᵛhīmcā. daēnąm. vaŋᵛhīmcā. fsəratūm. vaŋᵛhīmcā.
+                            ārmaitīm.</ab>
+                    </div>
+                    <div n="6" type="Stanza" xml:id="DrYt3.6" corresp="#GY5.16">
+                        <include href="/db/apps/cab_db/cab_rituals/prayers/YeH" xpointer="YeH"/>
+                    </div>
+                </div>
+                <div n="4" type="Chapter" xml:id="DrYt4">
+                    <div n="1" type="Stanza" xml:id="DrYt4.1" corresp="#GY6.1">
+                        <ab xml:id="DrYt4.1a">daδuuā̊ŋhəm. ahurəm. mazdąm. yazamaide.</ab> 
+                        <ab xml:id="DrYt4.1b">aməṣ̌ā.
+                            spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab>
+                    </div>
+                    <div n="2" type="Stanza" xml:id="DrYt4.2">
+                        <ab xml:id="DrYt4.2a" corresp="#GY6.1"> asńiia. aṣ̌auuana. aṣ̌ahe. ratauuō.
+                            yazamaide.</ab>
+                        <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY2.1"/>
+                        <ab xml:id="DrYt4.2b">yazamaide.</ab>
+                        <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY2.2"/>
+                        <ab xml:id="DrYt4.2c">yazamaide.</ab>
+                        <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY2.3"/>
+                        <ab xml:id="DrYt4.2d">yazamaide.</ab>
+                    </div>
+                    <div n="3" type="Stanza" xml:id="DrYt4.3" corresp="#GY6.10">
+                        <include href="/db/apps/cab_db/cab_rituals/blocks/RozAcc" xpointer="RozAcc1"/>
+                        <ab xml:id="DrYt4.3a">yazamaide. </ab>
+                        <include href="/db/apps/cab_db/cab_rituals/blocks/MahAcc" xpointer="MahAcc1"/>
+                        <ab xml:id="DrYt4.3b">yazamaide.</ab>
+                    </div>
+                    <div n="4" type="Stanza" xml:id="DrYt4.4" corresp="#GY6.11">
+                        <ab xml:id="DrYt4.4a"> ϑβąm. ātrəm. ahurahe. mazdā̊. puϑrəm. aṣ̌auuanəm.
+                            aṣ̌ahe. ratūm. yazamaide. mat̰. vīspaēibiiō. ātərəbiiō. </ab>
+                        <ab xml:id="DrYt4.4b">āpō. vaŋᵛhīš. vahištā̊. mazdaδātā̊. aṣ̌aōnīš.
+                            yazamaide.</ab> 
+                        <ab xml:id="DrYt4.4c">vīspā̊. āpō. mazdaδātā̊. aṣ̌aōnīš. yazamaide.</ab> 
+                        <ab xml:id="DrYt4.4d">vīspā̊. uruuarā̊. mazdaδātā̊. aṣ̌aōnīš. yazamaide.</ab>
+                    </div>
+                    <div n="5" type="Stanza" xml:id="DrYt4.5" corresp="#GY6.12">
+                        <ab xml:id="DrYt4.5a"> mąϑrəm. spəṇtəm. ašxᵛarənaŋhəm. yazamaide. </ab>
+                        <ab xml:id="DrYt4.5b">dātəm. vīdōiiūm. yazamaide.</ab>
+                        <ab xml:id="DrYt4.5c">dātəm. zaraϑuštri. yazamaide. </ab>
+                        <ab xml:id="DrYt4.5d"> darəγąm. upaiianąm. yazamaide.</ab> 
+                        <ab xml:id="DrYt4.5e">daēnąm. vaŋᵛhīm. māzdaiiasnīm. yazamaide.</ab>
+                    </div>
+                    <div n="6" type="Stanza" xml:id="DrYt4.6" corresp="#GY6.13">
+                        <ab xml:id="DrYt4.6a">gairīm. ušidarənəm. mazdaδātəm. aṣ̌axᵛāϑrəm. yazatəm.
+                            yazamaide.</ab> 
+                        <ab xml:id="DrYt4.6b">vīspā̊. garaiiō. aṣ̌axᵛāϑrā̊. pouru.xᵛāϑrā̊. mazdaδāta.
+                            aṣ̌auuana. aṣ̌ahe. ratauuō. yazamaide.</ab>
+                        <ab xml:id="DrYt4.6c">uγrəm. kauuaēm. xᵛarənō. mazdaδātəm. yazamaide.</ab> 
+                        <ab xml:id="DrYt4.6d">uγrəm.
+                            axᵛarətəm. xᵛarənō. mazdaδātəm. yazamaide. </ab>
+                        <ab xml:id="DrYt4.6e">aṣ̌īm. vaŋᵛhīm. yazamaide. xšōiϑnīm. bərəzaitīm.
+                            amauuaitīm. huraōδąm. xᵛāparąm.</ab> 
+                        <ab xml:id="DrYt4.6f">xᵛarənō. mazdaδātəm. yazamaide.</ab> 
+                        <ab xml:id="DrYt4.6g">sauuō.
+                            mazdaδātəm. yazamaide.</ab>
+                    </div>
+                    <div n="7" type="Stanza" xml:id="DrYt4.7" corresp="#GY6.14">
+                        <ab xml:id="DrYt4.7a">daɱąm. vaŋᵛhīm. āfritīm. yazamaide.</ab> 
+                        <ab xml:id="DrYt4.7b">daɱəmca. narəm.
+                            aṣ̌auuanəm. yazamaide.</ab> 
+                        <ab xml:id="DrYt4.7c">uγrəm. taxməm. dāmōiš. upamanəm. yazatəm.
+                            yazamaide.</ab>
+                    </div>
+                    <div n="8" type="Stanza" xml:id="DrYt4.8" corresp="#GY6.15">
+                        <ab xml:id="DrYt4.8a">imā̊. apasca. zəmasca. uruuarā̊sca. yazamaide.</ab> 
+                        <ab xml:id="DrYt4.8b">imā̊. apā̊sca. šōiϑrā̊sca. gaōiiaōitīšca. maēϑańiiā̊sca. auuō.xᵛarənā̊sca.
+                            yazamaide.</ab> 
+                        <ab xml:id="DrYt4.8c">iməmca. šoiϑrahe. paitīm. yazamaide. yim. ahurəm.
+                            mazdąm.</ab>
+                    </div>
+                    <div n="9" type="Stanza" xml:id="DrYt4.9" corresp="#GY6.17">
+                        <ab xml:id="DrYt4.9a">hauruuata. amərətāta. yazamaide.</ab> 
+                        <ab xml:id="DrYt4.9b">gāuš. hudā̊.
+                            yazamaide.</ab> 
+                        <ab xml:id="DrYt4.9c">apəm. uruuarąmca. aēsmąsca. baōiδīmca. yazamaide.</ab>
+                        <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanAcc" xpointer="ShnumanAcc21"/>
+                    </div>
+                    <div n="10" type="Stanza" xml:id="DrYt4.10" corresp="#GY26">
+                        <ab xml:id="DrYt4.10a">staōmi. zbaiiemi. ufiiemi.</ab> 
+                        <ab xml:id="DrYt4.10b">yazamaide. nmāńiiā̊. vīsiiā̊.
+                            zaṇtumā̊. dax́iiumā̊. zaraϑuštrō.təmā̊. </ab>
+                        <ab xml:id="DrYt4.10c">vīspanąmca. ā̊ŋhąm. paōiriianąm. frauuaṣ̌inąm. iδa.
+                            yazamaide. frauuaṣ̌īm. auuąm. yąm. ahurahe. mazdā̊.</ab> 
+                        <ab xml:id="DrYt4.10d">mazištąmca.
+                            vahištąmca. sraēštąmca.</ab> 
+                        <ab xml:id="DrYt4.10e">xraōždištąmca. xraϑβištąmca. hukərəptəmąmca. aṣ̌āt̰. apanō.təmąmca.</ab>
+                        <ab xml:id="DrYt4.10g">aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spəṇtā̊. frauuaṣ̌aiiō.
+                            yazamaide.</ab> 
+                        <ab xml:id="DrYt4.10h">yā̊. aməṣ̌anąm. spəṇtanąm. xšaētanąm. vərəzi.dōiϑranąm.</ab>
+                        <ab xml:id="DrYt4.10i">bərəzatąm. aiβiiāmanąm. taxmanąm. āhūiriianąm.</ab> 
+                        <ab xml:id="DrYt4.10j">yōi. aiϑiiejaŋhō.
+                            aṣ̌auuanō.</ab>
+                        <ab xml:id="DrYt4.10k">paōiriianąm. t̰kaēšanąm. paōiriianąm. sāsnō.gūšąm.</ab>
+                        <ab xml:id="DrYt4.10l">iδa. aṣ̌aōnąm. aṣ̌aōninąmca. ahūmca. daēnąmca. baōδasca. uruuānəmca.
+                            frauuaṣ̌īmca. yazamaide. yōi. aṣ̌āi. vaōnarə.</ab> 
+                        <ab xml:id="DrYt4.10m">gə̄uš. huδā̊ŋhō. uruuanəm.
+                            yazamaide.</ab>
+                        <ab xml:id="DrYt4.10n">yōi. aṣ̌āi. vaōnarə. gaiiehe. marəϑnō. aṣ̌aōnō.
+                            frauuaṣ̌īm. yazamaide.</ab> 
+                        <ab xml:id="DrYt4.10o">zaraϑuštrahe. spitāmahe. iδa. aṣ̌aōnō. aṣ̌īmca.
+                            frauuaṣ̌īmca. yazamaide.</ab> 
+                        <ab xml:id="DrYt4.10p">kauuōiš. vīštāspahe. aṣ̌aōnō. frauuaṣ̌īm.
+                            yazamaide.</ab> 
+                        <ab xml:id="DrYt4.10q">isat̰.vāstrahe. zaraϑuštrōiš. aṣ̌aōnō. frauuaṣ̌īm.
+                            yazamaide.</ab>
+                        <ab xml:id="DrYt4.10r">nabānazdištanąm. iδa. aṣ̌aōnąm. aṣ̌aōninąmca. ahūmca.
+                            daēnąmca. baōδasca. uruuānəmca. frauuaṣ̌īmca. yazamaide. yōi. aṣ̌āi.
+                            vaōnarə.</ab> 
+                        <ab xml:id="DrYt4.10s">mat̰. vīspābiiō. aṣ̌aōnibiiō. frauuaṣ̌ibiiō. yā̊. irīriϑušąm.
+                            aṣ̌aōnąm. yā̊sca. juuaṇtąm. aṣ̌aōnąm. yā̊sca. narąm. azātanąm.
+                            frašō.carəϑrąm. saōš́iiaṇtąm.</ab>
+                        <ab xml:id="DrYt4.10t">iδa. iristanąm. uruuąnō. yazamaide. yā̊. aṣ̌aōnąm.
+                            frauuaṣ̌aiiō.</ab> 
+                        <ab xml:id="DrYt4.10u">vīspanąm. aɱiia. nmāne. nabānazdištanąm. para.iristanąm.
+                            aēϑrapaitinąm. aēϑriianąm. narąm. nāirinąm. iδa. aṣ̌aōnąm. aṣ̌aōninąm.
+                            frauuaṣ̌aiiō. yazamaide.</ab> 
+                        <ab xml:id="DrYt4.10v">vīspanąm. aēϑrapaitinąm. aṣ̌aōnąm.
+                            frauuaṣ̌aiiō. yazamaide. </ab>
+                        <ab xml:id="DrYt4.10w">vīspanąm. aēϑriianąm. aṣ̌aōnąm. frauuaṣ̌aiiō.
+                            yazamaide.</ab> 
+                        <ab xml:id="DrYt4.10x">vīspanąm. narąm. aṣ̌aōnąm. frauuaṣ̌aiiō. yazamaide.</ab> 
+                        <ab xml:id="DrYt4.10y">vīspanąm. nāirinąm. aṣ̌aōninąm. frauuaṣ̌aiiō. yazamaide.</ab>
+                        <ab xml:id="DrYt4.10z">vīspanąm. apərənāiiūkanąm. daɱō.kərətanąm. aṣ̌aōnąm.
+                            frauuaṣ̌aiiō. yazamaide.</ab> 
+                        <ab xml:id="DrYt4.10aa">ādax́iiunąmca. aṣ̌aōnąm. frauuaṣ̌aiiō.
+                            yazamaide.</ab> 
+                        <ab xml:id="DrYt4.10ab">uzdax́iiunąmca. aṣ̌aōnąm. frauuaṣ̌aiiō. yazamaide.</ab>
+                        <ab xml:id="DrYt4.10ac">narąmca. aṣ̌aōnąm. frauuaṣ̌aiiō. yazamaide.</ab>
+                        <ab xml:id="DrYt4.10ad">nāirinąmca. aṣ̌aōninąm. frauuaṣ̌aiiō. yazamaide.</ab> 
+                        <ab xml:id="DrYt4.10ae">vīspā̊. aṣ̌āunąm.
+                            vaŋᵛhīš. sūrā̊. spəṇtā̊. frauuaṣ̌aiiō. yazamaide. yā̊. haca. gaiiāt̰.
+                            marəϑnat̰. ā. saōš́iiaṇtāt̰. vərəϑraγnat̰.</ab>
+                        <ab xml:id="DrYt4.10af">vīspā̊. frauuaṣ̌aiiō. aṣ̌āunąm. yazamaide.</ab>
+                    </div>
+                    <div n="11" type="Stanza" xml:id="DrYt4.11" corresp="#GY6.19">
+                        <ab xml:id="DrYt4.11a"> aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spəṇtā̊. frauuaṣ̌aiiō.
+                            yazamaide.</ab>
+                    </div>
+                    <div n="12" type="Stanza" xml:id="DrYt4.12" corresp="#GY6.20">
+                        <ab xml:id="DrYt4.12a"> vīspe. aṣ̌auuanō. yazata. yazamaide.</ab>
+                        <include href="/db/apps/cab_db/cab_rituals/blocks/RatuPaitiRatu" xpointer="RatuPaitiRatu2"/>
+                    </div>
+                    <div n="13" type="Stanza" xml:id="DrYt4.13" corresp="#GY6.21">
+                        <include href="/db/apps/cab_db/cab_rituals/prayers/YeH" xpointer="YeH"/>
+                    </div>
+                </div>
+                <div n="5" type="Chapter" xml:id="DrYt5">
+                    <div n="1" type="Stanza" xml:id="DrYt5.1" corresp="#GY7.1">
+                        <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+                        <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+                        <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+                        <ab xml:id="DrYt5.1a">aṣ̌aiia. daδąmi. xᵛarəϑəm. miiazdəm. hauruuata.
+                            amərətāta. gāuš. hudā̊. āpe. uruuara. aēsmi. baōiδi.
+                            xšnūmaine. ahurahe. mazdā̊. aməṣ̌anąm. spəṇtanąm. sraōšahe. aṣ̌iiehe.
+                            āϑrō. ahurahe. mazdā̊. puϑra. </ab>
+                    </div>
+                    <div n="2" type="Stanza" xml:id="DrYt5.2" corresp="#GY7.5">
+                        <ab xml:id="DrYt5.2a">aṣ̌aiia. daδąmi. asńiiaēibiiō. aṣ̌ahe. ratubiiō.</ab>
+                        <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.1"/>
+                        <ab xml:id="DrYt5.2b">āiiese. yešti. </ab>
+                        <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.2"/>
+                        <ab xml:id="DrYt5.2c">āiiese. yešti. </ab>
+                        <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.3"/>
+                    </div>
+                    <div n="3" type="Stanza" xml:id="DrYt5.3" corresp="#GY7.13">
+                        <ab xml:id="DrYt5.3a"> aṣ̌aiia. daδąmi. </ab>
+                        <include href="/db/apps/cab_db/cab_rituals/blocks/RozGen" xpointer="RozGen1"/>
+                        <ab xml:id="DrYt5.3b">aṣ̌aiia. daδąmi. </ab>
+                        <include href="/db/apps/cab_db/cab_rituals/blocks/MahGen" xpointer="MahGen1"/>
+                    </div>
+                    <div n="4" type="Stanza" xml:id="DrYt5.4" corresp="#GY7.14">
+                        <ab xml:id="DrYt5.4a"> aṣ̌aiia. daδąmi. tauua. āϑrō. ahurahe. mazdā̊. puϑra.
+                            mat̰. vīspaēibiiō. ātərəbiiō.</ab>
+                        <ab xml:id="DrYt5.4b">aṣ̌aiia. daδąmi. aiβiiō. vaŋᵛhībiiō. vīspanąmca. apąm.
+                            mazdaδātanąm. vīspanąmca. uruuaranąm. mazdaδātanąm.</ab>
+                    </div>
+                    <div n="5" type="Stanza" xml:id="DrYt5.5" corresp="#GY7.15">
+                        <ab xml:id="DrYt5.5a"> aṣ̌aiia. daδąmi. mąϑrahe. spəṇtahe. aṣ̌aōne.
+                            vərəziiaŋᵛhahe. dātahe. vīdaēuuahe. dātahe. zaraϑuštrōiš. darəγaiiā̊.
+                            upaiianaiiā̊. daēnaiiā̊. vaŋhuiiā̊. māzdaiiasnōiš.</ab>
+                    </div>
+                    <div n="6" type="Stanza" xml:id="DrYt5.6" corresp="#GY7.16">
+                        <ab xml:id="DrYt5.6a"> aṣ̌aiia. daδąmi. garōiš. ušidarənahe. mazdaδātahe.
+                            aṣ̌axᵛāϑrahe. vīspaēšąmca. gairinąm. aṣ̌axᵛāϑranąm. pouru.xᵛāϑraṇam.
+                            mazdaδātanąm. kāuuaiieheca. xᵛarənaŋhō. mazdaδātahe. axᵛarətaheca.
+                            xᵛarənaŋhō. mazdaδātahe. </ab>
+                        <ab xml:id="DrYt5.6b">aṣ̌aiia. daδąmi. aṣ̌ōiš. vaŋhuiiā̊. cistōiš.
+                            vaŋhuiiā̊. ərəϑə̄. vaŋhuiiā̊. rasąstātō. vaŋhuiiā̊. xᵛarənaŋhō.
+                            sauuaŋhō. mazdaδātahe.</ab>
+                    </div>
+                    <div n="7" type="Stanza" xml:id="DrYt5.7" corresp="#GY7.17">
+                        <ab xml:id="DrYt5.7a"> aṣ̌aiia. daδąmi. daɱaiiā̊. vaŋhuiiā̊. āfritōiš.
+                            daɱaheca. narš. aṣ̌aōnō. uγraheca. taxmahe. dāmōiš. upamanahe.
+                            yazatahe.</ab>
+                    </div>
+                    <div n="8" type="Stanza" xml:id="DrYt5.8" corresp="#GY7.18">
+                        <ab xml:id="DrYt5.8a"> aṣ̌aiia. daδąmi. ā̊ŋhąm. asaŋhąmca. šōiϑranąmca.
+                            gaōiiaōitinąmca. maēϑananąmca. auuō.xᵛarənanąmca. apąmca. zəmąmca.
+                            uruuaranąmca. aŋ́hā̊sca. zəmō. auuaŋ́heca. ašnō. vātaheca. aṣ̌aōnō.
+                            strąm. mā̊ŋhō. hūrō. anaγranąm. raōcaŋhąm. xᵛaδātanąm. vīspanąmca.
+                            spəṇtahe. maińiiə̄uš. dāmanąm. aṣ̌aōnąm. aṣ̌aōninąmca. aṣ̌ahe.
+                            raϑβąm.</ab>
+                    </div>
+                    <div n="9" type="Stanza" xml:id="DrYt5.9" corresp="#GY7.20">
+                        <ab xml:id="DrYt5.9a">aṣ̌aiia. daδąmi. xᵛarəϑəm. miiazdəm. hauruuata. amərətāta. gāuš.
+                            hudā̊. āpe. uruuara. aēsmi. baōiδi. xšnūmaine.</ab>
+                        <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen21"/>
+                        <ab xml:id="DrYt5.9b">aōxtō.nāmanō. yazatahe.</ab>
+                    </div>
+                    <div n="10" type="Stanza" xml:id="DrYt5.10" corresp="#GY7.20">
+                        <ab xml:id="DrYt5.10a">aṣ̌aiia. daδąmi. xᵛarəϑəm. miiazdəm. hauruuata. amərətāta. gāuš.
+                            hudā̊. āpe. uruuara. aēsmi. baōiδi. xšnūmaine.</ab>
+                        <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen21"/>
+                        <ab xml:id="DrYt5.10b">aōxtō.nāmanō. yazatahe.</ab>
+                    </div>
+                    <div n="11" type="Stanza" xml:id="DrYt5.11" corresp=" #GY23.1 #GY23.2 #GY23.3">
+                        <ab xml:id="DrYt5.11a">aṣ̌aiia. daδąmi. auuaŋhā̊. frauuaṣ̌aiiō. yā̊. paōiriia.
+                            ā̊ŋharə. nmānanąmca. vīspąmca. zaṇtunąmca. dax́iiunąmca. yā̊. asmanəm. vīδāraiiən. yā̊. āpəm. vīδaraiiən. yā̊.
+                            ząm. vīδāraiiən. yā̊. gąm. vīδāraiiən. yā̊. barəϑrišuua. vīδāraiiən.
+                            paiti.vərəte. apara.iriϑəṇtō.</ab>
+                        <ab xml:id="DrYt5.11b">aṣ̌aiia. daδąmi. āfrauuaṣ̌i. ahurahe. mazdā̊.
+                            aməṣ̌anąm. spəṇtanąm. mat̰. vīspābiiō. aṣ̌aōnibiiō. frauuaṣ̌ibiiō. yā̊.
+                            maińiiauuanąm. yazatanąm. </ab>
+                        <ab xml:id="DrYt5.11c">aṣ̌aiia. daδąmi. āfrauuaṣ̌i. gaiiehe. marəϑnō.
+                            zaraϑuštrahe. spitāmahe. kauuōiš. vīštāspahe. isat̰.vāstrahe.
+                            zaraϑuštrōiš. mat̰. vīspābiiō. aṣ̌aōnibiiō. frauuaṣ̌ibiiō. yā̊.
+                            paōiriianąm. t̰kaēšanąm.</ab>
+                        <ab xml:id="DrYt5.11d">aṣ̌aiia. daδąmi. vīspaiia. aṣ̌auuane. frauuaṣ̌e. ke.
+                            asti. kuuacit̰. aŋhā̊. zəmō. para.iristi. daɱa. nāirike. apərənāiiūke.
+                            kainike. vāstriiāuuarəzi. upašaēti. haca. aɱāt̰. nmānāt̰. iziieiṇti.
+                            yā̊. paitišmarəṇti. yā̊. aiβināsəṇti. vaŋhūš. yasnąsca. vaɱąsca.</ab>
+                    </div>
+                    <div n="12" type="Stanza" xml:id="DrYt5.12" corresp="#GY7.22">
+                        <ab xml:id="DrYt5.12a"> aṣ̌aiia. daδąmi. aṣ̌āunąm. frauuaṣ̌inąm. uγranąm.
+                            aiβiϑūranąm. paoiriiō.tkaēšanąm. frauuaṣ̌inąm. nabānazdištanąm.
+                            frauuaṣ̌inąm.</ab>
+                    </div>
+                    <div n="13" type="Stanza" xml:id="DrYt5.13" corresp="#GY7.23">
+                        <ab xml:id="DrYt5.13b">aṣ̌aiia. daδąmi. vīspaēibiiō. vaŋhuδābiiō.
+                            yazataēibiiō. maińiiaōibiiascā. gaēϑiiaēibiiascā. yōi. həṇti.
+                            yasńiiāca. vaɱiiāca. aṣ̌āt̰. haca. yat̰. vahištāt̰. </ab>
+                    </div>
+                    <div n="14" type="Stanza" xml:id="DrYt5.14" corresp="#GY7.24">
+                        <ab xml:id="DrYt5.14a">aṣ̌aiia.nō. paiti.jamiiāt̰.</ab> 
+                        <ab xml:id="DrYt5.14b">yehiiā. sauuā. išā̊ṇtī.
+                            rādaŋhō. </ab>
+                        <ab xml:id="DrYt5.14c"> ϑβōi. staōtarascā. mąϑranascā. ahura.mazdā. </ab>
+                        <ab xml:id="DrYt5.14d"> aōgəmadaēcā. usmahicā. vīsāmadaēcā. </ab>
+                        <ab xml:id="DrYt5.14e"> hiiat̰. mīždəm. mauuaēϑəm. fradadāϑā. daēnābiiō.
+                            mazdā. ahurā. </ab>
+                    </div>
+                    <div n="15" type="Stanza" xml:id="DrYt5.15" corresp="#GY7.24e">
+                        <ab xml:id="DrYt5.15a"> ϑβōi. staōtarascā. mąϑranascā. ahura.mazdā.
+                            aōgəmadaēcā. usmahicā. vīsāmadaēcā. hiiat̰. mīždəm. mauuaēϑəm.
+                            fradadāϑā. daēnābiiō. mazdā. ahurā.</ab>
+                    </div>
+                    <div n="16" type="Stanza" xml:id="DrYt5.16" corresp="#GY7.25">
+                        <ab xml:id="DrYt5.16a"> ahiiā. huuō. nə̄. dāidī. aɱāicā. ahuiiē.
+                            manax́iiāica. </ab>
+                        <ab xml:id="DrYt5.16b">tat̰. ahiiā. yā. tat̰. upā.jamiiāmā.</ab> 
+                        <ab xml:id="DrYt5.16c">tauuācā. sarəm.
+                            aṣ̌ax́iiācā. vīspāi. yauuē.</ab>
+                    </div>
+                    <div n="17" type="Stanza" xml:id="DrYt5.17" corresp="#GY7.25">
+                        <include href="/db/apps/cab_db/cab_rituals/prayers/YAV" xpointer="YAV"/>
+                        <include href="/db/apps/cab_db/cab_rituals/prayers/YAV" xpointer="YAV"/>
+                    </div>
+                    <div n="18" type="Stanza" xml:id="DrYt5.18" corresp="#GY7.26">
+                        <ab xml:id="DrYt5.18a"> ahunəm. vairīm. yazamaide.</ab> 
+                        <ab xml:id="DrYt5.18b">aršuxδəm. vācim.
+                            yazamaide. </ab>
+                        <ab xml:id="DrYt5.18c">daɱąm. vaŋᵛhīm. āfritīm. yazamaide.</ab> 
+                        <ab xml:id="DrYt5.18d">uγrəm. taxməm.
+                            dāmōiš. upamanəm. yazatəm. yazamaide.</ab>
+                        <ab xml:id="DrYt5.18e">hauruuata. amərətāta. yazamaide.</ab> 
+                        <ab xml:id="DrYt5.18f">gāuš. hudā̊.
+                            yazamaide. </ab>
+                        <ab xml:id="DrYt5.18g">apəmca. uruuarąmca. aēsmąsca. baōiδīmca. yazamaide. </ab>
+                        <ab xml:id="DrYt5.18h">frasasti. daɱaiiā̊. vaŋhuiiā̊. āfritōiš.</ab>
+                    </div>
+                    <div n="19" type="Stanza" xml:id="DrYt5.19" corresp="#GY7.27">
+                        <include href="/db/apps/cab_db/cab_rituals/prayers/YeH" xpointer="YeH"/>
+                    </div>
+                    <div n="20" type="Stanza" xml:id="DrYt5.20" corresp="#GY7.28">
+                        <include href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr1"/>
+                    </div>
+                </div>
+                <div n="6" type="Chapter" xml:id="DrYt6">
+                    <div n="1" type="Stanza" xml:id="DrYt6.1" corresp="#GY8.1">
+                        <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+                        <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+                        <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+                        <ab xml:id="DrYt6.1a">aṣ̌aiia. daδąmi. xᵛarəϑəm. miiazdəm. hauruuata. amərətāta. gāuš. hudā̊. apə̄. uruuara.</ab>
+                        <ab xml:id="DrYt6.1b">aēsma. baōiδī. frasasti. ahurahe. mazdā̊. ahunahe. vairiiehe. aršuxδahe. vāxš.</ab>
+                        <ab xml:id="DrYt6.1c">daɱaiiā̊. vaŋhuiiā̊. āfritōiš. uγrāi. dāmōiš. upamanāi. </ab>
+                        <ab xml:id="DrYt6.1d">haōmaheca. mąϑraheca. aṣ̌aōnaēca. zaraϑuštrahe. aṣ̌aiia.nō. paiti. jamiiāt̰.</ab>
+                    </div>
+                    <div n="2" type="Stanza" xml:id="DrYt6.2" corresp="#GY8.3">
+                        <ab xml:id="DrYt6.2a"> aməṣ̌a. spəṇta. daēne. māzdaiiasne. vaŋhauuasca.
+                            vaŋᵛhīšca. zaōϑrā̊sca.</ab>
+                        <ab xml:id="DrYt6.2b">yō. aēšuua. mazdaiiasnaēšuua. mazdaiiasnō. aōjanō.
+                            aṣ̌ahe. rāϑma. jīštaiiamnō. </ab>
+                        <ab xml:id="DrYt6.2c">yāϑβa. gaēϑā̊. aṣ̌ahe. mərəγəṇte. </ab>
+                        <ab xml:id="DrYt6.2d"> auui. tū. dim. disiiata. yā̊. apasca. uruuarā̊.</ab>
+                    </div>
+                    <div n="3" type="Stanza" xml:id="DrYt6.3" corresp="#GY8.4a">
+                        <ab xml:id="DrYt6.3a"> yasca. aētaēšąm. mazdaiiasnanąm. pərənāiiunąm.
+                            aiβi.zūzuiianąm. imą. vacō. nōit̰. vīsaite. framrūite. aētąm. ā.
+                            yātumanahe. jasaiti.</ab>
+                    </div>
+                    <div n="4" type="Stanza" xml:id="DrYt6.4" corresp="#GY8.4">
+                        <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+                        <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+                        <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+                        <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+                        <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+                        <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+                        <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+                        <include href="/db/apps/cab_db/cab_rituals/prayers/YAV" xpointer="YAV"/>
+                        <include href="/db/apps/cab_db/cab_rituals/prayers/YAV" xpointer="YAV"/>
+                    </div>
+                    <div n="5" type="Stanza" xml:id="DrYt6.5" corresp="#GY8.5">
+                        <ab xml:id="DrYt6.5a">vasasca. tū. ahura.mazda. uštāca. xšaēša. hauuanąm.
+                            dāmanąm.</ab>
+                        <ab xml:id="DrYt6.5b">vasō. āpō. vasō. uruuarā̊. vasō. vīspa. vohū.
+                            aṣ̌a.ciϑra.</ab>
+                        <ab xml:id="DrYt6.5c">xšaiiamnəm. aṣ̌auuanəm. dāiiata. axšaiiamnəm.
+                            druuaṇtəm.</ab>
+                    </div>
+                    <div n="6" type="Stanza" xml:id="DrYt6.6" corresp="#GY8.6">
+                        <ab xml:id="DrYt6.6a">vasō.xšaϑrō. hiiāt̰. aṣ̌auua. auuasō.xšaϑrō. hiiāt̰.
+                            druuā̊.</ab>
+                        <ab xml:id="DrYt6.6b">gatō. hamistō. nižbərətō. haca. spəṇtahe. maińiiə̄uš.
+                            dāmabiiō. varatō. auuasō.xšaϑrō.</ab>
+                    </div>
+                    <div n="7" type="Stanza" xml:id="DrYt6.7" corresp="#GY8.7">
+                        <ab xml:id="DrYt6.7a">haxšaiia. azəmcit̰. yō. zaraϑuštrō. fratəmą.
+                            nmānanąmca. vīsąmca. zaṇtunąmca. dax́iiunąmca.</ab>
+                        <ab xml:id="DrYt6.7b">aŋ́hā̊. daēnaiiā̊. anumataiiaēca. anuxtaiiaēca.
+                            anuuarštaiiaēca. yā. āhūiriš. zaraϑuštriš.</ab>
+                    </div>
+                    <div n="8" type="Stanza" xml:id="DrYt6.8" corresp="#GY8.8">
+                        <ab xml:id="DrYt6.8a">rauuasca. xᵛāϑrəmca. āfrīnāmi. vīspaiiā̊. aṣ̌aōnō.
+                            stōiš. </ab>
+                        <ab xml:id="DrYt6.8b">ązasca. dužāϑrəmca. āfrīnāmi. vīspaiiā̊. druuatō.
+                            stōiš.</ab>
+                    </div>
+                </div>
+                <div n="7" type="Chapter" xml:id="DrYt7">
+                    <div n="1" type="Stanza" xml:id="DrYt7.1">
+                        <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+                        <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+                        <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+                        <include href="/db/apps/cab_db/cab_rituals/prayers/YAV" xpointer="YAV"/>
+                        <include href="/db/apps/cab_db/cab_rituals/prayers/YAV" xpointer="YAV"/>
+                    </div>
+                    <div n="2" type="Stanza" xml:id="DrYt7.2">
+                        <ab xml:id="DrYt7.2a">yasnəmca. vaɱəmca. aōjasca. zauuarəca. āfrīnāmi.</ab>
+                        <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen21"/>
+                    </div>
+                    <div n="3" type="Stanza" xml:id="DrYt7.3">
+                        <ab xml:id="DrYt7.3a">yasnəmca. vaɱəmca. aōjasca. zauuarəca. āfrīnāmi.</ab>
+                        <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen21"/>
+                    </div>
+                    <div n="4" type="Stanza" xml:id="DrYt7.4" corresp="#GY72.9">
+                        <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+                        <ab xml:id="DrYt7.4a">aɱāi. raēšca. xᵛarənasca. aɱāi. tanuuō. druuatātəm. </ab>
+                        <ab xml:id="DrYt7.4b">aɱāi. tanuuō. vazduuarə. aɱāi. tanuuō. vərəϑrəm. </ab>
+                        <ab xml:id="DrYt7.4c">aɱāi. īštīm. pouruš.xᵛāϑrąm. </ab>
+                        <ab xml:id="DrYt7.4d">aɱāi. āsnąmcit̰. frazaṇtīm. aɱāi. darəγąm.
+                            darəγō.jītīm. aɱāi. vahištəm. ahūm. aṣ̌aōnąm. raōcaŋhəm.
+                            vīspō.xᵛāϑrəm.</ab>
+                        <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+                        <ab xml:id="DrYt7.4e">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+                        <ab xml:id="DrYt7.4f">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab> 
+                        <ab xml:id="DrYt7.4g">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+                        <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+                        <ab xml:id="DrYt7.4h">jasa.mē. auuaŋhe. mazda.</ab> 
+                        <ab xml:id="DrYt7.4i">jasa.mē. auuaŋhe. mazda.</ab>
+                        <ab xml:id="DrYt7.4j">jasa.mē. auuaŋhe. mazda.</ab>
+                    </div>
+                    <div n="5" type="Stanza" xml:id="DrYt7.5" corresp="#GY72.10">
+                        <ab xml:id="DrYt7.5a">amahe. hutāštahe. huraōδahe. vərəϑraγnahe.
+                            ahuraδātahe. vanaiṇtiiā̊sca. uparatātō.</ab>
+                        <ab xml:id="DrYt7.5b">rāmanasca. xᵛāstrahe. vaiiaōš. uparō.kairiiehe.
+                            taraδātō. ańiiāiš. dāmąn. </ab>
+                        <ab xml:id="DrYt7.5c">aētat̰. tē. vaiiō. yat̰. tē. asti. spəṇtō.maińiiaōm.
+                            ϑβāṣ̌ahe. xᵛaδātahe. zruuānahe. akaranahe. zruuānahe. darəγō.xᵛaδātahe. </ab>
+                        <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+                    </div>
+                </div>
+            </div>
+</div>

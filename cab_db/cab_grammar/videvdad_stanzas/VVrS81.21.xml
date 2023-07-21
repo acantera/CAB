@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS81.21" status="created">  <!-- created, approved, updated--> <header><creators><creator>Porro</creator><creator>Cantera</creator></creators><created>1 June 2019</created></header><div type="Stanza" sameAs="" xml:id="VVrS81.22" shnumandep="1">
+   <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS35.31z"/>
+   <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS35.31aa"/>
+   <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS35.31ab"/>
+</div><Apparatus><Critical/><Commentary/></Apparatus><Parallels/><Ritual/><translation><include type="CAB" corresp="CABTrVVrS81.21"/></translation></text>

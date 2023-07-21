@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL2.1.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="1" xml:id="ParagnaLL2.1.1">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL2.1.1 Var. a (Mss. K7, RJ, RKŠ):</ab>
+            <ab class="ab_indent">
+                ke barsom bandand se tā yā panǧ tā yā hafta tā barsom va aivyanghan dar dast gereftan čenān konand ke dast-e čab az barsom ǧodā nabāšad maḥalli ke avestā guyand aivanghan 
+                dar tak-e barsom bastan va avestā ḫᵛāndan <em>xšnaoϑra ahurahe mazdā̊ aṣ̌əm vohū</em> se fravarāne gāh ānče bid <em>ahurahe mazdā̊ raēuuatō xᵛarənaŋᵛhatō xšnaoϑra</em> tā
+                <em>marotū</em></ab>  
+            <ab class="ab_indent">
+                "The ones who tie the <em>barsom</em>, they should take three, five, seven branches of the <em>barsom</em> and the <em>aivyanghan</em> in the right hand and make so 
+                that the left hand does not release the <em>barsom</em>. At the place where they recite the <em>avestā</em>, he should tie the <em>aivyanghan</em> at the bottom of the 
+                <em>barsom</em> and recite the following <em>avestā</em>: <em>xšnaoϑra ahurahe mazdā̊</em>, three <em>Aṣ̌əm Vohū</em>s, the <em>Frauuarāne</em> with the corresponding
+                <em>gāh</em> and (the <em>šnūman</em>) <em>ahurahe mazdā̊ raēuuatō xᵛarənaŋᵛhatō xšanoθra</em> until <em>mraotū</em>."</ab> 
+            
+            <ab>ParagnaLL.2.1.1 Var. b (Mss. K36, 31, 89, 19):</ab>
+            <ab class="ab_indent">
+                ke barsom bandid <em>xšnaōθra ahurahe mazdā̊ aṣ̌əm vohū</em> se <em>frauuarāne</em> gāh ānke bid <em>ahurahe mazdā̊ raēuuatō xᵛarənaŋᵛhatō xšnaoϑra yas. v. x. f. yaθā 
+                    ahū vairiiō zaōtā</em> tā sar goftan bon-e barsom bastan</ab>  
+            <ab class="ab_indent">
+                "When you tie the <em>barsom</em>, one should recite <em>xšnaoϑra ahurahe mazdā̊</em>, three <em>Aṣ̌əm Vohūs</em>, the <em>Frauuarāne</em> with the corresponding
+                <em>gāh</em> and (the <em>šnūman</em>) <em>ahurahe mazdā̊ raēuuatō xᵛarənaŋᵛhatō xšanoθra y. v. x. f.</em> and <em>yaθā ahū vairiiō zaōtā</em> until the end. He should
+                tie the bottom of the <em>barsom</em>."</ab>
+            
+            <ab>ParagnaLL2.1.1 Var. c (Ms. RKS):</ab>
+            <ab class="ab_indent">
+                ke barsam bandan se tā yā panǧ tā yā haft tā barsom avanghen dar dast gereftan cenān konand ke dast-e cap az barsomdān bāšad maḥalli ke avestā guyad avanghan dar tak-e barsom 
+                bastan avestā ḫᵛāndan <em>xšnaōθra ahurahe mazdā̊ aṣ̌əm vohū frauuarāne</em> gāh ānce bid <em>ahurahe mazdā̊ raēuuatō x́arənaŋhatō xšnaoϑra</em> OD <em>marotū</em>.</ab>
+            <ab class="ab_indent">
+                "When he should tie the <em>barsom</em>, he should take in the hand, three, five or seven <em>barsom</em>-twigs so that they are to the left side of the <em>barsomdān</em>.
+                At the place where they recite the <em>avestā</em>, he should tie the <em>avanghan</em> at the bottom of the <em>barsom</em> and recite the following <em>avestā</em>: 
+                <em>xšnaoϑra ahurahe mazdā̊</em>, three <em>Aṣ̌əm Vohū</em>s, the <em>Frauuarāne</em> with the corresponding <em>gāh</em> and (the <em>šnūman</em>) <em>
+                    ahurahe mazdā̊ raēuuatō xᵛarənaŋᵛhatō xšanoθra</em> until <em>mraotū</em>."</ab>
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+            <ab>N53.41</ab>
+            <ab class="ab_indent">
+                ka andar yazišn-ē barsom cīnēd ud bandēd <em>aṣ̌əm vohū</em> sē <em>frauuarānē</em> čē gāh dārēd <em>ahurahe mazdā̊ raēuuatō xᵛarənaŋhatō xšnaōθra</em> tā 
+                <em>frasastaiiaēca</em> u-š wāz az zōt frāz gīrišn ud abāz ō abestāg pad rāspīgīh estišn.</ab> 
+            <ab class="ab_indent">
+                "If he cuts and ties the <em>barsom</em> for the permance of a <em>yazišn</em>, (then he should recite) three <em>Aṣ̌əm Vohū</em>s and the <em>Frauurāne</em> with
+                the corresponding <em>gāh</em> and (the <em>šnūman</em>) <em>ahurahe mazdā̊ raēuuatō xᵛarənaŋhatō xšnaōθra</em> until <em>frasastaiiaēca</em>."</ab>
+        </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL2.1.1"/>
+    </translation>
+</text>

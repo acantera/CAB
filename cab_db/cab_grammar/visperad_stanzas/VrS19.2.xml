@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS19.2" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS19.2" quote="Y35.5">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS9.2"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">rāspīg: vid. VrS19.1; Anklesaria.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>VrS19.2a <em>bā.at̰</em>] cod. vv.ll. (vid. Apparatus), Geldner <em>bāt̰</em>; vid. Commentary Y35.5.</ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab>VrS19.2a-c <em>huxšaϑrō.təmāi</em> ... <em>vahištāi</em>]  MN <em>huxšaϑrōtəmāi</em> ... <em>aṣ̌āicā vahištāi</em> III bʾl gwptn' 2040; <em>huxšaϑrō.təmāi bāt̰ xšaϑrəm</em> OD sl <em>aṣ̌āicā vahištāi</em> III bʾl gwptn' 2106.</ab>
+         <ab>VrS19.2a <em>huxšaϑrō.təmāi bā.at̰</em>] <em>huxšaϑrōtəmāi bāt̰ xšaϑrəm</em> OD sl III  bʾl gwptn' 2000, 2065; <em>huxšaϑrōtəmāi</em> III bʾl gwptn' 2007, 2010, 2030, 2109; <em>huxšaϑrōtəmāi</em> III bʾl 2070, 2101.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS19.2 qutoes Y35.5; = VrS65.19, VrS82.37, VrS89.26.</ab>
+      <ab><em>huxšaϑrō.təmāi bā.at̰ xšaϑrəm aɱat̰ hiiat̰ aibī dadəmahicā cīšmahicā huuąmahicā hiiat̰ mazdāi ahurāi aṣ̌āicā vahištāi</em> ~ VrS82.38 <em>huxšaϑrō.təmahe xšaϑrəm yazamaide daϑušō yat̰ ahurahe mazdā̊</em>; 
+         ~ AGahambar2.4 <em>huxšaϑrō.təmāicit̰ at̰ xšaϑrəm cišiiāt̰ yat̰ ahurāi mazdāi</em>.</ab>
+      <ab><em>dadəmahicā cīšmahicā huuąmahicā hiiat̰ mazdāi ahurāi aṣ̌āicā vahištāi</em> ~ Y13.5, Y39.4, VrS65.48, VS10.4 <em>yā vōhū aϑā tōi dadəmahī aϑā cīšmahī ... ϑβā mazdā ahurā</em>; 
+         ~ Y12.14, VrS11.28, VrS32.3 <em>ahurāi mazdāi vīspā vohū cinaɱi</em>; ~ Y12.6 <em>ahurāi mazdāi vaŋhauuē vohumaitē vīspā vohū cinaɱī</em></ab>
+   </Parallels>
+   <Ritual>
+      <ModernPractice id="ritualModernPractice">
+         <ab><ab><bibl>Redard and Daruwalla, 2021</bibl>, p. 185:</ab>
+            <ab class="ab_indent">"The assistant priest, after standing near the chief priest (and) facing the fire, recites."</ab></ab>
+      </ModernPractice>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS19.2"/>
+   </translation>
+</text>

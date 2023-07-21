@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS2.16" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VrS2.16">
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS2.8"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. VrS2.4.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab>VrS2.16b <em>aṣ̌a.xᵛāϑrā̊</em>] Kellens. Geldner <em>aṣ̌axᵛāϑrā̊</em>.</ab>
+            <ab>VrS2.16b <em>pouru.xᵛāϑrā</em>] Kellens. Geldner <em>pouruxᵛāϑrā̊</em>.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels>
+        <ab>VrS2.16 ≈ VrS1.14, VrS17.15, VrS25.16, VrS27.30, VrS77.15, VrS90.14.</ab>
+    <ab><em>garaiiō aṣ̌a.xᵛāϑrā̊ pouru.xᵛāϑrā̊ mazdaδāta</em> ≈ Y1.15, Y3.17, Y4.20, Y7.18, Y22.18, Y24.25, Y66.15, VrS78.27, VrS79.20, VrS82.15 <em>vīspaēšąmca gairinąm aṣ̌a.xᵛāϑranąm pouru.xᵛāϑranąm mazdaδātanąm</em>; ~ Y2.15, Y6.14, Y17.15, Y59.15, VrS77.25, VrS81.14 <em>vīspā̊ garaiiō aṣ̌a.xᵛāϑrā̊ pouru.xᵛāϑrā̊ mazdaδāta</em>; Y71.10 <em>vīspā̊sca garaiiō aṣ̌a.xᵛāϑrā̊ yazamaide</em>; ~ V19.28 <em>gairinąm aṣ̌axᵛāϑranąm āsənaōiti</em>; ~ VrS78.9 <em>pouru xᵛāϑrəm</em>.</ab>
+    <ab><em>vərəϑraγnahe ahuraδātahe vanaiṇtiiā̊sca uparatātō</em>; = VrS2.16, VrS17.15, VrS77.15; ~ VrS25.16, VrS27.30, VrS90.14 <em>vərəϑraγnaheca ahuraδātahe vanaiṇtiiā̊sca uparatātō</em> ~ Y72.19 <em>amaheca hutāštahe huraōδahe vərəϑraγnaheca ahuraδātahe vanaiṇtiiā̊sca uparatātō</em> = in <em>xšnūman wahrom</em>.</ab>
+</Parallels>
+<Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrVrS2.16"/>
+        <include type="W" corresp="WTrVr2.8"/>
+        <include type="D" corresp="DTrVr2.8"/>
+        <include type="K" corresp="KTrVr2.8"/>
+    </translation>
+</text>

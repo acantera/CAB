@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y2.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y2.1" headerPointer="Head2">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.1a"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.1b"/>          
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.1c"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.1d"/>
+                <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.1e"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.1f"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.1g"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.1h"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.1i"/>
+               <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y2.1NerangTransc.a"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.1j"/>
+            </div>
+    <Apparatus><Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: vid. Y2.0.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+        <Critical/>
+        <Commentary>
+            <ab>Y2.1f <em>barəsma haδa.zaōϑrəm.</em>] Kellens, cod.; Geldner <em>barəsma haδa.zaōϑra</em>. Vid. <bibl>Kellens, 1996</bibl>, p. 48.</ab>
+            <ab>Y2.1i <em>haδa.zaōϑrəm. imat̰. barəsma</em>] Geldner, cod.; <bibl>Kellens, 2006</bibl>, p. 30 del.</ab>
+            <ab>Y2.1j <em>aṣ̌aiia frastarətəm āiiese yešti</em>] <em>aṣ̌aiia frastarətəm aṣ̌auuanəm aṣ̌ahe ratūm āiiese yešti</em> in Indian liturgical tradition: mss. 234, 235 and liturgical Vidēvdād.</ab>
+            <ab>On grammatical problems in Y2.1 <bibl>Kellens, 1996</bibl>, pp. 48-49.</ab>
+        </Commentary>
+        <RecitationInstructions>
+            <ab>Y2.1] <em>zaōϑra āiiese yešti imat̰ barəsma</em> blswm QDM mʾhlwk' HNHTWN-tn' <em>haδa.zaōϑrəm</em> OD <em>miϑrəm</em> (Y2.11). Abbreviation mark after <em>zaōϑra āiiese yešti</em> (Y2.1a) likely missing, until <em>imat̰ barəsma</em> (Y2.1j).</ab>
+        </RecitationInstructions>
+    </Apparatus>
+    <Parallels>
+    <ab><em>barəsma haδa.zaōϑrəm</em> ~ Y3.1, Y22.2, VrS78.13 <em>barəsmana paiti.bərəta haδa.zaōϑra</em>.</ab>
+    <ab><em>imat̰ barəsma haδa.zaōϑrəm haδa.aiβiiā̊ŋhanəm aṣ̌aiia frastarətəm</em> = Y3.4, Y7.5, Y59.29; 
+        ~ Y71.24, VrS14.4, VrS18.5, VrS30.11, VrS36.5, VrS41.6, VrS51.8, VrS57.8, VrS62.8, VrS64.9, VrS65.82, VrS69.8, VrS71.8, VrS87.12, VrS93.11 <em>haδa.zaōϑrəm haδa.aiβiiā̊ŋhanəm imat̰ barəsma aṣ̌aiia frastarətəm</em>;
+        ~ VrS27.2, VrS27.7 <em>imat̰ barəsma aṣ̌aiia frastarətəm</em>; ~ Y24.1, Y24.6 <em>barəsmaca aṣ̌aiia frastarətəm</em>; ~ Y62.9 <em>barəsma vā aṣ̌aiia frastarətəm</em>.</ab>
+    </Parallels>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Y2.1 (mss. 5, 6, 15, 40, 60, 82, 400 (mg.), 2007, 2010, 2030, 2040, 2101, 2106, 2109, 4000a, 4010, 4020, 4025, 4040, 4050, 4055, 4075, 4161, 5020, 4030a):</ab>
+            <ab class="ab_indent">
+                ēn gyāg barsom ō ī māhrōy nihišn <em>imat̰ barəsma aδa.zaōϑrəm haδa.aiβiiā̊ŋhanəm aṣ̌aiia frastarətəm āiiese yešti</em></ab>
+            <ab class="ab_indent">
+                "Between <em>imat̰ barəsma</em> and  <em>haδa.zaōϑrəm haδa.aiβiiā̊ŋhanəm aṣ̌aiia frastarətəm āiiese yešti</em> he has to put the <em>barsom</em> on the <em>māhrōy</em>."</ab>
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+            <ab>N28.35 <bibl>Kotwal and Kreyenbroek, 2009</bibl>, pp. 90-91: </ab> 
+            <ab class="ab_indent">ka-š ranjagīhā ēn and az pāy gōwišn: bišāmrūd ud srīšāmrūd ud cahrušāmrūd; ud šnūman wizārišnīh; ud wāz gīrišnīh; ud srōš barišnīh az yašt bun [tā] <em>imat̰ barəsma haδa.zaōϑrəm...</em></ab> 
+            <ab class="ab_indent">"If (standing up) is troublesome for him, he should recite the following texts standing up: the passages to be recited twice, three times, and four times; the recitation of the <em>šnūmans</em>; 
+                the taking of the <em>bāj</em>; and the <em>srōš-barišnīh</em> from the beginning of the servide up to <em>imat̰ barəsma haδa zaoϑrəm</em>.</ab>
+            
+            <ab>N28.36 <bibl>Kotwal and Kreyenbroek, 2009</bibl>, pp. 90-91:</ab>
+            <ab class="ab_indent">tā ka pad <em>imat̰ barəsma</em> be šawēd hamē ka barsom ēw tāg kam andar barišn ud ka wēš ā abāz āhanjišnka pad  <em>imat̰ barəsma</em> 
+                be šawēd ka kam andar barišn, ka wēš ā be hilišn. Ka juxt 2 tāg be gīrišn ka pad nihān. Ast kē ēdōn gōwēd ay hād ēdōn bawēd ciyōn pad srōš-drōn. 
+                Pad abāz guftan ēdōn ciyōn pad abārīg abestāg. Pad srōš-drōn drōn ud gōšūdāg hān gyāg be nihišn; ⁺frasast kār nēst u-š ēsm bōy 3 tāg az kust ī dašn be nihišn.</ab> 
+            <ab class="ab_indent">"Until he reaches <em>imat̰ barəsma</em>, if the <em>barsom</em> has one twig too few he should insert it; if (it has one) too many he should pull it out. 
+                If he has recited beyond <em>imat̰ barəsma</em>, if there are too few he should insert them, if too many he should leave (things as they are). 
+                If (two) twigs are joined, they should be counted as two twigs if it is not visible. There is one who says thus 'it is as in the <em>Srōš-drōn</em> service. 
+                As far as repeating the text is concerned it is as for the other Avestan texts.' For the <em>Srōš-drōn</em> one should put the <em>drōn</em> and <em>gōšudāg</em> in place; there is no need for the <em>frasast</em>. 
+                And one should place three pieces of firewood and incese on the right-hand side." </ab> 
+        </Quotations>
+        <ModernPractice id="ritualModernPractice">
+            <ab><bibl>Redard and Daruwalla, 2021</bibl>: p. 76:</ab>
+            <ab>"The chief priest glances over all the implements and from here while reciting upto <em>imat̰ barəsma</em>, bending down he goes on touching the bundle to the
+                moon-shaped stand. The chief priest and the assistant priest both recite: <em>zaoϑra āiiese yešti … āiiese yešti imat ̰barəsma</em>. 
+                From here the chief priest sits crossed legged and placing the bundle on the moon-shaped stands, on that he puts two fingers of the left hand. 
+                <em>haδa.zaoϑrəm haδa.aiβiiā̊ŋhanəm aṣ̌aiia frastarətəm āiiese yešti</em>.</ab>
+            
+            <ab><bibl>Kotwal and Boyd, 1991</bibl>, p. 93-94:</ab>
+            <ab>"While reciting Y.2.1, starting with the words "I long for the libation [<em>zōhr</em>] in the Yasna" (<em> zaothra āyēsē yeshti</em>)
+                and ending with the phrase "I long for this barsom with the libation in the Yasna" ( <em>hadha zaothrem imat baresma āyēsē yēshti</em>), the zot, still standing, touches the <em>barsom</em>
+                to the tips of each crescent-shaped stand (<em>māh-rūy</em>) for every sentence recited. Repeating "this <em>barsom</em>" (<em>imat baresma</em>),
+                the <em>zōt</em> places the <em>barsom</em> across the top of the two stands (<em>barsom-dān</em>).
+                He sits down cross-legged on the stone seat, places the second and third fingers of his left hand on the elevated <em>barsom</em>, and rests his right hand on the upper rim of the large metal basin."</ab>
+        </ModernPractice>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY2.1"/>
+    <include type="W" corresp="WTrY2.1"/>
+        <include type="K" corresp="KTrY2.1"/>
+        <include type="D" corresp="DTrY2.1"/>
+    </translation>
+</text>

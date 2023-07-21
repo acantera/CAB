@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xml:id="Y1.1" status="none" date="07.06.2019"> 
+    <Critical>
+            
+            <app n="Y.1.1a" type="lac">
+                <lem wit="editorial">Whole verse</lem>
+                <rdg type="lac" wit="0234">Def.<wit>
+                        <idno>0234</idno>
+                    </wit>
+                </rdg>
+            </app>
+           
+    </Critical>
+</div>

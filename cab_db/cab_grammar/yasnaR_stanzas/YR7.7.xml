@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR7.7" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y7.15" xml:id="YR7.7">
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR7.6a" on_line="in1lineblock"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/RozGen" xpointer="RozGen1" on_line="in1line"/>
+        <!-- All days possible -->
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR7.6b" on_line="in1lineblock"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/MahGen" xpointer="MahGen1" on_line="in1line"/>
+        <!-- All months possible -->
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. Y7.7.</ab> 
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab>YR7.7]  <em>aṣ̌aiia</em> nigāo. rōza. māh.<em>ahurahe mazadā̊ raeuuatō x́arinaŋhatō aṣ̌aiia dāt̰ą̇m aṣ̌aoną̇m fraūašaną̇m</em> 350, vid. commentary Y1.4.</ab>
+        </Commentary>
+        <RecitationInstruction>
+            <ab>YR7.7] <em>aṣ̌aiia daδąmi</em> YWM W BYRH gwptn' OD OLD Y <em>aṣ̌aōninąmca aṣ̌ahe</em> (YR7.12) 300, 360, 370.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation/>
+</text>

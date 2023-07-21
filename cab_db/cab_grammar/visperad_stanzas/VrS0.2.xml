@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS0.2" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+      <approved/>
+      <updated/>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS0.2">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS0.2NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>zōt: vid. Y0.2.</div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <RecitationInstruction>
+         <ab><em>III gwptn'</em>] 2007, 2010, 2070, 2101, 2109; III 2065.</ab>
+      </RecitationInstruction>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">         
+         <ab>VrS0.2 Var. b (ms. 2065):</ab>
+         <ab class="ab_indent">
+            ud ādurgāh bē šōyišn u-š <em>aṣ̌əm vohū</em> se guftan.</ab>
+         <ab class="ab_indent">
+            "He should clean the <em>ādurgāh</em> and recite three <em>aṣ̌əm vohū</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS0.2"/>
+   </translation>
+</text>

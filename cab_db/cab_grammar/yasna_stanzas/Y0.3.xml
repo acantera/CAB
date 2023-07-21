@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y0.3" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+        <approved/>
+        <updated/>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y0.3">
+        <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP1"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>zōt: Anklesaria.</div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab>
+                <em>yaϑā. ahū. vairiiō. zaōtā.</em>...<em>mraōtū. yaϑā. ahū. vairiiō. yō.
+                    zaōtā.</em>... <em>mraōtū</em>] Indian mss. only <em>yaϑā. ahū. vairiiō. yō.
+                    zaōtā.</em>...<em>mraōtū</em>
+            </ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Y0.3 šnūman (ms.5, 15, 40, 82, 300, 355, 360, 370, 400, 410, 2007, 2010, 2038, 2040,
+                2065, 2101, 2103, 2104a, 2106, 4000a, 4010, 4020, 4025, 4050, 4055, 4056a, 4063,
+                4080, 4161): </ab>
+            <ab class="ab_indent"> pad mān ī ātaxšān <em>āθrō ahurahe mazdå tauua ātarš puϑra
+                    ahurahe mazdå xšnaōϑra y v x f</em> pad mān ī wehān <em>tauua ātarš puϑra
+                    ahurahe mazdå xšnaōϑra y v x f </em></ab>
+            <ab class="ab_indent"> "In the fire temple, (he should recite): <em>āθrō ahurahe mazdå
+                    tauua ātarš puϑra ahurahe mazdå xšnaōϑra y v x f</em> In the house of the
+                believers, (he should recite): <em>tauua ātarš puϑra ahurahe mazdå xšnaōϑra y v x
+                    f</em>" </ab>
+
+            <ab>Y0.3 wāz gīrišnīh (ms. 40, 82, 300, 355, 360, 370, 400, 410, 2007, 2010, 2030, 2038,
+                2040, 2101, 2103, 2104a, 2106, 4000a, 4010, 4020, 4025, 4050, 4055, 4056a, 4063,
+                4080, 4161):</ab>
+            <ab class="ab_indent"> agar ham zōt xwēštan yašt sāxtag bēd <em>yaϑā ahū vairiiō zaotā
+                    frā.mē mrūtē aϑā ratuš aṣ̌āt̰cīt̰ haca frā aṣ̌auua vīδuuå mraōtū</em> agar
+                rāspīg yašt sāxtag bēd zōt <em>yaϑā ahū vairiiō yō zaotā frā.mē mrūtē</em> rāspīg
+                    <em>aϑā ratuš haca frā aṣ̌auua vīδuuå mraōtū</em></ab>
+            <ab class="ab_indent"> "When the <em>zōt</em> himself has prepared the <em>yašt</em>,
+                (then he should recite:) <em>yaϑā ahū vairiiō zaotā frā.mē mrūtē aϑā ratuš
+                    aṣ̌āt̰cīt̰ haca frā aṣ̌auua vīδuuå mraōtū</em> When the <em>rāspīg</em> has
+                prepared the <em>yašt</em>, (then) the <em>zōt</em> (should recite): <em>yaϑā ahū
+                    vairiiō yō zaotā frā.mē mrūtē</em>; the <em>rāspīg</em> (should answer): <em>aϑā
+                    ratuš haca frā aṣ̌auua vīδuuå mraōtū</em>." </ab>
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+            <ab>N28.31b-32 <bibl>Kotwal and Kreyenbroek, 2003</bibl>, pp. 86-87:</ab>
+            <ab class="ab_indent">N28.31b-2</ab>
+            <ab class="ab_indent">
+                <em>frauuarānē mazdaiiasnō</em> gāh ān ī bawēd pad mān ī wehān <em>tauua ātarš puϑra
+                    ahurahe mazdā̊ xšnaōϑra</em> ast kē ēdōn gōwēd ay hamē <em>āϑrō ahurahe mazdā̊
+                    puϑra tauua ātarš puϑra ahurahe mazdā̊ xšnaōϑra</em> ka az ān kē barsom bandēd
+                parāhōm kard wāz dārēd wāz az ōy gīrišn ka nē [[ēn wāzag-ē]] ka az xwēš gīrēd weh-iz
+                ast āzādmard guft hād har yazišn-ē ān xūbtar ka [az] rāspīg ī abēgumān wāz frāz
+                gīrēd ud ātaxšgāh pad pādyāb be kunēd har kē andar ān yazišn kār-ē kāmēd kardan wāz
+                az †ōy gīrēd u-š wāz frāz gīrēd</ab>
+            <ab class="ab_indent">"(He has to recite:) <em>frauuarānē mazdaiiasnō</em> with the
+                corresponding <em>gāh</em> and, when (the performance) takes place in the house of
+                the good ones, (with the <em>šnūman</em>) <em>tauua ātarš puϑra ahurahe mazdā̊
+                    xšnaōϑra</em>. There is one who says: "Always (with the <em>šnūman</em>)
+                    <em>āϑrō ahurahe mazdā̊ puϑra tauua ātarš puϑra ahurahe mazdā̊ xšnaōϑra</em>".
+                If the (priest) who ties the <em>barsom</em> and prepared the <em>parāhōm</em> holds
+                the <em>wāz</em>, (the <em>zōt</em>) has to take the <em>wāz</em> from him. If not
+                [[this is one uttenrance]], it is indeed better if he takes it from himself.
+                Āzādmard said: "It is best for any <em>yazišn</em> if (the <em>zōt</em>) takes the
+                    <em>wāz</em> from a well-qualified <em>rāspīg</em> and (then) purifies the seat
+                of the fire. Any (priest) who desires to officiate at that <em>yazišn</em> takes the
+                    <em>wāz</em> from him. He takes the <em>wāz</em>" </ab>
+            <ab>WZ8.18-9</ab>
+            <ab class="ab_indent">čīyōn gōwīhēd pad dēn kū-š pad zāyišn guft kū čīyōn ox kāmag tō kē
+                zōt hē kū pēšōbāy ī dāmān hē frāz ō man gōw kū dastwar bawišn</ab>
+            <ab class="ab_indent">čīyōn zarduxšt gētīy tanīh rāy gētīy ēwāzīhā guft Ohrmazd mēnōyīhā
+                rāy ā-š pāsox guft kū ēdōn radīhā ēdōn frārōnīhā az ahlȳīh čēgām-iz-ēw frāz ahlawān
+                āgāhīhā gōwam kū-t dastwar hom</ab>
+            <ab class="ab_indent">As it is said in the dēn that at the time of his birth, Zaraθuštra
+                received from Ohrmazd the authority regarding the dēn. As it is said in the dēn,
+                (Zardušt) said at his birth: “Like the lord’s will you, who are the zōt [that is,
+                you are the pēšōbāy of the creatures], say it to me [that is, you should act as the
+                dastwar]. </ab>
+            <ab class="ab_indent">As Zardušt spoke with material words because of the materiality of
+                his body, thus (spoke) Ohrmazd immaterially because of his immateriality. He
+                answered: “Thus are the rad [thus are the virtuous ones] according to the Order
+                whatever it is, I say it knowingly to the orderly ones [that is, I am the dastwar]
+            </ab>
+            <ab>Dk9.24 [DkM819.6 ff.]</ab>
+            <ab class="ab_indent">guftan ī zardušt mēnōgīhā pad waγdān garān zāyišn kū-t čīyōn axw
+                kāmag kē zōt hē frāz ō man gōwē ud passox ī az ohrmazd kū ēdōn
+                radīhā az ahlāyīh čēgām-iz-ē frāz ahlaw āgāhīhā gōwam [tō hē frāyiz
+                arztar ud tō ahlawtar ud tō āgāstom ud tō gōwē dēn ī māzdēsnān
+                ō harwispīn dāmān ]</ab>
+            <ab class="ab_indent">Regarding Zardušt’s words at the time of the difficult birth
+                of his head: “Like the lord’s will you, who are the zōt. Ahura,
+                say it to me. Mazdā answered: “Thus are the rad [thus are
+                the virtuous ones] according to the Order, whatever it is, I, the
+                virtuous one, say it knowingly [you are far more valuable, you
+                are more virtuous and you are the wisest. You announce the
+                dēn to all the creatures].</ab>
+        </Quotations>
+
+        <ModernPractice id="ritualModernPractice">
+            <ab>
+                <ab>
+                    <bib>Kotwal and Boyd, 1991</bib>, p. 87:</ab>
+                <ab class="ab_indent">"The chief priest (<em>zōt</em>) establishes eye contact with
+                    his assistant (<em>rāspī</em>") (who continues to occupy the chief priest's seat
+                    with his hand on the <em>barsom</em>) and proclaims the first phrase of an
+                    antiphonal recitation, called an exchange of <em>bāj</em> ("utterance")."</ab>
+            </ab>
+        </ModernPractice>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY0.3"/>
+        <include type="W" corresp="WTrY0.1c-3a"/>
+        <include type="K" corresp="KTrY0.1"/>
+        <include type="D" corresp="DTrY0.1c-3a"/>
+    </translation>
+</text>

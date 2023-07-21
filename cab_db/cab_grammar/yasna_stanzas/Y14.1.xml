@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y14.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y14.1" headerPointer="Head14">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY14.1"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: Anklesaria, Kotwal and Boyd, Geldner.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y14.1a <em>aibī.jarətā</em>] sec. cod.; Geldner, Kellens <em>aibijarətā</em>.</ab>
+         <ab>Y14 is built differently in the ceremonies of the Long Liturgy. It is a modified repetition of the <em>Barsom Yašt</em> (Y2). Y14 and YR14 are composed by two introductory stanzas in MAv. (Y14.1, Y14.2) + the mention of <em>vīspa yazata</em> and <em>vīspa ratu</em> (this last absent in YR).
+            In Visperad, Vidēvdād and Vištāsp Yašt, the first stanza (VrS14.1) appears in YAv. and they add in VrS14.1b the mention of <em>ratufriti-</em>, <em>vərəϑraγniia-</em> and <em>huruniia-</em>. Besides, a third introductory stanza to the repetition of the <em>Barsom Yašt</em> is added. 
+            In Visperad, Vištāsp Yašt and the Indian Vidēvdād this version of Barsom Yašt consists on the mention of the <em>barsom</em> (VrS14.4), of Ahura Mazdā and the Aməṣ̌a Spəṇta (VrS14.5) and, in the case of the Vištāsp Yašt, the ceremonial <em>ratu</em> (VytVrS14.6), that is absent in the Indian Vidēvdād;
+            of the <em>vīspa ratu</em> (VrS14.6), of the Frauuaṣ̌iš (VrS14.7) and again the <em>vīspa yazata</em> and <em>vīspa ratu</em> (VrS14.8). The Iranian Vidēvdād, however, attest the Barsom Yašt with the mention of all the <em>ratu</em>. However, after the mention of the ceremonial <em>ratu</em> (VVrS14.6), it is followed by the categorical mention of the <em>ratu asńiia, māhiia, yāiriia</em> and <em>sarəδa</em> (VVrS14.7), as in the Srōš Drōn (vid. <bibl>Martínez Porro, 2022</bibl>).</ab>
+         <ab><em>vīsāi və̄ aməṣ̌ā spəṇtā ... yat̰ saōš́iiaṇtąm aṣ̌aōnąm</em>] ms. 15 attests the text of the Visperad, Vidēvdād and Vištāsp Yašt ceremonies <em>vīse vō aməṣ̌a spəṇta ...</em>.</ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab><em>vīsāi və̄ aməṣ̌a spəṇtā ...</em>] <em>vīsāi və̄ aməṣ̌ā spəṇtā</em> OD <em>ratauuō vīspe mazišta</em> (Y14.3) 40.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab><em>staōtā zaōtā zbātā yaštā framarətā aibī.jarətā</em> (YAv. in VrS14.1) ~ Yt3.1 <em>staōtarəca zaōtarəca zbātarəca mąϑranaca yaštarəca āfrītarəca aibijarətarəca</em>.</ab>
+      <ab><em>hauuaŋᵛhāica aṣ̌auuastāica</em> ~ Y11.10 <em>hauuaŋᵛhāi aṣ̌auuastāi</em>; ~ Y68.4 <em>hauuaŋᵛhāi aṣ̌auuastanąm</em>; ~ Yt10.33 <em>hauuaŋhum aṣ̌auuastəmca</em>; ~ VrS14.1 <em>hauuaŋᵛhāica ratufritaiiaēca aṣ̌auuastāica vərəϑraγniiāica huruniiāica</em>..</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY14.1"/>
+      <include type="W" corresp="WTrY14.1"/>
+      <include type="K" corresp="KTrY14.1"/>
+      <include type="D" corresp="DTrY14.1"/>
+   </translation>
+</text>

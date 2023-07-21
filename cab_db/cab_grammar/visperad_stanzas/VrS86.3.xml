@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS86.3" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS86.3">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY62.3"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS86.3 (mss. 2005, 2007, 2102, 2104, 2109, 5020):</ab>
+         <ab class="ab_indent">
+            <em>uruuaram vā</em> urwarām ō ī ātaxš dahišn <em>haδānaēpatąm</em>.</ab>
+         <ab class="ab_indent">
+            "At <em>uruuaram vā</em>, he has to give the <em>urwarām</em> to the fire (and continue with) <em>haδānaēpatąm</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS86.3"/>
+   </translation>
+</text>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y68.2" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y68.2">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY68.2"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab><em>xšuuīδaēca āzūtaiiaēca</em> ~ Y16.8, Y68.8 <em>xšuuīδa āzūiti</em>.</ab>
+      <ab><em>dasuuarə baēšazāica fradaiϑe varədaϑāica</em> ~ Y9.17 <em>ni dasuuarə nī baēšazəm nī fradaϑəm nī varədaϑəm</em>; ~ Y55.3 <em>tā dasuuara tā baēšaza tā fradaϑa tā varədaϑa</em>;
+         ~ Y71.18 <em>dasuuarəca baēšazəmca yazamaide fradaϑəmca varədaϑəmca yazamaide</em>; ~ VrS64.5, VrS64.6, VrS71.4, VrS71.6 <em>auuat̰ dasuuarə yazamaide auuat̰ baēšazəm yazamaide auuat̰ fradaϑəm yazamaide</em>;
+         ~ VytS5.6 <em>dasuuarə baēšazəm fradaϑəm varədaϑəm</em>.</ab>
+      <ab><em>dasuuarə baēšazāica</em> ~ Y10.7 <em>dasuuarə baēšazəm</em>; ~ Y68.16 <em>dasuuarə baēšaza</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY68.2"/>
+   <include type="W" corresp="WTrY68.2"/><include type="K" corresp="KTrY68.2"/><include type="D" corresp="DTrY68.2"/></translation>
+</text>

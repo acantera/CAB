@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y24.0" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y24.0">
+        <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y24.1NerangTransc.a"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY24.1a"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: Anklesaria, Kotwal and Boyd, Geldner.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab>Y24.0a <em>ahurāi mazdāi</em> ...] <em>ahurāi mazdāi</em> OD LOYŠE <em>daϑušō
+                    ahurahe mazdā̊</em> (Y24.12) 40.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Y24.0 Var. a (mss. 15, 88, 400, 410 (sec.m.), 2007, 2010, 2030, 2101, 2104, 2106,
+                2109):</ab>
+            <ab class="ab_indent"> taštag kē-š hōm ud urwarām andar ān-iz ī-š ǰām andar dast stānišn
+                abāg abastāg ul dārišn <em>ahurāi mazdāi</em>. ...</ab>
+            <ab class="ab_indent"> "He has to take in his hand the saucer that contains the
+                    <em>hōm</em> and the <em>urwarām</em> and the one that contains the
+                    <em>ǰīwām</em> and lift them up while reciting the <em>abastāg</em>
+                <em>ahurāi mazdāi</em>. ..."</ab>
+            <ab>Y24.0 Var. b (ms. 40): </ab>
+            <ab class="ab_indent"> taštag kē-š hōm ud urwarām andar ān-iz ī-š ǰām andar dast stānišn
+                abāg abastāg ul dārišn ēn kū čiyōn ud čand dārišn ā-m nē rōšnag dādweh guft hād gōš
+                bālā dārišn frāz ō pēš dārišn u-š pad be nigerišn <em>ahurāi mazdāi</em>. ...</ab>
+            <ab class="ab_indent"> "He has to take in his hand the saucer that contains the
+                    <em>hōm</em> and the <em>urwarām</em> and the one that contains the
+                    <em>ǰīwām</em> and hold them up while reciting the Avestan text. It is not clear
+                to me how, and how long, it should be held up. Dādweh said that he has to hold it to
+                the height of his ears, he has to hold it in front of (his face) and gaze at it
+                (while reciting) <em>ahurāi mazdāi</em>. ..." </ab>
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+            <ab>Cf. N28.46b <bibl>Kotwal and Kreyenbroek, 2003</bibl>, pp. 104-105:</ab>
+            <ab class="ab_indent">u-š pad <em>ahurāi mazdāi</em> hōm ud urwarām †be †war ī ǰīuu ul
+                dārišn ēn kū čiyōn ud čand dārišn ā-m nē rōšnag dādweh guft hād gōš bālāy dārišn
+                frāz ō pēš dārišn u-š pad be nigerišn Ka-š <em>ahurāi mazdāi</em>be guft hāwan be
+                šōyišn.</ab>
+            <ab class="ab_indent">"And at <em>ahurāi mazdāi</em> he should lift up the <em>hōm</em>
+                and <em>urwarām</em> together face on face with <em>jīw</em>. It is not clear to me
+                how, and how long, it should be held up. <em>Dādweh</em> said: "He should hold it up
+                to the height of his ears, he has to hold it in front of (his face), and gaze at it.
+                When he has finished reciting <em>ahurāi mazdāi</em> he should wash the
+                mortar."</ab>
+            <ab>Cf. ŠnŠ13.9 ( <bibl>Kotwal, 1969</bibl>, pp. 42-3): </ab>
+            <ab><em>ēd rāy pad </em> ahurāi mazdāi <em> hassārīh ī </em>daθuš <em>zōhr ham dil ī ōy
+                    zōt rāst dārišn ud *ātrawaxšān ham bāzag ī ōy zōt rāst dārišn kū tā ardēštārān
+                    andar kōxšišin ī abāg anērān nēwdiltarud wāstryōšān pad warz ud ābādīh ī gēhān
+                    bāzāyōztar </em>
+            </ab>
+            <ab>"On account of this, at <em>ahurāi mazdāi</em>, the <em>zōhr</em> should be held on
+                top of the <em>daθuš</em> exactly level with the heart of the Zōt, and the
+                *Ātrawaxšān should hold (their) hands exactly level with the arm of the Zōt. so that
+                the warriors may become mor brave in fighting with non-Iranians, and the husbandmen
+                more strongarmed in the culituvation of the land and care of the creatures."</ab>
+        </Quotations>
+        <ModernPractice id="ritualModernPractice">
+            <ab><bibl>Redard and Daruwalla, 2021</bibl>, p. 90:</ab>
+            <ab class="ab_indent">"The chief priest, removing the mortar outside the water
+                container, places (it) upside-down in front of him on the table and recites with the
+                assistant priest:"</ab>
+
+            <ab><bibl>Kotwal and Boyd, 1991</bibl> 109:</ab>
+            <ab class="ab_indent">"As both priests recite the first line of st. I, the <em>zōt</em>
+                takes the mortar out of the large basin of water and sets it upside down on the
+                ritual table directly in front of him"</ab>
+        </ModernPractice>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY24.1"/>
+        <include type="W" corresp="WTrY24.1"/>
+        <include type="K" corresp="KTrY24.1"/>
+        <include type="D" corresp="DTrY24.1"/>
+    </translation>
+</text>

@@ -1,0 +1,1187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div type="ceremony" n="Y">
+    <header>
+        <creators>
+            <creator>Cantera</creator>
+        </creators>
+        <created>20 February 2019</created>
+        <updated>08 January 2021</updated>
+    </header>
+    <div n="0" type="chapter">
+        <div n="1" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y0.1NerangTranslit.a" xml:lang="Pahl">blswm 20 W ʾywk tʾk plʾgʾm 2 tʾk blswm bstn' plʾhwm krtn' sʾcšn' hmʾk prʾc
+                HNHTWNtn' W ZK AYŠ MNW zwtyh YCBEN-yt' krtn' <em>aṣ̌əm. vohū.</em> ʾywk gwptn' W
+                YDE PWN pʾtyʾp krtn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y0.1NerangTransc.a" xml:lang="Pahl">barsom
+                21 tāg frāgām 2 tāg barsom bastan parāhōm kardan sāzišn hamāg frāz nihādan ān kas kē
+                zōtīh kāmēd kardan <em>aṣ̌əm. vohū.</em> ēk guftan ud
+                dast pad pādyāb kardan <ab_mod xml:id="Yasna0_2">
+                    <span class="glyphicon glyphicon-facetime-video"/>
+                </ab_mod>
+            </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y0.1NerangEnglish.a">The <em>barsom</em>
+                (should consist) of 21 twigs and the <em>frāgām</em>are two. He should tie the
+                    <em>barsom</em>, prepare the <em>parāhōm</em> and dispose all the implements.
+                The one who wish to perform in the office of <em>zōt</em> should recite one Aṣ̌əm
+                Vohū nd
+                he should clean his hands with <em>pādyāb</em>,</ab1>
+        </div>
+        <div n="2" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y0.2NerangTranslit.a" xml:lang="Pahl"> OL gʾs ʾtlwhšʾn' OẔLWNtn' wl OL ʾthšgʾs *W blswm krtn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y0.2NerangTransc.a" xml:lang="Pahl">ō gāh ātrawaxšān šudan war ō ātaxšgāh ud barsom kardan   <ab_mod xml:id="Yasna0_2">
+                    <span class="glyphicon glyphicon-facetime-video"/>
+                </ab_mod>
+            </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y0.2NerangEnglish.a" xml:lang="Pahl"> He should go to the place of the
+                    <em>ātrawaxš</em> looking to the <em>ātaxšgāh</em> and the
+                <em>barsom</em>.</ab1>
+        </div>
+        <div n="3" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y0.3NerangTranslit.a" xml:lang="Pahl">HT
+                PWN mʾn [Y] ʾthšʾn' <em>āϑrō. ahurahe. mazdā̊. puϑra. tauua. ātarš. puϑra. ahurahe.
+                    mazdā̊. xšnaōϑra. yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</em> PWN mʾn
+                *Y ŠPYLAn' <em> tauua. ātarš. puϑra. ahurahe. mazdā̊. xšnaōϑra. yasnāica. vaɱāica.
+                    xšnaōϑrāica. frasastaiiaēca.</em> HT PWN mʾn *Y ʾthšʾn' <em> tauua. ātarš.
+                    puϑra. ahurahe. mazdā̊. xšnaōϑra. yasnāica. vaɱāica. xšnaōϑrāica.
+                    frasastaiiaēca.</em> HT hm zwt yšt sʾhtk YHWWNyt <em> yaϑā. ahū. vairiiō. zaōtā.
+                    frā.mē. mrūtē. aϑā. ratuš. aṣ̌āt̰cit̰. hacā. aṣ̌auuā. viδuuā̊. mraōtū.</em> HT
+                lʾspyk yšt sʾhtk YHWWNyt zwt <em>yaϑā. ahū. vairiiō. yō. zaōtā. frā.mē. mrūtē.</em>
+                lʾγspyk <em>aϑā. ratuš. aṣ̌āt̰cit̰. hacā. aṣ̌auuā. viδuuā̊. mraōtū.</em>
+            </ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y0.3NerangTransc.a" xml:lang="Pahl">agar
+                pad mān ī ātaxšān <em>āϑrō. ahurahe. mazdā̊. puϑra. tauua. ātarš. puϑra. ahurahe.
+                    mazdā̊. xšnaōϑra. yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</em> pad mān ī
+                wehān <em>tauua. ātarš. puϑra. ahurahe. mazdā̊. xšnaōϑra. yasnāica. vaɱāica.
+                    xšnaōϑrāica. frasastaiiaēca.</em> agar ham zōt yašt sāxtag bawēd <em> yaϑā. ahū.
+                    vairiiō. zaōtā. frā.mē. mrūtē. aϑā. ratuš. aṣ̌āt̰cit̰. hacā. aṣ̌auuā. viδuuā̊.
+                    mraōtū.</em> rāspīg yašt sāxtag bawēd zōt <em>yaϑā. ahū. vairiiō. yō. zaōtā.
+                    frā.mē. mrūtē.</em> rāspīg <em>aϑā. ratuš. aṣ̌āt̰cit̰. hacā. aṣ̌auuā. viδuuā̊.
+                    mraōtū.</em>
+            </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y0.3NerangEnglish.a" xml:lang="Pahl">If
+                In the house of the fires: <em>āϑrō. ahurahe. mazdā̊. puϑra. tauua. ātarš. puϑra.
+                    ahurahe. mazdā̊. xšnaōϑra. yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</em>
+                in the house of the good ones: <em>tauua. ātarš. puϑra. ahurahe. mazdā̊. xšnaōϑra.
+                    yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.'</em>. If the proper
+                    <em>zōt</em> has prepared the liturgy, (he says) <em> yaϑā. ahū. vairiiō. zaōtā.
+                    frā.mē. mrūtē. aϑā. ratuš. aṣ̌āt̰cit̰. hacā. aṣ̌auuā. viδuuā̊. mraōtū.</em>. If
+                the <em>rāspīg</em> has prepared the liturgy, then the <em>zōt</em> says: <em>yaϑā.
+                    ahū. vairiiō. yō. zaōtā. frā.mē. mrūtē.</em> and the <em>rāspīg </em> (answers):
+                    <em> aϑā. ratuš. aṣ̌āt̰cit̰. hacā. aṣ̌auuā. viδuuā̊. mraōtū.</em>
+            </ab1>
+        </div>
+        <div n="4" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y0.4NerangTranslit.a" xml:lang="Pahl"> 
+                zwt OL kwst'-Y TWB OẔLWNtn' mdyʾn'-Y ʾtyšt' LAWHL LOYŠE blswm ḆYN OḆYDWN-tn' PWN
+                    <em>aṣ̌əm. vohū.</em> 3 ʾtyšt' LAWHL OL kwstk'-Y TWB šwstn' W AMTš swšt AP̱-š YDE
+                PWN pʾtyʾp LAWHL krtn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y0.4NerangTransc.a" xml:lang="Pahl">
+                kust ī did šudan mayān ī ādišt abāz sar barsom andar kardan pad <em>aṣ̌əm.
+                    vohū.</em> 3 ātišt abāz ō kustag ī did šustan ud ka-š sušt u-š dast pad pādyāb
+                abāz kardan  <ab_mod xml:id="Yasna0_4">
+                    <span class="glyphicon glyphicon-facetime-video"/>
+                </ab_mod>
+            </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y0.4NerangEnglish.a" xml:lang="Pahl">The
+                <em>zōt</em> goes to the other side of the fire stand and stands next to the center of the <em>ādišt</em> and the head of the
+                    <em>barsom</em>. While saying three Aṣ̌əm. Vohū,
+                he should clean again the other side of the fire stand and, when he has cleaned it,
+                he should wash his hands again with <em>pādyāb</em>
+            </ab1>
+        </div>
+        <div n="5" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y0.5NerangTranslit.a" xml:lang="Pahl">AP̱-š <em>ẏaϑā. ahū. vairiiō.</em> 2 ḆYN lʾs gwptn' PWN
+                <em>š́iiaoϑə̄naną̇m</em>LGLEk' lʾst' ḆYN zwt' gʾs HNHTWNtn' ab1š tlgʾssyh BRA
+                YKOYMWNtn' yẕdʾn' OL ʾyzšn' nywynytn' pʾtyʾpdʾn' PWN pʾtyʾp LAWHL krtn' YDE PWN
+                pʾtyʾp krtn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y0.5NerangTransc.a" xml:lang="Pahl">u-š
+                    <em>ẏaϑā. ahū. vairiiō.</em> 2 andar rāh guftan pad <em>š́iiaoϑə̄naną̇m</em>
+                pāyag rāst andar zōt gāh nihādan u-š tarsāgīh bē ēstēd yazdān ō yazišn niwēnīdan
+                pādyābdān pad pādyāb abāz kardan dast pad pādyāb abāz kardan ud dast pad pādyāb
+                kardan  <ab_mod xml:id="Yasna0_5">
+                    <span class="glyphicon glyphicon-facetime-video"/>
+                </ab_mod>
+            </ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y0.5NerangEnglish.a" xml:lang="Pahl">He
+                should say <em>ẏaϑā. ahū. vairiiō.</em> twice on the way. While saying
+                    <em>š́iiaoϑə̄naną̇m</em> he should put the right foot on the <em>zōtgāh</em>,
+                stand respectful, invite the gods to the liturgy, wash the bowl for <em>pādyāb</em>
+                with <em>pādyāb</em> and wash his hands with <em>pādyāb</em>
+            </ab1>
+        </div>
+        <div n="8" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y0.8NerangTranslit.a" xml:lang="Pahl">zwt' YDE Q̱DM blswm HNHTWNtn'  W <em>staōmi aṣ̌əm</em> BRA gwbšn' AP-š blswm MN mʾhlwk LALA YNSḆWN-šn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y0.8NerangTransc.a" xml:lang="Pahl">zōt
+                dast abar barsom nihādan ud pad <em>staōmi aṣ̌əm</em> barsom az māhrōy ul stānišn</ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y0.8NerangEnglish.a" xml:lang="Pahl">The
+                <em>zōt</em> should put the hand on the <em>barsom</em> and, at <em>staōmi ašə̣m</em>, take up the barsom from the <em>mahrūy</em>.
+            </ab1>
+        </div>
+        <div n="10" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y0.10NerangTrasnlit.a" xml:lang="Pahl">zwt W lʾspyk cšm PWN ʾthš W blswm YHSNN-šn' z</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y0.10NerangTransc.a" xml:lang="Pahl">zōt
+                ud rāspīg cašm pad ātaxš ud barsom dārišn</ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y0.10NerangEnglish.a" xml:lang="Pahl">The
+                    <em>zōt</em> and the <em>rāspīg</em> look at the fire and the <em>barsom</em>
+            </ab1>
+        </div>
+        <div n="12" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y0.12NerangTranslit.a" xml:lang="Pahl">plwt YTYBWNšn' blswm' *OL blswmdʾn HNHTWN-tn' </ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y0.12NerangTransc.a" xml:lang="Pahl">frōd
+                nišastan barsom ō barsomdān nihādan  <ab_mod xml:id="Yasna0_12">
+                    <span class="glyphicon glyphicon-facetime-video"/>
+                </ab_mod>
+            </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y0.12NerangEnglish.a" xml:lang="Pahl">He
+                should seat down and put the <em>barsom</em> on the <em>barsom</em>-holder </ab1>
+        </div>
+        <div n="13" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y0.13NerangTranslit.a" xml:lang="Pahl">AHL blswm MN mʾhlwk LALA YNSḆWNšn' </ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y0.13NerangTransc.a" xml:lang="Pahl">pas
+                barsom az māhrōy ul stānišn  <ab_mod xml:id="Yasna0_12">
+                    <span class="glyphicon glyphicon-facetime-video"/>
+                </ab_mod>
+            </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y0.13NerangEnglish.a" xml:lang="Pahl">Aftrwards, he has to take the <em>barsom</em> out of the <em>māhrōy</em>
+            </ab1>
+        </div>
+        <div n="14" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y0.14NerangTranslit.a" xml:lang="Pahl">PWN <em>š́iiaoθənanąm</em> sʾcšn *W zwhl hmʾk hwp' BRE nkylšn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y0.14NerangTransc.a" xml:lang="Pahl">pad
+                    <em>š́iiaoθənanąm</em> sāzišn ud zōhr hamāg xūb bē nigerišn</ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y0.14NerangEnglish.a" xml:lang="Pahl">While saying <em>š́iiaoθənanąm</em>, he has to inspect carefully all the implements
+                and the offering</ab1>
+        </div>
+    </div>
+    <div n="1" type="chapter">
+        <div n="1" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y1.1NerangTranslit.a" xml:lang="Pahl">PWN <em> *niuuaēδaiiemi</em> bwd OL ʾthš YHBWN-šn' hšnwmn' PWN *mynšn' plʾc
+                OḆYDWN-šn' *yẕdʾn' OL ycšn' KLYTWN-šn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y1.1NerangTransc.a" xml:lang="Pahl">pad
+                    <em> niuuaēδaiiemi</em> bōy ō ātaxš dahišn xšnūman pad menišn frāz kunišn yazdān
+                ō yazišn xwānišn</ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y1.1NerangEnglish.a" xml:lang="Pahl">While saying <em> niuuaēδaiiemi</em>, he has to give wood to the fire, make the
+                šnūman mentally and invite the gods to the liturgy</ab1>
+        </div>
+    </div>
+    <div n="2" type="chapter">
+        <div n="1" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y2.1NerangTranslit.a" xml:lang="Pahl">ẔNE gywʾk blswm BRA OL Y mʾhlwk HNHTWNtnˈ</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y2.1NerangTransc.a" xml:lang="Pahl">ēn
+                gyāg barsom bē ō ī māhrōy nihādan</ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y2.1NerangEnglish.a" xml:lang="Pahl">At
+                this moment, he should put the <em>barsom</em> on the <em>māhrōy</em>
+            </ab1>
+        </div>
+    </div>
+    <div n="3" type="chapter">
+        <div n="1" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0040" xml:id="Y3.1NerangTranslit.a" xml:lang="Pahl">dlwn W šwšdʾk' ʾsm W bwd 3 tʾk HNHTWNtnˈ W PWN slwšdlwnˈ hmʾk gywʾkˈ sʾcšnˈ KRA
+                MNDWM-1 hwp BRA nkylšnˈ OD slwšndlwnˈ OŠTENtnˈ ʾ-š hwm W wls W ʾwlwlʾm MN blswm OL
+                pʾhlycšn AMTš LA PWN nkylšnˈ Q̰DM YAMTWNytˈ ʾšʾyt</ab1>
+            <ab1 n="NerangTransc.a" source="0040" xml:id="Y3.1NerangTransc.a" xml:lang="Pahl">drōn
+                ud *gōšudāg ēsm ud bōy 3 tāg nihādan ud pad srōšdrōn hamāg gyāg sāzišn har ciš-ē xūb
+                bē nigerišn tā srōšdrōn xwardan ā-š hōm ud wars ud urwarām az barsom ō pahrezišn ka
+                nē pad nigerišn abar rasēd ā-šāyēd</ab1>
+            <ab1 n="NerangEnglish.a" source="0040" xml:id="Y3.1NerangEnglish.a" xml:lang="Pahl">At
+                any time, he should put in place the <em>drōn</em> and the <em>gōšudāg</em>and three
+                pieces of wood and incense. During the Srōšdrōn he has to gaze at each single
+                implemennt carefully until the partaking of the <em>drōn</em>. He has to keep the
+                    <em>hōm</em> and the hairs and the pomegranate away from the <em>barsom</em>.
+                When they do come into contact wiithot noticing it, then it is permissible. </ab1>
+        </div>
+        <div n="22" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0083" xml:id="Y3.22NerangTranslit.a" xml:lang="Pers">dw bār gwftn w hr bār bwy ʾw ātš dādn</ab1>
+            <ab1 n="NerangTransc.a" source="0083" xml:id="Y3.22NerangTransc.a" xml:lang="Pers">do
+                bār goftan wa har bār buy ō ātaš dādan</ab1>
+            <ab1 n="NerangEnglish.a" source="0083" xml:id="Y3.22NerangEnglish.a" xml:lang="Pers">He
+                should say it twice and every time he should bring incense to the fire</ab1>
+        </div>
+    </div>
+    <div n="4" type="chapter">
+        <div n="24" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0083" xml:id="Y4.24NerangTranslit.a" xml:lang="Pers">fh hr xšnwtrh ʾsm w bwy w ātš dhšn</ab1>
+            <ab1 n="NerangTransc.a" source="0083" xml:id="Y4.24NerangTransc.a" xml:lang="Pers">fe
+                har xšnutre esm wa buy ō ātaš dahešn</ab1>
+            <ab1 n="NerangEnglish.a" source="0083" xml:id="Y4.24NerangEnglish.a" xml:lang="Pers">At
+                each <em>xšnāoϑra</em> he should bring wood and incense to the fire</ab1>
+        </div>
+    </div>
+    <div n="5" type="chapter">
+        <div n="1" type="stanza">
+
+            <ab1 n="NerangTranslit.a" source="0083" xml:id="Y5.1NerangTranslit.a" xml:lang="Pers">sācšn hmā ḫwp ngršn</ab1>
+            <ab1 n="NerangTranslit.a" source="0083" xml:id="Y5.1NerangTransc.a" xml:lang="Pers">sāzešn hamā xub nigerešn</ab1>
+            <ab1 n="NerangEnglish.a" source="0083" xml:id="Y5.1NerangEnglish.a" xml:lang="Pers">He
+                has to gaze carefully to all implements</ab1>
+        </div>
+    </div>
+    <div n="7" type="chapter">
+        <div n="0" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0083" xml:id="Y7.0NerangTranslit.a" xml:lang="Pers">rāsfy ngāh bh brsm knd </ab1>
+            <ab1 n="NerangTransc.a" source="0083" xml:id="Y7.0NerangTransc.a" xml:lang="Pers">rāsfi
+                negāh bē barsom konad</ab1>
+            <ab1 n="NerangEnglish.a" source="0083" xml:id="Y7.0NerangEnglish.a" xml:lang="Pers">The
+                    <em>rāspīg</em> gazes at the <em>barsom</em>
+            </ab1>
+        </div>
+        <div n="1" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0083" xml:id="Y7.1NerangTranslit.a" xml:lang="Pers">bwy bh ātš dādn</ab1>
+            <ab1 n="NerangTransc.a" source="0083" xml:id="Y7.1NerangTransc.a" xml:lang="Pers">buy bē
+                ātaš dādan</ab1>
+            <ab1 n="NerangEnglish.a" source="0083" xml:id="Y7.1NerangEnglish.a" xml:lang="Pers">He
+                should give incense to the fire</ab1>
+        </div>
+        <div n="23" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0083" xml:id="Y7.23NerangTranslit.a" xml:lang="Pers">hr bār bwy bh ātš dādn</ab1>
+            <ab1 n="NerangTransc.a" source="0083" xml:id="Y7.23NerangTransc.a" xml:lang="Pers">har
+                bār buy bē ātaš dādan</ab1>
+            <ab1 n="NerangEnglish.a" source="0083" xml:id="Y7.23NerangEnglish.a" xml:lang="Pers">Each time, he should give incense to the fire</ab1>
+        </div>
+        <div n="29" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0040" xml:id="Y7.29NerangTranslit.a" xml:lang="Pahl">PWN hr <em>š́iiaōϑananąm</em> ʾysm W bwd tʾk-1 prʾc OL ʾthš YḆLWN-šn</ab1>
+            <ab1 n="NerangTransc.a" source="0040" xml:id="Y7.29NerangTransc.a" xml:lang="Pahl">pad
+                har <em>š́iiaōϑananąm</em> ēsm ud bōy tāg-ē frāz ō ātaxš barišn  <ab_mod xml:id="Yasna7_29">
+                    <span class="glyphicon glyphicon-facetime-video"/>
+                </ab_mod>
+            </ab1>
+            <ab1 n="NerangEnglish.a" source="0040" xml:id="Y7.29NerangEnglish.a" xml:lang="Pahl">At
+                each <em>š́iiaōϑananąm</em>, he has to bring a piece of wood and incense to the
+                fire</ab1>
+        </div>
+    </div>
+    <div n="8" type="chapter">
+        <div n="2" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y8.2NerangTranslit.a" xml:lang="Pahl">aēsmąsca ʾysm W bwd OL ʾthš YḆLWN-šn</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y8.2NerangTransc.a" xml:lang="Pahl">
+                <em>aēsmąsca</em> ēsm ud bōy ō ātaxš barišn</ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y8.2NerangEnglish.a" xml:lang="Pahl">At
+                    <em>aēsmąsca</em>, he has to bring wood and incense to the fire</ab1>
+        </div>
+    </div>
+    <div n="8" type="chapter">
+        <div n="3" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y8.3NerangTranslit.a" xml:lang="Pahl">lʾspyg gwptn' PWN gʾs Y hʾwnn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y8.3NerangTransc.a" xml:lang="Pahl">rāspīg
+                guftan pad gāh ī hāwanān</ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y8.3NerangEnglish.a" xml:lang="Pahl">The
+                    <em>rāspīg</em> has to say at the place of the <em>hāwanān</em>
+            </ab1>
+        </div>
+    </div>
+    <div n="8" type="chapter">
+        <div n="6" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y8.6NerangTranslit.a" xml:lang="Pahl">
+                slwšdlwnˈ OŠTENtnˈ W PWME pʾk krtnˈ W YDE PWN pʾtyʾpˈ krtnˈ YDE Q̱DM blswm
+                HNHTWNtn</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y8.6NerangTransc.a" xml:lang="Pahl">srōšdrōn xwardan ud dahān pāk kardan ud dast pad pādyāb kardan dast abar barsom
+                nihādan  <ab_mod xml:id="Yasna8_6">
+                    <span class="glyphicon glyphicon-facetime-video"/>
+                </ab_mod>
+            </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y8.6NerangEnglish.a" xml:lang="Pahl">He
+                should eat the <em>srōšdrōn</em>, clean his mouth, wash his hands with
+                    <em>pādyāb</em> and put his hand on the <em>barsom</em>. </ab1>
+        </div>
+    </div>  
+    <div n="10" type="chapter">
+        <div n="1" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y10.1NerangTranslit.a" xml:lang="Pahl">
+                bwd OL ʾthš YHBWN-šn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y10.1NerangTransc.a" xml:lang="Pahl">bōy ō
+                ātaxš dahišn</ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y10.1NerangEnglish.a" xml:lang="Pahl">He
+                should give incense to the fire</ab1>
+        </div>
+        <div n="10" type="chapter">
+            <div n="5" type="stanza">
+                <ab1 n="NerangTranslit.a" source="0400" xml:id="Y10.5NerangTranslit.a" xml:lang="Pahl">
+                    bwd OL ʾthš YHBWN-šn'</ab1>
+                <ab1 n="NerangTransc.a" source="0400" xml:id="Y10.5NerangTransc.a" xml:lang="Pahl">bōy ō
+                    ātaxš dahišn</ab1>
+                <ab1 n="NerangEnglish.a" source="0400" xml:id="Y10.5NerangEnglish.a" xml:lang="Pahl">He
+                    should give incense to the fire</ab1>
+            </div>
+        </div>
+    <div n="11" type="chapter">
+        <div n="1" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y11.1NerangTranslit.a" xml:lang="Pahl">
+                bwd OL ʾthš YHBWN-šn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y11.1NerangTransc.a" xml:lang="Pahl">bōy ō
+                ātaxš dahišn</ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y11.1NerangEnglish.a" xml:lang="Pahl">He
+                should give incense to the fire</ab1>
+        </div>
+        <div n="9" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y11.9NerangTranslit.a" xml:lang="Pahl">
+                lʾspyk plʾhwm PWN YDE hwy Q̱DM OHDWN-tn' PWN gʾs plbltʾlʾn' YḆLWN-šn' ḆYN 4 ʾngwšt'
+                blswm YHSNN-šn' BRA gwbšn' </ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y11.9NerangTransc.a" xml:lang="Pahl">rāspīg parāhōm pad dast hōy abar griftan pad gāh frabartārān barišn *dast 4 angušt
+                barsom dārišn bē gōwišn  <ab_mod xml:id="Yasna11_9">
+                    <span class="glyphicon glyphicon-facetime-video"/>
+                </ab_mod>
+                </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y11.9NerangEnglish.a" xml:lang="Pahl">The
+                    <em>rāspīg</em> should take the <em>parāhōm</em> with the left hand and he has
+                to bring it to the place of the <em>frabardārān</em>, remove his hand four fingers
+                from the <em>barsom</em> and say: </ab1>
+        </div>
+        <div n="10" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y11.10NerangTranslit.a" xml:lang="Pahl">
+                zwt YDE PWN bwn Y blswm prʾc YHSNN-šnˈ plbltʾl plʾhwm LALA OL yDE dšnˈ Y zwtˈ
+                HNHTWNšnˈ zwtˈ YMRRWNytˈ </ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y11.10NerangTransc.a" xml:lang="Pahl">zōt
+                dast pad bun ī barsom frāz dārišn frabartār parāhōm ul ō dast dašn ī zōt nihīšn zōt
+                gōwēd  <ab_mod xml:id="Yasna11_10">
+                    <span class="glyphicon glyphicon-facetime-video"/>
+                </ab_mod>
+                </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y11.10NerangEnglish.a" xml:lang="Pahl">The <em>zōt</em> holds his hand on the lower part of the <em>barsom</em>. The
+                    <em>frabardār</em> puts the <em>parāhom</em> to the right hand of the
+                    <em>zōt</em>
+            </ab1>
+        </div>
+        <div n="11" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y11.11NerangTranslit.a" xml:lang="Pahl">
+                <em>aṣ̌əm vohu</em> slyšʾmlwtyk gwbšn' W plʾhwm PWN 3 bʾl OŠTEN-tn' KRA bʾl lʾspyk
+                ʾšmwhw' 2 gwptn' W zwt' PWME DKYA krtn' W YDE KRA 2 PWN pʾtyʾp krtn' Q̱DM blswm
+                HNHTWN-tn' </ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y11.11NerangTransc.a" xml:lang="Pahl">
+                <em>aṣ̌əm vohu</em> srišāmrūtīg gōwišn ud parāhōm pad 3 bār xwardan har bār rāspīg
+                ašemwohu 2 guftan ud zōt dahān pāk kardan ud dast har dō pad pādyāb kardan abar
+                barsom nihādan  <ab_mod xml:id="Yasna11_11">
+                    <span class="glyphicon glyphicon-facetime-video"/>
+                </ab_mod> </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y11.11NerangEnglish.a" xml:lang="Pahl">The <em>aṣ̌əm vohu</em> is recited three times und at all three times (the
+                    <em>zōt</em>) should drink the <em>parāhōm</em>. Each time, the <em>rāspīg</em>
+                recites 2 Ašemwohu. The <em>zōt</em> should clean his mouth and wash both hands with
+                    <em>pādyāb</em> and put them on the <em>barsom</em>
+            </ab1>
+        </div>
+    </div>
+    <div n="13" type="chapter">
+        <div n="9" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y13.9NerangTranslit.a" xml:lang="Pahl">
+                <em>yaϑā. ahū. vairiiō.</em> 4 gwptnˈ PWN KRA <em>š́iiaoθananąm</em> glyh Y blswm
+                ywmḆYNytnˈ</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y13.9NerangTransc.a" xml:lang="Pahl">
+                <em>yaϑā. ahū. vairiiō.</em> 4 guftan pad har <em>š́iiaoθananąm</em> grih ī barsom
+                ǰumbēnīdan  <ab_mod xml:id="Yasna13_9">
+                    <span class="glyphicon glyphicon-facetime-video"/>
+                </ab_mod>
+                </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y13.9NerangEnglish.a" xml:lang="Pahl">He
+                should say <em>yaϑā. ahū. vairiiō.</em> four times. At each <em>š́iiaoθananąm</em>,
+                he should shake the knot of the <em>barsom</em>
+            </ab1>
+        </div>
+    </div>
+    <div n="15" type="chapter">
+        <div n="1" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y15.1NerangTranslit.a" xml:lang="Pahl">
+                <em>sastica</em> zwt W lʾspyk KRA 2 BRA gwbšn' blswm 8 PWN dwkʾnk-1 MN dšn' ʾwšmwltn'
+                blswm Q̱DM OHDWN-šn' ʾywk tʾk lʾstl *W stpltl PWN dtwš OḆYDWN-šn' BRA ʾplʾcynšn'
+                blswm OL mʾlwk' YḆLWN-šn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y15.1NerangTransc.a" xml:lang="Pahl">
+                <em>sastica</em> zōt ud rāspīg har dō bē gōwišn barsom 8 pad dōgānag-ē az dašn
+                ōšmurdan barsom abar gīrišn ēk tāk rāsttar ud stabrtar pad datuš kunišn bē
+                abrāzēnišn' barsom ō māhrōy barišn </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y15.1NerangEnglish.a" xml:lang="Pahl">Both, <em>zōt</em> and <em>rāspīg</em> say <em>sastica</em>. (The <em>zōt</em>)
+                should count from the right eight twigs of the <em>barsom</em> in pairs. He has to
+                take the <emp>barsom</emp>, make the straightest and strongest of the twigs to
+                    <em>datuš</em>, to raise it and to bring the <em>barsom</em> to the
+                    <em>barsomdān</em>
+            </ab1>
+            <ab1 n="NerangTranslit.b" source="0400" xml:id="Y15.1NerangTranslit.b" xml:lang="Pahl">swkʾlk LAWHL lʾst' OHDWN-šn' yyw' LAWHL HLKWN-šn'</ab1>
+            <ab1 n="NerangTransc.b" source="0400" xml:id="Y15.1NerangTransc.b" xml:lang="Pahl">skūrag abāz rāst gīrišn ǰīw abāz baxšišn   <ab_mod xml:id="Yasna15_1">
+                    <span class="glyphicon glyphicon-facetime-video"/>
+                </ab_mod>
+                </ab1>
+            <ab1 n="NerangEnglish.b" source="0400" xml:id="Y15.1NerangEnglish.b" xml:lang="Pahl">He
+                has to take again the saucer (with) the right (hand) and to distribute again the
+                consacrated milk </ab1>. </div>
+        <div n="2" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y15.2NerangTranslit.a" xml:lang="Pahl">plʾgʾm W yʾm OL wl Y glyyh Y blswm bwrtn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y15.2NerangTransc.a" xml:lang="Pahl">frāgām ud ǰām ō war ī *grīh ī barsom burdan   <ab_mod xml:id="Yasna15_2">
+                    <span class="glyphicon glyphicon-facetime-video"/>
+                </ab_mod>
+                </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y15.2NerangEnglish.a" xml:lang="Pahl">He
+                should bring <em>frāgām</em> and consecrated milk to the height of the knot of the
+                    <em>barsom</em>
+            </ab1>. </div>
+    </div>
+    <div n="18" type="chapter">
+        <div n="12" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y18.12NerangTranslit.a" xml:lang="Pahl">
+                    <em>yeŋ́hē. hātąm. āat̰. ẏesne. paitū </em>  ycšnyhʾ ʾywʾʾmlwtyk gwbšn'  LOYŠE zwhl YNSḆWN-x1'</ab1>
+                <ab1 n="NerangTransc.a" source="0400" xml:id="Y18.12NerangTransc.a" xml:lang="Pahl">c<em>yeŋ́hē. hātąm. āat̰. ẏesne. paitū </em> He has to recite the
+                    <em>yazišnīhā</em> (Yeŋ́hē.hātā) once and has to take the top of the <em>zōhr</em>.</ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y18.12NerangEnglish.a" xml:lang="Pahl">He
+                has to say it four times standing and in loud voice. He should raise the
+                <em>frāgām</em>
+            </ab1>. </div>
+        <div n="13" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y18.13NerangTranslit.a" xml:lang="Pahl">cslwšʾmlwtyk gwbšn' MN LGLE PWN bwlnd KALA gwbšn' plʾgʾm ʾplʾstn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y18.13NerangTransc.a" xml:lang="Pahl">casrušāmrūtīg gōwišn az pāy pad buland wāng gōwišn frāgām abrāstan</ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y18.13NerangEnglish.a" xml:lang="Pahl">He
+                has to say it four times standing and in loud voice. He should raise the
+                    <em>frāgām</em>
+            </ab1>. </div>
+    </div>
+
+    <div n="22" type="chapter">
+        <div n="2" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y22.2NerangTranslit.a" xml:lang="Pahl">ʾysm W bwd 1 tʾk MN dšn' BRA HNHTWN-šn' W hwm PWN kmystyh 3 tʾk W ʾwlwlʾm pʾlk-1
+                HNHTWN-tn'</ab1>
+            <ab1 n="NerangTransc.a" source="0040" xml:id="Y22.2NerangTransc.a" xml:lang="Pahl">ēsm
+                ud bōy ēk tāg az dašn bē nihišn ud hōm pad kamistīh 3 tāg ud urwarām pārag-ē
+                nihādan</ab1>
+            <ab1 n="NerangEnglish.a" source="0040" xml:id="Y22.2NerangEnglish.a" xml:lang="Pahl">He
+                has to put in place one piece of wood and incense at the right side and he
+                should put in place <em>hōm</em>, at leat three twigs, and one piece of pomegranate</ab1>.
+        </div>
+    </div>
+    <div n="24" type="chapter">
+        <div n="1" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y24.1NerangTranslit.a" xml:lang="Pahl">tštk MNW-š hwm W ʾwlwlʾm ḆYN ZK-c ZY-š yʾm ḆYN YDE YHSNN-šn LWTE ʾpstʾk LALA
+                dʾlšn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y24.1NerangTransc.a" xml:lang="Pahl">taštag kē-š hōm ud urwarām andar ān-iz ī-š ǰām andar dast dārišn abāg abastāg ul
+                dārišn  <ab_mod xml:id="Yasna24_1">
+                    <span class="glyphicon glyphicon-facetime-video"/>
+                </ab_mod>
+                </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y24.1NerangEnglish.a" xml:lang="Pahl">He
+                has to hold in the hand the saucer in which it is the <em>hōm</em> and the
+                pomegranate and the saucer in which it is the consecrated milk. While reciting the
+                Avestan text, he has to hold them up</ab1>. </div>
+        <div n="13" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y24.13NerangTranslit.a" xml:lang="Pahl">ẔNE gywʾk tštk MNWš hwm W ʾwlwlʾm ḆYN PWN dtwš LAWHL HNHTWNšnˈ PWN ʾwlwys BRA
+                HNHTWNšn' hʾwnˈ MN kwstkˈ Y hwy OL kwstk' dšnˈ YHYTYWNšnˈ PWN lwd prʾc nkwn'
+                kwnšnˈ</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y24.13NerangTransc.a" xml:lang="Pahl">ēn
+                gyāg taštag kē-š hōm ud urwarām andar pad datuš abāz nihišn pad urwēs bē nihišn
+                hāwan az kustag ī hōy ō kustag *ī dašn āwarišn pad rōy frāz nigūn kunišn</ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y24.13NerangEnglish.a" xml:lang="Pahl">Here, he has to put the saucer containing the <em>hōm</em> and the pomegranate next
+                to the <em>datuš</em>: He has to put it on the <em>urwēs</em>. He has to bring the
+                mortar from the left side to the right side and invert it </ab1>
+        </div>
+    </div>
+    <div n="25" type="chapter">
+        <div n="1" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y25.1NerangTranslit.a" xml:lang="Pahl">hʾwnˈ LAWHL wltynšnˈ</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y25.1NerangTransc.a" xml:lang="Pahl">hāwan
+                abāz wardēnišn  <ab_mod xml:id="Yasna25_1">
+                    <span class="glyphicon glyphicon-facetime-video"/>
+                </ab_mod>
+                </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y25.1NerangEnglish.a" xml:lang="Pahl">He
+                has to turn the mortar again upside</ab1>
+        </div>
+        <div n="1" type="stanza">
+            <ab1 n="NerangTranslit.b" source="0400" xml:id="Y25.1NerangTranslit.b" xml:lang="Pahl">hwm W ʾwlwlʾm ḆYN hʾwnˈ LMYTWNšnˈ</ab1>
+            <ab1 n="NerangTransc.b" source="0400" xml:id="Y25.1NerangTransc.b" xml:lang="Pahl">hōm
+                ud urwarām andar hāwan abganišn  <ab_mod xml:id="Yasna25_1">
+                    <span class="glyphicon glyphicon-facetime-video"/>
+                </ab_mod>
+                </ab1>
+            <ab1 n="NerangEnglish.b" source="0400" xml:id="Y25.1NerangEnglish.b" xml:lang="Pahl">He
+                has to throw the <em>hōm</em> and the pomegranate in the mortar</ab1>. </div>
+    </div>
+   
+    <div n="27" type="chapter">
+        <div n="0" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y27.0NerangTranslit.a" xml:lang="Pahl">ʾsm W bwd HNHTWNt YKOYMWNytˈ OL ʾthš YḆLWNšnˈ</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y27.0NerangTransc.a" xml:lang="Pahl">ēsm
+                ud bōy nihād ēstēd ō ātaxš barišn</ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y27.0NerangEnglish.a" xml:lang="Pahl">He
+                has to bring to the fire the wood and incense that has been put</ab1>
+        </div>
+        <div n="1" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y27.1NerangTranslit.a" xml:lang="Pahl">ʾplhʾwnˈ BRA ʾplʾdynšnˈ</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y27.1NerangTransc.a" xml:lang="Pahl">abarhāwan bē abrāyēnišn</ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y27.1NerangEnglish.a" xml:lang="Pahl">He
+                has to raise the pestle</ab1>
+        </div>
+        <div n="1" type="stanza">
+            <ab1 n="NerangTranslit.b" source="0400" xml:id="Y27.1NerangTranslit.b" xml:lang="Pahl">ʾplhʾwnˈ PWN ʾlwys BRA HNHTWNšnˈ</ab1>
+            <ab1 n="NerangTransc.b" source="0400" xml:id="Y27.1NerangTransc.b" xml:lang="Pahl">abarhāwan pad urwēs bē nihišn</ab1>
+            <ab1 n="NerangEnglish.b" source="0400" xml:id="Y27.1NerangEnglish.b" xml:lang="Pahl">He
+                has to put the pestle again on the <em>urwēs</em>
+            </ab1>
+        </div>
+        <div n="2" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y27.2NerangTranslit.a" xml:lang="Pahl">PWN KRA fradaϑāi ʾplhʾwnˈ 4 ʾngwstˈ BRA ʾplʾcynšnˈ ʾytwn’ AYK PWN pnc fradaϑāi gwš
+                bʾlʾ YDE Q̱DM YHSNNytˈ PWN dāmanąm. aṣ̌aonąm ʾplhʾwnˈ OL BBA Y hʾwnˈ HNHTWNšnˈ</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y27.2NerangTransc.a" xml:lang="Pahl">pad
+                har <em>fradaϑāi</em> abarhāwan 4 angušt bē abrāzēnišn ēdōn kū pad panǰ
+                    <em>fradaϑāi</em> gōš bālā dast abar dārēd pad <em>dāmanąm. aṣ̌aonąm</em>
+                abarhāwan ō dar ī hāwan nihišn</ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y27.2NerangEnglish.a" xml:lang="Pahl">At
+                each <em>fradaϑāi</em>, he has to raise the pestle four fingers so that he holds his
+                hand at the height of the ears at the fifth <em>fradaϑāi</em>. At <em>dāmanąm.
+                    aṣ̌aonąm</em>, he has to put the pestle in the mortar.</ab1>
+        </div>
+        <div n="3" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y27.3NerangTranslit.a" xml:lang="Pahl">wycyst ctlwšʾmlwtyk gwbšn' ʾplhʾwnˈ PWN ytʾhwwylywkˈ pltwm ʾplhʾwnˈ PWN BBA Y hʾwnˈ
+                cygwnˈ hwlšytˈ gltyt' BRA gltynšnˈ PWN ytʾhwwylywkˈ pltwm PWN š́iiaōθananąm 1 W PWN
+                aŋhə̄uš ʾywk bʾl W PWN mazdāi ʾywk bʾl kwptnˈ W PWN dtygl hm ʾytwn PWN ẔNE wʾck'
+                KRA ʾywk 2 bʾl W PWN stygl ytʾhwwylywk' hm PWN ẔNE wʾckyhʾ KRA ʾywk 3 bʾl kwptnˈ
+                ʾytwnˈ MNW pltwm YHWWNytˈ 3 bʾl W PWN dtygl 6 bʾl W PWN stygl 9 bʾl PWN xšaθrəmcā
+                stygl ʾplhʾwnˈ gwš bʾlʾ BRA ʾplʾcynšnˈ PWN ytʾhwwylywk' chʾlwm hwm W ʾwlwlʾm hmʾy
+                kwpšnˈ</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y27.3NerangTransc.a" xml:lang="Pahl">wacast catršāmrūtīg gōwišn abarhāwan pad yatāhuwairyō fradom abarhāwan pad dar ī
+                hāwan cīyōn xwaršēd gardēd bē gardēnišn pad yatāhūwairyō fradom pad
+                    <em>š́iiaōθananąm</em> 1 und pad <em>aŋhə̄uš</em> ēk bār ud pad <em>mazdāi</em>
+                ēk bār kōftan ud pad dudīgar ham ēdōn pad ēn wāzag har ēk dō bār ud pad sidīgar
+                yatāhūwairyō ham pad ēn wāzagīhā har ēk 3 bār kōftan ēdōn *ku fradom bawēd 3 bār ud
+                pad dudīgar 6 bār ud pad sidīgar 9 bār pad <em>xšaθrəmcā</em> sidīgar abarhāwan gōš
+                bālā bē abrāzēnišn pad yatāhūwairyō cahārom hōm ud urwarām hamē kōbišn  <ab_mod xml:id="Yasna27_3">
+                    <span class="glyphicon glyphicon-facetime-video"/>
+                </ab_mod>
+                </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y27.3NerangEnglish.a" xml:lang="Pahl">The
+                stanza has to be said four times. During the first Yatāhūwairyō he has to turn the
+                pestle over around the mortar in the direction in which the sun rotates. During the
+                first Yatāhūwairyō, he has to strike (with the pestle) once at
+                    <em>š́iiaōθananąm</em>, once at <em>aŋhə̄uš</em> and once at <em>mazdāi</em>.
+                During the second, he has to strike twice each time at the same words and during the
+                third Yatāhūwairyō, three times each time at the same words so that they are three
+                times during the first, six during the second and 9 during the third. At the third
+                    <em>xšaθrəmcā</em>, he has to raise the pestle to the height of the ears. During
+                the fourth Yatāhūwairyō, he has to strike continuously .</ab1>
+        </div>
+        <div n="4" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y27.4NerangTranslit.a" xml:lang="Pahl">ctlwšʾmlwtyk gwbšn' hwm W ʾwlwlʾm kwptnˈ W hʾwnˈ škʾptnˈ</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y27.4NerangTransc.a" xml:lang="Pahl">catrušāmrūtīg gōwišn hōm ud urwarām kōftan ud hāwan škāftan  <ab_mod xml:id="Yasna27_4">
+                    <span class="glyphicon glyphicon-facetime-video"/>
+                </ab_mod>
+                </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y27.4NerangEnglish.a" xml:lang="Pahl">He
+                has to say it four times, to strike the <em>hōm</em> and pomegranate and to hit the
+                mortar.</ab1>
+        </div>
+        <div n="5" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y27.5NerangTranslit.a" xml:lang="Pahl">ctlwšʾmlwtyk gwbšn' hwm W ʾwlwlʾm kwptnˈ W hʾwnˈ škʾptnˈ</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y27.5NerangTransc.a" xml:lang="Pahl">catrušāmrūtīg gōwišn hōm ud urwarām kōftan ud hāwan škāftan  <ab_mod xml:id="Yasna27_5">
+                    <span class="glyphicon glyphicon-facetime-video"/>
+                </ab_mod>
+                </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y27.5NerangEnglish.a" xml:lang="Pahl">He
+                has to say it four times, to strike the <em>hōm</em> and pomegranate and to hit the
+                mortar.</ab1>
+        </div>
+        <div n="6" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y27.6NerangTranslit.a" xml:lang="Pahl">ʾšymwhwwk' s gwptn' PWN KRA ʾywk-1 zwhl ʾndk-1 PWN vohū ̣ˍBYN hʾwn' kwnšn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y27.6NerangTransc.a" xml:lang="Pahl">ašemwohū 3 guftan pad har ēk-ē zōhr andak-ē pad <em>vohū</em> andar hāwan
+                kunišn   <ab_mod xml:id="Yasna27_6">
+                    <span class="glyphicon glyphicon-facetime-video"/>
+                </ab_mod>
+                </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y27.6NerangEnglish.a" xml:lang="Pahl">He
+                has to say Ašəm Vohū three times. In each recitation, at <em>vohū</em> he has to
+                pour one drop of <em>zōhr</em> in the mortar.</ab1>
+        </div>
+        <div n="7" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y27.7NerangTranslit.a" xml:lang="Pahl">
+                ʾplhʾwnˈ cygwnˈ hwlšt gltytˈ ḆYN hʾwnˈ 3 bʾl gltynytnˈ</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y27.7NerangTransc.a" xml:lang="Pahl">abarhāwan cīyōn xwaršēd gardēd andar hāwan 3 bār gardēnīdan  <ab_mod xml:id="Yasna27_7">
+                    <span class="glyphicon glyphicon-facetime-video"/>
+                </ab_mod>
+                </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y27.7NerangEnglish.a" xml:lang="Pahl">He
+                has to turn three times the pestle over around within the mortar in the direction in
+                which the sun rotates</ab1>
+        </div>
+        <div n="8" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y27.8NerangTranslit.a" xml:lang="Pahl">hwm W ʾlwlʾm PWN ʾplhʾwnˈ YNSḆWN-tn' slšk-1 ḆYN <em>jīv.dąn</em> LMYTWN-šn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y27.8NerangTransc.a" xml:lang="Pahl">hōm
+                ud urwarān pad abarhāwan stādan srešk-ē andar <em>jīv.dąn</em> abganišn  <ab_mod xml:id="Yasna27_8">
+                    <span class="glyphicon glyphicon-facetime-video"/>
+                </ab_mod>
+                </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y27.8NerangEnglish.a" xml:lang="Pahl"> He
+                should take <em>hōm</em> and pomegranate with the pestle and throw one drop in the
+                saucer for the consecrated milk</ab1>
+
+            <ab1 n="NerangTranslit.b" source="0400" xml:id="Y27.8NerangTranslit.b" xml:lang="Pahl">ʾplhʾwn' LWTE hwm W ʾwlwlʾm PWN sl Y blswm HNHTWN-tn' PWN wl Y zwhlk Y ḆYN
+                hwy</ab1>
+            <ab1 n="NerangTransc.b" source="0400" xml:id="Y27.8NerangTransc.b" xml:lang="Pahl">abarhāwan abāg hōm ud urwarām pad sar ī barsom nihādan pad war ī zōhrag ī andar
+                hōy  <ab_mod xml:id="Yasna27_8">
+                    <span class="glyphicon glyphicon-facetime-video"/>
+                </ab_mod>
+                </ab1>
+            <ab1 n="NerangEnglish.b" source="0400" xml:id="Y27.8NerangEnglish.b" xml:lang="Pahl"> He
+                should put the pestle with <em>hōm</em> and pomegranate towards the <em>barsom</em>
+                at the level of the saucer for the libation that is in the left.</ab1>
+        </div>
+        <div n="9" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y27.9NerangTranslit.a" xml:lang="Pahl">ctlwšʾmlwtyk gwbšn' PWN ZK Y pltwm PWN š́iiaōθananąm zwl ḆYN hwm *pʾlʾ kwnšn' PWN
+                xšaϑrəmcā BRA ʾpšʾlšn' PWN ZK Y dtygl W stygl W chʾlwm hm ʾytwn BRA ʾpšʾlšn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y27.9NerangTransc.a" xml:lang="Pahl">catrušāmrūtīg gōwišn pad ān ī fradom pad <em>š́iiaōθananąm</em> zōhr andar hōm
+                pālā kunišn pad <em>xšaϑrəmcā</em> bē afšārišn pad ān ī dudīgar ud sidīgar ud
+                cahārom ham ēdōn bē afšārišn  <ab_mod xml:id="Yasna27_9">
+                    <span class="glyphicon glyphicon-facetime-video"/>
+                </ab_mod>
+                </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y27.9NerangEnglish.a" xml:lang="Pahl"> He
+                has to recite it four times. During the first one, at <em>š́iiaōθananąm</em> he has
+                to pour the <em>zōhr</em> into the <em>hōm-pālā</em>-. At <em>xšaϑrəmcā</em> he has
+                to squeeze it. During the second, third and fourth (Yatāhunwairyō), he has to squeeze in
+                the same way. </ab1>
+        </div>
+        <div n="10" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y27.10NerangTranslit.a" xml:lang="Pahl">3 gwptn PWN paitī BRA ʾpšʾlšn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y27.10NerangTransc.a" xml:lang="Pahl">3
+                guftan pad <em>paitī</em> bē afšārišn  <ab_mod xml:id="Yasna27_10">
+                    <span class="glyphicon glyphicon-facetime-video"/>
+                </ab_mod>
+                </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y27.10NerangEnglish.a" xml:lang="Pahl">
+                He has to recite it three times. At <em>paitī</em>, he has to press it.</ab1>
+        </div>
+        <div n="11" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y27.11NerangTranslit.a" xml:lang="Pahl">zwhl LALA YHSNNšnˈ PWN HNA wycstˈ MN dšnˈ PWN HNA wycstˈ MN hwy PWN HNA wycstˈ PWN
+                wl Y zwhlkˈ YHSNNšnˈ PWN 4wm wycstˈ Q̱DM blswm HNHTWNšnˈ PWN LOYŠE Y mʾhlwg
+                YHSNNšnˈ</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y27.11NerangTransc.a" xml:lang="Pahl">zōhr
+                ul dārišn pad ēd wacast az dašn pad ēd wacast az hōy pad ēd wacast pad war ī zōhrag
+                dārišn pad cahārom wacast abar barsom nihišn pad sar ī māhrōy dārišn  <ab_mod xml:id="Yasna27_11">
+                    <span class="glyphicon glyphicon-facetime-video"/>
+                </ab_mod> </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y27.11NerangEnglish.a" xml:lang="Pahl">
+                He has to hold the <em>zōhr</em> up, during the  recitation of the first stanza from
+                the right; during the second, from the left; during the third, towards the saucer
+                for the libation (<em>zōhrag</em>); during the fourth, he has to put it on the
+                    <em>barsom</em>, on the top of the <em>māhrōy</em>
+            </ab1>
+        </div>
+        <div n="13" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y27.13NerangTranslit.a" xml:lang="Pahl">tštk' MNWš zwhl ḆYN PWN LOYŠE Y blswm dtwš YHSNNšn' PWN ʾwlwys BRA HNHTWNšn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y27.13NerangTransc.a" xml:lang="Pahl">taštag kē-š zōhr andar pad sar ī barsom datuš dārišn pad urwēs bē nihišn </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y27.13NerangEnglish.a" xml:lang="Pahl">He
+                has to hold the saucer that contains the libation above the <em>datuš</em> of the
+                <em>barsom</em>. and to put it on the <em>urwēs</em> </ab1>
+        </div>
+    </div>
+    <div n="30" type="chapter">
+        <div n="8" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y30.8NerangTranslit.a" xml:lang="Pahl">hwm W ʾlwlʾm ḆYN hʾwn' LMYTWN-šn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y30.8NerangTransc.a" xml:lang="Pahl">hōm
+                ud urwarām andar hāwan abganišn </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y30.8NerangEnglish.a" xml:lang="Pahl">He
+                has to throw <em>hōm</em> and pomegranate into the mortar. </ab1>
+        </div>
+    </div>
+    <div n="31" type="chapter">
+        <div n="4" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y31.4NerangTranslit.a" xml:lang="Pahl">hwm W ʾlwlʾm kwptn' W hʾwn' škʾptn' OD wycst' LOYŠE YHWWN-yt ʾp' ḆYN krtn' W
+                ʾpšʾltn' </ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y31.4NerangTransc.a" xml:lang="Pahl">hōm
+                ud urwarām kōftan ud hāwan škāftan tā wacast sar bawēd āb andar kardan ud afšārdan </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y31.4NerangEnglish.a" xml:lang="Pahl">He
+                should strike the <em>hōm</em> and pomegranate and hit the mortar until the end of
+                the stanza. He should add water and press.</ab1>
+        </div>
+    </div>
+    <div n="32" type="chapter">
+        <div n="12" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y32.12NerangTranslit.a" xml:lang="Pahl">hwm W ʾlwlʾm kwptn' W hʾwn' škʾptn' zwl ḆYN krtn' W PWN hwm *pyʾlk krtn' MNW Q̱DM
+                LOYŠE yywdʾn' YKOYMWN-yt'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y32.12NerangTransc.a" xml:lang="Pahl">hōm
+                ud urwarām kōftan ud hāwan škāftan zōhr andar kartan ud pad hōm *pālag kardan kē
+                abar sar *ī ǰīwdān ēstēd</ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y32.12NerangEnglish.a" xml:lang="Pahl">He
+                should strike the <em>hōm</em> and pomegranate and hit the mortar. He should add
+                    <em>zōhr</em> and put (the mix) in the <em>hōm</em>-filter that is on the top of
+                the <em>ǰīwdān</em>.</ab1>
+        </div>
+    </div>
+    <div n="33" type="chapter">
+        <div n="4" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y33.4NerangTranslit.a" xml:lang="Pahl">hwm W ʾlwlʾm kwptn' W hʾwn' škʾptn' OD wycst LOYŠE</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y33.4NerangTransc.a" xml:lang="Pahl">hōm
+                ud urwarām kōftan ud hāwan škāftan tā wacast sar</ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y33.4NerangEnglish.a" xml:lang="Pahl">He
+                should strike the <em>hōm</em> and pomegranate and hit the mortar until the end of
+                the stanza.</ab1>
+        </div>
+        <div n="11" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y33.11NerangTranslit.a" xml:lang="Pahl">slyšʾmlwtyk gwbšn' PWN KRA paitī hwm W ʾlwlʾm BRA ʾpšʾlšn' skwlk ḆYN mdyʾn' hwm
+                pʾlk HNHTWN-šn' lʾspyk BRA LOYŠE 4 ʾngwst' Q̱DM OHDWN-šn' OL yDE Y hwy Y zwt
+                YḆLWN-šn' yywdʾn' Q̱DM LOYŠE Y zwhl HNHTWN-šn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y33.11NerangTransc.a" xml:lang="Pahl">srišāmrūtīg gōwišn pad har <em>paitī</em> hōm ud urwarām bē afšārišn skūrag andar
+                mayān hōm *pālā nihišn rāspīg bē sar 4 angust abar gīrišn ō dast ī hōy ī zōt barišn
+                ǰīwdān abar sar ī zōhr nihišn</ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y33.11NerangEnglish.a" xml:lang="Pahl">He
+                has to recite the stanza three times. At each <em>paitī</em>, he has to strain the
+                    <em>hōm</em> and pomegranate. He has to put the saucer on the middle of the
+                    <em>hōm</em> strainer. The <em>rāspīg</em> has to take it with four fingers and
+                bring it to the left hand of the <em>zōt</em>. He has to place the saucer for
+                consecrated milk on the top of the <em>zōhr</em>.</ab1>
+        </div>
+        <div n="19" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0040" xml:id="Y33.19NerangTranslit.a" xml:lang="Pahl">skwlk ḆYN mdyʾn' [y] hwm pʾłʾy  HNHTWN-šn' lʾspyk PWN sl y 4 ʾngwst' Q̱DM OHDWN-šn'
+                BRA YDE y hwy [y] zwt YḆLWN-šn' yywdʾn' Q̱DM LOYŠE zwhl HNHTWN-šn' </ab1>
+            <ab1 n="NerangTransc.a" source="0040" xml:id="Y33.19NerangTransc.a" xml:lang="Pahl">skurag andar miyān ī hōm pālā nihišn rāspīg pad sar ī 4 angust abar gīrišn be
+                dast ī hōy ī zōt barišn ǰīwdān abar sar zōhr nihišn  <ab_mod xml:id="Yasna34_4">
+                    <span class="glyphicon glyphicon-facetime-video"/>
+                </ab_mod>
+                </ab1>
+            <ab1 n="NerangEnglish.a" source="0040" xml:id="Y33.19NerangEnglish.a" xml:lang="Pahl">He
+                has to put the bowl (<em>skurag</em>) in the middle of the <em>hōm</em> filter. The
+                    <em>rāspīg</em> has to take it with the tips of four fingers and bring it to the
+                left hand of the <em>zōt</em> and to place the <em>ǰīwdān</em> on the
+                <em>zōhr</em>.</ab1>
+        </div>
+    </div>
+    <div n="57" type="chapter">
+        <div n="3" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0040" xml:id="Y57.3NerangTranslit.a" xml:lang="Pahl">ʾthš Q̱DM ʾplwhtn' wʾc PWN ʾthš ʾplwc OHDWN-tn'</ab1>
+            <ab1 n="NerangTransc.a" source="0040" xml:id="Y57.3NerangTransc.a" xml:lang="Pahl">ātaxš
+                abar abrōxtan wāž pad ātaxš abrōz griftan</ab1>
+            <ab1 n="NerangEnglish.a" source="0040" xml:id="Y57.3NerangEnglish.a" xml:lang="Pahl">He
+                should kindle the fire and take the <em>wāž</em> while kindling the fire.</ab1>
+        </div>
+    </div>
+    <div n="58" type="chapter">
+        <div n="9" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y58.9NerangTranslit.a" xml:lang="Pahl">ẔNE gywʾk zwt YDE PWN pʾtyʾp krtn' W MYA ḆYN skwlk' krtn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y58.9NerangTransc.a" xml:lang="Pahl">ēn
+                gyāg zōt dast pad pādyāb kardan ud āb andar skūrag kardan </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y58.9NerangEnglish.a" xml:lang="Pahl">Now, the <em>zōt</em> should wash his hands with <em>pādyāb</em> and put water in
+                the saucer.</ab1>
+        </div>
+    </div>
+    <div n="59" type="chapter">
+        <div n="19" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y59.19NerangTranslit.a" xml:lang="Pahl">ẔNE gywʾk MYA BRA sl Y blswm krtn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y59.19NerangTransc.a" xml:lang="Pahl">ēn
+                gyāg āb bē sar ī barsom kardan </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y59.19NerangEnglish.a" xml:lang="Pahl">Now, he should pour some water on the <em>barsom</em>.</ab1>
+        </div>
+        <div n="29" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y59.29NerangTranslit.a" xml:lang="Pahl">ẔNE gywʾk blswm MN mʾhlwg YNSḆWN-šn' dtwš BRA †wyšʾyšn' ( wycʾsšn') LWTE gywʾk  [Y] NPŠE ASLWN-šn'
+                plʾgʾm PWN bwn Y blswm †ʾpʾc (ʾpʾy) kwnšn' LWTE mʾlrwk HNHTWN-šn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y59.29NerangTransc.a" xml:lang="Pahl">ēn
+                gyāg barsom az māhrōy stānišn datuš bē wišāyišn ud' abāg gyāg ī xwēš bandišn frāgām pad
+                bun ī barsom abāz kunišn abāg māhrōy nihišn </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y59.29NerangEnglish.a" xml:lang="Pahl">At this passage, he has to remove the <em>barsom</em> from the <em>māhrōy</em>, to loose
+                the <em>datuš</em> and to bind it at its own place. He has to remove the
+                    <em>frāgām</em> from the bottom of the <em>barsom</em> and put it
+               on the <em>māhrōy</em>
+            </ab1>
+        </div>
+        <div n="32" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y59.32NerangTranslit.a" xml:lang="Pahl">lʾspyk PWN gʾs Y plbltʾlʾn' MN LGLE gwptn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y59.32NerangTransc.a" xml:lang="Pahl">rāspīg pad gāh ī frabardārān az pāy guftan</ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y59.32NerangEnglish.a" xml:lang="Pahl">The <em>rāspīg</em> has to recite (the following) standing at the place of the
+                    <em>frabardārān</em>
+            </ab1>
+        </div>
+    </div>
+    <div n="62" type="chapter">
+        <div n="1" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y62.1NerangTranslit.a" xml:lang="Pahl">blswm MN blswmdʾn' LALA dʾlšn' W nmʾc OL ʾthš YḆLWN-šn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y62.1NerangTransc.a" xml:lang="Pahl">barsom az barsomdān ul dārišn ud namāz ō ātaxš barišn  <ab_mod xml:id="Yasna62_1">
+                    <span class="glyphicon glyphicon-facetime-video"/>
+                </ab_mod>
+                </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y62.1NerangEnglish.a" xml:lang="Pahl">He
+                should remove the <em>barsom</em> from the <em>barsomdān</em> and pay homage to the
+                fire.</ab1>
+        </div>
+        <div n="9" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y62.9NerangTranslit.a" xml:lang="Pahl">hwm W ʾlwlʾm kwstk OL ʾthš YHBWN-šn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y62.9NerangTransc.a" xml:lang="Pahl">hōm
+                ud urwarām kōstag ō ātaxš dahišn</ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y62.9NerangEnglish.a" xml:lang="Pahl">He
+                has to give the pressed <em>hōm</em> and pomegranate to the fire.</ab1>
+        </div>
+        <div n="11" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y62.11NerangTranslit.a" xml:lang="Pahl">AHL blswm plwt OL mʾhlwk HNHTWN-tn' zwhl sl Q̱DM OHDWN-tn' W zwhl BRA
+                nkylytn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y62.11NerangTransc.a" xml:lang="Pahl">pas
+                barsom frōd ō māhrōy nihādan zōhr sar abar griftan ud zōhr bē nigerīdan</ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y62.11NerangEnglish.a" xml:lang="Pahl">He
+                has to put the <em>barsom</em> on the <em>māhrōy</em>, take the zōhr (that is on)
+                the top (of the <em>hōm</em> cup) and gaze at the <em>zōhr</em>
+            </ab1>
+        </div>
+    </div>
+    <div n="63" type="chapter">
+        <div n="1" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y63.1NerangTranslit.a" xml:lang="Pahl">plʾgʾm PWN yyw kwnšn' PWN vaṇtā MN YDE dšn' PWN dtwš YḆLWN-šn' AHL zwhl Q̱DM
+                OHDWN-tn' </ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y63.1NerangTransc.a" xml:lang="Pahl">frāgām pad ǰīw kunišn pad <em>vaṇtā</em> az dast dašn pad datuš barišn pas zōhr
+                abar griftan </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y63.1NerangEnglish.a" xml:lang="Pahl">He
+                has to take the <em>frāgām</em> to the consecrated milk. At <em>vaṇtā</em>, he has
+                to bring (the <em>frāgām</em>) from the right hand to the <em>datuš</em>.
+                Afterwards, he should take the <em>zōhr</em> remove the <em>barsom</em>.</ab1>
+        </div>
+        <div n="2" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0040" xml:id="Y63.2NerangTranslit.a" xml:lang="Pahl">skwlk' MNW-š zwhl ptš Q̱DM yʾm gʾs W blswm HNHTWN-tn'</ab1>
+            <ab1 n="NerangTransc.a" source="0040" xml:id="Y63.2NerangTransc.a" xml:lang="Pahl">skūrag kē-š zōhr padiš abar ǰām gāh ud barsom nihādan </ab1>
+            <ab1 n="NerangEnglish.a" source="0040" xml:id="Y63.2NerangEnglish.a" xml:lang="Pahl">He
+                should place the saucer next to the the place of the consecrated milk and to the
+                    <em>barsom</em>.</ab1>
+        </div>
+        <div n="3" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y63.3NerangTranslit.b" xml:lang="Pahl"><em>ahurəm. mazdąm.</em>PWN mdyʾnk' blswm Q̱DM 3 [ʾngwst] YḆLWN-yt <em>aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide. </em>Q̱DM OL zwhlk MN LOYŠE blswm PWN 4 ʾngwst</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y63.3NerangTransc.b" xml:lang="Pahl"> <em>ahurəm. mazdąm.</em> pad
+                mayānag barsom abar 3 angust barēd <em>aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide. </em>abar
+                ō zōhrag az sar barsom pad 4 angust  </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y63.3NerangEnglish.b" xml:lang="Pahl">At <em>ahurəm. mazdąm.</em>, he brings it on
+                the middle of the <em>barsom</em>, at three fingers distance. At <em>aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide. </em>, on
+                the <em>zōhrag</em> from the end of the <em>barsom</em>, at four fingers
+                distance.</ab1>
+
+            <ab1 n="NerangTranslit.c" source="0400" xml:id="Y63.3NerangTranslit.c" xml:lang="Pahl">prʾctwm LOYŠE blswm</ab1>
+            <ab1 n="NerangTransc.c" source="0400" xml:id="Y63.3NerangTransc.c" xml:lang="Pahl">frāztom sar barsom</ab1>
+            <ab1 n="NerangEnglish.c" source="0400" xml:id="Y63.3NerangEnglish.c" xml:lang="Pahl">Before the end of the <em>barsom</em>.</ab1>
+
+            <ab1 n="NerangTranslit.d" source="0400" xml:id="Y63.3NerangTranslit.d" xml:lang="Pahl">Q̱DM hwytl blswm PWN wl Y zwhlk MN LOYŠE [Y] blswm PWN 4 ʾngwst'</ab1>
+            <ab1 n="NerangTransc.d" source="0400" xml:id="Y63.3NerangTransc.d" xml:lang="Pahl">abar
+                hōytar barsom pad war ī zōhrag az sar ī barsom pad 4 angust </ab1>
+            <ab1 n="NerangEnglish.d" source="0400" xml:id="Y63.3NerangEnglish.d" xml:lang="Pahl">On
+                the left end of the <em>barsom</em>, looking at the <em>zōhrag</em> from the end of
+                the <em>barsom</em>, at four fingers distance.</ab1>
+
+            <ab1 n="NerangTranslit.e" source="0400" xml:id="Y63.3NerangTranslit.e" xml:lang="Pahl"><em>aṣ̌āunąm. urunascā.</em> OL dšntl Y blswm PWN wl Y zwhlk MN LOYŠE PWN IV ʾngwst' <em>frauuaṣ̌īšcā. yazamaide.</em> PWN mdyʾnk' [Y] blswm sl Y wl Y zwhlk </ab1>
+            <ab1 n="NerangTransc.e" source="0400" xml:id="Y63.3NerangTransc.e" xml:lang="Pahl"><em>aṣ̌āunąm. urunascā.</em> ō
+                dašntar ī barsom pad war ī zōhrag az sar  pad 4 angust <em>frauuaṣ̌īšcā. yazamaide.</em> pad mayānag ī barsom sar ī war ī zōharg  </ab1>
+            <ab1 n="NerangEnglish.e" source="0400" xml:id="Y63.3NerangEnglish.e" xml:lang="Pahl">At <em>aṣ̌āunąm. urunascā.</em>, on
+                the right end of the <em>barsom</em>, looking at the <em>zōhrag</em>, at four finger distance from the beginning. At <em>frauuaṣ̌īšcā. yazamaide.</em>, on
+                the middle of the <em>barsom</em>, looking at the <em>zōhrag</em></ab1>
+        </div>
+    </div>
+    <div n="64" type="chapter">
+        <div n="1" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y64.1NerangTranslit.a" xml:lang="Pahl">wycst' OD gywʾk cslwšʾmlwtyk gwbšn' zwl Q̱DM mdyʾnk' blswm W mʾhlwk' HNHTWN-tn' W
+                PWN š́iiaoθənanąm prʾctl YḆLWN-šn' OL LOYŠE blswm</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y64.1NerangTransc.a" xml:lang="Pahl">wacast tā gyāg casrušāmrūtīg gōwišn zōhr abar mayānag barsom ud māhrōy nihādan ud
+                pad <em>š́iiaoθənanąm</em> frāztar barišn ō sar barsom </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y64.1NerangEnglish.a" xml:lang="Pahl">The
+                stanza is to be said four times. He should place the libation on the middle of the
+                    <em>barsom</em> and <em>māhrōy</em>. At <em>š́iiaoθənanąm</em>, he has to move
+                it further forward towards the end of the <em>barsom</em>.
+            </ab1>
+        </div>
+        <div n="4" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y64.4NerangTranslit.a" xml:lang="Pahl">blswm MN mʾhlwk LALA YNSḆWN-šn' MN zwt' gʾs gʾm-1 PWN kwst' Y plbltʾlʾn' prʾc
+                HNHTWN-šn' </ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y64.4NerangTransc.a" xml:lang="Pahl">barsom az māhrōy ul stānišn az zōt gāh gām-e pad kust ī frabardārān nihišn </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y64.4NerangEnglish.a" xml:lang="Pahl">He
+                has to take the <em>barsom</em> from the <em>māhrōy</em> and place it one step
+                towards the side of the <em>frabardārān</em>
+            </ab1>
+        </div>
+        <div n="5" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y64.5NerangTranslit.a" xml:lang="Pahl">ẔNE gywʾk blswm MN blswmdʾn LALA YNSḆWN-šn' BRA 2 gʾs Y plbltʾlʾn' OZLWN-šn' mat̰.
+                vā̊. padāiš. BRA kwnšn' PWN lwbšn' ʾw' bwn' Y ʾthš gʾs OD haiϑiiāuuarəštąm. gwbšn'
+                mat̰. vā̊. gʾm-1 prʾc HNHTWN-šn' nmʾc OL zwhl YḆLWN-šn' padāiš. gʾm-1 nmʾc OL zwhl
+                YḆLWN-šn' yā. frasrūtā. īžaiiā̊. gʾm-1 prʾc HNHTWN-šn' BRA OL gʾs ʾbltʾn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y64.5NerangTransc.a" xml:lang="Pahl">ēn
+                gyāg barsom az barsomdān ul stānišn bē *ō gāh ī frabardārān šawišn <em>mat̰ vā̊
+                    padāiš</em> bē kunišn pad rawišn ō bun ī ātaxš gāh tā <em>haiϑiiāuuarəštąm</em>
+                gōwišn. <em>mat̰ vā̊</em> gām-ē frāz nihišn namāz ō zōhr barišn <em>padāiš</em>
+                gām-ē namāz ō zōhr barišn <em>yā frasrūtā īžaiiā̊</em> gām-ē frāz nihišn bē ō gāh
+                ābardān  <ab_mod xml:id="Yasna64_4_8">
+                    <span class="glyphicon glyphicon-facetime-video"/>
+                </ab_mod>
+                </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y64.5NerangEnglish.a" xml:lang="Pahl">Here, he has to take the <em>barsom</em> from the <em>barsomdān</em> and to go to
+                the place of the <em>frabardārān</em> and to recite  <em>mat̰
+                    vā̊ padāiš</em>. While going towards the base of the fire he has to recitel <em>haiϑiiāuuarəštąm</em>. At <em>mat̰ vā̊</em>, he has to place (the
+                    <em>barsom</em>) one step further and bring homage to the libation. At
+                    <em>padāiš</em>, one further step and he should bring homage to the libation. At
+                    <em>yā frasrūtā īžaiiā̊</em>, he has to place it one step further towards the
+                place of the <em>ābardān</em>. </ab1>
+        </div>
+        <div n="8" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y64.8NerangTranslit.a" xml:lang="Pahl">nmʾc OL ʾthš YḆLWN-šn' BRA OL zwt gʾs BRA OZLWN-šn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y64.8NerangTransc.a" xml:lang="Pahl">namāz
+                ō ātaxš barišn bē ō zōt gāh bē šawišn </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y64.8NerangEnglish.a" xml:lang="Pahl">He
+                has to bring homage to the fire and go back to the place of the zōt.</ab1>
+        </div>
+    </div>
+    <div n="65" type="chapter">
+        <div n="1" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y65.1NerangTranslit.a" xml:lang="Pahl">MYA BRA nkylšn</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y65.1NerangTransc.a" xml:lang="Pahl">āb bē
+                nigerišn </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y65.1NerangEnglish.a" xml:lang="Pahl">He
+                has to gaze at the water</ab1>
+        </div>
+    </div>
+    <div n="67" type="chapter">
+        <div n="8" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y67.8NerangTranslit.a" xml:lang="Pahl">
+                darəgō.bāzāuš. zwhl ʾndk-1 ḆYN MYA kwnsn' nāšū paitī. zwhl Q̱DM MYA HNHTWN-šn'
+                viiādā̊. paitī. Q̱DM blswm sə̄ṇdā̊. Q̱DM MYA mātarō. Q̱DM blswm jītaiiō. Q̱DM MYA </ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y67.8NerangTransc.a" xml:lang="Pahl">
+                <em>darəgō.bāzāuš.</em> zōhr andak-ē andar āb kunišn <em>nāšū paitī.</em> zōhr abar
+                āb nihišn <em>viiādā̊. paitī.</em> abar barsom <em>sə̄ṇdā̊.</em> abar āb
+                    <em>mātarō.</em> abar barsom <em>jītaiiō.</em> abar āb</ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y67.8NerangEnglish.a" xml:lang="Pahl"> At
+                    <em>darəgō.bāzāuš.</em>, he has to pour a drop of <em>zōhr</em> in the water.
+                    At<em>nāšū paitī.</em>, he has to pour <em>zōhr</em> over the water. At
+                    <em>viiādā̊. paitī.</em>, over the <em>barsom</em>. At <em>sə̄ṇdā̊.</em>, over
+                the water. At <em>mātarō.</em>, over the <em>barsom</em>. At <em>jītaiiō.</em>, over
+                the water. </ab1>
+        </div>
+    </div>
+    <div n="68" type="chapter">
+        <div n="1" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y68.1NerangTranslit.a" xml:lang="Pahl">
+                zwhl Q̱DM blswm HNHTWN-tn' aētat̰. tē. zwhl 4 ʾngwst MN MYA LALA YHSNN-šn' blswm 4
+                ʾngwst MN zwhl LALA YHSNN-šn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y68.1NerangTransc.a" xml:lang="Pahl">zōhr
+                abar barsom nihādan <em>aētat̰ tē</em> zōhr 4 angust az āb ul dārišn barsom 4 angust
+                az zōhr  ul dārišn</ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y68.1NerangEnglish.a" xml:lang="Pahl"> He
+                should put the <em>zōhr</em> over the <em>barsom</em>. At <em>aētat̰ tē</em>, he has to
+                hold the <em>zōhr</em> 4 fingers away from water and the <em>barsom</em> four
+                fingers away from <em>zōhr</em>.
+            </ab1>
+        </div>
+        <div n="8" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0040" xml:id="Y68.8NerangTranslit.a" xml:lang="Pahl">
+                zwhl ʾndk-1 ̱ḆYN yʾm lycˇšn'</ab1>
+            <ab1 n="NerangTransc.a" source="0040" xml:id="Y68.8NerangTransc.a" xml:lang="Pahl">
+                 zōhr andak-ē andar ǰām rēzišn </ab1>
+            <ab1 n="NerangEnglish.a" source="0040" xml:id="Y68.8NerangEnglish.a" xml:lang="Pahl">
+                Hhe has to pour one drop of <em>zōhr</em> in the <em>ǰām</em> and mix the
+                consecrated milk with the <em>zōhr</em>
+            </ab1>
+        </div>
+        
+        <div n="9" type="stanza">
+            <ab1 n="NerangTranslit.b" source="0400" xml:id="Y68.9NerangTranslit.a" xml:lang="Pahl">
+                surunuiiā̊ slšk-1 Y zwhl ḆYN yywdʾn lycšn' AHL yyw PWN zwhl kwnšn'</ab1>
+            <ab1 n="NerangTransc.b" source="0400" xml:id="Y68.9NerangTransc.a" xml:lang="Pahl">
+                <em>surunuiiā̊</em> srešk-ē ī zōhr andar ǰīwdān rēzišn pas ǰīw pad zōhr kunišn</ab1>
+            <ab1 n="NerangEnglish.b" source="0400" xml:id="Y68.9NerangEnglish.a" xml:lang="Pahl"> At
+                <em>surunuiiā̊</em>, he has to pour one drop of <em>zōhr</em> in the
+                <em>ǰīwdān</em> and mix the consecrated milk with the <em>zōhr</em>
+            </ab1>
+            <ab1 n="NerangTranslit.c" source="0400" xml:id="Y68.9NerangTranslit.b" xml:lang="Pahl">
+                zwhl LWTE skwlk kwnšn'</ab1>
+            <ab1 n="NerangTransc.c" source="0400" xml:id="Y68.9NerangTransc.b" xml:lang="Pahl"> zōhr
+                abāg skūrag kunišn</ab1>
+            <ab1 n="NerangEnglish.c" source="0400" xml:id="Y68.9NerangEnglish.b" xml:lang="Pahl"> He
+                has to put <em>zōhr</em> in the saucer</ab1>
+            
+        </div>
+        <div n="16" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y68.16NerangTranslit.a" xml:lang="Pahl">
+                hazaŋhrəm MYA ḆYN kwnšn baēšazanąm MYA ḆYN zwhl kwnšn' baēuuarə MYA ḆYN kwnšn'
+                baēšazanąm MYA ḆYN zwhl kwnšn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y68.16NerangTransc.a" xml:lang="Pahl">
+                <em>hazaŋhrəm</em> āb andar kunišn <em>baēšazanąm</em> āb andar zōhr kunišn
+                    <em>baēuuarə</em> āb andar kunišn <em>baēšazanąm</em> āb andar zōhr kunišn</ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y68.16NerangEnglish.a" xml:lang="Pahl">
+                At <em>hazaŋhrəm</em>, he has to add water (to the <em>zōhr</em>). At
+                    <em>baēšazanąm</em>, he has to add water to the <em>zōhr</em>. At
+                    <em>baēuuarə</em>, he has to add water (to the <em>zōhr</em>). At
+                    <em>baēšazanąm</em>, he has to add water to the <em>zōhr</em>.</ab1>
+        </div>
+        <div n="20" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y68.20NerangTranslit.a" xml:lang="Pahl">
+                yʾm pwl MN MYA BRA kwnšn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y68.20NerangTransc.a" xml:lang="Pahl"> ǰām
+                purr az āb bē kunišn</ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y68.20NerangEnglish.a" xml:lang="Pahl">He
+                has to fill the bowl with water</ab1>
+        </div>
+        <div n="21" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y68.21NerangTranslit.a" xml:lang="Pahl">
+                byšʾmlwtyk gwbšn' MYA MN yʾm OL dtykl gywʾk PWN pʾtyʾp lyhtn' </ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y68.21NerangTransc.a" xml:lang="Pahl">
+                bišāmrūtīg gōwišn āb az ǰām ō dudīgar gyāg pad pādyāb rēxtan</ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y68.21NerangEnglish.a" xml:lang="Pahl">He
+                has to say the stanza twice. He should pour the water from the bowl to a second pure
+                place.</ab1>
+        </div>
+        <div n="22" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y68.22NerangTranslit.a" xml:lang="Pahl">
+                yʾm ʾytwn' AYK hwlšyt gltynyt Q̱DM sl Y ZK yʾm MNW-š MYA ḆYN gltynytn' </ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y68.22NerangTransc.a" xml:lang="Pahl"> ǰām
+                ēdōn kū xwaršēd *gardēd abar sar ī ān ǰām kē-š āb andar gardēnīdan</ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y68.22NerangEnglish.a" xml:lang="Pahl">He
+                should stirr the consecrated milk over the bowl that contains the water in the
+                direction in which the sun rotates.</ab1>
+            <ab1 n="NerangTranslit.b" source="0400" xml:id="Y68.22NerangTranslit.b" xml:lang="Pahl">āca. Q̱DM MYA nica. ḆYN wltynšn' mrūmaide. pwl BRA kwnšn'</ab1>
+            <!-- added secunda manu -->
+            <ab1 n="NerangTransc.b" source="0400" xml:id="Y68.22NerangTransc.b" xml:lang="Pahl">
+                <em>āca</em> abar āb <em>nica</em> andar wardēnišn <em>mrūmaide</em> purr bē
+                kunišn</ab1>
+            <ab1 n="NerangEnglish.b" source="0400" xml:id="Y68.22NerangEnglish.b" xml:lang="Pahl">
+                At <em>āca</em>, (he should put it) over the water. At <em>nicā</em>, he should turn
+                it around. At <em>mrūmaide</em>, he has to fill (the bowl). </ab1>
+            <ab1 n="NerangTranslit.c" source="0400" xml:id="Y68.22NerangTranslit.c" xml:lang="Pahl">
+                īžā̊. LAWHL gltynšn' cygwn hwlšyt gltyt yaōštaiiō. 4 ʾngwst MN MYA LALA
+                YNSḆNN-šn'</ab1>
+            <ab1 n="NerangTransc.c" source="0400" xml:id="Y68.22NerangTransc.c" xml:lang="Pahl">
+                <em>īžā̊</em> abāz gardēnišn cīyōn xwaršēd gardēd <em>yaōštaiiō</em> 4 angust az āb
+                ul stānišn </ab1>
+            <ab1 n="NerangEnglish.c" source="0400" xml:id="Y68.22NerangEnglish.c" xml:lang="Pahl">
+                At <em>īžā̊</em>, he has to turn it around again in the direction in which the sun
+                rotates. At <em>yaōštaiiō</em>, he has to take it 4 fingers away from the
+                water.</ab1>
+            <ab1 n="NerangTranslit.d" source="0040" xml:id="Y68.22NerangTranslit.d" xml:lang="Pahl">
+                āpō. Q̱DM MYA HNHTWN-šn' at̰. ḆYN lʾs yazamaide. PWN wl y zwhl</ab1>
+            <ab1 n="NerangTransc.d" source="0040" xml:id="Y68.22NerangTransc.d" xml:lang="Pahl">
+                <em>āpō</em> abar āb nihišn <em>at</em> andar rāh <em>yazamaide</em> pad war ī
+                zōhr</ab1>
+            <ab1 n="NerangEnglish.d" source="0040" xml:id="Y68.22NerangEnglish.d" xml:lang="Pahl">
+                At <em>āpō</em>, he has to place it over the water. At <em>at</em>, on the way. At
+                    <em>yazamaide</em>, looking to the <em>zōhr</em>
+            </ab1> 
+
+            <ab1 n="NerangTranslit.e" source="0040" xml:id="Y68.22NerangTranslit.e" xml:lang="Pahl">
+                ūitī. yā. və̄. vaŋᵛhīš. PWN bwn Y blswm 4 gywʾk PWN hwy W dšn' W ʾcpl W ʾcdl</ab1>
+            <ab1 n="NerangTransc.e" source="0040" xml:id="Y68.22NerangTransc.e" xml:lang="Pahl">
+                <em>ūitī yā və̄ vaŋᵛhīš</em> pad bun ī barsom 4 gyāg pad hōy ud dašn ud azabar ud
+                azēr</ab1>
+            <ab1 n="NerangEnglish.e" source="0040" xml:id="Y68.22NerangEnglish.e" xml:lang="Pahl">
+                At <em>ūitī yā və̄ vaŋᵛhīš</em>, at the base of the <em>barsom</em>, on four places:
+                on the left, the right, above and below.</ab1>
+
+            <ab1 n="NerangTranslit.f" source="0040" xml:id="Y68.22NerangTranslit.f" xml:lang="Pahl">
+                apascā. PWN wl Y zwhl vā̊. MYA LAWHL OL MYA kwnšn'</ab1>
+            <ab1 n="NerangTransc.f" source="0040" xml:id="Y68.22NerangTransc.f" xml:lang="Pahl">
+                <em>apascā</em> pad war ī zōhr <em>vā̊</em> āb abāz ō āb kunišn</ab1>
+            <ab1 n="NerangEnglish.f" source="0040" xml:id="Y68.22NerangEnglish.f" xml:lang="Pahl">
+                At <em>apascā</em>, looking to the <em>zōhr</em>. At <em>vā̊</em>, he has to bring
+                the water back to the water</ab1>
+            <ab1 n="NerangTranslit.g" source="0040" xml:id="Y68.22NerangTranslit.g" xml:lang="Pahl">
+                3 bʾl gwptn' W Q̱DM ẔNE ʾywynk' krtn'</ab1>
+            <ab1 n="NerangTransc.g" source="0040" xml:id="Y68.22NerangTransc.g" xml:lang="Pahl"> 3
+                bār guftan ud abar ēn ēwēnag kardan </ab1>
+            <ab1 n="NerangEnglish.g" source="0040" xml:id="Y68.22NerangEnglish.g" xml:lang="Pahl">
+                He should recite it three times and do it in this way</ab1>
+            <ab1 n="NerangTranslit.h" source="0040" xml:id="Y68.22NerangTranslit.h" xml:lang="Pahl"><em>āpō. dasta.</em>
+                yʾm pwl MN MYA BRA kwnšn' W Q̱DM YDE HNHTWN-šn' <em>nō. təm. yānəm. yō. yūšmat̰. parō. frauuistō. </em></ab1>
+            <ab1 n="NerangTransc.h" source="0040" xml:id="Y68.22NerangTransc.h" xml:lang="Pahl"> <em>āpō. dasta.</em>
+                ǰām
+                purr az āb bē kunišn ud abar dast nihišn <em>nō. təm. yānəm. yō. yūšmat̰. parō. frauuistō. </em> </ab1>
+            <ab1 n="NerangEnglish.h" source="0040" xml:id="Y68.22NerangEnglish.h" xml:lang="Pahl">At <em>āpō. dasta.</em>, he has to fill the bowl with water and put it in the hand (and continue with) <em>nō. təm. yānəm. yō. yūšmat̰. parō. frauuistō. </em></ab1>
+        </div>
+        <div n="30" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0040" xml:id="Y68.30NerangTranslit.a" xml:lang="Pahl">
+                KRA gʾs YHSNN-yt 3 bʾl gptn' W AMT yšt' nwknʾbl ʾydp 30 lwck KRA 3 gʾs Y bʾmyẕdt
+                nymlwc W ʾypʾlk gwptn' KRA ʾywk 3 bʾl gwptn'</ab1>
+            <ab1 n="NerangTransc.a" source="0040" xml:id="Y68.30NerangTransc.a" xml:lang="Pahl"> har
+                gāh dārēd 3 bār guftan ud ka yašt nōgnāwar ayāb sīh rōzag har sē gāh ī nēmrōz ud
+                aybārag guftan har ēk 3 bār</ab1>
+            <ab1 n="NerangEnglish.a" source="0040" xml:id="Y68.30NerangEnglish.a" xml:lang="Pahl">He
+                should should say three times the text of the corresponding <em>gāh</em>. When it is
+                a <em>yašt</em> Nōgnāwar or Sīrōzag, then the three <em>gāh</em>, the one of
+                Bāmzayd, the one of noon and the one of <em>aybārag</em>(?) have to be recited, each
+                one three times. </ab1>
+        </div>
+    </div>
+    <div n="69" type="chapter">
+        <div n="6" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y69.6NerangTranslit.a" xml:lang="Pahl">
+                slyšʾmlwtyk gwbšn'. ʾndk-1 MYA PWN LOYŠE Y blswm prʾc ŠḆKWN-šn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y69.6NerangTransc.a" xml:lang="Pahl">srišāmrūtīg gōwišn. andak-ē āb pad sar ī barsom frāz hilišn </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y69.6NerangEnglish.a" xml:lang="Pahl"> He
+                has to say it three times. He has to pour a drop of water on the top of the
+                    <em>barsom</em>
+            </ab1>
+        </div>
+    </div>
+        <div n="70" type="chapter">
+        <div n="1" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y71.1NerangTranslit.a" xml:lang="Pahl">
+                ẔNE gywʾk ʾp hmk Q̱DM sl Y blswm lycytn'</ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y71.1NerangTransc.a" xml:lang="Pahl">ēn
+                gyāg āb *hāmāg abar sar ī barsom rēzīdan </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y71.1NerangEnglish.a" xml:lang="Pahl">
+                Now, he should pour all the water on the <em>barsom</em>.</ab1>
+        </div>
+    </div>
+    <div n="71" type="chapter">
+      
+        <div n="27" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y71.27NerangTranslit.a" xml:lang="Pahl">
+                gauue. dtwš blswm bwn OD LOYŠE HLLWN-tn' aδāiš. ʾywtʾk plʾgʾm MN AHL Y blswm dtwš MN
+                YDE hwy LALA wtʾlšn' . tāiš. ZK Y dtykl MN AHL Y blswm dtwš MN YDE Y dšn' LALA
+                wtʾlšn' </ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y71.27NerangTransc.a" xml:lang="Pahl">
+                <em>gauue</em>
+                <em>datuš </em>
+                <em>barsom</em> bun tā sar šustan <em>aδāiš</em> *ēk tāg frāgām az pas ī barsom
+                datuš az dast hōy ul widārišn <em>tāiš </em> ān ī dudīgar az pas ī barsom datuš az
+                dast ī dašn ul widārišn </ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y71.27NerangEnglish.a" xml:lang="Pahl">
+                At <em>gauue</em>, he should wash the <em>datuš</em> and the <em>barsom</em> from
+                the beginning to the end. At <em>aδāiš</em>, he has to move one <em>frāgām</em> from
+                behind the <em>barsom</em> and the <em>datuš</em> from the left side (of the
+                    <em>barsom </em>). At <em>tāiš š́iiaōθanāiš</em>, he has to move the second
+                    <em>frāgām</em> from behind the <em>barsom</em> and the <em>datuš</em> from the
+                right side. </ab1>
+            <ab1 n="NerangTranslit.b" source="0400" xml:id="Y71.27NerangTranslit.b" xml:lang="Pahl">
+                at̰. ax́iiāi. aṣ̌ā. mazdā̊. bwn Y blswm OL ʾwlwys HNHTWN-šn uruuarā̊. vaxšat̰. LOYŠE
+                Y blswm OL ʾwlwys HNHTWN-šn' W dtykl bʾl bwn Y blswm OL ʾwlwys HNHTWN-šn' </ab1>
+            <ab1 n="NerangTransc.b" source="0400" xml:id="Y71.27NerangTransc.b" xml:lang="Pahl">
+                <em>at̰ ax́iiāi aṣ̌ā mazdā̊</em> bun ī barsom ō urwēs nihišn <em>uruuarā̊
+                    vaxšat̰</em> sar ī barsom ō urwēs nihišn ud dudīgar bār bun ī barsom ō urwēs
+                nihišn</ab1>
+            <ab1 n="NerangEnglish.b" source="0400" xml:id="Y71.27NerangEnglish.b" xml:lang="Pahl">
+                At <em>at̰ ax́iiāi aṣ̌ā mazdā̊</em>, he has tu put the beginning of the
+                    <em>barsom</em> on the <em>urwēs</em>.At <em>uruuarā̊ vaxšat̰</em>, he has to
+                put the end of the <em>barsom</em> on the <em>urwēs</em> and a second time the
+                beginning of the <em>barsom</em> on the <em>urwēs</em>.</ab1>
+        </div>
+
+
+    </div>
+    <div n="72" type="chapter">
+        <div n="1" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y72.1NerangTranslit.a" xml:lang="Pahl">
+                ẔNE gywʾk OL LGLE YHWWN-šn' lʾspyk YDE PWN ptyʾp BRA kwnšn' PWN gʾs plbltʾlʾn'
+                OZLWN-šn' LWTE zwt ʾpstʾk BRA gwbšn' </ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y72.1NerangTransc.a" xml:lang="Pahl">ēn
+                gyāg ō pāy bawišn rāspīg dast pad *pādyāb bē kunišn pad gāh frabardārān šawišn abāg
+                zōt abastāg bē gōwišn</ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y72.1NerangEnglish.a" xml:lang="Pahl">
+                Now, (the <em>zōt</em>) has to be standing. The <em>rāspīg</em> has to clean his
+                hands with <em>pādyāb</em>, to go to the place of the <em>frabardārān</em> and to
+                recite the <em>abastāg</em> with the <em>zōt</em>
+            </ab1>
+        </div>
+        <div n="2" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y72.2NerangTranslit.a" xml:lang="Pahl">
+                ẔNE gywʾk PWN KRA hamistaiiaēca. glyyh-1 Q̱DM blswm MHYTWN-šn' PWN zwt W lʾspyk 2
+                Q̱DM ʾpl ʾywk Q̱DM ʾcdl </ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y72.2NerangTransc.a" xml:lang="Pahl">ēn
+                gyāg pad har <em>hamistaiiaēca</em> grih-ē abar barsom zanišn pad zōt ud rāspīg 2
+                abar abar ēk abar azēr</ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y72.2NerangEnglish.a" xml:lang="Pahl">
+                Now, at each <em>hamistaiiaēca</em>, one knot has to be tied on the <em>barsom</em>
+                by the <em>zōt</em> and the <em>rāspīg</em>: two above and one below.</ab1>
+        </div>
+        <div n="5" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y72.5NerangTranslit.a" xml:lang="Pahl">
+                blswm OL YDE lʾspyk dhšn' </ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y72.5NerangTransc.a" xml:lang="Pahl">barsom ō dast rāspīg dahišn</ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y72.5NerangEnglish.a" xml:lang="Pahl"> He
+                has to give the <em>barsom</em> to the <em>rāspīg</em>.</ab1>
+        </div>
+        <div n="8" type="stanza">
+            <ab1 n="NerangTranslit.a" source="0400" xml:id="Y72.8NerangTranslit.a" xml:lang="Pahl">
+                YDE PWN ʾthš gʾs LAWHL HNHTWN-šn' W blswm OL ʾwlwys HNHTWN-šn' </ab1>
+            <ab1 n="NerangTransc.a" source="0400" xml:id="Y72.8NerangTransc.a" xml:lang="Pahl">dast
+                pad ātaxš gāh abāz nihišn ud barsom ō urwēs nihišn</ab1>
+            <ab1 n="NerangEnglish.a" source="0400" xml:id="Y72.8NerangEnglish.a" xml:lang="Pahl"> He
+                has to put again his hand on the fire stand and to put the <em>barsom</em> on the
+                    <em>urwēs</em>.</ab1>
+        </div>
+    </div>
+    </div>
+</div>

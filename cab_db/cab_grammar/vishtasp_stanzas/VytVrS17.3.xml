@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VytVrS17.3" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VytVrS17.3">
+      <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VytSY17.2a"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY2.1" on_line="in1lineblock"/>
+      <!-- Only Ushanina possible and the rest after it -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VytSY17.2b" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY2.2" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VytSY17.2c" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY2.3" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VytSY17.2d" on_line="in1line"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. VVrS17.1.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VytVrS17.3b <em>ušahinəm aṣ̌auuanəm</em>...] <em>ušahənəm</em> OD gywʾk W AHL hʾwn' (VytVrS17.4) W lpytyptpyn' (VytVrS17.5) W ʾwzylyn' (VytVrS17.6) 
+            W ʾyybslwkslym (VytVrS17.7) hmʾk gywʾk' pyštl gʾs ʾwšhyn' ʾp̄ʾyt' gwptn' <em>māhiia</em> (VytVrS17.8) 5010;
+            <em>uṣ̌ahənəm aṣ̌auuanəm aṣ̌ahe ratūm ẏaz.</em>  OD. gywʾk W AHL hʾwn' (VytVrS17.4) W lpytpyn' (VytVrS17.5) Wʾwzylyn' (VytVrS17.6) W ʾyybslw'slym (VytVrS17.7) 
+            W hmʾk gywʾk pyštlgʾs Y ʾwšhyn' ʾp̄ʾyt' gwptn' <em>māhiia</em> (VytVrS17.8) 5030.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>VytVrS17.3 = VytVrS77.3; ≈ VytVrS1.4, VytVrS2.4, VytVrS25.6, VytVrS27.20, VytVrS90.4. Cf. Y17.2.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVytVrS17.3"/>
+   </translation>
+</text>

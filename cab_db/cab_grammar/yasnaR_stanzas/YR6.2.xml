@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR6.2" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="YR6.2">
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR6.2a"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY2.1" on_line="in1lineblock"/>
+        <!-- Only Rapithwin possible -->
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR6.2b" on_line="in1line"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY2.2" on_line="in1lineblock"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR6.2c" on_line="in1line"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY2.3" on_line="in1lineblock"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR6.2d" on_line="in1line"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: vid. Y6.1.</ab> 
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels>
+        <ab>YR6.2 ≈  YR1.3, YR2.3, YR3.5, YR4.8, YR7.6, YR17.2,YR22.6, YR24.13, YR59.2, YR66.3</ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrYR6.2"/>
+    </translation>
+</text>

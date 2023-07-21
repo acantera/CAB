@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y27.7" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y27.7">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY27.6a"/>
+               <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y27.7NerangTransc.a"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY27.6b"/>
+            </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Y27.7 (mss. 15, 82, 88, 400, 410):</ab>
+            <ab class="ab_indent">
+                <em>haōma pairi</em> abarhāwan čīyōn xwaršēd gardēd andar hāwan sē bār  harəš́iieṇte OD <em>hāuuanaiiā̊sca aṣ̌aiia fraš́ūtaiiā̊ aršuxδanąmcā vacąm</em>
+                hōm ud urwarām pad abarhāwan stadan ud srešk-ē andar ǰīwdān abganišn <em>aϑā.zī.nə̄. humāiiōtarā. aŋhən.</em> abarhāwan abāg hōm ud urwarām pad kustag ī hōy ud dast ī hōy pad sar ī barsom nihādan pad war ī zōhrag andar hōy </ab>
+            <ab class="ab_indent">
+                Between <em>haōma pairi</em> and <em>pairi.harəš́iieṇte</em> he should turn three times the pestle  around over the mortar in the direction in which the sun rotates (and continue until) 
+                <em>hāuuanaiiā̊sca aṣ̌aiia fraš́ūtaiiā̊ aršuxδanąmcā vacąm</em> He should take <em>hōm</em> and <em>urwarām</em> with the <em>abarhāwan</em> and pour one drop in the <em>ǰīwdān</em>. 
+                At <em>aϑā.zī.nə̄ humāiiōtarā aŋhən</em>, he should touch (the <em>barsom</em>) the upper end of the <em>barsom</em> on the left side with the <em>abarhāwan</em> that has 
+                <em>hōm</em> and <em>urwarām</em> holding it with his left hand, in the proximity of the <em>zōhrag</em>, on its left. </ab> 
+        </Nerangs>
+    <ab>~ VrS31.11</ab>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY27.7"/>
+    <include type="W" corresp="WTrY27.6"/><include type="K" corresp="KTrY27.6"/><include type="D" corresp="DTrY27.6"/></translation>
+</text>

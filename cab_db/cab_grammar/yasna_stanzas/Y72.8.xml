@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y72.8" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y72.8">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY72.8a"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY72.8b"/>
+               <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y72.8NerangTransc.a"/>
+            </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Y72.8 (mss. 40, 400, 410, 2007, 2010, 2030, 4000, 4010, 4025, 4040, 4050, 5020):</ab>
+            <ab class="ab_indent">
+                <em>yasnəmca vaɱəmca aōjasca zauuarəca āfrīnāmi tauua ātarš puϑra ahurahe mazdā̊</em> dast pad ādur gāh abāz nihišn ud barsom ō urwēs nihišn</ab>   
+            <ab class="ab_indent">
+                "At <em>yasnəmca vaɱəmca aōjasca zauuarəca āfrīnāmi tauua ātarš puϑra ahurahe mazdā̊</em>, (the <em>rāspīg</em>) has to put again his hand on the <em>ādurgāh</em> 
+                and to put the <em>barsom</em> on the <em>urwēs</em>."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY72.8"/>
+        <include type="W" corresp="WTrY72.7"/>
+        <include type="K" corresp="KTrY72.7"/>
+        <include type="D" corresp="DTrY72.7"/>
+    </translation>
+</text>

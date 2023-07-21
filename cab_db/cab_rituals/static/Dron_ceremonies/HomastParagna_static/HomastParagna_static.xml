@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div type="book" xml:id="HomastP" n="HomastP">
+        <div n="1" type="Chapter" xml:id="HomastP1">
+            <div n="1" type="Stanza" xml:id="HomastP1.1">
+                <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+                <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+                <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+            </div>
+            <div n="2" type="Stanza" xml:id="HomastP1.2" corresp="#GY23.5">
+                <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP27"/>
+            </div>
+        </div>
+        <div n="2" type="Chapter" xml:id="HomastP2">
+            
+                <div n="0" type="Stanza" xml:id="HomastP2.0" corresp="#GY24.0">
+                    <ab xml:id="HomastP2.0a"> ahurāi. mazdāi. haōmą.. āuuaēδaiiamahi. </ab>
+                
+                </div>
+            <div n="1" type="Stanza" xml:id="HomastP2.1" corresp="#GY24.1">
+                <ab xml:id="HomastP2.1a"> imą. haōmą. miiazdąsca. āuuaēδaiiamahi. </ab>
+                <ab xml:id="HomastP2.1b"> imą. haōmąsca. zaōϑrā̊sca. barəsmaca. aṣ̌aiia.
+                    frastarətəm. gąmca. huδā̊ŋhəm.</ab>
+                <ab xml:id="HomastP2.1c">imąmcā. uruuarąm. haδānaēpatąm. aṣ̌aiia. uzdātąm.</ab>
+
+            </div>
+            <div n="2" type="Stanza" xml:id="HomastP2.2" corresp="#GY24.2">
+                <ab xml:id="HomastP2.2a">aiβiiō. vaŋᵛhībiiō. imā̊. zaōϑrā̊. haōmauuaitīš.
+                    gaōmauuaitīš. haδānaēpatauuaitīš. aṣ̌aiia. uzdātā̊.</ab>
+                <ab xml:id="HomastP2.2b">aiβiiō. vaŋᵛhībiiō. apəmca. haōmiiąm.</ab>
+                <ab xml:id="HomastP2.2c">asmanaca. hāuuana. aiiaŋhaēnaca. hāuuana.</ab>
+            </div>
+            <div n="3" type="Stanza" xml:id="HomastP2.3" corresp="#GY24.3">
+                <ab xml:id="HomastP2.3a">imąmcā. uruuarąm. barəsmanīm. jaγmūšīmca. aṣ̌aōnō. aṣ̌ahe.
+                    raϑβō. ratufritīm.</ab>
+                <include href="/db/apps/cab_db/cab_rituals/nerang/dron_nerang" xpointer="HomastP2.3NerangTransc.a"/>
+                <ab xml:id="HomastP2.3b">imą. aēsmąsca. baōiδīmca. tauua. āϑrō. ahurahe. mazdā̊.
+                    puϑra. vīspaca. vohu. mazdaδāta. aṣ̌aciϑra. pairica. dadəmahi. āca.
+                    vaēδaiiamahi.</ab>
+            </div>
+            <div n="4" type="Stanza" xml:id="HomastP2.4" corresp="GY24.4">
+                <ab xml:id="HomastP2.4a">āat̰. dīš. āuuaēδaiiamahi. ahurāica. mazdāi. sraōšāica.
+                    aṣ̌āi. aməṣ̌aēibiiasca. spəṇtaēibiiō. aṣ̌āunąmca. frauuaṣ̌ibiiō. aṣ̌āunąmca.
+                    uruuōibiiō. āϑraēca. ahurahe. mazdā̊. raϑβaēca. bərəzaite. vīspaiiā̊. sącat̰ca.
+                    aṣ̌aōnō. stōiš. yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+            </div>
+            <div n="5" type="Stanza" xml:id="HomastP2.5" corresp="GY24.5">
+                <ab xml:id="HomastP2.5a">āat̰. dīš. āuuaēδaiiamahi. zaraϑuštrahe. spitāmahe.
+                    aṣ̌aōnō. frauuaṣ̌ə̄e. yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+                <ab xml:id="HomastP2.5b">aŋhuiiaōš. aṣ̌acinaŋhō. mat̰. vīspābiiō. aṣ̌aōnibiiō.
+                    frauuaṣ̌ibiiō. yā̊. irīriϑušąm. aṣ̌aōnąm. yā̊sca. juuaṇtąm. aṣ̌aōnąm. yā̊sca.
+                    narąm. azātanąm. frašō.carəϑrąm. saōš́iiaṇtąm.</ab>
+            </div>
+            <div n="6" type="Stanza" xml:id="HomastP2.6" corresp="GY24.6">
+                <ab xml:id="HomastP2.6a"> imą. haōmąsca. miiazdąsca. zaōϑrā̊sca. barəsmaca. aṣ̌aiia.
+                    frastarətəm. gąmca. huδā̊ŋhəm.</ab>
+                <ab xml:id="HomastP2.6a">imąmcā. uruuarąm. haδānaēpatąm. aṣ̌aiia. uzdātąm. </ab>
+            </div>
+            <div n="7" type="Stanza" xml:id="HomastP2.7" corresp="GY24.7">
+                <ab xml:id="HomastP2.7a">aiβiiō. vaŋᵛhībiiō. imā̊. zaōϑrā̊. haōmauuaitīš.
+                    gaōmauuaitīš. haδānaēpatauuaitīš. aṣ̌aiia. uzdātā̊.</ab>
+                <ab xml:id="HomastP2.7b">aiβiiō. vaŋᵛhībiiō. apəmca. haōmiiąm.</ab>
+                <ab xml:id="HomastP2.7c">asmanaca. hāuuana. aiiaŋhaēnaca. hāuuana.</ab>
+            </div>
+            <div n="8" type="Stanza" xml:id="HomastP2.8" corresp="GY24.8">
+                <ab xml:id="HomastP2.8a">imąmcā. uruuarąm. barəsmanīm. jaγmūšīmca. aṣ̌aōnō. aṣ̌ahe.
+                    raϑβō. ratufritīm.</ab>
+                <ab xml:id="HomastP2.8b">imą. aēsmąsca. baōiδīmca. tauua. āϑrō. ahurahe. mazdā̊.
+                    puϑra. vīspaca. vohu. mazdaδāta. aṣ̌aciϑra. pairica. dadəmahi. āca.
+                    vaēδaiiamahi.</ab>
+            </div>
+            <div n="9" type="Stanza" xml:id="HomastP2.9" corresp="GY24.9">
+                <ab xml:id="HomastP2.9a"> āat̰. dīš. āuuaēδaiiamahi. aməṣ̌aēibiiō. spəṇtaēibiiō.
+                    huxšaϑraēibiiō. huδābiiō. yauuaējibiiō. yauuaēsubiiō. yōi. vaŋhə̄uš. ā. manaŋhō.
+                    š́iieiṇti. yā̊sca. uiti.</ab>
+            </div>
+            <div n="10" type="Stanza" xml:id="HomastP2.10" corresp="#GY24.10">
+                <ab xml:id="HomastP2.10a"> āat̰. dīš. āuuaēδaiiamahi. frāiiehīš. ahe. nmānahe.
+                    fradaϑāi. ahe. nmānahe. pasuuąmca. narąmca. zātanąmca. ząhiiamnanąmca. aṣ̌aōnąm.
+                    yeŋ́he. aēm. həṇti.</ab>
+            </div>
+            <div n="11" type="Stanza" xml:id="HomastP2.11" corresp="#GY24.11">
+                <ab xml:id="HomastP2.11a"> āat̰. dīš. āuuaēδaiiamahi. aṣ̌āunąm. vaŋᵛhībiiō.
+                    frauuaṣ̌ibiiō. yā̊. uγrā̊sca. aiβiϑūrā̊sca. aṣ̌aōnąm. auuaŋhe.</ab>
+            </div>
+            <div n="12" type="Stanza" xml:id="HomastP2.12" corresp="#GY24.12">
+                <ab xml:id="HomastP2.12a"> āat̰. dīš. āuuaēδaiiamahi. daϑušō. ahurahe. mazdā̊.
+                    raēuuatō. xᵛarənaŋᵛhatō. maińiiə̄uš. maińiiaōiiehe. aməṣ̌anąm. spəṇtanąm.
+                    yasnāica. vaɱāica. xšnaōϑrāica. frasāstaiiaēca.</ab>
+            </div>
+            <div n="13" type="Stanza" xml:id="HomastP2.13" corresp="'#GY24.13">
+                <include href="/db/apps/cab_db/cab_rituals/nerang/dron_nerang" xpointer="HomastP2.13NerangTransc.a"/>
+                <ab xml:id="HomastP2.13a"> āat̰. dīš. āuuaēδaiiamahi. asńiiaēibiiō. aṣ̌ahe.
+                    ratubiiō.</ab>
+                <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.1"/>
+                <ab xml:id="HomastP2.13b">yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+                <include href="/db/apps/cab_db/cab_rituals/nerang/dron_nerang" xpointer="HomastP2.13NerangTransc.b"/>
+                <ab xml:id="HomastP2.13c">āat̰. dīš. āuuaēδaiiamahi.</ab>
+                <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.2"/>
+                <ab xml:id="HomastP2.13d">yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+                <ab xml:id="HomastP2.13e">āat̰. dīš. āuuaēδaiiamahi.</ab>
+                <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.3"/>
+                <ab xml:id="HomastP2.13f">yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+            </div>
+            <div n="14" type="Stanza" xml:id="HomastP2.14" corresp="#GY24.22">
+                <ab xml:id="HomastP2.14a"> āat̰. dīš. āuuaēδaiiamahi. </ab>
+                <include href="/db/apps/cab_db/cab_rituals/blocks/RozGen" xpointer="RozGen1"/>
+                <ab xml:id="HomastP2.14b">yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+                <ab xml:id="HomastP2.14c">āat̰. dīš. āuuaēδaiiamahi. </ab>
+                <include href="/db/apps/cab_db/cab_rituals/blocks/MahGen" xpointer="MahGen1"/>
+                <ab xml:id="HomastP2.14d">yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+                <include href="/db/apps/cab_db/cab_rituals/nerang/dron_nerang" xpointer="HomastP2.14NerangTransc.a"/>
+            </div>
+            <div n="15" type="Stanza" xml:id="HomastP2.15" corresp="#GY24.23">
+                <ab xml:id="HomastP2.15a"> āat̰. dīš. āuuaēδaiiamahi. tauua. āϑrō. ahurahe. mazdā̊.
+                    puϑra. mat̰. vīspaēibiiō. ātərəbiiō. yasnāica. vaɱāica. xšnaōϑrāica.
+                    frasastaiiaēca.</ab>
+                <ab xml:id="HomastP2.15b">āat̰. dīš. āuuaēδaiiamahi. aiβiiō. vaŋᵛhībiiō. vīspanąmca.
+                    apąm. mazdaδātanąm. vīspanamca. uruuaranąm. mazdaδātanąm. yasnāica. vaɱāica.
+                    xšnaōϑrāica. frasastaiiaēca.</ab>
+            </div>
+            <div n="16" type="Stanza" xml:id="HomastP2.16" corresp="#GY24.24">
+                <ab xml:id="HomastP2.16a"> āat̰. dīš. āuuaēδaiiamahi. mąϑrahe. spəṇtahe. aṣ̌aōnō.
+                    vərəziiaŋᵛhahe. dātahe. vīdaēuuahe. dātahe. zaraϑuštrōiš. darəγaiiā̊.
+                    upaiianaiiā̊. daēnaiiā̊. vaŋhuiiā̊. māzdaiiasnōiš. yasnāica. vaɱāica.
+                    xšnaōϑrāica. frasastaiiaēca.</ab>
+            </div>
+            <div n="17" type="Stanza" xml:id="HomastP2.17" corresp="#GY24.25">
+                <ab xml:id="HomastP2.17a"> āat̰. dīš. āuuaēδaiiamahi. garōiš. ušidarənahe.
+                    mazdaδātahe. aṣ̌axᵛāϑrahe. vīspaēšąmca. gairinąm. aṣ̌axᵛāϑranąm.
+                    pouru.xᵛāϑranąm. mazdaδātanąm. kāuuaiieheca. xᵛarənaŋhō. mazdaδātahe.
+                    axᵛarətaheca. xᵛarənaŋhō. mazdaδātahe. yasnāica. vaɱāica. xšnaōϑrāica.
+                    frasastaiiaēca. </ab>
+                <ab xml:id="HomastP2.17b">āat̰. dīš. āuuaēδaiiamahi. aṣ̌ōiš. vaŋhuiiā̊. cistōiš.
+                    vaŋhuiiā̊. ərəϑə̄. vaŋhuiiā̊. rasąstātō. vaŋhuiiā̊. xᵛarənaŋhō. sauuaŋhō.
+                    mazdaδātahe. yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+            </div>
+            <div n="18" type="Stanza" xml:id="HomastP2.18" corresp="#GY24.26">
+                <ab xml:id="HomastP2.18a"> āat̰. dīš. āuuaēδaiiamahi. daɱaiiā̊. vaŋhuiiā̊. āfritōiš.
+                    daɱaheca. narš. aṣ̌aōnō. uγraheca. taxmahe. dāmōiš. upamanahe. yazatahe.
+                    yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+            </div>
+            <div n="19" type="Stanza" xml:id="HomastP2.19" corresp="#GY24.27">
+                <ab xml:id="HomastP2.19a"> āat̰. dīš. āuuaēδaiiamahī. ā̊ŋhąm. asaŋhąmca.
+                    šōiϑranąmca. gaōiiaōitinąmca. maēϑananąmca. auuō.xᵛarənanąmca. apąmca. zəmąmca.
+                    uruuaranąmca. aiŋ́hā̊sca. zəmō. auuaiŋ́heca. ašnō. vātaheca. aṣ̌aōnō. strąm.
+                    mā̊ŋhō. hūrō. anaγranąm. raōcaŋhąm. xᵛaδātanam. vīspanąmca. spəṇtahe.
+                    maińiiə̄uš. dāmanąm. aṣ̌aōnąm. aṣ̌aōninąmca. aṣ̌ahe. raϑβąm. yasnāica.
+                    vahmāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+            </div>
+            <div n="20" type="Stanza" xml:id="HomastP2.20" corresp="#GY24.29">
+                <ab xml:id="HomastP2.20a"> āat̰. dīš. āuuaēδaiiamahi. </ab>
+                <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen65"/>
+                <ab xml:id="HomastP2.20b">xšnaōϑra. yasnāica. vaɱāica. xšnaōϑrāica.
+                    frasastaiiaēca.</ab>
+            </div>
+            <div n="21" type="Stanza" xml:id="HomastP2.21" corresp="#GY4.30">
+                <ab xml:id="HomastP2.21a"> āat̰. dīš. āuuaēδaiiamahi. aṣ̌āunąm. frauuaṣ̌inąm.
+                    uγranąm. aiβiϑūranąm. paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm. nabānazdištanąm.
+                    frauuaṣ̌inąm. yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+            </div>
+            <div n="22" type="Stanza" xml:id="HomastP2.22" corresp="#GY4.31, #GY4.26">
+                <ab xml:id="HomastP2.22a"> āat̰. dīš. āuuaēδaiiamahi. vīspaēibiiō. vaŋhuδābiiō.
+                    yazataēibiiō. maińiiaōibiiascā. gaēϑiiaēibiiascā. yōi. həṇti. yasńiiāca.
+                    vaɱiiāca. aṣ̌āt̰. haca. yat̰. vahištāt̰.</ab>
+            </div>
+        </div>
+        <div n="3" type="Chapter" xml:id="HomastP3">
+            <div n="1" type="Stanza" xml:id="HomastP3.1" corresp="#GY25.1">
+                <ab xml:id="HomastP3.1a">aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab>
+                <include href="/db/apps/cab_db/cab_rituals/nerang/dron_nerang" xpointer="HomastP3.1NerangTransc.a"/>
+                <ab xml:id="HomastP3.1b">iməm. haōməm. aṣ̌aiia. uzdātəm. yazamaide.</ab>
+                <include href="/db/apps/cab_db/cab_rituals/nerang/dron_nerang" xpointer="HomastP3.1NerangTransc.b"/>
+                <ab xml:id="HomastP3.1c">imąmcā. uruuarąm. haδānaēpatąm. aṣ̌aiia. uzdātąm.
+                    yazamaide.</ab>
+            </div>
+            <div n="2" type="Stanza" xml:id="HomastP3.2" corresp="#GY25.2">
+                <ab xml:id="HomastP3.2a">aiβiiō. vaŋᵛhībiiō. imā̊. zaōϑrā̊. haōmauuaitīš. gaōmauuaitīš.
+                    haδānaēpatauuaitīš. aṣ̌aiia. uzdātā̊. yazamaide.</ab>
+                <ab xml:id="HomastP3.2b">aiβiiō. vaŋᵛhībiiō. apəmca. haōmiiąm. yazamaide.</ab>
+                <ab xml:id="HomastP3.2c">asmanaca. hāuuana. yazamaide.</ab>
+                <ab xml:id="HomastP3.2d">aiiaŋhaēnaca. hāuuana. yazamaide.</ab>
+            </div>
+            <div n="3" type="Stanza" xml:id="HomastP3.3" corresp="GY25.3">
+                <ab xml:id="HomastP3.3a">imąmcā. uruuarąm. barəsmanīm. jaγmūšīmca. aṣ̌aōnō. aṣ̌ahe.
+                    raϑβō. ratufritīm.</ab>
+                <ab xml:id="HomastP3.3b">imą. aēsmąsca. baōiδīmca. yazamaide. tauua. āϑrō. ahurahe.
+                    mazdā̊. puϑra.</ab>
+                <ab xml:id="HomastP3.3c">vīspaca. vohu. mazdaδāta. aṣ̌aciϑra. yazamaide.</ab>
+            </div>
+            <div n="4" type="Stanza" xml:id="HomastP3.4" corresp="GY25.4">
+                <include type="block_shnumanacc" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanAcc" xpointer="ShnumanAcc65"/>
+            </div>
+
+            <div n="5" type="Stanza" xml:id="HomastP3.5" corresp="GY26.11">
+                    <ab xml:id="HomastP3.5a">vīspā̊. frauuaṣ̌aiiō. aṣ̌āunąm. yazamaide.</ab>
+                    <ab xml:id="HomastP3.5b">iristanąm. uruuanō. yazamaide. yā̊. aṣ̌aōnąm. frauuaṣ̌aiiō.</ab>
+            </div>
+            <div n="6" type="Stanza" xml:id="HomastP3.6" corresp="#GY26.11">
+                <include href="/db/apps/cab_db/cab_rituals/prayers/YeH" xpointer="YeH"/>
+            </div>
+        </div>
+        <div n="4" type="Chapter" xml:id="HomastP4">
+            <div n="1" type="Stanza" xml:id="HomastP4.1" correspond="GY27.1">
+                <include href="/db/apps/cab_db/cab_rituals/nerang/dron_nerang" xpointer="HomastP4.1NerangTransc.a"/>
+                <ab xml:id="HomastP4.1a">aētat̰. dim. vīspanąm.</ab>
+                <include href="/db/apps/cab_db/cab_rituals/nerang/dron_nerang" xpointer="HomastP4.1NerangTransc.b"/>
+                <ab xml:id="HomastP4.1b">mazištəm. dazdiiāi. ahūmca. ratūmca. yim. ahurəm.
+                    mazdąm.</ab>
+                <ab xml:id="HomastP4.1c">snaϑāi. aŋhrahe. maińiiə̄uš. druuatō. snaϑāi. aēšmahe.
+                    xruuī.draōš. snaϑāi. māzaińiianąm. daēuuanąm. snaϑāi. vīspanąm. daēuuanąm.
+                    varəńiianąmca. druuatąm.</ab>
+                <include href="/db/apps/cab_db/cab_rituals/nerang/dron_nerang" xpointer="HomastP4.1NerangTransc.c"/>
+            </div>
+            <div n="2" type="Stanza" xml:id="HomastP4.2" correspond="GY27.2">
+                <ab xml:id="HomastP4.2a">fradaϑāi. ahurahe. mazdāi. raēuuatō. xᵛarənaŋᵛhatō.</ab>
+                <include href="/db/apps/cab_db/cab_rituals/nerang/dron_nerang" xpointer="HomastP4.2NerangTransc.a"/>
+                <ab xml:id="HomastP4.2b">fradaϑāi. aməṣ̌anąm. spəṇtanąm.</ab>
+                <include href="/db/apps/cab_db/cab_rituals/nerang/dron_nerang" xpointer="HomastP4.2NerangTransc.b"/>
+                <ab xml:id="HomastP4.2c">fradaϑāi. tištriiehe. stārō. raēuuatō. xᵛarənaŋᵛhatō.
+                    fradaϑāi. narš. aṣ̌aōnō.</ab>
+                <include href="/db/apps/cab_db/cab_rituals/nerang/dron_nerang" xpointer="HomastP4.2NerangTransc.c"/>
+                <ab xml:id="HomastP4.2d">fradaϑāi. vīspanąm. spəṇtahe. maińiiə̄uš. dāmanąm.
+                    aṣ̌aōnąm.</ab>
+                <include href="/db/apps/cab_db/cab_rituals/nerang/dron_nerang" xpointer="HomastP4.2NerangTransc.d"/>
+            </div>
+            <div n="3" type="Stanza" xml:id="HomastP4.3" corresp="GY27.3">
+                <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+                <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+                <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+                <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+                <include href="/db/apps/cab_db/cab_rituals/nerang/dron_nerang" xpointer="HomastP4.3NerangTransc.a"/>
+
+            </div>
+            <div n="4" type="Stanza" xml:id="HomastP4.4" correspond="GY27.4">
+                <ab xml:id="HomastP4.4a">
+                    <l>mazdā. at̰. mōi. vahištā. srauuā̊scā. š́iiaōϑanācā. vaōcā.</l>
+                </ab>
+                <ab xml:id="HomastP4.4b">
+                    <l>tā.tū. vohū. manaŋhā. aṣ̌ācā. išudəm. stūtō.</l>
+                </ab>
+                <ab xml:id="HomastP4.4c">
+                    <l>xšmākā. xšaϑrā. ahurā. fərašə̄m. vasnā. haiϑiiə̄m. dā̊. ahūm.</l>
+                </ab>
+                <include href="/db/apps/cab_db/cab_rituals/nerang/dron_nerang" xpointer="HomastP4.4NerangTransc.a"/>
+                <ab xml:id="HomastP4.4d">
+                    <l>mazdā. at̰. mōi. vahištā. srauuā̊scā. š́iiaōϑanācā. vaōcā.</l>
+                    <l>tā.tū. vohū. manaŋhā. aṣ̌ācā. išudəm. stūtō.</l>
+                    <l>xšmākā. xšaϑrā. ahurā. fərašə̄m. vasnā. haiϑiiə̄m. dā̊. ahūm.</l>
+                </ab>
+                <ab xml:id="HomastP4.4e">
+                    <l>mazdā. at̰. mōi. vahištā. srauuā̊scā. š́iiaōϑanācā. vaōcā.</l>
+                    <l>tā.tū. vohū. manaŋhā. aṣ̌ācā. išudəm. stūtō.</l>
+                    <l>xšmākā. xšaϑrā. ahurā. fərašə̄m. vasnā. haiϑiiə̄m. dā̊. ahūm.</l>
+                </ab>
+                <ab xml:id="HomastP4.4f">
+                    <l>mazdā. at̰. mōi. vahištā. srauuā̊scā. š́iiaōϑanācā. vaōcā.</l>
+                    <l>tā.tū. vohū. manaŋhā. aṣ̌ācā. išudəm. stūtō.</l>
+                    <l>xšmākā. xšaϑrā. ahurā. fərašə̄m. vasnā. haiϑiiə̄m. dā̊. ahūm.</l>
+                </ab>
+            </div>
+            <div n="5" type="Stanza" xml:id="HomastP4.5" corresp="GY27.5">
+                <ab xml:id="HomastP4.5a">
+                    <l>ā. airiiə̄mā. iš́iiō. rafəδrāi. jaṇtū. nərəbiiascā. nāiribiiascā.
+                        zaraϑuštrahē.</l>
+                </ab>
+                <ab xml:id="HomastP4.5b">
+                    <l>vaŋhə̄uš. rafəδrāi. manaŋhō. yā. daēnā. vairīm. hanāt̰. mīždəm.</l>
+                </ab>
+                <ab xml:id="HomastP4.5c">
+                    <l>aṣ̌ahiiā. yāsā. aṣ̌īm. yąm. iš́iiąm. ahurō. masatā. mazdā̊.</l>
+                </ab>
+                <include href="/db/apps/cab_db/cab_rituals/nerang/dron_nerang" xpointer="HomastP4.5NerangTransc.a"/>
+                <ab xml:id="HomastP4.5d">
+                    <l>ā. airiiə̄mā. iš́iiō. rafəδrāi. jaṇtū. nərəbiiascā. nāiribiiascā.
+                        zaraϑuštrahē.</l>
+                    <l>vaŋhə̄uš. rafəδrāi. manaŋhō. yā. daēnā. vairīm. hanāt̰. mīždəm.</l>
+                    <l>aṣ̌ahiiā. yāsā. aṣ̌īm. yąm. iš́iiąm. ahurō. masatā. mazdā̊.</l>
+                </ab>
+                <ab xml:id="HomastP4.5e">
+                    <l>ā. airiiə̄mā. iš́iiō. rafəδrāi. jaṇtū. nərəbiiascā. nāiribiiascā.
+                        zaraϑuštrahē.</l>
+                    <l>vaŋhə̄uš. rafəδrāi. manaŋhō. yā. daēnā. vairīm. hanāt̰. mīždəm.</l>
+                    <l>aṣ̌ahiiā. yāsā. aṣ̌īm. yąm. iš́iiąm. ahurō. masatā. mazdā̊.</l>
+                </ab>
+                <ab xml:id="HomastP4.5f">
+                    <l>ā. airiiə̄mā. iš́iiō. rafəδrāi. jaṇtū. nərəbiiascā. nāiribiiascā.
+                        zaraϑuštrahē.</l>
+                    <l>vaŋhə̄uš. rafəδrāi. manaŋhō. yā. daēnā. vairīm. hanāt̰. mīždəm.</l>
+                    <l>aṣ̌ahiiā. yāsā. aṣ̌īm. yąm. iš́iiąm. ahurō. masatā. mazdā̊.</l>
+                </ab>
+            </div>
+            <div n="6" type="Stanza" xml:id="HomastP4.6" corresp="GY27.6">
+                <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+                <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+                <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+            </div>
+            <div n="7" type="Stanza" xml:id="HomastP4.7" corresp="GY27.6">
+                <ab xml:id="HomastP4.7a">haōma. pairi.harəš́iiente.</ab>
+                <ab xml:id="HomastP4.7b">mazda.xšaϑra. aṣ̌a.ratauuō. vaŋhuš. sraōšō. yō. aṣ̌ahe.
+                    hacaite. mązaraiia. hə̄ca. iδa. yōiϑβā. astu.</ab>
+            </div>
+            <div n="8" type="Stanza" xml:id="HomastP4.8" corresp="GY27.7">
+                <ab xml:id="HomastP4.8a">humaiia. upaŋhā̊. cīšmaide.</ab>
+                <ab xml:id="HomastP4.8b">ahunahe. vairiiehe. aṣ̌aiia. frasrūtahe.</ab>
+                <ab xml:id="HomastP4.8c">hāuuanaiiā̊sca. aṣ̌aiia. fraš́ūtaiiā̊. aršuxδanąmcā.
+                    vacąm.</ab>
+                <ab xml:id="HomastP4.8d">aϑā.zī.nə̄. humāiiōtarā. aŋhən.</ab>
+            </div>
+            <div n="9" type="Stanza" xml:id="HomastP4.9" corresp="GY27.7">
+                <include href="/db/apps/cab_db/cab_rituals/nerang/dron_nerang" xpointer="HomastP4.9NerangTransc.a"/>
+                <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+                <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+                <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+                <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+            </div>
+            <div n="10" type="Stanza" xml:id="HomastP4.10" corresp="GY27.8">
+                <ab xml:id="HomastP4.10a">
+                    <l>yə̄. səuuištō. ahurō. mazdā̊scā. ārmaitišcā.</l>
+                </ab>
+                <ab xml:id="HomastP4.10b">
+                    <l>aṣ̌əmcā. frādat̰.gaēϑəm. manascā. vohū. xšaϑrəmcā.</l>
+                </ab>
+                <include href="/db/apps/cab_db/cab_rituals/nerang/dron_nerang" xpointer="HomastP4.10NerangTransc.a"/>
+                <ab xml:id="HomastP4.10c">
+                    <l>sraōtā.mōi. mərəždātā.mōi. ādāi. kahiiāicīt̰. paitī.</l>
+                </ab>
+                <include href="/db/apps/cab_db/cab_rituals/nerang/dron_nerang" xpointer="HomastP4.10NerangTransc.b"/>
+                <ab xml:id="HomastP4.10d">
+                    <l>yə̄. səuuištō. ahurō. mazdā̊scā. ārmaitišcā.</l>
+                    <l>aṣ̌əmcā. frādat̰.gaēϑəm. manascā. vohū. xšaϑrəmcā.</l>
+                    <l>sraōtā.mōi. mərəždātā.mōi. ādāi. kahiiāicīt̰. paitī.</l>
+                </ab>
+                <ab xml:id="HomastP4.10e">
+                    <l>yə̄. səuuištō. ahurō. mazdā̊scā. ārmaitišcā.</l>
+                    <l>aṣ̌əmcā. frādat̰.gaēϑəm. manascā. vohū. xšaϑrəmcā.</l>
+                    <l>sraōtā.mōi. mərəždātā.mōi. ādāi. kahiiāicīt̰. paitī.</l>
+                </ab>
+            </div>
+            <div n="11" type="Stanza" xml:id="HomastP4.11" corresp="GY27.9">
+                <ab xml:id="HomastP4.11a">
+                    <l>us.moi. uzārəšuuā. ahurā. ārmaitī. təuuīšīm. dasuuā.</l>
+                </ab>
+                <ab xml:id="HomastP4.11b">
+                    <l>spə̄ništā. maińiiū. mazdā. vaŋhuiiā. zauuō. ādā.</l>
+                </ab>
+                <ab xml:id="HomastP4.11c">
+                    <l>aṣ̌ā. hazō. ə̄mauuat̰. vohū. manaŋhā. fəsəratūm.</l>
+                </ab>
+            </div>
+            <div n="12" type="Stanza" xml:id="HomastP4.12" corresp="GY27.10">
+                <ab xml:id="HomastP4.12a">
+                    <l>rafəδrāi. vourucašānē. dōišī.mōi. yā.və̄. abifrā.</l>
+                </ab>
+                <ab xml:id="HomastP4.12b">
+                    <l>tā. xšaϑrahiiā. ahurā. yā. vaŋhə̄uš. aṣ̌iš. manaŋhō.</l>
+                </ab>
+                <ab xml:id="HomastP4.12c">
+                    <l>frō. spəṇtā. ārmaitē. aṣ̌ā. daēnā̊. fradaxšaiiā.</l>
+                </ab>
+            </div>
+            <div n="13" type="Stanza" xml:id="HomastP4.13" corresp="GY27.11">
+                <ab xml:id="HomastP4.13a">
+                    <l>at̰. rātąm. zaraϑuštrō. tanuuascīt̰. xᵛax́iiā̊. uštanəm.</l>
+                </ab>
+                <ab xml:id="HomastP4.13b">
+                    <l>dadāitī. pauruuatātəm. manaŋhascā. vaŋhə̄uš. mazdāi.</l>
+                </ab>
+                <ab xml:id="HomastP4.13c">
+                    <l>š́iiaōϑanahiiā. aṣ̌āi. yācā. uxδax́iiācā. səraōšəm. xšaϑrəmcā.</l>
+                </ab>
+            </div>
+        </div>
+        <div n="5" type="Chapter" xml:id="HomastP5">
+            <div n="1" type="Stanza" xml:id="HomastP5.1">
+                <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr4"/>
+            </div>
+            <div n="2" type="Stanza" xml:id="HomastP5.2">
+                <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+                <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+                <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+            </div>
+            <div n="3" type="Stanza" xml:id="HomastP5.3">
+                <include href="/db/apps/cab_db/cab_rituals/prayers/YAV" xpointer="YAV"/>
+                <include href="/db/apps/cab_db/cab_rituals/prayers/YAV" xpointer="YAV"/>
+            </div>
+            <div n="4" type="Stanza" xml:id="HomastP5.4">
+                <ab xml:id="HomastP5.4a">yasnəmca. vaɱəmca. aōjasca. zauuarəca. āfrīnāmi.</ab>
+                <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen65"/>
+            </div>
+            <div n="5" type="Stanza" xml:id="HomastP5.5">
+                <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+            </div>
+            <div n="6" type="Stanza" xml:id="HomastP5.6" corresp="#GY72.9">
+                <ab xml:id="HomastP5.6a">aɱāi. raēšca. xᵛarənasca. aɱāi. tanuuō. druuatātəm. </ab>
+                <ab xml:id="HomastP5.6b">aɱāi. tanuuō. vazduuarə. aɱāi. tanuuō. vərəϑrəm. </ab>
+                <ab xml:id="HomastP5.6c">aɱāi. īštīm. pouruš.xᵛāϑrąm. </ab>
+                <ab xml:id="HomastP5.6d">aɱāi. āsnąmcit̰. frazaṇtīm. aɱāi. darəγąm. darəγō.jītīm.
+                    aɱāi. vahištəm. ahūm. aṣ̌aōnąm. raōcaŋhəm. vīspō.xᵛāϑrəm.</ab>
+            </div>
+            <div n="7" type="Stanza" xml:id="HomastP5.7" corresp="#GY72.9">
+                <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+            </div>
+            <div n="8" type="Stanza" xml:id="HomastP5.8" corresp="#GY72.9">
+                <ab xml:id="HomastP5.8a">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab> 
+                <ab xml:id="HomastP5.8b">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab> 
+                <ab xml:id="HomastP5.8c">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+            </div>
+            <div n="9" type="Stanza" xml:id="HomastP5.9" corresp="#GY72.9">
+                <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+            </div>
+            <div n="10" type="Stanza" xml:id="HomastP5.10" corresp="#GY72.9">
+                <ab xml:id="HomastP5.9a">jasa.mē. auuaŋhe. mazda.</ab> 
+                <ab xml:id="HomastP5.9b">jasa.mē. auuaŋhe. mazda.</ab> 
+                <ab xml:id="HomastP5.9c">jasa.mē. auuaŋhe. mazda.</ab>
+                
+            </div>
+            <div n="11" type="Stanza" xml:id="HomastP5.11" corresp="#GY72.10">
+                <ab xml:id="HomastP5.10a">amahe. hutāštahe. huraōδahe. vərəϑraγnahe. ahuraδātahe.
+                    vanaiṇtiiā̊sca. uparatātō.</ab>
+                <ab xml:id="HomastP5.10b">rāmanasca. xᵛāstrahe. vaiiaōš. uparō.kairiiehe. taraδātō.
+                    ańiiāiš. dāmąn. </ab>
+                <ab xml:id="HomastP5.10c">aētat̰. tē. vaiiō. yat̰. tē. asti. spəṇtō.maińiiaōm.</ab>
+                <ab xml:id="HomastP5.10d">ϑβāšahe. xᵛaδātahe. zruuānahe. akaranahe. zruuānahe. darəγō.xᵛaδātahe. </ab>
+            </div>
+            <div n="12" type="Stanza" xml:id="HomastP5.12" corresp="#GY72.10">
+                <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+            </div>
+        </div>
+    </div>

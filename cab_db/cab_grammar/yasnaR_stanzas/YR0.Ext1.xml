@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR0.Ext1" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+        <approved/>
+        <updated/>
+    </header>
+    <div xml:id="YR0.Ext1">
+            <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="YR0.1NerangTransc.a"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR0Ext1"/>
+        </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>zōt: vid. Nērang.</div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab><em>xšnaōϑrahe. ahurahe. mazdā̊.</em>] 300, 360, 370.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Ms. 350 (= Revāyat of Kāma Bohra):</ab>
+            <ab class="ab_indent" n="NerangTransc.a" xml:id="YR0.1NerangTransc.a" xml:lang="Paz">ąnki. rapīθβən. cūn. ẏaząd. cūn. mibāẏat̰. yastan. psnx́n. ąki. cūn. rōz.
+                    ōhrmazd. māh. frauuadīn. ki. dar.āat̰. rapəθβən. mi.bāyat̰. yastan. andar. gāhi. hāuuan. barəsəm. cīδan. yašt. sāxtan. barəsəm. sizdah. tāk. du. tāi. parāgąm.
+                    dar. pāi. māh.rōy. nihādan. barasəm. bastan. sāziš. hā.həm. binihāt̰a. </ab>
+            <ab class="ab_indent" n="NerangEnglish.a" xml:id="Y0.1NerangEnglish.a">"When someone will perform a <em>rapīθβən</em>, how should he perform it.
+                Answer: When it is the day of Ohrmazd of the month Frauuardīn, in the <em>gāh hāwan</em> he should cut the <em>barsom</em> and prepare the <em>yast</em>. The barsom is of 13 twigs and two
+                <em> fragām</em>. He should place them beside the foot of the <em>māhrōy</em> and tie the <em>barsom</em>. He places as well all implements."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrYR0.Ext1"/>
+    </translation>
+</text>

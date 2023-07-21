@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y0.Ext8" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+        <approved/>
+        <updated/>
+    </header>
+    <div xml:id="Y0.Ext8">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="Y0Ext8"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>zōt: vid. Y0.1.</div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        
+        <Critical/>
+        <RecitationInstruction/>
+        <Commentary>
+            <ab><em>nəmasə.tē ātarš mazdā̊ ahurahe hudā̊ mazišta yazata</em>] 15, 60, 82, 100, 235.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels>
+        <ab><em>nəmasə.tē ātarš mazdā̊ ahurahe hudā̊ mazišta yazata</em> ~ Y58.7 <em>nəmasə.tōi ātarə̄ ahurahē mazdā̊ mazištāi yā̊ŋhąm paitī.jamiiā̊</em>.</ab>
+    </Parallels>
+    <Ritual>
+        <Quotations id="ritualQuotations">
+            <ab>N52.12 <bibl>Kotwal and Kreyenbroek, 2003</bibl>, pp. 240-241:</ab>
+            <ab class="ab_indent"><em>ka †gumbad-ē wēnēd u-š </em>nəmasə.tē ātarš mazdā̊ ahurahe huδā̊ mazišta ẏazata<em> ōh gōwišn andar im xānag</em></ab>
+            <ab class="ab_indent"> When he sees a dome (of a fire temple), he has to recite <em>nəmasə.tē ātarš mazdā̊ ahurahe huδā̊ mazišta ẏazata</em> in this building."</ab>
+        </Quotations>
+        <ModernPractice id="ritualModernPractice">
+            <ab>
+                <ab><bibl>Redard and Daruwalla, 2021</bibl>, p. 70: </ab>
+                <ab>"In this way, after having made both hands pure, the chief priest facing the East (standing) in front of the fire urn, recites the Avestan (text) below: <em>nəmasə.te ātarš mazdā̊ ahurahe huδā̊ mazišta yazata xšnaoϑra ahurahe mazdā̊</em>."</ab>
+            </ab>
+        </ModernPractice>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY0.Ext6"/>
+    </translation>
+</text>

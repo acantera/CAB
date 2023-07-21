@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS24.5" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS24.5">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS10.2"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">rāspīg (at the place of the <em>srōšāwarzān</em>): vid. VrS24.3.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>VrS24.5b <em>pairi.jaϑnō</em>} sec. cod.; Geldner, Kellens <em>pairijaϑnō</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS24.5 = VrS24.12, DoHom1.5.</ab>
+      <ab><em>humāiiehe pairi.jaϑnō</em> ~ VrS11.11 <em>humāiium pairi.jaϑnəm</em>.</ab>
+      <ab><em>daēnaiiā̊ vaŋhuiiā̊ māzdaiiasnōiš</em> ~ <em>passim daēnā vaŋᵛhī māzdaiiasni</em>.</ab>
+      <ab><em>yā daɱaiiā̊ vaŋhuiiā̊ āfritōiš yā daɱaiiā̊ vaŋhuiiā̊ anā.druxtōiš yā daɱaiiā̊ vaŋhuiiā̊ anauuauruxtōiš</em> = Y70.3.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS24.5"/>
+   </translation>
+</text>

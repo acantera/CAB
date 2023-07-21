@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VS9.27" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VS9.27">
+      <include href="/db/apps/cab_db/cab_rituals/fragards/FragardVidevdad" xpointer="V9.27"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Quotations id="ritualQuotations">
+         <ab>Nērang ī  Pēšāg, ms. TD2 pp.422-423 (original numbering):</ab>
+         <ab class="ab_indent"><em>pas ēw-bār dast ul sag nihišn yōjdahrgar pušt abāg (wʾʾtl) ud war nēmag-rōz kunišn</em>
+         yaϑā ahū vairiiō 1 <em>ud</em> kə̄mnā mazdā <em>tā</em> astuuaitīš aṣ̌ahe <em>pad</em> apāxəδra <em>ēw-bār abāg sag bē maγ ī didīgar šawišn.</em></ab>
+         <ab class="ab_indent">After he puts once the hand over the dog, the purifier must make the progection with the <em>wʾʾtl</em> and the ordeal of the half-day.
+         <em>yaϑā ahū vairiiō</em> 1 and <em>kə̄mnā mazdā</em> until <em>astuuaitīš aṣ̌ahe</em> (and) at <em>apāxəδra</em> he must go once with the dog to the second pit.</ab>
+      </Quotations>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVS9.27"/>
+   </translation>
+</text>

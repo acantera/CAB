@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y6.12" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y6.12">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY6.11"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y6.3.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>Y6.12 = VrS81.12; ≈ Y1.13, Y2.13, Y3.15, Y4.18, Y7.16, Y17.12, Y17.13, Y22.16, Y24.23, Y59.12, Y59.13, Y66.13, VrS78.25, VrS79.18, VrS82.13, VVrS14.11.</ab>
+      <ab><em>ϑβąm ātrəm ahurahe mazdā̊ puϑrəm aṣ̌auuanəm aṣ̌ahe ratūm yazamaide</em> = Y6.19, VrS30.11, VrS36.5, VrS41.6, VrS51.8, VrS57.8, VrS62.8, VrS64.9, VrS65.82, VrS69.8, VrS71.8, VrS87.12; 
+         ~ Y71.24, VrS93.11 <em>ātrəm ahurahe mazdā̊ puϑrəm aṣ̌auuanəm aṣ̌ahe ratūm yazamaide</em>; ~ Y16.4 <em>ātrəm ahurahe mazdā̊ puϑrəm yazamaide</em>; ~ VrS78.13 <em>ϑβąm ātrəm ahurahe mazdā̊ puϑrəm āiiese yešti</em>.</ab>
+      <ab><em>āpō vaŋᵛhīš vahištā̊ mazdaδātā̊ aṣ̌aōnīš</em> = Y2.13, Y17.13, Y59.12, Y65.7 (x2), Y68.7, VrS81.12; ~ VrS16.4 <em>āpō vaŋᵛhīš mazdaδātā̊ aṣ̌aōnīš</em>.</ab>
+      <ab><em>vīspā̊ āpō mazdaδātā̊ aṣ̌aōnīš yazamaide vīspā̊ uruuarā̊ mazdaδātā̊ aṣ̌aōnīš yazamaide</em> ~ Y8.4 <em>yā̊ apasca uruuarā̊</em>; ~ Y8.8, Y11.4, Y52.6, Y60.10, Y68.18, Y71.29 <em>vasō. āpō. vasō. uruuarā̊.</em>; 
+         ~ Y9.4 <em>āpa uruuaire</em>; ~ Y12.12 <em>yā varanā āpō yā varanā uruuarā̊   </em>; Y16.9 ~ <em>yazamaide vīspā̊ āpō yazamaide vīspā uruuarā̊</em>; Y18.2, Y51.8, Y65.15 ~ <em>dāidī mōi yə̄ gąm tašō apascā uruuarā̊sca</em>; 
+         ~ Y37.1 <em>dāt̰ apascā dāt̰ uruuarā̊sca vaŋᵛhīš</em>; ~ Y44.4 <em>kə̄ apō uruuarā̊scā</em>; ~ VrS65.78, VrS65.80 <em>auui apąmca vaŋᵛhinąm uruuuarnąmca</em>; ~ VrS65.78, VrS65.80 <em>yā̊ vaŋᵛhīš yā̊ āpō yā̊sca uruuarā̊</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY6.12"/>
+
+       <include type="W" corresp="WTrY6.11"/>
+        <include type="K" corresp="KTrY6.11"/>
+        <include type="D" corresp="DTrY6.11"/>
+    </translation>
+</text>

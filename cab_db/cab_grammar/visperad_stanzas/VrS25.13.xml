@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS25.13" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS25.13">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS11.3"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid Y22.7.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS25.13 = DoHom2.13.</ab>
+      <ab>VrS25.13 ≈ VrS1.11, VrS2.11-13, VrS17.10-12, VrS27.27, VrS77.10-12, VrS90.11.</ab>
+      <ab><em>āiiese yešti gaēϑanąm ā̊ŋhairiiehe aṣ̌aōnō aṣ̌ahe raϑβō yat̰ ā̊ŋhairiiō zīzanən</em> 
+         ~ VrS2.11, VrS17.10, VrS77.10 <em>aɱiia zaōϑre barəsmanaēca gaēϑanąm ā̊ŋhairīm aṣ̌auuanəm aṣ̌ahe ratūm āiiese yešti yat̰ ā̊ŋhairiiō zīzanən</em>.</ab>
+      <ab><em>staōtanąm yesńiianąm</em> ~ Y30.1 <em>staōtācā ahurāi yesńiiācā vaŋhə̄uš manaŋhō</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS25.13"/>
+   </translation>
+</text>

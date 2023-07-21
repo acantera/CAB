@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y27.10" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y27.10" quote="Y33.11">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY27.8"/>
+               <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y27.10NerangTransc.a"/>
+            </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels>
+        <Quotations id="Nebenüberlieferung">
+            <ab><em>yə̄ səuuištō</em>: Dk M841.18.</ab>
+        </Quotations>
+    </Parallels>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Y27.10 (mss. 40, 88, 400, 410 (sec. m.), 2007, 2030, 2040, 2101, 2106, 2109, 4000, 4010, 4020, 4025, 4030a, 4040, 4050, 4055, 4161, 4162, 5020):</ab>
+            <ab class="ab_indent">
+                zōt <em>yə̄ səuuištō ahurō mazdā̊scā ... mōi ādāi kahiiāicīt̰ paitī</em>. sē bār guftan ud pad harw paitī hōm ud urwarām bē afšārišn</ab> 
+            <ab class="ab_indent">
+                "The <em>zōt</em> should recite three times <em>yə̄ səuuištō ahurō mazdā̊scā ... mōi ādāi kahiiāicīt̰ paitī</em>. At each <em>paitī</em>, he has to strain the <em>hōm</em> and the <em>urwarām</em>."</ab>
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+    <ab>Cf. N28.47g:</ab>
+            <ab class="ab_indent">
+                <em>pad </em>ādāi kahiiācīt̰ paitī<em> be afšārišn</em></ab>
+            <ab class="ab_indent">
+                At <em>ādāi kahiiācīt̰ paitī</em>he has to press it.<bibl>Kotwal and Kreyenbroek, 2003</bibl>: p. 108-9<em> *pālāyišn</em> = "he should strain it"</ab>
+            <ab>Cf. ŠnŠ13.9 ( <bibl>Kotwal, 1969</bibl>, pp. 42-3): </ab>
+            <ab>yə̄ səuuištō <em> sē ǰār zōhr abar dārišnīh ēn̐ čahār pēšag rāy </em></ab>
+            <ab>The holding of the <em>zōhr</em> thrice at <em>yə̄ səuuištō</em> is for these *three states.</ab>
+        </Quotations>
+        <Commentary id="ritualCommentary">
+            <ab>In modern practice recited by <em>zōt</em> and <em>rāspīg</em>, however according to the manuscripts only by the <em>zōt</em>.</ab>
+        </Commentary>
+        <ModernPractice id="ritualModernPractice">
+            <ab>While both priests recite st. 8 three times, the zot, resting the pestle across
+                the palm of his right hand, picks up the mortar around its stem (holding it
+                between the second and third fingers) and swishes the contents to mix the
+                residue with the liquid. He empties the mortar into the nine-holed sieve placed
+                over the cup, now designated the horn cup. Placing the mortar, with the
+                pestle in it, back on the table, he picks up the sieve by grasping it from above
+                with his whole hand, using the middle finger to clear the residue of twigs off the
+                holes to allow the liquid to flow through to the cup below. [...]
+                On the third recitation the zot and raspī repeat the last phrase "give lordship
+                in every place" ( <em>adai kahyaichft paitī</em>), as the zot places the residue
+                back in the mortar.
+            </ab>
+        </ModernPractice>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY27.10"/>
+    <include type="W" corresp="WTrY27.8"/><include type="K" corresp="KTrY27.8"/><include type="D" corresp="DTrY27.8"/></translation>
+</text>

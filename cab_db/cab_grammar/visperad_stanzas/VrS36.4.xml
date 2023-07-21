@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS36.4" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS36.4">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS18.4"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab><em>anapiiūxδō anapišūtō</em> ... <em>anapiiūxδa anapišūta</em> ... <em>anapiiūxδa anapišūta</em> ... <em>anapiiūxδanąm anapišūtanąm</em> ~ VrS36.3 <em>anapiiūxδō anapišūtō</em> ... <em>anapiiūxδa anapišūta</em>;
+         ~ VrS36.2 <em>anapiiūxδō anapišūtō</em>; ~ Y19.5 <em>anapiiūxδa anapišūta</em> ... <em>anapiiūxδanąm anapišūtanąm</em> ... <em>anapiiūxδa anapišūta</em>;
+         ~ VrS42.5, VrS42.10, VrS65.5, VrS65.10, VrS75.5, VrS75.10 <em>anapiiūxδe anapišūte</em>.</ab>
+      <ab><em>frasraōϑrəmca framarəϑrəmca fragāϑrəmca frāiiaštīmca</em> = Y19.21, Y20.5, Y55.7, VrS41.5, VrS51.7, VrS57.7, VrS62.7, VrS64.8, VrS65.81, VrS69.7, VrS71.7; ~ VrS11.25 <em>frasraōϑraca framarəϑaca fragāϑraca frāiiaštaca</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS36.4"/>
+   </translation>
+</text>

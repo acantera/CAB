@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS27.20" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VVrS27.20">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS13.19a" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.1" on_line="in1line"/>
+      <!-- Only ushahina possible. The rest after it -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS13.19b"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS13.19c" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.2" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS13.19d" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS13.19e" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.3" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS13.19f" on_line="in1line"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. VVrS27.19.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VVrS27.20b <em>āat̰ dīš āuuaēδaiiamahi asńiiaēibiiō</em> ...] <em>ratubiiō ušahenāi</em> OD <em>āat̰ pərənō.mā̊ŋhāi</em> (VVrS27.25) 4280.</ab>
+         <ab>VVrS27.20b <em>āat̰ dīš āuuaēδaiiamahi bərəjiiāi</em> ...] <em>dīš āuuaē.</em> cygwn PW <em>ā. y.</em> npšt' gwptn' ẔK gʾk <em>ā. y.</em> ẔNE gywʾk <em>yas.</em> OD <em>āuuaēdaiiamahe</em> ʾp̄ʾyt' gwptn' OD OL Y 
+         <em>pərənō.mā̊ŋhāi vūšaptaϑāica</em> (VVrS27.25) 4040; <em>dīš āuuaiδaiiamahī</em> OD <em>pərənō.mā̊ŋhāi vīspataϑāica</em> (VVrS27.25) 4210, 4240; <em>āat̰</em> OD <em>pərənō.mā̊ŋhāi vīspataϑāica</em> (VVrS27.25) 4370, 4515.</ab>
+         <ab>VVrS27.20b <em>āat̰ dīš āuuaēδaiiamahi sraōšahe</em> ...] <em>āat̰</em> OD <em>pərənō.mā̊ŋhāi vīspataϑāica</em> (VVrS27.25) 4220.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>VVrS27.20 ≈ VVrS1.4, VVrS2.4, VVrS17.3, VVrS25.6, VVrS77.3, VVrS90.4. Cf. Y1.7.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS27.20"/>
+   </translation>
+</text>

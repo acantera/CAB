@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y17.11" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y17.11">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RozAcc" xpointer="RozAcc1" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY17.10c" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/MahAcc" xpointer="MahAcc1" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY17.10d" on_line="in1line"/>
+      <!-- Eliminate when Gatha days -->
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y6.3.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>... yazamaide</em>] YWM W BYRH ZKš ḆYN YKOYMWNyt' gwptn' 5; YWM W BYRH ZKš ḆYN YKOYMWNd' gwptn' 6; YWM BYRH gwš gwptn' 15; YWM W BYRH ZKš 60; YWM W BYRH 88; YWMH BYRH 100. 
+            400, 410, 500, 510 do not abbreviate.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>Y17.11 = Y6.11, Y59.11, VrS81.11; ≈ Y1.12, Y2.12, Y3.14, Y4.17, Y7.15, Y22.15, Y24.22, Y66.12, VrS78.24, VrS79.17, VrS82.12, VVrS14.10.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY17.11"/>
+      <include type="W" corresp="WTrY17.10b"/>
+      <include type="K" corresp="KTrY17.10b"/>
+      <include type="D" corresp="DTrY17.10b"/>
+   </translation>
+</text>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VytVrS78.26" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VytVrS78.26">
+      <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VrS32.32a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VrS32.32b" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen26" on_line="in1line"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VytVrS78.26 (ms. 5020):</ab>
+         <ab class="ab_indent">
+            <em>āiiese yešti</em> xšnūman ān bēd dō bār guftan ka ardā fraward bēd <em>auuaŋ́hā̊ frauuaṣ̌aiiō</em> tā ō ī <em>aṣ̌a haca yat̰ vahištāt̰</em> agar nē xšnūman ahlawān bēd 
+            <em>auuaŋ́hā̊</em> nē abāyēd guftan <em>yat̰ vahištāt̰</em> pas <em>frauuarāne</em>...</ab> 
+         <ab class="ab_indent">
+            "At <em>āiiese yešti</em>, they must recite the corresponding <em>šnūman</em> two times. When it is for Ardā Fraward, (they recite) <em>auuaŋ́hā̊ frauuaṣ̌aiiō</em> until 
+            <em>aṣ̌a haca yat̰ vahištāt̰</em>. If it is not the the <em>šnūman</em> for the <em>ahlawān</em>, they must not recite <em>auuaŋ́hā̊</em> until  <em>yat̰ vahištāt̰</em>. 
+            (Then, they continue with) <em>frauuarāne</em>..."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVytVrS78.26"/>
+   </translation>
+</text>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS0.5" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+      <approved/>
+      <updated/>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VVrS0.5">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/videvdad_nerang" xpointer="VVrS0.5NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>zōt: vid. Y0.5.</div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>VVrS0.5] Indian mss. om.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VVrS0.5 (Nērang ī āb) (mss. 4000a, 4010, 4020, 4025, 4063):</ab>
+         <ab class="ab_indent">            
+            <em>yaθā ahū vairiiō</em> dō andar rāh ēd bē gōwišn ō ī pas barsom šawēd u-š tarsāgīhā bē ēstišn</ab> 
+         <ab class="ab_indent">
+            "He has to recite two <em>yaθā ahū vairiiō</em> on the way. He goes past the <em>barsom</em> and has to stand respctfully."</ab>
+      </Nerangs>
+      <Quotations id="ritualQuotations">
+         <ab><ab>NērangVVrS0.5 (Nērang ī āb) [mss. 4000 4010 4020 4025 4063], cf. WiD, Revāyat of Kāma Bohra (MU1, p. I. 577) and Revāyat of Kāmdin Šapur (var. b) (MU1, p. I. 584), on the Nērang ī Āb ud Padyāb ceremony:</ab>
+            <ab class="ab_indent">"(Pahl.) yadāhuwēryō dō andar rāh ēd bē gōbišn ō ī pas barsom šawet u-š tarsagāhīh bē estišn ud sidīgar bār sāzišn gōmēz āb xūb bē nigerišn"</ab>
+            <ab class="ab_indent">"He (the <em>zōt</em>) has to recite two <em>yaϑā ahī vairiiō</em> on his way. He has to go towards the <em>barsom</em> and place his feet on it reverentially."</ab></ab>
+         
+         <ab><ab>Revāyat of Behdin Ǧāsā (MU1, p. I. 592-93), cf. Revāyat of Kāmdin Šapur (var. a) (MU1, pp. I. 580-81), on the Nērang ī Āb ud Padyāb ceremony:</ab>
+            <ab class="ab_indent">"(Pers.) cenānke dar yašt sāḫtan <em>ẏaϑā ahū vairiiō.</em> do <em>ẏasnəmcā.</em> tā sar <em>ahurahe mazdā̊ raē.</em> (Pahl.) OD pas dur āmadan 
+               (AvPersTr.) ašim vohu (Pers.) ānkas ke yašt ḫᵛāhand kardan (AvPersTr) is̱ā ahu vairiyo andar rāh goftan va be <em>š́iiaoϑə̄naną̇m.</em> bālāy-e (†pāy-ī) rāst andar zudgāh nahādan bar yazešn gāh nešastan 
+               va beyazdān va amšāsfandān setāyeš bordan ve beyāri miṭalbidan va ānkas ke rās̱vi ast zud dast ḫošk kardan va soruš darun nahādan va panǧ (AvPersTr.) is̱ā ahu vairiyo ḫᵛāndan 
+               va esm va buy se tā nahādan dast ḫošk kardan ānkas ke yazešn ḫᵛāhad kardan dast beāb pādyāvi šostan hamā sāǧešn bekardan va rās̱vi moḥkam nešastan dast be ātas bordan 
+               hamā ǧā ke vāǧ ke piš neveštam va begoftan beistādan pas negaridan pas vāǧ-e digar begoftan"</ab>
+            <ab class="ab_indent">"The person who has prepared de ritual (performed the Paragna), (at the) two <em>yaϑā ahū vairiiō</em> (should recite) <em>yasnəmcā</em> until the endo of <em>ahurahe mazdā̊ raē.</em> until (the end).
+               Afterwards he should go away (reciting) <em>aṣ̌əm vohū</em>. The one who wants to perform the ceremony has to recite two <em>yaϑā ahū vairiiō</em> on his way and at <em>š́iiaōϑənanąm</em> put his right foot on the 
+               <em>zōtgāh</em> and sit reverentially. He should praise the Yazdan and the Aməṣ̌a Spəṇta and call them to his assistance. That person who is the <em>rāspīg</em> should soon make his hands dry, put the Srōš Drōn and utter 
+               five <em>yaϑā ahū vairiiō</em> and arrange thre <em>esm</em> and <em>boy</em> and make his hands dry. The person who is to perform the Yasna should wash his hands with the <em>padyāb</em>, 
+               and look at all the apparatus. The <em>rāspīg</em> should sit straight, carry his hands to the fire. At all places, the words I indicate below should be uttered and they should stay and look and then recite the remaining words."
+            </ab></ab>
+      </Quotations>
+     
+      <Commentary id="ritualCommentary">
+         <ab class="ab_indent">For a description of the actions of the <em>rāspīg</em>, see Y0.5.</ab>
+      </Commentary>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS0.5"/>
+   </translation>
+</text>

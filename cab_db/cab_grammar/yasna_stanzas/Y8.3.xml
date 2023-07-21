@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y8.3" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y8.3">
+               <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y8.3NerangTransc.a"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY8.2"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">rāspīg pad gāh ī hāwanān: cod., Anklesaria, Geldner, Kotwal and Boyd.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary>
+            <ab>However, ms. 672 [K6] <em> lʾspyk.YMRRWN-yt PWN gʾs plbltʾl</em>; <bibl>Geldner, 1886-1996</bibl>, p.37, n.2.1 "according to J3 at the Frabartār's place".</ab>
+        </Commentary>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab>Y8.3a †<em>haŋhāna</em>] for <em>haŋhanāna</em> <bibl>Kellens, 1984</bibl>, p. 425. Cf. Yt13.88 <em>haŋhanānāi</em>.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels>
+        <ab><em>miiazdəm yōi dim haŋhāna aṣ̌āca frə̄rətica</em> ~ Y44.18 <em>kaϑā aṣ̌ā tat̰ mīždəm hanānī</em>.</ab>
+    </Parallels>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Y8.3 Var. a (mss. 5, 6, 15, 40, 88, 400, 410, 510, 2007, 2010, 2030, 2040, 2101, 2109, 4000a, 4010, 4020, 4025, 4040, 4045, 4050 (sec.m.), 4055, 4060, 4063, 4161, 4162, 5020, 4030a):</ab>
+            <ab class="ab_indent">
+                rāspīg pad gāh ī hāwanān <em>xᵛarata narō aētəm miiazdəm</em></ab>
+            <ab class="ab_indent">
+                "The <em>rāspīg</em> at the place of the <em>hāwanān</em> (says): <em>xᵛarata narō aētəm miiazdəm</em>"</ab>
+            <ab>Y8.3 Var. b (ms. 672): </ab>
+            <ab class="ab_indent">
+                rāspīg gōwēd pad gāh ī frabardār <em>xᵛarata narō aētəm miiazdəm</em></ab>
+            <ab class="ab_indent">
+                "The <em>rāspīg</em> says at the place of the <em>frabardār</em>: <em>xᵛarata narō aētəm miiazdəm</em>."</ab>
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+            <ab>N28.38c </ab>
+    <ab class="ab_indent">
+        pad <em>aṣ̌aiia.nō paiti.jamiiāt̰</em> hāwanān ul ō pāy estišn u-š <em>xᵛarata narō</em> bē gōwišn ka nē gōwēd ēn kū šāyēd ayāb nē šāyēd ā-m nē rōšnag.</ab>
+    <ab class="ab_indent">
+        "At <em>aṣ̌aiia.nō paiti.jamiiāt̰</em>, the hāwanān has to stand up and recite <em>xᵛarata narō</em>. When he does not recite it, it is not clear to me whether this is allowed or not."</ab>
+        
+        </Quotations>
+        
+        <ModernPractice id="ritualModernPractice">
+            <ab><ab><bibl>Redard and Daruwalla, 2021</bibl>, p. 71-73:</ab>
+                <ab class="ab_indent">The assistant priest, standing in the Western direction, puts the third (piece of) wood (and) incense on the fire. Then, the assistant priest, standing on
+                    the chief priest’s left hand side, recites alone.</ab></ab>
+            
+            <ab><ab><bibl>Kotwal and Boyd, 1991</bibl>, p. 96: </ab>
+                <ab class="ab_indent">"The <em>rāspī</em> walks around the south side of the fire to the <em>zōt</em>, stands to the left of the <em>zōt</em> and directs his recitation of st. 2 to him: "O man, this food offering [i.e, the <em>drōn</em>] which has been prepared with purity and is before you, may you through your righteousness be worthy of tasting it" (<em>khvarata narō aētem myazdem yōi dim hanghāne ashācha frērēticha</em>)".</ab></ab>
+        </ModernPractice>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY8.3"/>
+
+    <include type="W" corresp="WTrY8.2"/>
+        <include type="K" corresp="KTrY8.2"/>
+        <include type="D" corresp="DTrY8.2"/>
+    </translation>
+</text>

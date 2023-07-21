@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS11.31" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS11.31">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr1"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS11.31NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS3.12a"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt̰ ud rāspīg (this at the place of the <em>srōšāwarzān</em>): vid. Nērang.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VrS11.31WazGr lʾspyk PWN gʾs Y slwšʾwlcʾn' <em>yaϑā ahī vairiiō yō zaōtā frā.mē mrīte</em> zwt' <em>aϑā ratuš</em> krtn'] 2030, 2040, 2101, 2106; lʾspyk PWN gʾs Y slwšʾwlcʾn' <em>yaϑā ahī vairiiō yō zaōtā</em> zwt' <em>aϑā ratuš</em> krtn' 2007, 2070; lʾspyk PWN gʾs Y slwšʾwlcʾn' <em>yaϑā ahī vairiiō yō zaōtā</em> OD sl zwt' <em>aϑā ratuš</em> krtn' 2010; lʾspyk <em>yaϑā ahī vairiiō yō zaōtā frā.mē mrīte</em> zwt' <em>aϑā ratuš</em> 2109; lʾspyk wʾcgylšnyh 2000, 2065.</ab>
+         <ab>VrS11.31a <em>səraōšō iδā astū...</em>] lʾspyk <em>səraōšō iδā astū</em> 2007, 2010, 2030, 2040, 2065, 2070, 2101, 2106, 2109.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS11.31-32 = VrS15.3-4; ~ Y15.3, Y63.5, Y65.17-18.</ab>
+      <ab>VrS11.31 = VrS15.3, VrS24.3, VrS31.8, VrS42.3, VrS65.3, VrS75.3, VrS93.3; ~ VrS87.5, VrS89.17.</ab>
+      <ab><em>səraōšō iδā astū ahurahe mazdā̊ yasnāi səuuīštahe aṣ̌aōnō yə̄.nā̊ ištō hiiat̰ paōuruuīm tat̰ ustəməmcīt̰</em> = Y56.1; ~ Y56.2 <em>səraōšō iδā astū apąm vaŋᵛhīnąm yasnāi aṣ̌āunąmca frauuaṣ̌ibiiō yā̊.nō ištā̊ urruībiiō hiiat̰ paōuruuīm tat̰ ustəməmcīt̰</em>; ~ Y56.3 <em>səraōšō iδā astū apąm vaŋᵛhīnąm yasnāi vaŋhuš vaŋᵛhīnąm aməṣ̌anąmcā spəṇtanąm huxšaϑranąm huδā̊ŋhąm vohunąmca vaŋhuiiā̊scā aṣ̌ōiš yasnāi yā.nə̄ āraēcā ərənauuataēcā sraōšascā iδā astū apąm vaŋᵛhīnąm yasnāi vaŋhuš aṣ̌iuuā̊ hiiat̰ paōuruuīm tat̰ ustəməmcīt̰</em></ab>
+      <ab><em>səraōšō iδā astū</em> ~ Y56.4, VrS11.36 <em>səraōšō astū</em>; ~ Y70.6 <em>sraōšō astu</em>.</ab>
+   </Parallels>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS11.31 (mss. 2010, 2030, 2040, 2070, 2101, 4000, 4010, 4020, 4040, 4161, 4162, 5020, 4030a):</ab>
+         <ab class="ab_indent">rāspīg pad gāh ī srōšāwarzān <em>yaϑā ahū vairiiō yō zaōtā</em> ...</ab>  
+         <ab class="ab_indent">"The <em>rāspīg</em> (should recite) at the place of the <em>srōšāwarzān: yaϑā ahū vairiiō yō zaōtā</em> ..."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS11.31"/>
+   </translation>
+</text>

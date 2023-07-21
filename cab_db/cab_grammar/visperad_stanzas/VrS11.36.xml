@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS11.36" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS11.36">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS4.3a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS4.3b"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS4.3c"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS4.3d"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS4.3e"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS4.3f"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt̰: vid. VrS11.32-33.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>səraōšō astū...</em>] <em>sraošō astu sraošəm aṣ̌īm yaz. ratūm</em> OD <em>tā̊sca yaz.</em> (VrS11.37) 2065.</ab>
+         <ab><em>ratūm bərəzaṇtəm yazamaide ...</em>] <em>ratūm bərəzṇtəm yazamaide</em> OD <em>tā̊scā yazamaide</em> (VrS11.37) 2000; <em>ratīm bərəzaṇtəm y. yim ahurəm mazdąm</em> OD OL <em>tā̊scā y.</em> (VrS11.37) 2101.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS11.36 = Y70.7.</ab>
+      <ab><em>səraōšō astū</em> ~  Y56.4, VrS11.36 <em>səraōšō iδā astū</em>. Cf. <em>srōš barišnīh</em> VrS11.31-32 and parallels.</ab>
+      <ab><em>sraōšəm aṣ̌īm yazamaide ... varəš́iiamnaca</em> = Y57 (<em>passim</em>), VrS42.11, VrS65.11, VrS75.11, VrS89.22.</ab>
+      <ab><em>sraōšəm aṣ̌īm yazamaide</em> = Y16.5, VrS18.1 (x3), VrS28.2.</ab>
+      <ab><em>ratūm bərəzaṇtəm ... varəš́iiamnaca</em> = VrS18.6, VrS30.12, VrS36.6, VrS41.7, VrS51.9, VrS57.9, VrS62.9, VrS64.10, VrS65.83, VrS69.9, VrS71.9, VrS87.13, VrS93.12, VrS96.25.</ab>
+      <ab><em>vīspa srauuā̊ zaraϑuštri yazamaide</em> ~ Y16.2 <em>zaraϑuštri srauuā̊ yazamaide</em>; ~ VrS31.13 <em>srauuaŋhąmca zaraϑuštrinąm</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS11.36"/>
+   </translation>
+</text>

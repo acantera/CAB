@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS92.8" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VVrS92.8">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY68.8"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VVrS92.8 Var. b (ms. 4000):</ab>
+         <ab class="ab_indent">
+            ... <em>t̰baēšaŋhō maṣ̌iieheca</em> zōhr andak-ē ō ī āb rēzišn</ab>  
+         <ab class="ab_indent">
+            "At <em>t̰baēšaŋhō maṣ̌iieheca</em>, he has to pour one <em>zōhr</em>'s drop into the <em>ǰīwām</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS92.8"/>
+   </translation>
+</text>

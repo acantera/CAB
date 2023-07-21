@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS7.21" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS7.21">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY7.19a" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/GahanbarGen" xpointer="GahanbarGen1" alt_href="/db/apps/cab_db/cab_rituals/blocks/RatuGen" alt_xpointer="RatuGen2" has_alt="1" on_line="in1line"/>
+      <!-- If not a Gahanbar day -->
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. VrS7.7.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS7.21"/>
+   </translation>
+</text>

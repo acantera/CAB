@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS4.9" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VVrS4.9">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VS4.2"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: VVrS4.8.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>māhiiaēibiiō aṣ̌ahe ratubiiō ...</em>] <em>māhiiaeibii ašahe ratubiiō</em> OD <em>ašahe raϑβą̇m</em> (VVrS4.17) 4200; <em>māhiiaeibiiō ašahe ratubiiō y. v. x. f. āat̰</em> OD <em>ašahe raϑβą̇m</em> (VVrS4.17) 4280.</ab>
+         <ab><em>āat̰ dīš āuuaēδaiiamahi asńiiaēibiiō</em>] <em>āat̰ dīš</em> tāsr <em>ašahe raϑβą̇m</em> (VVrS4.17) 4210</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>VVrS4.9 ≈ VVrS3.6, VVrS6.3, VVrS7.7, VVrS14.7, VVrS78.16, VVrS79.9, VVrS81.3, VVrS82.4 ; ~ Y1.3, Y2.3, Y3.5, Y4.8, Y6.2, Y7.6, Y17.2, Y22.6, Y24.13, Y59.2, Y66.3, YR1.3, YR2.3, YR3.5, YR4.8, YR6.2, YR7.6, YR17.2, YR22.6, YR24.13,YR59.2, YR66.3, VrS78.15, VrS79.8, VrS81.2, VrS82.3.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS4.9"/>
+   </translation>
+</text>

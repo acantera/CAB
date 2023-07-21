@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VytS5.6" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VytS5.6">
+      <include href="/db/apps/cab_db/cab_rituals/fragards/FragardVishtasp" xpointer="Vyt5.6"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab><em>dasuuarə baēšazəm fradaϑəm varədaϑəm</em> ~ Y9.17 <em>ni dasuuarə nī baēšazəm nī fradaϑəm nī varədaϑəm</em>; ~ Y55.3 <em>tā dasuuara tā baēšaza tā fradaϑa tā varədaϑa</em>; ~ Y68.2 <em>dasuuarə baēšazāica fradaiϑe varədaϑāica</em>;
+         ~ Y71.18 <em>dasuuarəca baēšazəmca yazamaide fradaϑəmca varədaϑəmca yazamaide</em>; ~ VrS64.5, VrS64.6, VrS71.4, VrS71.6 <em>auuat̰ dasuuarə yazamaide auuat̰ baēšazəm yazamaide auuat̰ fradaϑəm yazamaide</em>.</ab>
+      <ab><em>dasuuarə baēšazəm</em> ~ Y10.7 <em>dasuuarə baēšazəm</em>; ~ Y68.16 <em>dasuuarə baēšaza</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVytS5.6"/>
+   </translation>
+</text>

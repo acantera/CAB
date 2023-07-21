@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y10.8" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y10.8">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY10.8"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y10.6.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y10.8a <em>maδā̊ŋhō</em>] Kellens, Pirart (Bartholomae); Geldner <em>maiδiiā̊ŋhō</em>.</ab>
+         <ab>Y10.8a <em>xruuī.druuō</em>] Kellens, Pirart (Bartholomae); Geldner <em>xruuīm.druuō</em>.</ab>
+         <ab>Y10.8b <em>aṣ̌a</em>] Geldner, Kellens; Pirart em. <em>aṣ̌i</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>vīspe zī ańiiē maδā̊ŋhō aēšma haciṇte xruuī.druuō āat̰ hō yō haōmahe maδō aṣ̌a hacaite uruuāsmana</em> ~ Yt17.5 <em>yat̰ vīspe ańiiē maδā̊ŋhō aēšma haciṇte xruuī.druuō āat̰ hō yō haōmahe maδō aṣ̌a hacaite xᵛaē.paiϑe</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY10.8"/>
+      <include type="W" corresp="WTrY10.8"/>
+      <include type="K" corresp="KTrY10.8"/>
+      <include type="D" corresp="DTrY10.8"/>
+   </translation>
+</text>

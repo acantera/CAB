@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y19.10" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y19.10">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY19.10"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y19.3.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y19.10c <em>⁺āsixšat̰</em>] em. sec. <bibl>Kellens, 1984</bibl> p. 198, n.5. Geldner <em>āsaxṣ̌at̰</em>. Cf. <bibl>sixša-</bibl> in VytS7.8 <em>sixšəṇtəm</em> and Y55.6 <em>sixšəmna</em> (ms. 5), <em>səxšəmna</em> (mss. 2030, 2101)
+            and adj. <em>sixšaiia-</em> (Y19.11 <em>sixšaēmca</em>).
+         OInd. <em>śikṣati</em>. <em>ā-</em> irr. augment (Kellens, <bibl>De Vaan, 2003</bibl> p. 65; Bartholomae <em>ā-sak-</em>.</ab>
+         <ab>Y19.10c <em>⁺saš́ąs</em>] em. sec. Kellens (sec. Bartholomae <em>saša-</em>). Geldner <em>saxṣ̌ąs</em>. <em>š́</em> unattested.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>vīspō aŋhuš astuuā̊</em> = VS1.2, VS3.33, VS5.4, VS5.7, VS8.34; ~ Y9.1, VS18.30, VS18.31, YtOhr2.2 (x2), YtOhr2.4 (x2) <em>vīspahe aŋhə̄uš astuuatō</em>;
+         ~ Y19.2, Y19.4, Y57.24, VS18.16, VS18.24, YtSr8.2, YtSrH3.2, ARap2.4, KardeSrošRawan2.2 <em>vīspəm ahūm astuuaṇtəm</em>.</ab>
+      <ab><em>⁺āsixšat̰ ⁺saš́ąs dadrānō</em> ~ Y55.6 <em>saxšəmna sācaiiamna dadrāna</em>.</ab>
+      <ab><em>⁺āsixšat̰ ⁺saš́ąs</em> ~ VytS7.8 <em>sixšəṇtəm sācaiiaṇtəm</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY19.10"/>
+      <include type="W" corresp="WTrY19.10"/>
+      <include type="K" corresp="KTrY19.10"/>
+      <include type="D" corresp="DTrY19.10"/>
+   </translation>
+</text>

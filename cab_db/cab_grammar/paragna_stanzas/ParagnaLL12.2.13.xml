@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL12.2.13" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="13" xml:id="ParagnaLL12.2.13">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL12.2.13 (Mss. RJ, K7):</ab>
+            <ab class="ab_indent">
+                <em>āat̰ dīš āuuaeδaiiamahi</em> sukure va hum pyāle u ruy-e sang-e urvis nahādan <em>asniiaēibiiō aṣ̌ahe hāuuanə̄e aṣ̌aone aṣ̌ahe raϑβe y. v. x. f. āat̰</em> dast-e rāst bordan
+                va daste-ye hāvan dar hāvan zadan hāvan škāftan va bar dāštan āvardan-e u dast-e rāst-e zud bar ruy-e sang-e urvis sarnegān kardan daste durtar ruy-e sang-urvis nahādan pas 
+                <em>āat̰ dīš āuuaeδaiiamahi sāuuaŋhə̄e vīsīāica aṣ̌aone aṣ̌ahe raϑβe y. v. x. f.</em></ab> 
+            <ab class="ab_indent">
+                "(He must recite) <em>āat̰ dīš āuuaeδaiiamahi</em> and place the cup and the <em>hum-pyāle</em> on the <em>urvis</em>-stone (while saying) <em>asniiaēibiiō aṣ̌ahe hāuuanə̄e aṣ̌aone aṣ̌ahe raϑβe y. v. x. f. āat̰</em> and bring them to
+                the right and hit the <em>hāvan</em> with the pestle of the <em>hāvan</em>, strike the <em>hāvan</em>, take it and bring it to the right hand of the <em>zud</em> and put
+                it on the <em>urvis</em>-stone upside-down and then (continue with) <em>āat̰ dīš āuuaeδaiiamahi sāuuaŋhə̄e vīsīāica aṣ̌aone aṣ̌ahe raϑβe y. v. x. f.</em>"</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL12.2.13"/>
+    </translation>
+</text>

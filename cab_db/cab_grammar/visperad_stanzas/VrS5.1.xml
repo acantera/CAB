@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS5.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y5.1" xml:id="VrS5.1" quote="Y37.1">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY5.1"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: 2109.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>iϑā āat̰ yazamaidē ...</em>] (Per.) har dō ḫvāndan <em>iϑā āat̰...</em> 2109.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS5.1 (ms. 400):</ab>
+         <ab class="ab_indent">
+            sāzišn hamāg xūb bē nigerišn</ab>
+         <ab class="ab_indent">
+            He has to gaze carefully at the implements.</ab>
+      </Nerangs>
+   </Ritual>
+   <translation/>
+</text>

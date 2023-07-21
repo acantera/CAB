@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y57.3" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y57.3">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y57.3NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr7"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y57.3 (mss. 2040, 2101, 2104, 2106, 2109, 4000, 4010, 4025, 4040, 4050, 4055, 4060, 4161):</ab>
+         <ab class="ab_indent">
+            rāspīg ātaxš abrōxtan wāz pad ātaxš abrōz griftan zōt <em>yaθā ahū vairiiō zaōtā</em>. rāspīg <em>yō zaōtā</em>. zōt <em>aϑā ratuš</em>. tā <em>sraōšəm</em>.</ab>
+         <ab class="ab_indent">
+            "The <em>rāspīg</em> should kindle the fire and, while he is kindling the fire, they should take the <em>wāz</em>. The <em>zōt</em> (shoud say) <em>yaθā ahū vairiiō zaōtā</em>.; 
+            the <em>rāspīg</em>: <em>yō zaōtā</em> until <em>sraōšəm</em>.</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY57.3"/>
+      <include type="W" corresp="WTrY57.1c"/>
+      <include type="K" corresp="KTrY57.1c"/>
+      <include type="D" corresp="DTrY57.1c"/>
+   </translation>
+</text>

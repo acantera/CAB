@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y26.10" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y26.11" shnumandep="1">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY26.11a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY26.11b"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: Anklesaria, Kotwal and Boyd, Geldner.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab><em>vīspā̊ frauuaṣ̌aiiō aṣ̌āunąm yazamaide</em> = VrS30.10, VrS51.5, VrS51.6.</ab>
+      <ab><em>iristanąm uruuąnō yazamaide yā̊ aṣ̌āunąm frāuuaṣ̌aiiō</em> = Y26.6, Y71.24, VrS18.5, VrS30.11, VrS36.5, VrS41.6, VrS51.8, VrS57.8, VrS62.8, VrS64.9, VrS65.82, VrS69.8, VrS71.8, VrS87.12, VrS93.11;
+         ~ Y16.7 <em>iristanąm uruuąnō š́āiieṇti yā̊ aṣ̌āunąm frāuuaṣ̌aiiō</em>.</ab>
+   </Parallels>
+   <Ritual>
+      <Ritual>
+         <ModernPractice id="ritualModernPractice">
+            <ab><bibl>Redard and Daruwalla, 2021</bibl>, p. 92:</ab>
+            <ab class="ab_indent">"The chief priest, after filling up the perforated saucer from the water container with the right hand, puts (it) on the cup near the base of the moon-shaped stands. 
+               <em>iristanąm uruuąnō yazamaide yā̊ aṣ̌aonąm frauuaṣ̌aiiō yeŋ́hē hātąm</em>.</ab>
+            <ab><ab><bibl>Kotwal and Boyd, 1991</bibl>, p. 106: </ab>
+               <ab class="ab_indent">"As both priests recite st. 11, "We revere the souls of the departed who are of the holy guardian spirits" (<em>iristanām urvānō yazamaidē yāo ashaonām fravashayō</em>), the <em>zōt</em>
+                  takes the nine-holed sieve (<em>sūrākhdār tashta</em>) from the water basin and moves it slowly across the table, dripping water, and places it on top of the cup beside the <em>barsom</em> stand."</ab></ab>
+         </ModernPractice>
+      </Ritual>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY26.10"/>
+      <include type="W" corresp="WTrY26.11a"/>
+      <include type="K" corresp="KTrY26.11a"/>
+      <include type="D" corresp="DTrY26.11a"/>
+   </translation>
+</text>

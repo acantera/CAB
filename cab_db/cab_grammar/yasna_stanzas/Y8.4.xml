@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y8.4" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y8.4">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY8.3"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: cod., Anklesaria, Geldner, Kotwal and Boyd.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab>Y8.4b <em>rāϑma jīštaiiamnō</em>] <bibl>Kellens, 2006</bibl>, p. 13 alternatively <em>rāma.jīš taiiamnō</em>.</ab>
+            <ab>Y8.4d <em>disiiata</em>] irr., vid. <bibl>Kellens, 1984</bibl>, p. 136ff.</ab>
+        </Commentary>
+        <RecitationInstruction>
+            <ab><em>aməṣ̌a spəṇta ...</em>] <em>aməša spəṇta</em> OD <em>jasaite</em> (Y8.5) 40.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels>
+        <ab>Y8.4-12 ~ BajNanX_large2.1-11.</ab>
+        <ab><em>vaŋhauuasca vaŋᵛhīšca</em> = Y65,12, Y65.13; ~ Y16.9 <em>yazamaide vīspā̊ vaŋhauuō yazamaide vīspā̊ vaŋᵛhīš</em>; ~ Y39.3, VrS65.47 <em>yazamaidē vaŋhūšcā. īt̰ vaŋᵛhīšcā īt̰</em>.</ab>
+        <ab><em>yāϑβa gaēϑā̊ aṣ̌ahe mərəγəṇte</em> ~ Y31.1 <em>aēibiiō yōi uruuātāiš drūjō aṣ̌ahiiā gaēϑā̊ vīmərəṇcaitē</em>; ~ VS18.55, VS18.59 <em>pascaēta mərəγəṇte gaēϑā̊ astuuaitīš aṣ̌ahe yaϑa zaṇda yātuməṇta mərəṇcīta gaēϑā̊ aṣ̌ahe</em>.</ab>
+        <ab><em>yā̊ apasca uruuarā̊</em>; ~ Y9.4 <em>āpa uruuaire</em>; Y18.2, Y51.8, Y65.15 ~ <em>yə̄ gąm tašō apascā uruuarā̊sca</em>; ~ Y8.8, Y11.4, Y52.6, Y60.10, Y68.18, Y71.29 <em>vasō. āpō. vasō. uruuarā̊.</em>; ~ Y12.12 <em>yā varanā āpō yā varanā uruuarā̊   </em>; Y16.9 ~ <em>yazamaide vīspā̊ āpō yazamaide vīspā uruuarā̊</em>; ~ Y37.1 <em>dāt̰ apascā dāt̰ uruuarā̊sca vaŋᵛhīš</em>; ~ Y44.4 <em>kə̄ apō uruuarā̊scā</em>; ~ VrS65.38, VrS65.41 <em>auui apąmca vaŋᵛhinąm uruuuarnąmca</em>; ~ VrS65.38, VrS65.41 <em>yā̊ vaŋᵛhīš yā̊ āpō yā̊sca uruuarā̊</em>.</ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrY8.4"/>
+        <include type="W" corresp="WTrY8.3"/>
+        <include type="K" corresp="KTrY8.3"/>
+        <include type="D" corresp="DTrY8.3"/>
+    </translation>
+</text>

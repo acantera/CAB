@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y19.2" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y19.2">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY19.2"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: Iranian mss.; vid. Recitation Instruction VrS21.3, VVrS21.3.</ab>
+            <ab class="ab_indent">zōt: vid. Y19.1.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y19.2a <em>asməm</em>] irr. for <em>asmānəm</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>Y19.2 = Y19.4.</ab>
+      <ab><em>para asməm para āpəm para ząm para gąm para uruuarąm para ātrəm ahurahe mazdā̊ puϑrəm para narəm aṣ̌auuanəm</em>
+         ~ Y19.8 <em>para auuaŋ́he ašnō dā̊ŋhōit̰ para āpō para zəmō para uruuaraiiā̊ para gə̄uš caϑβarə.paitištānaiiā̊ dā̊ŋhōit̰ para narš aṣ̌aōnō bipaitištānahe ząϑāt̰</em>.</ab>
+      <ab><em>para daēuuāišca xrafstrāiš maṣ̌iiāišca</em> quotes Y34.5 <em>parə̄ vaōxəmā daēuuāišcā xrafstrāiš maṣ̌iiāišcā</em>.</ab>
+      <ab><em>vīspəm ahūm astuuaṇtəm</em>  = Y19.4, Y57.24, VS18.16, VS18.24, YtSr8.2, YtSrH3.2, ARap2.4, KardeSrošRawan2.2; ~ Y9.1, VS18.30, VS18.31, VytS5.3, YtOhr2.2 (x2), YtOhr2.4 (x2) <em>vīspahe aŋhə̄uš astuuatō</em>;
+         ~ Y19.10, VS1.2, VS3.33, VS5.4, VS5.7, VS8.34 <em>vīspō aŋhuš astuuā̊</em>.</ab>
+      <ab><em>vīspa vohu mazdaδāta aṣ̌a.ciϑra</em> = VS11.1, VS11.2, VS11.10, VS11.13, VS13.16 ; ~ Y8.8, Y11.14, Y60.10, Y68.17, Y71.2 <em>vīspa vohū aṣ̌a.cīϑra</em>;
+         ~ Y22.4, Y22.24, Y22.25, Y24.3, Y24.8, Y25.3 <em>vīspaca vohu mazdaδāta aṣ̌a.ciϑra</em>.</ab>
+      <ab/>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY19.2"/>
+      <include type="W" corresp="WTrY19.2"/>
+      <include type="K" corresp="KTrY19.2"/>
+      <include type="D" corresp="DTrY19.2"/>
+   </translation>
+</text>

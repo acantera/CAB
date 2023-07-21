@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL12.4.13" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="13" xml:id="ParagnaLL12.4.13">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL12.4.13 Var. a (Ms. K7):</ab>
+            <ab class="ab_indent">
+                <em>at̰ rātąm zaraϑuštrō tanuuascīt̰ xᵛax́iiā̊ uštanəm dadāitī pauruuatātəm manaŋhascā vaŋhə̄uš mazdāi š́iiaoϑanahiiā aṣ̌āi yācā uxδax́iiācā səraošəm xšaϑrəmcā</em> pas ān hum 
+                va urvarān kufte andar guše-ye sang-e urvis nahādan vars andar hum pyāle gozāštan pas dast be-pādyāb bordan ān hum va ān urvarān ke be-dast-e čab nahāde ast āvardan hum-pyāle 
+                nahādan ān zur ke be-dast-e čab nahāde ast āvardan piš-e hum-pyāle nahādan pas qatre-ye šir andar ǧām-dān riḫtan az ān riḫtan az ān naguftim ānǧā <em>imąmcā gąm jīuuiiąm</em> 
+                čon šir nabud be-kār ne pas be-dast-e čab barsom ke andar māhruy nahāde gereftan ān kasi ke ḫᵛāhad kardan <em>yaθā ahū vairiiō</em> ḫᵛāndan dast be-pādyāvi bar-ā-bar ādošt 
+                be-istādan <em>nəmastə ātarš mazdā̊ ahurahe huδā̊ mazišta yazata xšnaōϑra ahurahe mazdā̊ aṣ̌əm vohū frauuarāne</em> gāh-e hāvan <em>tauua ātarš puθra ahurahe mazdā̊ x. y. v. x. f.  
+                    yaθā ahū vairiiō yō zaōtā frā mē mrūtē</em> ānkas ke dast andar barsom dārad <em>aθā ratuš</em> kardan dast-e čab ādošt šodan ādošt šostan <em>aṣ̌əm vohū</em> se ḫᵛāndan
+                ādošt šostan az čab tā rāst va miyān-e ādošt šostan</ab> 
+            <ab class="ab_indent">
+                "<em>at̰ rātąm zaraϑuštrō tanuuascīt̰ xᵛax́iiā̊ uštanəm dadāitī pauruuatātəm manaŋhascā vaŋhə̄uš mazdāi š́iiaoϑanahiiā aṣ̌āi yācā uxδax́iiācā səraošəm xšaϑrəmcā</em>. Thereafter, 
+                he should put the pounded <em>hum</em> and <em>urwarām</em> at the corner of the <em>urvis</em>-stone and put the <em>vars</em> inside the <em>hum</em>-cup. 
+                Then he should wash his hand with <em>pādyāb</em> and bring the <em>hum</em> and <em>urvarān</em> that were put to the left and put them in the <em>hum</em>-cup.
+                Afterwards, he should bring and place next to the <em>hum</em>-cup. Then he should pour a drop of milk into the <em>ǧāmdān</em>. I have not described how to pour. Here it 
+                does not apply (the recitation of) <em>imąmcā gąm jīuuiiąm</em>, since there is no milk. Then, he should take the <em>barsom</em> that has been placed on the <em>māhruy</em> 
+                with the left hand. The one who wishes to perform (the liturgy) should recite a <em>Yaθā ahū variiō</em>, wash his hands and stand in front of <em>ādošt</em> (and recite) 
+                <em>nəmastə ātarš mazdā̊ ahurahe huδā̊ mazišta yazata xšnaōϑra ahurahe mazdā̊</em>, one <em>Aṣ̌əm Vohū</em> and the <em>frauuarāne</em> with the <em>gāh-e hāvan</em> 
+                (and the <em>šnūman</em>) <em>tauua ātarš puθra ahurahe mazdā̊ x. y. v. x. f.</em> (and with the <em>wāz</em>) <em>yaθā ahū vairiiō yō zaōtā frā.mē mrūtē</em>."</ab>
+            
+            <ab>ParagnaLL12.4.13 Var. b (Ms. K7):</ab>
+            <ab class="ab_indent">
+                tā u ʿe <em>səraōšəm xšaθrəmcā</em> be guyešn va pas farāhum andar farāhumdān konešn</ab> 
+            <ab class="ab_indent">
+                "He has to recite until <em>səraōšəm xšaθrəmcā</em> and the he has to pour the <em>farāhum</em> into the <em>farāhumdān</em>."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL12.4.13"/>
+    </translation>
+</text>

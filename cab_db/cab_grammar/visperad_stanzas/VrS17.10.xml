@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS17.10" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS17.10">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS7.3"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. VrS17.3.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS17.10 = VrS77.10; ≈ VrS2.11.</ab>
+      <ab><em>yōi aōxta [...] yasńiiāca vaɱiiāca aṣ̌āt̰ haca yat̰ vahištāt̰</em> ~ Y1.20, Y3.25, Y4.26, Y7.26, Y22.30, Y24.31, Y66.25, VrS78.37, VrS79.26, VrS82.25. <em>yōi həṇti yasńiiāca vaɱiiāca aṣ̌āt̰ haca yat̰ vahištāt̰</em>; 
+         ~ Y71.10 <em>yōi tē həṇti yasńiiāca vaɱiiāca aṣ̌āt̰ haca yat̰ vahištāt̰</em>; ~ Yt8.15, Yt8.17, Yt8.19 <em>aɱi yesńiiasca vaɱiiasca aŋᵛhe astuuaite aṣ̌at̰ haca yat̰ vahištāt̰.</em></ab>
+      <ab><em>yōi aōxta [...] yasńiiāca vaɱiiāca aṣ̌āt̰ haca yat̰ vahištāt̰</em> ~ Y1.20 <em>yōi həṇti yasńiiāca vaɱiiāca aṣ̌āt̰ haca yat̰ vahištāt̰</em>; ~ Y71.10 <em>yōi tē həṇti yasńiiāca vaɱiiāca aṣ̌āt̰ haca yat̰ vahištāt̰</em>; ~ Yt8.15, Yt8.17, Yt8.19 <em>aɱi yesńiiasca vaɱiiasca aŋᵛhe astuuaite aṣ̌at̰ haca yat̰ vahištāt̰</em>
+      </ab>
+      <ab><em>aōxta ahurō mazdā̊</em> = VS2.21, VS2.32 (x2), VS2.40, VS2.42, VytS8.2.</ab>
+      <ab>
+         <em>yasńiiāca vaɱiiāca</em> = Yt13.153; ~ Y62.1, Yt10.91 <em>yesńiiō ahi vaɱiiō yesńiiō buiiā̊ vaɱiiō</em>; ~ Yt10.5, Yt10.78, Yt14.54 <em>yesńiiō vaɱiiō</em>; ~ Yt13.34 <em>yesńiiā̊ vaɱiiā̊</em>; ~ Yt13.42 <em>yesńiiąm vaɱiiąm</em>; ~Yt13.152 <em>yesńiiōtəməm hātąm vaɱiiōtəməm</em>; ~ Yt13.152 <em>yesńiiasca vaɱiiasca</em>
+      </ab>
+      <ab><em>aṣ̌āt̰ haca yat̰ vahištāt̰</em> = Y19.11, Y68.7, YtWahr18.2, YtWahr18.3.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS17.10"/>
+   </translation>
+</text>

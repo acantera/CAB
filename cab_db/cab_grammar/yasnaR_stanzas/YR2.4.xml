@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR2.4" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y2.12" xml:id="YR2.4">
+            <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR2.4a" on_line="in1lineblock"/>
+            <include href="/db/apps/cab_db/cab_rituals/blocks/RozAcc" xpointer="RozAcc1" on_line="in1line"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR2.4b" on_line="in1line"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR2.4c" on_line="in1lineblock"/>
+            <include href="/db/apps/cab_db/cab_rituals/blocks/MahAcc" xpointer="MahAcc1" on_line="in1line"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR2.4d" on_line="in1line"/>
+        </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. Y2.4.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab>YR2.4]  <em>aɱiia</em> nigāh rōz māh <em>ahurəm mazdą̇m raeuuaṇtəm x́arə.naŋhṇtəm āiie aɱiia aṣ̌aoną̇m vaŋuhīš sūrā̊ spiṇtā̊ frauuašiiō āiie</em> 350. See YR1.4.</ab>
+        </Commentary>
+        <RecitationInstruction>
+            <ab><em>aɱiia zaōϑre barəsmanaēca ... āiiese yešti</em>] YWM W BYRH gwptn' OD. <em>yim. ahurəm. mazdą̇m</em> (YR2.9) 300, 360, 370. 350 does not abbreviate.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrYR2.4"/>
+    </translation>
+</text>

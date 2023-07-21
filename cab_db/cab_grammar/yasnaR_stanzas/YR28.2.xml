@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR28.2" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+        <updated>24 Feb 2021</updated>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="YR28.2">
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR28.0"/>
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <Nerangs id="ritualNerangs">
+        <ab>YR28.2 (Ms. 300):</ab>
+        <ab class="ab_indent">
+            <em>yānīm manō yānīm vacō yānīm š́iiaōθnəm</em> čīyōn pad yašt ī meh tā srōš keh ud srōš meh nērang-ē ǰuttar nēst </ab>
+        <ab class="ab_indent">   
+            "From <em>yānīm manō yānīm vacō yānīm š́iiaōθnəm</em> like in the lesser <em>yašt</em>, until the lesser Srōš (Yašt) and the greater Srōš (Yašt) there is no single <em>nērang</em> that is different." </ab>
+    </Nerangs>
+    <translation>
+        <include type="CAB" corresp="CABTrYR28.2"/>
+    </translation>
+</text>

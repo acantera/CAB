@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL8.1.2" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="2" xml:id="ParagnaLL8.1.2">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Vid. ParagnaLL8.1.1</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL8.1.2"/>
+    </translation>
+</text>

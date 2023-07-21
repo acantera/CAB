@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y22.15" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y22.7.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <div type="Stanza" sameAs="" xml:id="Y22.15">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY22.13b" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RozGen" xpointer="RozGen1" on_line="in1line"/>
+      <!-- All days possible -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY22.13c" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/MahGen" xpointer="MahGen1" on_line="in1line"/>
+      <!-- All months possible -->
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>āiiese yešti ...</em>] <em>āiiese yešti</em> (Paz.) <em>nigahi</em> (Pahl.) YWM W BYRH gwptn' 5; <em>ā. y.</em> YWM W BYRH ZKš ḆYN YKOYMWNd gwptn' 6; 
+            <em>ā. y.</em> YWM W BYRH ZKš gwptn' 15; YWM W BYRH 60; YWM W BYRH gwptn' 88; 400, 410 do not abbreviate.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>Y22.15 = Y3.14, VrS78.24; ≈ Y1.12, Y2.12, Y4.17, Y6.11, Y7.15, Y17.11, Y24.22, Y59.11, Y66.12, VrS79.17, VrS81.11, VrS82.12, VVrS14.10.</ab>
+      <ab>VrS25.22 = DoHom2.22.</ab>
+      <ab>Av. <em>raēuuatō xᵛarənaŋᵛhatō</em> = Y1.11, Y3.13, Y4.7, Y4.16, Y7.14, Y16.3, Y17.10, Y22.2, Y22.14, Y24.12, Y24.21, Y59.10, Y66.11.</ab>
+   </Parallels>
+   <Ritual>
+      <Quotations id="ritualQuotations">
+         <ab><ab>In case of Yašt-ī Gāϑābiiō, from Revayat of Kāma Bohra (MU1, p. 458):</ab>
+            <ab class="ab_indent">(Pahl.) negāh ruz māh <em>gāϑābiiō spəṇtābiiō ratuxṣ̌aϑrābiiō aṣ̌aonebiiō āiie. ahunuuaitiiā̊ gāϑiiā̊</em>.</ab>
+            <ab class="ab_indent">"Here the day and the month <em>gāϑābiiō spəṇtābiiō ratuxṣ̌aϑrābiiō aṣ̌aonebiiō āiie. ahunuuaitiiā̊ gāϑiiā̊</em>.</ab></ab>
+      </Quotations>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY22.15"/>
+      <include type="W" corresp="WTrY22.13b"/>
+      <include type="K" corresp="KTrY22.13b"/>
+      <include type="D" corresp="DTrY22.13b"/>
+   </translation>
+</text>

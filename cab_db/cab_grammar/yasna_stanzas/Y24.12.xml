@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y24.12" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y24.12">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY24.12"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: Kotwal and Boyd.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>Y24.12 = Y4.7, VrS79.7; ≈ Y1.1, Y1.2, Y2.2, Y6.1, Y17.1, Y22.2, Y59.1, VrS78.13, VrS81.1.</ab>
+      <ab>VrS27.18 = DoHom4.18.</ab>
+   </Parallels>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y24.12 Var. a (88, 400, 410):</ab>
+         <ab class="ab_indent">
+            ... <em>aməṣ̌anąm spəṇtanąm yasnāica vaɱāica xšnaōϑrāica frasastaiiaēca</em>. 
+            ēn gyāg taštag kē-š hōm ud urwarām andar pad datuš abāz nihišn pad urwēs bē nihišn hāwan az kustag ī hōy ō kustag ī dašn āwarišn pad rōy frāz nigūn kunišn</ab>
+         <ab class="ab_indent">
+            "... <em>aməṣ̌anąm spəṇtanąm yasnāica vaɱāica xšnaōϑrāica frasastaiiaēca</em> At this passage, he has to put again in contact with the <em>datuš</em> the saucer that contains the <em>hōm</em> and <em>urwarām</em> 
+            and (then) to put it on the <em>urwēs</em>; he has to bring the <em>hāwan</em> from the left side to the right side and put it upside-down."</ab>
+         <ab>Y24.12 Var. b (ms. 40):</ab>
+         <ab class="ab_indent">
+            <em>daϑušō ahurahe mazdā̊</em> hōm pālag pad datuš abāg nihišn pad urwēs bē nihišn hāwan az kustag ī hōy be dast ī dašn āwarišn pad rōy frāz nigūn kunišn raēuuatō…</ab>
+         <ab class="ab_indent">
+            "Between <em>daϑušō ahurahe mazdā̊</em> and <em>raēuuatō</em>…, he has to put in contact the <em>hōm</em>'s saucer with the <em>datuš</em> and (then) to put it on the <em>urwēs</em>;  
+            he has to bring the <em>hāwan</em> from the left side to the right hand and put it upside-down."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY24.12"/>
+      <include type="W" corresp="WTrY24.12"/>
+      <include type="K" corresp="KTrY24.12"/>
+      <include type="D" corresp="DTrY24.12"/>
+   </translation>
+</text>

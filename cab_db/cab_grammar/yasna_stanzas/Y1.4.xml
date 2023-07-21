@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y1.4" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y1.4">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY1.4a" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat3.1" on_line="in1line"/>
+               <!-- successive gāh from Y1.3 -->
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY1.4b" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat3.2" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY1.4c" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat3.3" on_line="in1line"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: Anklesaria, Kotwal and Boyd, Geldner.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+         <Critical/>
+        <Commentary>
+            <ab>āϑrasca. ahurahe. mazdā̊] add. post <em>puϑra</em> 100, 110, 672; <em>puϑrahe</em> 231. Only in Indian tradition. 
+                Cf. Y2.3 <em>ātrəmca ahurahe mazdā̊ puϑrəm āiiese yešti</em>, Y6.3 <em>ātrəmca ahurahe mazdā̊ puϑrəm yazamaide</em>.
+                Absent in Y3 (<em>āiiese yešti</em> + gen.), Y4 <em>āat̰ dīš āuuaēδaiiamahi</em> (+ gen.),  Y7 <em>aṣ̌aiia dadąmi</em> + gen.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels>
+    <ab>Y1.4 ≈ Y2.4, Y3.6, Y4.9, Y6.3, Y7.7, Y17.3, Y22.7, Y24.14, Y59.3, Y66.4, VrS78.16, VrS79.9, VrS81.3, VrS82.4.</ab>
+    </Parallels>
+<Ritual>
+    <ModernPractice id="ritualModernPractice">
+        <ab><bibl>Redard and Daruwalla, 2021</bibl>: p. 77:</ab>
+        <ab>"From here the chief priest recites alone. The assistant priest puts incense on the fire."</ab>
+    </ModernPractice>
+</Ritual>
+<translation>
+    <include type="CAB" corresp="CABTrY1.4"/>
+        <include type="W" corresp="WTrY1.4"/>
+        <include type="K" corresp="KTrY1.4"/>
+        <include type="D" corresp="DTrY1.4"/>
+    </translation>
+</text>

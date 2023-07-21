@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS12.2" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y12.2" xml:id="VVrS12.2">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY11.17"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. VrS12.2; Recitation Instruction.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>frastuiiē</em>] <em>frastuiiē humatōibiiascā hūxtōibiiascā huuarəštōibiiascā mąϑβōibiiascā</em> OD OL Y <em>xᵛax́iiā̊ uštanəm</em> (VVrS12.3) 4040, 4050; <em>frastuiiē humatōibiiascā hūxtōibiiascā huuarəštōibiiascā mąϑβōibiiascā vaxəδβōibiiascā</em> OD OL Y <em>xᵛax́iiā̊ uštanəm</em> (VVrS12.3) 4000; 
+            <em>frastuiiē humatōibiiascā huuarəštōibiiascā</em> OD OL <em>xᵛax́iiā̊ uštanəm</em> (VVrS12.3) 4025; <em>frastuiiē humatōibiiascā</em> cygwn pyš npšt' OD <em>xᵛax́iiā uštanəm</em> (VVrS12.3) 4045; <em>frastuiiē humatōibiiascā</em> OD <em>x́ax́iiā (OD 4210) uštanəm</em> (VVrS12.3) 4210, 4240; <em>fərastuiie</em> OD <em>staōmi</em> (VVrS12.4) 4200, 4280, 4370; 
+            <em>frəstaouue humatō.biiascā</em> OD <em>staomi</em> (VVrS12.4)4515.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS12.2"/>
+   </translation>
+</text>

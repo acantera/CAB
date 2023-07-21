@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS24.4" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS24.4">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS10.1"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">rāspīg (at the place of the <em>srōšāwarzān</em>): vid. VrS24.3.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VrS24.4a <em>haōmanąm uzdātanąm</em> ...] <em>haomaną̇m uzdātaną̇m</em> OD <em>sraōšō astū</em> (VrS24.10) 2065.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS24.4-10 = VrS24.12.</ab>
+      <ab>VrS24.4 = VrS24.12, DoHom1.4.</ab>
+      <ab><em>haōmanąm ... vārəϑraγninąm paiti.bišinąm aṣ̌ōiš baēšaza</em> ~ Y10.18 (<em>haōma</em>) <em>dāsmainiš vārəϑraγniš paiti.bišiš baēšaziia</em>; ~ FrW9.1 <em>vārəϑraγniš paiti.bišiš baēšaziiō</em>.</ab>
+      <ab><em>aṣ̌ōiš baēšaza hacimnanąm</em> ~ Y60.6 <em>aṣ̌ōiš baēšaza hacimnā̊</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS24.4"/>
+   </translation>
+</text>

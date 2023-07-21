@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y22.23" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y22.23">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY22.21"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y22.21.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>Y22.23 = Y22.3, Y22.25; = Y24.2, Y24.7 without <em>āiiese yešti</em>; = Y25.2 changing with <em>yazamaide</em>.</ab>
+      <ab>VrS25.30 = DoHom2.30.</ab>
+      <ab><em>imā̊ zaōϑrā̊ haōmauuaitīš gaōmauuaitīš haδānaēpatauuaitīš aṣ̌aiia uzdātā̊ āiiese yešti</em> ~ Y66.2 <em>aṣ̌aiia dadąmi imąm zaōϑrąm haōmauuaitīm gaōmauuaitīm haδānaēpatauuaitīm aṣ̌aiia uzdātąm</em>.</ab>
+      <ab><em>haōmauuaitīš gaōmauuaitīš haδānaēpatauuaitīš</em> ~ Y68.1 <em>haōmauuaiti gaōmauuaiti haδānaēpatauuaiti</em>.</ab>
+      <ab><em>haōmauuaitīš gaōmauuaitīš</em> ~ Y10.13 <em>haōma ... gauua</em>.</ab>
+      <ab><em>asmanaca hāuuana āiiese yešti aiiaŋhaēnaca hāuuana āiiese yešti</em> ~ VrS25.37, VrS42.2 <em>asmnaēibiia hāuuanaēibiia aiiaŋhanaēibiia hāuuanaēibiia</em>; ~ VrS87.10 <em>asmanaca hāuuana yazamaide aiiaŋhaēnaca hāuuana yazamaide</em>;
+         ~ VrS27.2, VrS27.8 <em>ima asmana hāuuana auui.bərəta haōma zāire ima aiiaŋhaēna hāuuana auui.bərəta haōma zāire</em>; ~ VrS31.15 <em>humaiia.nō buiiata asmana hāuuana aiiaŋhaēna hāuuana</em>; 
+         ~ GEbsr2.3 <em>asmana hāuuana aṣ̌ahe ratauuō yazamaide aiiaŋhaēna hāuuana aṣ̌ahe ratauuō yazamaide</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY22.23"/>
+      <include type="W" corresp="WTrY22.21"/>
+      <include type="K" corresp="KTrY22.21"/>
+      <include type="D" corresp="DTrY22.21"/>
+   </translation>
+</text>

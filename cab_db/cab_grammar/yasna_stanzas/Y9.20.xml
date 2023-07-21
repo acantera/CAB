@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y9.20" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y9.20">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY9.20"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y9.3.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y9.20a, Y9.20b <em>tbaēšō.tauruuā̊ drujim.vanō</em>] vid. Y9.17.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>
+            <em>iməm ϑβąm ... yānəm haōma jaiδiiemi dūraōša</em> = Y9.19 (x3), Y9.21.</ab>
+      <ab>
+         <em>haōma ... dūraōša</em> Y9.19 (x2) = Y11.10; ~ Y9.2, Y9.4, Y9.7, Y9.10, Y9.13, Y11.3 <em>haōmō ... dūraōšō</em>; ~ Y10.21, Y42.5, VrS65.72 <em>haōməm dūraōšəm</em>
+        </ab>
+      <ab>
+            <em>yaϑa ... fraxštāne zəmā paiti t̰baēšō.tauruuā̊ drujim.vanō</em> ~ Y9.17 <em>yaϑa ... fracarāne t̰baēšō.tauruuā̊ drujim.vanō</em>.</ab>
+      <ab><em>zəmā paiti</em>] = Y65.3</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY9.20"/>
+
+        <include type="W" corresp="WTrY9.20"/>
+        <include type="K" corresp="KTrY9.20"/>
+        <include type="D" corresp="DTrY9.20"/>
+    </translation>
+</text>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL10.1.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="1" xml:id="ParagnaLL10.1.1">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL10.1.1 Var. a (Mss. K7, RJ):</ab>
+            <ab class="ab_indent">
+                pas digar āb rā be-pādyāvi kardan be-dast šostan va barsom bist-o se tā be-aivyanghan gašte be-dast-e čab gereftan barsom-čin bā dast-e rāst gereftan pāk šostan va barsom-čin 
+                sar-e yek šāh-e barsom gereftan pas <em>xšnaoθra ahurahe mazdā̊ aṣ̌əm vohū</em> se <em>frauuarāne</em> gāh-e hāvan <em>frasastaiiaēca ahurahe mazdā̊ raēuuatō xvarənaŋᵛhatō 
+                    xšnaoθra y. v. x  f. yaϑā ahū vairiiō zaotā</em> OD <em>mraotū</em></ab>
+            <ab class="ab_indent">
+                "Then, he should purify the water and wash his hands. He should take the <em>barsom</em> tied with the <em>aivyanghan</em> with the left hand and the <em>barsom-čin</em> 
+                with the right. He should purify them and hold the <em>barsom-čin</em> on the end of a branch of the <em>barsom</em>. Then, he shoud recite <em>xšnaoθra ahurahe mazdā̊ </em> 
+                and three <em>Aṣ̌əm Vohū</em> and the <em>Frauuarāne</em> with the <em>gāh hāvan</em> (and the <em>šnūman</em>) <em>ahurahe mazdā̊ raēuuatō xvarənaŋᵛhatō 
+                    xšnaoθra. y. v. x  f.</em> (and the <em>wāz-gīrišnīh</em>) <em>yaϑā ahū vairiiō zaotā</em> until <em>mraotū</em>."</ab> 
+            
+            <ab>ParagnaLL10.1.1 Var. b (Mss. K36, 31, 19):</ab>
+            <ab class="ab_indent">
+                ke barsom šostan fe gāh-e hāvan šuyand <em>aṣ̌əm vohū</em> se <em>frauuarāne hāuuanə̄e ahurahe mazdā̊ raēuuatō xᵛarənaŋᵛatō xšnaōθra yas. v. x. f.</em> u-š vāǧ frāǧ girešn</ab>
+            <ab class="ab_indent">
+                "When he should wash the <em>barsom</em>, they wash it at the <em>gāh hāvan</em>. (He should recite) tree <em>Aṣ̌əm Vohū</em>s and the <em>Frauuarāne</em> (for
+                the <em>gāh</em>) <em>hāuuanə̄e</em> and (with the <em>šnūman</em>) <em>ahurahe mazdā̊ raēuuatō xᵛarənaŋᵛatō xšnaōθra yas. v. x. f.</em> He has to take the <em>vāǧ</em>."</ab>
+        </Nerangs>
+        
+        <Quotations id="ritualQuotations">
+            <ab>N28.16 (K7, RJ):</ab>
+            <ab class="ab_indent">
+                <em>aṣ̌əm vohū</em> sē <em>frauuarānē mazdaiiasnō</em> gāh ān ī bawēd <em>ahurahe mazdā̊ raēuuatō xᵛarənaŋhatō xšnaoθra</em> tā <em>frasastaiiaēca</em> wāz frāz gīrišnīh</ab> 
+            <ab class="ab_indent">
+                "(He should recite) three <em>Aṣ̌əm Vohū</em>s, the <em>frauuarāne</em> with the corresponding <em>gāh</em> (and with the <em>šnūman</em>) <em>ahurahe mazdā̊ 
+                    raēuuatō xᵛarənaŋhatō xšnaoθra</em> until <em>frasastaiiaēca</em> and the <em>wāz-gīrišnīh</em>"</ab>
+        </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL10.1.1"/>
+    </translation>
+</text>

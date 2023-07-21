@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y65.16" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y65.16" quote="Y51.23">
+        <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY65.16"/>
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Quotations id="ritualQuotations">
+        <ab> N.28.49:</ab>
+        <ab class="ab-indent">
+                <em>bahr ī ābān nē rōšnag [ast] *kē gōwēd ay az </em>aṣ̌aiia daδąmi
+            imąm zaoθrąm haomauuaitīm gaomauuaitīm haδānaēpatauuaitīm <em> tā </em>tauua ahurāne
+            ahurahe ... vahištābiiāō zaoθrābiiō <em> ast kē </em>tauua ahurāne <em> ēd-iz
+            gōwēd</em>
+            </ab>
+        <ab class="ab-indent"> The (extension of the) section of the waters is not clear. There is
+            one who says: From <em> aṣ̌aiia daδąmi imąm zaoθrąm haomauuaitīm gaomauuaitīm
+                haδānaēpatauuaitīm</em> (Y66.1) to <em>tauua ahurahe</em> (Y68.1) and
+                <em>vahištābiiāō zaoθrābiiō</em> (Y68.10). There is one commentator who says: "Until
+                <em>tauua ahurāne</em> (Y68.1 or Y68.15)". </ab>
+        </Quotations>
+        <Commentary id="ritualCommentary">
+        <ab>Acording to (<bibl>Kotwal and Kreyenbroek, 2003</bibl>: p.111) <em>tauua ahurāne</em>
+            refers to Y66.19 [Y66.17 according to Geldner, but they indicate Y66.16] and they deduce
+            that "the section is limited to the recitation of Y66.". However, the litany can
+            impossibly end in Y66. The <em>šnūman</em>, the mention of the <em>frauuaṣ̌is</em> and
+            the final stanza would be missing. It must refer to Y68.1 or Y68.15. </ab>
+        </Commentary>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY65.16"/>
+    <include type="W" corresp="WTrY65.16"/><include type="K" corresp="KTrY65.16"/><include type="D" corresp="DTrY65.16"/></translation>
+</text>

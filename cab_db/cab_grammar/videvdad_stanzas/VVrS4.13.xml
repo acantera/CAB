@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS4.13" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y4.18" xml:id="VVrS4.13">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY4.10"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: VVrS4.8.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>uruuaranąm mazdaδātanąm</em>] <em>uruuaranąm mazdaδātanąm</em> cygwn PWN <em>āiiese yešti</em> nypšt' gwptn' OD OL Y <em>dāmanąm aṣ̌aōnąm</em> (VVrS4.17) 4040</ab>
+         <ab><em>āat̰ dīš āuuaēδaiiamahi ...</em>] <em>āat̰ tauua āϑrō ahurae mazdā̊ puϑra</em> OD <em>ẏōi hiṇti ašahe raϑβō</em> (VVrS4.18) 4370.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation/>
+</text>

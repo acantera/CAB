@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y65.1" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y65.1" quote="̰ Yt5.1">
+        <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y65.1NerangTransc.a"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY65.1"/>
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Y65.1 (mss. 5, 40, 88, 400, 410 (sec. m.), 2005, 2007, 2030, 2040, 2101, 2102, 2104, 2106, 2109, 4000, 4010, 4020, 4025, 4040, 4050, 4055, 4060, 4162, 5020):</ab>
+            <ab class="ab_indent">
+                ō ī zōt gāh bē šawišn ud bē gōwišn <em>yazāi āpəm</em> āb bē nigerišn <em>arəduuīm sūrąm anāhitąm</em>. ...</ab>  
+            <ab class="ab_indent">
+                "He has to go back to the <em>zōtgāh</em> and recite: <em>yazāi āpəm</em>. He has to gaze at the water (and continue with) <em>arəduuīm sūrąm anāhitąm</em>. ...</ab>
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+            <ab>Y65.1-6 (=Yt5.1-5 +Y65.6) are recited as well as part of the Āb-zōhr with Drōn Yašt
+                described in the Nērangestān. Two variants are described, a lesser (N53.27-29) and a
+                greater one (N53.30-31).</ab>
+            <ab>N53.27-29 (cf. <bibl>Kotwal and Kreyenbroek, 2003</bibl>: pp. 255-6):</ab>
+            <ab class="ab_indent">
+                <em>pad yašt ī keh ka wāz be gōwēd </em>āfrīnāmi vīspaiiā̊ druuatō stōiš aṣ̌əm vohū
+                3...aiβiiō *vaŋᵛhībiiō ... ahurahe mazdā̊ raēuuatō *xᵛarənaŋhatō xšnaōθra <em> tā
+                </em> frasastaiiaēca <em> u-š wāz frāz gīrišn</em> ẏaθā ahū vairiiō zaōtā frā.mē
+                mrūtē aθā ratuš aṣ̌ātcit̰ haca frā aṣ̌auua vīδvā̊ mraotū.</ab>
+            <ab class="ab_indent">bərəzaṇtəm ahurəm *xšaθrīm xšaētəm apąm napātəm auruuat̰.aspəm
+                ẏaz. aršānəm zauuanō.sūm ẏō nərə̄uš daδa ẏō nərə̄uš *tataša ẏō upāpā ẏazatō
+                srut̰.gaōšōtəmō *asti ẏazəmnō.</ab>
+            <ab class="ab_indent">yazāi āpəm arəduuīm sūrąm anāhitąm pərəθu.frākąm baēšaziiąm
+                vīdaēuuąm ahurō.t̰kaēšąm ... ā hātąmca aŋhušąmca zātanąmca azātanąmca aṣ̌āunąm iδa
+                jasəṇtu frauuaṣ̌aiiō <em>tā </em> *hā xšaθrinąm paēma... vaŋᵛhīm *iδat̰ āδąm vaŋᵛhīm
+                aṣ̌īm. (Y68.27)</ab>
+            <ab class="ab_indent">"In the lsser celebration (of the Āb-zōhr with Drōn Yašt, when he
+                recites <em>āfrīnāmi vīspaiiā̊ druuatō stōiš</em>, (he has to recite) three Aṣ̌əm
+                Vohū and <em>aiβiiō *vaŋᵛhībiiō ... ahurahe mazdā̊ raēuuatō *xᵛarənaŋhatō xšnaōθra
+                </em> until <em>frasastaiiaēca</em> and then he has to take the <em>wāz</em>:
+                    <em>ẏaθā ahū vairiiō zaōtā frā.mē mrūtē aθā ratuš aṣ̌ātcit̰ haca frā aṣ̌auua
+                    vīδvā̊ mraotū</em>"</ab>
+            <ab class="ab_indent">
+                <em>yazāi āpəm arəduuīm sūrąm anāhitąm pərəθu.frākąm baēšaziiąm vīdaēuuąm
+                    ahurō.t̰kaēšąm</em> (Y65.1) ...<em> ā hātąmca aŋhušąmca zātanąmca azātanąmca
+                    aṣ̌āunąm iδa jasəṇtu frauuaṣ̌aiiō </em>(Y65.6) until <em>*hā xšaθrinąm paēma
+                    </em>(Y65.5)...<em> vaŋᵛhīm *iδat̰ āδąm vaŋᵛhīm aṣ̌īm</em>. (Y68.22)</ab>
+            <ab>N53.30-31 (cf. <bibl>Kotwal and Kreyenbroek, 2003</bibl>: pp. 256-7):</ab>
+            <ab class="ab_indent">
+                <em>pad ān ī meh </em>ązasca dužāθrəmca āfrīnāmi aṣ̌əm vohū ẏaθā ahū vairiiō ẏō
+                frabərətō frā.mē mrūte<em> zōt</em> aṣ̌əm vohū<em> ēk-ē rāspīg wāz gīrišn
+                </em>ahurəm mazdąm<em> tā </em>āca manō mata āca ẏazamaide<em> tā
+                </em>varəš́iiamnaca ẏeŋ́hē hātąm <em> tā </em> tā̊scā ẏazamaide. vaŋᵛhīm iδāt̰ āδąm
+                vaŋᵛhīm aṣ̌īm </ab>
+            <ab class="ab_indent"> "In the greater (celebration of the Āb-zōhr), (the
+                    <em>rāspīg</em> has to recite)<em>ązasca dužāθrəmca āfrīnāmi</em>, one Aṣ̌əm
+                Vohū and <em>ẏaθā ahū vairiiō ẏō frabərətō frā.mē mrūte</em>. The <em>zōt</em> (has
+                to recite) one Aṣ̌əm Vohū. The <em>rāspīg</em> has to take the <em>wāz</em> and
+                recite <em>ahurəm mazdąm</em> (VrS11.33) until <em>āca manō mata āca ẏazamaide</em>
+                (VrS11.34) until <em>varəš́iiamnaca</em> (VrS11.36)<em> ẏeŋ́hē hātąm</em> until
+                    <em>yazamaide</em> (VrS11.37) and <em>vaŋᵛhīm iδāt̰ āδąm vaŋᵛhīm aṣ̌īm (Y68.22)
+                </em>
+            </ab>
+            <ab>N52.10 (cf. <bibl>Kotwal and Kreyenbroek, 2003</bibl>: pp. 238-9):</ab>
+            <ab class="ab_indent"> daxšmaēstim aētat̰ barəsma' ẏat̰ paiti āpəm *frānaiiata <em>*
+                    daxšmēst ān barsom ka pad ān ī āb frāz šawē hamē ka andar *daxšmēst harw ēn
+                    dō</em> ẏazāi āpəm <em>*ōh gōwēd ay daxšmēst harw ēn dō </em>ẏazāi āpəm
+                    <em>andar *daxšmēst guftan</em>.</ab>
+            <ab class="ab_indent"><em>daxšmaēstim aētat̰ barəsma' ẏat̰ paiti āpəm *frānaiiata</em>
+                (Translation: “One takes this barəsman a dakšmaēsti towards the water”) If that
+                barsom should go towards the water (to the extent of) a daxšmēst [whenever it should
+                come within a daxšmēst (from the water), both (zōt and rāspīg) should recite <em> ẏazāi
+                    āpəm </em>. That is: a daxšmēst, both should recite <em>ẏazāi āpəm </em>within a daxšmēst (from
+                the water). </ab>
+
+        </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY65.1"/>
+        <include type="W" corresp="WTrY65.1"/>
+        <include type="K" corresp="KTrY65.1"/>
+        <include type="D" corresp="DTrY65.1"/>
+    </translation>
+</text>

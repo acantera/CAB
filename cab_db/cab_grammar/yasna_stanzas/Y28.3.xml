@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y28.3" status="created">  <!-- created, approved, updated--> <header>
+    <creators>
+        <creator>Porro</creator>
+        <creator>Cantera</creator>
+    </creators>
+    <created>1 June 2019</created>
+</header>
+    <div type="Stanza" sameAs="" xml:id="Y28.3">
+        <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY28.1"/>
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+          <ab>Cf. N16.1 (<bibl>Kotwal and Kreyenbroek, 1995</bibl>: pp. 98-9):</ab>
+        <ab class="ab_indent"><em>kaiia *həṇti vaca bišāmrūta</em></ab>
+        <ab class="ab_indent"><em>ahiiā ẏāsā ... humatanąm ... aṣ̌ahiiā āat̰ ... ẏaθā tū ī ... humāīm
+            θβā īžīm ... 'θβōi staotarascā' ... uštā ahmāi... spəṇtā
+            mainiiū ... vohū xšaθrəm vairīm ... vahištā īštiš
+        </em></ab>
+        <ab class="ab_indent">"Which are the formulae to be recited twice?</ab>
+        <ab class="ab_indent"><em>ahiiā ẏāsā </em>(Y28.3)... <em> humatanąm </em>(Y35.2) ... <em>aṣ̌ahiiā āat̰ </em>(Y35.8) ... <em>ẏaθā tū ī</em> (Y39.4) ... <em>humāīm
+            θβā īžīm </em>(Y41.3) ...<em> θβōi staotarascā </em> (Y41.5) ... <em>uštā ahmāi</em> (Y43.2)... <em>spəṇtā
+            mainiiū </em>(Y47.2) ... <em>vohū xšaθrəm vairīm</em> (Y51.2) ... <em>vahištā īštiš</em> (Y53.2)
+    </ab>
+        <ab class="ab_indent">"Which are the formulae to be recited twice?</ab>
+        <ab class="ab_indent">
+            <em>ahiiā ẏāsā (Y28.3)...  humatanąm ... (Y35.2) aṣ̌ahiiā āat̰ (Y35.8) ... ẏaθā tū ī (Y39.4) ... humāīm
+            θβā īžīm (Y41.3) ... θβōi staotarascā  (Y41.5) ... uštā ahmāi (Y43.2)... spəṇtā
+            mainiiū (Y47.2) ... vohū xšaθrəm vairīm (Y51.2) ... vahištā īštiš (Y53.2)
+        </em>
+        </ab>
+        <ab>Cf. N5.3 (about the way to recite Y28.3, see <bibl>Cantera, 2016</bibl>: p. 61) (cf. <bibl>Kotwal and Kreyenbroek, 1995</bibl>: pp. 48-49)</ab>
+        <ab class="ab_indent">
+            <em>dōspurrnām paymānag </em>ahiiā ẏāsā nəmaŋhā
+            ustāna.zastō<em>ka [ēk]</em> ahiiā ẏāsā <em>ud ēk </em> nəmaŋhā<em> dārēd ān xūbtar ka pad </em> hakat̰<em> gōwēnd
+                ka 2 ēk-ē pēš ān xūbtar ka zōt pēš ka rāspīg pēš ēd-iz šāyēd</em>
+        </ab>
+        <ab class="ab_indent">The measure for <em>dōspurrnām</em> concerning <em>ahiiā ẏāsā nəmaŋhā
+            ustāna.zastō</em> is when one recites <em>hiiā ẏāsā </em> and the other <em>nəmaŋhā...</em>. (However, it is better, when both recite it in unison.
+            If one of the two is ahead, it is better if the <em>zōt</em> is ahead; if the <em>rāspīg</em> is ahead, it is also allowed."</ab>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY28.3"/>
+    </translation>
+</text>

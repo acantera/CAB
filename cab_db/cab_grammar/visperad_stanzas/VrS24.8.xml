@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS24.8" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS24.8">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS10.5"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">rāspīg (at the place of the <em>srōšāwarzān</em>): vid. VrS24.3.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+      <Parallels>
+         <ab>VrS24.8 = VrS24.12, DoHom1.8.</ab>
+         <ab><em>hauruuatā̊sca nō amərətātā̊ gə̄ušca tašnō gə̄ušca urunō āϑrasca</em> ~ VrS24.8 <em>hauruuat̰biia amərətat̰biia gə̄uš tašne gə̄uš urune āϑre</em>.</ab>
+         <ab><em>hauruuatā̊sca nō amərətātā̊</em>: as <em>dvandva</em> in Y3.1, Y3.21, Y3.23, Y4.1, Y4.3, Y6.18, Y7.2, Y7.22, Y7.24, Y7.30, Y8.2, Y70.2, Yt1.21.</ab>
+         <ab><em>gə̄ušca tašnō gə̄ušca urunō</em> ~ Y39.1, VrS65.45 <em>yazamaide gə̄uš uruuānəmcā tašānəmcā</em>.</ab>
+         <ab><em>gə̄ušca urunō</em> ~ Y29.1, Y29.9 <em>gə̄uš uruuā</em>; G4.6 <em>gəūš uruuānəm</em>; ~ Y26.3, Y59.22, Y81.21, DrYt4.12, Yt13.149 <em>gə̄uš huδā̊ŋhō uruuanəm</em>.</ab>
+         <ab><em>hadišasca aṣ̌iuuatō vāstrauuatō</em> ~ VrS1.17, VrS25.19, VrS27.33, VrS90.17 <em>hadišaheca vāstrauuatō</em>; ~  VrS2.19, VrS17.18, VrS77.18 <em>hadiš vāstrauuatō</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS24.8"/>
+   </translation>
+</text>

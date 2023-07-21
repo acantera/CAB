@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y10.13" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y10.13">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY10.13"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y10.6.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y10.13a-b] Pirart del.</ab>
+         <ab>Y10.13b <em>usnąm aēiti</em>] Pirart <em>usnąm.aēiti</em>.</ab>
+         <ab>Y10.13c <em>pouru.narəm</em>] Kellens, Pirart (Bartholomae); Geldner <em>pourunarəm</em>.</ab>
+         <ab>Y10.13c <em>†kərənūši</em>] Geldner, Kellens, Pirart; <bibl>Kellens, 2007</bibl> p. 79 "la restitution *<em>kərənūiδi</em> est la plus plausible (<bibl>Kellens, 1984</bibl> p. 174); same suggestion by <bibl>De Vaan, 2003</bibl> p. 306, <bibl>Pirart, 2004</bibl> p. 275, n. 36). <bibl>Hoffmann and Forssman, 1996</bibl> p. 215 suggest 2nd. sg. pres. ind. med. *<em>kərənūše</em> (Ved. <em>kr̥ṇuṣe</em>), but not supported by mss. Middle voice here unexpected.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>nəmō haōmāi</em> = Y9.3, Y9.16, Y10.17, Y11.8, Yt17.5.</ab>
+      <ab><em>haōma zāire</em> = Y9.30 (x2), Y9.31 (x2), Y9.32 (x2); ~ Y9.17 <em>nī.tē zāire</em>; ~ Y10.21 <em>haōməm zāirīm</em>; Y42.5 <em>haōməmcā zāirīm</em>.</ab>
+      <ab><em>haōma ... gauua</em> ~ Y22.3, Y22.23, Y22.25, Y24.2, Y24.7, Y25.2 <em>haōmauuaitīš gaōmauuaitīš</em>; ~ Y66.2 <em>haōmauuaitīm gaōmauuaitīm</em>;
+      ~ Y68.1 <em>haōmauuaiti gaōmauuaiti</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY10.13"/>
+   <include type="W" corresp="WTrY10.13"/><include type="K" corresp="KTrY10.13"/><include type="D" corresp="DTrY10.13"/></translation>
+</text>

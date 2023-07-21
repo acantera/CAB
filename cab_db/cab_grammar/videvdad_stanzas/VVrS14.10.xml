@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS14.10" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VVrS14.10">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS5.7c" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RozAcc" xpointer="RozAcc1" on_line="in1line"/>
+      <!-- All days possible -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS5.7d" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/MahAcc" xpointer="MahAcc1" on_line="in1line"/>
+      <!-- All months possible -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS5.7e"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. VVrS14.1.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>aɱiia zaōϑre barəsmanaēca ...</em>] YWM Y BYRH ZK-š ḆYN YKOYMWN-d gwptn' 4000, 4020, 4040, 4161, 4162; YWN W BYRH gwptn'⁛ ZK Y ZY-š ḆYN YKOYMWN-dlʾdynytn' 4010, 4045; YWM W BYRH gwptn' 4025, 4030, 4050; YWM W BYRH 4075.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>VVrS14.10 = Y2.12; ≈ Y1.12, Y3.14, Y4.17, Y6.11, Y7.15, Y17.11, Y22.15, Y24.22, Y59.11, Y66.12, VrS78.24, VrS79.17, VrS81.11, VrS82.12.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS14.10"/>
+   </translation>
+</text>

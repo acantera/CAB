@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS89.26" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS89.26">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS40.10a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS40.10b"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS40.10c"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS40.10d"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr2"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS89.26 qutoes Y35.5; = VrS19.2, VrS65.19, VrS82.37.</ab>
+      <ab><em>huxšaϑrō.təmāi bā.at̰ xšaϑrəm aɱat̰ hiiat̰ aibī dadəmahicā cīšmahicā huuąmahicā hiiat̰ mazdāi ahurāi aṣ̌āicā vahištāi</em> ~ VrS82.38 <em>huxšaϑrō.təmahe xšaϑrəm yazamaide daϑušō yat̰ ahurahe mazdā̊</em>; 
+         ~ AGahambar2.4 <em>huxšaϑrō.təmāicit̰ at̰ xšaϑrəm cišiiāt̰ yat̰ ahurāi mazdāi</em>.</ab>
+      <ab><em>dadəmahicā cīšmahicā huuąmahicā hiiat̰ mazdāi ahurāi aṣ̌āicā vahištāi</em> ~ Y13.5, Y39.4, VrS65.48, VS10.4 <em>yā vōhū aϑā tōi dadəmahī aϑā cīšmahī ... ϑβā mazdā ahurā</em>; 
+         ~ Y12.14, VrS11.28, VrS32.3 <em>ahurāi mazdāi vīspā vohū cinaɱi</em>; ~ Y12.6 <em>ahurāi mazdāi vaŋhauuē vohumaitē vīspā vohū cinaɱī</em></ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS89.26"/>
+   </translation>
+</text>

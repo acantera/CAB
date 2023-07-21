@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y11.17" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y11.17" quote="Y52.9">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY11.15"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: Anklesaria, Kotwal and Boyd.</ab>
+            <ab class="ab_indent">rāspīg: Geldner.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>Y11.17 quotes Y52.9, = Y8.11, Y68.20.</ab>
+      <ab><em>vīspaiiā̊ aṣ̌aōnō stōiš</em> = Y52.5, Y68.29, Y70.6, VrS27.1, VrS82.29, VrS82.32, VrS82.34; 
+         ~ VrS11.35, VrS24.10, VrS24.12, VrS27.1, VrS27.6, VrS27.16, VrS42.8, VrS42.10, VrS65.8, VrS65.10, VrS75.8, VrS75.10, VrS79.2, VrS89.19, VrS89.21 <em>vīspaiiā̊ sącat̰ca aṣ̌aōnō stōiš</em>; 
+         ~ Y55.3 <em>vīspaiiā̊sca aṣ̌aōnō stōiš</em>; ~ Y19.9, Y35.1 <em>vīspąm aṣ̌aōnō stīm</em>.</ab>
+      <ab><em>vīspaiiā̊ duuatō stōiš</em> = Y61.5, Y72.5.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY11.17"/>
+      <include type="W" corresp="WTrY11.15"/>
+      <include type="K" corresp="KTrY11.15"/>
+      <include type="D" corresp="DTrY11.15"/>
+   </translation>
+</text>

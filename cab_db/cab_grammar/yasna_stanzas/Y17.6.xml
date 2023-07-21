@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y17.6" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y17.6">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY1.1" on_line="in1lineblock"/>
+      <!-- Following after DY18.5 -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY17.6a" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY1.2" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY17.6b" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY1.3" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY17.6c" on_line="in1line"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y17.3.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>Y17.6 = Y6.6, Y59.6, VrS81.6; ≈ Y1.7, Y2.7, Y3.9, Y4.12, Y7.10, Y22.10, Y24.17, Y66.7, VrS78.19, VrS79.12, VrS82.7.</ab>
+      <ab><em>sraōšəm aṣ̌īm [...] yazamaide rašnūm razištəm yazamaide</em> ~ Y70.3 <em>yā sraōšahe aṣ̌iiehe yā rašnaōš razištahe</em>
+      </ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY17.6"/>
+      <include type="W" corresp="WTrY17.6"/>
+      <include type="K" corresp="KTrY17.6"/>
+      <include type="D" corresp="DTrY17.6"/>
+   </translation>
+</text>

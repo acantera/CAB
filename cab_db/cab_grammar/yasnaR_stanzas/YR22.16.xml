@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR22.16" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="YR22.16">
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR22.17a" on_line="in1lineblock"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen39" on_line="in1line"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR22.17b" on_line="in1line"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: vid. Y22.21.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab>Vid. YR22.15.</ab>
+        </Commentary>
+        <RecitationInstruction>
+            <ab>YR22.15a <em>iməm haōməm</em> ...] <em>iməm haōməm</em> cygwn npšt' OD <em>aōxtō.nāmanō yazatahe</em> ʾywk' bʾl dtygl gwptn' 300; <em>iməm haoməm</em> OD <em>āiie auuaŋhā̊ frauuašiiō</em> (YR22.17) 320.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrYR22.16"/>
+    </translation>
+</text>

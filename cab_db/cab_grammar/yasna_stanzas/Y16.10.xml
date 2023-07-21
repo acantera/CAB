@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y16.10" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y16.10">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY16.10"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y16.0.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y16.10c <em>hāme</em>] mostly corrupted in cod. as <em>hā.mē</em> (vid. <bibl>Kellens, 2010</bibl>, p. 19).</ab>
+         <ab>Y16.10c <em>hama</em>] unexpected instr. in juxtaposition to loc. sg. <em>zaiiene</em> (vid. <bibl>Kellens, 2010</bibl>, p. 19).</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY16.10"/>
+      <include type="W" corresp="WTrY16.10"/>
+      <include type="K" corresp="KTrY16.10"/>
+      <include type="D" corresp="DTrY16.10"/>
+   </translation>
+</text>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y26.2" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y26.3" shnumandep="1">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY26.3"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y25.4.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y26.2b <em>vərəzi.dōiϑranąm</em>] <em>varəzi°</em> well attested, but cf. <em>vərəzi.saōka-</em>, <em>vərəzi.sauuah-</em>, etc.</ab>
+         <ab>Y26.2d <em>aiϑiiejaŋhō</em>] sec. cod.; Geldner, Kellens <em>aiϑiiajaŋhō</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>Y26.2 = Y59.21, VrS81.20, DrYt4.11.</ab>
+      <ab>VrS30.2 = DoHom7.2.</ab>
+      <ab><em>aṣ̌āunąm vaŋuhīš sūrā̊ spəṇtā̊ frauuaṣ̌aiiō</em> = Y2.19, Y6.20, Y17.19, Y26.9, Y59.19, Y66.24, Y71.23, VrS14.7, VrS81.29, Yt13 (<em>passim</em>), Šn. ext. <em>ardafrawahr</em>.</ab>
+      <ab><em>aməṣ̌anąm spəṇtanąm ... bərəzatąm ... yōi aiϑiiejaŋhō aṣ̌auuanō</em> ~ Y1.11, Y3.13, Y4.16, Y7.14, Y22.14, Y24.21, Y66.1, VrS78.23, VrS79.16, VrS82.11 <em>ahuraēibiia miϑraēibiia bərəzaṇbiia aiϑiiejaŋhaēibiia aṣ̌auuanaēibiia</em>;
+         Y2.11, Y6.10, Y59.10, VrS81.10, VVrS14.9 ~ <em>ahura miϑra bərəzaṇta aiϑiiejaŋha aṣ̌auuana</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY26.2"/>
+      <include type="W" corresp="WTrY26.3"/>
+      <include type="K" corresp="KTrY26.3"/>
+      <include type="D" corresp="DTrY26.3"/>
+   </translation>
+</text>

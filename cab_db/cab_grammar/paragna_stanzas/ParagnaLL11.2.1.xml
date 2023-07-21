@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL11.2.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="1" xml:id="ParagnaLL11.2.1">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL11.2.1 (Mss. K7, RJ):</ab>
+            <ab class="ab_indent">
+                pas aivyanghan bar miyān-e barsom nahādan va ašem vohū yek goftan va sar-e aivyanghan be-bālā āvardan</ab>
+            <ab class="ab_indent">
+                "Then he should put <em>aivyanghan</em> in the middle of <em>barsom</em>. He should say one <em>Aṣ̌əm Vohū</em> and uplift one end of the <em>aivyanghan</em>."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL11.2.1"/>
+    </translation>
+</text>

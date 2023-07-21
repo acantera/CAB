@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS11.25" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS11.25">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr2"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS3.7b"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt̰ ud rāspīg: mss.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>VrS11.25b <em>frasraōϑraca framarəϑraca fragāϑraca frāiiaštaca</em>] cod.; Geldner, Kellens <em>frasraōϑrəmca framarəϑrəmca fragāϑrəmca frāiiaštīmca</em>.</ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab><em>tūm nō...</em>] lʾspyk <em>tūm nō</em> 2010, 2030, 2040, 2070, 2101, 2109; lʾspyk gwptn' <em>tūm nō</em> 2007; lʾspyk ẔNE gwptn' AYK <em>tūm nō</em>  2065.</ab>
+         <ab>zwt' <em>yaϑā ahū vairiiō yō ātrauuaxšō frā.mē mrūtē</em> lʾspyk <em>aϑā ratuš</em> krtn'] 2007, 2010, 2030, 2040, 2070, 2101, 2109; zwt' <em>ẏō ātrauuaxšō</em> lʾspyk <em>aϑā ratuš</em> 2065.</ab>
+         <ab><em>azəm aēta</em>] zwt' <em>azəm aēta</em> 2010, 2030, 2040, 2070, 2101, 2109; zwt' YMRRWNyt' <em>azəm aēta</em> 2007; zwt' ẔNE gwptn' AYK <em>azəm aēta</em> 2065.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab><em>frasraōϑraca framarəϑaca fragāϑraca frāiiaštaca</em> ~ Y19.21, Y20.5, Y55.7, VrS36.4, VrS41.5, VrS51.7, VrS57.7, VrS62.7, VrS64.8, VrS65.81, VrS69.7, VrS71.7 <em>frasraōϑrəmca framarəϑrəmca fragāϑrəmca frāiiaštīmca</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS11.25"/>
+   </translation>
+</text>

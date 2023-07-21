@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y22.28" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y22.28" shnumandep="1">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY23.3"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. Y22.26.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab>The stanza is ridely corrupted. Probably later composed.</ab>
+            <ab>Y22.28a <em>†vīspaiia aṣ̌auuane frauuaṣ̌e†</em>] likely err. for dat. <em>vīspaiiāi aṣ̌aōne frauuaṣ̌ə̄e</em>.</ab>
+            <ab>Y22.28a <em>†ke asti†</em>] likely adapted from Pahl. Cf. PT MNW AYT'.</ab>
+            <ab>Y22.28a <em>para.irista</em>] sec. Ir. cod.; Geldner, Kellens <em>para.iristi</em>. Cf. PT wtʾlt HWEd.</ab>
+            <ab>Y22.28a <em>†daɱi nāirike apərənāiiūke kainike vāstriiāuuarəzi†</em>} err. loc. sg. for <em>daɱe nāirikaiia apərənāiiūke kainikaiia vāstriiāuuarəzi</em>.
+                <em>nāirike</em> and <em>kainike</em> influenced from <em>apərənāiiūke</em>?</ab>
+            <ab>Y22.28a <em>upa.šaēta</em>] sec. most Ir. cod.; Geldner, Kellens <em>upa.šaēti</em>.</ab>
+            <ab>Y22.28a <em>iziieiṇti</em>] sec. cod. (some <em>iziieiti/e</em>), Geldner, Kellens. Form <em>iziia-</em>,but cf. PT OZLWNt, as translation of <em>uziieiṇti</em>?</ab>
+            <ab>Y22.28a <em>paitiš.marəṇti</em>] sec. cod.; Geldner <em>paitiṣ̌marəṇti</em>; Kellens (sec. Bartholomae) <em>paitišmarəṇte</em>. <em>°-ṇti</em> better attested. False cut for *<em>paiti.šmarəṇti</em>.</ab>
+            <ab>Y22.28a <em>aiβi.nāsəṇti</em>] Geldner, Kellens <em>aiβināsəṇti</em>. On long <em>ā</em> of the root, vid. <em>Kellens, 1984</em> p. 354, n. 13.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels>
+        <ab>VrS25.35 = DoHom2.35.</ab>
+    <ab><em>kuuacit̰ aŋ́hā̊ zəmō</em> = Yt12.22; ~ VS3.1, VS3.2, VS3.4, VS3.5, VS3.7, VS3.9, VS3.10, VS3.11, VS19.4 <em>kuua [...] aŋ́hā°zəmō</em></ab>
+    <ab><em>para.irista daɱi nāirike apərənāiiuke kainike vāstriiāuuarezi upa.šaēta haca aɱāt̰ nmānat̰ iziieiṇti</em> cf. Y26.7, Y26.8, Y26.9</ab>
+    <ab><em>daɱi nāirike apərənāiiuke kainike vāstriiāuuarezi</em> ~ Y68.12 <em>narąmca nāirinąmca apərənāiiūkanąmca kainikanąmca vāstriiāuuarəzanąmca</em></ab>
+    <ab><em>haca aɱāt̰ nmānat̰ iziieiṇti yā̊ paitišmarəṇti yā̊ aiβināsəṇti vaŋhūš yasnąsca vaɱąsca</em> cf. Yt13.156, Yt13.157.</ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrY22.28"/>
+    <include type="W" corresp="WTrY23.3"/><include type="K" corresp="KTrY23.3"/><include type="D" corresp="DTrY23.3"/></translation>
+</text>

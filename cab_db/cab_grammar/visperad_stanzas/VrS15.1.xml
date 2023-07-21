@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS15.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS15.1">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS15.1NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS6.1"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg <em>sastica</em>, zōt <em>vaṇtāca</em>... vid. Nērangs; Anklesaria, Geldner.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VrS15.1a <em>sastica vaṇtāca rafnaŋhāca</em>...] <em>vaṇtāca rafnaŋhāca viϑušaēibiiasca zaoϑrābiiō</em> OD <em>yeŋ́hē mē</em> (VrS15.2) 2065, 2070.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <Parallels>
+         <ab><em>aršuxδaēibiiasca vāγžibiiō</em> = Y16.1, Y16.2; ~ Y9.25 <em>vacąm ərəžuxδanąm [...] ərəǔxδəm [...] vācim</em>; ~ Y7.30 <em>aršuxδəm vācim</em>;  ~ Y60.5 <em>aršuxδō vāxš</em>; ~ Y71.10 <em>vacō aršuxδa</em>; ~ Y27.8 <em>aršuxδanąmcā vacąm</em>; ~ VrS31.13 <em>aršuxδanąmca vacaŋhąm</em> (!), etc.</ab>
+         <ab><em>bərəja vaŋhə̄uš aṣ̌ahe bərəja daēnaiiā̊ vaŋhuiiā̊ māzdaiiasnōiš</em> quotes Y35.1 <em>bərəjā vaŋhə̄uš aṣ̌ahe bərəjā daēnaiiā̊ vaŋhuiiā̊ māzdaiiasnōiš</em> = VrS65.15.</ab>
+         <ab> <em>daēnaiiā̊ vaŋhuiiā̊ māzdaiiasnōiš</em> = Y0.10, Y1.14, Y22.4, Y22.24, Y22.25, Y24.3, Y24.8, Y24.29, Y25.3, Y35.1, Y53.11 (x2), Y66.19, Y66.20, Y70.3, Y72.7, Y72.11, VrS87.11; 
+            ~ Y9.26, Yt16.5, Yt16.8, Yt16.11, Yt16.14, Yt16.16, Yt16.18 <em>vaŋᵛhīm daēnąm māzdaiiasnīm</em>
+         </ab>
+      </Parallels>
+   </Parallels>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS15.1 Var. a (mss. 2000, 2065):</ab>
+         <ab class="ab_indent">
+            zōt ud rāspīg harw dō sastica guftan barsom gušādan ud grih andak-ē šust kardan barsom hōy ud dašn paydāg kardan ud datuš †ēw- tāg ī stabrtar ud rāsttar abar abrāštan ud abar 
+            barsomdān bastan <em>vaṇtāca</em>. ...</ab> 
+         <ab class="ab_indent">
+            "The <em>zōt</em> and the <em>rāspīg</em>, both, should recite <em>sasti</em>. He should loose the <em>barsom</em>, make the knot a bit slack***/ wash a bit the knot, 
+            show the left and the right side of the <em>barsom</em>, raise the strongest and straightest twig as <em>datuš</em> and tie it to the <em>barsomdān</em> (and then continue with) 
+            <em>vaṇtāca</em>. ..."</ab> 
+         
+         <ab>VrS15.1 Var. b (mss. 2010, 2030, 2040, 2101, 2106, 2109, 4000, 4010, 4020, 4025, 4040, 4045, 4050, 4161, 4162, 5020):</ab>
+         <ab class="ab_indent">
+            <em>sastica</em>. zōt ud rāspīg harw dō bē gōwišn barsom az barsomdān ul stānišn bē dō nēm abāz kunišn hašt pad dōgānag-ē az dašn ōšmurdan ēk tāg rāsttar ud stabrtar pad 
+            datuš kunišn ud bē abrāzēnišn ud barsom ō ī māhrōy bandišn dast abar barsom nihišn guftan vaṇtāca... <em>daēnaiiā̊ vaŋhuiiā̊ māzdaiiasnōiš</em> skūrag abāz rāst kunišn ǰīv bē baxšišn</ab>
+         <ab class="ab_indent">
+            "Both, the <em>zōt</em> and the <em>rāspīg</em> have to recite <em>sastica</em>. (The <em>zōt</em>) has to take the <em>barsom</em> from the <em>barsomdān</em> 
+            and divide it into two halves. He should count eight pairs from the right side. He should make one twig that is the straightest and the strongest to <em>datuš</em> and he has to raise 
+            it and to tie the <em>barsom</em> to the <em>māhrōy</em> and put his hand on the <em>barsom</em>. He should recite <em>vaṇtāca ... daēnaiiā̊ vaŋhuiiā̊ māzdaiiasnōiš</em>.
+            He has to turn up again the (inverted) <em>skūrag</em> and distribute <em>ǰīwām</em> (into the <em>skūrag</em>)"</ab>
+         
+         <ab>VrS15.1 Var. c (ms. 2101):</ab>
+         <ab class="ab_indent">
+            <em>sastica</em>. zōt ud rāspīg harw dō bē gōwišn barsom abar gīrišn barsom dašn ud hōy paydāg bē kunišn bē dō nēm abāz kunišn hašt pad dōgānag-ē az dašn ōšmurdan ēk tāg 
+            rāsttar ud stabrtar pad datuš kunišn ud bē abrāzēnišn ud barsom ō ī māhrōy bandišn dast abar barsom nihišn guftan <em>vaṇtāca ... daēnaiiā̊ vaŋhuiiā̊ māzdaiiasnōiš</em> skūrag 
+            abāz rāst kunišn ǰīw abāz baxšišn </ab> 
+         <ab class="ab_indent">
+            "Both, the <em>zōt</em> and the <em>rāspīg</em> have to recite <em>sastica</em>. (The <em>zōt</em>) has to take the <em>barsom</em>, show the right and left sides and 
+            divide it into two halves. He should count eight pairs from the right side. He should make one twig that is the straightest and the strongest to <em>datuš</em> and he has to raise it 
+            and to tie the <em>barsom</em> to the <em>māhrōy</em> and put his hand on the <em>barsom</em>. He should recite <em>vaṇtāca ... daēnaiiā̊ vaŋhuiiā̊ māzdaiiasnōiš</em>. 
+            He has to turn up again the (inverted) <em>skūrag</em> and distribute <em>ǰīwām</em> (into the <em>skūrag</em>)."</ab>
+         
+         <ab>VrS15.1 Var. d (ms. 2070):</ab>
+         <ab class="ab_indent">
+            <em>sastica</em> datuš bē abrāzēnišn <em>vaṇtāca</em></ab>
+         <ab class="ab_indent">
+            "Between <em>sastica</em> and <em>vaṇtāca</em>, he has to raise the <em>datuš</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS15.1"/>
+   </translation>
+</text>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y2.4" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y2.4">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.4a" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccAY" xpointer="RatuLetAccAY3.1" on_line="in1line"/>
+               <!--successive gāh from Y2.3 -->
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.4b" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccAY" xpointer="RatuLetAccAY3.2" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.4c" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.4d" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccAY" xpointer="RatuLetAccAY3.3" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.4e" on_line="in1line"/>
+            </div>
+    <Apparatus>
+        <Speaker>
+            <SpeakerInfo>
+                <div>
+                    <ab class="ab_indent">zōt: Anklesaria, Kotwal and Boyd.</ab>
+                </div>
+            </SpeakerInfo>
+        </Speaker>
+        <Critical/>
+        <Commentary>
+            <ab>Y2.4b <em>frādat̰.fšaōm</em>] Geldner, Kellens <em>frādat̰.fšāum</em>. Mss. mostly <em>frādat̰.fšaō/om</em>. Only 500, 510 <em>frādat̰.fšāum</em>. 
+                Cf. ending <em>-aūm</em>, well preserved in other attestations: Y1.23, Y10.4 <em>aṣ̌āum</em> or Y9.22 <em>arənāum</em>. 
+                Vid. <bibl>Kuiper, 1942</bibl>, p. 52 considers it an actual hysterodynamic;  also <bibl>Tremblay, 2003</bibl>, pp. 248 ff. from a different stem than <em>frādat̰.fšauue</em> (Y1.4): 
+                <em>frādat̰.fšu-</em> as noun (dat. <em>frādat̰.fšauue</em>), <em>frādat̰.fšaō-</em> as a derivative of the first (acc. <em>frādat̰.fšaōm</em>).</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels>
+    <ab>Y2.4 ≈ Y1.4, Y3.6, Y4.9, Y6.3, Y7.7, Y17.3, Y22.7, Y24.14, Y59.3, Y66.4, VrS78.16, VrS79.9, VrS81.3, VrS82.4.</ab>.
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrY2.4"/>
+    <include type="W" corresp="WTrY2.4"/>
+        <include type="K" corresp="KTrY2.4"/>
+        <include type="D" corresp="DTrY2.4"/>
+    </translation>
+</text>

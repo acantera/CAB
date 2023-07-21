@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS7.2" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y7.2" xml:id="VrS7.2">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY7.1a"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. VrS7.1.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS7.2 (mss. 2101, 2106):</ab>
+         <ab class="ab_indent">
+            <em>aṣ̌aiia daδąmi xᵛarəϑəm miiazdəm</em>  bōy dō bār ō ī ātaxš dādan <em>hauruuata amərətāta</em> ...</ab>  
+         <ab class="ab_indent">
+            "Between <em>aṣ̌aiia daδąmi xᵛarəϑəm miiazdəm</em> and <em>hauruuata amərətāta</em> ... he has to give twice <em>bōy</em> to the fire."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation/>
+</text>

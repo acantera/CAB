@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS11.13" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS11.13">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS3.5"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. VrS11.10.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>VrS11.13a <em>kascit̰ mazdaiiasnanąm</em>] Kellens del.</ab>
+         <ab>VrS11.13a <em>āstāiiāmaide</em>] cod.; Geldner, Kellens <em>āstāiiamaide</em>.</ab>
+         <ab>VrS11.13c <em>aš.xrā.xᵛanutəmą</em>] cod.; Geldner <em>ašxrāxᵛanutəmą</em>; Kellens <em>aš.xrāxᵛanutəmą</em>.</ab>
+         <ab>VrS11.13e <em>raϑaēštārə̄sca</em>] Geldner; Kellens <em>raϑaēštā̊sca</em> (of <em>raϑaēštā</em>).</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>      
+         <ab><em>ratūš āmrūmaide ratūš āstāiiāmaide aməṣ̌ə̄sca spəṇtə̄ saōš́iiaṇtasca dąhištə̄ aršuuacastəmą aiβiiāmatəmą aš.xrā.xᵛanutəmą</em> ~ Y13.3 <em>ratūš āmruiiē ratūš āstāiiā aməṣ̌ąscā spəṇtą saōš́iiaṇtascā dąhištą aršuuacastəmą aiβiiāmatəmą aš.xrā.xᵛanutəmą.</em></ab>
+         <ab><em>ratūš āmrūmaide</em> ~ Y13.1, Y13.2 (x3), Y13.3 <em>ratūm āmruiiē</em>.</ab>
+         <ab><em>dąhištə̄ aršuuacastəmą</em> ~ VrS11.9 <em>dąhištəm aršuuacastəməm</em>.</ab>
+      <ab><em>daēnaiiā̊ māzdaiiasnōiš passim</em></ab>
+      <ab><em>aϑaurunąsca raϑaēštārə̄sca vāstriiąsca fšuiiaṇtō</em> ~ Y13.3 <em>aϑaurunąscā raϑaēštąscā vāstriiąscā fšuiiaṇtō</em>; ~ Y11.6 <em>āϑrauua naēδa raϑaēštā̊ naēδa vāstriiō fšuiiąs</em>; ~ Y19.17 <em>āϑrauua raϑaēštā̊ vāstriiō fšuiiąs</em>; ; ~ VrS11.10 <em>āϑrauuanəm āstāiia raϑaēštārəm āstāiia vāstrīm fšuiiaṇtəm āstāiia</em>.</ab>
+   </Parallels>
+   
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS11.13"/>
+   </translation>
+</text>

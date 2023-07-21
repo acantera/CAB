@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y33.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y33.1" headerPointer="Head33">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY33.1"/>
+            </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+   <Ritual>
+        <ab>Cf. VS10.7-9</ab>
+        <ab>Cf. N17.1 (<bibl>Kotwal and Kreyenbroek, 1995</bibl>: pp. 98-9):</ab>
+        <ab class="ab_indent"><em>kaiia θrišāmrūta</em></ab>
+        <ab class="ab_indent"><em>aṣ̌əm vohū</em> (Y28.0) ... <em>ẏə̄ səuuištō</em> (Y33.11) ... <em>huxšaθrōtəmāi</em> (Y35.5)... <em>dužuuarənāiš</em>(Y53.10)</ab>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY33.1"/>
+    </translation>
+</text>

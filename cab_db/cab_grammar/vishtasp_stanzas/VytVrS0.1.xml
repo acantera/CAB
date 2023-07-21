@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VytVrS0.1" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+        <approved/>
+        <updated/>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VytVrS0.1">
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+    </div>
+    <Speaker>
+    <SpeakerInfo>
+        <div>zōt: vid. Y0.1.</div>
+    </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <RecitationInstruction>
+            <ab><em>ʾywk' gwptn'</em>] 5020.</ab>
+        </RecitationInstruction>
+            <Commentary>
+                <ab>VytVrS0.1a] om. mss. 5010, 5030.</ab>
+            </Commentary>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs>
+            <ab>VytVrS0.1 Var. b (ms. 5020):</ab>
+            <ab class="ab_indent">
+                barsom sih ud sē tāg ud frāgām dō tāg barsom bastan ud parāhōm kardan sāzišn hamāg xūb frāz nihādan ud pad kamistīh sē tāg ud urwarām pārag-ē ud ǰām andak-ē frāz nihišn ud
+                ān kas kē zōtīh kāmēd kardan <em>aṣ̌əm vohū</em> ēk guftan ud dast pad pādyāb kardan</ab> 
+            <ab class="ab_indent">
+                "The <em>barsom</em> (consists of) 33 twigs and the <em>frāgām</em> are two. He should tie the <em>barsom</em>, prepare the <em>parāhōm</em> and dispose all the 
+                implements. He has to dispose the <em>hōm</em>, at least three twigs, and a branch of <em>urwarām</em> and a drop of <em>ǰām</em>. The one who wishes to perform in 
+                the office of <em>zōt</em> should recite one <em>aṣ̌əm vohū</em> and wash his hands with <em>pādyāb</em>."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrVytVrS0.1"/>
+    </translation>
+</text>

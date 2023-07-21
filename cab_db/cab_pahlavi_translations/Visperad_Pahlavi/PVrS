@@ -1,0 +1,21 @@
+<body>
+    <div n="1" xml:id="VrS1" type="chapter">
+        <div n="9" xml:id="VrS1.9" type="stanza" corresp="Vr1.1">
+            <ab n="Translation.a" xml:id="VrS1.9Translation.a">niwēyēnam ud hangirdēnam [niwēyēnam
+                kū yazišn bun kunam ud hangirdēnam kū-š sar bē kunam] rad ī mēnōyān [ōhrmazd] ud rad
+                ī gētīyān [zarduxšt] ud rad ī ābīgān [kar-māhīg] ud rad ī gōspandān [kākumag] ud
+                radī wāyēndagān [karšift] ud rad ī frāx-raftārān ud rad ī čarag-arzānīgān [xarbuz] ī
+                ahlaw ī ahlāyīh rad hēnd </ab>
+        </div>
+       
+            <div n="10" xml:id="VrS1.10" type="stanza" corresp="Vr1.2">
+                <ab n="Translation.a" xml:id="VrS1.10Translation.a">niwēyēnam ud hangirdēnam gāhānbār ī ahlaw ī ahlāyīh rad
+                    mēdōzarmay pēmēnīd ī ahlaw ī ahlāyīh rad [ā pēm pad mēdōzarm mehmāntar]</ab>
+                <ab n="Translation.b" xml:id="VrS1.10Translation.b">niwēyēnam ud hangirdēnam mēdyōšam ī wāstar-drūnišnīh andar ī ahlaw ī ahlāyīh rad
+                </ab>
+                <ab n="Translation.c" xml:id="VrS1.10Translation.c">niwēyēnam ud hangirdēnam paitišahim ī hahim [ī kē-š garmāg padiš āyēd] ī ahlaw ī ahlāyīh rad</ab>
+                <ab n="Translation.d" xml:id="VrS1.10Translation.d">niwēyēnam ud hangirdēnam ayāsrim ī frōd wašt haminīh [āyēd] az gušn-hilišnīh [padivs andar āyēd] ī ahlaw ī ahlāyīh rad</ab>
+                <ab n="Translation.e" xml:id="VrS1.10Translation.e">niwēyēnam ud hangirdēnam mēdyārīh ***</ab>
+            </div>
+    </div>
+</body>

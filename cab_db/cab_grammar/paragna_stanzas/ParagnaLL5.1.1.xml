@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL5.1.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="1" xml:id="ParagnaLL5.1.1">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+        <ab>ParagnaLL5.1.1 (Pahl.) (Ms. K43):</ab>
+        <ab class="ab_indent">
+            ka ǰīw gīrēd ā-š be hassārīh ī gōspand šawišn u-š abestāg</ab>
+        <ab class="ab_indent">
+            "When one takes the <em>ǰīwām</em> one has to go near the animal and (recite) the <em>abestāg</em>..."</ab>
+        
+        <ab>ParagnaLL5.1.1 (Pers.) Var. a (Mss. K7, RJ):</ab>
+        <ab class="ab_indent">
+            nirang ǧām doḫtan naḫost gāv yā gusfand āvordan yā be galle-ye išān šodan va ǧāmdān rā se bār b-āb pādyāvi šostan va dast be gāv nahādan <em>aṣ̌əm vohū</em> se goftan 
+            <em>frauuarāne</em> gāh ānče bid <em>gə̄uš tašne gə̄uš urune tauua gə̄uš huδā̊ŋhō urune xšnaoθra y. v. x. f. yaϑā ahū vairiiō zaotā</em> tā <em>mraotū</em> agar do bid 
+            <em>gə̄uš tašne gə̄uš urune yauuākəm gə̄uš huδā̊ŋhō urune xšnaoθra y. v. x. f.</em> agar se bid <em>yaϑā ahū vairiiō zaotā</em> OD <em>mraotū</em></ab>  
+        <ab class="ab_indent">
+            "The instruction for milking the <em>ǧām</em> is, first, to bring a cow or a sheep or to go to a herd of these animals, to wash three times the <em>ǧāmdān</em> with
+            <em>pādyāb</em>-water. He should put the hand on the cow, recite three <em>Aṣ̌əm Vohū</em>s and the <em>frauuarāne</em> with the corresponding <em>gāh</em> 
+            (with the <em>šnūman</em>) <em>gə̄uš tašne gə̄uš urune tauua gə̄uš huδā̊ŋhō urune xšnaoθra. y. v. x. f.</em> and the <em>wāz-gīrišnīh</em>) from <em>yaϑā ahū vairiiō zaotā</em> until 
+            <em>mraotū</em>. If (the cows) are two, then <em>gə̄uš tašne gə̄uš urune yauuākəm gə̄uš huδā̊ŋhō urune xšnaoθra. y. v. x. f.</em> If (the cows) are three, then <em>gə̄uš tašne gə̄uš 
+                urune yūšmākəm gə̄uš huδā̊ŋhō urune xšnaoθra. y. v. x. f.</em>  Then, (the <em>wāz-gīrišnīh</em>) <em>yaϑā ahū vairiiō zaotā</em> until <em>mraotū</em>."</ab>
+   
+        <ab>ParagnaLL5.1.1 (Pers.) Var. b (Ms. K36):</ab>
+        <ab class="ab_indent">
+            nirang ǧām gereftan ǧāmdān pādyāv kardan va porr-e āb kardan va be ān āb pestān-e gāv yā gusfand šostan va dast-e rāst be pestān gereftan va ǧāmdān be-dast-e čab gereftan be 
+            payvand-e dast-e rāst <em>xšnaōθra ahurahe mazdā̊ aṣ̌əm vohū</em> se goftan <em>frauuarāne</em> gāh āne bid agar gāv yā gusfand yek bid <em>gə̄uš tašne gə̄uš urune tauua
+                gə̄uš urune tauua gə̄uš huδā̊ŋhō urune xšnaoθra yasnāi v. x. f.</em> agar do bid <em>gə̄uš tašne gə̄uš urune yauuākəm gə̄uš huδā̊ŋhō urune xšnaoθra yas v. x. f.</em> agar se 
+            bid yā galle bid <em>gə̄uš tašne gə̄uš urune yūšmākəm gə̄uš huδā̊ŋhō urune xšnaoθra yas. v. x. f. yaθā ahū vairiiō zaōtā</em> tā sar goftan</ab> 
+        <ab class="ab_indent">
+            "The instruction for taking the milk. He should clean the <em>ǧāmdān</em>, fill it with water and wash with this water the breasts of the udder of the cow or sheep and take the 
+            udder with the right hand and the <em>ǧāmdān</em> with the left one. While touching (the udder) with the rigth hand, he should recite the <em>frauuarāne</em> with the corresponding
+            <em>gāh</em> and (with the following <em>šnūman</em>, if the cow or sheep are only one: <em>gə̄uš tašne gə̄uš urune tauua gə̄uš huδā̊ŋhō urune xšnaoθra. y. v. x. f.</em>; if 
+            they are two, <em>gə̄uš urune yauuākəm gə̄uš huδā̊ŋhō urune xšnaoθra</em> until <em>fra(sastaiiaēca)</em>; if they are three or a herd, <em>gə̄uš tašne gə̄uš urune yūšmākəm
+                gə̄uš huδā̊ŋhō urune xšnaoθra</em> until <em>fra(sastaiiaēca)</em>. He should then recite <em>yaϑā ahū vairiiō zaotā</em> until the end."</ab>
+        </Nerangs>
+        
+        <Quotations id="ritualQuotations">
+            <ab>N49.14 (K43):</ab>
+            <ab class="ab_indent">
+                ka ǰīw gīrēd ā-š be hassārīh ī gōspand šawišn u-š abestāg pad hassārīh ī gōspand gōwišn <em>aṣ̌əm vohū</em> sē frauuarānē čē gāh dārēd <em>gə̄uš tašne gə̄uš urune</em> ka
+                ēk <em>tauua gə̄uš hudā̊ŋhō urune</em> ka dō <em>ẏauuākəm gə̄uš</em> ka-š abēr juttar nēst <em>xšnaoθra</em> u-š wāz frāz gīrišn</ab> 
+            <ab class="ab_indent">
+                "When one takes the <em>ǰīwām</em> one has to go near the animal and recite the <em>abestāg</em> near the animal: three <em>Aṣ̌əm Vohū</em> and the <em>Frauuarānē</em> 
+                with the corresponding <em>gāhand</em> (with the <em>šnūman</em>) <em>gə̄uš tašne gə̄uš urune</em> (completed with) <em>tauua gə̄uš hudā̊ŋhō urune</em>, when (he takes 
+                it only from) one (animal); (with) <em>ẏauuākəm gə̄uš</em>, when (from) two; it is not different, when (he takes is from) more than one, and (closed by) <em>xšnaoθra</em>. 
+                He has then to take the <em>wāz</em>."</ab> 
+        </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL5.1.1"/>
+    </translation>
+</text>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y35.2" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y35.2">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY35.2"/>
+            </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+       <ab>Cf. VS10.2-4</ab>
+       <ab>Cf. N16.1 (<bibl>Kotwal and Kreyenbroek, 1995</bibl>: pp. 98-9):</ab>
+        <ab class="ab_indent"><em>kaiia *həṇti vaca bišāmrūta</em></ab>
+        <ab class="ab_indent"><em>ahiiā ẏāsā ... humatanąm ... aṣ̌ahiiā āat̰ ... ẏaθā tū ī ... humāīm
+            θβā īžīm ... 'θβōi staotarascā' ... uštā ahmāi... spəṇtā
+            mainiiū ... vohū xšaθrəm vairīm ... vahištā īštiš
+        </em></ab>
+        <ab class="ab_indent">"Which are the formulae to be recited twice?</ab>
+        <ab class="ab_indent"><em>ahiiā ẏāsā </em>(Y28.3)... <em> humatanąm </em>(Y35.2) ... <em>aṣ̌ahiiā āat̰ </em>(Y35.8) ... <em>ẏaθā tū ī</em> (Y39.4) ... <em>humāīm
+            θβā īžīm </em>(Y41.3) ...<em> θβōi staotarascā </em> (Y41.5) ... <em>uštā ahmāi</em> (Y43.2)... <em>spəṇtā
+            mainiiū </em>(Y47.2) ... <em>vohū xšaθrəm vairīm</em> (Y51.2) ... <em>vahištā īštiš</em> (Y53.2)
+    </ab>
+    <ab>Cf. N N47.39c-40 (cf. <bibl>Kotwal and Kreyenbroek, 2003</bibl>: 214-7):</ab>
+    <ab class="ab_indent">
+            <em>pad </em>humatanąm<em> andar āwarišn pad ān zamān ka nēk-tom
+</em> *srīrəm arəduməm <em> ā pad xwardan ā pad *tāftan ā pad dāštan
+hamāg 4 angust andar dārišn u-š ōh gardēnišn</em>
+        </ab>
+<ab class="ab_indent">
+            <em>tā ātaxš zōhr xwarēd zōhr ā sar astpih ā sar yasn kardag ī
+mayān ka be ātaxš zōhr xwarēd astpih ā sar yasn kardag ī mayān ka astpih xward yasn kardag ā sar</em>
+        </ab>
+<ab class="ab_indent"> At <em>humatanąm</em>, he has to bring it into (the fire). At that moment, when it is the nicest <em>*srīrəm arəduməm</em>, he has to hold his four fingers in (the bowl) while eating, while heating and holding it and he should turn (the offering within the bowl?).</ab>
+<ab class="ab_indent">Until the fire consumes the <em>zōhr</em>, viz. (until) the consumption of the <em>zōhr</em>, viz. (until) the consuption of the fat oin the bone, it is the middle section of the <em>yasn</em> (of the Seven Chapters). When the fire consumes the zōhr, viz. (until) the consumption of the fat on the bone, it is the middle section of the <em>yasn</em> (of the Seven Chapters). Whe the fire has consumed the <em>zōhr</em>, the it is the final section of the <em>yasn</em> (of the Seven Chapters).</ab>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY35.2"/>
+    <include type="W" corresp="WTrY35.2"/><include type="K" corresp="KTrY35.2"/><include type="D" corresp="DTrY35.2"/></translation>
+</text>

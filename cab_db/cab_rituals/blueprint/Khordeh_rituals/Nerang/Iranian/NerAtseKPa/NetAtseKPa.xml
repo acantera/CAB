@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+        <div type="IntroductoryPrayer" xml:id="NerSneezingParsi"> <!-- vide: MZK9 -->
+			<div type="IntroductoryPrayerStanza" xml:id="NerSneezingParsi0.1">
+                    <ab n="a" xml:id="NerSneezingParsi0.1a">škst ʾhrymn</ab> <!-- The text Nīrang-e Dast-šūy, see Antia 1909, p. 175.10-13: šikastah. šikasta. šitąn. āhārəman. gajastah. kār. u. kərəδār. hōrməzda. pīrōz. gar. pāk. aṣ̌aone. aṣ̌əm. vōhū. ẏʾk. For translations see Spiegel, Avesta III, p. 4. Modi 1924, p. 60f. Spiegel quotes Anquetil’s note to that spell: “Il faut se lever au gâh Oshen, défaire et remettre le Kusti, restant sur le même tapis où l’on a dormi; ensuite se laver les mains et le visage avec de l’urine de boeuf, et les sécher avec de la terre. Tenant dans les deux mains l’urine de boeuf le Parse dira cet Avesta” (the šikastah formula)  -->
+					<ab n="b" xml:id="NerSneezingParsi0.1b">škst ʾhrymn</ab>
+					<ab n="c" xml:id="NerSneezingParsi0.1c">škst ʾhrymn</ab>
+			</div>
+			<div type="IntroductoryPrayerStanza" xml:id="NerSneezingParsi1.1">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+			</div>
+			<div type="IntroductoryPrayerStanza" xml:id="NerSneezingParsi1.2">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+            </div>
+			 <div type="IntroductoryPrayerStanza" xml:id="NerSneezingParsi2.1">
+                    <ab n="a" xml:id="NerSneezingParsi2.1a">stʾyš bʾd ʾyzd mhr ʾmšʾsfndʾn fyrwzgr</ab>
+					<ab n="b" xml:id="NerSneezingParsi2.1b">hr gʾh hr zmʾn hymh rʾdh rʾsth drsth pʾkpʾdyʾwh</ab>
+					<ab n="c" xml:id="NerSneezingParsi2.1c">druǧ ʾǧ tn mʾ [ān hrks kh bʾšd]</ab>
+			</div>
+			<div type="IntroductoryPrayerStanza" xml:id="NerSneezingParsi2.2">
+                    <ab n="a" xml:id="NerSneezingParsi2.2a">škst bʾd škst ʾhrymn bʾd</ab>
+					<ab n="b" xml:id="NerSneezingParsi2.2b">škst bʾd škst ʾhrymn bʾd</ab>
+					<ab n="c" xml:id="NerSneezingParsi2.2c">škst bʾd škst ʾhrymn bʾd</ab>
+			</div>
+			<div type="IntroductoryPrayerStanza" xml:id="NerSneezingParsi2.3">
+                    <ab n="a" xml:id="NerSneezingParsi2.3a">ʾwrmzd blnd ʾfzwn bʾd</ab>
+			</div>
+			<div type="IntroductoryPrayerStanza" xml:id="NerSneezingParsi2.4">
+                    <ab n="a" xml:id="NerSneezingParsi2.4a">šʾd bym</ab>
+					<ab n="b" xml:id="NerSneezingParsi2.4b">šʾd wh ʾšw bym</ab>
+					<ab n="c" xml:id="NerSneezingParsi2.4c">dyrgʾh bmʾny</ab>
+					<ab n="d" xml:id="NerSneezingParsi2.4d">bʾqy bʾšy</ab>
+					<ab n="e" xml:id="NerSneezingParsi2.4e">tʾ ʾyn drǧ ʾǧ tn mʾ šksth dʾry</ab>
+			</div>
+			<div type="IntroductoryPrayerStanza" xml:id="NerSneezingParsi3.1">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+            </div>
+		</div>
+</div>

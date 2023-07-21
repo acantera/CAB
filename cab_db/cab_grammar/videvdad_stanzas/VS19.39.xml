@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VS19.39" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VS19.39">
+      <include href="/db/apps/cab_db/cab_rituals/fragards/FragardVidevdad" xpointer="V19.39"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab><em>cistōiš vaŋhuiiā̊</em> = Yt11.26; ~ Y36.4, VrS65.29, VrS80.4 <em>vaŋhuiiā̊ ϑβā cistōiš</em>; ~ VrS11.34 <em>vaŋᵛhīmca cistīm</em>.</ab>
+      <ab><em>yimāi xšaētāi huuąϑβāi</em> ~ Y9.4, VS2.20, Yt5.25, Yt17.28, Yt19.34 <em>yīmō xšaētō huuąϑβō</em>; ~ Yt19.31 <em>yiməm xšaētəm huuąϑβəm</em>; 
+         ~ Y9.5 <em>huuąϑβō yimō</em>; ~ VS2.2 <em>yimāi srīrāi huuąϑβāi</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVS19.39"/>
+   </translation>
+</text>

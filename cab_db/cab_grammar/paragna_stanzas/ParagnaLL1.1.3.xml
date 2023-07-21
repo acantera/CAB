@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL1.1.3" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="3" xml:id="ParagnaLL1.1.3">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL1.1.3 (NP) Var. a (Ms. RJ):</ab>
+            <ab class="ab_indent">
+                va mašrabe-ye āb bar dāštan va āb az mašrabe-ye bozorg be mašrabe-ye ḫord riḫtan tā porr šawad tā yek-pāre niz foru rizad va digar bāre <em>xšnaoθra ahurahe mazdā̊ aṣ̌əm vohū</em> 
+                yek ḫāndan va se bār āb az mašrabe-ye bozorg dar mašrabe-ye ḫord riḫtan va niku āb rā ehtyāṭ yek zarre az mašrabe-ye ḫord dar mašrabe-ye bozorg riḫtan bār-e awwal be-wāǧ goftan 
+                ke yōzdās̱are zarre farākard va bār-e dowwom be-wāǧ guftan ke yōzdās̱are zarre-ye varkaš bār-e seiwom be-wāǧ guftan ke yōzdās̱are zarre-ye puiti harwisb minuy-e ardvīsūr āb-e 
+                pāk-e yōzdās̱are pas in-rā āb-e pādyāvi guyand pas har do dast barsom-čin b-ān āb šostan yek šāḫ-e barsom be-dast-e rāst be-gereftan va sar-aš be-daste-čab va barsom-čin be-gereftan
+                va se bār namāz bordan pas <em>xšnaoθra ahurahe mazdā̊ aṣ̌əm vohū</em> se</ab> 
+            <ab class="ab_indent">
+                "He should raise the vessel for the water and pour the water from the big vessel into the small one until it is full and and a bit of water overflows."Then he should recite 
+                <em>xšnaoθra ahurahe mazdā̊</em> (ParagnaLL1.1.3) and one <em>Aṣ̌əm Vohū</em> (ParagnaLL1.1.4). He should pour three times water from the big vessel into the small
+                vessel and then a bit of water from the small vessel into the big vessel as a reserve. The first time while whispering: <em>yōzdās̱are zereh-ye farākard</em>. The second time 
+                while whispering: <em>yōzdās̱are zereh-ye vurkaš</em>. The third time while whispering: <em>yōzdās̱are zereh-ye puiti harvisb minuy-e arvīsūr āb-e pāk-e yōzdās̱are</em>. 
+                Then, they determine it as pure water (<em>āb-e pādyāvi</em>). Afterwards, he should wash his two hands and the <em>barsom-čin</em> with this water, take a branch of
+                the <em>barsom</em> with the right hand and take its end and the <em>barsom-čin</em> with the left hand. He should bring <em>namāz</em> three times and recite 
+                then <em>xšnaoθra ahurahe mazdā̊</em> and three <em>Aṣ̌əm Vohū</em>."</ab>        
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL1.1.3"/>
+    </translation>
+</text>

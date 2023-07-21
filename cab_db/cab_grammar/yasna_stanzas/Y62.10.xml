@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y62.10" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y62.10">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY62.10"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Quotations id="ritualQuotations">
+         <ab>Revayat of Kāvus Kāmdin (MU1, pp. 506-507):</ab>
+         <ab class="ab_indent">(Pers.) porseš inke dah ruz-e farvardiyān ce ciz rasm mikonand avval-e aršesang ruz-e māh-e esfandārmaẕ tā ḥad-e ruz-e ḫurdād māh-e farvārdin</ab>
+         <ab class="ab_indent">"Question: During the ten days of Frawardigān, which usages do you observe? (From) the first day Aršhesang of the month Spandarmad, to the day Xordād of the month Frawardin.</ab>
+         <ab class="ab_indent">(Pers.) pāsoḫ ānke az avval-e ruz-e āstād yazešn-e faravahr-e ašavān kardim va zamāni ke ātaš niyāyeš beǧāy ḫᵛāndim
+            <em>frauuarāne</em> (SupplYĀbZ1) (Paz.) gāh rā (Per.) ḫᵛāndim <em>ahurahe mazdā̊ raēuuatō x́arənaŋhatō aməṣ̌ną̇m spəṇtaną̇m</em> (Pahl.) OD <em>ẏaϑā ahū vairiiō zaotā frāmē marūtē</em> (Per.) rāspi
+            <em>ẏaϑā ahū vairiiō ẏō zaotā frā.mē marūtē</em> (Per.) goftan <em>ahurəm mazdą̇m raēuuṇtəm x́arənaŋhuuṇtəm ẏaz.</em> (SupplYĀbZ2) <em>aṣ̌ā̊ną̇m vaŋhuīš sūrā̊ spə̄ṇtā̊ frauuaṣ̌iiō ẏaz. ẏā vīsāt̰</em> (SupplYĀbZ3) (Pahl.) OD (Paz.) tā <em>y.</em>
+            (Per.) beḫᵛānand (Paz.) aēsmabōī nuhtāk (Per.) har yek be <em>gumata jasta vastaruuata asnāsnəmaŋha</em> (SupplYĀbZ4-6) (Pers.) har yek esm-o buy dar ātaš benahand dar inǧāy va panǧ ruz-e farvārdiyān yazešn-e ašavān faravahr mikonand 
+            va digar yazešthāy be minovān kardan.</ab>
+         <ab class="ab_indent">Answer: From the first day Āstād we celebrate a Yasna to the Frawahr of the righteous and at the moment of the Ātaš Neyayešn at its place we recite: <em>frauuarāne</em> (SupplYĀbZ1), (then) we recite the <em>gāh</em>
+            (and) <em>ahurahe mazdā̊ raēuuatō x́arənaŋhatō aməṣ̌ną̇m spəṇtaną̇m</em> until <em>ẏaϑā ahū vairiiō zaotā frāmē marūtē</em> (and then) the <em>rāspī</em> must say <em>ẏaϑā ahū vairiiō ẏō zaotā frā.mē marūtē</em>.
+            (Then) we read <em>ahurəm mazdą̇m raēuuṇtəm x́arənaŋhuuṇtəm ẏaz.</em> (SupplYĀbZ2) <em>aṣ̌ā̊ną̇m vaŋhuīš sūrā̊ spə̄ṇtā̊ frauuaṣ̌iiō ẏaz. ẏā vīsāt̰</em> (SupplYĀbZ3) until <em>y.</em> and nine pieces of <em>ēsm</em> and <em>bōy</em> at each
+            <em>gumata jasta vastaruuata asnāsnəmaŋha</em> (SupplYĀbZ4-6) once each time of <em>ēsm</em> and <em>bōy</em> must be placed at the fire. During the five days of the Frawardigān we perform the Yasna to the Frawahr of the righteous
+            and we celebrate other Yasna to the spiritual beings.</ab>
+         <ab>From "the book of Avesta and Zand" (MU1, pp. 351):</ab>
+         <ab class="ab_indent">(Per.) az ketāb-e avestā va zand māh espandārmaẕ ruz-e āstād māci rā hurak guyand az avval yazešn-e faravahr-e ašavān kardan va zamāni ātaš niyāyeš beǧāy ḫᵛāndan pas har do hirbad āfringān-e ardāfaravāš ḫᵛāndan 
+            va esm va buy bar ātaš nahādan va har yek be <em>gaomata jasta vastaruuata as nāisnəmaŋha</em> har yek beʾin soḫan esm va buy bar ātaš nahādan.</ab>
+         <ab class="ab_indent">From the book of the Avesta and the Zand: (at) the month Spandarmad, (at) the day Āstād the Māci is called Hurak. First a Yasna to the Frawahr of the righteous must be performed and the Ātaš Neyayešn must be recited
+            at its proper place. Then each of both Herbad should recite the Āfrinagān to the Ardāfrawahr and they should put <em>ēsm</em> and <em>bōy</em> over the fire. Each time at <em>gaomata jasta vastaruuata as nāisnəmaŋha</em> (SupplYĀbZ4-6) they should put the
+            <em>ēsm</em> and <em>bōy</em> over the fire.</ab>
+      </Quotations>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY62.10"/>
+      <include type="W" corresp="WTrY62.10"/>
+      <include type="K" corresp="KTrY62.10"/>
+      <include type="D" corresp="DTrY62.10"/>
+   </translation>
+</text>

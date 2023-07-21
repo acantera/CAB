@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS79.19" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VVrS79.19">
+        <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS33.23a" on_line="in1lineblock"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen19" on_line="in1line"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS33.23b" on_line="in1line"/>
+      </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>VVrS79.19 (mss. 4000, 4010, 4020, 4040, 4050, 4055, 4161, 4162):</ab>
+            <ab class="ab_indent">
+                <em>āat̰ dīš āuuaēδaiiamahi sraōšahe aṣ̌iiehe taxmahe tanu.mąϑrahe darši.draōš āhūiriiehe yasnāica vaɱāica xšnaōϑrāica frasastaiiaēca āat̰ dīš</em> ka xšnūman srōš nē bēd ān ī
+                bēd guftan</ab>
+            <ab class="ab_indent">
+                "<em>āat̰ dīš āuuaēδaiiamahi sraōšahe aṣ̌iiehe taxmahe tanu.mąϑrahe darši.draōš āhūiriiehe yasnāica vaɱāica xšnaōϑrāica frasastaiiaēca</em>. If the <em>šnūman</em> is not
+                for Srōš, then they should recite the corresponding one."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrVVrS79.19"/>
+    </translation>
+</text>

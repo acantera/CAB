@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y61.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y61.1">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY61.1"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>Y61.1-5 = Y72.1-5.</ab>
+      <ab>Y61.1 = Y72.1.</ab>
+      <ab><em>yeŋ́hē.hātąmca hufrāiiaštąm</em> ~ VrS2.14, VrS17.13, VrS77.13 <em>yeŋ́hē.hātąm hufrāiiaštąm</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY61.1"/>
+      <include type="W" corresp="WTrY61.1"/>
+      <include type="K" corresp="KTrY61.1"/>
+      <include type="D" corresp="DTrY61.1"/>
+   </translation>
+</text>

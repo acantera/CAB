@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y4.4" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y4.4">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY4.4"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y4.2.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>Y4.4 = Y24.9, VrS79.4.</ab>
+      <ab><em>aməṣ̌aēibiiō spəṇtaēibiiō huxšaϑraēibiiō huδā̊biiō yauuaējibiiō yauuaēsubiiō yōi vaŋhə̄uš ā manaŋhō š́iieiṇti yā̊sca uiti</em> = VrS24.7, VrS24.12; ~ Y39.3 <em>spəṇtə̄ṇg aməṣ̌ə̄ṇg yauuaējiiō yauuaēsuuō yōi vaŋhə̄uš ā manaŋhō š́iieiṇtī yā̊scā ūitī</em>.</ab>
+      <ab><em>aməṣ̌aēibiiō spəṇtaēibiiō huxšaϑraēibiiō huδā̊biiō yauuaējibiiō yauuaēsubiiō</em> = VrS27.12.</ab>
+      <ab><em>aməṣ̌aēibiiō spəṇtaēibiiō huxšaϑraēibiiō huδā̊biiō</em> = VrS19.1, VrS89.25;  ~ Y4.26, Y6.1, Y13.4, Y14.2, Y17.1, Y25.1, Y35.1, Y58.5, Y59.1, Y63.6, VrS14.4, VrS28.1, VrS65.15, VrS79.26, VrS81.1, VrS87.7, VrS89.25 <em>aməṣ̌ā spəṇtā huxšaϑra huδā̊ŋhō</em>; 
+        ~ Y70.1 <em>aməṣ̌ə̄ spəṇtə̄ huxšaϑrə̄ huδā̊ŋhō</em>; ~ Y56.3, Y56.4, Y65.17, Y65.18, VrS89.17, VrS89.20 <em>aməṣ̌anąmcā spəṇtanąm huxšaϑranąm huδā̊ŋhąm</em>; ~ Y65.12, Y65.13, VrS27.12 <em>aməṣ̌ā̊ spəṇta huxšaϑra huδā̊ŋhō</em>.</ab>
+      <ab><em>yauuaējibiiō yauuaēsubiiō</em> ~ Yt19.11 (<em>uγrəm kauuēm xᵛarənō</em>) <em>yauuaējīm yauuaēsūm</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY4.4"/>
+       <include type="W" corresp="WTrY4.4"/>
+        <include type="K" corresp="KTrY4.4"/>
+        <include type="D" corresp="DTrY4.4"/>
+    </translation>
+</text>

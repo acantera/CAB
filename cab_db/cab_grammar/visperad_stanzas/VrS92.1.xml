@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS92.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS92.1">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS92.1NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY68.1"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS92.1 Var.c (ms. 2007):</ab>
+         <ab class="ab_indent">
+            <em>aētat̰ tē</em> zōhr čahār angust az āb ul dārišn ud āb abar hāwan kunišn</ab> 
+         <ab class="ab_indent">
+            "At <em>aētat̰ tē</em>, he has to hold the <em>zōhr</em> four fingers away from water and pour water into the <em>hāwan</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS92.1"/>
+   </translation>
+</text>

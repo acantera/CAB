@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS17.14" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS17.14">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS7.7"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. VrS17.3.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>VrS17.14c <em>ahumaca ratumaca</em>] Kellens; Geldner <em>ahūmca ratūmca</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS17.14 = VrS77.14; ≈ VrS1.13, VrS2.15, VrS25.15, VrS27.31, VrS90.15.</ab>
+      <ab><em>ahuməṇtəm ratuməṇtəm aṣ̌auuanəm aṣ̌ahe ratūm yazamaide hō.zī. asti ahūmaca ratūmaca yō ahurō mazdā̊</em> ~ VrS41.4 <em>ahuməṇtəm ratuməṇtəm aṣ̌auuanəm aṣ̌ahe ratūm yazamaide hō.zī asti ahūmaca ratūmaca yō ahurō mazdā̊</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS17.14"/>
+   </translation>
+</text>

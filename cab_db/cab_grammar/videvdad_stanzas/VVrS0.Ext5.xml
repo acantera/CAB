@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS0.Ext5" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+        <approved/>
+        <updated/>
+    </header>
+    <div xml:id="VVrS0.Ext5">
+         <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV2" times="1"/>
+      </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>zōt: vid. Y0.1.</div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <RecitationInstruction/>
+        <Commentary>
+            <ab><em>aṣ̌əm. vohū.</em>] 4075; add (NP.) <em>ḫošnud bevāǧ ḫāndan
+                ḫošnudi-ye dādār urmazd-e rāyumand-e ḫorumand beḫošnudi-e urmazd avāe gāh-e se dey
+                visfi šām beḫošnudi-ye vahman o māh o guš o rām beḫošnudi-ye ordibehešt o boland o
+                ādār o soruš o varahrām izad-e firuzgar beḫošnudi-ye šahrivar o ḫir o mehr o āsmān o
+                anārām anaġri rošan o gāh-e ḫodā beḫošnudi-ye sefandārmazd o ābān o din o ard o
+                māntre sfand beḫošnudi-ye ḫordād o teštar o bād o farvardin beḫošnudi-ye amordād o
+                rašn o aštād o ḏāmyād beḫošnudi-ye ruri ke bid bāyad goftan beḫošnudi-ye hamā-ʾe
+                amšāsfandān-e firuzgar</em> 4075.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrVVrS0.Ext5"/>
+    </translation>
+</text>

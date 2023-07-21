@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y4.17" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y4.17">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY4.16b" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RozGen" xpointer="RozGen1" on_line="in1line"/>
+      <!-- All days possible -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY4.16c" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY4.16d" on_line="in1lineblock"/>
+      <!-- Eliminate when Gatha days -->
+      <include href="/db/apps/cab_db/cab_rituals/blocks/MahGen" xpointer="MahGen1" on_line="in1line"/>
+      <!-- All months possible -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY4.16e" on_line="in1line"/>
+      <!-- Eliminate when Gatha days -->
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y4.9.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>āat̰ dīš āuuaēδaiiamahi ...</em>] <em>āat̰ dīš āuuaēδaiimahi</em> YWM W BYRH gwptn' 5, 88; YWM W BYRH ZK gwptn' 15; <em>āat̰ dīš</em> YWM W BYRH 60. 400, 410, 500, 510 do not abbreviate.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>Y4.17 = Y24.22, VrS79.17; ≈ Y1.12, Y2.12, Y3.14, Y6.11, Y7.15, Y17.11, Y22.15, Y59.11, Y66.12, VrS78.24, VrS81.11, VrS82.12, VVrS14.10.</ab>
+      <ab><em>raēuuatō xᵛarənaŋᵛhatō</em> = Y1.11, Y3.13, Y4.7, Y4.16, Y7.14, Y16.3, Y17.10, Y22.2, Y22.14, Y24.12, Y24.21, Y59.10, Y66.11.</ab>
+   </Parallels>
+   <Ritual>
+      <Quotations id="ritualQuotations">
+      <ab><ab>Revāyat of Kama Bohra (MU1, p. 457) on the Yašt ī <em>gāϑābiiō</em>:</ab>
+         <ab class="ab_indent">(Pers.) <em>āat̰ dīš āuuaēδaiiae.mahi.</em> negāh ruz māh <em>gāϑābiiō spəṇtābiiō. ratuxṣ̌aϑrābiiō. aṣ̌aōnebiiō. y. v. x. f. āat̰. ahunuuaitiiā̊. gāϑiiā̊. y. v. x. f.</em>.</ab>
+         <ab class="ab_indent">(Pers.) "<em>āat̰ dīš āuuaēδaiiae.mahi.</em> (and then) he should consider the day and month (and recite): <em>gāϑābiiō spəṇtābiiō. ratuxṣ̌aϑrābiiō. aṣ̌aōnebiiō. y. v. x. f. āat̰. ahunuuaitiiā̊. gāϑiiā̊. y. v. x. f.</em>".</ab>
+      </ab>
+      </Quotations>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY4.17"/>
+
+   <include type="W" corresp="WTrY4.16b"/>
+        <include type="K" corresp="KTrY4.16b"/>
+        <include type="D" corresp="DTrY4.16b"/>
+    </translation>
+</text>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS6.6" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y6.11" xml:id="VVrS6.6">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RozAcc" xpointer="RozAcc1" on_line="in1lineblock"/>
+      <!-- All possible -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY6.3c" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/MahAcc" xpointer="MahAcc1" on_line="in1lineblock"/>
+      <!-- All possible -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY6.3d" on_line="in1line"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid VVrS5.1.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>      
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>... yazamaide</em>] YWM W BYRH gwptn' 4000, 4030, 4045, 4050; YWM W BYRH ZKš ḆYN YKOYMWNyt (4010 post. c., 4020, 4025, 4161, 4162 YKOYMWNd) gwptn' 4010, 4020, 4025, 4040, 4161, 4162; YWM W BYRH 4075.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation/>
+</text>

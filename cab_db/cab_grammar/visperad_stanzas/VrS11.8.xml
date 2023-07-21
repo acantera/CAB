@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS11.8" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y11.8" xml:id="VrS11.8">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY11.8"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: mss. 2030, 2040, 2101, 2109.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>āat̰ aōxta zaraϑuštrō...</em>] ẔNE gywʾk' lʾspykLWTE zwt' BRA gwbšn' <em>āat̰ aōxta zaraϑuštrō</em> 2030, 2101; lʾspyk LWTE zwt' BRA gwbšn' YMRWN-d krtn' <em>āat̰ aōxta zaraϑuštrō</em> 2040; (Pers.) har do ḫvāndan <em>āat̰ aōxta zaraϑuštrō</em> 2109.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS11.8"/>
+   </translation>
+</text>

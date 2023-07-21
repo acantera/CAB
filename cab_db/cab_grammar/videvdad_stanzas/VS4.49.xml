@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VS4.49" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VS4.49">
+      <include href="/db/apps/cab_db/cab_rituals/fragards/FragardVidevdad" xpointer="V4.49"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab><em>aṣ̌əmaōγəm anaṣ̌auuanəm</em> = Yt15.51; ~ Y16.8, Y61.4 <em>aṣ̌əmaōγaheca anaṣ̌aōnō</em>; ~ Y9.31 <em>aṣ̌əmaōγahe anaṣ̌aōnō</em>; ~ Yt13.105 <em>aṣ̌əmaōγanąm anaṣ̌aōnąm</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVS4.49"/>
+   </translation>
+</text>

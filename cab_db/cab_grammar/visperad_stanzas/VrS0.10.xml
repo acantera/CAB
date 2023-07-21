@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS0.10" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS0.10">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP4"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>zōt ud rāspīg: vid. Y0.10.</div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab><em>raϑβō. ... raϑβō.</em> (<em>šnūman</em>)] vid. Nērang; abbv. 2220.</ab>
+         <ab><em>maiδiiōizarəmaiiehe. ... frasastaiiaēca.</em>] zō. ghm.bār. ardī.bhə̄št. mhānā. huitu. <em>maiδiiō.zarəmaiiehe. raϑβō. x. v. x. f.</em> phariia. zō. gahm. bār. tīr. mhānā. huitu. <em>maiδiiō.šəmahe. raϑβō. x. y. v. x. f.</em>
+            phariia. zō. g ahm. bār. šharə̄. var. mhānā. huitu. <em>maiδiiō. (del. man.) paitiš.hahiiehe. raϑβō. x. y. v. x. f.</em> phariia. zō. gahm. bār. maihar. mhānā. huitu. <em>aiiāϑrəmahe. raϑβō. x. y. v. x. f.</em> 
+            phariia.zō. gahm. bār. di. mhānā. huitu. <em>maiδiiā.riiehe. raϑβō. x. y. v. x. f.</em> phariia. zō. gahm. bār. gāϑānā. huiti. <em>hamaspaϑmaēδaiiehe. raϑβō. x. y. v. x. f.</em> 2230</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS0.10 šnūman Var. a (mss. 2007, 2010):</ab>
+         <ab class="indent">
+            agar xšnūman ī gāhānbār bēd . : <em>raϑβō bərəzatō yō aṣ̌ahe raϑβąm aiiaranąmca asniianąmca māhiianąmca yāiriianąmca sarəδanąmca raϑβąm vīspe mazištanąm yōi həṇti aṣ̌ahe
+            ratauuō hāuuanūm paiti ratūm maiδiiōizarəmiie raϑβō</em> ayāb ān gāh kē bawēd guftan <em>xšnaōϑra yasnāica vahmāica xšnōϑrāica frasastaiiaēca</em> agar xšnūman srōš 
+            bēd  . : <em>sraōšahe aṣ̌iiehe taxmahe tanumąrahe darši.draōš ahūiriiehe xšnaōϑra</em> . : tā sar ud agar xšnūman ardā fraward bēd <em>ahurahe mazdā̊ raēuuatō xᵛarənaŋhatō
+               aməṣ̌anąm spəṇtanąm aṣ̌aōnąm frauuašinąm uγranąm aiβiϑūranąm paōiriiō.t̰kaēšanąm frauuaṣ̌inąm nabānazdištanąm frauuaṣ̌inąm xšnaōϑra yasnāica</em> OD <em>frasastaiiaēca</em> </ab>
+         <ab class="indent">
+            "If it is the <em>šnūman</em> of the <em>gāhānbār</em>. : <em>raϑβō bərəzatō yō aṣ̌ahe raϑβąm aiiaranąmca asniianąmca māhiianąmca yāiriianąmca sarəδanąmca raϑβąm vīspe
+             mazištanąm yōi həṇti aṣ̌ahe ratauuō hāuuanūm paiti ratūm maiδiiōizarəmiie raϑβō</em> (or he should say the corresponding gāh) <em>xšnaōϑra yasnāica vahmāica xšnōϑrāica 
+             frasastaiiaēca</em> If it is the <em>šnūman</em> for Srōš : <em>sraōšahe aṣ̌iiehe taxmahe tanumąrahe darši.draōš ahūiriiehe xšnaōϑra</em> up to the end. If it is the <em>šnūman</em> 
+            for Ardā Fraward : <em>ahurahe mazdā̊ raēuuatō xᵛarənaŋhatō aməṣ̌anąm spəṇtanąm aṣ̌aōnąm frauuašinąm uγranąm aiβiϑūranąm paōiriiō.t̰kaēšanąm frauuaṣ̌inąm nabānazdištanąm 
+            frauuaṣ̌inąm xšnaōϑra yasnāica</em> up to <em>frasastaiiaēca</em>."</ab>
+         <ab>VrS0.10 šnūman Var. b (mss. 2030, 2070, 2101):</ab>
+         <ab class="indent">
+            agar yazišn gāhānbār bēd <em>raϑβō bərəzatō yō aṣ̌ahe raϑβąm aiiaranąmca</em> tā <em>sarəδanąmca raϑβąm vīspe mazištanąm yōi həṇti
+            aṣ̌ahe ratauuō hāuuanīm paiti ratīm maiδiiōi.zarəmiiehe raϑβō</em> ayāb ān gāh bēd abāyēd guftan <em>xšnaōϑra yasnāica v. x. f.</em> agar xšnūman ī did bēd abāyēd guftan</ab>
+         <ab class="indent">
+            "If it is the <em>yazišn</em> of <em>gāhānbār</em>, he has to recite <em>raϑβō bərəzatō yō aṣ̌ahe raϑβąm aiiaranąmca</em> until <em>sarəδanąmca raϑβąm vīspe mazištanąm yōi həṇti
+             aṣ̌ahe ratauuō hāuuanīm paiti ratīm maiδiiōi.zarəmiiehe raϑβō</em> or the corresponding <em>gāh</em> <em>xšnaōϑra yasnāica v. x. f.</em> It the dedicatory is another one, then
+             he has to say (the corresponding one)."</ab>
+         
+         <ab>VrS0.10 šnūman Var. c (ms. 2065):</ab>
+         <ab class="indent">
+            šnūman ān ī bawēd wizārišnīh ud ka šnūman ī gāhānbār <em>raϑβą̇m aiiaraną̇mca asniianą̇mca māhiianą̇mca yāiriianą̇mca sarəδaną̇m y. v. x. f. raϑβō barəzatō ẏōi
+            ašahe raϑβą̇m aiiaraną̇mca asniianą̇mca māhiianą̇mca yāiriianą̇mca sarəδaną̇mca vīspe mazištaną̇m ẏōi həṇti aṣ̌ahe ratuuō hāuuanīm paiti ratūm maiδiiōizarəmiiahe raϑβō xšnaoϑra ẏasnāica</em> 
+            OD ka gāhą̇mbār <em>maiδiiōšmahe raϑβō</em> har gāhą̇mbār. ki. bāšat̰. ą̇n.bāiiat̰. guftan. cū. ẏašt auuayət̰. xą̇ndən. tā <em>v. x. f.</em> ayāb ān gāh kē bēd</ab>
+         <ab class="indent">
+            "Perfomance of the corresponding <em>šnūman</em>. If it is the <em>šnūman ī gāhānbār</em> <em>raϑβą̇m aiiaraną̇mca asniianą̇mca māhiianą̇mca yāiriianą̇mca sarəδaną̇m y. v. x. f. raϑβō barəzatō ẏōi
+            ašahe raϑβą̇m aiiaraną̇mca asniianą̇mca māhiianą̇mca yāiriianą̇mca sarəδaną̇mca vīspe mazištaną̇m ẏōi həṇti aṣ̌ahe ratuuō hāuuanīm paiti ratūm maiδiiōizarəmiiahe raϑβō. xšnaoϑra. ẏasnāica.</em> 
+            when it is then <em>gāhānbār</em> <em>maiδiiōšmahe raϑβō</em>. 
+            He has to say here the corresponding <em>gāhānbār</em> until <em>v. x. f.</em> depending the <em>yašt</em> he must perform."</ab>
+      </Nerangs>
+      <Quotations id="ritualQuotations">         
+         <ab>Revāyat of Kāmdin Šapur (MU1, p. 447), on the Visperad ī Gahānbār:</ab>
+            <ab class="ab_indent">(Pers.) bevāǧ gereftan con <em>raϑβą̇m</em> tamām ḫᵛānand pas <em>raϑβō bərəzatō ẏō aṣ̌ahe raϑβą̇m 
+               aiiaraną̇mca asniianą̇mca māhīaną̇mca ẏāriianą̇mca sarəδaną̇mca raϑβą̇m vīspa mazištaną̇m ẏōi həṇti aṣ̌ahe 
+               ratauuō hāuuanīm paitiratūm maidiiōi.zaramiie raϑβō xšnaoϑra ẏasnāica</em> ke gahanbār midyošahm bāšad 
+               <em>maidiiō.ṣ̌amahe raϑβō</em> har gahanbār ke bāšad ān bāyad goftan con yašt āvāyad ḫᵛāndan tā  <em>hiiat̰ vasnā fraṣ̌nō</em> (VrS0.12).</ab>
+            <ab class="ab_indent">"At the taking of the <em>wāz</em>, after they recite completely <em>raϑβą̇m</em> then (they should recite) <em>raϑβō bərəzatō 
+               ẏō aṣ̌ahe raϑβą̇m aiiaraną̇mca asniianą̇mca māhīaną̇mca ẏāriianą̇mca sarəδaną̇mca raϑβą̇m vīspa mazištaną̇m ẏōi həṇti 
+               aṣ̌ahe ratauuō hāuuanīm paitiratūm maidiiōi.zaramiie raϑβō xšnaoϑra ẏasnāica.</em> If it is during the <em>gahānbār ī
+                  maiδiiōišəma</em>, (he should recite) <em>maidiiō.ṣ̌amahe raϑβō</em>. At each <em>gahānbār</em> that should be,
+               they should recite as it has to be recited in the Yasna until <Av>hiiat̰ vasnā fraṣ̌nō</Av> (VrS0.12)."</ab>
+         
+         <ab>On the Panji, Yašt-ī Gahānbār, Yašt-ī Gāϑābiiō:</ab>
+         <ab><ab>Revāyat of Kama Bohra (MU1, p. 453):</ab>
+            <ab class="ab_indent"><em>frauuarāne mazdaiiasnō zaraϑuštarəš vīdaēuuō ahura.t̰kaēšō hāuuanə̄ē aṣ̌ahe raϑβe ẏ. v. x. f. 
+               sāuuaŋhə̄ē vīsīāica aṣ̌aone aṣ̌ahe raϑβe ẏ. v. x. f. raϑβąm aiiar.nąmca</em> (Pahl.) OD. <em>sarəδaną̇mca ẏ. v. x. f. raϑβō 
+                  bərəzatō ẏō aṣ̌ahe raϑβą̇m aiiaraną̇mca</em> (Pahl.) OD. (Pers.) tā <em>sarəδaną̇mca raϑβą̇m vīspe mazištaną̇m ẏō həṇti 
+                     aṣ̌ahe ratauuō hāuuanīm paiti ratūm hamaspaϑamaēdiiehe raϑβō xšnaoϑra. ẏ. v. x. f.</em> (Pahl.) zwt (Pers.) zud <em>ẏaϑā 
+                        ahū vairiiō zaotā frāmē marūtē</em> (Pers) rāspi <em>ẏaϑā ahū vairiiō ẏō zaotā frāmē marūtē</em> (Pahl.) zwt (Pers.) zud 
+               <em>aϑā ratuš</em> kardan</ab>
+            <ab class="ab_indent"><em>frauuarāne mazdaiiasnō zaraϑuštarəš vīdaēuuō ahura.t̰kaēšō hāuuanə̄ē aṣ̌ahe raϑβe ẏ. v. x. f. 
+               sāuuaŋhə̄ē vīsīāica aṣ̌aone aṣ̌ahe raϑβe ẏ. v. x. f. raϑβąm aiiar.nąmca</em> until <em>sarəδaną̇mca ẏ. v. x. f. raϑβō 
+                  bərəzatō ẏō aṣ̌ahe raϑβą̇m aiiaraną̇mca</em> until <em>sarəδaną̇mca raϑβą̇m vīspe mazištaną̇m ẏō həṇti 
+                     aṣ̌ahe ratauuō hāuuanīm paiti ratūm hamaspaϑamaēdiiehe raϑβō xšnaoϑra. ẏ. v. x. f.</em>. (Then) the <em>zōt</em>
+               <em>ẏaϑā ahū vairiiō zaotā frāmē marūtē</em>, the <em>rāspi</em> <em>ẏaϑā ahū vairiiō ẏō zaotā frāmē marūtē</em>
+               and the <em>zōt</em> has to perform the <em>aϑā ratuš</em>.</ab> </ab> --&gt;
+         
+      </Quotations>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS0.10"/>
+   </translation>
+</text>

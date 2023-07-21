@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS31.14" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VrS31.14">
+            <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS31.14NerangTransc.a"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS16.8"/>
+            </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Vid. VrS31.11</ab>
+        </Nerangs>
+    <ab>~Y27.8</ab>
+    <Quotations id="ritualQuotations">
+    <ab>Cf. N28.47e:</ab>
+    <ab>
+            <em>pad</em> aθā zī nī humaiiōtara aŋhən <em> be war ī zōhrag barišn ud pad zōhrag dārišn</em>
+        </ab>
+    <ab>At <em>aθā zī nī humaiiōtara aŋhən</em> he has to bring (the <em>hōm</em> and <em>urwarām</em>) towards the <em>zōhrag</em> and hold them with the <em>zōhrag</em> (cf. <bibl>Kotwal and Kreyenbroek, 2003</bibl>: p. 106 and 109)</ab>
+    </Quotations>
+     </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrVrS31.14"/>
+    </translation>
+</text>

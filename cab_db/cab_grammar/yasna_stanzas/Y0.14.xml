@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y0.14" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y0.14">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y0.14NerangTransc.a"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>zōt ud rāspīg: Kotwal und Boyd; zōt: Anklesaria.</div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <RecitationInstruction>
+         <ab><em>yaϑā. ahū. vairiiō. </em> IV gwptn'] <em>ẏaϑā. ahū. vairiiō. aϑā. ratuš. aṣ̌āt̰.cīt̰. haca. vaŋhə̄uš. dazdā. manaŋhō. š́iiaoϑə̄naną̇m. aŋhə̄uš. mazdāi. xšaϑrəmcāi. ahurāi.ā. īm. darəγubiiō. daδat̰. vāstārəm.</em> wycyst ctlwšmlwtyk gwbšn 400, ,410;
+            <em>ẏaϑā. ahū. vairiiō. aϑā. ratuš. aṣ̌āt̰.cīt̰. haca. vaŋhə̄uš. dazdā. manaŋhō. š́iiaoϑə̄naną̇m. aŋhə̄uš. mazdāi. xšaϑrəmcāi. ahurāi.ā. īm. darəγubiiō. daδat̰. vāstārəm.</em> 500, 510.</ab> 
+         <ab>IV gwptn'] 5, 40; IV 60.</ab>
+      </RecitationInstruction>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y0.14 Var. a (mss. 6, 40, 82, 400, 410): </ab>
+         <ab class="ab_indent">
+            <em>yaϑā ahū vairiiō</em> čahār guftan pad <em>š́iiaoθənanąm</em> sāzišn ud zōhr hamāg xūb bē nigerišn</ab>
+         <ab class="ab_indent">
+            "He should recite four <em>yaθā ahū vairiiō</em>. At <em>š́iiaoθənanąm</em>, he has to inspect carefully all the implements and the <em>zōhr</em>."</ab>
+         <ab>Y0.14 Var. b (mss. 5, 15, 5020):</ab>
+         <ab class="ab_indent">
+            <em>yaϑā ahū vairiiō</em> čahār guftan pad har <em>š́iiaōϑənanąm</em> rāspīg ēsm ud bōy ēk tāg bar ātaxš nihādan</ab>
+         <ab class="ab_indent">
+            "He should recite four <em>yaθā ahū vairiiō</em> At each <em>š́iiaōϑənanąm</em>, the <em>rāspīg</em> should put a piece of <em>ēsm</em> and <em>bōy</em> in the fire."</ab>
+      </Nerangs>
+      <Quotations id="ritualQuotations"/>
+      <ModernPractice id="ritualModernPractice">
+         <ab><bibl>Redard and Daruwalla, 2021</bibl>: p. 76:</ab>
+         <ab>"After having recited the last <em>Ahuna Vairiia</em>, he recites <em>daδat̰ vāstārəm</em> three times. And while reciting that, the chief priest circles the bundle with both hands over the moon-shaped stands."</ab>
+      </ModernPractice>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY0.14"/>
+      <include type="W" corresp="WTrY0.15"/>
+      <include type="K" corresp="KTrY0.1"/>
+      <include type="D" corresp="DTrY0.15"/>
+   </translation>
+</text>

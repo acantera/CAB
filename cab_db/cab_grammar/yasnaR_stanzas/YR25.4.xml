@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR25.4" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y25.4" xml:id="YR25.4">
+        <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanAcc" xpointer="ShnumanAcc39"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR26.1"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: Šnūman; zōt: YR25.4a-b. Vid. Y25.4.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab>YR25.4a <em>staōmi zbaiiemi ...</em>] <em>staomi zbaiiemi</em> OD <em>tā̊scā yaz.</em> (YR26.11) 320.</ab>
+            <ab>YR25.4b <em>yazamaide nmāńiiā̊</em> ...] <em>y.</em> OD <em>vīspā̊ f. aṣ̌aōnąm</em> (YR26.10) 300; <em> ẏ.</em> OD <em>tā̊scā ẏaz.</em> (YR26.11) 350; <em>yaz.</em> OD <em>vīspā̊ frauuašaiiō</em> (YR26.10) 360;
+                <em>y.</em> OD OL Y <em>vīspā̊ frauuašaiiō</em> (YR26.10) 370.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrYR25.4"/>
+    </translation>
+</text>

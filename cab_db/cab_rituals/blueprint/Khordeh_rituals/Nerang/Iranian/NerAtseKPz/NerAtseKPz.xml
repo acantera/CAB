@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+        <div type="IntroductoryPrayer" xml:id="NerSneezingPazand"> <!-- vide: Antia 1909, p. 197.8-13 --> <!-- The text should be recited 3 times -->
+			<div type="IntroductoryPrayerStanza" xml:id="NerSneezingPazand1.1">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+			</div>
+			<div type="IntroductoryPrayerStanza" xml:id="NerSneezingPazand1.2">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+            </div>
+			 <div type="IntroductoryPrayerStanza" xml:id="NerSneezingPazand2.1">
+                    <ab n="a" xml:id="NerSneezingPazand2.1a">šāṯ. bāṯ. ə̄zaṯ. āmaṯ.</ab>
+					<ab n="b" xml:id="NerSneezingPazand2.1b">ba. rādī. u. rāstī. har. gāh. u. har. zamąn.</ab>
+					<ab n="c" xml:id="NerSneezingPazand2.1c">darūj. tan. mā. šikastah. bāṯ.</ab>
+			</div>
+			<div type="IntroductoryPrayerStanza" xml:id="NerSneezingPazand2.2">
+                    <ab n="a" xml:id="NerSneezingPazand2.2a">u. šakist. zaṯ. bāṯ. āhārəman. gajastah.</ab> <!-- Cf. the text Nīrang-e Dast-šūy (Antia 1909, p. 175.10-13) --> 
+			</div>
+			<div type="IntroductoryPrayerStanza" xml:id="NerSneezingPazand2.3">
+                    <ab n="a" xml:id="NerSneezingPazand2.3a">u. vaij.  xarh. aβazāiiāṯ.</ab>
+					<ab n="b" xml:id="NerSneezingPazand2.3b">hōrməzda. bih. afazūnī.</ab>
+			</div>
+			<div type="IntroductoryPrayerStanza" xml:id="NerSneezingPazand2.4">
+                    <ab n="a" xml:id="NerSneezingPazand2.4a">staomi. aṣ̌əm.</ab> <!-- The sequence staomi. aṣ̌əm. - AV usually belongs to the initial frame of the XA liturgies -->
+			</div>
+			<div type="IntroductoryPrayerStanza" xml:id="NerSneezingPazand3.1">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+            </div>
+		</div>
+</div>

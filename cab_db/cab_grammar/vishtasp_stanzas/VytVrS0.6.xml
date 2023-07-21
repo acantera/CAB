@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VytVrS0.6" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VytVrS0.6" quote="Y12.2">
+        <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VytSY0.4"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>zōt ud rāspīg: vid. Y0.6.</div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <RecitationInstruction>
+            <ab><em>frastuiiē. humatōbiiascā. ...</em>] <em>frastuiie. ... aibī.gairiiā.</em> OD OL-Y <em>tanuuascīt̰. xᵛax́iiā̊. uštanəm</em> (VytVrS0.7) 5020; 
+                <em>frastuiiē.</em> bwn kwnšn' OD <em>xᵛax́iiā. uštanəm</em> (VytVrS0.7) 5010; <em>fə̄rastuiiē</em> bwn kwnšn' OD <em>x́axiiā̊. uštanəm</em> (VytVrS7) 5030.</ab> 
+        </RecitationInstruction>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrVytVrS0.6"/>
+    </translation>
+</text>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y16.3" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y16.3">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY16.3"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y16.0.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y16.3a <em>pauruuā̊ dātā̊ dāmąn aṣ̌aōnīš</em>] irr., where <em>dāmąn</em> acc. nt. pl. as fem. Cf. VrS18.4, VrS28.5, where <em>dāmąn</em> also as fem. (or also as masc.?).</ab>
+      </Commentary>
+   </Apparatus>   
+   <Parallels>
+      <ab><em>pauruuā̊ dātā̊ dāmąn aṣ̌aōnīš ... yazamaide</em> ~ VrS18.4 <em>auuā̊ dāmąn aṣ̌auuanō yazamaide yā̊ həṇti paōiriiō.dāta paōiriiō.fraϑβaršta</em>.</ab>
+      <ab><em>xšaϑrəm vairīm yazamaide</em> = VrS64.4, VrS64.7.</ab>
+      <ab><em>spəṇtąm vaŋᵛhīm ārmaitīm yazamaide</em> = VrS62.4, Vr62.6, VrS93.8, VrS93.10.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY16.3"/>
+      <include type="W" corresp="WTrY16.3"/>
+      <include type="K" corresp="KTrY16.3"/>
+      <include type="D" corresp="DTrY16.3"/>
+   </translation>
+</text>

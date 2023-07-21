@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS27.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS27.1">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS27.1NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS13.1"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y24.0, VVrS27.1.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VrS27.1b <em>yat̰ uzdātəm</em> ...] <em>yat̰ uzdātəm</em> OD <em>ratauuō mainiiauuaną̇m</em> (VrS27.25) 2065; <em>yat̰ uzdātəm</em> OD <em>asniiaēibiiō aṣ̌ahe</em> (VrS27.19) 2070.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS27 = DoHom4.</ab>
+      <ab>VrS27.1 = DoHom4.1.</ab>
+      <ab><em>vīspaiiā̊ aṣ̌aōnō stōiš</em> = Y8.11, Y11.17, Y52.5, Y52.9, Y68.20, Y68.29, Y70.6, VrS27.1, VrS82.29, VrS82.32, VrS82.34; 
+         ~ VrS11.35, VrS24.10, VrS24.12, VrS27.1, VrS27.6, VrS27.16, VrS42.8, VrS42.10, VrS65.8, VrS65.10, VrS75.8, VrS75.10, VrS79.2, VrS89.19, VrS89.21 <em>vīspaiiā̊ sącat̰ca aṣ̌aōnō stōiš</em>; 
+         ~ Y55.3 <em>vīspaiiā̊sca aṣ̌aōnō stōiš</em>; ~ Y19.9, Y35.1 <em>vīspąm aṣ̌aōnō stīm</em>.</ab>
+   </Parallels>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS27.1 Var. b (ms. 2000): </ab>
+         <ab class="ab_indent">zōt hōm ud urwarām abar griftan ud gōš bālā ul dāštan <em>ahurāi mazdāi</em>. ...</ab>
+         <ab class="ab_indent">"The zōt should take the <em>hōm</em> and <em>urwarām</em> and lift it up to the height of his ears (while reciting) <em>ahurāi mazdāi</em>"</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS27.1"/>
+   </translation>
+</text>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y68.25" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y68.25" quote="Y38.3">
+        <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY68.21d"/>
+        <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y68.22NerangTransc.d"/>
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Y68.25 (mss. 40 88 400 410 (sec. m. marg.) 2005 2007 2010 2030 2040 2101 2102 2104 2106 4000 4010 4020 4025 4060 4161 4162 5020, 4056):</ab>
+            <ab class="ab_indent">
+                <em>āpō</em> abar āb nihišn <em>at̰</em> andar rāh <em>yazamaide</em> pad war ī zōhrag</ab>   
+            <ab class="ab_indent">
+                "At <em>āpō</em>, he has to put it on the water. At <em>at̰</em>, (he has to be) on the way. At yazamaide, (he has to put it) next to the <em>zōhrag</em>."</ab>
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+            <ab>Cf. for the Āb-zōhr with Drōn Yašt N53.31c (cf. <bibl>Kotwal and Kreyenbroek,
+                2003</bibl>: pp. 256-7)</ab>
+            <ab class="ab_indent">
+                <em>āpō</em> abar ābat̰ andar rāh-ē <em>ẏazamaide</em> pad war ī zōhrag abāz ōh rēzišn
+            </ab>
+            <ab class="ab_indent">
+                "At <em>āpō</em> (he has to put it) over the water. At <em>at̰</em>, on the way. At <em>yazamaide</em> he has to pour it out again next to the <em>zōhrag</em>."</ab>
+        </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY68.25"/>
+        <include type="W" corresp="WTrY68.21c"/><include type="K" corresp="KTrY68.21c"/><include type="D" corresp="DTrY68.21c"/></translation>
+</text>

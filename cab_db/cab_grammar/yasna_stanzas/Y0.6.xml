@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y0.6" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y0.6" quote="Y12.2" headerPointer="Head0">
+        <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY0.4"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>zōt ud rāspīg: Anklesaria.</div>
+        </SpeakerInfo>
+        <Commentary>
+            <ab>Y0.6b <em>aibī.gairiiā.</em>] Geldner <em>aibigairiiā.</em></ab>
+            <ab>Y0.6c <em>paitī.riciiā</em>] Geldner <em>paitiriciiā.</em></ab>
+        </Commentary>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <RecitationInstruction>
+            <ab><em>frastuiiē. humatōbiiascā. ...</em>] <em>frastuiiē humatō.biiascā</em> OD ... <em>stōmi aṣ̌əm</em> (Y0.8) 40; <em>frəstuiiē humatōi.biiašcā</em>yāvat <em>xᵛax́iiā̊. uštanəm</em> (Y0.7) 100, 230; <em>frəstuiiē</em> ... <em>xᵛax́iiā̊ uštanəm</em> (Y0.7) 235.</ab>
+        </RecitationInstruction>
+        <Commentary/>
+    </Apparatus>
+    <Parallels>
+        <ab>Y0.6-8 = Y12.2-4.</ab>
+        <ab>Y0.6 = Y12.2.</ab>
+        <ab><em>humatōibiiascā hūxtōibiiascā huuarštōibiiascā [...] vīspā humatācā hūxtācā huuarštācā</em> ~ Y4.1, Y4.3 <em>ima humatāca hūxtāca huuarštāca</em>; ~ Y19.16 <em>humatəm hūxtəm huuarštəm</em>.</ab>
+        <ab><em>mąϑβōibiiascā vaxəδβōibiiscā varštuuōibiiascā</em> ~ VrS31.13 <em>mąϑβanąmca vaxəδβanąmca varštuuanąmca</em>.</ab>
+        <ab><em>aibī.gairiiā daiϑē vīspā humatācā hūxtācā huuarštācā paitī.riciiā daiϑē vīspā dušmatācā dužūxtācā dužuuarštācā</em> ~ Y10.16 <em>humatahe aɱi dušmatahe nōit̰ aɱi hūxtahe aɱi dužūxtahe nōit̰ aɱi huuarštahe aɱi dužuuarštahe nīt̰ aɱi</em>; ~ VrS64.6, VrS64.7, VrS71.5, VrS71.6 <em>framərəiti humatanąmca hūxtanąmca huuarštanąmca paitištātə̄e dušmatanąmca dužūxtanąmca dužuuarštanąmca</em>.</ab>
+    </Parallels>
+    <Ritual>
+        <Quotations id="ritualQuotations">
+            <ab>N28.34b-35, <bibl>Kotwal and Kreyenbroek, 2003</bibl>, pp. 90-91 (Mss. 4000, 4010, 4020, 4025, 4063):</ab>
+            <ab class="ab_indent">u-š <em>frastuiiē</em> bun bē kunišn tā <em>staōmi aṣ̌əm</em> frāz gōwišn u-š pad staōmi pāy ī dašn andar gāh ī zōtān nihišn u-š <em>aṣ̌əm vohū</em> ī 
+                dudīgar ī barsom gōwišn ast kē ēdōn gōwēd ay hād <em>staōmi aṣ̌əm</em> ka nē pad barsom gōwēd ā nē šāyēd ka-š nē ranjagīhā ā-š abestāg hamāg az pāy gōwišn ka-š be 
+                <em>vasasca tū ahura mazda</em> ud <em>aməṣ̌a spəṇta</em> ka-š ranjagīhā ēn and az pāy gōwišn bišāmrūd ud srīšāmrūt ud cahrušāmrūd ud šnūman wizārišnīh ud wāz gīrišnīh 
+                ud srōš barišnīh az yašt bun tā <em>imat̰ barəsma haδa zaōθrəm</em> az <em>ahurāi mazdāi</em> tā <em>daθušō</em> ud az <em>aētat̰ dim</em> tā ān yašt sar hādān sar hamāg 
+                tā <em>vaŋhucā vaŋhā̊scā</em> abestāg pad ranjagīhātar ka nišīnān gōwēd nē tarmenišnīhā </ab>
+            <ab class="ab_indent">
+                "He has to begin the <em>frastuiiē</em> and to recite up to <em>staōmi aṣ̌əm</em> At <em>staōmi</em>, he has to put his right food on the <em>zōtgāh</em> and recite the
+                second <em>Aṣ̌əm Vohū</em> of the <em>barsom</em>. There is one commentator who says that, if he does not recite <em>staōmi aṣ̌əm</em> in the proximity of the <em>barsom</em>, 
+                then it is not allowed."
+                "If (he can do it) without trouble, he should recite the Avestan texts standing up, except for <em>vasasca tū ahura mazda</em> and <em>aməṣ̌a spəṇta</em>. If (standing up) 
+                is troublesome for him, he should recite the following texts standing up: the passages to be recited twice, three times, and four times; the recitation of the <em>šnūman</em>s; 
+                the taking of the <em>bāj</em>; and the <em>srōš-barišnīh</em> from the beginning of the service up to <em>imat̰ barəsma haδa zaōθrəm</em>; from <em>ahurāi mazdāi</em>
+                up to <em>daθušō</em>; and from <em>aētat̰ dim</em> up to the end of that act of worship the end of the sections: all the Avestan up to <em>vaŋhucā vaŋhā̊scā</em>. If it is 
+                even more troublesome (for the priest), it is not disrespectful if he recites (everything) sitting down."</ab>
+        </Quotations>
+        <ModernPractice id="ritualModernPractice">
+            <ab><bibl>Redard and Daruwalla, 2021</bibl> p. 74:</ab>
+            <ab>"The chief priest and the assistant priest both joining the hands, putting the big
+                toe of their right foot on the big toe of the left foot, recite aloud <em>frastuiie
+                    ... aṣ̌əm vohū</em> (Y0.9)."</ab>
+        </ModernPractice>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY0.6"/>
+        <include type="W" corresp="WTrY0.4"/>
+        <include type="K" corresp="KTrY0.1"/>
+        <include type="D" corresp="DTrY0.4"/>
+    </translation>
+</text>

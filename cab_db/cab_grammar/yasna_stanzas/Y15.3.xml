@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y15.3" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y15.3">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY15.3"/>
+   </div>
+   <Speaker>
+   <SpeakerInfo>
+      <div>
+         <ab class="ab_indent">zōt ud rāspīg: vid. Y15.2.</ab>
+         <ab class="ab_indent">zōt ud rāspīg until <em>ustəməmcīt̰</em>, zōt <em>auuaϑāt̰</em>... Kotwal and Boyd.</ab>
+      </div>
+   </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>Y15.3a <em>səraōšō iδā astū</em> ...] <em>səraōšō iδā astū</em> OD LOYŠE <em>ahurəm mazdą̇m aṣ̌auuanəm</em> (Y16.1) 40.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>Y15.3 = Y56.1; ≈ Y56.2, Y56.3-4, Y63.5, Y65.17-18.</ab>
+   </Parallels>
+   <Ritual>
+      <ModernPractice id="ritualModernPractice">
+         <ab>Vid. Y15.2.</ab>
+      </ModernPractice>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY15.3"/>
+      <include type="W" corresp="WTrY15.3"/>
+      <include type="K" corresp="KTrY15.3"/>
+      <include type="D" corresp="DTrY15.3"/>
+   </translation>
+</text>

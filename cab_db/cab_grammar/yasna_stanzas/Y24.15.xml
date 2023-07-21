@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y24.15" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y24.15">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY24.15a" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat4.1" on_line="in1line"/>
+      <!-- Following after DY25.14 -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY24.15b" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY24.15c" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat4.2" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY24.15d" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY24.15e" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat4.3" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY24.15f" on_line="in1line"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y24.14.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <Parallels>
+         <ab>Y24.15 = Y4.10, VrS79.10; ≈ Y1.5, Y2.5, Y3.7, Y6.4, Y7.8, Y17.4, Y22.8, Y59.4, Y66.5, VrS78.17, VrS81.4, VrS82.5.</ab>
+         <ab>VrS27.21 = DoHom4.21.</ab>
+         <ab><em>bərəzatō ahurahe nafəδrō apąm apasca mazdaδātaiiā̊</em> = in <em>xšnūman Burz</em>. See Karanjia (<bibl>Karanjia, 2010</bibl>:41).</ab>
+      </Parallels>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY24.15"/>
+      <include type="W" corresp="WTrY24.15"/>
+      <include type="K" corresp="KTrY24.15"/>
+      <include type="D" corresp="DTrY24.15"/>
+   </translation>
+</text>

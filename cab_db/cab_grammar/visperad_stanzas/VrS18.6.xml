@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS18.6" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS18.6">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS8.5g"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS8.5h"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS8.5i"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS8.5j"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y17.18.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VrS18.6a <em>ratūm bərəzaṇtəm</em> ...] <em>ahurəm mazdąm</em> OD <em>tā̊scā yazamaide</em> (VrS18.6) 2000.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS18.6 = Y57 (<em>passim</em>), Y70.7c-f, Y71.25, VrS11.36c-f, VrS30.12, VrS41.7, VrS42.11b-e, VrS51.9, VrS57.9, VrS62.9, VrS64.10, VrS65.11b-e, VrS65.83, VrS69.9, VrS71.9, VrS74.6b-e, 
+         VrS75.11b-e; VrS87.13, VrS89.22b-e, VrS93.12.</ab>
+      <ab><em>ratūm bərəzaṇtəm yazamaide yim ahurəm mazdąm yō aṣ̌ahe apanō.təmō yō aṣ̌ahe jaγmūštəmō</em> ~ VrS24.9, VrS24.12, VrS42.7, VrS42.10, VrS65.7, VrS65.10, VrS75.7, VrS75.10, VrS89.18, VrS89.21 
+         <em>ratə̄ušca aṣ̌aōnō bərəzatō yasnāica vaɱāica yat̰ apanō.təmahe raϑβō yat̰ jaγmūš́iiā̊ aṣ̌ōiš yat̰ jaγmūš́iiā̊ ratufritōiš</em>.</ab>
+      <ab><em>ratūm bərəzaṇtəm</em>; ~ Y1.18, Y3.20, Y4.23, Y7.21, Y22.21, Y24.28, Y66.18, VrS78.30, VrS79.23, VrS82.18 <em>raϑβō bərəzatō</em>; 
+         ~ VrS1.16, VrS25.18, VrS27.32, VrS90.16 <em>ratə̄uš bərəzō</em>; ~ VrS2.18, VrS17.17, VrS77.17 <em>ratūm bərəzəm</em>.</ab>
+      <ab><em>srauuā̊ zaraϑuštri yazamaide</em> ~ Y16.2 <em>zaraϑuštri srauuā̊ yazamaide</em>; ~ VrS31.13 <em>srauuaŋhąmca zaraϑuštrinąm</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS18.6"/>
+   </translation>
+</text>

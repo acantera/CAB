@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y63.3" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y63.3">
+        <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP3"/>
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab> There is an old discussion about the inclusion or not of the <em>šnūman</em> in
+                this Frauuarāne, see N2.15-5 (see "ritual information). The statement of the
+                Nērangestān concerns, however, only the case when the <em>rāspīg</em> was not there for
+                the recitation of Y63.1 and Y63.2.</ab>. </Commentary>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Quotations id="ritualQuotations">
+        <ab>Cf. N2.14-5 (cf. <bibl>Kotwal and Kreyenbroek, 1995</bibl>: pp. 36 ff.)</ab>: <ab class="ab_indent">
+            <em>zōt zūd abāz bawēd </em>aṣ̌əm vohū 3 frauuarānē mazdaiiasnō
+            zaraθuštriš <em> cē gāh dārēd ud šnūman abāz ōšmurišnīh u-š wāz abāz gīrišnīh</em>
+        </ab>
+        <ab class="ab_indent">
+            <em>dād ī farrox pus guft hād [az] pōryōtkēšān ēn nērang [[ē]] mānēd
+                kū zōt pad yašt ī pad ātaxš sar wāz be gōwēd ud šnūman abāz nē ōšmārēnd</em>
+        </ab>
+        <ab class="ab_indent">"The <em>zōt</em> beginns immediately again. (He recites) three Aṣ̌əm
+            Vohū, the <em>frauuarāne mazdaiiasnō zaraθuštriš</em> that contains the <em>gāh</em> and
+            the recitation of the <em>šnūman</em>. They (<em>zōt</em> and <em>rāspīg</em>) take
+            again the <em>wāz</em>.</ab>
+        <ab class="ab_indent">Dād, the son of Farrox, said: 'A ritual instruction remains from the
+                <em>pōryōtkēšān</em>, namely, that The <em>zōt</em> says the <em>wāz</em> at the end
+            of the <em>yašt</em> for the fire and they (<em>zōt</em> and <em>rāspīg</em>) do not
+            recite the <em>šnūman</em> again.'"</ab>
+    
+    </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY63.3"/>
+    <include type="W" corresp="WTrY62.12"/><include type="K" corresp="KTrY62.12"/><include type="D" corresp="DTrY62.12"/></translation>
+</text>

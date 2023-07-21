@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL1.1.5" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="5" xml:id="ParagnaLL1.1.5">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Vid. ParagnaLL1.1.3 (NP) Var. a </ab>
+            <ab>ParagnaLL1.1.5 (NP) Var. b (Mss. K36, 31, 89, 19):</ab>
+            <ab class="ab_indent">
+                nirang barsom čidan naḫost haft šāh barsom pāk bāyad kardan va dast be pādyāv kardan va čon barsom mičinand pošt bar barsom-e pāk nakonand ke be hič kār našāyad va baʿd 
+                az ān šāḫ-i ke se tāk-e barsom dāšte bāšad peydā konand va dast-e rāst bā kārd az sar se tāk barsom gozārand <em>xšnaoθra ahurahe mazdā̊ aṣ̌əm vohū</em> se goftan</ab>
+            <ab class="ab_indent">
+                "The cutting of the <em>barsom</em>. First, one must clean seven branches for the <em>barsom</em>. He must wash his hands with <em>pādyāv</em>. When they cut the 
+                <em>barsom</em>, they do not turn their back to the pure <em>barsom</em> that would be not usefull for nothing (in other case). Afterwards, they have to find a branch that
+                might provide three <em>barsom</em>-twigs. They lean his hand together with the knife on the three barsom-twigs."</ab>
+            
+            <ab>ParagnaLL1.1.5 (NP) Var. c (Mss. RKS (Unv. 466 7 ff.)):</ab>
+            <ab class="ab_indent">
+                ke barsam cinand benazdik-e urvar šavand haft tā pāk konand va dast barsamdān bepādyāv kardan va barsam-cin va dast bepādyāv kardan va ān barsam ke ḫᵛāhand cidan bāyad
+                gereftan <em>xšnaoθra ahurahe mazdā̊ aṣ̌əm vohū</em> ĪĪĪ</ab> 
+            <ab class="ab_indent">
+                "When they cut the <em>barsom</em>, they go next to the plant, clean seven pieces and they must wash with <em>pādyāv</em> the hands and the <em>barsomdān</em> and
+                also the <em>barsom-cin</em> and the hands. They shoul grab the <em>barsom</em> they want to cut (and recite) <em>xšnaoθra ahurahe mazdā̊</em> and three 
+                <em>Aṣ̌əm Vohū</em>."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL1.1.5"/>
+    </translation>
+</text>

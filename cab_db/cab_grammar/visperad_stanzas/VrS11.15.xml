@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS11.15" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y11.10" xml:id="VrS11.15">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS11.15NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY11.10"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Nērang. Cf. Y11.10.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>pairi.tē haōma</em>] zwt' <em>pairi.tē haōma</em> 2007, 2010.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Var. b (mss. 2030, 2040, 2070, 2109):</ab>
+         <ab class="ab_indent" n="NerangTransc.a" xml:id="Y11.10NerangTransc.a" xml:lang="Pahl">parāhōm ul ō ī dast ī dast ī dašn ī zōt nihišn' zōt bē gōwēd
+            <em>pairi.tē haōma aṣ̌āum aṣ̌auuāzō daδąmi</em>...</ab>
+         <ab class="ab_indent" n="NerangEnglish.a" xml:id="Y11.10NerangEnglish.a">"He has to put the <em>parāhōm</em> in the right hand of the <em>zōt</em>. The
+            <em>zōt</em> says: <em>pairi.tē haōma aṣ̌āum aṣ̌auuāzō daδąmi</em>...</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS11.15"/>
+   </translation>
+</text>

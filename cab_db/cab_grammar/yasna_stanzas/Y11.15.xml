@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y11.15" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y11.15" quote="Y52.7">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY11.13"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y11.13.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>Y11.15 quotes Y52.7, = Y8.9, Y60.11, Y68.18, Y71.30.</ab>
+      <ab>
+         <em>hamistō nižbərətō</em> ~ Y61.2, Y61.3, Y61.4, Y72.2, Y72.3, Y72.4 <em>hamistaiiaēca nižbərətaiiaēca</em>; ~ Y61.5, Y72.5 <em>hamistə̄e nižbərətə̄e</em>
+      </ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY11.15"/>
+      <include type="W" corresp="WTrY11.13"/>
+      <include type="K" corresp="KTrY11.13"/>
+      <include type="D" corresp="DTrY11.13"/>
+   </translation>
+</text>

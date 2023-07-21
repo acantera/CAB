@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS4.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y4.1" xml:id="VrS4.1">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY4.1"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: 2109.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>āiiese yešti ...</em>] (Per.) har dō ḫvāndan 2109.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS4.1 (mss. 2101, 2106):</ab>
+         <ab class="ab_indent">
+            <em>ima.humatāca</em> bōy ō ī ātaxš dahišn <em>huxtāca huuarštāca</em> ...</ab> 
+         <ab class="ab_indent">
+            "At <em>ima humatāca</em>, he has to give <em>bōy</em> to the fire (and then continue with) <em>huxtāca huuarštāca</em> ..."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation/>
+</text>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y5.1" status="created">
+       <!-- created, approved, updated-->
+       <header>
+              <creators>
+                     <creator>Porro</creator>
+                     <creator>Cantera</creator>
+              </creators>
+              <created>1 June 2019</created>
+              <updated>18 March 2020</updated>
+       </header>
+       <div type="Stanza" sameAs="" xml:id="Y5.1" quote="Y37.1">
+              <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y5.1NerangTransc.a"/>
+              <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY5.1"/>
+       </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: Anklesaria, Kotwal and Boyd, Geldner. Cf. VrS5.1, VVrS5.1</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+       <Apparatus>
+              <Critical/>
+              <Commentary/>
+           <RecitationInstruction>
+               <ab><em>iϑā āt̰ yazamaide</em>] <em>iϑā āt̰ yazamaide</em> OD LOYŠE <em>daδuuā̊ŋhəm ahurəm mazdą̇m yaz.</em> (Y6.1) 40.</ab>
+           </RecitationInstruction>
+       </Apparatus>
+       <Parallels>
+           <ab>Y5 = Y37</ab>
+              <ab>Quotes Y37.1.</ab>
+              <ab>
+            <em>apascā dāt̰ uruuarā̊sca vaŋᵛhīš</em> ~ Y1.13, Y3.15, Y4.18, Y7.16, Y24.23, Y66.13, VrS78.25, VrS79.18, VrS82.13 <em>vīspanąmca apąm mazdaδātanąm vīspanąmca uruuaranąm mazdaδātanąm</em> 
+                     ~ Y2.13, Y6.12, Y17.13, Y59.13, VrS81.12 <em>vīspā̊ āpō [...] vīspā̊ uruuarā̊ [...] yazamaide</em>
+                     ~ Y8.4 <em>yā̊ apasca uruuarā̊</em>; ~ Y8.8, Y11.4, Y52.6, Y60.10, Y68.18, Y71.28 <em>vasō. āpō. vasō. uruuarā̊.</em>; 
+                     ~ Y12.12 <em>yā varanā āpō yā varanā uruuarā̊   </em>; Y16.9 ~ <em>yazamaide vīspā̊ āpō yazamaide vīspā uruuarā̊</em>; ~ Y18.2, Y51.8, Y65.15 <em>dāidī mōi yə̄ gąm tašō apascā uruuarā̊sca</em>; 
+                     ~ Y44.4 <em>kə̄ apō uruuarā̊scā</em>; ~ VrS65.78, VrS65.80 <em>auui apąmca vaŋᵛhinąm uruuuarnąmca</em>; 
+                     ~ VrS65.78, VrS65.80 <em>auui ā̊ŋhąmcit̰ yā̊ vaŋᵛhīš yā̊ āpō yā̊sca uruuarā̊</em>
+        </ab>
+              <ab>
+            <em>dāt̰ būmīmcā vīspācā vohū</em> ~ Y42.3, VrS65.70 <em>būmīmcā vīspācā vohū yazamaidē</em>
+        </ab>
+       </Parallels>
+       <Ritual>
+           <Nerangs id="ritualNerangs">
+               <ab>Y5.1 (400, 410 (mg.), 2030 (mg.), 2101 (supr.l.), 2106. Cf. 83):</ab>
+               <ab class="ab_indent">
+                   sāzišn hamāg xūb bē nigerišn</ab>
+               <ab class="ab_indent">
+                   "He has to gaze carefully at the implements."</ab>
+           </Nerangs>
+           <ModernPractice id="ritualModernPractice">
+               <ab><ab><bibl>Redard and Daruwalla, 2021</bibl>, p. 77:</ab>
+                   <ab class="ab_indent">"The chief priest recites alone. The chief priest, taking water from the water container, pours (it) on the bundle."</ab>
+               </ab>
+           </ModernPractice>
+       </Ritual>
+       <translation>
+              <include type="CAB" corresp="CABTrY5.1"/>
+       <include type="W" corresp="WTrY5.1"/>
+        <include type="K" corresp="KTrY5.1"/>
+        <include type="D" corresp="DTrY5.1"/>
+    </translation>
+</text>

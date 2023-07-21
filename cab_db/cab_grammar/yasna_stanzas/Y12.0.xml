@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y12.0" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y12.0" headerPointer="Head12">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y11.17.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>aṣ̌əm vohū</em> III gwptn'] 5, 6, 15, 40, 88; <em>aṣ̌əm vohū</em> III 100, 110, 231, 234, 235, 677; <em>aṣ̌əm vohū vahištəm astī</em> wycyst' slyšʾmlwtyk gwbšn' 400, 410; 
+            <em>aṣ̌əm vohū vahištəm astī</em> slyšʾmlwtyk gwbšn' 500, 510; ʾšmwwhwk III 672.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY12.0"/>
+      <include type="W" corresp="WTrY11.16a"/>
+      <include type="K" corresp="KTrY11.16a"/>
+      <include type="D" corresp="DTrY11.16a"/>
+   </translation>
+</text>

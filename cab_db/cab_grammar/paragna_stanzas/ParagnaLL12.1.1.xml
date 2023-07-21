@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL12.1.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="1" xml:id="ParagnaLL12.1.1">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL12.1.1 Var. a (Mss. K7, RJ):</ab>
+            <ab class="ab_indent">
+                pas hum pyāle va hum urvarān barad va ān yek sokure-ye ḫāli nahand ān kasi ke ātaš miforuzad yek šāḫ-e esm va buy nahand va varsdān piš āwarad sar-aš begirad vars rā andar 
+                hum pyāle andāzad ān kasi ke hum pyāle be-dast dārad va hāvan daste u čab dast-e māhruy ǧā-i ke hum urwarān nahāde ast naheš pas angušt-e čab-e ḫod moḥkam var ruy-e ān 
+                vars va ḫalqe nahad čenānke vars rā binad pas <em>xšnaoθra ahurahe mazdā̊ ašəm vōhū</em> se <em>frauuarāne</em> gāh ānče bid <em>zaraθuštrahe spitamahe aṣ̌aonō 
+                    frauuaṣ̌əē xšnaoθra y. v. x.  f.  yaϑā ahū vairiiō zaotā</em> tā <em>mraotū</em></ab> 
+            <ab class="ab_indent">
+                "Then, he brings the <em>hum-pyāle</em>, the <em>hum</em> and the <em>urvarān</em> and puts an empty cup. The one who kindles the fire, puts a piece of <em>esm</em> 
+                and <em>buy</em>, brings the <em>varasdān</em> nearby, removes its lid and puts the <em>vars</em> in the <em>hum-pyāle</em>. The one who has the <em>hum-pyāle</em>
+                has to place the <em>hāvan</em> and the pestle on the left side of <em>māhruy</em> where he has put the <em>hum</em> and the <em>urvarān</em>. Therefore, he should
+                put firmly his left (hand's) finger on the <em>vars</em> and the ring so that he sees the <em>vars</em>. Then (he should recite) <em>xšnaoϑra ahurahe mazdā̊</em> and three 
+                <em>Aṣ̌əm Vohū</em>s and <em>frauuarāne</em> with the corresponding <em>gāh</em> (and the <em>šnūman</em>) <em>zaraϑuštarahe spitāmahe aṣ̌aonō frauuaṣ̌ə̄ xšnaoϑra
+                    ẏ. v. x. f. </em> and <em>ẏaϑā ahū vairiiō zaotā</em> until <em>mraotū</em>."</ab>
+            
+            <ab>ParagnaLL12.1.1 Var. b (Ms. K36):</ab>
+            <ab class="ab_indent">
+                nirang farāhum gereftan fe nām-e dādār-e urmazd ke farāhum girid esm va buy yek tāk az kuste-ye rāst be nahešn va hum va urvarām fe čandaš be peydāyinešn va hum fe kuste
+                se gereh va fe yašte post va yek gereh va urvarām andar hami nihešn tā avāǧ u be-har hum āyad fe pādyāv ke az āne zur avā šuyad šāyad ke yek dudigar fe in kār ul šuyad šāyad
+                <em>aṣ̌əm vohī</em> se goftan <em>frauuarāne zaraθuštrahe spitamahe aṣ̌aonō frauuaṣ̌əē xšnaoθra yasnāi. v. x.  f.  yaϑā ahī vairiiō zaotā</em> tā ǧā-ye gofan</ab>
+            <ab class="ab_indent">
+                "Instructions for taking te <em>farāhum</em>. In the name of the creator <em>Urmazd</em>. The one takes the <em>farāhim</em>, he has to put a piece of <em>esm</em> 
+                and <em>bu</em> to the right and show the <em>hum</em> and <em>urvarām</em>. He should put in the same (saucer) three pieces (of <em>hum</em>) and and piece 
+                <em>urvarām</em> so that he can access again any (piece of) <em>hum</em> and can wash again with the with the <em>pādyāv</em> from the <em>zur</em> so that he 
+                can wash them again to this purpose. He should recite three <em>Aṣ̌əm Vohū</em>s and the <em>frauuarāne</em> (with the <em>šnūman</em>) <em>zaraθuštrahe spitamahe
+                    aṣ̌aonō frauuaṣ̌əē xšnaoθra yasnāi v. x. f.</em>"</ab> 
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL12.1.1"/>
+    </translation>
+</text>

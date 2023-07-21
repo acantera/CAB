@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL12.5.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="1" xml:id="ParagnaLL12.5.1">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL12.5.1 (Mss. K7, RJ):</ab>
+            <ab class="ab_indent">
+                pas ānke dast avar barsom dārad <em>yaθā ahū vairiiō</em> dō ḫᵛāndan <em>yasnəmca</em> tā <em>āfrīnāmi zaraθuštrahe spitamahe aṣ̌aōnō frauuaṣ̌əe</em> pas dast az barsom
+                bar dāštan az pas sang-e urvis bedar āmadan</ab>  
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL12.5.1"/>
+    </translation>
+</text>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xml:id="MahGen">
+    <ab xml:id="MahGen1" type="MahGen"> aṣ̌āunąm. frauuaṣ̌inąm. </ab>
+    <ab xml:id="MahGen2" type="MahGen"> aṣ̌ahe. vahištahe. sraēštahe. </ab>
+    <ab xml:id="MahGen3" type="MahGen"> hauruuatātō. raϑβō. </ab>
+    <ab xml:id="MahGen4" type="MahGen"> tištriiehe. stārō. raēuuatō. xᵛarənaŋᵛhatō. </ab>
+    <ab xml:id="MahGen5" type="MahGen"> amərətātō. raϑβō. </ab>
+    <ab xml:id="MahGen6" type="MahGen"> xšaϑrahe. vairiiehe. </ab>
+    <ab xml:id="MahGen7" type="MahGen"> miϑrahe. vouru.gaōiiaōitōiš. </ab>
+    <ab xml:id="MahGen8" type="MahGen"> apąm. vaŋᵛhīnąm. mazdaδātanąm. </ab>
+    <ab xml:id="MahGen9" type="MahGen"> āϑrō. ahurahe. mazdā̊. puϑra. </ab>
+    <ab xml:id="MahGen10" type="MahGen"> daϑušō. ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. </ab>
+    <ab xml:id="MahGen11" type="MahGen"> vaŋhauue. manaŋhe. </ab>
+    <ab xml:id="MahGen12" type="MahGen"> spəṇtaiiā̊. vaŋhuiiā̊. ārmatōiš. </ab>
+    <!-- Gatha days -->
+    <ab xml:id="MahGen13" type="RozGen">
+                ahunauuaitiiā̊. gāϑaiiā̊.                
+    </ab>
+    <ab xml:id="MahGen14" type="RozGen">
+                uštauuaitiiā̊. gāϑaiiā̊.
+    </ab>
+    <ab xml:id="MahGen15" type="RozGen">
+                spəṇtā.maińiiə̄uš. gāϑaiiā̊.
+    </ab>
+    <ab xml:id="MahGen16" type="RozGen">
+                vohu.xšaϑraiiā̊. gāϑaiiā̊.
+    </ab>
+    <ab xml:id="MahGen17" type="RozGen">
+                vahištōištōiš. gāϑaiiā̊.
+    </ab>    
+</div>

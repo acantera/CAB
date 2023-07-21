@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+			<div type="Afringan" xml:id="AGahambar"> <!-- vide: K36, MZK9, MZK6, RR3, DorostXANew, MZK8, K37; non vide: F2, MF32, MF28, MF25, MF31, W1, W3, Katrak116, Lb5 -->
+				<div type="AfringanStanza" xml:id="AGahambar1.1" corresp="#GA3.1">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="4"/>
+                </div>
+                <div type="AfringanStanza" xml:id="AGahambar1.2" corresp="#GA3.1">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/>
+				</div>
+				<div type="Frauuarane" xml:id="AGahambar1.3" corresp="#GA3.1, GA3.2">
+			        <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP1XA"/>
+				</div>
+				<div type="AfringanStanza" xml:id="AGahambar2.1" corresp="#GA3.3"> <!-- Geldner, Avesta II, p. 271 gives concerning his edition of the AGahambar the information: "The arrangement of clauses according to P.V. and S.V." -->
+					<ab n="a" xml:id="AGahambar2.1a">dātāca. aēte. mazdaiiasna.</ab>
+					<ab n="b" xml:id="AGahambar2.1b">aētəm. ratūmca.</ab>
+					<ab n="c" xml:id="AGahambar2.1c">miiazdəmca. yim. maiδiiōizarəmaēm.</ab>
+					<ab n="d" xml:id="AGahambar2.1d">pasə̄uš. garəbuš. yōištahe. frā.uruzda.paiiaŋhō.</ab>
+					<ab n="e" xml:id="AGahambar2.1e">yezi. tat̰. yaiiata. nauuāt̰. tat̰. yaiiata.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="AGahambar2.2" corresp="#GA3.4"> <!-- Translated and discussed in Kellens 1974 (NR), p. 279 -->
+					<ab n="a" xml:id="AGahambar2.2a">huraiiā̊scit̰. aδa. aētauuatō. daidiiat̰.</ab>
+					<ab n="b" xml:id="AGahambar2.2b">ā.dit̰. fraŋhāraiiat̰.</ab>
+					<ab n="c" xml:id="AGahambar2.2c">sraōšāt̰. dąhišta.</ab>
+					<ab n="d" xml:id="AGahambar2.2d">arš.vacastəma.</ab>
+					<ab n="e" xml:id="AGahambar2.2e">aṣ̌əm. aṣ̌auuastəma.</ab>
+					<ab n="f" xml:id="AGahambar2.2f">xšaϑrəm. huxšaϑrōtəma.</ab>
+					<ab n="g" xml:id="AGahambar2.2g">anazauuaxtəma. vouru.rafnōstəma. marždikauuastəma. ϑrāiiō.driγutəma. saš́uštəma.</ab>
+					<ab n="h" xml:id="AGahambar2.2h">aṣ̌ahe. bərəjō.</ab>
+					<ab n="i" xml:id="AGahambar2.2i">striiō. maiiā̊. pārəṇdīš. upauuāzō.</ab>
+					<ab n="j" xml:id="AGahambar2.2j">yezi. tat̰. yaiiata. nauuāt̰. tat̰. yaiiata.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="AGahambar2.3" corresp="#GA3.5">
+					<ab n="a" xml:id="AGahambar2.3a">aēsmanąmcit̰. āat̰. hušatąm. pairīštanąm.</ab>
+					<ab n="b" xml:id="AGahambar2.3b">vaziiāiš. stāišca. staōiiə̄bīš.</ab>
+					<ab n="c" xml:id="AGahambar2.3c">ratə̄uš. nmānəm. frānāṣ̌aiiata.</ab>
+					<ab n="d" xml:id="AGahambar2.3d">yezi. tat̰. yaiiata. nauuāt̰. tat̰. yaiiata.</ab>
+					<ab n="e" xml:id="AGahambar2.3e">aēsmanąmcit̰. āat̰. hušatąm. pairīštanąm.</ab>
+					<ab n="f" xml:id="AGahambar2.3f">ā.gaōšō.masə̄bīš. ąxmō.frānō.masə̄bīš. zastō.frānō.masə̄bīš.</ab>
+					<ab n="g" xml:id="AGahambar2.3g">ratə̄uš. nmānəm. frānāṣ̌aiiata.</ab>
+					<ab n="h" xml:id="AGahambar2.3h">yezi. tūtauua. nauuāt̰. tūtauua.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="AGahambar2.4" corresp="#GA3.6">
+					<ab n="a" xml:id="AGahambar2.4a">huxšaϑrōtəmāicit̰. at̰. xšaϑrəm. cišiiāt̰. yat̰. ahurāi. mazdāi.</ab>
+					<ab n="b" xml:id="AGahambar2.4b" quote="Y35.5a">huxšaϑrōtəmāi. bāat̰. xšaϑrəm. aɱat̰. hiiat̰. aibī.</ab>
+					<ab n="c" xml:id="AGahambar2.4c" quote="Y35.5b">dadəmahicā. cīšmahicā. huuąnmahicā.</ab>
+					<ab n="d" xml:id="AGahambar2.4d" quote="Y35.5c">hiiat̰. mazdāi. ahurāi. aṣ̌āicā. vahištāi.</ab>
+					<ab n="e" xml:id="AGahambar2.4e">dātō. hē. miiazdō. ratufrīš.</ab>
+				</div>
+					<div type="AfringanStanza" xml:id="AGahambar2.5" corresp="#GA3.7"> <!-- in some Indian mss. the stanza begins with: paṇcāca. haptāitīm. paitišhahiiehe. xšaϑrahe. vairiiehe. anaγranąm. / disiiāt̰. hē. aŋhe. auuat̰. miždəm. parō.asnāi. aŋᵛhe. / yaϑa. aētaɱi. aŋhuuō. yat̰. astuuaiṇti. / hazaŋhrəm. maēšinąm. daēnunąm. paiti.puϑranąm. / narąm. aṣ̌aōnąm. aṣ̌aiia. vaŋhuiia. / urune. para.daiϑiiāt̰. aēuuahe. hātąm. cinmānahe. / yat̰. aṣ̌ahe. vahištahe.--> <!-- The text is quoted in the Āfrīn. šaš. gahṇbār. --> <!-- Geldner, Avesta II, p. 272, states on the passages AGahambar2.5, 2.7 etc. that they are found "only in J9, J17, H2, L25, L9, Mb2, P8; besides this they occur in the Pâzend Afrîn Gahanbâr in Pt1, E1, L18, O3, K19, K12, J10, Jm4, Mb1; several quotations are in the P.V. in K18. J15; on the other hand the Pâzend Af. Gah. quotes some passages from the peculiarly Avestâ Af. Gah."; the passages are ommitted in the Iranian mss. (NiknamXA, DorostXANew), but also in K36 (see photo 41), MZK9 (see photo II.11) --><!-- quoted in the Āfrīn. šaš. gahṇbār. --> <!-- Geldner, Avesta II, p. 272, states on the passages AGahambar2.5, 2.7 etc. that they are found "only in J9, J17, H2, L25, L9, Mb2, P8; besides this they occur in the Pâzend Afrîn Gahanbâr in Pt1, E1, L18, O3, K19, K12, J10, Jm4, Mb1; several quotations are in the P.V. in K18. J15; on the other hand the Pâzend Af. Gah. quotes some passages from the peculiarly Avestâ Af. Gah."; the passages are only ommitted in the later Iranian mss. (NiknamXA, DorostXANew), but they are found in K36, MZK9 (?) -->
+					<ab n="a" xml:id="AGahambar2.5a">paōiriieheca.nā. miiazdahe. aδāiti.</ab>
+					<ab n="b" xml:id="AGahambar2.5b">spitama. zaraϑuštra.</ab>
+					<ab n="c" xml:id="AGahambar2.5c">yat̰. maiδiiōi.zarəmaiiehe.</ab>
+					<ab n="d" xml:id="AGahambar2.5d">miiazdauuā̊. ratuš.</ab>
+					<ab n="e" xml:id="AGahambar2.5e">amiiazdauuanəm. ratunaēm. aiiasnīm. daste. aṇtarə. mazdaiiasnāiš.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="AGahambar2.6" corresp="#GA3.8"> <!-- in some Indian mss. the stanza begins with: xšuuaštīm. maiδiiōi.šəmahe. tištriiehe. daϑušō. / disiiāt̰. hē. aŋhe. auuat̰. miždəm. parō.asnāi. aŋᵛhe. / yaϑa. aētaɱi. aŋhuuō. yat̰. astuuaiṇti. / hazaŋhrəm. gauuąm. daēnunąm. paiti.puϑranąm. / narąm. aṣ̌aōnąm. aṣ̌aiia. vaŋhuiia. / urune. para.daiϑiiāt̰. aēuuahe. hātąm. cinmānahe. / yat̰. aṣ̌ahe. vahištahe.--> <!-- The text is quoted in the Āfrīn. šaš. gahṇbār. --> <!-- Geldner, Avesta II, p. 272, states on the passages AGahambar2.5, 2.7 etc. that they are found "only in J9, J17, H2, L25, L9, Mb2, P8; besides this they occur in the Pâzend Afrîn Gahanbâr in Pt1, E1, L18, O3, K19, K12, J10, Jm4, Mb1; several quotations are in the P.V. in K18. J15; on the other hand the Pâzend Af. Gah. quotes some passages from the peculiarly Avestâ Af. Gah."; the passages are ommitted in the Iranian mss. (NiknamXA, DorostXANew), but also in K36 (see photo 41), MZK9 (see photo II.11) --><!-- quoted in the Āfrīn. šaš. gahṇbār. --> <!-- Geldner, Avesta II, p. 272, states on the passages AGahambar2.5, 2.7 etc. that they are found "only in J9, J17, H2, L25, L9, Mb2, P8; besides this they occur in the Pâzend Afrîn Gahanbâr in Pt1, E1, L18, O3, K19, K12, J10, Jm4, Mb1; several quotations are in the P.V. in K18. J15; on the other hand the Pâzend Af. Gah. quotes some passages from the peculiarly Avestâ Af. Gah."; the passages are only ommitted in the later Iranian mss. (NiknamXA, DorostXANew), but they are found in K36, MZK9 (?) -->
+					<ab n="a" xml:id="AGahambar2.6a">bitiieheca.nā. miiazdahe. aδāiti.</ab>
+					<ab n="b" xml:id="AGahambar2.6b">spitama. zaraϑuštra.</ab>
+					<ab n="c" xml:id="AGahambar2.6c">yat̰. maiδiiōi.šəmahe.</ab>
+					<ab n="d" xml:id="AGahambar2.6d">miiazdauuā̊. ratuš.</ab>
+					<ab n="e" xml:id="AGahambar2.6e">amiiazdauuanəm. ratunaēm.auuacō.uruuaitīm. daste. aṇtarə. mazdaiiasnāiš.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="AGahambar2.7" corresp="#GA3.9"> <!-- in some Indian mss. the stanza begins with: paṇcāca. caϑβarəsatəmca. maiδiiōi.zarəmaiiehe. aṣ̌ahe. vahištahe. daϑušō. / disiiāt̰. hē. aŋhe. auuat̰. miždəm. parō.asnāi. aŋᵛhe. / yaϑa. aētaɱi. aŋhuuō. yat̰. astuuaiṇti. / hazaŋhrəm. aspanąm. daēnunąm. paiti.puϑranąm. / narąm. aṣ̌aōnąm. aṣ̌aiia. vaŋhuiia. / urune. para.daiϑiiāt̰. aēuuahe. hātąm. cinmānahe. / yat̰. aṣ̌ahe. vahištahe.--> <!-- The text is quoted in the Āfrīn. šaš. gahṇbār. --> <!-- Geldner, Avesta II, p. 272, states on the passages AGahambar2.5, 2.7 etc. that they are found "only in J9, J17, H2, L25, L9, Mb2, P8; besides this they occur in the Pâzend Afrîn Gahanbâr in Pt1, E1, L18, O3, K19, K12, J10, Jm4, Mb1; several quotations are in the P.V. in K18. J15; on the other hand the Pâzend Af. Gah. quotes some passages from the peculiarly Avestâ Af. Gah."; the passages are ommitted in the Iranian mss. (NiknamXA, DorostXANew), but also in K36 (see photo 41), MZK9 (see photo II.11) --><!-- quoted in the Āfrīn. šaš. gahṇbār. --> <!-- Geldner, Avesta II, p. 272, states on the passages AGahambar2.5, 2.7 etc. that they are found "only in J9, J17, H2, L25, L9, Mb2, P8; besides this they occur in the Pâzend Afrîn Gahanbâr in Pt1, E1, L18, O3, K19, K12, J10, Jm4, Mb1; several quotations are in the P.V. in K18. J15; on the other hand the Pâzend Af. Gah. quotes some passages from the peculiarly Avestâ Af. Gah."; the passages are only ommitted in the later Iranian mss. (NiknamXA, DorostXANew), but they are found in K36, MZK9 (?) -->
+					<ab n="a" xml:id="AGahambar2.7a">ϑritiieheca.nā. miiazdahe. aδāiti.</ab>
+					<ab n="b" xml:id="AGahambar2.7b">spitama. zaraϑuštra.</ab>
+					<ab n="c" xml:id="AGahambar2.7c">yat̰. paitišhahiiehe.</ab>
+					<ab n="d" xml:id="AGahambar2.7d">miiazdauuā̊. ratuš.</ab>
+					<ab n="e" xml:id="AGahambar2.7e">amiiazdauuanəm. ratunaēm. *agarəmō.varaŋhəm. daste. aṇtarə. mazdaiiasnāiš.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="AGahambar2.8" corresp="#GA3.10"> <!-- in some Indian mss. the stanza begins with: ϑrisatəm. aiiāϑrimahe. miϑrahe. anaγranąm. / disiiāt̰. hē. aŋhe. auuat̰. miždəm. parō.asnāi. aŋᵛhe. / yaϑa. aētaɱi. aŋhuuō. yat̰. astuuaiṇti. / hazaŋhrəm. uštranąm. daēnunąm. paiti.puϑranąm. / narąm. aṣ̌aōnąm. aṣ̌aiia. vaŋhuiia. / urune. para.daiϑiiāt̰. aēuuahe. hātąm. cinmānahe. / yat̰. aṣ̌ahe. vahištahe.--> <!-- The text is quoted in the Āfrīn. šaš. gahṇbār. --> <!-- Geldner, Avesta II, p. 272, states on the passages AGahambar2.5, 2.7 etc. that they are found "only in J9, J17, H2, L25, L9, Mb2, P8; besides this they occur in the Pâzend Afrîn Gahanbâr in Pt1, E1, L18, O3, K19, K12, J10, Jm4, Mb1; several quotations are in the P.V. in K18. J15; on the other hand the Pâzend Af. Gah. quotes some passages from the peculiarly Avestâ Af. Gah."; the passages are ommitted in the Iranian mss. (NiknamXA, DorostXANew), but also in K36 (see photo 41), MZK9 (see photo II.11) --><!-- quoted in the Āfrīn. šaš. gahṇbār. --> <!-- Geldner, Avesta II, p. 272, states on the passages AGahambar2.5, 2.7 etc. that they are found "only in J9, J17, H2, L25, L9, Mb2, P8; besides this they occur in the Pâzend Afrîn Gahanbâr in Pt1, E1, L18, O3, K19, K12, J10, Jm4, Mb1; several quotations are in the P.V. in K18. J15; on the other hand the Pâzend Af. Gah. quotes some passages from the peculiarly Avestâ Af. Gah."; the passages are only ommitted in the later Iranian mss. (NiknamXA, DorostXANew), but they are found in K36, MZK9 (?) -->
+					<ab n="a" xml:id="AGahambar2.8a">tūiriieheca.nā. miiazdahe. aδāiti.</ab>
+					<ab n="b" xml:id="AGahambar2.8b">spitama. zaraϑuštra.</ab>
+					<ab n="c" xml:id="AGahambar2.8c">yat̰. aiiāϑrimahe.</ab>
+					<ab n="d" xml:id="AGahambar2.8d">miiazdauuā̊. ratuš.</ab>
+					<ab n="e" xml:id="AGahambar2.8e">amiiazdauuanəm. ratunaēm.</ab>
+					<ab n="f" xml:id="AGahambar2.8f">vārəmnəm. staōrəm. frapərənaōiti. aṇtarə. mazdaiiasnāiš.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="AGahambar2.9" corresp="#GA3.11"> <!-- in some Indian mss. the stanza begins with: aštāitīm. maiδiiāiriiehe. daϑušō. vərəϑraγnahe. / disiiāt̰. hē. aŋhe. auuat̰. miždəm. parō.asnāi. aŋᵛhe. / yaϑa. aētaɱi. aŋhuuō. yat̰. astuuaiṇti. / hazaŋhrəm. kaŋ́hā̊scit̰. vąϑβanąm. / narąm. aṣ̌aōnąm. aṣ̌aiia. vaŋhuiia. / urune. para.daiϑiiāt̰. aēuuahe. hātąm. cinmānahe. / yat̰. aṣ̌ahe. vahištahe.--> <!-- The text is quoted in the Āfrīn. šaš. gahṇbār. --> <!-- Geldner, Avesta II, p. 272, states on the passages AGahambar2.5, 2.7 etc. that they are found "only in J9, J17, H2, L25, L9, Mb2, P8; besides this they occur in the Pâzend Afrîn Gahanbâr in Pt1, E1, L18, O3, K19, K12, J10, Jm4, Mb1; several quotations are in the P.V. in K18. J15; on the other hand the Pâzend Af. Gah. quotes some passages from the peculiarly Avestâ Af. Gah."; the passages are ommitted in the Iranian mss. (NiknamXA, DorostXANew), but also in K36 (see photo 41), MZK9 (see photo II.11) --><!-- quoted in the Āfrīn. šaš. gahṇbār. --> <!-- Geldner, Avesta II, p. 272, states on the passages AGahambar2.5, 2.7 etc. that they are found "only in J9, J17, H2, L25, L9, Mb2, P8; besides this they occur in the Pâzend Afrîn Gahanbâr in Pt1, E1, L18, O3, K19, K12, J10, Jm4, Mb1; several quotations are in the P.V. in K18. J15; on the other hand the Pâzend Af. Gah. quotes some passages from the peculiarly Avestâ Af. Gah."; the passages are only ommitted in the later Iranian mss. (NiknamXA, DorostXANew), but they are found in K36, MZK9 (?) -->
+					<ab n="a" xml:id="AGahambar2.9a">puxδaheca.nā. miiazdahe. aδāiti.</ab>
+					<ab n="b" xml:id="AGahambar2.9b">spitama. zaraϑuštra.</ab>
+					<ab n="c" xml:id="AGahambar2.9c">yat̰. maiδiiāiriiehe.</ab>
+					<ab n="d" xml:id="AGahambar2.9d">miiazdauuā̊. ratuš.</ab>
+					<ab n="e" xml:id="AGahambar2.9e">amiiazdauuanəm. ratunaēm.</ab>
+					<ab n="f" xml:id="AGahambar2.9f">yātəm. gaēϑanąm. frapərənaōiti. aṇtarə. mazdaiiasnāiš.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="AGahambar2.10" corresp="#GA3.12"> <!-- in some Indian mss. the stanza begins with: paṇcāca. haptāitīm. hamaspaϑmaēdaiiehe. vahištōištōiš. gāϑaiiā̊. / disiiāt̰. hē. aŋhe. auuat̰. miždəm. parō.asnāi. aŋᵛhe. / yaϑa. aētaɱi. aŋhuuō. yat̰. astuuaiṇti. / vīspa. tarṣ̌uca. xšudraca. masanaca. vaŋhanaca. sraiianaca. (cf. GYt19.58, 61) / narąm. aṣ̌aōnąm. aṣ̌aiia. vaŋhuiia. / urune. para.daiϑiiāt̰. aēuuahe. hātąm. cinmānahe. / yat̰. aṣ̌ahe. vahištahe.--> <!-- The text is quoted in the Āfrīn. šaš. gahṇbār. --> <!-- Geldner, Avesta II, p. 272, states on the passages AGahambar2.5, 2.7 etc. that they are found "only in J9, J17, H2, L25, L9, Mb2, P8; besides this they occur in the Pâzend Afrîn Gahanbâr in Pt1, E1, L18, O3, K19, K12, J10, Jm4, Mb1; several quotations are in the P.V. in K18. J15; on the other hand the Pâzend Af. Gah. quotes some passages from the peculiarly Avestâ Af. Gah."; the passages are ommitted in the Iranian mss. (NiknamXA, DorostXANew), but also in K36 (see photo 41), MZK9 (see photo II.11) --><!-- quoted in the Āfrīn. šaš. gahṇbār. --> <!-- Geldner, Avesta II, p. 272, states on the passages AGahambar2.5, 2.7 etc. that they are found "only in J9, J17, H2, L25, L9, Mb2, P8; besides this they occur in the Pâzend Afrîn Gahanbâr in Pt1, E1, L18, O3, K19, K12, J10, Jm4, Mb1; several quotations are in the P.V. in K18. J15; on the other hand the Pâzend Af. Gah. quotes some passages from the peculiarly Avestâ Af. Gah."; the passages are only ommitted in the later Iranian mss. (NiknamXA, DorostXANew), but they are found in K36, MZK9 (?) -->					
+					<ab n="a" xml:id="AGahambar2.10a">xštuuaheca.nā. miiazdahe. aδāiti.</ab>
+					<ab n="b" xml:id="AGahambar2.10b">spitama. zaraϑuštra.</ab>
+					<ab n="c" xml:id="AGahambar2.10c">yat̰. hamaspaϑmaēdaiiehe.</ab>
+					<ab n="d" xml:id="AGahambar2.10d">miiazdauuā̊. ratuš.</ab>
+					<ab n="e" xml:id="AGahambar2.10e">amiiazdauuanəm. ratunaēm.</ab>
+					<ab n="f" xml:id="AGahambar2.10f">āhūirīm. t̰kaēšəm. frapərənaōiti. aṇtarə. mazdaiiasnāiš.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="AGahambar2.11" corresp="#GA3.13">
+					<ab n="a" xml:id="AGahambar2.11a">auuaēzō.dəm. pascaēta.</ab>
+					<ab n="b" xml:id="AGahambar2.11b">fraca. xraōsiiōit̰. fraca. siiazjaiiōit̰.</ab>
+					<ab n="c" xml:id="AGahambar2.11c">auuaēzō.dəm. pascaēta.</ab>
+					<ab n="d" xml:id="AGahambar2.11d">nārṣ̌ni. š́iiaōϑna. aiβi.daiϑīta.</ab>
+					<ab n="e" xml:id="AGahambar2.11e">ratuš. ratunaēm. aϑa. ratunaiiō. ratūm.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="AGahambar2.12" corresp="#GA3.13">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/> 
+				</div>
+				<div type="AfringanStanza" xml:id="AGahambar3.1" corresp="#GA3.14" quote="AD2.8"> <!-- In the recitation with two priests (see IndXA) it follow: [rāspīg] ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō., then the recitation of the āfrīnāmi. xšaϑraiiāne. section by the two priests; the Indian notation with two priests is found also in later Iranian mss., see MZK6, NiknamXA (without note rāspī), DorostXANew -->
+					<ab n="a" xml:id="AGahambar3.1a">āfrīnāmi. xšaϑraiiāne. daŋ́hu.paiti.</ab>
+					<ab n="b" xml:id="AGahambar3.1b">uparāi. amāi. uparāi. vərəϑrāi. uparāi. xšaϑrāi.</ab>
+					<ab n="c" xml:id="AGahambar3.1c">xšaϑrəmca. paiti.astīmca.</ab>
+					<ab n="d" xml:id="AGahambar3.1d">darəγō.xšaϑrəm. xšaϑrahe.</ab>
+					<ab n="e" xml:id="AGahambar3.1e">darəγō.jītīm. uštānahe.</ab>
+					<ab n="f" xml:id="AGahambar3.1f">druuatātəm. tanubiiō.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="AGahambar3.2" corresp="#GA3.15" quote="AD2.9">
+					<ab n="a" xml:id="AGahambar3.2a">aməm. hutaštəm. huraōδəm.</ab>
+					<ab n="b" xml:id="AGahambar3.2b">vərəϑraγnəm. ahuraδātəm.</ab>
+					<ab n="c" xml:id="AGahambar3.2c">vanaiṇtīmca. uparatātəm.</ab>
+					<ab n="d" xml:id="AGahambar3.2d">pouru.spaxštīm. t̰bišiiaṇtąm.</ab>
+					<ab n="e" xml:id="AGahambar3.2e">paiti.jaitīm. dušmaińiiunąm.</ab>
+					<ab n="f" xml:id="AGahambar3.2f">haϑrā.niuuāitīm. hamərəϑanąm.</ab>
+					<ab n="g" xml:id="AGahambar3.2g">auruuaϑanąm. t̰bišiiaṇtąm.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="AGahambar3.3" corresp="#GA3.16" quote="AD2.10">
+					<ab n="a" xml:id="AGahambar3.3a">āfrīnāmi.</ab>
+					<ab n="b" xml:id="AGahambar3.3b">vauuanuuā̊. vanat̰.pəṣ̌ənə. buiie.</ab>
+					<ab n="c" xml:id="AGahambar3.3c">vīspəm. auruuaϑəm. t̰bišiiaṇtəm.</ab>
+					<ab n="d" xml:id="AGahambar3.3d">vīspəm. aγəm. t̰bišiiaṇtəm.</ab>
+					<ab n="e" xml:id="AGahambar3.3e">araϑβiiō.manaŋhəm.</ab>
+					<ab n="f" xml:id="AGahambar3.3f">araϑβiiō.vacaŋhəm. </ab>
+					<ab n="g" xml:id="AGahambar3.3g">araϑβiiō.š́iiaōϑnəm.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="AGahambar3.4" corresp="#GA3.17" quote="AD2.11">
+					<ab n="a" xml:id="AGahambar3.4a">vauuanə. buiie. </ab>
+					<ab n="b" xml:id="AGahambar3.4b">raϑβiia. manaŋha. </ab>
+					<ab n="c" xml:id="AGahambar3.4c">raϑβiia. vacaŋha. </ab>
+					<ab n="d" xml:id="AGahambar3.4d">raϑβiia. š́iiaōϑna. </ab>
+					<ab n="e" xml:id="AGahambar3.4e">nijanə. buiie.</ab>
+					<ab n="f" xml:id="AGahambar3.4f">vīspe. dušmaińiiū. </ab>
+					<ab n="g" xml:id="AGahambar3.4g">vīspe. daēuuaiiasnə̄.</ab>
+					<ab n="h" xml:id="AGahambar3.4h">zazə. buiie.</ab>
+					<ab n="i" xml:id="AGahambar3.4i">vaŋhāuca. mižde.</ab>
+					<ab n="j" xml:id="AGahambar3.4j">vaŋhāuca. srauuahe.</ab>
+					<ab n="k" xml:id="AGahambar3.4k">urunaēca. darəγe. hauuaŋhe.</ab>
+				</div>		
+				<div type="AfringanStanza" xml:id="AGahambar3.5" corresp="#GA3.18" quote="AD2.12">
+					<ab n="a" xml:id="AGahambar3.5a">āfrīnāmi. </ab>
+					<ab n="b" xml:id="AGahambar3.5b">darəγəm. juua.</ab>
+					<ab n="c" xml:id="AGahambar3.5c">ušta. juua.</ab>
+					<ab n="d" xml:id="AGahambar3.5d">auuaŋhe. narąm. aṣ̌aōnąm. </ab>
+					<ab n="e" xml:id="AGahambar3.5e">ązaŋhe. dužuuarštāuuarəząm.</ab>
+					<ab n="f" xml:id="AGahambar3.5f">vahištəm. ahūm. aṣ̌aōnąm. </ab>
+					<ab n="g" xml:id="AGahambar3.5g">raōcaŋhəm. vīspō.xᵛāϑrəm.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="AGahambar3.6" corresp="#GA3.18">
+					<ab n="a" xml:id="AGahambar3.6a">aϑa. jamiiāt̰. yaϑa. āfrīnāmi.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="AGahambar3.7" corresp="#GA3.18" quote="Y35.2 (#GY35.2) = YR35.2 VrS43.2 VVrS43.2 VytVrS43.2">
+                    <ab n="a" xml:id="AGahambar3.7a">humatanąm. hūxtanąm. huuarštanąm. iiadacā. ańiiadacā.</ab>
+                    <ab n="b" xml:id="AGahambar3.7b">vərəziiamnanąmcā. vāuuərəzananąmcā. mahī.</ab>
+                    <ab n="c" xml:id="AGahambar3.7c">aibī.jarətārō. naēnaēstārō. yaϑanā. vohunąm. mahī.</ab>
+					<ab n="d" xml:id="AGahambar3.7d">humatanąm. hūxtanąm. huuarštanąm. iiadacā. ańiiadacā. vərəziiamnanąmcā. vāuuərəzananąmcā. mahī. aibī.jarətārō. naēnaēstārō. yaϑanā. vohunąm. mahī.</ab> <!-- In the IndXA a Vāj (Pāz. etc.) follows. According to Anquetil II, p. 60, both priests recite: "Que (cet Afergan) parvienne à Paschoutan, (fils) de Gustasp, lui qui est toujours dans l’abondance! Qu’il l’agrée, qu’il le reçoive, lui qui vit toujours heureux & pur! Que cet Afergan du grand, élevé, du sublime, du grand gâh Gâhanbar Medïozerem &c." To be checked !!!-->
+				</div>
+				<div type="AfringanStanza" xml:id="AGahambar4.1" corresp="#GA3.18">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/> <!-- On its form and performance see Anquetil II, p. 61 -->
+                </div>
+				<div type="AfringanStanza" xml:id="AGahambar4.2" corresp="#GA3.18">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/> <!-- On its form and performance see Anquetil II, p. 61 -->
+				</div>
+				<div type="AfringanStanza" xml:id="AGahambar4.3" corresp="#GA3.19">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="2"/>
+                </div>	
+				<div type="AfringanStanza" xml:id="AGahambar4.4" corresp="#GA3.19">
+					<ab n="a" xml:id="AGahambar4.4a">yasnəmca. vaɱəmca. aōjasca. zauuarəca. āfrīnāmi.</ab>
+					<include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen42"/> <!-- Not in K37. In Niknam the instruction (NP): har faṣl ke bīd goftan --> 
+				</div>
+				<div type="AfringanStanza" xml:id="AGahambar4.5" corresp="#GA3.19">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/> <!-- In mss. of the IndXA follows again: a) aθa. jamiiāt̰. yaθa. āfrīnāmi., b) the humatanąm.-formula (2x), c) YAV (21x) + AV (12x), d) the full aɱāi. raēšca. frame as known from Yt, Ny etc. -->
+				</div>
+			</div>
+</div>

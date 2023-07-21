@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR0.Ext2" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+        <approved/>
+        <updated/>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="YR0.Ext2">
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <em>zōt: vid. YR0.Ext1.</em>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <RecitationInstruction>
+            <ab>I gwptn'] 300; ʾywk' gwptn' 360, 370.</ab>
+        </RecitationInstruction>
+        <Commentary>
+            <ab><em>aṣ̌əm vohū.</em>] 300, 320, 360, 370.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrYR0.Ext2"/>
+    </translation>
+</text>

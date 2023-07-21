@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y4.8" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y4.8">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY4.8a" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.1" on_line="in1line"/>
+               <!-- All five gāh possible -->
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY4.8b" on_line="in1line"/>
+                 <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY4.8c" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.2" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY4.8d" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY4.8e" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.3" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY4.8f" on_line="in1line"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: vid. Y4.7.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab><em>āat̰ dīš āuuaēδaiiamahi asńiiaēibiiō ...</em>] <em>āat̰ asnīebiiō ašhi ratobiiō hā̊ani ašoni ašhi raϑβe y. v. x. f. āat̰ (sāuuaŋhə̄e 234, 235)</em> OD <em>yōi həṇti.</em> (Y4.23) 231, 234, 235.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels>
+        <ab>Y4.8 = Y24.13, VrS79.8; ≈ Y1.3, Y2.3, Y3.6, Y4.8, Y6.2, Y7.6, Y17.2, Y22.6, Y24.13, Y59.2, Y66.3, VrS78.15, VrS79.8, VrS81.2, VrS82.3.</ab>
+        <ab>
+            <em>miϑrahe vouru.gaōiiaōitōiš hazaŋhrō.gaōšahe baēuuarə.cašmanō aōxtō.namanō yazatahe rāmanō xᵛāstrahe aṣ̌aōne aṣ̌ahe raϑβe</em> = The standdar <em>xšnūman Mihr</em>.</ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrY4.8"/>
+        <include type="W" corresp="WTrY4.8"/>
+        <include type="K" corresp="KTrY4.8"/>
+        <include type="D" corresp="DTrY4.8"/>
+    </translation>
+</text>

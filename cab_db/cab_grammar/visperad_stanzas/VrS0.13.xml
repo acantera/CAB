@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS0.13" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS0.13">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS0.13NerangTransc.a"/>
+      <!-- only in Gāhānbār 10x, x3 in other VrS -->
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" gahamonly="1"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" gahamonly="1"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" gahamonly="1"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" gahamonly="1"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" gahamonly="1"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" gahamonly="1"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" gahamonly="1"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>zōt ud rāspīg: vid. Y0.11.</div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <RecitationInstruction>
+         <ab>X ] 2065; III gwptn' 2007, 2030, 2070, 2101, 2109; III 2010.</ab> 
+      </RecitationInstruction>
+      <Commentary>
+         <ab>On the number of <em>aṣ̌əm vohū</em> and <em>yaϑā ahū vairiiō</em>, vid. VrS0.14 Nērang and Rit. Quot.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Quotations id="ritualQuotations"/>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS0.13"/>
+   </translation>
+</text>

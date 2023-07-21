@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL1.1.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="1" xml:id="ParagnaLL1.1.1">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL1.1.1 Var. a (Ms. RJ):</ab>
+            <ab class="ab_indent">
+                nazdik-deraḫt gaz nabāšad anār niz šāyad va haft šāḫ-e barsom pāk kardan va pas kosti nō kardan va fanām moḥkam bastan <em>xšnaoθra ahurahe mazdā̊ aṣ̌əm vohū</em> 
+                yek ḫᵛāndan</ab> 
+            <ab class="ab_indent">
+                "If there is no tamarisk nearby, a pomegranate tree is as well allowed. He should clean seven branches. Then, he should tie a new <em>kosti</em> and fasten his <em>padām</em>. 
+                He should then recite <em>xšnaoθra ahurahe mazdā̊</em> and one Aṣ̌əm Vohū."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL1.1.1"/>
+    </translation>
+</text>

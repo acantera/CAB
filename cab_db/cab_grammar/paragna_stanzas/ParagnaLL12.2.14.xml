@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL12.2.14" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="14" xml:id="ParagnaLL12.2.14">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL12.2.14 (Mss. K7, RJ, K36):</ab>
+            <ab class="ab_indent">
+                <em>āat̰ dīš āuuaeδaiiamahi</em> negah-e ruz va māh har ruz ke bāšad az urmazd tā anirān negah-e ruz va māh har dō ke bāšad az urmazd tā anirān negah-e ān ruz beguyand har 
+                māh ke bāšad negah-e ān māh beguyand tā sar</ab>
+            <ab class="ab_indent">
+                "<em>āat̰ dīš āuuaeδaiiamahi</em> and then the <em>negah</em> (patron?) of the corresponding day and the month, both, the correpsonding day and month. They say any 
+                <em>negah</em> of the corresponding day --between the day <em>Urmazd</em> and the day <em>Anirān</em> --  and the <em>negah</em> of the corresponding month 
+                until the end."</ab> 
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL12.2.14"/>
+    </translation>
+</text>

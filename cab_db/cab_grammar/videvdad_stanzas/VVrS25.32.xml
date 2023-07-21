@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS25.32" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="Y22.24" xml:id="VVrS25.32">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY22.21"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY22.22a" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen19" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY22.22b" on_line="in1line"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid Y22.21.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>VVrS25.32d <em>xšnūmaine sraōšahe</em> ...] but mss. 4075, 4240, 4515 <em>šnūman</em> to the <em>Frauuaṣ̌i</em>.</ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab>VVrS25.32d <em>xšnūmaine</em> ...] <em>aōxtō.nāmanō</em> II bʾl 4030; <em>aōxtō.nāmanō yazatahe</em> OD <em>āiiese arəzahebiiō</em> (VVrS25.37) 4200, 4210, 4280.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS25.32"/>
+   </translation>
+</text>

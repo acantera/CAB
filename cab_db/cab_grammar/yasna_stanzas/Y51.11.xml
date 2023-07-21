@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y51.11" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y51.11">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY51.11"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab><em>kə̄ uruuaϑō spitamāi</em> quoted by Y19.14 (<bibl>Kellens, 2010</bibl> p.43) <em>uruuaϑəm spitamāi</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY51.12"/>
+   </translation>
+</text>

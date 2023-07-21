@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+            <div type="NāmStāyišn" xml:id="NamStIrPahl"> <!-- The Pahlavi version of the NamSt follows its attestation in the ms. B of the Dk (see Dk 3.81.5-12 = B 59.10-60.12) and the attestation in the ms. of RGE Mf3 according to the edition of Dhabhar (PahlXA); while the Iranian origin of Mf4 is certain, the notes show that also the text of the Indian mss. Mf3 and E must stem directly from Iran. It is remarkable that the text given in ms. B and in ms. Mf4 shows only slightest differences. Maybe RGE copied his text from the Dk ms.-->
+                <div type="NāmStāyišnStanza" xml:id="NamStIrPahl1.1">
+                    <ab n="a" xml:id="NamStIrPahl1.1a">ŠM stʾyšny OLE y hmʾy YHWWNt’ hmʾy AYT’ hmʾy YHWWNyt</ab> 
+					<ab n="b" xml:id="NamStIrPahl1.1b">yẕdt’ spnʾk mdnwd y BYNc mdnwdʾn’ mdnwd</ab>
+                    <ab n="c" xml:id="NamStIrPahl1.1c">APš hwtyh ʾywk’</ab>
+                    <ab n="d" xml:id="NamStIrPahl1.1d">W ŠM ʾwhrmẕdc</ab>
+					<ab n="e" xml:id="NamStIrPahl1.1e">hwtʾy mhst’ W dʾnʾk dʾtʾl W plwltʾl W pʾnk’ W hwʾpl krpkgl W ʾpwhšwtʾl</ab>
+                    <ab n="f" xml:id="NamStIrPahl1.1f">ʾpyck’ ŠPYL dʾtstʾnyk W hmʾk zwl</ab>
+                </div>
+                <div type="NāmStāyišnStanza" xml:id="NamStIrPahl1.2">
+                    <ab n="a" xml:id="NamStIrPahl1.2a">spʾs OLE LBA y ʾwstykʾn’ MNW ʾplyt’ PWN NPŠE ʾnhmbwtyk zwl W dʾnʾkyh ʾpltl</ab>
+                    <ab n="b" xml:id="NamStIrPahl1.2b">6 amhrspnd W ʾpd y KBD y yẕdʾn’</ab> <!-- im NamStIr ist das was i yazdan in nächste Zeile geschoben; Fehler -->
+					<ab n="c" xml:id="NamStIrPahl1.2c">W lwšn’ whšt’ glwtmʾn’</ab>
+					<ab n="d" xml:id="NamStIrPahl1.2d">glt’ y ʾsmʾn’</ab>
+					<ab n="e" xml:id="NamStIrPahl1.2e">hwl tʾpʾk W mʾh W bʾmyk W stl y KBD twhmk</ab>
+					<ab n="f" xml:id="NamStIrPahl1.2f">wʾt’ W ʾndlwʾy</ab>
+					<ab n="g" xml:id="NamStIrPahl1.2g">W ʾthš W MYH W zmyk W ʾwlwl W gwspnd W ʾywk’hšwst’ W ANŠWTA</ab>
+					</div>
+                <div type="NāmStāyišnStanza" xml:id="NamStIrPahl1.3">
+                    <ab n="a" xml:id="NamStIrPahl1.3a">ycšn’ W nygʾyšn’ OLH y hwtʾy y krpkgl</ab>
+					<ab n="b" xml:id="NamStIrPahl1.3b">MNWš ms krt’ MN KRA gytyy̱ dhšnʾn’ mltwm</ab>
+					<ab n="c" xml:id="NamStIrPahl1.3c">PWN gwbʾgyh W kylwkyh dʾt’</ab>
+					<ab n="d" xml:id="NamStIrPahl1.3d">štr’ydʾlyh y ʾwbʾm W lʾdynytʾlyh y dʾmʾn’ PWN lcmyk ʾywcšn’y ptylk’ ŠDYAʾn’</ab>
+                </div>
+                <div type="NāmStāyišnStanza" xml:id="NamStIrPahl1.4">
+                    <ab n="a" xml:id="NamStIrPahl1.4a">nmʾc OL wspʾkʾs y hwʾpl</ab>
+					<ab n="b" xml:id="NamStIrPahl1.4b">MNWš plystyt yšt’ plwʾhly zltwhšt’y spytʾmʾn’ ʾštyh OL dʾmʾn</ab> <!-- in Mf3 and Mf4 according to Dhabhar only PWN spytʾmʾn’ instead of yšt’ plwʾhly zltwhšt’y spytʾmʾn’ -->
+					<ab n="c" xml:id="NamStIrPahl1.4c">dyn’ dʾnšn’ HYMNNšn’</ab>
+					<ab n="d" xml:id="NamStIrPahl1.4d">ʾsn’hltyk gwšwslwthltyk</ab>
+					<ab n="e" xml:id="NamStIrPahl1.4e">šnʾskyh W lʾdynytʾlyh wsp’AYTʾn’ YHWWNtʾn’ YHWWNytʾn’</ab>
+					<ab n="f" xml:id="NamStIrPahl1.4f">plhʾngʾn’ plhʾng</ab>
+					<ab n="g" xml:id="NamStIrPahl1.4g">AYK YHWWNyt’ lwbʾn’ pwhl bwhtʾl y MN dwšhw’ W wtʾltʾl y OL ZK y pʾhlwm ʾhwʾny ʾhlybʾn’ y lwšn’y hwbwdy hmʾk hwʾlyh</ab> <!-- Mf4 according to Dhabhar nywkyh instead of hwʾlyh -->
+				</div>
+                <div type="NāmStāyišnStanza" xml:id="NamStIrPahl1.5">
+                    <ab n="a" xml:id="NamStIrPahl1.5a">PWN plmʾn’ y LK hwʾpl</ab>
+                    <ab n="b" xml:id="NamStIrPahl1.5b">MKḆLWNym W mynm W YMRRWNm wlcm W dyn’ y ʾpyck’</ab>
+                    <ab n="c" xml:id="NamStIrPahl1.5c">ʾstwbʾn’ HWEm PWN KRA krpk’</ab>
+                    <ab n="d" xml:id="NamStIrPahl1.5d">ʾphšm MN KBD bck’</ab>
+					<ab n="e" xml:id="NamStIrPahl1.5e">ʾpyck’ YHSNNm hwtyh W ʾsnwtk KRA kwnšn’ W pʾhlycšn’ DYKA</ab> <!-- B ʾsnʾytk -->
+					<ab n="f" xml:id="NamStIrPahl1.5f">6 zwlʾn y HYA kwnšn’ gwbšn mynšn’ W wyl W ʾwš W hlt’</ab>
+                </div>
+                <div type="NāmStāyišnStanza" xml:id="NamStIrPahl1.6">
+                    <ab n="a" xml:id="NamStIrPahl1.6a">PWN kʾm LK krpk’gl twbʾn’ sʾmʾnyhʾ OḆYDWNm</ab>
+					<ab n="b" xml:id="NamStIrPahl1.6b">ZK ZYt’ plstšn’ PWN wyh mynšnyh W wyh gwbšnyh W wyh kwnšnyh</ab> <!-- Mf4 has according to Dhabhar wlcšnyh instead of kwnšnyh-->
+					<ab n="c" xml:id="NamStIrPahl1.6c">AYḴ ŠLYTWNm PWN lʾs y lwšn’ AYḴm LA YHMTWNyt’ glʾn pzd y dwšhw’ wtylm</ab>
+					<ab n="d" xml:id="NamStIrPahl1.6d">PWN cyh’wtlg YHMTWNm OL ZK mʾn whšt’ y pwl bwd y hlwsp’ pyšyt’ y hmʾk hwʾlyh</ab>
+                </div>
+                <div type="NāmStāyišnStanza" xml:id="NamStIrPahl1.7">
+                    <ab n="a" xml:id="NamStIrPahl1.7a">stʾdšn’ y OLH ʾpwhšw’tʾl hwtʾy </ab>
+					<ab n="b" xml:id="NamStIrPahl1.7b">MNW kʾm W krpk’ pʾtdʾšn’ OḆYDWNx1 plmʾn lʾdynytʾlʾn’</ab>
+					<ab n="c" xml:id="NamStIrPahl1.7c">ʾpdwmc bwcyt’ dlwndʾnc MN dwšhw’ ʾpyckyhʾ wynʾlyt wsp dʾm</ab> <!-- in Mf4, Mf3,E the note: 3 bʾr --> <!-- The §9 in Dhabhars edition XAPahl is missing in Mf4, Mf3 and E -->
+                </div>
+           </div>
+</div>

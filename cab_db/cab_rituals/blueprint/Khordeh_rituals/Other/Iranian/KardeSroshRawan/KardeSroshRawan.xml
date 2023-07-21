@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+<div type="Afringan" xml:id="KardeSrošRawan"> <!-- vide: DorostXA 24  --> <!-- DorostXA 24 title: krdh srwš rwʾn -->
+        <div type="AfringanStanza" xml:id="KardeSrošRawan0.1">
+            <ab n="a" xml:id="KardeSrošRawan0.1a">nʾm ʾyzd</ab>
+            </div>
+                <div type="AfringanStanza" xml:id="KardeSrošRawan0.2">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="5"/>
+                    </div>
+                        <div type="AfringanStanza" xml:id="KardeSrošRawan0.3">
+                            <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/>
+                            </div>            
+                                <div type="AfringanStanza" xml:id="KardeSrošRawan0.4">                
+                                    <include type="block_ratu" href="/db/apps/cab_db/cab_rituals/blocks/RatuFra" xpointer="RatuFra2"/> <!-- Gāh 5 (gʾh ʾwzyrn) --> <!-- after the Gāh the instruction: karde (Pāz.) yō. vananō. kaiiaδahe. -->
+                                    </div>
+                                        <div type="AfringanStanza" xml:id="KardeSrošRawan0.5">    
+                                            <ab n="a" xml:id="KardeSrošRawan0.5a">bijāδahe. aṣ̌ōi. rauuąn. flʾn bn flʾn bərasāt̰. u. xvudāiš. biiāmurzāt̰.</ab> 
+                                            <ab n="b" xml:id="KardeSrošRawan0.5b">humat. u. hūxt. u. huuarəšt. rʾsfy</ab>
+                                        </div>             
+                                            <div type="AfringanStanza" xml:id="KardeSrošRawan1.1">
+                                                <ab n="a" xml:id="KardeSrošRawan0.1a">nʾm ʾyzd</ab>
+                                                </div>
+                                                    <div type="AfringanStanza" xml:id="KardeSrošRawan1.2">
+                                                        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="5"/>
+                                                        </div>
+                                                            <div type="AfringanStanza" xml:id="KardeSrošRawan1.3">
+                                                                <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/>
+                                                                </div>
+                                                                    <div type="Frauuarane" xml:id="KardeSrošRawan1.4">
+                                                                        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō. ahura.t̰kaēšō.</ab>
+                                                                        <include type="block_ratu" href="/db/apps/cab_db/cab_rituals/blocks/RatuFra" xpointer="RatuFra2"/> <!-- Gāh 5 (gʾh ʾwzyrn) -->
+                                                                        <include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGenXA" xpointer="ShnumanGenXA19a"/>
+                                                                        <ab n="b" xml:id="Frauuarane.c">xšnaōϑra. yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+                                                                        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGrXA"/>
+                                                                        <include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanAccXA" xpointer="ShnumanAccXA19a"/>
+                                                                    </div>
+                                                                    <div type="AfringanStanza" xml:id="KardeSrošRawan2.1" quote="YtSr8.1 (#GYt11a.14) [Y57.23 (#GY57.15) = YR57.23 VrS74.23 VVrS74.23 VytVrS74.23 = YtSrH3.1]">
+                                                                        <include type="block_shnumanacc" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanAcc" xpointer="ShnumanAcc19"/>
+                                                                        <ab n="a" xml:id="KardeSrošRawan2.1a">yō. vananō. kaiiaδahe.</ab> 
+                                                                        <ab n="b" xml:id="KardeSrošRawan2.1b">yō. vananō. kāiδiiehe.</ab> 
+                                                                        <ab n="c" xml:id="KardeSrošRawan2.1c">yō. jaṇta. daēuuaiiā̊. drujō. aš.aōjaŋhō. ahūm.mərəṇcō.</ab> 
+                                                                        <ab n="d" xml:id="KardeSrošRawan2.1d">yō. harəta. aiβiiāxštaca.</ab>
+                                                                        <ab n="e" xml:id="KardeSrošRawan2.1e">vīspaiiā̊. frauuōiš. gaēϑaiiā̊.</ab>
+                                                                    </div>
+                                                                    <div type="YashtStanza" xml:id="KardeSrošRawan2.2" quote="YtSr8.2 (#GYt11a.15) [Y57.24 (#GY57.16) = YR57.24 VrS74.24 VVrS74.24 VytVrS74.24 = YtSrH3.2 = YtSrH3.2]">
+                                                                        <ab n="a" xml:id="KardeSrošRawan2.2a">yō. anauuaŋhabdəmnō. zaēnaŋha.</ab>
+                                                                        <ab n="b" xml:id="KardeSrošRawan2.2b">nipāiti. mazdā̊. dāmąn.</ab>
+                                                                        <ab n="c" xml:id="KardeSrošRawan2.2c">yō. anauuaŋhabdəmnō. zaēnaŋha. </ab>
+                                                                        <ab n="d" xml:id="KardeSrošRawan2.2d">nišhauruuaiti. mazdā̊. dāmąn.</ab>
+                                                                        <ab n="e" xml:id="KardeSrošRawan2.2e">yō. vīspəm. ahūm. astuuaṇtəm.</ab>
+                                                                        <ab n="f" xml:id="KardeSrošRawan2.2f">ərəδβa. snaiϑiša. nipāiti.</ab>
+                                                                        <ab n="g" xml:id="KardeSrošRawan2.2g">pasca. hū. frāšmō.dāitīm.</ab>
+                                                                    </div>
+                                                                    <div type="YashtStanza" xml:id="KardeSrošRawan2.3" quote="YtSr8.3 (#GYt11a.16, 17) [Y57.25 (#GY57.17, 18) = YR57.25 VrS74.25 VVrS74.25 VytVrS74.25 = YtSrH3.3]">
+                                                                        <ab n="a" xml:id="KardeSrošRawan2.3a">yō. nōit̰. pascaēta. hušxᵛafa.</ab>
+                                                                        <ab n="b" xml:id="KardeSrošRawan2.3b">yat̰. maińiiū. dāmąn. daiδītəm.</ab>
+                                                                        <ab n="c" xml:id="KardeSrošRawan2.3c">yasca. spəṇtō. maińiiuš. yasca. aŋhrō.</ab>
+                                                                        <ab n="d" xml:id="KardeSrošRawan2.3d">hišārō. aṣ̌ahe. gaēϑā̊.</ab> 
+                                                                        <ab n="e" xml:id="KardeSrošRawan2.3e">yō. vīspāiš. aiiąnca. xšafnasca. yūiδiieiti.</ab>
+                                                                        <ab n="f" xml:id="KardeSrošRawan2.3f">māzańiiaēibiiō. haδa. daēuuaēibiiō.</ab>
+                                                                        <ab n="g" xml:id="KardeSrošRawan2.3g">hō. nōit̰. tarštō. frānāmāite.</ab>
+                                                                        <ab n="h" xml:id="KardeSrošRawan2.3h">ϑβaēšāt̰. parō. daēuuaēibiiō.</ab>
+                                                                        <ab n="i" xml:id="KardeSrošRawan2.3i">frā. aɱāt̰. parō. vīspe. daēuua.</ab>
+                                                                        <ab n="j" xml:id="KardeSrošRawan2.3j">anusō. taršta. nəmaṇte.</ab>
+                                                                        <ab n="k" xml:id="KardeSrošRawan2.3k">taršta. təmaŋhō. duuarəṇti.</ab>
+                                                                    </div>                                                                    
+                                                                    <div type="YashtStanza" xml:id="KardeSrošRawan2.4" quote="YtSr8.4 (#GYt11a.17) [Y57.26 (#GY57.18) = YR57.26 VrS74.26 VVrS74.26 VytVrS74.26]">	
+                                                                        <ab n="a" xml:id="KardeSrošRawan2.4a">ahe. raiia. xᵛarənaŋhaca.</ab> 
+                                                                        <ab n="b" xml:id="KardeSrošRawan2.4b">aŋ́he. ama. vərəϑraγnaca.</ab> 
+                                                                        <ab n="c" xml:id="KardeSrošRawan2.4c">ahe. yasna. yazatanąm.</ab> 
+                                                                        <ab n="d" xml:id="KardeSrošRawan2.4d">təm. yazāi. surunuuata. yasna.</ab>
+                                                                        <ab n="e" xml:id="KardeSrošRawan2.4e">sraōšəm. aṣ̌īm. zaōϑrābiiō.</ab> 
+                                                                        <ab n="f" xml:id="KardeSrošRawan2.4f">aṣ̌īmca. vaŋᵛhīm. bərəzaitīm.</ab> 
+                                                                        <ab n="g" xml:id="KardeSrošRawan2.4g">nairīmca. saŋhəm. huraōδəm.</ab>
+                                                                    </div>
+                                                                    <div type="YashtStanza" xml:id="KardeSrošRawan2.5" quote="YtSr8.5 (#GYt11a.17) [Y57.26 (#GY57.18) = YR57.26 VrS74.26 VVrS74.26 VytVrS74.26]">
+                                                                        <ab n="a" xml:id="KardeSrošRawan2.5a">āca.nō. jamiiāt̰. auuaŋhe.</ab> 
+                                                                        <ab n="b" xml:id="KardeSrošRawan2.5b">vərəϑrajā̊. sraōšō. aṣ̌iiō.</ab>
+                                                                    </div>
+                                                                    <div type="YashtStanza" xml:id="KardeSrošRawan2.6" quote="YtSr8.6 (#GYt11a.17) [Y57.26 (#GY57.18) = YR57.26 VrS74.26 VVrS74.26 VytVrS74.26]">
+                                                                        <ab n="a" xml:id="KardeSrošRawan2.6a">sraōšəm. aṣ̌īm. yazamaide.</ab> 
+                                                                        <ab n="b" xml:id="KardeSrošRawan2.6b">ratūm. bərəzaṇtəm. yazamaide. yim. ahurəm. mazdąm.</ab>
+                                                                        <ab n="c" xml:id="KardeSrošRawan2.6">yō. aṣ̌ahe. apanōtəmō.</ab>					
+                                                                        <ab n="d" xml:id="KardeSrošRawan2.6d">yō. aṣ̌ahe. jaγmūštəmō.</ab>
+                                                                        <ab n="e" xml:id="KardeSrošRawan2.6e">vīspa. srauuā̊. zaraϑuštri. yazamaide.</ab>					
+                                                                        <ab n="f" xml:id="KardeSrošRawan2.6f">vīspaca. huuaršta. š́iiaōϑna. yazamaide.</ab>
+                                                                        <ab n="g" xml:id="KardeSrošRawan2.6g">varštaca. varəš́iiamnaca.</ab>
+                                                                    </div>
+                                                                    <div type="YashtStanza" xml:id="KardeSrošRawan2.7" quote="YtSr8.7 (#GYt11a.17) [Y57.27 (#GY57.18) = YR57.27 VrS74.27 VVrS74.27 VytVrS74.27]">
+                                                                        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YeH" xpointer="YeH"/> 
+                                                                    </div>
+                                                                    <div type="AfringanStanza" xml:id="KardeSrošRawan2.8">
+                                                                        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/> 
+                                                                    </div>
+                                                                    <div type="AfringanStanza" xml:id="KardeSrošRawan3.1" quote="ADahman2.8">
+                                                                        <ab n="a" xml:id="KardeSrošRawan3.1a">āfrīnāmi. xšaϑraiiāne. daŋ́hu.paiti. </ab>
+                                                                        <ab n="b" xml:id="KardeSrošRawan3.1b">uparāi. amāi. uparāi. vərəϑrāi. uparāi. xšaϑrāi.</ab>
+                                                                        <ab n="c" xml:id="KardeSrošRawan3.1c">xšaϑrəmca. paiti.astīmca.</ab>
+                                                                        <ab n="d" xml:id="KardeSrošRawan3.1d">darəγō.xšaϑrəm. xšaϑrahe.</ab>
+                                                                        <ab n="e" xml:id="KardeSrošRawan3.1e">darəγō.jītīm. uštānahe.</ab>
+                                                                        <ab n="f" xml:id="KardeSrošRawan3.1f">druuatātəm. tanubiiō.</ab> <!-- = YtSr11.4c -->
+                                                                    </div>
+                                                                    <div type="AfringanStanza" xml:id="KardeSrošRawan3.2" quote="ADahman2.9">
+                                                                        <ab n="a" xml:id="KardeSrošRawan3.2a">aməm. hutaštəm. huraōδəm.</ab>
+                                                                        <ab n="b" xml:id="KardeSrošRawan3.2b">vərəϑraγnəm. ahuraδātəm.</ab>
+                                                                        <ab n="c" xml:id="KardeSrošRawan3.2c">vanaiṇtīmca. uparatātəm.</ab>
+                                                                        <ab n="d" xml:id="KardeSrošRawan3.2d">pouru.spaxštīm. t̰bišiiaṇtąm.</ab> <!-- AD2.9d-g = YtSr11.4d-g -->
+                                                                        <ab n="e" xml:id="KardeSrošRawan3.2e">paiti.jaitīm. dušmaińiiunąm.</ab>
+                                                                        <ab n="f" xml:id="KardeSrošRawan3.2f">haϑrā.niuuāitīm. hamərəϑanąm.</ab>
+                                                                        <ab n="g" xml:id="KardeSrošRawan3.2g">auruuaϑanąm. t̰bišiiaṇtąm.</ab>
+                                                                    </div>
+                                                                    <div type="AfringanStanza" xml:id="KardeSrošRawan3.3" quote="ADahman2.10">
+                                                                        <ab n="a" xml:id="KardeSrošRawan3.3a">āfrīnāmi.</ab>
+                                                                        <ab n="b" xml:id="KardeSrošRawan3.3b">vauuanuuā̊. vanat̰.pəṣ̌ənə. buiie.</ab>
+                                                                        <ab n="c" xml:id="KardeSrošRawan3.3c">vīspəm. auruuaϑəm. t̰bišiiaṇtəm.</ab>
+                                                                        <ab n="d" xml:id="KardeSrošRawan3.3d">vīspəm. aγəm. t̰bišiiaṇtəm.</ab>
+                                                                        <ab n="e" xml:id="KardeSrošRawan3.3e">araϑβiiō.manaŋhəm.</ab>
+                                                                        <ab n="f" xml:id="KardeSrošRawan3.3f">araϑβiiō.vacaŋhəm. </ab>
+                                                                        <ab n="g" xml:id="KardeSrošRawan3.3g">araϑβiiō.š́iiaōϑnəm.</ab>
+                                                                    </div>
+                                                                    <div type="AfringanStanza" xml:id="KardeSrošRawan3.4" quote="ADahman2.11">
+                                                                        <ab n="a" xml:id="KardeSrošRawan3.4a">vauuanə. buiie. </ab>
+                                                                        <ab n="b" xml:id="KardeSrošRawan3.4b">raϑβiia. manaŋha. </ab>
+                                                                        <ab n="c" xml:id="KardeSrošRawan3.4c">raϑβiia. vacaŋha. </ab>
+                                                                        <ab n="d" xml:id="KardeSrošRawan3.4d">raϑβiia. š́iiaōϑna. </ab>
+                                                                        <ab n="e" xml:id="KardeSrošRawan3.4e">nijanə. buiie.</ab>
+                                                                        <ab n="f" xml:id="KardeSrošRawan3.4f">vīspe. dušmaińiiū. </ab>
+                                                                        <ab n="g" xml:id="KardeSrošRawan3.4g">vīspe. daēuuaiiasnə̄.</ab>
+                                                                        <ab n="h" xml:id="KardeSrošRawan3.4h">zazə. buiie.</ab>
+                                                                        <ab n="i" xml:id="KardeSrošRawan3.4i">vaŋhāuca. mižde.</ab>
+                                                                        <ab n="j" xml:id="KardeSrošRawan3.4j">vaŋhāuca. srauuahe.</ab>
+                                                                        <ab n="k" xml:id="KardeSrošRawan3.4k">urunaēca. darəγe. hauuaŋhe.</ab>
+                                                                    </div>		
+                                                                    <div type="AfringanStanza" xml:id="KardeSrošRawan3.5" quote="ADahman2.12">
+                                                                        <ab n="a" xml:id="KardeSrošRawan3.5a">āfrīnāmi. </ab>
+                                                                        <ab n="b" xml:id="KardeSrošRawan3.5b">darəγəm. juua.</ab>
+                                                                        <ab n="c" xml:id="KardeSrošRawan3.5c">ušta. juua.</ab>
+                                                                        <ab n="d" xml:id="KardeSrošRawan3.5d">auuaŋhe. narąm. aṣ̌aōnąm. </ab> <!-- On auuaŋhe. narąm. aṣ̌aōnąm. ązaŋhe. dužuuarštāuuarəząm. cf. GYt13.39 -->
+                                                                        <ab n="e" xml:id="KardeSrošRawan3.5e">ązaŋhe. dužuuarštāuuarəząm.</ab>
+                                                                        <ab n="f" xml:id="KardeSrošRawan3.5f">vahištəm. ahūm. aṣ̌aōnąm. </ab> <!-- On the formula vahištəm. ahūm. aṣ̌aōnąm. raōcaŋhəm. vīspō.xᵛāϑrəm. see AiW 1491 -->
+                                                                        <ab n="g" xml:id="KardeSrošRawan3.5g">raōcaŋhəm. vīspō.xᵛāϑrəm.</ab>
+                                                                    </div>
+                                                                    <div type="AfringanStanza" xml:id="KardeSrošRawan3.6"> <!-- cf. Y68.20 (#GY68.19), Y52.9 = YR68.20 VrS92.20 VVrS92.20 VytVrS92.20 -->
+                                                                        <ab n="a" xml:id="KardeSrošRawan3.6a">aϑa. jamiiāt̰. yaϑa. āfrīnāmi.</ab>
+                                                                    </div>
+                                                                    <div type="AfringanStanza" xml:id="KardeSrošRawan3.7" quote="Y35.2 (#GY35.2) = YR35.2 VrS43.2 VVrS43.2 VytVrS43.2">
+                                                                        <ab n="a" xml:id="KardeSrošRawan3.7a">humatanąm. hūxtanąm. huuarštanąm. iiadacā. ańiiadacā.</ab>
+                                                                        <ab n="b" xml:id="KardeSrošRawan3.7b">vərəziiamnanąmcā. vāuuərəzananąmcā. mahī.</ab>
+                                                                        <ab n="c" xml:id="KardeSrošRawan3.7c">aibī.jarətārō. naēnaēstārō. yaϑanā. vohunąm. mahī.</ab>
+                                                                        <ab n="a" xml:id="KardeSrošRawan3.7a">humatanąm. hūxtanąm. huuarštanąm. iiadacā. ańiiadacā. vərəziiamnanąmcā. vāuuərəzananąmcā. mahī. aibī.jarətārō. naēnaēstārō. yaϑanā. vohunąm. mahī.</ab>
+                                                                    </div>
+                                                                    <div type="AfringanStanza" xml:id="KardeSrošRawan4.1">                                                                      
+                                                                        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+                                                                    </div>
+                                                                    <div type="AfringanStanza" xml:id="KardeSrošRawan4.2">
+                                                                        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+                                                                    </div>
+                                                                    <div type="AfringanStanza" xml:id="KardeSrošRawan4.3">
+                                                                        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="2"/>
+                                                                    </div>	
+                                                                    <div type="AfringanStanza" xml:id="KardeSrošRawan4.4">
+                                                                        <ab n="a" xml:id="KardeSrošRawan4.4a">yasnəmca. vaɱəmca. aōjasca. zauuarəca. āfrīnāmi.</ab> <!-- cf. Y8.2 (#GY8.1) = YR8.2 VrS8.2 VVrS8.2 VytVrS8.2 ≈ DrYt6.2 -->
+                                                                        <include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGenXA" xpointer="ShnumanGenXA19a"/>
+                                                                    </div>
+                                                                    <div type="AfringanStanza" xml:id="KardeSrošRawan4.5">
+                                                                        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+                                                                    </div>
+                                                                    <div type="NiyayeshStanza" xml:id="KardeSrošRawan4.6">                                                                        
+                                                                        <ab n="a" xml:id="KardeSrošRawan4.6a">aɱāi. raēšca. xᵛarənasca. aɱāi. tanuuō. druuatātəm.</ab>
+                                                                        <ab n="b" xml:id="KardeSrošRawan4.6b">aɱāi. tanuuō. vazduuarə. aɱāi. tanuuō. vərəϑrəm.</ab>
+                                                                        <ab n="c" xml:id="KardeSrošRawan4.6c">aɱāi. īštīm. pouruš.xᵛāϑrąm.</ab>
+                                                                        <ab n="d" xml:id="KardeSrošRawan4.6d">aɱāi. āsnąmcit̰. frazaṇtīm. aɱāi. darəγąm. darəγō.jītīm. aɱāi. vahištəm. ahūm. aṣ̌aōnąm. raōcaŋhəm. vīspō.xᵛāϑrəm.</ab>
+                                                                    </div>			
+                                                                    <div type="NiyayeshStanza" xml:id="KardeSrošRawan4.7">
+                                                                        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+                                                                    </div>
+                                                                    <div type="NiyayeshStanza" xml:id="KardeSrošRawan4.8">
+                                                                        <ab n="a" xml:id="KardeSrošRawan4.8a">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+                                                                        <ab n="b" xml:id="KardeSrošRawan4.8b">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+                                                                        <ab n="c" xml:id="KardeSrošRawan4.8c">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+                                                                    </div>
+                                                                    <div type="NiyayeshStanza" xml:id="KardeSrošRawan4.9">
+                                                                        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+                                                                    </div>
+                                                                    <div type="NiyayeshStanza" xml:id="KardeSrošRawan4.10">                                                                        
+                                                                        <ab n="a" xml:id="KardeSrošRawan4.10a">jasa.mē. auuaŋhe. mazda.</ab>
+                                                                        <ab n="b" xml:id="KardeSrošRawan4.10b">jasa.mē. auuaŋhe. mazda.</ab>
+                                                                        <ab n="c" xml:id="KardeSrošRawan4.10c">jasa.mē. auuaŋhe. mazda.</ab>
+                                                                    </div>
+                                                                    <div type="NiyayeshStanza" xml:id="KardeSrošRawan4.11">
+                                                                        <ab n="a" xml:id="KardeSrošRawan4.11a">amahe. hutāštahe. huraōδahe. vərəθraγnahe. ahuraδātahe. vanaiṇtiiā̊sca. uparatātō.</ab>
+                                                                        <ab n="b" xml:id="KardeSrošRawan4.11b">rāmanasca. xᵛāstrahe. vaiiaōš. uparō.kairiiehe. taraδātō. ańiiāiš. dāmąn. aētat̰. tē. vaiiō. yat̰. tē. asti. spəṇtō.maińiiaōm.</ab>
+                                                                        <ab n="c" xml:id="KardeSrošRawan4.11b">θβāṣ̌ahe. xᵛaδātahe. zruuānahe. akaranahe. zruuānahe. darəγō.xᵛaδātahe.</ab>
+                                                                    </div>
+                                                                    <div type="NiyayeshStanza" xml:id="KardeSrošRawan4.12"> <!-- appended: br sʾd fh mynwy ʾyn ptt tā sar xwāndan w ʾstmʾm ptt xwāndan -->
+                                                                        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+                                                                    </div>	
+                                                             
+                                                            </div>
+</div>

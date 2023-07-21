@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y3.10" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y3.10">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY3.10"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. Y3.6.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab>Y3.10a <em>aṇtarə.mā̊ŋhāi</em>] Kellens; Geldner, Redard <em>aṇtarəmā̊ŋhāi</em>.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels>
+        <ab>Y3.10 = Y22.11, VrS78.20; ≈ Y1.8, Y2.8, Y4.13, Y6.7, Y7.11, Y17.7, Y24.18, Y59.7, Y66.8, VrS79.13, VrS81.7, VrS82.8.</ab>
+</Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrY3.10"/>
+    <include type="W" corresp="WTrY3.10"/>
+        <include type="K" corresp="KTrY3.10"/>
+        <include type="D" corresp="DTrY3.10"/>
+    </translation>
+</text>

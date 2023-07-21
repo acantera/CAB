@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y2.3" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y2.3">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.3a"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccAY" xpointer="RatuLetAccAY2.1" on_line="in1lineblock"/>
+               <!-- all five possible -->
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.3b" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccAY" xpointer="RatuLetAccAY2.2" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.3c" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.3d" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccAY" xpointer="RatuLetAccAY2.3" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.3e" on_line="in1line"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: vid. Y2.0.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab>Y2.3b <em>sāuuaŋhaēm</em>] Kellens, Geldner. Cf. Y2.18, Y6.2, Y6.19, Y14.3, Y17.2, Y17.19, Y59.2, Y59.29, VrS352, Vrs35.32, G1.6, DrYt4.3. 
+                Iranian mss. mostly <em>-īm</em>, but attestations of <em>-aēm</em> in some old copies as mss. 5, 8, 2005, 2007, 2030, 4025 and YL2 for DrYt. <em>-aēm</em> well-attested in Pahlavi Yasna copies.
+                Indian liturgial mss. <em>-əm</em>. Sanskrit Yasna also, but <em>-aēm</em> in Y14.3, ms. 677. <em>-īm</em> as a secondary evolution <em>-aēm</em>; <em>-īm</em> more likely as the opposite.
+                Vid. <bibl>Kuiper, 1942</bibl>, p. 65 considers it a graphical variant; 
+                <bibl>Tremblay, 2003</bibl>, pp. 248 ff. an authentic hysterodynamic from a different stem than <em>sāuuaŋhə̄e</em> (Y1.3): <em>sāuuaŋhi-</em> as noun (dat. <em>sāuuaŋhə̄e</em>), <em>sāuuaŋhay-</em> as a derivative of the first (acc. <em>sāuuaŋhaēm</em>).
+                Either an old variant in the recitation, or an actual hysterodynamic, the mss. support the ending <em>-aēm</em>.
+            </ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels>
+        <ab>Y2.3 ≈ Y1.3, Y3.5, Y4.8, Y6.2, Y7.6, Y17.2, Y22.6, Y24.13, Y59.2, Y66.3, VrS78.15, VrS79.8, VrS81.2, VrS82.3; ~ VVrS3.6, VVrS4.8, VVrS6.3, VVrS7.7, VVrS78.16, VVrS79.9, VVrS81.3, VVrS82.4.</ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrY2.3"/>
+    <include type="W" corresp="WTrY2.3"/>
+        <include type="K" corresp="KTrY2.3"/>
+        <include type="D" corresp="DTrY2.3"/>
+    </translation>
+</text>

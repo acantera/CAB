@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL12.4.8" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="8" xml:id="ParagnaLL12.4.8">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL12.4.8 (Ms. RJ):</ab>
+            <ab class="ab_indent">
+                <em>humaiia upaŋhā̊ cīšmaide ahunahe vairiiehe aṣ̌aiia frasrūtahe hāuuanaiiā̊sca aṣ̌aiia fraṣ̌ūtaiiā̊ aršuḫδanąmcā vacąm aϑā</em> daste va hāvan čonke ḫoršid gardad va se bār gardeš 
+                <em>zī.nə̄ humāiiōtarā aŋhən</em> hum va urvarān kufte andar sar daste-ye hāvan nahādan bordan be-suy-e čab-e barsom nahādan</ab>
+            <ab class="ab_indent">
+                "<em>humaiia upaŋhā̊ cīšmaide ahunahe vairiiehe aṣ̌aiia frasrūtahe hāuuanaiiā̊sca aṣ̌aiia fraṣ̌ūtaiiā̊ aršuḫδanąmcā vacąm aϑā</em>. He has to turn three times the pestle over around  
+                the mortar in the direction in which the sun rotates. At <em>humāiiōtarā aŋhən</em>, he should hold the pounded <em>hum</em> and <em>urvarān</em> on the tip of the pestle 
+                of the <em>hāvan</em>, bring it to the left (of the <em>barsom</em>) and put it there."</ab> 
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL12.4.8"/>
+    </translation>
+</text>

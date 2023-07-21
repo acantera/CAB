@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS87.8" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VrS87.8">
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS39.4a"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS39.4b"/>
+               <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS87.8NerangTransc.a"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS39.4c"/>
+               <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS87.8NerangTransc.b"/>
+            </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>VrS87.8 (mss. 2005, 2007, 2010, 2030, 2040, 2101, 2102, 2104, 2106, 2109, 5020):</ab>
+            <ab class="ab_indent">
+                <em>daitikanąmcā aidiiūnąm hiiat̰ urunō yazamaidē aṣ̌āunąm āat̰ urunō yazamaidē</em> rāspīg ō ī dast ī hōy ī zōt šawišn hāwan abar gīrišn pad <em>kudō.zātanąmcīt̰</em> zōt
+                zōhr andak-ē andar hāwan rēzišn <em>narąmcā</em> hāwan abar dastag pahikāfišn <em>nāirinąmcā</em> dastag abar hāwan pahikāfišn <em>yaēšąm vahehīš daēnā̊</em> 
+                abar zamīg pahikāfišn <em>vanaiṇtī vā</em> rāspīg hāwan abar urwēs nihišn abar sar ī ādušt pahikāfišn <em>və̄ṇghən vā</em> abar hōm pālā ud warsdān ud urwēs pahikāfišn  
+                <em>vaōnarə̄ vā</em> abāz ō ī zōhr rēzišn</ab>   
+            <ab class="ab_indent">
+                "At <em>daitikanąmcā aidiiūnąm hiiat̰ urunō yazamaidē aṣ̌āunąm āat̰ urunō yazamaidē</em>, the <em>rāspīg</em> has to go to the left hand of the <em>zōt</em> and to take 
+                the <em>hāwan</em>. At <em>kudō.zātanąmcīt̰</em>, the <em>zōt</em> has to pour a drop of <em>zōhr</em> into the <em>hāwan</em>. At <em>narąmcā</em>, he has
+                to hit the <em>dastag</em> with the <em>hāwan</em>. At <em>nāirinąmcā</em>, he has to hit the <em>hāwan</em> with the <em>dastag</em>. At <em>yaēšąm vahehīš daēnā̊</em>,
+                he has to hit the earth. At <em>vanaiṇtī vā</em>, the <em>rāspīg</em> has to put the <em>hāwan</em> on the <em>urwēs</em> and hit the top of the <em>ādušt</em>. At 
+                <em>və̄ṇghən vā</em>, he has to hit the <em>hōm-pālā</em>, the <em>warsdān</em> and the <em>urwēs</em>. At <em>vaōnarə̄ vā</em>, he has to pour (the <em>zōhr</em>'s driblet) 
+                back to the <em>zōhr</em>."</ab>
+        </Nerangs>
+        
+        <Quotations id="ritualQuotations">
+            <ab>N52.9</ab>
+            <ab class="ab_indent">
+                <em>kudō.zātanąmcit̰</em> kār-ē nē dānēm <em>narąmca</em> abar hāwan <em>nairīnąmca</em> ay abar abarhāwan <em>ẏaēšąm vahehiš</em> andar rāh <em>daēnā̊</em> 
+                abar zamīg <em>vanaiṇti vā</em> abar *θraxti abar ātaxš <em>vaŋhən</em> abar tašt ī waras <em>vaōnarə</em> andar dast ī zōt u-š pas ō war ī zōhrag barišn</ab>
+            <ab class="ab_indent">
+                "For the recitation of <em>kudō.zātanąmcit̰</em> I do not know of any ritual act. At <em>narąmca</em>, (he should bring the <em>zōhr</em>) to the <em>hāwan</em>. At
+                <em>nairīnąmca</em>, to the <em>hāwan</em>. (He should recite) <em>ẏaēšąm vahehiš</em> on the way. At <em>daēnā̊</em>, to the earth. At <em>vanaiṇti vā</em>, to
+                a corner of the fire(-stand). At <em>vaŋhәn vā</em>, to saucer for the <em>waras</em>. At <em>vaōnarә vā</em>, he should bring it to the hand of the <em>zōt</em> and
+                then one should carry it to the side of the <em>zōhr</em> cup, and keep it next to the <em>zōhrag</em>."</ab>
+    <ab>~ Y63.6</ab>
+    <ab>Cf. N52.9a (cf. <bibl>Kotwal and Kreyenbroek, 2003</bibl>: p. 238-9; <bibl>Cantera, 2014</bibl>: p. 228 f.)</ab>
+    <ab class="ab_indent">
+        kudō.zātanąmcit̰<em> kār-ē nē dānēm </em>narąmca <em> abar hāwan </em> nairīnąmca <em>ay abar-hāwan </em> ẏaēšąm vahehiš <em> andar rāh</em> daēnā̊<em> abar zamīg </em>vanaiṇti vā<em> abar </em>*θraxti<em> abar ātaxš </em>vaŋhən<em> abar tašt ī waras </em>vaōnarə <em> [abar] dast ī zōt u-š pas [ō]
+*war ī zōhrag barišn</em>
+        </ab> 
+<ab class="ab_indent">
+    "I do not know ritual action for <em>kudō.zātanąmcit̰</em>. At  <em>narąmca </em> (he should hold the <em>zōhr</em>) over the mortar. At <em> nairīnąmca </em> , over the pestle. 
+    At <em> ẏaēšąm vahehiš </em> , on the way. At <em> daēnā̊</em>, over the earth. At <em>vanaiṇti vā</em> over one corner of the fire. At <em>vaŋhən</em>, over the saucer for the 
+    <em>waras</em>. At <em>vaōnarə</em>, over the hand of the <em>zōt</em>. Then, he has to carry it to the side of the <em>zōhrag</em>."</ab> 
+        </Quotations>
+</Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrVrS87.8"/>
+    </translation>
+</text>

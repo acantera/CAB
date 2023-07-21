@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y71.25" status="created">  <!-- created, approved, updated--> <header><creators><creator>Porro</creator><creator>Cantera</creator></creators><created>1 June 2019</created></header><div type="Stanza" sameAs="" xml:id="Y71.25">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY71.24a"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY71.24b"/>
+   <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY71.24c"/>
+   <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY71.24d"/>
+            </div><Apparatus><Critical/><Commentary/></Apparatus><Parallels/><Ritual/><translation><include type="CAB" corresp="CABTrY71.25"/><include type="W" corresp="WTrY71.24a"/><include type="K" corresp="KTrY71.24a"/><include type="D" corresp="DTrY71.24a"/></translation></text>

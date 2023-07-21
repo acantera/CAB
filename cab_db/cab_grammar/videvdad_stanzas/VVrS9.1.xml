@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS9.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y9.1" xml:id="VVrS9.1">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY9.1"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg. Vid. Y9.1.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y9.1c <em>kō narə ahi</em>] add. post. glossa <em>miϑrō ziiāt̰ zaraϑuštrəm</em> 4280, 4370, 4515. Vid. Y9.1.</ab>
+         <ab>Y9.1d <em>xᵛanuuatō aməṣ̌ahe</em>] add. post. glossa <em>amaraga gaiiehe stauuanō</em> 4370; <em>mərəγiiehe stūnē</em> 4515. Vid. Y9.1.</ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab><em>hāuuanīm ā ratūm</em>] (Pers.) zud va rāsfi har do ḫvāndan <em>hāuuanūm ā ratūm</em> 4025.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS9.1"/>
+   </translation>
+</text>

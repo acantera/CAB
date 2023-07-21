@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="DoHom1.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="DoHom1.1">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV1" times="3"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>DoHom 1.1 (mss. 2000, 2035):</ab>
+         <ab class="ab_indent"><em>yeŋ́hē mē</em> tā <em>aibībairištəm</em></ab>
+         <ab class="ab_indent">"(They have to recite) <em>yeŋ́hē</em> until <em>aibībairištəm</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrDoHom1.1"/>
+   </translation>
+</text>

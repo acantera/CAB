@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS25.28" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y22.21" xml:id="VrS25.28">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY22.18a" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/GahanbarGen" xpointer="GahanbarGen1" alt_href="/db/apps/cab_db/cab_rituals/blocks/RatuGen" alt_xpointer="RatuGen2" has_alt="1" on_line="in1line"/>
+      <!-- If not a Gahanbar day -->
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y22.21.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VrS25.28a <em>āiiese yešti raϑβō</em> ...] <em>raϑβō bərəzatō</em> cygwn PWN gʾs Y gʾsʾnbʾl ẔK Y YHWWNyt 2000; 
+            <em>hāuuanōiš raϑβō</em> HT' gʾsʾnbʾl YHWWNyt' <em>yōi həṇti aṣ̌ahe ratauuō maiδiiōizarəmaiiehe raϑβō</em> ʾywp' ẔK gʾs YHWWNyt  2007;
+            <em>hāuuanōiš raϑβō</em> HT' yšt gʾsʾnbʾl YHWWNyt' <em>yōi həṇti aṣ̌ahe ratauuō maiδiiōizarəmaiiehe raϑβō</em> ʾywp' ẔK gʾs MNW YHWWNyt'  2010;
+            <em>hāuuanōiš raϑβō</em> HT' ycšn' Y gʾsʾnbʾl YHWWNyt' <em>yōi həṇti aṣ̌ahe ratauuō maiδiiōizarəmaiiehe raϑβō</em> ʾywp' ẔK gʾs MNW YHWWNyt'  2030, 2070, 2101, 2106;
+            <em>hāuuanōiš raϑβō</em> gl gʾs Y gʾsʾnbʾl hwln YHWWN-yt <em>ẏōi həṇti aṣ̌ahe raϑβō maiδiiōizarəmaiiehe raϑβō</em> ʾgl gʾsʾnbʾl tyl BYRH YHWWN-yt <em>maiδiiōšmahe raϑβō</em> (VrS25.29) <em>iməm haoməm aṣ̌aiia uzdātəm āiie.</em>
+            ʾgl gʾsʾnbʾl (Paz.) <em>sium bāšat̰</em> (Av.) <em>ẏōi həṇti aṣ̌ahe ratauuō paitišahiiehe raϑβō</em> (VrS25.29) <em>iməm haoməm</em> ʾkl gʾsʾnbʾl mtr' BYRH YHWWN-yt <em>ẏōihəṇti aṣ̌ahe ratauuō aiiāϑrmahe raϑβō</em> (VrS25.29) <em>iməm haoməm</em> 
+            ʾgl gʾsʾnbʾl dyn BYRH (Paz.) <em>bāšt̰</em> (Av.) <em>ẏōi həṇti aṣ̌ahe ratauuō maiδiiāriiehe raϑβō</em> (VrS25.29) <em>iməm haoməm</em>
+            ʾgl gʾsʾnbʾl (Paz.) <em>paṇca bāšat̰</em> (Av.) <em>haomaspaϑmaēdaiiehe raϑβō</em> (VrS25.29) <em>iməm haoməm</em>... 2065;
+            <em>hāuuanōiš raϑβō</em> HT' ycšn' Y MNgʾsʾnbʾl YHWWNyt' <em>yōi həṇti aṣ̌ahe ratauuō maiδiiōizarəmiiehe raϑβō</em> ʾywp ZK gʾs MNW YHWWNyt' 2109.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Quotations id="ritualQuotations">
+         <ab><ab>Revāyat of Kamdīn Šapur (MU1, p. 447-448) on the Visperad ī Gāhānbār:</ab>
+            <ab class="ab_indent"><em>āiiese ẏešti raϑβōbərəzatō ẏō aṣ̌ahe raϑβą̇m aiiaraną̇mca asniianą̇mca māhiianą̇mca ẏāriianą̇mca sarəδaną̇mca ẏō həṇti aṣ̌ahe ratuuō hāuuanōiš raϑβō</em> agar gahanbār-e avval bāšad <em>ẏō həṇti aṣ̌ahe 
+               raϑβō maiδiiō.zarəmiiahe raϑβō</em> agar gahanbār-e tir māh bāšad <em>maiδīō.ṣ̌amahe raϑβō iməm haoməm aṣ̌iia uzdātəm āiie.</em> agar gahanbār-e sevvom bāšad bemāh-e šahrivar <em>ẏō həṇti aṣ̌ahe ratuuō.paiti.ṣ̌ahiiahe
+                  raϑβō iməm haoməm</em> agar gahanbār-e mehr māh bāšad <em>ẏō həṇti aṣ̌ahe ratuuō aiiāϑrəmahe raϑβō aməm haoməm aṣ̌iia.</em> agar gahanbār-e dey māh bāšad <em>ẏō həṇti aṣ̌ahe ratuuō maiδiiāriiahe raϑβō iməm
+                     haoməm aṣ̌aiia</em> agar gahanbār-e šešom bāšad <em>həmaspatamē daiie raϑβō</em>.</ab>
+            <ab class="ab_indent"><em>āiiese ẏešti raϑβōbərəzatō ẏō aṣ̌ahe raϑβą̇m aiiaraną̇mca asniianą̇mca māhiianą̇mca ẏāriianą̇mca sarəδaną̇mca ẏō həṇti aṣ̌ahe ratuuō hāuuanōiš raϑβō</em>. If it is the first Gāhānbār,
+               <em>ẏō həṇti aṣ̌ahe raϑβō maiδiiō.zarəmiiahe raϑβō</em>; if it is the Gāhānbār during the month Tir <em>maiδīō.ṣ̌amahe raϑβō iməm haoməm aṣ̌iia uzdātəm āiie.</em>; if it is the third Gāhānbār during the month Šahrivar 
+               <em>ẏō həṇti aṣ̌ahe ratuuō.paiti.ṣ̌ahiiahe raϑβō iməm haoməm</em>; if it is the Gāhānbār during the month Mihr <em>ẏō həṇti aṣ̌ahe ratuuō aiiāϑrəmahe raϑβō aməm haoməm aṣ̌iia.</em>; if it is the Gāhānbār during the month Dey,
+               <em>ẏō həṇti aṣ̌ahe ratuuō maiδiiāriiahe raϑβō iməm haoməm aṣ̌aiia</em>; if it is the sixth Gāhānbār, <em>həmaspatamē daiie raϑβō</em>.</ab>
+         </ab>
+      </Quotations>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS25.28"/>
+   </translation>
+</text>

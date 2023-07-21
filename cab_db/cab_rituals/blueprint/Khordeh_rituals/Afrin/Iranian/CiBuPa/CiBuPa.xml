@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+			<div type="Afrin" xml:id="CiBu_Parsi"> <!-- transcription of K37; non vide: MF16 -->
+				<div type="AfrinStanza" xml:id="CiBu_Parsi1.1">
+                    <ab n="a" xml:id="CiBu_Parsi1.1a">ctrm bʾyʾd ʾhmh nmʾnh</ab>
+					<ab n="b" xml:id="CiBu_Parsi1.1b">ftwm bʾyʾd ʾhmh nmʾnh</ab>
+					<ab n="c" xml:id="CiBu_Parsi1.1c">twʾm ftwm bʾyʾd ʾhmh nmʾnh</ab>
+                </div>
+				<div type="AfrinStanza" xml:id="CiBu_Parsi1.2">
+                    <ab n="a" xml:id="CiBu_Parsi1.2a">pydʾy bʾd ʾndr ʾyn mʾn whʾn</ab>
+					<ab n="b" xml:id="CiBu_Parsi1.2b">kh hmyšh pdyx w ābʾdʾn bʾd</ab>
+					<ab n="c" xml:id="CiBu_Parsi1.2c">fhrsšnh bʾd</ab>
+					<ab n="d" xml:id="CiBu_Parsi1.2d">fh yzdʾn hʾdrh whʾn mʾhmʾny dw stʾn ʾndrš bʾd</ab>
+				</div>
+				<div type="AfrinStanza" xml:id="CiBu_Parsi1.3"> <!-- quotation from and correction after GYt13.156 + 13.157 -->
+                    <ab n="a" xml:id="CiBu_Parsi1.3a">frhwšyw xšnytw ʾyntw ʾhmh nʾmh</ab>
+					<ab n="b" xml:id="CiBu_Parsi1.3b">xšnytw wycrnth ʾhmh nʾmh</ab>
+					<ab n="c" xml:id="CiBu_Parsi1.3c">xšnytw āfrynntw ʾhmh nʾmh</ab>
+					<ab n="d" xml:id="CiBu_Parsi1.3d">wnghym ʾšym xʾfrʾm</ab>
+					<ab n="e" xml:id="CiBu_Parsi1.3e">xšnytw pʾryntw hch ʾhmʾd nmʾnʾd ʾhmʾkmch mzdysnhnʾm</ab>
+				</div>
+				<div type="AfrinStanza" xml:id="CiBu_Parsi1.4"> <!-- PahlTr of CiBu_Parsi1.3a, c, e -->
+                    <ab n="a" xml:id="CiBu_Parsi1.4a">fh xšnytw āynd ʾmšʾsfndʾn w frhwhrʾn wʾy ʾyn mʾn</ab>
+					<ab n="b" xml:id="CiBu_Parsi1.4b">fh xšnwdy āfryn knnd ʾndr ʾyn mʾn</ab>
+					<ab n="c" xml:id="CiBu_Parsi1.4c">fh xšnwdy frʾǧ brwnd ʾǧ ʾyn mʾn</ab>
+				</div>
+				<div type="AfrinStanza" xml:id="CiBu_Parsi1.5"> 
+                    <ab n="a" xml:id="CiBu_Parsi1.5a">yzšn w stʾyšn w zbʾyšn w ʾšγyh kʾr w krfh brwnd</ab>
+					<ab n="b" xml:id="CiBu_Parsi1.5b">ʾwʿh dʾdʾr ʾwrmzd w ʾmšʾsfndʾn mh fh cšǧ krzšn brwnd</ab>
+					<ab n="c" xml:id="CiBu_Parsi1.5c">ʾǧ ʾyn mʾn mʾ hmʾ kh mʾzdysnym</ab>
+					<ab n="d" xml:id="CiBu_Parsi1.5d">šmʾ kh myzdw mndʾnʾyd</ab>
+				</div>
+				<div type="AfrinStanza" xml:id="CiBu_Parsi2.1"> 
+                    <ab n="a" xml:id="CiBu_Parsi2.1a">yk yk w tn tn w ǧd ǧd kh bhdyn yzšn w drwn w myzd w āfrynkʾn ʾwʾ hmʾ hm krfh byd ʾystyd</ab>
+					<ab n="b" xml:id="CiBu_Parsi2.1b">hr kh rʾzn w frznd hst dyr zywʾ dyr ftʾ mʾhmʾn bʾd </ab>
+					<ab n="c" xml:id="CiBu_Parsi2.1c">hr kh rʾ nyst yzdʾn brhnʾd ʾušdhʾd tʾ ṣd w pnǧʾh sʾlʾn</ab>
+					<ab n="d" xml:id="CiBu_Parsi2.1d">ps ʾǧ ṣd w pnǧʾ sʾlʾn pdwnd bʾd</ab>
+				</div>
+				<div type="AfrinStanza" xml:id="CiBu_Parsi2.2"> 
+                    <ab n="a" xml:id="CiBu_Parsi2.2a">šmʾwhʾn hmyšh ʾndr šʾdy w bzm byd</ab>
+					<ab n="b" xml:id="CiBu_Parsi2.2b">tʾn wrs ʾwr sr </ab>
+					<ab n="c" xml:id="CiBu_Parsi2.2c">tʾn myw ǧʾm fh dst</ab>
+					<ab n="d" xml:id="CiBu_Parsi2.2d">tʾn sprm ʾndr bʾzw</ab>
+					<ab n="e" xml:id="CiBu_Parsi2.2f">ʾtʾn xwnyʾʿh fh kwš </ab>
+					<ab n="g" xml:id="CiBu_Parsi2.2g">ʾtʾn dwstʾn fh hm nšst</ab>
+					<ab n="h" xml:id="CiBu_Parsi2.2h">šmʾhʾn fh kʾmh xwyš rʾmšny ftʾyšny wyrʾyšny bʾd</ab> 
+				</div>
+				<div type="AfrinStanza" xml:id="CiBu_Parsi2.3"> 
+					<ab n="a" xml:id="CiBu_Parsi2.3a">kh hr ch zwd tr šhd byd tʾ brsʾd </ab>
+					<ab n="b" xml:id="CiBu_Parsi2.3b">ānh mrdʾn dʾd ārʾstʾr kyhʾn wyrʾstʾr ʾšʾyh wrzydʾr mrd ʾwšydr zrhtštʾn fšwtn wštʾsfʾn bhrʾm hmʾwnd</ab>
+					<ab n="c" xml:id="CiBu_Parsi2.3c">zwr ʾwʿh pydʾyh dyn dh āynd w rsnd</ab>
+					<ab n="d" xml:id="CiBu_Parsi2.3d">dʾd dyn wh ʾwʾ ānh ʾwrmzd dyb pdwndyʾd</ab>
+					<ab n="e" xml:id="CiBu_Parsi2.3e">hwdynh ǧd frmʾnh ʾndr ʾyrʾn kyhʾn rwʾknʾd </ab>
+					<ab n="f" xml:id="CiBu_Parsi2.3f">ǧddynh ǧd frmʾnh ʾndr ʾyrʾn kyhʾn bʾwsynʾd</ab>
+				</div>
+				<div type="AfrinStanza" xml:id="CiBu_Parsi2.4"> 
+					<ab n="a" xml:id="CiBu_Parsi2.4a">dyn burdʾrʾn šʾn ʾǧ dyn nykh rsʾd tʾ ānh mdn mrdʾn dʾd ārʾstʾr kyhʾn ʾšʾyh wrzydʾr mrd ʾwšydr zrtštʾn fšwtn wštʾsfʾn bhrʾm hmʾwnd</ab>
+					<ab n="b" xml:id="CiBu_Parsi2.4b">ʾyn frxpʾdšʾh zmʾnh ʾwʾ ʾwr hmʾ whʾn w hdynʾn</ab>
+					<ab n="c" xml:id="CiBu_Parsi2.4c">bsth kštyʾn hft kšwr zmyn hwcšm hw nkrydʾr knʾd</ab>
+					<ab n="d" xml:id="CiBu_Parsi2.4d">whʾn ʾwr dst ʾwʿh dʾštʾr prwrtʾr bnd</ab>
+					<ab n="e" xml:id="CiBu_Parsi2.4e">wtrʾn ʾwr dst ʾwʿh zdʾr hwsnydʾr bnd</ab>
+				</div>
+				<div type="AfrinStanza" xml:id="CiBu_Parsi2.5"> 
+					<ab n="a" xml:id="CiBu_Parsi2.5a">tʾ whʾn ʾwʿh kʾmh rsnd</ab>
+					<ab n="b" xml:id="CiBu_Parsi2.5b">hr ch dhmʾn whʾn āfryn pydʾ ʾyzd</ab>
+					<ab n="c" xml:id="CiBu_Parsi2.5c">yk rʾ dh dhrʾ ṣd ṣd rʾ hzʾr hzʾr tʾ bywrʾn bywr zwd rsʾd dyr ftʾ mʾhmʾn bʾd </ab>
+					<ab n="d" xml:id="CiBu_Parsi2.5d">ānh yzdʾn ʾwʿh yzdʾn rsʾd</ab>
+					<ab n="e" xml:id="CiBu_Parsi2.5e">ānh whʾn ʾwʿh whʾn rsʾd</ab>
+					<ab n="f" xml:id="CiBu_Parsi2.5f">hrcš ʾydwn bʾd</ab>
+					<ab n="g" xml:id="CiBu_Parsi2.5g">hmcnyn ʾwrmzd w ʾmšʾsfndʾn kʾmh bʾd</ab>
+				</div>
+				<div type="AfrinStanza" xml:id="CiBu_Parsi3.1"> 
+					<include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+				</div>
+			</div>
+</div>

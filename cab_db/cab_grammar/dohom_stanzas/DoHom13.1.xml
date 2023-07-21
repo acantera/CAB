@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="DoHom13.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="DoHom13.1">
+      <include href="/db/apps/cab_db/cab_rituals/fragards/FragardDH" xpointer="DoHom13.1"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>DoHom13.1 (mss. 2000, 2035):</ab>
+         <ab class="ab_indent">
+            āiryaman abar guftan tā sar <em>isat̰.vāstrahe</em> guftan tā <em>yeŋhe.hātąm</em> tā <em>ahurəm mazdąm</em> kardag ī wisperad guftan</ab>
+         <ab class="ab_indent">
+            "He should the Airyaman until the end, recite <em>isat̰.vāstrahe</em> until the end until the <em>yeŋhe.hātąm</em> and then until the <em>kardag</em> of the Visperad 
+            (that begins with ) <em>ahurəm mazdąm</em>"</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrDoHom13.1"/>
+   </translation>
+</text>

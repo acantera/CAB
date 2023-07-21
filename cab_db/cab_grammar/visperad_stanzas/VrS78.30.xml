@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS78.30" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS78.30">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS32.31a" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/GahanbarGen" xpointer="GahanbarGen1" alt_href="/db/apps/cab_db/cab_rituals/blocks/RatuGen" alt_xpointer="RatuGen2" has_alt="1" on_line="in1line"/>
+      <!-- If not a Gahanbar day -->
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS78.30 Var. a (mss. 2005, 2007):</ab>
+         <ab class="ab_indent">
+            <em>āiiese yešti raϑβō bərəzatō yō aṣ̌ahe raϑβąm aiiaranąmca</em> tā ō ī <em>yōi həṇti aṣ̌ahe ratauuō hāuuanōiš raθβō aēsmą āiiese yešti baōiδi tauua āϑrō ahurahe mazdā̊ puϑra
+               imąm aŋhuiiąmca aṣ̌aiiąmca raϑβąmca ratufritīmca āiiese yešti xšnūmaine ahurahe mazdā̊ raēuuatō xᵛarənaŋᵛatō aməṣ̌anąm spəṇtanąm</em> agar xšnūman ahlawān bēd <em>aṣ̌āunąm
+                  frauuaṣ̌inąm </em> tā <em>nabānazdištanąm frauuaṣ̌inąm auuaŋ́hā̊ frauuaṣ̌aiiō</em> tā gyāg abāyēd guftan. 
+            agar gāhānbār bēd ka <em>aṣ̌aōninąmca aṣ̌ahe raϑβąm</em> guft pas <em>āiiese yešti raϑβō bərəzatō</em> tā <em>yōi həṇti aṣ̌ahe ratauuō maiδiiōizarəmaiiehe raϑβō aēsmąn
+               āiiese yešti ... xšnūmaine raϑβō bərəzatō yō aṣ̌ahe raϑβąm aiiaranąmca asńiianąmca māhiianąmca yāiriianąmca sarəδanąmca raϑβąm vīspe mazištanąm yōi həṇti aṣ̌ahe ratauuō
+               hāuuanīm paiti ratūm maiδiiōizarəmaiiehe raϑβō</em> agar gāh ī dīgar bēd <em>aōxtō.nāmanō yazatahe āiiese yešti</em> az <em>aēsmą āiiese yešti baōiδi</em> tā <em>
+                  aōxtō.nāmanō yazatahe</em> dō bār guftan <em>aṣ̌āunąm frauuaṣ̌inąm</em> tā <em>nabānazdištanąm frauuaṣ̌inąm</em>.</ab>
+         <ab class="ab_indent">
+            "(<em>Zōt</em> and <em>rāspīg</em> should recite): <em>āiiese yešti raϑβō bərəzatō yō aṣ̌ahe raϑβąm aiiaranąmca</em> until <em>yōi həṇti aṣ̌ahe ratauuō hāuuanōiš raθβō 
+               aēsmą āiiese yešti baōiδi tauua āϑrō ahurahe mazdā̊ puϑra imąm aŋhuiiąmca aṣ̌aiiąmca raϑβąmca ratufritīmca āiiese yešti xšnūmaine ahurahe mazdā̊ raēuuatō xᵛarənaŋᵛatō aməṣ̌anąm 
+               spəṇtanąm</em>. If it is the <em>šnūman</em> for the <em>ahlawān</em>, (then they should recite): <em>aṣ̌āunąm frauuaṣ̌inąm</em> OD <em>nabānazdištanąm frauuaṣ̌inąm</em>, 
+            then they must recite <em>auuaŋ́hā̊ frauuaṣ̌aiiō</em> until the end."
+            "If it is a <em>gāhānbār</em> ceremony, when they have said <em>aṣ̌aōninąmca aṣ̌ahe raϑβąm</em>, then <em>āiiese yešti raϑβō bərəzatō</em> until <em>yōi həṇti aṣ̌ahe 
+               ratauuō maiδiiōizarəmaiiehe raϑβō aēsmąn āiiese yešti ... xšnūmaine raϑβō bərəzatō yō aṣ̌ahe raϑβąm aiiaranąmca asńiianąmca māhiianąmca yāiriianąmca sarəδanąmca raϑβąm 
+               vīspe mazištanąm yōi həṇti aṣ̌ahe ratauuō hāuuanīm paiti ratūm maiδiiōizarəmaiiehe raϑβō</em> If it another <em>gāh</em>, (then they say it and continue with) <em>
+                  aōxtō.nāmanō yazatahe āiiese yešti</em> They should recite from <em>aēsmą āiiese yešti baōiδi</em> until <em>aōxtō.nāmanō yazatahe</em> (and continue with) <em>
+                     aṣ̌āunąm frauuaṣ̌inąm</em> until <em>nabānazdištanąm frauuaṣ̌inąm</em>."</ab>
+         
+         <ab>VrS78.30 Var. b (mss. 2010, 2030, 2101, 2106, 2109):</ab>
+         <ab class="ab_indent">
+            <em>yōi həṇti aṣ̌ahe ratauuō hāuuanōiš raθβō aēsmą āiiese yešti baōiδi tauua āϑrō ahurahe mazdā̊ puϑra imąm aŋhuiiąmca aṣ̌aiiąmca raϑβąmca ratufritīmca āiiese yešti xšnūmaine
+               ahurahe mazdā̊ raēuuatō xᵛarənaŋᵛatō aməṣ̌anąm spəṇtanąm</em> xšnūman ān ī bēd dō bār guftan ka yazišn ī gāhānbār bēd ka-t <em>yōi həṇti aṣ̌ahe ratauuō</em> guft <em>
+                  maiδiiōizarəmaiiehe raθβō</em> ayāb gāh kē bēd guftan <em>aēsmąn āiiese yešti ... xšnūmaine raϑβō bərəzatō yō aṣ̌ahe raϑβąm aiiaranąmca asńiianąmca māhiianąmca yāiriianąmca
+                     sarəδanąmca raϑβąm vīspe mazištanąm yōi həṇti aṣ̌ahe ratauuō hāuuanīm paiti ratūm maiδiiōišəmahe raϑβō</em>. ayāb ān gāh bēd <em>aōxtō.nāmanō yazatahe</em> az 
+            <em>aēsmąn ā y</em> tā <em>yazatahe</em> dō bār <em>ā y</em> agar ahlawān pad yazišn bēd <em>auuaŋ́hā̊ frauuaṣ̌aiiō</em> tā <em>vaɱąsca</em>.</ab> 
+         <ab class="ab_indent">
+            "<em>yōi həṇti aṣ̌ahe ratauuō hāuuanōiš raθβō aēsmą āiiese yešti baōiδi tauua āϑrō ahurahe mazdā̊ puϑra imąm aŋhuiiąmca aṣ̌aiiąmca raϑβąmca ratufritīmca āiiese yešti xšnūmaine
+               ahurahe mazdā̊ raēuuatō xᵛarənaŋᵛatō aməṣ̌anąm spəṇtanąm</em>. They should recite the corresponding <em>šnūman</em> twice. If it is a liturgy from Gāhānbār, when you have 
+            recited <em>yōi həṇti aṣ̌ahe ratauuō</em>, they have to recite <em>maiδiiōizarəmaiiehe raθβō</em> or the corresponding <em>gāh</em>. (They continuue with) <em>aēsmąn 
+               āiiese yešti ... xšnūmaine raϑβō bərəzatō yō aṣ̌ahe raϑβąm aiiaranąmca asńiianąmca māhiianąmca yāiriianąmca sarəδanąmca raϑβąm vīspe mazištanąm yōi həṇti aṣ̌ahe ratauuō 
+               hāuuanīm paiti ratūm maiδiiōišəmahe raϑβō</em>. or the corresponding <em>gāh</em> (and then) <em>aōxtō.nāmanō yazatahe</em>. They should recite from <em>aēsmąn 
+                  ā y</em> until <em>yazatahe</em> twice. If there are the <em>ahlawān</em> in the liturgy, (they recite): <em>auuaŋ́hā̊ frauuaṣ̌aiiō</em> until <em>vaɱąsca</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS78.30"/>
+   </translation>
+</text>

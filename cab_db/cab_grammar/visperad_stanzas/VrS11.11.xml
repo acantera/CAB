@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS11.11" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS11.11">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS3.3"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. VrS11.10.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>VrS11.11b <em>humāiium</em>] cod.; Geldner, Kellens <em>humāim</em>.</ab>
+         <ab>VrS11.11b <em>pairi.jaϑnəm</em>] cod.; Geldner, Kellens <em>pairijaϑnəm</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS11.11 ~ Vyt3.5.</ab>
+      <ab><em>yuuānəm. humanaŋhəm. huuacaŋhəm. huš́iiaōϑnəm. hudaēnəm</em> ~ HN2.11 <em>yūnō humanaŋhō huvacaŋhō huš́iiaōϑanahe hudaēnahe</em>; ~ HN2.12 <em>yum humanō huuaca huš́iiaōϑana hudaēna</em>;
+         ~ P32 <em>yūnat̰ haca humanaŋhat̰ huuacaŋhat̰ huš́iiaōϑnāt̰ hudaēnāt̰</em>; ~ HN2.11 <em>humanō huuacō huš́iiaōϑana hudaēna</em>; ~ Yt19.95 <em>vərəϑraγnō humanaŋhō huuacaŋhō huš́iiaōϑnā̊ŋhō hudaēna</em>.</ab>
+      <ab><em>humāiium pairi.jaϑnəm</em> ~ VrS24.5, VrS24.12 <em>humāiiehe pairi.jaϑnō</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS11.11"/>
+   </translation>
+</text>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y72.5" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y72.5" quote="Y61.5a = Y44.13a">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY72.5a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY72.5b"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY72.5c"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y72.5NerangTransc.a"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y72.5 (mss. 40, 400, 410 (sec. m. marg.), 2007, 2010, 2030, 2101, 2106, 2109, 4000, 4010, 4040, 4050, 4161, 5020):</ab>
+         <ab class="ab_indent">
+            <em>stauuas aṣ̌ā yə̄ hudā̊ yōi həṇtī</em>  barsom ō ī dast ī rāspīg dahišn</ab> 
+         <ab class="ab_indent">
+            "At <em>stauuas aṣ̌ā yə̄ hudā̊ yōi həṇtī</em>, (the <em>zōt</em>) has to give the <em>barsom</em> to the <em>rāspīg</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY72.5"/>
+      <include type="W" corresp="WTrY72.5a"/>
+      <include type="K" corresp="KTrY72.5a"/>
+      <include type="D" corresp="DTrY72.5a"/>
+   </translation>
+</text>

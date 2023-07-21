@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y9.17" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y9.17">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY9.17"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y9.3.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y9.17f <em>tbaēšō.tauruuā̊ drujim.vanō</em>] Kellens (Bartholomae), Pirart (<em>drujəm°</em>); Geldner <em>tbaēṣ̌ō tauruuā̊ drujəm vanō</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>Y9.17 = Yt20.1.</ab>
+      <ab>
+            <em>nī.tē zāire</em> ~ Y9.30 (x2), Y9.31 (x2), Y9.32 (x2), Y10.13 <em>haōma zāire</em>; ~ Y10.21 <em>haōməm zāirīm</em>; Y42.5 <em>haōməmcā zāirīm</em>.</ab>
+      <ab><em>nī aməm nī vərəϑraγnəm nī dasuuarə nī baēšazəm nī fradaϑəm nī varədaϑəm</em> ~ VytS5.6 <em>aēšąm vacąm aməm vərəϑraγnəm dasuuarə baēšazəm fradaϑəm varədaϑəm vaxšaϑəm āmruiiē nimruiiē</em>.</ab>
+      <ab><em>nī.tē zāire maδəm mruiiē nī dasuuarə nī baēšazəm nī fradaϑəm nī varədaϑəm</em> ~ Y55.3 <em>tā dasuuara tā baēšaza tā fradaϑa tā varədaϑa</em>; ~ Y68.2 <em>dasuuarə baēšazāica fradaiϑe varədaϑāica</em>;
+         ~ Y71.18 <em>dasuuarəca baēšazəmca yazamaide fradaϑəmca varədaϑəmca yazamaide</em>; ~ VrS64.5, VrS64.6, VrS71.4, VrS71.6 <em>auuat̰ dasuuarə yazamaide auuat̰ baēšazəm yazamaide auuat̰ fradaϑəm yazamaide</em>;
+         ~ VytS5.6 <em>dasuuarə baēšazəm fradaϑəm varədaϑəm</em>.</ab>
+      <ab>
+            <em>ni dasuuarə nī baēšazəm</em> ~ Y10.7 <em>dasuuarə baēšazəm</em>; ~ Y68.16 <em>dasuuarə baēšaza</em>.</ab>
+      <ab>
+            <em>mastīm vīspō.paēšaŋhəm</em> ~ Y57.28 <em>vīspō.paēsīm mastīm</em>.</ab>
+      <ab>
+            <em>yaϑa ... fracarāne t̰baēšō.tauruuā̊ drujim.vanō</em> ~ Y9.20 <em>yaϑa ... fraxštāne zəmā paiti t̰baēšō.tauruuā̊ drujim.vanō</em>.</ab>
+      <ab>
+            <em>nī tat̰ yaϑa gaēϑāhuua vasō.xšaϑrō fracarāne</em> ~ Y57.35 <em>vasō.xšaϑrō. fracarāiti auui yąm astuuaitīm gaēϑąm</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY9.17"/>
+
+        <include type="W" corresp="WTrY9.17"/>
+        <include type="K" corresp="KTrY9.17"/>
+        <include type="D" corresp="DTrY9.17"/>
+    </translation>
+</text>

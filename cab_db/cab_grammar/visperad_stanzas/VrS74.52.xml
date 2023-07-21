@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS74.52" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS74.52">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY57.35"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen19"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS74.52 Var. a (mss. 2005, 2007, 2109, 5020):</ab>  
+         <ab class="ab_indent">
+            <em>yasnəmca vaɱəmca aojasca zuuarəca āfrīnāmī</em> ka xšnūman srōš bēd <em>aṣ̌əm vohū</em> sē guftan ka xšnūman dudīgar <em>sraōšahe aṣ̌iiehe</em> tā 
+            <em>āhūiriiehe</em> pas <em>aṣ̌əm vohū</em> sē guftan</ab> 
+         <ab class="ab_indent">
+            "(They should recite): <em>yasnəmca vaɱəmca aojasca zuuarəca āfrīnāmī</em>. When it is the <em>šnūman</em> for Srōš, they should recite three <em>aṣ̌əm vohū</em>. 
+            If it is another <em>šnūman</em>, they should recite <em>sraōšahe aṣ̌iiehe</em> until <em>āhūiriiehe</em> and then three <em>aṣ̌əm vohū</em>."</ab>
+         
+         <ab>VrS74.52 Var. b (mss. 2010, 2030, 2040):</ab>
+         <ab class="ab_indent">
+            <em>yasnəmca vaɱəmca aojasca zuuarəca āfrīnāmī</em> ka xšnūman srōš bēd <em>aṣ̌əm vohū</em> sē guftan <em>sraōšahe</em> nē abāyēd guftan čīyōn xšnūman dudīgar 
+            bēd <em>sraōšahe</em> tā <em>āhūiriiehe</em> bē abāyēd guftan</ab>
+         <ab class="ab_indent">
+            "(After) <em>yasnəmca vaɱəmca aojasca zuuarəca āfrīnāmī</em>, when it is the <em>šnūman</em> for Srōš, he should recite three <em>aṣ̌əm vohū</em> and he must not recite
+            <em>sraōšahe</em>. When it is another <em>šnūman</em>, he must recite <em>sraōšahe</em> until <em>āhūiriiehe</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS74.52"/>
+   </translation>
+</text>

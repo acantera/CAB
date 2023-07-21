@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS42.11" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS42.11">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS20.8a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS20.8b"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS20.8c"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS20.8d"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS20.8e"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab><em>sraōšəm aṣ̌īm yazamaide</em> = Y16.5, Y57 (<em>passim</em>), VrS11.36, VrS18.1 (x3), VrS28.2, VrS65.11, VrS75.11, VrS89.22.</ab>
+   </Parallels>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS42.11 (mss. 2010, 2030, 2040, 2101, 2106, 2109):</ab>
+         <ab class="ab_indent">
+            <em>yeŋ́hē hātąm</em> tā sar guftan ēn gyāg fraharašn ruwān gyān kardan ud patetīgīh hangārdan</ab>
+         <ab class="ab_indent">
+            "At <em>yeŋ́hē hātąm</em>, he should (reckon) the <em>frauuaši</em>, the souls and spirits and do the penitence."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS42.11"/>
+   </translation>
+</text>

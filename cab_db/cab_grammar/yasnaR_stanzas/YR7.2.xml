@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR7.2" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y7.2" xml:id="YR7.2">
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR7.1a"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: vid. Y7.1.</ab> 
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab>YR7.2a <em>aṣ̌aiia dadąmi xᵛarəϑəm ...</em>] <em>miiazdəm hauruuata</em> OD <em>aš́iiąmca ratufritīmca</em> (YR7.5) 300; <em>aṣ̌auuatō vərəϑrājanō</em> OD <em>imą̇m aŋhuiią̇mca</em> (YR7.5) 320; 
+                <em>hauruuata amərətāta</em> OD sl <em>aṣ̌aiiąmca ratufritīmca</em> (YR7.5) 360; <em>hauruuata amərətāta</em> OD OL Y <em>aṣ̌aiiąmca ratufritīmca</em> (YR7.5) 370.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation/>
+</text>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS82.33" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS82.30">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS82.31NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS36.27a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS36.27b" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/GahanbarGen" xpointer="GahanbarGen1" alt_href="/db/apps/cab_db/cab_rituals/blocks/RatuGen" alt_xpointer="RatuGen2" has_alt="1" on_line="in1line"/>
+      <!-- If not a Gahanbar day -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS36.27c" on_line="in1line"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS82.33 (mss. 2005, 2007, 2030, 2040, 2101, 2106, 2109):</ab>
+         <ab class="ab_indent">
+            rāspīg pad gāh ī ātrawaxšān <em>vahištąm aṣ̌īm aōgəmadaēca usmahica vīsāmadaēca aməṣ̌anąm spəṇtanąm yasnāica vaɱāica xšnaōϑrāica frasastaiiaēca raϑβō bərəzatō yō aṣ̌ahe
+               raϑβąm aiiaranąm asńiianąmca māhiianąmca yāiriianąmca sarəδanąmca yōi həṇti aṣ̌ahe ratauuō hāuuanōiš raθβō yasnāica vaɱāica xšnaōϑrāica frasastaiiaēca ahurahe mazdā̊
+               raēuuatō xᵛarənaŋᵛhatō aməṣ̌anąm spəṇtanąm</em> xšnūman kē bēd guftan tā <em>xšnaōθra yasnāica vaɱāica xšnaōϑrāica frasastaiiaēca frasastaiiaēca</em> agar gāhānbār 
+            bēd <em>raϑβō bərəzatō</em> tā <em>sarəδanąmca yōi həṇti aṣ̌ahe ratauuō maiδiiōizarəmaiiehe raϑβō</em> ayāb ān gāh ī bēd <em>yasnāica vaɱāica xšnaōϑrāica frasastaiiaēca
+               raϑβō bərəzatō</em> tā <em>sarəδanąm raϑβąm vīspe mazištanąm yōi həṇti aṣ̌ahe ratauuō hāuuanīm paiti ratūm maiδiiōizarəmaiiehe raϑβō</em> ayāb ān gāh ī bēd <em>xšnaōθra
+                  yasnāica vaɱāica xšnaōϑrāica frasastaiiaēca frasastaiiaēca</em>.</ab>  
+         <ab class="ab_indent">
+            "The <em>rāspīg</em> (should recite) at the place of the <em>ātrawaxšān</em>: <em>vahištąm aṣ̌īm aōgəmadaēca usmahica vīsāmadaēca</em> (He should continue with) 
+            <em>aməṣ̌anąm spəṇtanąm yasnāica vaɱāica xšnaōϑrāica frasastaiiaēca raϑβō bərəzatō yō aṣ̌ahe raϑβąm aiiaranąm asńiianąmca māhiianąmca yāiriianąmca sarəδanąmca yōi 
+               həṇti aṣ̌ahe ratauuō hāuuanōiš raθβō yasnāica vaɱāica xšnaōϑrāica frasastaiiaēca ahurahe mazdā̊ raēuuatō xᵛarənaŋᵛhatō aməṣ̌anąm spəṇtanąm</em>and the corresponding 
+            <em>šnūman</em> until <em>xšnaōθra yasnāica vaɱāica xšnaōϑrāica frasastaiiaēca frasastaiiaēca</em>. If it is a (liturgy for) Gāhānbār, (he should recite): <em>raϑβō bərəzatō</em>
+            until <em>sarəδanąmca yōi həṇti aṣ̌ahe ratauuō maiδiiōizarəmaiiehe raϑβō</em> or the corresponding <em>gāh</em> (and continue with) <em>yasnāica vaɱāica xšnaōϑrāica frasastaiiaēca
+               raϑβō bərəzatō</em> until <em>sarəδanąm raϑβąm vīspe mazištanąm yōi həṇti aṣ̌ahe ratauuō hāuuanīm paiti ratūm maiδiiōizarəmaiiehe raϑβō</em> or the corresponding <em>gāh</em> 
+            (and continue with) <em>xšnaōθra yasnāica vaɱāica xšnaōϑrāica frasastaiiaēca frasastaiiaēca</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS82.33"/>
+   </translation>
+</text>

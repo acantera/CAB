@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y71.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y71.1" headerPointer="Head71">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y71.1NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY71.1"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab><em>pərəsat̰ zaraϑuštrō ahrəm mazdąm</em> = Y19.1, VS2.1, VS7.1 ... (Vidēvdād <em>passim</em>), H1.1, H2.1, H2.19, Yt1.1, Yt14.1, Yt14.34, Yt14.42, A4.4; ~ Y12.10, Y12.11 <em>apərəsaiiatəm mazdā̊scā zaraϑuštrascā</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY71.1"/>
+      <include type="W" corresp="WTrY71.1"/>
+      <include type="K" corresp="KTrY71.1"/>
+      <include type="D" corresp="DTrY71.1"/>
+   </translation>
+</text>

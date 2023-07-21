@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS3.23" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y3.23" xml:id="VrS3.23">
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY3.21c"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY3.21d"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. VrS3.6, VrS3.14.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab><em>xᵛarəϑəm miiazdəm ... aōxtō.nāmanō yazatahe</em>] II bʾl gwptn' 2030, 2101; MN <em>xᵛarəϑəm</em> OD OL Y <em>yazatahe</em> II bʾl gwptn' 2007; MN <em>xᵛarəϑəm miiazdəm</em> OD ẔNE gʾy II bʾl gwptn' 2109; II bʾl 2040.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation/>
+</text>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y12.11" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y12.11">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY12.6"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y12.6.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y12.11b <em>apərəsaiiatəm</em>] Kellens (<bibl>Hoffmann, 1976</bibl> pp. 613-17); Geldner <em>apərəsaētəm</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>aϑā aϑā cōit̰ (Y12.10) ... aϑā aϑā cōit̰ (Y12.11)</em></ab>
+      <ab><em>zaraϑuštrō daēuuāiš sarəm viiāmruuītā</em> ~ Y12.9 <em>vī daēuuāiš ... sarəm mruiiē</em>.</ab>
+      <ab><em>vīspaēšū fərašnaēšū vīspaēšū haṇjamanaēšū yāiš apərəsaiiatəm mazdā̊scā zaraϑuštrascā</em> = Y12.11.</ab>
+      <ab><em>apərəsaiiatəm mazdā̊scā zaraϑuštrascā</em> ~ Y19,1, Y71.1, VS2.1, VS7.1 ... (Vidēvdād <em>passim</em>), H1.1, H2.1, H2.19, Yt1.1, Yt14.1, Yt14.34, Yt14.42, A4.4 <em>pərəsat̰ zaraϑuštrō ahrəm mazdąm</em>.</ab>
+      <ab><em>azə̄mcīt̰ yō mazdaiiasnō zaraϑuštriš</em> ~ Y12.6, Frauuarane.a <em>frauuarānē mazdaiiasnō zaraϑuštriš</em>; ~ Y12.13, VrS11.27, VrS32.2 <em>mazdaiiasnō zaraϑuštriš frauuarānē</em>.</ab>
+      <ab><em>daēuuāiš sarəm vīmruiiē</em> ~ Y12.9 <em>vī daēuuāiš ... sarəm mruiiē</em>.</ab>
+      <ab><em>anāiš viiāmruuītā</em> ~ Y12.9 <em>vī daēuuāiš ... mruiiē</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY12.11"/>
+      <include type="W" corresp="WTrY12.6"/>
+      <include type="K" corresp="KTrY12.6"/>
+      <include type="D" corresp="DTrY12.6"/>
+   </translation>
+</text>

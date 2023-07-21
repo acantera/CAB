@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS81.17" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VrS81.17">
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS35.27a" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/GahanbarAcc" xpointer="GahanbarAcc1" gahamonly="1" on_line="in1line"/>
+               <!-- All Gahanbar possible, but only if Gahanbar day. In gahanbar this and the following one ab appear together. If not Gahanbar, they dont appear at all, but VrS35.27b -->
+        <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS35.27b" gahamonly="1" on_line="in1lineblock"/> <!-- question Only if Gahanbar day -->
+            </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>VrS81.17 Var. a (mss. 2005, 2007, 2010, 2030, 2101, 2106, 2109):</ab>
+            <ab class="ab_indent">
+                <em>aēsmąsca baōiδīmca ... ratufritīmca yazamaide ahurəm mazdąm raēuuaṇtəm xᵛarənaŋᵛhəṇtəm yazamaide aməṣ̌ā spəṇtā huxšaθrā huδā̊ŋhō yazamaide</em> xšnūman ān ī bēd
+                guftan ka xšnūman ardā fraward bēd <em>aṣ̌āunąm vaŋᵛhīš sūrā̊ spəṇtā̊ frauuaṣ̌aiiō staōmi zbaiiemi ufiiemi yazamaide</em> tā <em>vīspā̊ frauuaṣ̌aiiō aṣ̌āunąm yazamaide</em>
+                ka gāhānbār bēd ka <em>aiiara asńiia māhiia yāiriia sarəδa maiδiiōi.zarəmaēm aṣ̌auuanəm aṣ̌ahe ratūm yazamaide</em> ayāb ān gāh ī bēd pas <em>aēsmąsca baōiδīmca ... ratufritīmca
+                    yazamaide ratauuō vīspe mazišta yazamaide aiiara asńiia māhiia yāiriia sarəδa hāuuanīm aṣ̌auuanəm aṣ̌ahe ratūm yazamide maiδiiōizarəmaēm aṣ̌auuanəm aṣ̌ahe ratūm yazamaide</em>
+                agar gāh dudīgar bēd guftan</ab>
+            <ab class="ab_indent">
+                "At <em>aēsmąsca baōiδīmca ... ratufritīmca yazamaide ahurəm mazdąm raēuuaṇtəm xᵛarənaŋᵛhəṇtəm yazamaide aməṣ̌ā spəṇtā huxšaθrā huδā̊ŋhō yazamaide</em>, they should 
+                recite the corresponding <em>šnūman</em>. When it is for Ardā Fraward, (they should recite) <em>aṣ̌āunąm vaŋᵛhīš sūrā̊ spəṇtā̊ frauuaṣ̌aiiō staōmi zbaiiemi ufiiemi yazamaide</em>
+                until <em>vīspā̊ frauuaṣ̌aiiō aṣ̌āunąm yazamaide</em>. When it is a gāhānbār, when (they have said) <em>aiiara asńiia māhiia yāiriia sarəδa maiδiiōi.zarəmaēm aṣ̌auuanəm aṣ̌ahe 
+                    ratūm yazamaide</em> or the corresponding <em>gāh</em>, then (they should recite) <em>aēsmąsca baōiδīmca ... ratufritīmca yazamaide ratauuō vīspe mazišta yazamaide 
+                        aiiara asńiia māhiia yāiriia sarəδa hāuuanīm aṣ̌auuanəm aṣ̌ahe ratūm yazamide maiδiiōizarəmaēm aṣ̌auuanəm aṣ̌ahe ratūm yazamaide</em> and, when it is another <em>gāh
+                        </em>, (they should say it)."</ab>
+            
+            <ab>VrS81.17 Var. b (ms. 2040):</ab>
+            <ab class="ab_indent">
+                <em>aēsmąsca baōiδīmca ... ratufritīmca yazamaide</em> yazišn gāhānbār <em>ratauuō vīspe mazišta yazamaide aiiara asńiia māhiia yāiriia sarəδa maiδiiōi.zarəmaēm aṣ̌auuanəm
+                    aṣ̌ahe ratūm yazamaide</em> agar ahlawān bēd <em>aṣ̌āunąm vaŋᵛhīš sūrā̊ spəṇtā̊ frauuaṣ̌aiiō staōmi zbaiiemi ufiiemi yazamaide</em> tā gyāg <em>aṣ̌āunąm vaŋᵛhīš sūrā̊ spəṇtā̊
+                        frauuaṣ̌aiiō yazamaide</em></ab> 
+            <ab class="ab_indent">
+                "At <em>aēsmąsca baōiδīmca ... ratufritīmca yazamaide</em>, (when it is) a liturgy for Gāhānbār, (they should recite) <em>ratauuō vīspe mazišta yazamaide aiiara asńiia māhiia 
+                    yāiriia sarəδa maiδiiōi.zarəmaēm aṣ̌auuanəm aṣ̌ahe ratūm yazamaide</em>. If it is for the <em>ahlawān</em>, (they should recite) <em>aṣ̌āunąm vaŋᵛhīš sūrā̊ spəṇtā̊ frauuaṣ̌aiiō
+                        staōmi zbaiiemi ufiiemi yazamaide</em> until <em>aṣ̌āunąm vaŋᵛhīš sūrā̊ spəṇtā̊ frauuaṣ̌aiiō yazamaide</em>."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrVrS81.17"/>
+    </translation>
+</text>

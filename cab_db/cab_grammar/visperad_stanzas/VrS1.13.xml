@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS1.13" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VrS1.13">
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS1.5"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. VrS1.4.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels>
+        <ab>VrS1.13 ≈ VrS2.15, VrS17.14, VrS25.15, VrS27.29, VrS77.14, VrS90.13.</ab>
+    <ab><em>γənąnąm pouru.sarəδō.vīrō.vąϑβanąm</em> ~ Y1.6, Y3.8, Y4.11, Y7.9, Y22.9, Y24.16, Y66.6, VrS78.18, VrS79.11, VrS82.6 <em>γənąnąmca vīrō.vąϑβanąm</em>; 
+        ~ Y2.6, Y6.5, Y17.5, Y59.5, VrS2.6, VrS6.5, VrS17.5, VrS77.5, VrS81.5 <em>γnā̊sca vīrō.vąϑβā̊</em>; 
+        ~ Y11.6, VrS11.6 <em>āat̰ aɱi nmāne zaiiā̊ṇte dahakāca mūrakāca pouru.sarəδa varšnāca; ~ </em> Y65.11 <em>pouru.sarəδąm amauuaitīm frazaṇtīmca</em>.</ab>
+        <ab><em>ahumatō ratumatō</em> ~ VrS41.4 <em>ahuməṇtəm ratuməṇtəm aṣ̌auuanəm aṣ̌ahe ratūm yazamaide hō.zī asti ahūmca ratūmca yō ahurō mazdā̊</em>.</ab>
+</Parallels>
+<Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrVrS1.13"/>
+        <include type="W" corresp="WTrVr1.5"/>
+        <include type="D" corresp="DTrVr1.5"/>
+        <include type="K" corresp="KTrVr1.5"/>
+    </translation>
+</text>

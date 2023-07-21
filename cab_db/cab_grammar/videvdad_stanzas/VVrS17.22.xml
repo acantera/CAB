@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS17.22" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y17.11" xml:id="VVrS17.22">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RozAcc" xpointer="RozAcc1" on_line="in1lineblock"/>
+      <!-- All possible -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY17.9c" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/MahAcc" xpointer="MahAcc1" on_line="in1lineblock"/>
+      <!-- All possible -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY17.9d" on_line="in1line"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. VVrS17.4.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VVrS17.22a ...<em>yazamaide</em>] YWM W BYRH ZK-š ḆYN YKOYMWN-d gwptn' (4075 Pers. goftan) 4000, 4010, 4020, 4025, 4030, 4045, 4075, 4161, 4162; YWM W BRH gwptn' 4050.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS17.22"/>
+   </translation>
+</text>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y23.0" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y23.0">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP3"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: Anklesaria, Kotwal and Boyd. Vid Recitation Instruction.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>Y23.0WazGr] zwt' <em>yaϑā ahū vairiiō zaōtā frā.mē mrūtē</em> lʾspyk <em>yaϑā ahū vairiiō yō zaōtā frā.mē mrūtē</em> zwt' <em>aϑā ratuš</em> krtn' 6, 15, 88;
+            zwt' <em>yaϑā ahū vairiiō zaōta</em> lʾspyk <em>yaϑā ahū vairiiō yō zaōtā</em> zwt' <em>aϑā ratuš</em> krtn' 40; wʾc OHDWNšnyh W znd ʾytwn' cygwnnpšt' 500, 510.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <ModernPractice id="ritualModernPractice">
+         <ab><bibl>Redard and Daruwalla, 2021</bibl>, p. 90:</ab>
+         <ab class="ab_indent">"The chief priest, after holding by the pinch of the right hand the saucer of the <em>hom</em> and pomegranate twigs and the milk cup near the base of the moon-shaped
+            stands, holds (them) over the bundle and recites alone: <em>frauuarāne … frasastaiiaēca</em>. The chief priest placing the cup and the saucer, held over the bundle, back
+            at its place, recites: Dialogic Ahuna Vairiia."</ab>
+         
+         <ab><bibl>Kotwal and Boyd, 1991</bibl> p. 105:</ab> 
+         <ab class="ab_indent">"while saying the 'I profess' (<em>fravarane</em>) passage, the <em>zōt</em> picks up the saucer containing the three <em>hōm</em> twigs 
+            and one pomegranate twig, and places it next to the cup near the base of the southernmost crescent-shaped barsom stand. Holding the adjoining sides of the cup and saucer together with his
+            thumb and index finger, the <em>zōt</em> picks them up and touches them to the extended southern edge of the elevated <em>barsom</em> wires. 
+            He maintains this contact between the cup and saucer and the <em>barsom</em> wires throughout the recitation of st. 5 (Y23.0). 
+            Following this, the <em>zōt</em> and <em>rāspī</em> exchange the <em>bāj</em>. While saying "May the <em>zōt</em> proclaim to me the  <em>y.a. v.</em>" 
+            (<em>y.a. v. zaotā frā mē mrūte</em>), the chief priest pours a small amount of the <em>zōhr</em> mixture from the cup onto the date-palm cord (tipping the cup and saucer only slightly
+            so the twigs do not fall out). Then he sets down the cup next to the base of the metal stand furthest from him, and places the saucer containing twigs back on the west side of the table. 
+            Both priests complete the rest of the bāj."</ab>
+      </ModernPractice>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY23.0"/>
+      <include type="W" corresp="WTrY23.5"/>
+      <include type="K" corresp="KTrY23.5"/>
+      <include type="D" corresp="DTrY23.5"/>
+   </translation>
+</text>

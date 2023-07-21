@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y19.7" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y19.7">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY19.7"/>
+   </div><Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y19.3.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y19.7a <em>apa.raōδaiiete</em>] sec. cod.; Geldner, Kellens <em>aparaōδaiiete</em>.</ab>
+         <ab>Y19.7b <em>paṇgtaŋhum</em>] cod. vv. ll. with <em>-ṇgt-</em>, <em>-ŋt-</em> and Ind. <em>-ṇgat-</em>. <em>-ṇgt-</em> as <em>lectio difficilior</em> while <em>-ṇgat-</em> should go back to older <em>-ṇgt-</em> 
+            and <em>-ŋt-</em> should be a secondary development. Cf. attestations VS6.32, VS6.35, VS16.2. On ending <em>-um</em>, vid. <bibl>Cantera, 2016b</bibl>.</ab>
+         <ab>Y19.7c <em>pairi...tanauua</em>] likely old 1st. sg. pres. subj. act. form. Vid. <bibl>Kellens, 1974</bibl> p. 164 and <bibl>Kellens, 2010</bibl> p. 31.</ab>
+         <ab>Y19.7d <em>īm...īm</em>] acc. as nom.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>yasca mē aētaɱi aŋhuuō yat̰ astuuaiṇti spitama zaraϑuštra baγąm ahunahe vairiiehe drəṇjaiiō aparaōδaiiete</em> ~ Y19.6 <em>yasca mē aētaɱi aŋhuuō yat̰ astuuaiṇti spitama zaraϑuštra baγąm ahunahe vairiiehe marāt̰</em>.</ab>
+      <ab><em>baγąm ahunahe vairiiehe</em> = Y19.6, Y19.21; ~ Y19.3 <em>baγa aēša ās ahunahe vairiiehe</em> ~ Y19.5 <em>hā.mē baγa ahunahe vairiiehe</em>;
+         ~ Y20.5 <em>baγąm aṣ̌ahe vahištahe</em>; ~ Y21.5 <em>baγąm yeŋ́hē.hātąm</em>; ~ Y55.7 <em>baγąm staōtanąm yesńiianąm</em>.</ab>
+      <ab><em>yat̰ vā naēməm yat̰ vā ϑrišum yat̰ vā caϑrušum yat̰ vā paŋtaŋhum</em> = VS6.32, VS6.35, VS16.2.</ab>
+      <ab><em>pairi.dim tanauua azəm yō ahurō mazdā̊ uruuānəm haca vahištāt̰ aŋhaōt̰ auuauuaitiia bązasca fraϑasca pairi.tanuiia yaϑa īm zā̊ astica īm zā̊ auuaiti bązō yauuaiti fraϑascit̰</em> 
+         ~ Y71.15 <em>pairi.tē tanauua azəm yō ahurō mazdā̊ uruuānəm haca acištāt̰ aŋhaōt̰ auuauuaitiia bązasca fraϑasca pairi.tanuiia yaϑa īm zā̊ astica īm zā̊ auuaiti bązō yauuaiti fraϑascit̰</em>.</ab>
+      <ab><em>vahištāt̰ aŋhaōt̰</em>: <em>vahišta- ahu- passim</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY19.7"/>
+      <include type="W" corresp="WTrY19.7"/>
+      <include type="K" corresp="KTrY19.7"/>
+      <include type="D" corresp="DTrY19.7"/>
+   </translation>
+</text>

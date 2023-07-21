@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS27.49" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y24.30" xml:id="VrS27.49">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS13.48"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: ms. 2065. Cf. VrS25.38.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VrS27.49a <em>āat̰ dīš āuuaēδaiiamahi aṣ̌āunąm</em> ...] <em>aṣ̌aōnąm frauuašinąm</em> cygwn PWN yšt' YHWWNyt OD <em>aṣ̌āt̰ haca</em> (VrS27.50) 2065;
+            <em>aṣ̌aōną̇m</em> zwt lʾspyk <em>frauuašiną̇m</em> cygwn PWN yšt' YHWWNyt OD  (VrS27.50) <em>yat̰. vahištāt̰</em> 2065.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS27.49"/>
+   </translation>
+</text>

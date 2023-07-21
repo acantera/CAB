@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS78.6" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS78.6">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS78.6NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS32.1"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS78.6 Var. a (mss. 2005, 2007, 5020):</ab>
+         <ab class="ab_indent">
+            barsom pad barsomdān bē hilišn zōt ud rāspīg harw dō <em>yaθā ahū vairiiō</em> dō bār guftan</ab>
+         <ab class="ab_indent">
+            "He (the <em>zōt</em>) has to put the <em>barsom</em> on the <em>barsomdān</em>. Both, <em>zōt</em> and <em>rāspīg</em>, should say twice the <em>yaθā ahū vairiiō</em>."</ab>
+         
+         <ab>VrS78.6 Var. b (mss. 2010, 2030, 2101, 2106):</ab>
+         <ab class="ab_indent">
+            zōt ud rāspīg āgenēn <em>yaθā ahū vairiiō</em> dō guftan barsom abar barsomdān bē hilišn ātaxš niyāyišn bē gōwišn</ab> 
+         <ab class="ab_indent">
+            "The <em>zōt</em> and the <em>rāspīg</em> should recite together two <em>yaθā ahū vairiiō</em>. He (the <em>zōt</em>) has to put the <em>barsom</em> on the <em>barsomdān</em>.
+            He has to recite the Ātaxš Niyāyišn."</ab>
+         
+         <ab>VrS78.6 Var. c (ms. 2104):</ab>
+         <ab class="ab_indent">
+            zōt ud rāspīg <em>yaθā ahū vairiiō</em> dō guftan <em>barsom</em> abar <em>barsomdān</em> bē hilišn ātaxš abrōxtan</ab>
+         <ab class="ab_indent">
+            "The <em>zōt</em> and the <em>rāspīg</em> should say twice the <em>yaθā ahū vairiiō</em>. He (the <em>zōt</em>) has to put the <em>barsom</em> on the <em>barsomdān</em>. 
+            He (the <em>rāspīg</em>) should kindle the fire."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS78.6"/>
+   </translation>
+</text>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y27.3" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y27.3">
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+               <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y27.3NerangTransc.a"/>
+            </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>   
+        <Nerangs id="ritualNerangs">
+            <ab>Y27.3 (mss. 15, 40, 82, 88, 400, 410 (sec.m.), 2005, 2007, 2010, 2030, 2040, 2101, 2106, 2109, 4000, 4010, 4020, 4025, 4030a, 4040, 4050, 4055, 4060, 4161 (lac. sec.m.), 4162, 5020):</ab>
+            <ab class="ab_indent">
+                <em>yaθā ahū vairiiō</em> čahār bār guftan pad <em>yaθā ahū vairiiō</em> fradom abarhāwan pad dar ī hāwan čīyōn xwaršēd gardēd bē gardēnišn pad <em>š́iiaōθananąm</em> 
+                ēk bār ud pad aŋhəuš ēk bār ud pad mazdāi ēk bār kōftan ud pad dudīgar <em>yaθā ahū vairiiō</em> ham pad ēn wāzagīhā harw ēk dō bār kōftan ud pad sidīgar <em>yaθā ahū vairiiō</em> 
+                ham pad ēn wāzagīhā harw ēk sē bār kōftan ēdōn kū pad fradom sē bār ud pad dudīgar šaš bār ud pad sidīgar nō bār kōftag bēd pad <em>xšaθrəmcā</em> sidīgar abarhāwan gōš 
+                bālā bē abrāzēnišn pad <em>yaθā ahū vairiiō</em> čahārom hōm ud urwarām hamē kōbišn</ab> 
+            <ab class="ab_indent">
+                They should recite the <em>yaθā ahū vairiiō</em> four times. During the first <em>yaθā ahū vairiiō</em>, he has to turn the pestle over around the mortar in the direction 
+                in which the sun rotates and he should pound (the <em>hōm</em> and <em>urwarām</em> with the pestle) once at <em>š́iiaōθananąm</em>, once at <em>aŋhə̄uš</em> and 
+                once at <em>mazdāi</em>. During the second <em>yaθā ahū vairiiō</em>, at these same words, he should pound twice each time and during the third <em>yaθā ahū vairiiō</em>, 
+                at these same words, he should pound three times each time so that they pound three times during the first (<em>yaθā ahū vairiiō</em>), six during the second and nine during 
+                the third. At the third <em>xšaθrəmcā</em>, he has to raise the <em>abarhāwan</em> to the height of the ears. During the fourth <em>yaθā ahū vairiiō</em>, he has to continuously
+                pound the <em>hōm</em> and the <em>urwarām</em>.</ab> 
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+        <ab>Cf. N38.46d:</ab>
+            <ab class="ab_indent"><em>u-š pad ān 4 yatāhūwēryō 3 ud 6 ud 9 pad </em> xšaθrəmcā<em> ī sidīgar
+            gōš bālāy ul dārišn az ān gyāg paydāg </em>āθritīm
+            xšaθrō.kərətahe gaōšō.bərəzō us.šāuuaiiōit̰.</ab>
+            <ab class="ab_indent"> At these four Ahuna Vairiia he has to pound (the mortar with the pestle) three, six and nine times. At <em>xšaθrəmcā</em>, he has to raise (the pestle) to the height of the ears, as it appears from the following passage: <em> āθritīm
+            xšaθrō.kərətahe gaōšō.bərəzō us.šāuuaiiōit̰</em></ab>
+            
+            <ab>N28.46g:</ab>
+            <ab class="ab_indent">
+                u-š pad ān 4 yatāhūwēryō 3 ud 6 ud 9 pad <em>xšaθrəmcā</em> ī sidīgar gōš bālāy ul dārišn az ān gyāg paydāg <em>āθritīm xšaθrō.kərətahe gaošō.bərəzō us.šāuuaiiōit̰</em></ab>   
+            <ab class="ab_indent">
+                "At the four <em>Ahuna Vairiia</em>, (he has to pound) three, six and nine times; at the third <em>xšaθrəmcā</em>, he has to raise (the <em>abarhāwan</em>) to the height
+                of his ears, as is evident from the following passage: <em>āθritīm xšaθrō.kərətahe gaošō.bərəzō us.šāuuaiiōit̰</em>."</ab>
+        </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY27.3"/>
+    <include type="W" corresp="WTrY27.3"/><include type="K" corresp="KTrY27.3"/><include type="D" corresp="DTrY27.3"/></translation>
+</text>

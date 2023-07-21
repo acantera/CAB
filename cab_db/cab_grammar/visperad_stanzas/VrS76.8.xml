@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS76.8" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS76.8" quote="Y36.6">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY58.8c"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY58.8d"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS76.8 (mss. 2005, 2007, 2010, 2030, 2040, 2101, 2104, 2106, 2109, 4000, 4010, 4020, 4025, 4040, 4045, 4050, 4060, 4161, 5020):</ab>
+         <ab class="ab_indent">
+            rāspīg pad gāh ī ātrawaxšān <em>hauruuąm haṇdāitīm staōtanąm yesńiianąm yazamaide apanō.təmaiiā paitī vacastaštā sraēštąm at̰ tōi kəhrpə̄m kəhrpąm āuuaēdaiiamahī mazdā
+               ahurā imā raōcā̊ barəzištəm barəzimanąm auuat̰ yāt̰ huuarə̄ auuācī</em></ab> 
+         <ab class="ab_indent">
+            "The <em>rāspīg</em> (has to recite) at the place of the <em>ātrawaxšān</em>: <em>hauruuąm haṇdāitīm staōtanąm yesńiianąm yazamaide apanō.təmaiiā paitī vacastaštā 
+               sraēštąm at̰ tōi kəhrpə̄m kəhrpąm āuuaēdaiiamahī mazdā ahurā imā raōcā̊ barəzištəm barəzimanąm auuat̰ yāt̰ huuarə̄ auuācī</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS76.8"/>
+   </translation>
+</text>

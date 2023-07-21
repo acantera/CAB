@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS8.6" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y8.6" xml:id="VrS8.6">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS8.6NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. VrS8.4 and Y8.6.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>Vid. Nērang.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Var. b (mss. 2007, 2010, 2030, 2040, 2109):</ab>
+         <ab class="ab_indent" n="NerangTransc.a" xml:id="Y8.3NerangTransc.a" xml:lang="Pahl"><em>aṣ̌əm vohū</em> sē bār guftan dast az barsom ul hištan sar ī zōhr nihuftan srōšdrōn xwardan ud dahān pāk kardan ud dast pad pādyāb kardan dast abar barsom nihādan <em>aṣ̌əm vohū</em> čahār guftan</ab>
+         <ab class="ab_indent" n="NerangEnglish.a" xml:id="Y8.3NerangEnglish.a">"He should say three Aṣ̌əm Vohū. He should release his hand from the barsom and cover the top of the zōhr. He should eat the <em>srōšdrōn</em>, clean his mouth and wash his hand with padyāb and lay his hand on the barsom.</ab>
+      </Nerangs>
+   </Ritual>
+   <translation/>
+</text>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y15.0" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y15.0">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP3"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: Anklesaria, Kotwal and Boyd, Geldner.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical>
+         <ab>VrS15.0WazGr <em>yaϑā ahū vairiiō zaōtā</em> ... <em>yaϑā ahū vairiiō yō zaōtā</em> ...]  <em>yaϑā ahī vairiiō zaōta</em> ... <em>yaϑā ahī vairiiō zaōta</em> 5.</ab>
+      </Critical>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>yaϑā ahū vairiiō zaōtā</em> ...]  zwt' <em>yaϑā ahī vairiiō zaōta frāmē mrītē</em> lʾspyk <em>yaϑā ahī vairiiō zaōta frā.mē mrītē</em> zwt' <em>aϑā ratuš</em> krtn' OD <em>mraōtē</em> 5; 
+            zwt' <em>yaϑā ahī vairiiō zaōta frā.mē mrītē</em> lʾspyk <em>yaϑā ahī vairiiō zaōta frā.mē mrītē</em> zwt' <em>aϑā ratuš</em> krtn' 6, 88; 
+            zwt' <em>yaϑā ahī vairiiō zaōta frā.mē mrītee</em> hmlʾspyk <em>yaϑā ahī vairiiō zaōta frā.mē mrītē</em> zwt' <em>aϑā ratuš</em> krtn' 15;
+            zwt' <em>yaϑā ahū vairiiō zaōta</em> lʾsp̄yk <em>yaϑā ahū vairiiō yō zaōta</em> zwt' <em>aϑā ratuš</em> krtn' 40.</ab>
+         <ab><em>frauuarāne</em> ...] <em>frauuarāne</em> OD LOYŠE <em>sastica vaṇtāca</em> (Y15.1) 672,</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY15.0"/>
+      <include type="W" corresp="WTrY14.4-5"/>
+      <include type="K" corresp="KTrY14.4-5"/>
+      <include type="D" corresp="DTrY14.4-5"/>
+   </translation>
+</text>

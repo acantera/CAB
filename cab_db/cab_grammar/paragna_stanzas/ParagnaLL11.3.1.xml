@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL11.3.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="1" xml:id="ParagnaLL11.3.1">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL11.3.1 (Mss. K7, RJ):</ab>
+            <ab class="ab_indent">
+                pas ān kasi ke barsom be-dast dārad do <em>yaθā ahū vairiiō</em> goftan <em>yasnəmca</em> tā <em>āfrīnāmi ahurahe mazdā̊ raēuuatō xvarənaŋᵛhatō</em> beguyad pas 
+                dast az barsom vāgirad</ab>
+            <ab class="ab_indent">
+                "Then, the one who touches the <em>barsom</em> with the hand should recite two <em>Yaθā ahū vairiiō</em> and <em>yasnəmca</em> until <em>āfrīnāmi</em> (with the 
+                <em>šnūman</em>) <em>ahurahe mazdā̊ raēuuatō xvarənaŋᵛhatō</em> and then he releases his hand from the <em>barsom</em>."</ab> 
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL11.3.1"/>
+    </translation>
+</text>

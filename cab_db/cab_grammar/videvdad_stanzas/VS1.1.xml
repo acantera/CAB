@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VS1.1" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VS1.1">
+        <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP19"/>
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Quotation>
+            <ab>From Revāyāt Kamdīn Shapur <bibl>Unvala, 1922</bibl> (v. II, p. 23)</ab>
+            <ab class="ab_indent"><em>yas̱ā ʾhū vīryū ās̱ravaḫšū frā mī mrūtī va rāspī as̱ā ratūš kardan va pas dast bevaraq kāġaz kardan</em> marot̰. ahurō. mazdā̊. <em>pas tā čahārom tamām kardan pas rāspī āv pādyāb kardan zūd dast šostan</em> 
+                ẏānīm. manō. <em>tā</em> aϑā. vaxṣ̌iiā. ahurəm. mazdą̇m. <em> goftan pas panǧom pargard tā šašom tamām kardan dast šostan</em> tāvə̄. uruuātā. <em>tā</em> ahunuuitiiā <em>pas</em> ẏā. š́iiaoϑnā. <em>
+                    goftan pas dast bevaraq kardan tā bīst va duwum pargard tamām kardan</em></ab>
+            <ab class="ab_indent"><em>yaϑā ahū vairiiō [[yō]] āϑrauuaxšō frā mē mrūtē</em> and the <em>rāspīg</em> recites <em>aϑā ratuš</em> and then (the <em>zōt</em>) puts the hand over the leaf of the book (and recites)
+            <em>mraōt̰ ahurō mazdā̊</em> until the fourth completely. Then the <em>rāspīg</em> brings the water and the <em>pādyāb</em> and the <em>zōt</em> was his hands.
+               (Then) say <em>yānīm. manō</em> until <em>at̰. tā. vaxṣ̌iiā. (and) ahurəm. mazdąm.</em>. Then the fifth and the sixth <em>fragard</em> should be recited completely and the hands washed.
+                (Then) say <em>tā və̄ uruuātā</em> until <em>ahunauuaitiiā̊</em> and then <em>yā š́iiaōϑnā</em>. Then (the <em>zōt</em>) puts the hand over the leaf (and so) until he completes the twenty second <em>fragard</em>.</ab>
+            <ab>Therefore, at least at the time of the Revāyats only the parts of the <em>fragards</em> where recited by reading a book.</ab>
+        </Quotation>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrVS1.1"/>
+    </translation>
+</text>

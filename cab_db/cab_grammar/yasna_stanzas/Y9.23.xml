@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y9.23" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y9.23">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY9.23"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y9.3.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y9.23a <em>haiϑīm</em> hardly explainable. <bibl>Bartholomae, 1904</bibl> and <bibl>Kellens, 2006</bibl> suggest <em>paiϑīm</em> (but expected <em>paitīm</em>). Cod. <em>haiϑīm</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>darəγəm aγruuō</em> = Yt17.59.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY9.23"/>
+
+        <include type="W" corresp="WTrY9.23"/>
+        <include type="K" corresp="KTrY9.23"/>
+        <include type="D" corresp="DTrY9.23"/>
+    </translation>
+</text>

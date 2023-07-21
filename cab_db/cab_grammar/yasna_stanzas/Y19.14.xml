@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y19.14" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y19.14">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY19.14"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y19.3.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y19.14a <em>mazda iϑa</em>] err. for <em>mazdāi iδa</em> (<bibl>Kellens, 2010</bibl> p. 36, sec. <bibl>Geldner, 1885</bibl>, p. 246).</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>mazda</em> quotes YAV.b <em>mazdāi</em>.</ab>
+      <ab><em>yat̰ aɱāi dāmąn</em> ~ Y19.12 <em>aϑa aɱāi dāmąn</em>.</ab>
+      <ab><em>xšaϑrəm ahurāi ... drigubiiōi vāstārəm</em> quotes YAV.c <em>xšaϑrəmcā ahurāi.ā yim drigubiiō dadat̰ vāstārəm</em>.</ab>
+      <ab><em>tat̰ mazda tauua xšaϑrəm</em> quotes Y53.9 (<bibl>Kellens, 2010</bibl> p. 43) <em>tat̰ mazdā tauuā xšaϑrəm</em>; quoted by Dk9.47.17 (M845.15-16).</ab>
+      <ab><em>uruuaϑəm spitamāi</em> quotes Y51.11 (<bibl>Kellens, 2010</bibl> p.43) <em>kə̄ uruuaϑō spitamāi</em>.</ab>
+      <ab><em>vīspəm vacō frauuākəm haurum vacō ahurahe mazdā̊</em> = Y20.4.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY19.14"/>
+   <include type="W" corresp="WTrY19.14"/><include type="K" corresp="KTrY19.14"/><include type="D" corresp="DTrY19.14"/></translation>
+</text>

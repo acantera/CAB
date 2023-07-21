@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VytVrS4.18" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VytVrS4.18">
+        <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VytSY4.15a" on_line="in1lineblock"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/RatuCerGen" xpointer="RatuCerGenVyt" on_line="in1line"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VytSY4.15b" on_line="in1line"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. VytVrS4.15.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab><em>mąϑrahe spəṇtahe raϑβō yasnāica ...</em>] <em>mąϑrahe spəṇtahe raϑβō yasnāica</em> OD <em>daδuuā̊ŋhəm ahurəm mazdąm</em> (VytVrS6.1) 5010, 5030.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels>
+        <ab>VytVrS4.18 = VytVrS27.43, VytVrS79.18 ≈ VytVrS1.27, VytVrS2.29, VytVrS3.15, VytVrS6.12, VytVrS7.16, VytVrS14.7, VytVrS17.29, VytVrS25.29, VytVrS77.29, VytVrS78.25, VytVrS81.12, VytVrS82.25, VytVrS90.27.</ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrVytVrS4.18"/>
+    </translation>
+</text>

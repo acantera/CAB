@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y28.15" status="created">  <!-- created, approved, updated--> <header>
+    <creators>
+        <creator>Porro</creator>
+        <creator>Cantera</creator>
+    </creators>
+    <created>1 June 2019</created>
+</header>
+    <div type="Stanza" sameAs="" xml:id="Y28.15">
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <ab>Cf. VS10.11-12</ab>
+        <ab>Cf. N17.1 (<bibl>Kotwal and Kreyenbroek, 1995</bibl>: pp. 100-1):</ab>
+        <ab class="ab_indent"><em>kaiia caθrušāmrūta</em></ab>
+        <ab class="ab_indent"><em>ẏaθā ahū vairiiō </em> (Y28.15) ... <em>. mazdā at̰ mōi vahištā</em> (Y34.14) ... <em>ā airiiə̄mā</em> (Y35.5)... <em>dužuuarənāiš</em> (Y54.1)</ab>
+        <ab class="ab_indent">"Which are the formulae to be recited four times?</ab>
+        <ab class="ab_indent"><em>ẏaθā ahū vairiiō </em> (Y28.15) ... <em>. mazdā at̰ mōi vahištā</em> (Y34.14) ... <em>ā airiiə̄mā</em> (Y35.5)... <em>dužuuarənāiš</em> (Y54.1)."</ab>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY28.15"/>
+    </translation>
+</text>

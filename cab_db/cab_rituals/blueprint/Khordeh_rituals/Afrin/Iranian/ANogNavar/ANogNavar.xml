@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+			<div type="Afringan" xml:id="ANogNavar"> <!-- vide: K36, MZK6, RR3, NiknamXA, MZK8 -->		
+				<div type="AfringanStanza" xml:id="ANogNavar1.1"> <!-- MZK6 begins with a Pāzand text -->
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="7"/>
+                </div>
+                <div type="AfringanStanza" xml:id="ANogNavar1.2">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/> <!-- In MZK6 (all mss. 19th c.?) after the YAV and AV prayers it follows the Gāh, a Pāzand formula and again YAV (8), AV (3), then comes the frauuarāne. section -->
+				</div>
+				<div type="Frauuarane" xml:id="ANogNavar1.3">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP1XA"/>
+				</div>
+				<div type="AfringanStanza" xml:id="ANogNavar2.1" quote="Y16.1 (#GY16.1) = YR16.1 VrS16.1 VVrS16.1 VytVrS16.1">
+					<ab n="a" xml:id="ANogNavar2.1a">ahurəm. mazdąm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide. hūδā̊ŋhəm. mazištəm. yazatəm. yim. səuuištəm. frādat̰.gaēϑəm.</ab>
+					<ab n="b" xml:id="ANogNavar2.1b">dātārəm. vohunąm. dāmanąm. ābiiō. rātāβiiō. zaōϑrābiiō. aršuxδaēibiiasca. vāγžibiiō. vīspəmca. aṣ̌auuanəm. maińiiaōm. yazatəm. yazamaide.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="ANogNavar2.2" quote="Y16.2 (#GY16.2) = YR16.2 VrS16.2 VVrS16.2 VytVrS16.2">
+					<ab n="a" xml:id="ANogNavar2.2a">zaraϑuštrəm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+					<ab n="b" xml:id="ANogNavar2.2b">ābiiō. rātābiiō. zaōϑrābiiō. aršuxδaēibiiasca. vāγžibiiō. vīspəmca. aṣ̌auuanəm. gaēϑīm. yazatəm. yazamaide.</ab>
+					<ab n="c" xml:id="ANogNavar2.2c">zaraϑuštrahe. aṣ̌aōnō. frauuaṣ̌īm. yazamaide.</ab>
+					<ab n="d" xml:id="ANogNavar2.2d">zaraϑuštrahe. srauuā̊. yazamaide.</ab>
+					<ab n="d" xml:id="ANogNavar2.2e">zaraϑuštrahe. daēnąm. yazamaide.</ab>
+					<ab n="e" xml:id="ANogNavar2.2f">zaraϑuštrahe. varənəmca. t̰kaēšəmca. yazamaide. aŋhuiiaōš. aṣ̌acinaŋhō. </ab>
+				</div>
+				<div type="AfringanStanza" xml:id="ANogNavar2.3" quote="Y16.3 (#GY16.3) = YR16.3 VrS16.3 VVrS16.3 VytVrS16.3">
+					<ab n="a" xml:id="ANogNavar2.3a">pauruuā̊. dātā̊. dāmąn. aṣ̌aōnīš.</ab>
+					<ab n="b" xml:id="ANogNavar2.3b">daϑušō. ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. yazamaide.</ab>
+					<ab n="c" xml:id="ANogNavar2.3c">vohu. manō. yazamaide.</ab>
+					<ab n="d" xml:id="ANogNavar2.3d">aṣ̌əm. vahištəm. yazamaide. </ab>
+					<ab n="e" xml:id="ANogNavar2.3e">xšaϑrəm. vairīm. yazamaide.</ab>
+					<ab n="f" xml:id="ANogNavar2.3f">spəṇtąm. vaŋᵛhīm. ārmaitīm. yazamaide.</ab>
+					<ab n="g" xml:id="ANogNavar2.3g">hauruuatātəm. yazamaide.</ab>
+					<ab n="h" xml:id="ANogNavar2.3h">amərətatātəm. yazamaide.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="ANogNavar2.4" quote="Y16.4 (#GY16.4) = YR16.4 VrS16.4 VVrS16.4 VytVrS16.4">
+					<ab n="a" xml:id="ANogNavar2.4a">daδuuā̊ŋhəm. ahurəm. mazdąm. yazamaide.</ab>
+					<ab n="b" xml:id="ANogNavar2.4b">ātrəm. ahurahe. mazdā̊. puϑrəm. yazamaide.</ab>
+					<ab n="c" xml:id="ANogNavar2.4c">āpō. vaŋᵛhīš. mazdaδātā̊. aṣ̌aōnīš. yazamaide.</ab>
+					<ab n="d" xml:id="ANogNavar2.4d">huuarəxšaētəm. auruuat̰.aspəm. yazamaide.</ab>
+					<ab n="e" xml:id="ANogNavar2.4e">mā̊ŋhəm. gaōciϑrəm. yazamaide.</ab>
+					<ab n="f" xml:id="ANogNavar2.4f">tištrīm. stārəm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide.</ab>
+					<ab n="g" xml:id="ANogNavar2.4g">gə̄uš. huδā̊ŋhō. uruuānəm. yazamaide.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="ANogNavar2.5" quote="Y16.5 (#GY16.5) = YR16.5 VrS16.5 VVrS16.5 VytVrS16.5">
+					<ab n="a" xml:id="ANogNavar2.5a">daδuuā̊ŋhəm. ahurəm. mazdąm. yazamaide.</ab>
+					<ab n="b" xml:id="ANogNavar2.5b">miϑrəm. vouru.gaōiiaōitīm. yazamaide.</ab>
+					<ab n="c" xml:id="ANogNavar2.5c">sraōšəm. aṣ̌īm. yazamaide.</ab>
+					<ab n="d" xml:id="ANogNavar2.5d">rašnūm. razištəm. yazamaide.</ab>
+					<ab n="e" xml:id="ANogNavar2.5e">aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spəṇtā̊. frauuaṣ̌aiiō. yazamaide.</ab>
+					<ab n="f" xml:id="ANogNavar2.5f">vərəϑraγnəm. ahuraδātəm. yazamaide.</ab>
+					<ab n="g" xml:id="ANogNavar2.5g">rāma. xᵛāstrəm. yazamaide.</ab>
+					<ab n="h" xml:id="ANogNavar2.5h">vātəm. spəṇtəm. huδā̊ŋhəm. yazamaide.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="ANogNavar2.6" quote="Y16.6 (#GY16.6) = YR16.6 VrS16.6 VVrS16.6 VytVrS16.6">
+					<ab n="a" xml:id="ANogNavar2.6a">daδuuā̊ŋhəm. ahurəm. mazdąm. yazamaide.</ab>
+					<ab n="b" xml:id="ANogNavar2.6b">daēnąm. vaŋᵛhīm. māzdaiiasnīm. yazamaide.</ab>
+					<ab n="c" xml:id="ANogNavar2.6c">aṣ̌īm. vaŋᵛhīm. yazamaide.</ab>
+					<ab n="d" xml:id="ANogNavar2.6d">arštātəm. yazamaide.</ab>
+					<ab n="e" xml:id="ANogNavar2.6e">asmanəm. yazamaide.</ab>
+					<ab n="f" xml:id="ANogNavar2.6f">ząm. huδā̊ŋhəm. yazamaide.</ab>
+					<ab n="g" xml:id="ANogNavar2.6g">mąϑrəm. spəṇtəm. yazamaide.</ab>
+					<ab n="h" xml:id="ANogNavar2.6h">anaγra. raōcā̊. xᵛaδātā̊. yazamaide.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="ANogNavar2.7" quote="Y16.7 (#GY16.7) = YR16.7 VrS16.7 VVrS16.7 VytVrS16.7">
+					<ab n="a" xml:id="ANogNavar2.7a">xᵛanuuaitīš. aṣ̌ahe. vərəzō. yazamaide. yāhu. iristanąm. uruuąnō.šāiieṇti. yā̊. aṣ̌āunąm. frāuuaṣ̌aiiō.</ab>
+					<ab n="b" xml:id="ANogNavar2.7b">vahištəm. ahūm. aṣ̌aōnąm. yazamaide. raōcaŋhəm. vīspō.xᵛāϑrəm.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="ANogNavar2.8" quote="Y16.8 (#GY16.8) = YR16.8 VrS16.8 VVrS16.8 VytVrS16.8">
+					<ab n="a" xml:id="ANogNavar2.8a">xšuuīδa. āzūiti. yazamaide. tacat̰.āpa. uxšiiat̰.uruuara.</ab>
+					<ab n="b" xml:id="ANogNavar2.8b">āzōiš. daēuuō.dātahe. hamōistri. auuaŋ́hā̊. mūš. auuaŋ́hā̊. pairikaiiāi. paitištātaiiaēca.</ab>
+					<ab n="c" xml:id="ANogNavar2.8c">paitiscaptaiiaēca. paititarətaiiaēca.</ab>
+					<ab n="d" xml:id="ANogNavar2.8d">paitiiaōgət̰.t̰baēšahiiāica.</ab>
+					<ab n="e" xml:id="ANogNavar2.8e">aṣ̌əmaōγaheca. anaṣ̌aōnō. sāstraheca. pouru.mahrkahe.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="ANogNavar2.9" quote="Y16.9 (#GY16.9) = YR16.9 VrS16.9 VVrS16.9 VytVrS16.9">
+					<ab n="a" xml:id="ANogNavar2.9a">yazamaide. vīspā̊. āpō.</ab>
+					<ab n="b" xml:id="ANogNavar2.9b">yazamaide. vīspā̊. uruuarā̊.</ab>
+					<ab n="c" xml:id="ANogNavar2.9c">yazamaide. vīspā̊. vaŋhauuō.</ab>
+					<ab n="d" xml:id="ANogNavar2.9d">yazamaide. vīspā̊. vaŋᵛhīš.</ab>
+					<ab n="e" xml:id="ANogNavar2.9e">yazamaide. vīspā̊. maińiiauuaca. yazata. gaēϑiiāica. yōi. vaŋhuδā̊ŋhō. aṣ̌auuanō.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="ANogNavar2.10" quote="Y16.10 (#GY16.10) = YR16.10 VrS16.10 VVrS16.10 VytVrS16.10">
+					<ab n="a" xml:id="ANogNavar2.10a">yazamaide. ϑβąm. maēϑanəm. yąm. ārmaitīm. spəṇtąm.</ab>
+					<ab n="b" xml:id="ANogNavar2.10b">yazamaide. ϑβąm. maēϑanahe. paiti. aṣ̌āum. ahura. mazda.</ab>
+					<ab n="c" xml:id="ANogNavar2.10c">druuafšaōš. druuō.vīrahe. druua.aṣ̌aciϑrahe. yaɱi. zī. kācit̰. tanunąm. drājištəm. hāme. maēϑaine. miϑnāt̰. at̰. hama. at̰. zaiiene.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="ANogNavar2.11">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/>
+				</div>
+				<div type="AfringanStanza" xml:id="ANogNavar3.1" quote="AD2.8">
+					<ab n="a" xml:id="ANogNavar3.1a">āfrīnāmi. xšaϑraiiāne. daŋ́hu.paiti. </ab>
+					<ab n="b" xml:id="ANogNavar3.1b">uparāi. amāi. uparāi. vərəϑrāi. uparāi. xšaϑrāi.</ab>
+					<ab n="c" xml:id="ANogNavar3.1c">xšaϑrəmca. paiti.astīmca.</ab>
+					<ab n="d" xml:id="ANogNavar3.1d">darəγō.xšaϑrəm. xšaϑrahe.</ab>
+					<ab n="e" xml:id="ANogNavar3.1e">darəγō.jītīm. uštānahe.</ab>
+					<ab n="f" xml:id="ANogNavar3.1f">druuatātəm. tanubiiō.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="ANogNavar3.2" quote="AD2.9">
+					<ab n="a" xml:id="ANogNavar3.2a">aməm. hutaštəm. huraōδəm.</ab>
+					<ab n="b" xml:id="ANogNavar3.2b">vərəϑraγnəm. ahuraδātəm.</ab>
+					<ab n="c" xml:id="ANogNavar3.2c">vanaiṇtīmca. uparatātəm.</ab>
+					<ab n="d" xml:id="ANogNavar3.2d">pouru.spaxštīm. t̰bišiiaṇtąm.</ab>
+					<ab n="e" xml:id="ANogNavar3.2e">paiti.jaitīm. dušmaińiiunąm.</ab>
+					<ab n="f" xml:id="ANogNavar3.2f">haϑrā.niuuāitīm. hamərəϑanąm.</ab>
+					<ab n="g" xml:id="ANogNavar3.2g">auruuaϑanąm. t̰bišiiaṇtąm.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="ANogNavar3.3" quote="AD2.10">
+					<ab n="a" xml:id="ANogNavar3.3a">āfrīnāmi.</ab>
+					<ab n="b" xml:id="ANogNavar3.3b">vauuanuuā̊. vanat̰.pəṣ̌ənə. buiie.</ab>
+					<ab n="c" xml:id="ANogNavar3.3c">vīspəm. auruuaϑəm. t̰bišiiaṇtəm.</ab>
+					<ab n="d" xml:id="ANogNavar3.3d">vīspəm. aγəm. t̰bišiiaṇtəm.</ab>
+					<ab n="e" xml:id="ANogNavar3.3e">araϑβiiō.manaŋhəm.</ab>
+					<ab n="f" xml:id="ANogNavar3.3f">araϑβiiō.vacaŋhəm. </ab>
+					<ab n="g" xml:id="ANogNavar3.3g">araϑβiiō.š́iiaōϑnəm.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="ANogNavar3.4" quote="AD2.11">
+					<ab n="a" xml:id="ANogNavar3.4a">vauuanə. buiie. </ab>
+					<ab n="b" xml:id="ANogNavar3.4b">raϑβiia. manaŋha. </ab>
+					<ab n="c" xml:id="ANogNavar3.4c">raϑβiia. vacaŋha. </ab>
+					<ab n="d" xml:id="ANogNavar3.4d">raϑβiia. š́iiaōϑna. </ab>
+					<ab n="e" xml:id="ANogNavar3.4e">nijanə. buiie.</ab>
+					<ab n="f" xml:id="ANogNavar3.4f">vīspe. dušmaińiiū. </ab>
+					<ab n="g" xml:id="ANogNavar3.4g">vīspe. daēuuaiiasnə̄.</ab>
+					<ab n="h" xml:id="ANogNavar3.4h">zazə. buiie.</ab>
+					<ab n="i" xml:id="ANogNavar3.4i">vaŋhāuca. mižde.</ab>
+					<ab n="j" xml:id="ANogNavar3.4j">vaŋhāuca. srauuahe.</ab>
+					<ab n="k" xml:id="ANogNavar3.4k">urunaēca. darəγe. hauuaŋhe.</ab>
+				</div>		
+				<div type="AfringanStanza" xml:id="ANogNavar3.5" quote="AD2.12">
+					<ab n="a" xml:id="ANogNavar3.5a">āfrīnāmi. </ab>
+					<ab n="b" xml:id="ANogNavar3.5b">darəγəm. juua.</ab>
+					<ab n="c" xml:id="ANogNavar3.5c">ušta. juua.</ab>
+					<ab n="d" xml:id="ANogNavar3.5d">auuaŋhe. narąm. aṣ̌aōnąm. </ab>
+					<ab n="e" xml:id="ANogNavar3.5e">ązaŋhe. dužuuarštāuuarəząm.</ab>
+					<ab n="f" xml:id="ANogNavar3.5f">vahištəm. ahūm. aṣ̌aōnąm. </ab>
+					<ab n="g" xml:id="ANogNavar3.5g">raōcaŋhəm. vīspō.xᵛāϑrəm.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="ANogNavar3.6">
+					<ab n="a" xml:id="ANogNavar3.6a">aϑa. jamiiāt̰. yaϑa. āfrīnāmi.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="ANogNavar3.7" quote="Y35.2 (#GY35.2) = YR35.2 VrS43.2 VVrS43.2 VytVrS43.2">
+					<ab n="a" xml:id="ANogNavar3.7a">humatanąm. hūxtanąm. huuarštanąm. iiadacā. ańiiadacā.</ab>
+					<ab n="b" xml:id="ANogNavar3.7b">vərəziiamnanąmcā. vāuuərəzananąmcā. mahī.</ab>
+					<ab n="c" xml:id="ANogNavar3.7c">aibī.jarətārō. naēnaēstārō. yaϑanā. vohunąm. mahī.</ab>
+					<ab n="d" xml:id="ANogNavar3.7d">humatanąm. hūxtanąm. huuarštanąm. iiadacā. ańiiadacā. vərəziiamnanąmcā. vāuuərəzananąmcā. mahī. aibī.jarətārō. naēnaēstārō. yaϑanā. vohunąm. mahī.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="ANogNavar4.1">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+                </div>
+				<div type="AfringanStanza" xml:id="ANogNavar4.2">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+				</div>
+				<div type="AfringanStanza" xml:id="ANogNavar4.3">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="2"/>
+                </div>	
+				<div type="AfringanStanza" xml:id="ANogNavar4.4">
+					<ab n="a" xml:id="ANogNavar4.4a">yasnəmca. vaɱəmca. aōjasca. zauuarəca. āfrīnāmi.</ab>
+					<include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGenXA1"/>
+				</div>
+				<div type="AfringanStanza" xml:id="ANogNavar4.5">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+				</div>
+			</div>
+</div>

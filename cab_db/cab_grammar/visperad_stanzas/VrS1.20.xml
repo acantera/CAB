@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS1.20" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y1.12" xml:id="VrS1.20">
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY1.11b" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RozGen" xpointer="RozGen1" on_line="in1line"/>
+               <!-- All days possible -->
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY1.11c" on_line="in1lineblock"/> <!-- q2 Eliminate when Gatha days -->
+               <include href="/db/apps/cab_db/cab_rituals/blocks/MahGen" xpointer="MahGen1" on_line="in1line"/>
+               <!-- All months possible -->
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: 2109.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <RecitationInstruction>
+            <ab><em>ńiuuaēδaiiemi  haṇkāraiiemi</em>] (Per.) zud va rāsfi har do ḫvāndan 2109.</ab>
+            <ab><em>ńiuuaēδaiiemi haṇkāraiiemi ...</em>] <em>ńiuuaēδaiiemi haṇkāraiiemi</em> YWM W gwptn' <em>ńiuuaēδaiiemi haṉkāraiiemi</em> BYRH gwptn' 2007, 2010; <em>ń. h.</em> YWM W BYRH ẔKš (ẔK 2040) ḆYN YKOYMWNd gwptn' 2030, 2040; <em>n. h.</em>;WM W BYRH gwptn' 2101; <em>ńiuuaēδaiiemi haṇkāraiiemi</em> YWM W BYRH ZK-š ḆYN YKOYMWNyt' gwptn' 2109.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrVrS1.20"/>
+    </translation>
+</text>

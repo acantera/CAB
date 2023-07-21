@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y45.9" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y45.9">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY45.9"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab><em>pasūš vīrə̄ṇg</em> ~ Y9.4 <em>pasu vīra</em>; ~ Y31.15 <em>pasə̄uš vīrāat̰ca</em>; ~ Y58.6 <em>pairī pasūš pairī vīrə̄ṇg</em>;
+         ~ VrS18.3, VrS28.4, Yt13.10, Yt13.43, Yt13.44 <em>pasuuā̊ vīraiiā̊</em>; ~ VS6.32, VS6.35, VS6.38, VS6.41 <em>pasubiia vīraēibiia</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY45.9"/>
+   </translation>
+</text>

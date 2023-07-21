@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS74.52" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VVrS74.52">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY57.35"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/videvdad_nerang" xpointer="VVrS74.52NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen19"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VVrS74.52 (mss. 4000, 4010, 4020, 4025, 4055, 4060, 4161, 4162):</ab>
+         <ab class="ab_indent">
+            amā ēn ǰuddēwdād pad xšnūman ī srōš nibišt ēstēd čīyōn xšnūman srōš bēd ka <em>āfrīnāmi</em> bē guft hēnd <em>sraōšahe</em> nē abāyēd guftan čīyōn xšnūman dudīgar 
+            bēd <em>sraōšahe aṣ̌iiehe taxmahe tanumąϑrahe darši.draōš āhūiriiehe</em> bē abāyēd guftan</ab> 
+         <ab class="ab_indent">
+            "We have written this J̌uddēwdād with the <em>šnūman</em> for Sroš. When it is the <em>šnūman</em> for Srōš, when they have said <em>āfrīnāmi</em>, they do not have 
+            to recite <em>sraōšahe</em>. When it is a different <em>šnūman</em>, then they must recite <em>sraōšahe aṣ̌iiehe taxmahe tanumąϑrahe darši.draōš āhūiriiehe</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS74.52"/>
+   </translation>
+</text>

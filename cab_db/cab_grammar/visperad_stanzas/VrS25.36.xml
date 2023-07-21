@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS25.36" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS25.36">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS12.1"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y22.26. Vid. Recitation Instruction.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>VrS25.36a <em>†karšuuane</em>] err. exp. *<em>karšuuąn</em> (never attested). <em>†kar(ə)šuuane</em> sec. most cod. (also VVrS), also thematized <em>°nahe</em> (cod. 2030, 2106);
+            Geldner, Kellens <em>karšuuanə̄</em> (sec. cod. 2610).</ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab>VrS25.36a <em>āiiese yešti arəzahibiiō</em> ...] <em>āiie</em> zwt <em>arəzahibiiō</em> 2065.</ab>
+         <ab>VrS25.36a <em>āiiese yešti arəzahibiiō</em> ...] <em>arəzahibiiō sauuahibiiō</em> OD <em>daēnaiiā̊sca māzdaiiasnōiš</em> (VrS25.37) 2065; <em>arəzahebiiō sauuahebiiō</em> OD <em>urunō frauuaṣ̌ə̄e</em> (VrS25.38) 2070.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS25.36 = DoHom2.36.</ab>
+      <ab>VrS25.36 ≈ VrS27.44, VrS90.32.</ab>
+      <ab><em>arəzahibiiō sauuahibiiō fradaδafšubiiō vīdaδafšubiiō vouru.barəštibiiō vouru.jarəštibiiō aheca †karšuuane yat̰ xᵛaniraϑahe</em>; 
+         ~ VS19.39 <em>nizbaiiemi auuat̰ karšuuarə yat̰ arəzahe sauuahe nizbaiiemi auuat̰ karšuuarə yat̰ fradaδafšu vīdaδafšu nizbaiiemi auuat̰ karšuuarə yat̰ vouru.barəšti vouru.jarəšti nizbaiiemi imat̰ karšuuarə yat̰ xᵛaniraϑəm</em>;
+         ~ Yt10.15 <em>auui arəzahi sahuuahi auui fradaδafšu vīdaδafšu auui vouru.barəšti vouru.jarəšti auui imat̰ karšuuarə yat̰ xᵛaniraϑəm</em>;
+         ~ Yt10.133 <em>tarō arəzahi sahuuahi tarō fradaδafšu vīdaδafšu tarō vouru.barəšti vouru.jarəšti tarō imat̰ karšuuarə yat̰ xᵛaniraϑəm</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS25.36"/>
+   </translation>
+</text>

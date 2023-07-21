@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="DoHom11.0" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="DoHom11.0">
+      <include href="/db/apps/cab_db/cab_rituals/fragards/FragardDH" xpointer="DoHom11.1"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>DoHom11.0 (ms. 2035):</ab>
+         <ab class="ab_indent">
+            <em>nəmō və̄ gāϑā̊ aṣ̌aōnīš</em> did bār xwāndan tā <em>vahištōištōiš gāϑaiiā̊ haṇdātā yazamaide zaraϑuštrahe spitāmahe iδa aṣ̌aōnō aṣ̌īmca frauuaṣ̌īmca yazamaide yeŋ́hē
+               hātąm</em> nērang-ē ǰuttar nēst</ab> 
+         <ab class="ab_indent">
+            "<em>nəmō və̄ gāϑā̊ aṣ̌aōnīš</em>. He should recite (the Vahištōišti Gāθā) a second time until <em>vahištōištōiš gāϑaiiā̊ haṇdātā yazamaide zaraϑuštrahe spitāmahe iδa aṣ̌aōnō aṣ̌īmca frauuaṣ̌īmca yazamaide </em>. 
+            For <em>yeŋ́hē hātąm</em> there is no different <em>nērang</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrDoHom11.0"/>
+   </translation>
+</text>

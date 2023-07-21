@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y0.Ext6" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+        <approved/>
+        <updated/>
+    </header>
+    <div xml:id="Y0.Ext6">
+         <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="Y0Ext6"/>
+      </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>zōt: vid. Y0.1.</div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        
+        <Critical/>
+        <RecitationInstruction/>
+        <Commentary>
+            <ab><em>xšnaōϑra. ahurahe. mazdā̊.</em>] 60, 100, 235.</ab>
+        </Commentary>
+        
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs/>
+        <ModernPractice id="ritualModernPractice">
+            <ab>
+                <ab>
+                    <bibl>Redard and Daruwalla, 2021</bibl>, p. 70: </ab>
+                <ab class="ab_indent">. Then the second time <em>xšnaoϑra ahurahe mazdā̊</em> 1x <em>Aṣ̌əm Vohū</em></ab> While reciting, he makes his right hand pure."</ab>
+        </ModernPractice>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrVVrS0.Ext6"/>
+    </translation>
+</text>

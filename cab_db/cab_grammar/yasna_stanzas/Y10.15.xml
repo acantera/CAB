@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y10.15" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y10.15">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY10.15"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y10.6.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y10.15a <em>jańiiōiš</em>] Geldner, Kellens, Pirart <em>janiiaoš</em>.</ab>
+         <ab>Y10.15a <em>əuuītō.xarəδaiiā̊</em>] Pirart <em>əuuītō.xᵛarəδaiiā̊</em></ab>
+         <ab>Y10.15b <em>⁺maińiieite</em>] em. Cod. °<em>-ṇte</em> or <em>-ṇti</em>, likely analogical to <em>dauuaiieiṇti</em> (<bibl>Kellens, 1974</bibl> p. 337, n.2); Geldner, Kellens <em>mainiieiṇti</em>; Pirart, sec. <bibl>Kellens, 1974 </bibl> <em>⁺mainiiete</em>.</ab>
+         <ab>Y10.15b <em>yā</em>] Pirart del.</ab>
+         <ab>Y10.15c <em>nišhiδaiti</em>] <em>-hiδ-</em> sec. YInd and VIndS mss. (672, 677, 4200, 4210 i.a.); Kellens (Bartholomae) <em>nišhiδaiti</em>; Geldner <em>nišhaδaiti</em>; Pirart <em>[niš.]haδaiti</em>. Cf. <em>nišhiδāt̰</em> (VS16.1), <em>nišhiδōit̰</em> (VS9.29), etc.</ab>
+         <ab>Y10.15c <em>daste</em>] cod., Bartholomae; Geldner, Kellens, Pirart <em>dasti</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY10.15"/>
+      <include type="W" corresp="WTrY10.15"/>
+      <include type="K" corresp="KTrY10.15"/>
+      <include type="D" corresp="DTrY10.15"/>
+   </translation>
+</text>

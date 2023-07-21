@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y1.12" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y1.12">
+        <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY1.11b" on_line="in1lineblock"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/RozGen" xpointer="RozGen1" on_line="in1line"/>
+        <!-- If Gatha days, no month applies in any date -->
+        <!-- All days possible -->
+        <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY1.11c" on_line="in1lineblock"/>
+        <!-- Eliminate together with month when Gatha days -->
+        <include href="/db/apps/cab_db/cab_rituals/blocks/MahGen" xpointer="MahGen1" on_line="in1line"/>
+        <!-- All months possible -->
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. Y1.4. Cf. VrS1.20.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <RecitationInstruction>
+            <ab><em>ńiuuaēδaiiemi haṇkāraiiemi ...</em>] <em>ńiuuaēδaiiemi haṇkāraiiemi</em> YWM W BYRH AYŠ gwptn' 15; <em>n. h.</em> YWM W BYRH ZKš ḆYN YKOYMWNyt' gwptn' 40; <em>ń. haṇ.</em> YWMW BYRH ZKš' ḆYN YKOKMNyt' 60;
+            <em>niuuaē.δaīēme</em> YWMA BYRH 100; <em>niuuae.</em> YWM BYRH 234; <em>niuuaē.</em> YWM <em>niuuaē.</em> BYRH 672. 400, 410, 500, 510 do not abbreviate.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels>
+        <ab>Y1.12 ≈ Y2.12, Y3.14, Y4.17, Y6.11, Y7.15, Y17.11, Y22.15, Y24.22, Y59.11, Y66.12,
+            VrS78.24, VrS79.17, VrS81.11, VrS82.12, VVrS14.10.</ab>
+        <ab><em>raēuuatō xᵛarənaŋᵛhatō</em> = Y1.11, Y3.13, Y4.7, Y4.16, Y7.14, Y16.3, Y17.10,
+            Y22.2, Y22.14, Y24.12, Y24.21, Y59.10, Y66.11.</ab>
+    </Parallels>
+    <Ritual>
+        <Quotations id="ritualQuotations">
+            <ab>WīD 116 <bibl>Sanjana, 1848</bibl>, pp. 184-185:</ab>
+            <ab class="ab_indent">ēk ēn kū andar panjag tā wahištōišt kū hamispahmēdyam māh ī
+                Spandarmad andar yazišn ud niyāyišn ud drōn yaštan nē šāyēd xwāndan čē ēn panj rōz
+                az māh judāg dāšt estēd</ab>
+            <ab class="ab_indent">čiyōn az abestāg ī niyādom paydāg <em>āat̰ aētahē paṇca aiiara
+                    hamas[a]θmaiδəm paiti ratūm spəṇtaiiå armitōiš mā̊ŋhō nōit̰ frasrāuuaiiōit̰</em>
+                ēdōn ān panj rōz hamispadmēdim abar radīh spandarmad bowandag-menišn māh kū
+                spandarmad māh nē frāz srāyēd kū nē xwānēd čē agar az [framōšīh] abar xwānēd abestāg
+                padīriftag nē bawēd.</ab>
+            <ab class="ab_indent"/>
+            <ab>"At the performance of the Yasna, the Niyāyišn and the Drōn, during the five days
+                until Wahištōišt, i.e. at the Hamaspaϑmaēdaya, the one (performing) must nor recite
+                the month Spandarmad, since these five days are separated from the month." </ab>
+            <ab>"As it is clear from the <em>abastāg</em> of the Niyādom <em>āat̰ aētahē paṇca aiiara
+                    hamas[a]θmaiδəm paiti ratūm spəṇtaiiå armitōiš mā̊ŋhō nōit̰
+                frasrāuuaiiōit̰</em>, i.e. 'so these five days, during the <em>ratu</em> of
+                Hamaspaϑmaēdaya, Spandarmad of well-mindedness, i.e. the month Spandarmad, should
+                not be recited', i.e. should not be read; if by forget, one recites it, the <em>abastāg</em>
+                would not be acceptable." </ab>
+
+            <ab>
+                <ab>Revāyat of Kama Bohra (MU1, p. 455) on the Yašt ī <em>gāϑābiiō</em>:</ab>
+                <ab class="ab_indent">(Pers.) negāh ruz māh <em>gāϑābiiō spəṇtābiiō ratuxšaϑrābiiō
+                        aṣ̌aonebiiō niuuae. ahunuuatiiā̊ gāϑaiiā̊</em>.</ab>
+                <ab class="ab_indent">(Pers.) "He should consider the day and month (and then
+                    recite): <em>gāϑābiiō spəṇtābiiō ratuxšaϑrābiiō aṣ̌aonebiiō niuuae.
+                        ahunuuatiiā̊ gāϑaiiā̊</em>".</ab>
+            </ab>
+        </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY1.12"/>
+        <include type="W" corresp="WTrY1.11b"/>
+        <include type="K" corresp="KTrY1.11b"/>
+        <include type="D" corresp="DTrY1.11b"/>
+    </translation>
+</text>

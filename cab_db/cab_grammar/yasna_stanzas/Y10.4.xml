@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y10.4" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y10.4">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY10.4"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt vid. Y9.3.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y10.4a <em>vərəziiaŋhuuąm</em>] Geldner, cod.; Kellens <em>vərəziiaŋᵛhąm</em>; Pirart <em>varəzi.aŋhuuąm</em>. Cf. <em>vərəziiaŋᵛhahe </em> (Y1.14, 3.15, 7.17), 
+            <em>vərəziiaŋᵛhā̊ŋhō </em> (Y10.14). The preservation of °ŋhuu° is regular in sveral cases: before <em>ą</em>, cf. <em>aŋhuuąm</em> (VS18.21), <em>vaŋhuuąm</em> (VS22.1, 8);
+            after <em>ō</em> in derivatives of <em>-ah</em> stems,cf. <em>aōjōŋhuuaṇt-</em> and <em>raōcōŋhuuaṇt-</em>.</ab>
+         <ab>Y10.4b <em>yaϑra</em>] cod. 410. Geldner <em>yaϑa</em>; Kellens <em>yaϑa</em>, but <bibl>Kellens, 2007</bibl>, p. 73 consideres the correction mandatory; <bibl>Pirart, 2004</bibl> p. 92, n. 221 <em>yaϑra</em>,  Skt. translation <em>yasmin sthāne</em>.</ab>
+         <ab>Y10.4c-d] sec. Geldner; Kellens, Pirart in Y10.5.</ab>
+         <ab>Y10.4c <em>mazā̊</em>] against cod., except 83, Mf1 post corr. (<em>non vidimus</em>), Pirart; cod., Geldner, Kellens <em>mazdā̊</em>, but <bibl>Kellens, 2007</bibl>, p.74 <em>mazā̊</em> "est retenue pour la traduction". PT <em>ohrmazd meh</em> (!), ST <em>evam mahattarodayam</em> (for <em>mazā̊ huruθma</em>). Vid. <bibl>Pirart, 2004</bibl> pp. 29-30.</ab>
+         <ab>Y10.4d <em>višpaϑa</em>] Geldner, Kellens, Pirart; hardly attested in mss. (100, 4020, 4030, 4161, 4162), but <em>viš.paϑa</em>. Cf. Y10.11 <em>viš.paϑa</em>, name of a mountain.</ab>
+         <ab>Y10.4d <em>haiϑīmca</em>] Pirart <em>haiϑīm[ca]</em>, based on PT and Skt (<em>-ca</em> absent in the translations).</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>ząm pərəϑβīm paϑanąm ... bərəϑrīm</em> ~ Yt13.9 <em>ząm pərəϑβīm ahuraδātąm yąm
+            masīmca paϑanąmca yā barəϑri</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY10.4"/>
+      <include type="W" corresp="WTrY10.4"/>
+      <include type="K" corresp="KTrY10.4"/>
+      <include type="D" corresp="DTrY10.4"/>
+   </translation>
+</text>

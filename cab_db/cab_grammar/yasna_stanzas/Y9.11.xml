@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y9.11" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y9.11">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY9.11"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y9.3.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y9.11a <em>nərə.garəm</em>] Geldner, Kellens; Pirart <em>narə.garəm</em>.</ab>
+         <ab>Y9.11b <em>vīš ⁺araōδat̰</em>] suppl. Geldner, Kellens, but Bartholomae <em>raoδat̰</em>; Pirart <em>vīšəm raodat̰</em>. <bibl>Kellens, 2007</bibl>, p. 54 <em>metri causa</em>, better than <em>raōδat̰</em>.</ab>
+         <ab>Y9.11b <em>ārštiiō.barəza</em>] Geldner, Kellens; Pirart <em>arəštiiō.barəza</em>.</ab>
+         <ab>Y9.11b <em>ārštiiō.barəza zairitəm</em>] add. post. glossa <em>xšuuaēpaiia vanaiiata barəšna</em> 400; <em>xšuuaēpaiia vanaiia barəšna</em> 410, cf. Yt19.40 <em>yim upairi vīš araōδat̰ xšuuaēpaiia vaēnaiia barəšna yim upairi vīš araōδat̰ ārštiiō.barəza zairitəm</em>. Kellens [<em>xšuuaēpaiia vaēnaiia barəšna</em>].</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>ažīm [...] vīšauuaṇtəm zairitəm</em> ~ Y9.30 <em>ažōiš zairitahe [...] vīšō.vaēpahe</em></ab>
+      <ab>Y9.11 ~ Yt19.40 (vid. Critical Commentary).</ab>
+      <ab><em>ā rapiϑβinəm zruuanəm</em> = Yt8.28.</ab>
+      <ab><em>naire.manā̊ kərəsāspō</em> = Yt5.37, Yt15.27, Yt19.38, Yt19.44.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY9.11"/>
+
+        <include type="W" corresp="WTrY9.11"/>
+        <include type="K" corresp="KTrY9.11"/>
+        <include type="D" corresp="DTrY9.11"/>
+    </translation>
+</text>

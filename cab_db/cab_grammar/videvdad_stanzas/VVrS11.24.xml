@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS11.24" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="VrS11.24" xml:id="VVrS11.24">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr8"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt̰ ud rāspīg: mss.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>zwt' <em>yaϑā ahū vairiiō yō ātrauuaxšō frā.mē mrūtē</em> lʾspyk <em>aϑā ratuš</em> krtn' hmlʾspyk' <em>yaϑā ahū vairiiō yō zaōtā frā.mē mrūtē</em> zwt' <em>aϑā ratuš</em> krtn'] 4000, 4010, 4025, 4040, 4045, 4050;
+            zwt' <em>yaϑāahī vairiiō yō ātrauuaxšō frāmē mraētē</em> lʾspyk <em>aϑā ratuš</em> krtn' hmwlʾspyk' <em>yaϑā ahīuuairiiō yō zaōtā</em> zwt' <em>aϑāratuš</em> krtn'] 4030; 
+            zwt' <em>yaϑā ahū vairiiō yō ātrauuaxšō frā.mē mrūtē</em> lʾspyk <em>aϑā ratuš aṣ̌āt̰.cīt̰ hacā frā aṣ̌auua vīδuuā̊ maraōtū</em> hmlʾspyk' (w lʾspyk 4020) <em>yaϑā ahū vairiiō yō zaōtā frā.mē mrūtē</em> zwt' <em>aϑā ratuš</em> OD LOYŠE (krtn' 4161) 4020, 4161,4162.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS11.24"/>
+   </translation>
+</text>

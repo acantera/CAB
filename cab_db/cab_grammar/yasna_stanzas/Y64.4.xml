@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y64.4" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y64.4" quote="Y50.7">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY64.3"/>
+               <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y64.4NerangTransc.a"/>
+            </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+        <ab>zōt ud rāspīg <em>auuaŋhe</em>] Without support in the manuscripts. Based in <bibl>Kotwal and Boyd, 1991</bibl></ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels/>
+        <Ritual>
+        <ab>~VrS88.4</ab>
+        </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY64.4"/>
+    <include type="W" corresp="WTrY64.3"/><include type="K" corresp="KTrY64.3"/><include type="D" corresp="DTrY64.3"/></translation>
+</text>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS20.13" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS20.13">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS20.13NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS20.13 Var. a (mss. 2000, 2065):</ab>
+         <ab class="ab_indent">
+            <em>yaϑā ahū vairiiō</em> čahār az pāy pad buland guftan čīyōn pad yašt tā bagām sar</ab>  
+         <ab class="ab_indent">
+            "They should recite four <em>yaϑā ahū vairiiō</em>, standing and in loud voice like in the <em>yašt</em> until the end of the <em>bagām</em>."</ab>
+         
+         <ab>VrS20.13 Var. b (mss. 2007, 2030, 2106, 2109, 4050, 5020):</ab>
+         <ab class="ab_indent">
+            <em>yaϑā ahū vairiiō</em> čahār pad buland wāng guftan ud frāgām abrāstan</ab> 
+         <ab class="ab_indent">
+            "They should recite four <em>yaϑā ahū vairiiō</em> in loud voice und to raise the <em>frāgām</em>."</ab>  
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS20.13"/>
+   </translation>
+</text>

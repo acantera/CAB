@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+        <div type="Gāh" xml:id="GEbsr">
+                <div type="GāhStanza" xml:id="GEbsr1.1" corresp="#GG4.1"> <!-- In the IndXA and in later IrXA mss. (see MZK6, KM8, but also MZK9) xšnaōθra. ahurahe. mazdā̊. before the AV (3x); the later IrXA mss. start with a Parsi or Pāzand introduction -->
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/>
+                </div>
+                <div type="Frauuarane" xml:id="GEbsr1.2" corresp="#GG4.1, #GG4.2">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP1XA"/>
+                 </div>
+                <div type="GāhStanza" xml:id="GEbsr2.1" corresp="#GG4.3" quote="#GY71.2"> <!-- GEbsr2.1 = GUš2.1 = GHaw2.1 = GRap.2.1 = GUz2.1 -->
+                    <ab n="a" xml:id="GEbsr2.1a">ahurəm. mazdąm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                    <ab n="b" xml:id="GEbsr2.1b">zaraϑuštrəm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                    <ab n="c" xml:id="GEbsr2.1c">zaraϑuštrahe. aṣ̌aōnō. frauuaṣ̌īm. yazamaide.</ab>
+                    <ab n="d" xml:id="GEbsr2.1d">aməṣ̌ə̄. spəṇtə̄. aṣ̌aōnąm. yazamaide.</ab>
+                </div>
+                <div type="GāhStanza" xml:id="GEbsr2.2" corresp="#GG4.4" quote="#GY71.3"> <!-- GEbsr2.2 = GUš2.2 = GHaw2.2 = GRap.2.2 = GUz2.2 -->
+                    <ab n="a" xml:id="GEbsr2.2a">aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spəṇtā̊. frauuaṣ̌aiiō. yazamaide.</ab> 
+                    <ab n="b" xml:id="GEbsr2.2b">astuuatō. manahiiāca. apanōtəməm. raϑβąm. yazamaide.</ab> 
+                    <ab n="c" xml:id="GEbsr2.2c">yaētuštəməm. yazatanąm.  haŋhanuštəməm. aṣ̌ahe. raϑβąm. aiβinasąstəməm. jaγmūštəmąm. aṣ̌aōnō. aṣ̌ahe. raϑβō. ratufritīm. yazamaide.</ab>
+                </div>
+                <div type="GāhStanza" xml:id="GEbsr2.3" corresp="#GG4.5"> <!-- GEbsr2.3-8 is an enlarged version of #GY6.5 -->
+                    <ab n="a" xml:id="GEbsr2.3a">aiβisrūϑriməm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                    <ab n="b" xml:id="GEbsr2.3b">aibigāim. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide. </ab>
+					<ab n="c" xml:id="GEbsr2.3c">ϑβąm. ātrəm. ahurahe. mazdā̊. puϑrəm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide. </ab> 
+					<ab n="d" xml:id="GEbsr2.3d">asmana. hāuuana. aṣ̌ahe. ratauuō. yazamaide. </ab> 
+					<ab n="b" xml:id="GEbsr2.3e">aiiaŋhaēna. hāuuana. aṣ̌ahe. ratauuō. yazamaide.</ab>
+                    <ab n="e" xml:id="GEbsr2.3f">haδa.zaōϑrəm. haδa.aiβiiā̊ŋhanəm. imat̰. barəsma. aṣ̌aiia. frastarətəm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide. </ab>
+                    <ab n="f" xml:id="GEbsr2.3g">āpe. uruuare. yazamaide. </ab>
+					<ab n="g" xml:id="GEbsr2.3h">aōuruuatąm. urune. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                </div>
+                <div type="GāhStanza" xml:id="GEbsr2.4" corresp="#GG4.6">
+                    <ab n="a" xml:id="GEbsr2.4a">frādat̰.vīspąm.hujiiāitīm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                    <ab n="b" xml:id="GEbsr2.4b">zaraϑuštrəm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                    <ab n="c" xml:id="GEbsr2.4c">mąϑrəm. spəṇtəm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                    <ab n="d" xml:id="GEbsr2.4d">gə̄uš. uruuānəm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                    <ab n="e" xml:id="GEbsr2.4e">zaraϑuštrōtəməmca. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                    <ab n="f" xml:id="GEbsr2.4f">zaraϑuštrəm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+				</div>
+				<div type="GāhStanza" xml:id="GEbsr2.5" corresp="#GG4.7"> <!-- Cf. #GVr3.2 āθrauuanəm. āstāiia. raθaēštārəm. āstāiia. vāstrīm. fšuiiaṇtəm. āstāiia. nmānahe. nmānō.paitīm. āstāiia. vīsō. vīspaitīm. āstāiia. zaṇtə̄uš. zaṇtupaitīm. āstāiia. daŋ́hə̄uš. daŋ́hupaitīm. āstāiia.  -->
+                    <ab n="a" xml:id="GEbsr2.5a">āϑrauuanəm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                    <ab n="b" xml:id="GEbsr2.5b">raϑaēštārəm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                    <ab n="c" xml:id="GEbsr2.5c">vāstrīm. fšuiiaṇtəm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                    <ab n="d" xml:id="GEbsr2.5d">nmānahe. nmānō.paitīm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                    <ab n="e" xml:id="GEbsr2.5e">vīsō. vīspaitīm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                    <ab n="f" xml:id="GEbsr2.5f">zaṇtə̄uš. zaṇtupaitīm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                    <ab n="g" xml:id="GEbsr2.5g">daŋ́hə̄uš. daŋ́hupaitīm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+				</div>
+				<div type="GāhStanza" xml:id="GEbsr2.6" corresp="#GG4.8"> <!-- Cf. #GVr3.3 yuuānəm. humanaŋhəm. huuacaŋhəm. huš́iiaōθnəm. hudaēnəm. āstāiia. yuuānəm. uxδō.vacaŋhəm. āstāiia. xᵛaētuuadaθəm. āstāiia. daŋ́hāuruuaēsəm. āstāiia. humāiš. pairijaθnəm. āstāiia. nmānahe. nmānō.paθnīm. āstāiia.  -->
+                    <ab n="a" xml:id="GEbsr2.6a">yuuānəm. humanaŋhəm. huuacaŋhəm. huš́iiaōϑnəm. hudaēnəm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                    <ab n="b" xml:id="GEbsr2.6b">yuuānəm. uxδō.vacaŋhəm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                    <ab n="c" xml:id="GEbsr2.6c">xᵛaētuuadaϑəm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                    <ab n="d" xml:id="GEbsr2.6d">daŋ́hāuruuaēsəm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                    <ab n="e" xml:id="GEbsr2.6e">humāim. pairijaϑnəm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                    <ab n="f" xml:id="GEbsr2.6f">nmānahe. nmānō.paϑnīm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                </div>
+                <div type="GāhStanza" xml:id="GEbsr2.7" corresp="#GG4.9"> <!-- Cf. #GVr3.4 nāirikąmca. āstāiia. frāiiō.humatąm. frāiiō.hūxtąm. frāiiō.huuarštąm. huš.hąm.sāstąm. ratuxšaθrąm. aṣ̌aōnīm. yąm. ārmaitīm. spəṇtąm. yā̊sca. tē. γənā̊. ahura. mazda. narəmca. aṣ̌auuanəm. āstāiia. frāiiō.humatəm. frāii ō.hūxtəm. frāiiō.huuarštəm. vistō.fraōrəitīm. əuuistō.kaiiaδəm. yeŋ́he. š́iiaōθnāiš. gaēθā̊. aṣ̌a. frādəṇte.  --> 
+                    <ab n="a" xml:id="GEbsr2.7a">nāirikąmca. aṣ̌aōnīm. yazamaide.</ab>
+                    <ab n="b" xml:id="GEbsr2.7b">frāiiō.humatąm. frāiiō.hūxtąm. frāiiō.huuarštąm.</ab>
+                    <ab n="c" xml:id="GEbsr2.7c">huš.hąm.sāstąm. ratuxšaϑrąm. aṣ̌aōnīm. yąm. ārmaitīm. spəṇtąm.</ab>
+                    <ab n="d" xml:id="GEbsr2.7d">yā̊sca.tē. γnā̊. ahura. mazda. narəmca. aṣ̌auuanəm. yazamaide.</ab>
+                    <ab n="e" xml:id="GEbsr2.7e">frāiiō.humatəm. frāiiō.hūxtəm. frāiiō.huuarštəm.</ab>
+                    <ab n="f" xml:id="GEbsr2.7f">vistō.fraōrəitīm. əuuistō.kaiiaδəm. yeŋ́he. š́iiaōϑnāiš. gaēϑā̊. aṣ̌a. frādəṇte.</ab> <!-- For yeŋ́he. š́iiaōϑnāiš. gaēϑā̊. aṣ̌a. frādəṇte. cf. Y43.6c (yehiiā. š́iiaōθanāiš. gaēθā̊. aṣ̌ā. frādəṇtē.), #GVr 3.4 -->
+                    <ab n="g" xml:id="GEbsr2.7g">zaraϑuštrōtəmahe. raϑβō.</ab>
+                    <ab n="h" xml:id="GEbsr2.7h">yasnāica. vaɱāica.</ab>
+                    <ab n="i" xml:id="GEbsr2.7i">zaraϑuštrōtəməmca. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                </div>
+                <div type="GāhStanza" xml:id="GEbsr2.8" corresp="#GG4.10">
+                    <ab n="a" xml:id="GEbsr2.8a">aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spəṇtā̊. frauuaṣ̌aiiō. yazamaide.</ab>
+                    <ab n="b" xml:id="GEbsr2.8b">γənā̊sca. vīrō.vąϑβā̊. yazamaide.</ab>
+                    <ab n="c" xml:id="GEbsr2.8c">yāiriiąmca. hušitīm. yazamaide.</ab>
+                    <ab n="d" xml:id="GEbsr2.8d">aməmca. hutaštəm. huraōδəm. yazamaide.</ab>
+                    <ab n="e" xml:id="GEbsr2.8e">vərəϑraγnəmca. ahuraδātəm. yazamaide.</ab>
+                    <ab n="f" xml:id="GEbsr2.8f">vanaiṇtīmca. uparatātəm. yazamaide.</ab>
+                </div>
+                <div type="GāhStanza" xml:id="GEbsr3.1" corresp="#GG4.11, #GG4.12" quote="#GY71.23, #GY71.24"> <!-- This section is recited as a kind of ritornello in all five Gāhs: GEbsr3.1 = GUš2.6 = GHaw2.7 = GRap.2.8 = GUz2.7 ; cf also the Nīrang barā-ye dafʿ kardan-e dard-e nīm sar (Antia, p. 196.9-21) -->
+                    <ab n="a" xml:id="GEbsr3.1a">ϑβąm. ātrəm. ahurahe. mazdā̊. puϑrəm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                    <ab n="b" xml:id="GEbsr3.1b">haδa.zaōϑrəm. haδa.aiβiiā̊ŋhanəm. imat̰. barəsma. aṣ̌aiia. frastarətəm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                    <ab n="c" xml:id="GEbsr3.1c">apąm. naptārəm. yazamaide.</ab> 
+                    <ab n="d" xml:id="GEbsr3.1d">nairīm. saŋhəm. yazamaide.</ab>
+                    <ab n="e" xml:id="GEbsr3.1e">taxməm. dāmōiš. upamanəm. yazatəm. yazamaide.</ab>
+                    <ab n="f" xml:id="GEbsr3.1f">iristanąm. uruuąnō. yazamaide. yā̊. aṣ̌aōnąm. frauuaṣ̌aiiō.</ab>
+                    <ab n="g" xml:id="GEbsr3.1g">ratūm. bərəzaṇtəm. yazamaide. yim. ahurəm. mazdąm. yō. aṣ̌ahe. apanōtəmō. yō. aṣ̌ahe. jaγmūštəmō.</ab>
+                    <ab n="h" xml:id="GEbsr3.1h">vīspa. srauuā̊. zaraϑuštri. yazamaide.</ab> 
+	   <ab n="i" xml:id="GEbsr3.1i">vīspaca. huuaršta. š́iiaōϑna. yazamaide.</ab> 
+	   <ab n="j" xml:id="GEbsr3.1j">varštaca. varəš́iiamnaca.</ab>
+                </div>
+                <div type="GāhStanza" xml:id="GEbsr3.2" corresp="#GG4.12">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YeH" xpointer="YeH"/>  
+                </div>
+                <div type="GāhStanza" xml:id="GEbsr4.1" corresp="#GG4.13">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="2"/>
+                </div>
+                <div type="GāhStanza" xml:id="GEbsr4.2" corresp="#GG4.13">
+                    <ab n="a" xml:id="GEbsr4.2a">yasnəmca. vaɱəmca. aōjasca. zauuarəca. āfrīnāmi.</ab>
+                    <include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGenXA69"/>
+                </div>
+                <div type="GāhStanza" xml:id="GEbsr4.3" corresp="#GG4.13">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+                </div>
+                <div type="GāhStanza" xml:id="GEbsr4.4" corresp="#GG4.13" quote="#GY68.11"> 
+                    <ab n="a" xml:id="GEbsr4.4a">aɱāi. raēšca. xᵛarənasca. aɱāi. tanuuō. druuatātəm.</ab>
+                    <ab n="b" xml:id="GEbsr4.4b">aɱāi. tanuuō. vazduuarə. aɱāi. tanuuō. vərəϑrəm.</ab>
+                    <ab n="c" xml:id="GEbsr4.4c">aɱāi. īštīm. pouruš.xᵛāϑrąm.</ab>
+                    <ab n="d" xml:id="GEbsr4.4d">aɱāi. āsnąmcit̰. frazaṇtīm. aɱāi. darəγąm. darəγō.jītīm. aɱāi. vahištəm. ahūm. aṣ̌aōnąm. raōcaŋhəm. vīspō.xᵛāϑrəm.</ab>
+                </div>
+                <div type="GāhStanza" xml:id="GEbsr4.5" corresp="#GG4.13">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/> 
+                </div>
+                <div type="GāhStanza" xml:id="GEbsr4.6" corresp="#GG4.13" quote="#GY72.16">
+                    <ab n="a" xml:id="GEbsr4.6a">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+                    <ab n="b" xml:id="GEbsr4.6b">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+                    <ab n="c" xml:id="GEbsr4.6c">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+                </div>
+                <div type="GāhStanza" xml:id="GEbsr4.7" corresp="#GG4.13">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/> 
+                </div>
+                <div type="GāhStanza" xml:id="GEbsr4.8" corresp="#GG4.13">
+                    <ab n="a" xml:id="GEbsr4.8a">jasa.mē. auuaŋhe. mazda.</ab>
+                    <ab n="b" xml:id="GEbsr4.8b">jasa.mē. auuaŋhe. mazda.</ab>
+                    <ab n="c" xml:id="GEbsr4.8c">jasa.mē. auuaŋhe. mazda.</ab>
+                </div>
+            <div type="GāhStanza" xml:id="GEbsr4.9" corresp="#GG4.13">
+                <ab n="a" xml:id="GEbsr4.9a">amahe. hutāštahe. huraōδahe.</ab> <!-- Xšnūman  Gen day 20-->
+                <ab n="b" xml:id="GEbsr4.9b">vərəθraγnahe. ahuraδātahe. vanaiṇtiiā̊sca. uparatātō.</ab>
+                <ab n="c" xml:id="GEbsr4.9c">rāmanasca. xᵛāstrahe. vaiiaōš. uparō.kairiiehe. taraδātō. ańiiāiš. dāmąn.</ab> <!-- Xšnūman  Gen day 21-->
+                <ab n="d" xml:id="GEbsr4.9d">aētat̰. tē. vaiiō. yat̰. tē. asti. spəṇtō.maińiiaōm.</ab>
+                <ab n="e" xml:id="GEbsr4.9e">θβāṣ̌ahe. xᵛaδātahe. zruuānahe. akaranahe. zruuānahe. darəγō.xᵛaδātahe.</ab><!-- In the IndXA it follows the kərba. mažd. Vāj --> 
+            </div>
+                <div type="GāhStanza" xml:id="GEbsr4.10" corresp="#GG4.13">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/> 
+                </div>
+            </div>
+</div>

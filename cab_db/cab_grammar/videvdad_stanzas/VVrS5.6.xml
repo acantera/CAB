@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS5.6" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VVrS5.6">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YeH" xpointer="YeH"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. VVrS5.1.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>      
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>yeŋ́hē hātąm</em> OD LOYŠE gwptn'] 4010, 4020, 4025, 4030, 4040, 4045, 4050, 4161, 4162; <em>yeŋ́hē hātąm</em> OD LOYŠE 4000; 
+            <em>yeŋ́hē hātąm</em> OD <em>tā̊sca yaz.</em> 4280, 4370, 4515;  <em>yeŋ́he</em> OD <em>tā̊sca yaz.</em> 4210.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS5.6"/>
+   </translation>
+</text>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS27.38" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y24.23" xml:id="VVrS27.38">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS13.36"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y24.14.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VVrS27.38a <em>āat̰ dīš āuuaēδaiiamahi tauua</em> ...] <em>mazdā̊ puϑra</em> cygwn npšt' OD OL Y <em>raϑβō bərəzatō</em> (VVrS27.43) 4025;
+            <em>vīspaēibiiō āϑribiiō</em> gwptn' OD OL <em>aṣ̌aōninąmca aṣ̌ahe</em> (VVrS27.42) 4030; <em>mat̰ vūspaēibiiō</em> cygwn PWN <em>ā. ye.</em> npšt' OD OL Y <em>aṣ̌aōnąm aṣ̌aōninąmca</em> (VVrS27.42) 4040.</ab>
+         <ab>VVrS27.38b <em>āat̰ dīš āuuaēδaiiamahi aiβiiō</em> ...] <em>aiβiiō vaŋᵛhībiiō</em> gwptn' OD OL Y <em>raϑβō bərəzatō</em> (VVrS27.43) 4045;
+            <em>aiβiiō vaŋhībiiō</em> cygwn pyš npšt OD <em>dāmanąm aṣ̌aōnąm</em> (VVrS27.42) 4050.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS27.38"/>
+   </translation>
+</text>

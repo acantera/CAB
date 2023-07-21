@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y26.6" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y26.7" shnumandep="1">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY26.7"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y25.4.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>Y26.6 = Y59.25, VrS81.24, DrYt4.15.</ab>
+      <ab>VrS30.6 = DoHom7.6.</ab>
+      <ab><em>iristanąm uruuąnō yazamaide yā̊ aṣ̌āunąm frāuuaṣ̌aiiō</em> = Y26.10, Y71.24, VrS18.5, VrS30.11, VrS36.5, VrS41.6, VrS51.8, VrS57.8, VrS62.8, VrS64.9, VrS65.82, VrS69.8, VrS71.8, VrS87.12, VrS93.11;
+         ~ Y16.7 <em>iristanąm uruuąnō š́āiieṇti yā̊ aṣ̌āunąm frāuuaṣ̌aiiō</em>.</ab>
+      <ab><em>aēϑrapaitinąmca aēϑriianąmca narąmca nāirinąmca</em> = Y68.12. Cf. Y26.7.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY26.6"/>
+      <include type="W" corresp="WTrY26.7"/>
+      <include type="K" corresp="KTrY26.7"/>
+      <include type="D" corresp="DTrY26.7"/>
+   </translation>
+</text>

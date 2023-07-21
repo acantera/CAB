@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS32.3" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS32.3">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS17.2"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS32.3 = Y12.14, VrS11.28.</ab>
+      <ab><em>haitinąmcā būš́iieiṇtinąmcā</em> ~ Y19.9 <em>haitīmca bauuaiṇtīmca buš́iieiṇtīmca</em>.</ab>
+      <ab><em>mazištāca vahištāca sraēštāca</em> ~ Y1.1, Yt13.91, Yt13.92 <em>mazištaheca vahištaheca sraēštaheca</em>;  ~ Y26.1, Y59.20, VrS81.19, VS19.14, DrYt4.10, Yt13.80 <em>mazištąmca vahištąmca sraēštąmca</em>;
+         ~ Y58.4, VrS76.10 <em>masānascā vaŋhānascā sraiianascā</em>.</ab>
+      <ab>(About <em>daēnā</em>) <em>yā āhūiriš zaraϑuštriš</em> = Y8.10, Y11.16, Y52.8, Y60.12, Y68.19, Y71.31.</ab>
+      <ab><em>ahurāi mazdāi vīspā vohū cinaɱī</em> ~ Y12.6 <em>ahurāi mazdāi vaŋhauuē vohumaitē vīspā vohū cinaɱī</em>; ~ Y13.5, Y39.4, VrS65.48, VS10.4 <em>yā vōhū aϑā tōi dadəmahī aϑā cīšmahī ... ϑβā mazdā ahurā</em>.</ab>
+      <ab><em>daēnaiiā̊ māzdaiiasnōiš passim</em></ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS32.3"/>
+   </translation>
+</text>

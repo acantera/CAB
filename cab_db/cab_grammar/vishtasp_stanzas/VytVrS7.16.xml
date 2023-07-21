@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VytVrS7.16" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VytVrS7.16">
+      <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VytSY7.12a" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuCerGen" xpointer="RatuCerGenVyt" on_line="in1line"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>VytVrS7.16 = VytVrS82.25, VytVrS90.27; ≈ VytVrS1.27, VytVrS2.29, VytVrS3.15, VytVrS4.18, VytVrS6.12, VytVrS14.7, VytVrS17.29, VytVrS25.29, VytVrS27.43, VytVrS77.29, VytVrS78.25, VytVrS79.18 VytVrS81.12.</ab>
+   </Parallels>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VytVrS7.16 (mss. 5010, 5030):</ab>
+         <ab class="ab_indent">
+            <em>aṣ̌aiia daδąmi xᵛarəθəm miiazdəm</em> čīyōn pad yašt bēd tā sar ud pad kardag ēsm ud bōy pad tadsōiδiš ud asnai harw čahār čīyōn pad srōš drōn nibišt pas tā parāhōm xward 
+            tā <em>āca manō</em> sar čīyōn pad wisperad bēd</ab>
+         <ab class="ab_indent">
+            "(They should recite) <em>aṣ̌aiia daδąmi xᵛarəθəm miiazdəm</em> as it is in the Yašt until the end. At the section (<em>kardag</em>), (the <em>rāspīg</em> has to bring?) <em>esm</em> and
+            <em>bōy</em> (to the fire). At <em>tat̰ sōiδiš</em> and <em>asnai</em>, (he has to perform) all four as it is written in the Srōš Drōn. Then (he continues) until the partaking of 
+            the <em>parāhōm</em> and until the end of <em>āca manō</em> so as it is in the Visperad."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVytVrS7.16"/>
+   </translation>
+</text>

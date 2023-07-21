@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR1.11" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="YR1.11">
+            <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR1.11"/>
+            <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="YR1.11NerangTransc.a"/>
+        </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. Y1.18.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical>
+        </Critical>
+        <RecitationInstruction>
+            <ab><em>ńiuuaēδaiiemi</em> ... <em>yat̰ vahištāt̰</em>] <em>yat̰ vahištāt̰ vīspaēibiiō aṣ̌ahe ratubiiō</em> ʾyc' gywʾk LA ʾp̄ʾyt' gwptn' 300; 
+                <em>ńiuuaēδaiiemi haṇkāraiiemi</em> (in red ink) <em>vīspaēibiiō. aṣ̌ahe. ratubiiō</em> PWN ʾyc gywʾk' LA ʾyt' gwptn' (in black ink) <em>vīspaēibiiō. vaŋhaδā̊biiō</em> 360, 370.</ab> 
+        </RecitationInstruction>
+        <Commentary/>
+    </Apparatus>
+    <Parallels>
+        <ab>YR1.11 ≈ Y1.20, Y2.20, Y3.25, Y4.26, Y6.21, Y7.26, Y14.3, Y17.20, Y22.30, Y24.31, Y59.30, Y66.25, YR3.16, YR4.17, YR7.17, YR22.21, YR24.22, YR66.15, VrS78.37, VrS79.26, VrS81.31, VrS82.22.</ab>
+    </Parallels>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>YR1.11 (mss. 300, 355, 360, 370):</ab>
+            <ab class="ab_indent">
+                <em>vīspaēibiiō aṣ̌ahe ratubiiō</em> ēč gyāg nē abāyēd guftan</ab>
+            <ab class="ab_indent">
+                "He must not say <em>vīspaēibiiō aṣ̌ahe ratubiiō</em> at any passage."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrYR1.11"/>
+    </translation>
+</text>

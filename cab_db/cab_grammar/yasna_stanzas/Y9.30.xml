@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y9.30" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y9.30">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY9.30"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y9.3.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y9.30c <em>vīuuarəzdauuatō</em>] Geldner, Kellens; Pirart (<bibl>Wackernagel and Debrunner, 1954</bibl>, p. 611) <em>vīuuarəzdiuuatō</em>.</ab>
+         <ab>Y9.30c <em>xruuīš́iiatō</em>] Geldner, Kellens; Pirart <em>xruuīšiiaṇtō</em>. Expected <em>xruuišiiaṇtō</em> (vid. ms. 672), but cf. Yt10.8, Yt15.49, Yt19.54 acc. pl. fem. <em>xruuiš́iieitī̌š</em>.</ab>
+         <ab>Y9.30c <em>zazarānō</em>] pro ⁺<em>zazarānahe</em> (vid. <bibl>Kümmel, 2000</bibl>, p. 673, n. 156).</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>
+            <em>ažōiš zairitahe [...] vīšō.vaēpahe</em> ~ Y9.11 <em>ažīm [...] vīšauuaṇtəm zairitəm</em>
+        </ab>
+      <ab>
+            <em>kəhrpəm nāšəmnāi aṣ̌aōne haōma zāire vadarə jaiδi</em>
+            <em>nī.tē zāire</em> = Y9.31 (x2), Y9.32 (x2).</ab> 
+      <ab>
+            <em>haōma zāire</em> ~ Y9.17 <em>nī.tē zāire</em>; ~ Y10.13 <em>haōma zāire</em>; ~ Y10.21 <em>haōməm zāirīm</em>; Y42.5 <em>haōməmcā zāirīm</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY9.30"/>
+
+        <include type="W" corresp="WTrY9.30"/>
+        <include type="K" corresp="KTrY9.30"/>
+        <include type="D" corresp="DTrY9.30"/>
+    </translation>
+</text>

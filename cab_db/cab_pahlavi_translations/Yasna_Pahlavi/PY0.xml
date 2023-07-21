@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body> <!-- eliminar body -->
+       <pb n="2r"/>
+    <lb/>
+    
+    
+    
+    <div n="0" type="chapter" xml:id="Y0">
+        <div n="8" type="stanza" xml:id="Y0.8">
+            <ab n="a" xml:id="Y0.8a">staōmī. 
+                <lb/>aṣ̌əm.</ab>
+            <ab n="Translation.a" xml:id="Y0.8Translation.a" xml:lang="Pahl">stʾyym ʾhlʾyyh.</ab>
+        </div>
+        
+        <div n="9" type="stanza" xml:id="Y0.9">
+            <ab n="AV" xml:id="Y0.9AV" next="Y0.9AVM">aṣ̌əm. vohū. vahi
+                <lb break="no"/>štəm. astī.</ab>
+            <ab n="Translation.a" xml:id="Y0.9Translation.a" xml:lang="Pahl">ʾhlʾyyh ʾpʾtyh Y pʾhlwm AYT'.</ab>
+            <ab xml:id="Y0.9AVM" next="Y0.9AVF">ušt
+                <lb break="no"/>ā. astī. uštā. aɱāi.</ab>
+            <ab n="Translation.b" xml:id="Y0.9Translation.b" xml:lang="Pahl">nykyh AYT' ʾhlʾyyh
+                <lb/>nywk Y OLE.</ab>
+            <ab xml:id="Y0.9AVF">hiiat̰. aṣ̌āi. vahištāi. aṣ̌əm.</ab>
+            <ab n="Translation.c" xml:id="Y0.9Translation.c" xml:lang="Pahl">
+                <lb/>MN ʾhlʾyyh šynytʾl ZK Y pʾhlwm ʾlʾyyh </ab>
+            <ab n="Nerang.a" xml:id="Y0.9Nerang.a"> 3 bʾl</ab>
+        </div>
+        
+        <div n="10" type="stanza" xml:id="Y0.10">
+            <ab n="Frauuarane.a" xml:id="Y0.10Frauuarane.a">
+                <lb/>frauuarāne. mazdaiiasnō. zaraϑuštriš. 
+                <lb/>vī⸳daēuuō. ahura⸳t̰kaēšō.</ab>
+            <ab n="Translation.Frauuarane.a" xml:id="Y0.10Translation.Frauuarane.a" xml:lang="Pahl">plnʾmm
+                <lb/>mʾẕdystyyh zltwštʾn' AYḴ ʾndlg SLYTlʾn' YMRWN-m 
+                <lb/>Y ywdt ŠDYAA AYḴš ŠDYAAA LWTE LOYT ʾwhrm_zdDNA 
+                <lb/>AYḴ DNA ZK Y ʾwhrmẕd</ab>
+            <ab n="RatuFra" xml:id="Y0.10RatuFra" next="Y0.10RatuFraF">hāuuanə̄e. aṣ̌aone. 
+                <lb/>aṣ̌ahe. raϑβe. ẏasnāica. vaɱāic
+                <lb break="no"/>a. xšnaoϑrāica. frasastaiiaēca.</ab>
+            <ab n="Translation.RatuFra" xml:id="Y0.10Translation.RatuFra" next="Y0.10Translation.RatuFraF" xml:lang="Pahl">
+                <lb/>hʾwn' Y ʾhlwb' Y ʾhlʾyyh Y lt PWN ycšn' W nnygʾdšn'
+                
+                
+                <pb n="2v"/>
+                <lb/>
+                
+                
+                <gap extent="1" unit="line" reason="damage"/>.</ab>
+            <ab xml:id="Y0.10RatuFraF">
+                <lb/>
+                <app>
+                    <rdg type="lit">
+                        <seg type="1">siiāic<gap extent="2" unit="char" reason="damage"/>
+                        </seg>
+                        <seg type="2">vīsiiāic<gap extent="2" unit="char" reason="damage"/>
+                        </seg>                                    
+                    </rdg>
+                    <rdg type="orig">siiāic</rdg>
+                    <rdg type="mod">vīsiiāic</rdg>
+                </app>
+                <gap extent="3" unit="word" reason="damage"/> ẏa
+                <lb break="no"/>snāica<gap extent="1" unit="char" reason="damage"/> <gap extent="2" unit="word" reason="damage"/> fra
+                <lb break="no"/>staiiaēica.</ab>
+            <ab xml:id="Y0.10Translation.RatuFraF" xml:lang="Pahl"><gap extent="3" unit="word" reason="damage"/>ʾhlyyh lt 
+                <lb/>PWN ycšn' W ngʾdšn' W šnʾdynytʾlyh <app>
+                    <rdg type="lit">
+                        <seg type="1"><gap extent="2" unit="char" reason="damage"/>plykʾnyh
+                        </seg>
+                        <seg type="2">wʾplykʾnyk<gap extent="1" unit="char" reason="damage"/>
+                        </seg>                                    
+                    </rdg>
+                    <rdg type="orig">plykʾnyh</rdg>
+                    <rdg type="mod">ʾplykʾnyh</rdg>
+                </app></ab>
+            <ab n="Frauuarane.b" xml:id="Y0.10Frauuarane.b">raϑβąm. aiiaranąmca. asniianąmca. m
+                <lb break="no"/>āhiianąmca. ẏāiriianąmca. sarəδanąm
+                <lb break="no"/>ca. ẏasnāica. vaɱāica. xṣ̌naoϑrā
+                <lb break="no"/>ica. frastastaiiaēca.</ab>
+            <ab n="Translation.Frauuarane.b" xml:id="Y0.10Translation.Frauuarane.b" xml:lang="Pahl">lt Y YWM ʾsnyyȳ
+                <lb/>hngʾm mʾhykʾn' W gʾsʾnbʾl W ŠNT PWN ycšn' W ngʾdšn' 
+                <lb/>W šnʾdynytʾlyh <gap extent="3" unit="word" reason="damage"/></ab>
+            <ab n="ShnumanGen.a" xml:id="Y0.10ShnumanGen.a">ahurahe. m
+                <lb break="no"/>azdā̊. raēuuatō. xᵛrənaŋuhatō. aɱəṣ̌a
+                <lb break="no"/>nąm. spəntanąm.</ab>
+            <ab n="Translation.ShnumanGen.a" xml:id="Y0.10Translation.ShnumanGen.a" xml:lang="Pahl">ʾwhrmẕd Y lʾyʾwmnd W Y GDEʾwmnd
+                <lb/>ʾmhrspndʾn'.</ab>
+            <ab n="RatuShnumanGen" xml:id="Y0.10RatuShnumanGen">miϑrahe. vouru⸳gaoiiaoitōiš.
+                <lb/>rāmanasca. xᵛāstrahe.</ab>
+            <ab n="Translation.RatuShnumanGen" xml:id="Y0.10Translation.RatuShnumanGen" xml:lang="Pahl">mtr' Y plhgwywt'
+                <lb/>Y lʾmšn' hwʾlwm.</ab>
+            <ab n="ShnumanGen.b" xml:id="Y0.10ShnumanGen.b">huuarəxšaētahe. aɱəṣ̌
+                <lb break="no"/>ahe. raēuuahe. auruuat̰⸳aspahe.</ab>
+            
+            
+            <pb n="3r"/>
+            <lb/>
+            
+            
+            <ab n="Translation.ShnumanGen.b" xml:id="Y0.10Translation.ShnumanGen.b" xml:lang="Pahl">hwlšyt Y ʾmlg lʾyʾwmnd Y ʾ<gap extent="20" unit="char" reason="damage"/>
+                <lb/>AYT' <gap extent="20" unit="char" reason="damage"/> YHBWN-yt</ab>
+            <ab n="ShnumanGen.c" xml:id="Y0.10ShnumanGen.c">vaiiaoš. uparō⸳kairiiehe. taraδātō. 
+                <lb/>aniiāiš. d<unclear reason="damage">ā</unclear>mąn. a<unclear reason="damage">ē</unclear>tat̰. tē. vaiiō. ẏa
+                <lb break="no"/>t̰. tē. asti. sp<unclear reason="damage">əṇ</unclear>tō⸳mainiiaom.</ab>
+            <ab n="Translation.ShnumanGen.c" xml:id="Y0.10Translation.ShnumanGen.c" xml:lang="Pahl">wʾy Y ʾplk
+                <lb break="no"/>ʾl W tlwynytʾltwm MN ZKʾn dʾmʾn ʾytwn' LK ʾyc MNK LK
+                <lb/>AYT AYḴ spynʾk mynwy NPŠE HWE-yȳ.</ab>  
+            <ab n="ShnumanGen.d" xml:id="Y0.10ShnumanGen.d">razištaiiā̊. 
+                <lb/>cistaiiā̊. mazdaδātaiiā̊. aṣ̌aonii
+                <lb break="no"/>ā̊. daēnaiiā̊. <unclear reason="damage">va</unclear>ŋhuiiā̊. māzdaiia
+                <lb break="no"/>snōiš.</ab>
+            <ab n="Translation.ShnumanGen.d" xml:id="Y0.10Translation.ShnumanGen.d" xml:lang="Pahl">ldstk Y plcʾnk Y ʾwhrmẕddʾt ʾhlwb' dyn' Y
+                <lb/>ŠPYL Y mʾẕdytʾn'</ab> 
+            <ab n="ShnumanGen.e" xml:id="Y0.10ShnumanGen.e">mąϑrahe. spəṇtahe. a
+                <lb break="no"/>ṣ̌aonō. vərəziiaŋhahe. dātahe. vīdaē
+                <lb break="no"/>uuahe. dātahe. zaraϑuštrōiš. darəγa
+                <lb break="no"/>iiā̊. upaiianaiiā̊. daēnaiiā̊. vaŋ
+                <lb break="no"/>huiiā̊. māzdaiiasnōiš. zarazdātōi
+                <lb break="no"/>š. mąϑrahe. spəṇtahe. 
+                <app>
+                    <rdg type="lit">
+                        <seg type="1">vaēδīm.</seg>
+                        <seg type="2"/>                                    
+                    </rdg>
+                    <rdg type="orig">vaēδīm.</rdg>
+                    <rdg type="mod"/>
+                </app>                            
+                uš́i⸳da
+                <lb break="no"/>rəϑəm. daēnaiiā̊. māzdaiiasnōiš. vaēδ
+                
+                
+                <pb n="3v" break="no"/>
+                <lb break="no"/>
+                
+                
+                <gap extent="1" unit="char" reason="damage"/>m. mąϑ<gap extent="5" unit="char" reason="damage"/>rahe. <gap extent="2" unit="word" reason="damage"/> <gap extent="4" unit="char" reason="damage"/>β
+                <lb break="no"/>ō. mazda<gap extent="7" unit="char" reason="damage"/> <gap extent="2" unit="word" reason="damage"/> <gap extent="1" unit="char" reason="damage"/>raϑ
+                <lb break="no"/>βō. mazdaδā<gap extent="5" unit="char" reason="damage"/>tahe.</ab>
+            <ab n="Translation.ShnumanGen.e" xml:id="Y0.10Translation.ShnumanGen.e" xml:lang="Pahl"><gap extent="3" unit="word" reason="damage"/>kʾmk
+                <lb/>' ʾhw' dʾt Y ywdtŠDYAA <gap extent="3" unit="word" reason="damage"/> dglʾpllwbšnyh 
+                <lb/>mynwy Y spnd W dyn' Y ŠPYL <gap extent="2" unit="word" reason="damage"/>mʾnslspnd W ʾsn
+                <lb/>hlt' Y ʾwhrmẕddʾt' w gwšʾwslwt hlt' ʾwhrmẕd </ab> 
+            <ab n="ShnumanGen.f" xml:id="Y0.10ShnumanGen.f" next="Y0.10ShnumanGen.bM5">ā
+                <lb break="no"/>ϑrō. ahurahe. mazdā̊. puϑra. taua. ātar
+                <lb break="no"/>š. puϑra. ahurahe. mazdā̊. mat̰. vīspaē
+                <lb break="no"/>ibiiō. ātərəbiiō. </ab>
+            <ab n="Translation.ShnumanGen.f" xml:id="Y0.10Translation.ShnumanGenf" xml:lang="Pahl">ʾthš Y ʾwhrmẕd BRE LK ʾthš 
+                <lb/>Y ʾwhrmẕd BRE MNW PWN ẔNE ycšn' LWTE hlwspyn' ʾthšʾn'.</ab>                            
+            <ab n="ShnumanGen.g" xml:id="Y0.10ShnumanGen.g" next="Y0.10ShnumanGen.bM6">
+                <lb/>garōiš⸳uṣ̌i⸳darənahe. mazdaδātahe. a
+                <lb break="no"/>ṣ̌a xᵛāϑrahe.</ab> 
+            <ab n="Translation.ShnumanGen.g" xml:id="Y0.10Translation.ShnumanGen.g" xml:lang="Pahl">gl Y ʾwšdʾštʾl W ʾhlʾyyh W 
+                <lb/>hwlʾlyh.</ab>   
+            <ab n="ShnumanGen.h" xml:id="Y0.10ShnumanGen.h" next="Y0.10ShnumanGen.bF">vīspaēṣ̌ąm. ẏazatanąm. aṣ̌a
+                <lb break="no"/>ōnąm. mainiiauuanąm. gaēϑiianąm.</ab>
+            <ab n="Translation.ShnumanGen.h" xml:id="Y0.10Translation.ShnumanGen.h" xml:lang="Pahl">hlwspyn' 
+                <lb/>yẕdʾn' Y ʾhlwbʾn Y mynwyʾn W gytyyʾn'.</ab>     
+            <ab n="ShnumanGen.i" xml:id="Y0.10ShnumanGen.i">aṣ̌aonąm. 
+                <app>
+                    <rdg type="lit">
+                        <seg type="1">frauuaṣ̌
+                            <lb break="no"/>aṣ̌nąm.</seg>
+                        <seg type="2">frauuaṣ̌
+                            <lb break="no"/>anąm.</seg>                                    
+                    </rdg>
+                    <rdg type="orig">frauuaṣ̌aṣ̌nąm.</rdg>
+                    <rdg type="mod">frauuaṣ̌anąm.</rdg>
+                </app>
+                uγranąm. aiβiϑīranąm. paoirii
+                <lb break="no"/>ō⸳t̰kaēṣ̌anąm. frauuaṣ̌inąm. nabānazdi
+                
+                
+                <pb n="4r" break="no"/>
+                <lb break="no"/>
+                
+                
+                š<gap extent="6" unit="char" reason="damage"/> <gap extent="1" unit="word" reason="damage"/>
+            </ab>
+            <ab n="Frauuarane.c" xml:id="Y0.10Frauuarane.c">
+                <gap extent="1" unit="word" reason="damage"/> ẏasn
+                <lb break="no"/>āi<gap extent="3" unit="char" reason="damage"/> <gap extent="1" unit="word" reason="damage"/> <gap extent="9" unit="char" reason="damage"/>ca. frasa
+                <lb break="no"/>stai<gap extent="6" unit="char" reason="damage"/>
+            </ab> 
+            <ab n="Translation.ShnumanGen.i" xml:id="Y0.10Translation.ShnumanGen.i" xml:lang="Pahl"><gap extent="3" unit="word" reason="damage"/> W ʾplwycʾn' W pwlywt
+                <lb break="no"/>kyšʾn' plwʾhl </ab><gap extent="2" unit="word" reason="damage"/>šnʾdynym PWN ycšn' 
+            <lb/> W nygʾdšn' šnʾynytʾlyh prʾc  ʾplykʾnyh
+            <ab n="Translation.Frauuarane.c" xml:id="Y0.10Translation.Frauuarane.c" xml:lang="Pahl"/>
+            <ab n="Nerang.a" xml:id="Y0.10Nerang.a" xml:lang="Pahl" rend="red">zwt
+            </ab>
+            <ab n="WazGr" xml:id="Y0.10WazGr" next="Y0.10WazGrM">
+                <lb/>ẏaϑā. ahū. vairiiō. zaotā. frā mē. mrū
+                <lb break="no"/>tē.</ab>
+            <ab n="Translation.o" xml:id="Y0.10Translation.o" xml:lang="Pahl">cygwn' ʾhw' kʾmk W cygwn' kʾmk ʾwhrmẕd kʾmk zwt prʾc
+                <lb/>OL L YMLLWN </ab>
+            <ab n="Nerang.b" xml:id="Y0.10Nerang.b" xml:lang="Pahl" rend="red">lʾspyk</ab>
+            <ab xml:id="Y0.10WazGrM" next="Y0.10WazGrF">ẏaϑā. ahū. vairiiō. 
+                <lb/>ẏō. zaotā. frā⸳mē. mrūtē.</ab>
+            <ab n="Translation.p" xml:id="Y0.10Translation.p" xml:lang="Pahl">zwt cygwn ʾhw' 
+                <lb/>kʾmk' cygwn ʾwhrmẕd kʾmk MNW zwt HWEyȳ prʾc OL L YMLLWN</ab>                                 
+            <ab xml:id="Y0.10WazGrF">
+                <lb/>aϑā. ratuš. aṣ̌āt̰⸳cit̰. hac
+                <lb break="no"/>a. frā. aṣ̌auua. vīδuuā̊. mraotū.</ab>
+            <ab n="Translation.q" xml:id="Y0.10Translation.q" xml:lang="Pahl">ʾytwn'
+                <lb/>ltyhʾ W ʾytwn' dstwblyhʾ MN ʾhlʾyyh cykʾmcHD
+                <lb/>prʾc ʾhlwbʾn ʾkʾsyhʾ YMLLWNm AYḴ hmʾk kʾl W krpk ʾytwn' 
+                <lb/>dstwblyyhyh krtn' cygwn' ʾwhrmẕd ʾp̄ʾyt</ab>       
+        </div>                    
+        
+        <div n="12" type="stanza" xml:id="Y0.12">
+            <ab n="Nerang.a" xml:id="Y0.12Nerang.a" xml:lang="Pahl" rend="red">zwt</ab>
+            <ab n="a" xml:id="Y0.12a"> 
+                <lb/>xṣ̌naoϑra. ahurahe. mazdā̊. tarōi dīt
+                <lb break="no"/>e. aŋrahe. mainiiə̄uš. haiϑiiāuuarštąm. 
+                
+                
+                <pb n="4v"/>
+                <lb/>
+                
+                
+                ẏat̰. va<unclear reason="damage">s</unclear>nā. fəraṣ̌ōtəməm.</ab>
+            <ab n="Translation.a" xml:id="Y0.12Translation.a" xml:lang="Pahl">PAHLAVI
+                <lb/>PAHLAVI
+                <lb/>PAHLAVI
+                <lb/>PAHLAVI.</ab> 
+        </div>
+        
+        <div n="14" type="stanza" xml:id="Y0.14">
+            <ab n="YAV" xml:id="Y0.14YAV" next="Y0.14YAVM">ẏaϑā. ahū. 
+                <lb/>vairiiō. aϑā. ratuš. a<unclear reason="damage">ṣ̌</unclear>āt̰. cīt̰. ha
+                <lb break="no"/>cā.</ab>
+            <ab n="Translation.a" xml:id="Y0.14Translation.a" xml:lang="Pahl">PAHLAVI
+                <lb/>PAHLAVI
+                <lb/>PAHLAVI
+                <lb/>PAHLAVI.</ab> 
+            <ab xml:id="Y0.14YAVM" next="Y0.14YAVF">vaŋhə̄uš. dazdā. manaŋhō. š́ii
+                <lb break="no"/>aoϑnanąm. aŋhə̄uš. mazdāi. </ab>
+            <ab n="Translation.b" xml:id="Y0.14Translation.b" xml:lang="Pahl">PAHLAVI
+                <lb/>PAHLAVI
+                <lb/>PAHLAVI
+                <lb/>PAHLAVI⸳PAHLAVI
+                <lb/>PAHLAVI
+                <lb/>PAHLAVI⸳PAHLAVI
+                <lb/>PAHLAVI
+                <lb/>PAHLAVI.</ab> 
+            <ab xml:id="Y0.14YAVF">xṣ̌aϑrəmcā. ahurāi. ā. ẏim<gap extent="1" unit="char" reason="damage"/>
+                
+                
+                <pb n="5r"/>
+                <lb/>
+                
+                
+                dri<gap extent="2" unit="char" reason="damage"/>b<unclear reason="damage">iiō.</unclear> dadat̰. vāstārəm.</ab>
+            <ab n="Translation.c" xml:id="Y0.14Translation.c" xml:lang="Pahl">PAHLAVI
+                <lb/>PAHLAVI
+                <lb/>PAHLAVI
+                <lb/>PAHLAVI</ab> 
+        </div>
+    </div>
+   </body>

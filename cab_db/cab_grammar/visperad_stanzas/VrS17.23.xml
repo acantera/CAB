@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS17.23" status="created">
+109   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y17.13" xml:id="VrS17.23">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY17.11"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y17.13.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <ab>VrS17.23a <em>āpō vaŋᵛhīš</em>...] <em>āpō vaŋhīš</em> OD OL Y <em>yim ahurəm mazdąm</em> (VrS17.27) 2030.</ab>
+      <ab>VrS17.23b <em>vīspā̊ āpō</em>...] <em>vīspā̊ āpō mazdaδātā̊ aṣ̌aōnīš y.</em> cygwn npšt' OD <em>imąmca šōiϑrahe</em> (VrS17.27) 2007; 
+         <em>vīspā̊ āpō mazdaδātā̊ aṣ̌aōnīš yaz.</em> cygwn PWN slwšdlwn' npšt' OD OL Y <em>ratauuō vīspe mazišta</em> (VrS17.28) 2010;
+         <em>vīspā̊ āpō mazdaδātā̊ aṣ̌aōnīš y.</em> cygwn PWN slwšdlwn' npšt' OD <em>yim ahurəm mazdąm</em> (VrS17.27) 2109.</ab>
+      <Commentary/>
+      <RecitationInstruction>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS17.23"/>
+   </translation>
+</text>

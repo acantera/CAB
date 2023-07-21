@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR11.11" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y11.11" xml:id="YR11.11">
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV2"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV3"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+        <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="YR11.11NerangTransc.a"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: vid. Y11.11.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab>YiR III AV (vid. Recitation Instruction) 300, 350, 360. IV AV 370. Cf. Y11.11 IX AV.</ab>
+        </Commentary>
+        <RecitationInstruction>
+            <ab><em>aṣ̌əm vohū</em> III gwptn'] 300; <em>aṣ̌əm vohū</em> III bʾl 360; <em>aṣ̌əm vōhī</em> IV gwptn' 370.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>YR11.11 (mss. 300, 360, 365, 370):</ab>
+            <ab class="ab_indent">
+                <em>aṣ̌əm vohū</em> sē guftan parāhōm xwardan ud dahān pāk kardan dast pad pādyāb kardan</ab>  
+            <ab class="ab_indent">
+                "He has to recite three <em>aṣ̌əm vohū</em>, drink the <em>parāhōm</em> and clean his mouth with <em>pādyāb</em>."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrYR11.11"/>
+    </translation>
+</text>

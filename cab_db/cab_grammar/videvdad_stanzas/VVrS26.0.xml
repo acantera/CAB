@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS26.0" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VVrS26.0">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP19"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid Y23.0 and Recitation Instruction.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VVrS26.0WazGr] zwt' <em>yaϑā ahū vairiiō yō ātrauuaxšō frā.mē mrūtē</em> lʾspyk <em>aϑā ratuš</em> krtn' hmlʾspyk <em>yaϑā ahū vairiiō yō zaōta frā.mē mrūtē aϑā ratuš</em> 4000, 4040;
+            zwt' <em>yaϑā ahū vairiiō yō ātrauuaxšō frā.mē mrūtē</em> lʾspyk <em>aϑā ratuš</em> krtn' hmlʾspyk <em>yaϑā ahū vairiiō yō zaōtā frā.mē mrūtē</em> zwt' <em>aϑā ratuš</em> OD sl 4010;
+            zwt' <em>yaϑā ahū vairiiō yō ātrauuaxšō frā.mē mrūtē</em> lʾspyk <em>aϑā ratuš</em> krtn' dt'ygl bʾl lʾspyk'' YMRRWN-yt' <em>yaϑā ahū vairiiō yō zaōta frā.mē mrūtē</em> zwt' <em>aϑā ratuš</em> OD sl gwptn' 4020, 4162;
+            zwt' <em>yaϑā ahū vairiiō yō ātrauuaxšō frā.mē mrītē</em> lʾsyk <em>aϑā ratuš</em> krtn' hmlʾspyk <em>yaϑā ahī vairiiō yō zaōtā </em> zwt' <em>aϑā ratuš</em> krtn' 4025;
+            zwt' <em>yaϑā ahī vairiiō yō ātrauuaxšō frā.maē mraēϑē</em> lʾsyk <em>aϑā ratuš</em> krtn' lʾspyk <em>yaϑā ahī vairiiō yō zaōϑā frāmē mraētē </em> zwt' <em>aϑā ratuš</em> 4030;
+            zwt' <em>yaϑā ahū vairiiō yō ātrauuaxšō frā.mē mrūtē</em> lʾspyk <em>aϑā ratuš</em> krtn' hmlʾspyk <em>yaϑā ahū vairiiō yō zaōtā frā.mē mrūtē</em> zwt' krtn' 4045;
+            zwt' <em>yaϑā ahī vairiiō yō ātrauuaxšō frā.mē mrītē</em> lʾspyk <em>aϑā ratuš</em> krtn' hmlʾspyk <em>yaϑā ahī vairiiō yō zaōtā frā.mē mrītē</em> zwt' <em>aϑā ratuš</em> krtn' 4040, 4161.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS26.0"/>
+   </translation>
+</text>

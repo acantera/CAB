@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y8.7" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y8.7">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: Kotwal and Boyd.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>II gwptn'] IV gwpt 510.</ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab>II gwptn'] 5, 6, 15, 40, 88; II 100, 110, 234, 235; ytʾyʾhwk wylywk' byšʾmlwtyk gwbšn' 400, 410; ytʾhwylyww IV gwpt 510; ytʾhwwkwylywk II gwptn' 672.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY8.7"/>
+   <include type="W" corresp="WTrY8.4c"/>
+        <include type="K" corresp="KTrY8.4c"/>
+        <include type="D" corresp="DTrY8.4c"/>
+    </translation>
+</text>

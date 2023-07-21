@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y7.20" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y7.20">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY7.18"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y7.7.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab><em>maēϑananąm</em>] cf. acc. pl. Y2.17 (and parallels) <em>maēϑańiiā̊sca</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>Y7.20 = Y66.17, VrS82.17; ≈ Y1.17, Y2.17, Y3.19, Y4.22, Y6.16, Y17.17, Y22.20, Y24.27, Y59.17, Y71.21, VrS78.29, VrS79.22, VrS81.16, VVrS14.15.</ab>
+      <ab>Y1.17 ~ VS11.13 <em>strə̄š haca mā̊ŋhəm haca huuarə haca anaγra raōcā̊ haca vīspa vohu mazdaδāta aṣ̌aciθra</em>.</ab>
+      <ab>
+         <em>strąm mā̊ŋhō hūrō</em> ~ Y1.11, Y3.13, Y4.16, Y7.14, Y22.14, Y24.21, VrS78.23, VrS79.16, VrS82.11 <em>stārąmca ... mā̊ŋhaheca gaōciϑrahe huuarəca</em>; ~ Y2.11, Y6.10, Y17.10, Y59.10, Y66.11, VrS81.11 <em>strə̄ušca mā̊ŋhəmca huuarəca</em>.</ab>
+      <ab>
+         <em>asaŋhąmca šōiϑranąmca</em> = VS1 (<em>passim</em>); ~ VS1.22 <em>asā̊sca šōiθrā̊sca</em>; ~ VS9.55, VS9.57 <em>asaŋhaēca šōiϑraēca</em>;  ~ VS13.52 <em>asaŋhat̰ca šōiϑrāat̰ca</em>
+      </ab>
+      <ab><em>asaŋhąmca ... maēϑananąmca</em> ~ Yt13.67 <em>asō maēϑanəmca</em>.</ab>
+      <ab>
+         <em>apąmca zəmąmca uruuaranąmca</em> ~ VrS18.4 <em>apāat̰ca zəmāat̰ca uruuaraiiāat̰ca</em>; ~ VS6.3 <em>apasca zəmasca uruuaraiiā̊sca</em>; ~ Y19.8 <em>para āpō para zəmō para uruuaraiiā̊</em>; ~ G2.6 <em>apasca zəmasca yazamaide uruuarā̊sca</em>
+      </ab>
+      <ab><em>anaγranąm raōcaŋhąm xᵛaδātanąm</em> ~ Y16.6, VS19.35, Yt12.35 <em>anaγra raōcā̊ xᵛaδātā̊</em>; ~ Y71.9 <em>vīspa anaγra raōcā̊ xᵛaδātā̊</em>.</ab>
+      <ab><em>anaγranąm raōcaŋhąm</em> = Yt13.57; ~ VS11.1, VS11.2, VS11.12, VS11.13, G3.6 <em>anaγra raōcā̊</em>; ~ VytS8.9, HN2.34 <em>anaγraēšuua raōcahuua</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY7.20"/>
+
+        <include type="W" corresp="WTrY7.18"/>
+        <include type="K" corresp="KTrY7.18"/>
+        <include type="D" corresp="DTrY7.18"/>
+    </translation>
+</text>

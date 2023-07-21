@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+			<div type="Afrin" xml:id="CiBu_Pazand"> <!-- according to MU I 405.18-408.13, ed. Antia 1909, pp. 161.4-163.5; MZK6, MZK8, RR3; non vide MF28 (2x), MF3 -->
+				<div type="AfrinStanza" xml:id="CiBu_Pazand1.1">
+                    <ab n="a" xml:id="CiBu_Pazand1.1a">ciϑrəm. buiiāt̰. aɱiia. nmāne.</ab>
+					<ab n="b" xml:id="CiBu_Pazand1.1b">piϑβəm. buiiāt̰. aɱiia. nmāne.</ab>
+					<ab n="c" xml:id="CiBu_Pazand1.1c">ϑβąm. piϑβəm. buiiāt̰. aɱiia. nmāne.</ab>
+                </div>
+				<div type="AfrinStanza" xml:id="CiBu_Pazand1.2">
+                    <ab n="a" xml:id="CiBu_Pazand1.2a">paidāiiə. bāt̰. aṇdar. aēn. mąn. vahąn.</ab>
+					<ab n="b" xml:id="CiBu_Pazand1.2b">ki. həmīša. pidīxi. u. āβādąni. bāt̰.</ab>
+					<ab n="c" xml:id="CiBu_Pazand1.2c">pə. rəsəšne. bāt̰.</ab>
+					<ab n="d" xml:id="CiBu_Pazand1.2d">pə. yazdąn. āδur. u. vahąn. u. u. māhmąn. u. dōstąn. aṇdarəš. bāt̰.</ab>
+				</div>
+				<div type="AfrinStanza" xml:id="CiBu_Pazand1.3"> <!-- quotation from and correction after GYt13.156 + 13.157 -->
+                    <ab n="a" xml:id="CiBu_Pazand1.3a">frauuaṣ̌aiiō. xšnūtā̊. aiiaṇtu. aɱiia. nmāne.</ab>
+					<ab n="b" xml:id="CiBu_Pazand1.3b">xšnūtā̊. vīcarəṇtu. aɱiia. nmāne.</ab>
+					<ab n="c" xml:id="CiBu_Pazand1.3c">xšnūtā̊. āfrīnəṇtu. aɱiia. nmāne.</ab>
+					<ab n="d" xml:id="CiBu_Pazand1.3d">vaŋᵛhīm. aṣ̌īm. xᵛāparąm.</ab>
+					<ab n="e" xml:id="CiBu_Pazand1.3e">xšnūtā̊. pāraiiaṇtu. haca. aɱāt̰. nmānāt̰. ahmākəmca. mazdaiiasnanąm.</ab>
+				</div>
+				<div type="AfrinStanza" xml:id="CiBu_Pazand1.4"> <!-- PahlTr of CiBu_Pazand1.3a, c, e -->
+                    <ab n="a" xml:id="CiBu_Pazand1.4a">pə. xšnuīt̰. aiiaṇt̰. aməṣ̌āspəṇdąn. u. frauuahrąn. aṇdar. aōi. aēn. mąn.</ab>
+					<ab n="b" xml:id="CiBu_Pazand1.4b">pə. xšnuīt̰. āfrīn. kunaṇt̰. aṇdar. aēn. mąn.</ab>
+					<ab n="c" xml:id="CiBu_Pazand1.4c">pə. xšnuīt̰. frāj. bərəuuaṇt̰. aj. aēn. mąn.</ab>
+				</div>
+				<div type="AfrinStanza" xml:id="CiBu_Pazand1.5"> 
+                    <ab n="a" xml:id="CiBu_Pazand1.5a">yezišnu. stāiiəšnu. zbāiiəṣ̌n. u. vīrāiiəšn. u. aṣ̌āiia. kār. u. kirpa.  barəṇt̰.</ab>
+					<ab n="b" xml:id="CiBu_Pazand1.5b">aōi. dāδarə. ʾwhrmẕd. u. aməṣ̌āspəṇdąn. aj. aēn. mąn. ma.pə. šəšne. gərəzəše. birauuaṇt̰.</ab>
+					<ab n="c" xml:id="CiBu_Pazand1.5c">aj. aēn. mąn. mā. ki. māzdaiiasnąnīm.</ab>
+					<ab n="d" xml:id="CiBu_Pazand1.5d">u. šumā̊. ki. miiazdōməṇdąnīt̰.</ab>
+				</div>
+				<div type="AfrinStanza" xml:id="CiBu_Pazand2.1"> 
+                    <ab n="a" xml:id="CiBu_Pazand2.1a">yak. yak. u. tan. tan. u. jut̰. jut̰. ki. bi. dīn. yezišn. u. drūn. u. miiazdu. āfrīngąn. aβā. həmā. həm.kirfa. bīt̰.  īstīt̰.</ab> <!-- MU I and Antia kirfa., kirafi. instead of bi. dīn. -->
+					<ab n="b" xml:id="CiBu_Pazand2.1b">har. ki. rā. zaṇ. u. farzaṇt̰. ast. dīr.zīuuašn. u. dīr.patāi. u. māhmąn. bāt̰.</ab>
+					<ab n="c" xml:id="CiBu_Pazand2.1c">har. kirā. nīst. yezdąn. bərəhnāt̰. uš. dihāt̰. tā. sat̰. u. paṇjāh. sāląn.</ab>
+					<ab n="d" xml:id="CiBu_Pazand2.1d">pas. aj. sat̰u. paṇjāh. sāląn. paδuuaṇt̰. aōi. siiōšąs. pīraōzgarə. paδuuaṇδiiāt̰.</ab>
+				</div>
+				<div type="AfrinStanza" xml:id="CiBu_Pazand2.2"> 
+                    <ab n="a" xml:id="CiBu_Pazand2.2a">pas. šumā̊. vahąn. həmīša. aṇdar. šādī. u. bazm. bīt̰.</ab>
+					<ab n="b" xml:id="CiBu_Pazand2.2b">tąn. vars. aβar. sar. </ab>
+					<ab n="c" xml:id="CiBu_Pazand2.2c">tąn. maii. u. jąm. bi. dast.</ab>
+					<ab n="d" xml:id="CiBu_Pazand2.2d">tąn. sparəm. aṇdar. bāzō.</ab>
+					<ab n="e" xml:id="CiBu_Pazand2.2f">tąn. xvąnāi. pə. gaōš.</ab>
+					<ab n="g" xml:id="CiBu_Pazand2.2g">tąn. dōstąn. pə. həm.nišast.</ab>
+					<ab n="h" xml:id="CiBu_Pazand2.2h">šumā̊. vahąn. pə. kąmai. xvīš. rąmiṣ̌nī. patāiiəṣ̌nī. u. virāiiəṣ̌nī. bāt̰.</ab> <!-- MU I and Antia zīvaišnə̄., zīvašni. instead of rąmiṣ̌nī. -->
+				</div>
+				<div type="AfrinStanza" xml:id="CiBu_Pazand2.3"> 
+					<ab n="a" xml:id="CiBu_Pazand2.3a">ki. harcə̄. zaōt̰.tar. šahat̰. bə̄t̰. tā. birasəṇt̰.</ab>
+					<ab n="b" xml:id="CiBu_Pazand2.3b">tā. ąni. ąmadəni. mardąn. dāt̰.ārāstār. gīhąn.vīrāstār. aṣ̌āi.varzīdār. marδi. ušīdari. zaraϑuštrąn. pišōtane. vištāspąn. vahrąmi. həmāuuaṇt̰.</ab> <!-- MU I ruąni. instead of mardąn. -->
+					<ab n="c" xml:id="CiBu_Pazand2.3c">pa. zōr. aōi.  paiδāiiə. dīn. āiiaṇt̰. u. rasəṇt̰.</ab>
+					<ab n="d" xml:id="CiBu_Pazand2.3d">u. dāt̰u. dīn. vah. aβā. uuīrāiiaṇd. paδuuaṇdaiiāt̰.</ab>
+					<ab n="e" xml:id="CiBu_Pazand2.3e">u. hudīn. u. hū.farmąna. aṇdar. aērąn. u. gīhąn. rubā. kunāt̰.</ab>
+					<ab n="f" xml:id="CiBu_Pazand2.3f">jut̰. dīn. u. jut̰.farmąn. aṇdar. aērąn. u. gīhąn. bi. aβsīnāt̰.</ab>
+				</div>
+				<div type="AfrinStanza" xml:id="CiBu_Pazand2.4"> 
+					<ab n="a" xml:id="CiBu_Pazand2.4a">dīn.burδārąn.šąn. aj. dīn. ńiiāke. rasāt̰. tā. ąni. madəne. mardąn. dāt̰.ārāstār. gīhąn.vīrāstār. aṣ̌āi.varzīdār. mard. i. hušīdir. zaraϑuštrąn. u. pišōtani. vištāspąn. u. vahrąm. həmāuuaṇd.</ab>
+					<ab n="b" xml:id="CiBu_Pazand2.4b">īn. parux. pāδišāh. i. zəmąna. aβā. aβar. həmā. vahąn. u. vahdīnąn.</ab>
+					<ab n="c" xml:id="CiBu_Pazand2.4c">basta.kuštīąn. haft. kišuuar. zəmīn. hucašm. hunigirīδār. kunāt̰.</ab> <!-- MU I and Antia add zaraϑuštriiąn. after basta.kuštīąn. -->
+					<ab n="d" xml:id="CiBu_Pazand2.4d">vahąn. aβar. dast. aōi. dāštār. u. paruuartār . biṇt̰.</ab>
+					<ab n="e" xml:id="CiBu_Pazand2.4e">vaϑrąn. aβar. dast. aōi. zidār. aβisənīdār. biṇt̰.</ab>
+				</div>
+				<div type="AfrinStanza" xml:id="CiBu_Pazand2.5"> 
+					<ab n="a" xml:id="CiBu_Pazand2.5a">tā. vahąn. aōi. kąma. rasāt̰.</ab>
+					<ab n="b" xml:id="CiBu_Pazand2.5b">harciš. dahmąn. u. vahąn. āfrīn. paiδāiiə. īzit̰.</ab>
+					<ab n="c" xml:id="CiBu_Pazand2.5c">yak. rā. dah. dah. rā. sat̰. u. sat̰. rā. hizār. u. hizār. rā. baēuuar. u. baēuuarąn. baēuuar. zōt̰. rasāt̰. dīr.patāi. māhmąn. bāt̰.</ab>
+					<ab n="d" xml:id="CiBu_Pazand2.5d">ąni. yezdąn. rasāt̰.</ab>
+					<ab n="e" xml:id="CiBu_Pazand2.5e">ąni. vahąn. aōi. vahąn. rasāt̰.</ab>
+					<ab n="f" xml:id="CiBu_Pazand2.5f">harciš. aidąn. bāt̰. aidąn. tarac. bāt̰.</ab>
+					<ab n="g" xml:id="CiBu_Pazand2.5g">pə. yezdąn. u. aməṣ̌āspəṇdąn. kąma. bāt̰.</ab>
+					<ab n="h" xml:id="CiBu_Pazand2.5h">aidąn. bāt̰. aṣ̌ō. bīm.</ab>
+				</div>
+				<div type="AfrinStanza" xml:id="CiBu_Pazand3.1"> 
+					<ab n="a" xml:id="CiBu_Pazand3.1a">aϑa. jamiiāt̰. yaϑa. āfrīnāmi.</ab>
+					<ab n="b" xml:id="CiBu_Pazand3.1b">aidąn. rasāt̰.</ab>
+				</div>
+			</div>
+</div>

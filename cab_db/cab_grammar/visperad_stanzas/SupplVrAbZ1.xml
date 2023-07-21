@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="SupplVrfĀbZ1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="SupplĀbZ1" gahfra="1">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_Visperad"/>
+      <!-- IF VISPERAD HAPPENS IN THE GATHA DAYS WITH GATHA DEDICATORY -->
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <ab>
+         ms. 2005 2007 2010 2030 2101 2102 2104 2106:   
+      </ab>
+      <ab class="ab_indent">ka panǰag weh bēd yazišn ardā fraward ǰud az gāhānbār ud srōš tā abārīg  yā̊. vīsāδa. ō gōwišn ka gāhānbār ud srōš bēd nē gōwišn agar ardā farward padiš ka  yaōždātą. guft pas zōt ud rāspīg  aṣ̌əm. vohū. se guftan I frauuarāne. ud hāuuanə̄e. ud sāuuaŋhə̄e. ud raθβąm. tā gyāg f.ahurahe. mazdā̊. raeuuatō. xᵛarənaŋᵛhatō. aməšanąm. spəṇtanąm.  aṣ̌āunąm. frauuašinąm. tā nabānazdištanąm. frauuašanąm. frauuašanąm. xšnaoϑra. tā sar guftan ka panǰag ī gāhānīg bēd  gāθābiiō tā sar guftan zōt  yaϑā. ahū. vairiiō. yō. ātrauuaxšō. rāspīg aθā. ratuš. kardan hamrāspīg  yaϑā. ahū. vairiiō. yō. zaōtā. zōt aϑā. ratuš. kardan zōt ud rāspīg ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.   frauuaṣ̌aiiō. yazamaide.  yā̊. vīsāδa. āuuaiieiṇti. hamaspaϑmaēdaēm. paiti. ratūm.  tā. nəmaŋha. ka panǰag ī gāhānīg bēd   gāθā. spəṇtā. tā sar gōwišn barsom abar barsomdān nihišn sar ī zōhr bē nigerišn  aṣ̌əm. vohū. se guftan</ab>
+      <ab class="ab_indent">When it is (a performance during) the Five Good Days, a cermony for Ardā Fraward except for Gāhānbār or Srōš, he has to recite the text until the additional yā̊ vīsāδa. When it is a ceremony for  Gāhānbār or for Srōš, then he has not to rtecite this text. If the frauuaṣ̌is are mentioned (in the šnūman), then, when he has said yaōždātą, then the zōt and the rāspīg recite three aṣ̌əm vohū, then the  frauuarāne. and the section hāuuanə̄e and the section sāuuaŋhə̄e and the section raθβąm. until (the šnūman) f.ahurahe. mazdā̊. raeuuatō. xᵛarənaŋᵛhatō. aməšanąm. spəṇtanąm.  aṣ̌āunąm. frauuašinąm. OD nabānazdištanąm. frauuašinąm.  xšnaoϑra until the end. When they are the Five Days of the Gāθās, they should say gāθābiiō until the end. Then the zōt should say  yaϑā. ahū. vairiiō. yō. ātrauuaxšō. and the rāspīg should answer  aθā. ratuš. The same rāspīg should say:  yaϑā. ahū. vairiiō. yō. zaōtā. The zōt should aanswer: aϑā. ratuš. The zōt and the rāspīg should recite togeher: ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.   frauuaṣ̌aiiō. yazamaide.  yā̊. vīsāδa. āuuaiieiṇti. hamaspaϑmaēdaēm. paiti. ratūm.  until nəmaŋha. When they are the Five Days of the Gāθās, they shoukd recite the section gāθā. spəṇtā.. He has to put the barsom on the barsomdān, take the bowl for the zōhr and gaze at the zōhr. They should recite three aṣ̌əm. vohū.</ab>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrSupplĀbZ1"/>
+   </translation>
+</text>

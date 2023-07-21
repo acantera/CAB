@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y0.7" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y0.7" quote="Y12.3">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY0.5"/>
+            </div>
+     <Speaker>
+         <SpeakerInfo>
+             <div>zōt ud rāspīg: vid. Y0.6.</div>
+         </SpeakerInfo>
+         <Commentary/>
+     </Speaker>
+    <Apparatus>
+        <Critical/>
+        <RecitationInstruction/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels>
+        <ab>Y0.7 = Y12.3.</ab>
+        <ab><em>fərā manaŋhā fərā vacaŋhā fərā š́iiaōϑnā</em> ~ Y1.22, Y1.23, YR1.14 <em>yezi manaŋha yezi vacaŋha yezi š́iiaōϑna</em>; 
+            ~ Y18.2, Y18.9 Y47.2, Y47.8, Y48.13, Y49.13, Y50.12, Y68.36, Y68.42 <em>vahištācā manaŋhā hacā aṣ̌āt̰ š́iiaōϑanācā vacaŋhācā</em> 
+            ~ Y19.17 <em>aršmanaŋha aršuuacaŋha aršš́iiaōϑna</em>; ~ A1.11 <em>raϑbiia manaŋha raϑβiia vacaŋha raϑβiia š́iiaōϑna</em></ab>
+        <ab><em>tanuuascīt̰ xᵛax́iiā̊ uštanəm</em> = Y13.4, Y14.2, Y27.3, Y33.14.</ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrY0.7"/>
+        <include type="W" corresp="WTrY0.5"/>
+        <include type="K" corresp="KTrY0.1"/>
+        <include type="D" corresp="DTrY0.5"/>
+    </translation>
+</text>

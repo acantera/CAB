@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y24.6" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y24.6">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY24.6"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid Y24.1.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>Y24.6a <em>imą haōmąsca</em> ...] <em>frastarətəm gąmca</em> OD <em>vīspaca vohu</em> (Y24.8) 5; <em>miiazdą̇sca zaoϑrā̊sca</em> OD <em>vīspaca vōhū</em> (Y24.8) 110, 234, 235;
+            <em>zaōϑrā̊sca barəsmaca</em> OD <em>vīšpaca vōhū</em> (Y24.8) 231.</ab>
+         <ab>Y24.6a <em>imą̇mcā gą̇m</em> ...] <em>gą̇m jīuuiią̇m</em> OD <em>pairica dadəmahī</em> (Y24.8) 400; <em>aṣ̌aiia uzdātąm</em> OD gywʾk' <em>pairica daδəmahī</em> (Y24.8) 410.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>Vid. Y24.1.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY24.6"/>
+      <include type="W" corresp="WTrY24.6"/>
+      <include type="K" corresp="KTrY24.6"/>
+      <include type="D" corresp="DTrY24.6"/>
+   </translation>
+</text>

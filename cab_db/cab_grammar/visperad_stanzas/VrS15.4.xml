@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS15.4" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS15.4">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr2"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS6.3b"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt̰ ud rāspīg: mss. Cf. VrS15.3. Vid. Recitation Instruction.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VrS15.4WazGr zwt' <em>yaϑā ahū vairiiō yō ātrauuaxšō frā.mē mrūtē</em> lʾspyk PWN gʾs Y ʾtlwhšn <em>aϑā ratuš</em> krtn'] 2007; <em>yaϑā ahū vairiiō yō ātrauuaxšō frā.mē mrūtē</em> lʾspyk <em>aϑā ratuš</em> krtn' 2010, 2040, 2106; 
+            zwt' <em>yaϑā ahū vairiiō yō ātrauuaxšō</em> lʾspyk <em>aϑā ratuš</em> krtn' 2070, 2030, 2101, 2109; zwt wʾc OHDWNšnyh 2000, 2065.</ab>
+         <ab>VrS15.4a <em>auuaϑāt̰ iδā səraōšō astū...</em>] zwt' <em>auuaϑāt̰ iδā səraōšō astū</em> 2007, 2010, 2030, 2040, 2065, 2070, 2101, 2106, 2109.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS15.3 = VrS11.32, VrS24.11, VrS31.10, VrS42.9, VrS65.9, VrS75.9, VrS93.3; ~ VrS87.6, VrS89.20.</ab>
+      <ab><em>auuaϑāt̰ iδā səraōšō astū ahurahe mazdā̊ yasnāi səuuīštahē aṣ̌aōnō yə̄.nā̊ ištō</em> = Y56.1.</ab>
+      <ab><em>səraōšō astū</em> = Y56.4, VrS11.36 <em>səraōšō astū</em>; ~ Y70.6 <em>sraōšō astu</em>.</ab>
+   </Parallels>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Vid. VrS15.3</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS15.4"/>
+   </translation>
+</text>

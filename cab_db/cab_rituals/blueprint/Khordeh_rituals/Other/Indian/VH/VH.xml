@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+			<div type="VispaHumata_NyMihrAddendum" xml:id="VH">
+                <div type="VispaHumata_NyMihrAddendum_Stanza" xml:id="VH1.1" corresp="#FrW3.1">
+                    <ab n="a" xml:id="VH1.1a">vīspa. humata. vīspa. hūxta. vīspa. huuaršta.</ab>
+                    <ab n="b" xml:id="VH1.1b">baōδō.varšta.</ab>
+                    <ab n="c" xml:id="VH1.1c">vīspa. dušmata. vīspa. dužūxta. vīspa. dužuuaršta.</ab>
+                    <ab n="d" xml:id="VH1.1d">nōit̰. baōδō.varšta.</ab>
+				</div>
+				<div type="VispaHumata_NyMihrAddendum_Stanza" xml:id="VH1.2" corresp="#FrW3.2">
+                    <ab n="a" xml:id="VH1.2a">vīspa. humata. vīspa. hūxta. vīspa. huuaršta.</ab>
+					<ab n="b" xml:id="VH1.2b">vahištəm. aŋhūm. ašaiti.</ab> <!-- aŋhūm. is a corrected form -->
+					<ab n="c" xml:id="VH1.2c">vīspa. dušmata. vīspa. dužūxta. vīspa. dužuuaršta.</ab>
+					<ab n="d" xml:id="VH1.2d">acištəm. aŋhūm. ašaiti.</ab> <!-- aŋhūm. is a corrected form -->
+					<ab n="e" xml:id="VH1.2e">vīspanąmca. humatanąm. hūxtanąm. huuarštanąm.</ab>
+					<ab n="f" xml:id="VH1.2f">vahištat̰. aŋhaōt̰.  haca. ciθrəm.</ab> <!-- vahištat̰. aŋhaōt̰. are corrected forms -->
+                </div>
+			</div>
+</div>

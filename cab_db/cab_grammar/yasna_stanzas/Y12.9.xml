@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y12.9" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y12.9">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY12.4"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y12.6.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical>
+      </Critical>
+      <Commentary>
+         <ab>Y12.9a <em>auuaŋᵛhūš</em>] Kellens. Mss. 4000, 4045 with <em>ŋᵛh</em>. <em>Lectio diffcilior</em>. Geldner <em>auuaŋhūš</em>; Bartholomae <em>auuaŋ́hīš</em>; Hoffmann and Forssman <em>auuaŋhūīš</em>.</ab>
+         <ab>Y12.9a <em>akō.dā̊bīš</em>] sec. most of the mss.; Kellens, Geldner <em>akō.dābīš</em>. <bibl>Tremblay, 2006</bibl> p. 254 <em>akō.dā̊bīš</em> "parallélisme morphologique avec <em>vaŋhu.dāh-</em>".</ab>
+         <ab>Y12.9c <em>ātarāiš</em>] Bartholomae from <em>ātar-</em> with thematization, from verb <em>tar-</em> "approach, attack" (in a daevic form). <bibl>Kellens, 2007</bibl>, p. 135 translates as "de l'autre camp" (= "of the other side") from
+         <em>ātara-</em> without needing a thematization. This interpretation is tempting.</ab>
+         <ab>Y12.9d <em>yaϑanā</em>] <bibl>Kellens, 2007</bibl>, p. 135 "de <em>*yat-na-</em> «mise en place rituelle»", hence expected <em>*yaϑənā</em>. Mss. regularly <em>yaϑanā</em> (except 15, 60 <em>yaϑənā</em>).</ab>
+         <ab>Y12.9d <em>rąxšiiaṇtā</em>] Kellens (Bartholomae, vid. <bibl>Kellens, 1984</bibl> , p. 160 ff.), cod. (vid. Apparatus); Geldner <em>rąxšaiiaṇta</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>vī daēuuāiš ... sarəm mruiiē</em> ~ Y12.11 <em>zaraϑuštrō daēuuāiš sarəm viiāmruuītā</em>; ~ Y12.11 <em>daēuuāiš sarəm vīmruiiē</em>; ~ Y12.11 <em>anāiš viiāmruuītā</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY12.9"/>
+      <include type="W" corresp="WTrY12.4"/>
+      <include type="K" corresp="KTrY12.4"/>
+      <include type="D" corresp="DTrY12.4"/>
+   </translation>
+</text>

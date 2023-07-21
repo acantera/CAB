@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS0.1" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+        <approved/>
+        <updated/>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VVrS0.1">
+        <include href="/db/apps/cab_db/cab_rituals/nerang/videvdad_nerang" xpointer="VVrS0.1NerangTransc.a"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>zōt: vid. Y0.1.</div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <RecitationInstruction>
+            <ab>ʾywk' gwptn'] 4000a, 4010, 4020, 4025; ʾdywk gwptn' 4050.</ab>
+        </RecitationInstruction>
+        <Commentary>
+            <ab>VVrS0.1] om. Indian mss.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>VVrS0.1 (mss. 4000a, 4010, 4020, 4025, 4050, 4063, 4080):</ab>
+            <ab class="ab_indent">
+                barsom sih ud sē tāg ud frāgām dō tāg barsom bastan ud parāhōm kardan sāzišn hamāg frāz nihādan ud ān kas kē zōtīh kāmēd kardan <em>aṣ̌əm vohū</em> ēk guftan ud dast 
+                pad pādyāb kardan</ab> 
+            <ab class="ab_indent">
+                "The <em>barsom</em> (consists of) 33 twigs and the <em>frāgām</em> are two. He should tie the <em>barsom</em>, prepare the <em>parāhōm</em> and dispose all the
+                implements. The one who wishes to perform in the office of <em>zōt</em> should recite one <em>aṣ̌əm vohū</em> and wash his hands with <em>pādyāb</em>."</ab>
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+            <ab>
+                <ab>NērangVVrS0.1 (Nērang ī āb) [mss. 4000 4010 4020 4025 4063], cf. WiD, Revāyat of Kāma Bohra (MU1, p. I. 577) and Revāyat of Kāmdin Šapur (var. b) (MU1, p. I. 584), on the Nērang ī Āb ud Padyāb ceremony:</ab>
+                <ab class="ab_indent">ōy kē zōtīh kāmēd kardan dast pad pādyāb bē kunišn, ēk-bār
+                    gōmēz ud āb bē nigerišn. hamāg gyāgīhā pēš gōmēz ud pas āb nigerišn. hamāg
+                    gyāgīhā ān-ī wāzag kē ō pēš nibēsam bē gōwišn bē estišn. gōmēz ud āb bē nigerišn
+                    pas abastāg bē rāyēnišn.</ab>
+                <ab class="ab_indent">The one who wishes to take the office of the <em>zōt</em>, has to wash
+                    his hands with <em>pādyāb</em> and gaze once at the <em>gōmēz</em> and the water. Each time, he
+                    has to gaze first at the <em>gōmēz</em> and then at the water. Each time, he has to
+                    recite the words that I write in the following. He has to stand and gaze at the <em>gōmēz</em>
+                    and the water. Then he has to arrange the abastāg. </ab>
+            </ab>
+
+            <ab>
+                <ab>Revāyat of Kāmdin Šapur (var. a) (MU1, pp. I. 579-580), on the Nērang ī Āb ud Padyāb ceremony:</ab>
+                <ab class="ab_indent">(Pāz.) zōt̰. <em>ẏaϑā. ahū. vairiiō.</em> 5 guftan u. darust.
+                    niṣ̌astan. u. dast. ba. ātaš. dāštan. nīrəṇg. bar. gə̄raftan. u. bar. miiąna.
+                    aravīs. ādušt. bi. rāsti. tə̄cai. ādušt. nihādan. u. ṣ̌iša. bar. kināriš.
+                    nihādan. caną̇n. ki. ba. ẏak. dīgar. ni. zanṇt̰. u. nīrəṇg. guną̇. kirdan. ki.
+                    adušt. ki. ṣ̌ōiiṇt̰. āv. baṣ̌īša. narasat̰. u. pas. pāδiiāv. kardan. dast. ba.
+                    ātaš. daštan. u. nīrəṇg. u. [†āv] nigarīdan. himājā. aval. nīrəṇg. u. pas. āv.
+                    nigirīdan.</ab>
+                <ab class="ab_indent">The zōt should recite five <em>yaϑā ahū vairiiō</em> and stay
+                    seated erected, he should hold the hand over the fire,  take the
+                        <em>nērang</em> and place it in the middle between the <em>urvīs</em>
+                    and the <em>ādušt</em>, on the empty right side of the <em>ādušt</em>. The
+                    vessel (of water) should be placed at his side, in such a way that they do not
+                    touch each other. The <em>nērang</em> should be so that the water with which the
+                        <em>ādušt</em> is cleaned, does not reach the vessel of water. Afterwards,
+                    the hands should be purified and put over the fire. The <em>nērang</em> and the
+                    water should be watched, always first the <em>nērang</em> and then the
+                    water.</ab>
+            </ab>
+
+            <ab>
+                <ab>Revāyat of Behdin Ǧāsā (MU1, p. I. 592), on the Nērang ī Āb ud Padyāb ceremony:</ab>
+                <ab class="ab_indent">(Pers.) ānkas yašt ḫᵛāhad kard dar pāy istad va panǧ ahunavar
+                    beḫᵛānad ḫešnumani soruš pas moḥkam benšinad con vāz gereft dast-e cap rā pādyāv
+                    karde dast-e cap pādyāv šoste dast-e rāst beātaš dārad sar-e gomiz bengarad pas
+                    saraš benahand degar dast beātaš barad digar sar-e āb bardārad benegarad saraš
+                    benahand hamā sāǧešn benegarešn pas avarḫizad barābar-e ādušt beistad va
+                    ašim vohu beguyad hamā sāǧešn ḫub benegarad</ab>
+                <ab class="ab_indent">Then he who is to perform the cermony, should stand up and
+                    recite five Ahunavars (with) the <em>šnūman</em> of Srōš. Then he should
+                    stand firm, as when the <em>wāz</em> is taken. He should purify his left hand,
+                    (i.e., wash his left hand with the pure water), hold the right hand over the
+                    fire, take up the lid of the vessel of urine and look at the urine. Then the top
+                    of it should be covered and he should again hold his hand over the fire and take
+                    up the lid of the vessel of water and look at it and cover it again. All the
+                    apparatus should be looked at. Then getting up, he should stand just opposite
+                    the <em>adūšt</em>, recite one <em>aṣ̌əm vohū</em>, and look well at all the
+                    apparatus. </ab>
+            </ab>
+        </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrVVrS0.1"/>
+    </translation>
+</text>

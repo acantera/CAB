@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR4.9" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y4.17" xml:id="YR4.9">
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR4.9a" on_line="in1lineblock"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/RozGen" xpointer="RozGen1" on_line="in1line"/>
+        <!-- All days possible -->
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR4.9b" on_line="in1line"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR4.9c" on_line="in1lineblock"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/MahGen" xpointer="MahGen1" on_line="in1line"/>
+        <!-- All months possible -->
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR4.9d" on_line="in1line"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. Y4.17.</ab> 
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab>YR4.9]  <em>āat̰</em> nigāh. u. rōzamāh <em>ahurahe mazadā̊ raiuuatō x́arenaŋhatō ẏ. v. x. f. āat̰ aṣ̌ā̊ną̇m frauuaṣ̌iną̇m ẏ. v. x. f.</em> 350, vid. commentary Y1.4.</ab>
+        </Commentary>
+        <RecitationInstruction>
+            <ab>YR4.9] <em>āuuaēδaiiamahe</em> YWM W BYRH gwptn' OD OL <em>aṣ̌āunąm aṣ̌aōninąmca</em> (YR4.14) 300; <em>āat̰</em> YWM W BYRH gwptn' (370 OD) OL Y <em>aṣ̌aōninąmca</em> (YR4.14) 360, 370. 350 does not abbreviate.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation/>
+</text>

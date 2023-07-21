@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y59.19" status="created">
+ <!-- created, approved, updated-->
+ <header>
+  <creators>
+   <creator>Porro</creator>
+   <creator>Cantera</creator>
+  </creators>
+  <created>1 June 2019</created>
+ </header>
+ <div type="Stanza" sameAs="" xml:id="Y59.19">
+
+  <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY59.18a"/>
+  <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y59.19NerangTransc.a"/>
+  <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY59.18b"/>
+ </div>
+ <Apparatus>
+  <Critical/>
+  <Commentary/>
+ </Apparatus>
+ <Parallels>
+  <ab>Y59.19-28 = Y25.5a-26.9</ab>
+ </Parallels>
+ <Ritual>
+  <Nerangs id="ritualNerangs">
+   <ab>Y59.19 (mss. 5, 40, 88, 400, 410 (sec. m.), 2030 (sec.m.), 2101, 2106):</ab>
+   <ab class="ab_indent">
+    <em>aṣ̌āunąm vaŋᵛhīš sūrā̊ spəṇtā̊ frauuaṣ̌aiiō staōmi</em> ēn gyāg āb be sar ī barsom kardan <em>zbaiiemi ufiiemi</em>.</ab>
+   <ab class="ab_indent">
+    "At this passage, he should pour water on the <em>barsom</em>."</ab>
+  </Nerangs>
+ </Ritual>
+ <translation>
+  <include type="CAB" corresp="CABTrY59.19"/>
+  <include type="W" corresp="WTrY59.18"/>
+  <include type="K" corresp="KTrY59.18"/>
+  <include type="D" corresp="DTrY59.18"/>
+ </translation>
+</text>

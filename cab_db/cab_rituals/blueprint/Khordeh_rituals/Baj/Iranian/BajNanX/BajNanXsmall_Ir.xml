@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+			<div type="IntroductoryPrayer" xml:id="BajNanX_short"> <!-- vide: K36, MZK9; non vide: MF32, Katrak563, MF29, MF31, W1, Ethé1943 -->
+				<div type="IntroductoryPrayerStanza" xml:id="BajNanX_short1.1">
+                    <ab n="a" xml:id="YtArW1.1a">xšnaōϑra. ahurahe. mazdā̊.</ab>
+                </div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajNanX_short1.2">
+					<include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+				</div>
+                <div type="IntroductoryPrayerStanza" xml:id="BajNanX_short2.1" quote="Y37.1 (#GY37.1) = YR37.1 VrS45.1 VVrS45.1 VytVrS45.1, Y5.1 (#GY5.1) = DrYt3.1 YR5.1 VrS5.1 VVrS5.1 VytVrS5.1">
+                    <ab n="a" xml:id="BajNanX_short2.1a">iϑā. āt̰. yazamaidē. ahurəm. mazdąm. yə̄. gąmcā. aṣ̌əmcā. dāt̰.</ab>
+                    <ab n="b" xml:id="BajNanX_short2.1b">apascā. dāt̰. uruuarā̊scā. vaŋᵛhīš. raōcā̊scā. dāt̰.</ab>
+                    <ab n="c" xml:id="BajNanX_short2.1c">būmīmcā. vīspācā. vohū.</ab>
+                </div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajNanX_short2.2">
+					<include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/>
+					<note anchored="true">ṭʿʾm nwšydn bʿd ʾz ṭʿʾm bǧʾ nwšydn dst w rwy šstn dhʾn pʾk krdn</note> <!-- text according to MZK9 -->
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajNanX_short2.3">
+					<include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="4"/> <!-- text from here on according to MZK9 -->
+				</div>
+                <div type="IntroductoryPrayerStanza" xml:id="BajNanX_short3.1">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="2"/>
+					<note anchored="true">yzdʾn dʾd whʾn mʾn sʾxt ʾrzʾny mʾn xwrd xrth hlʾl mʾndh xyr brkt ǧmyt tw mʾn hlʾr w krh mʾn wr ʾrzʾny w ʾrzʾndh dʾry</note>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajNanX_short3.2">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>                
+					<note anchored="true">spʾsdʾrm spʾsdʾrm spʾsdʾrm mnt dʾrm xrsndm xwšnwdm tslyʾm bdrkʾh tw dʾdʾr ʾwrmzd hr rwz hzʾr bʾr hzʾrʾn hzʾr bʾr ʾndr twʿh dʾdʾr ʾwrmzd kh ʾyn ṭʿʾm w xwršt āfryd ʾyn ṭʿʾm xwšt bmʾ dʾd ʾrzʾny krdʾnyd</note>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajNanX_short3.3">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>                
+					<note anchored="true">xʾnh ābʾdʾn nʿmt zyʾdh xdʾ xyr brkt ǧmyʿt tndrsth kʾm dnyʾ mrʾd āxrt mʾn āty ʾwrmzd bzrkwʾr</note>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajNanX_short3.4">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>                
+					<note anchored="true">ʾrzʾny ārʾsth bʾd az hmh dhšnh dʾdʾr ʾwrmzd bh ʾwzʾyʾd br w bwm sfndʾrmzd bh ʾwzʾyʾd bʾr w br drxtʾn bh ʾwzʾyʾd zh w šyr čhʾrpʾyʾn bh ʾwzʾyʾd tʾǧ w txt pʾdšʾhʾn bh ʾwzʾyʾd mr w dwšʾ rʾmy mrdmʾn bh ʾwzʾyʾd rwzy spʾsdʾrʾn bynyʾzy krfh kʾrʾn bh ʾwzʾyʾd āb w nwr txšš ādrʾn ātšʾn  bh ʾwzʾyʾd mrdʾn w znʾn w kwdkʾn tʾ bh srwšw črh nʾm ʾndr ʾymʾn hm tʾ ṣd w pnǧʾh sʾlʾn ārʾsth ʾydwn bʾd ʾydwn trǧ bʾd hr čh xwrdym hr čh mʾnd brkt yk bdh dh tʾ ṣd ʾǧ ṣd tʾ hzʾr  hzʾr tʾ pwr hzʾrʾn hr kh dʾrd ʾrzʾny ārʾsth bʾd hr kh ndʾrd xdʾwnd ʿʾlmyʾn ʾz xzynh w rḥmt xwd nṣyb bhrš brsʾnʾd</note>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajNanX_short3.5">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>                
+					<note anchored="true">fyrwz bʾd xrdh ʾwčh wh dyn mʾzdysnʾn sh</note>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajNanX_short3.6">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>                
+                </div>
+			</div>
+</div>

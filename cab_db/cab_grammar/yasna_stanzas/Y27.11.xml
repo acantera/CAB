@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y27.11" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y27.11" quote="Y33.12">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY27.9"/>
+               <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y27.11NerangTransc.a"/>
+            </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels>
+        <Quotations id="Nebenüberlieferung">
+            <ab><em>us.mōi</em>: Dk M841.22.</ab>
+        </Quotations>
+    </Parallels>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Y27.11 (mss. 40, 88, 400, 410 (sec.m.), 2005, 2007, 2010, 2030, 2040, 2101, 2106, 2109, 4000, 4010, 4020, 4025, 4030a, 4040, 4050, 4055, 4060, 4063, 4161, 4162, 5020):</ab>
+            <ab class="ab_indent">
+                pas <em>us.moi uzārəšuuā ahurā</em>. zōhr ul dārišn pad ēd wacist az dašn ud pad ēd wacist az hōy pad ēd wacist pad war ī zōhrag dārišn pad čahārom wacist abar barsom 
+                nihišn pad sar ī māhrūg dārišn <em>ārmaitī təuuīšīm</em>. ...</ab>
+            <ab class="ab_indent">
+                "Afterwards, at <em>us.moi uzārəšuuā ahurā</em>, he has to hold the <em>zōhr</em> up, during the first stanza, to the right; during the second stanza, to the left; during the third stanza, 
+                close to the <em>zōhrag</em>; during the fourth stanza, he has to put it on the <em>barsom</em>, on the top of the <em>māhrōy</em> (and he has to continue with) <em>ārmaitī təuuīšīm</em>..."</ab>
+        </Nerangs>
+        
+        <Quotations id="ritualQuotations">
+            <ab>Cf. N28.47h, cf. <bibl>Kotwal and Kreyenbroek, 2003</bibl>: p. 109:</ab>
+            <ab class="ab_indent">
+                pad <em>us mōi uzārəšuuā ahurā ārmaitī təuuīšīm dasuuā</em> ul 3 wacist az dašn ēk hōy ēk pad war ī zōhrag dārēd</ab>
+            <ab class="ab_indent">
+                "During the threefold recitation of <em>us mōi uzārəšuuā ahurā ārmaitī təuuīšīm dasuuā</em> he should hold it up during the three stanzas, at one to right side, at one to the left
+                and once and at one close to the <em>zōhrag</em>." </ab>
+        </Quotations>
+</Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY27.11"/>
+    <include type="W" corresp="WTrY27.9"/><include type="K" corresp="KTrY27.9"/><include type="D" corresp="DTrY27.9"/></translation>
+</text>

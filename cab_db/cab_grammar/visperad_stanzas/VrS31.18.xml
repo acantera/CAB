@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS31.18" status="created">
+            <!-- created, approved, updated-->
+            <header>
+                        <creators>
+                                    <creator>Porro</creator>
+                                    <creator>Cantera</creator>
+                        </creators>
+                        <created>1 June 2019</created>
+            </header>
+            <div type="Stanza" sameAs="" xml:id="VrS31.18" quote="Y33.11">
+                        <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY27.6"/>
+                        <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS31.18NerangTransc.a"/>
+            </div>
+            <Apparatus>
+                        <Critical/>
+                        <Commentary/>
+            </Apparatus>
+            <Parallels/>
+            <Ritual>
+                        <Nerangs id="ritualNerangs">
+                                    <ab>VrS31.18 (ms. 2000):</ab>
+                                    <ab class="ab_indent">
+                                                zōt ud rāspīg <em>yə̄ səuuištō ahurō mazdā̊scā ... mōi ādāi kahiiāicīt̰ paitī</em> sē bār guftan ud pad harw bār-ē hōm pad <em>kahiiāicīt̰ paitī</em> afšārdan</ab>  
+                                    <ab class="ab_indent">
+                                                "The <em>zōt</em> and the <em>rāspīg</em> should recite three times <em>yə̄ səuuištō ahurō mazdā̊scā ... mōi ādāi kahiiāicīt̰ paitī</em>. Each time,
+                                                he should strain the <em>hōm</em> at <em>kahiiāicīt̰ paitī</em>."</ab>
+                        </Nerangs>
+            </Ritual>
+            <translation>
+                        <include type="CAB" corresp="CABTrVrS31.18"/>
+            </translation>
+</text>

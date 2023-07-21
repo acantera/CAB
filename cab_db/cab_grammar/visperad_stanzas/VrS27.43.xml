@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS27.43" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS27.43">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS13.42a" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen42" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS13.42b" on_line="in1line"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y24.28.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>VrS27.43a <em>maiδiiōizarəmaiiehe</em>] <em>aiiāϑrəmahe</em> 2109 (but VrS27.42 <em>maiδiiōizarəmaiiehe</em>).</ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab>VrS27.43a <em>āat̰ dīš āuuaēδaiiamahi</em> ...] hšnwmn' ZK Y YHWWN-yt' wcʾltn' HT' hšnwmn' gʾsʾn'bʾl YHWWN-yt' <em>āat̰ dīš</em> ... <em>maiδiiōizarəmiiehe raϑβō</em>
+            ʾywp' ẔK gʾs AMT YHWWNyt <em>xšnaōϑra yas. v. x. fra.</em> 2007; (VrS27.42) <em>hāuuanōiš raϑβō y. (VrS27.43) āuuaē</em> hšnwmn' ẔK Y YHWWNyt wcʾltn' (VrS27.42) AMT ycšn' 
+            gʾsʾnbʾl YHWWNyt  AMTš <em>yōi həṇti aṣ̌ahe ratauuō maiδiiōizarəmiiehe raϑβō</em> ʾywp ẔK gʾs MNW YHWWNyt <em>y.</em> OD <em>āuuaē raϑβō bərəzatō</em> OD ... 
+            <em>maiδiiōizarəmaiiehe raϑβō</em> ʾywp gʾs MNW YHWWNyt' (VrS27.43) 2010; (VrS27.42) <em>hāuuanōiš raϑβō yasnāica</em> (VrS27.43) <em>āat̰ dīš</em> hšnwmn' MN ẔK Y 
+            YHWWNyt wcʾltn' (VrS27.42) AMT ycšn' gʾsʾnbʾl YHWWNyt  AMTt' <em>yōi həṇti aṣ̌ahe ratauuō</em> gwptn' <em>maiδiiōizarəmiiehe raϑβō yasnāica</em> (VrS27.43) <em>āat̰ dīš raϑβō 
+               bərəzatō</em> OD ... <em>maiδiiōizarəmiiehe raϑβō</em> ʾywp ẔK gʾs YHWWNyt <em>xšnaōϑra yasnāica</em> 2030, 2101, 2106; AMT ycšn' gʾsʾnbʾl byt <em>raϑβō bərəzatō</em> ... 
+            <em>maiδiiōizarəmaiiehe xšnaōϑrāica yas.</em> OD OL AMT ycšn pwlwlgʾn byt' <em>ahurahe mazdā̊</em> ... <em>frauuašanąm xšnaōϑra</em> 2040; <em>āat̰</em> ʾgl gʾs Y gʾsʾnbʾl MNW 
+            YHWWNšt YHWWNyst' gwptn' <em>raϑβō bərəzatō</em> ... <em>maiδiiōzarmaiiehe raϑβō xšnaōϑra</em> 2065; <em>āat̰ dīš</em> hšnwmn' MN ẔK Y YHWWNyt wcʾltn' AMT ycšn' gʾsʾnbʾl
+            YHWWNyt' (VrS27.42) AMTt <em>yōi həṇti aṣ̌ahe ratauuō</em> gwptn' <em>maiδiiōizarəmiiehe raϑβō̰ yas</em> (VrS27.43) <em>āat̰ dīš raϑβō bərəzatō</em> OD <em>sarəδaną̇mca
+               maiδiiōizarəmiiehe raϑβō</em> ʾywp ẔK gʾs YHWWNyt <em>xšnaōϑra</em> 2070;  (VrS27.42) <em>hāuuanōiš raϑβō yasnāica</em> (VrS27.43) <em>āat̰ dīš</em> hšnwmn' MN ẔK MNW   
+            YHWWNyt wcʾltn' (VrS27.42) AMT ycšn' gʾsʾnbʾl YHWWNyt  AMTt'  <em>yōi həṇti aṣ̌ahe ratauuō maiδiiōizarəmiiehe raϑβō</em> ʾywp' ẔK gʾs YHWWNyt (VrS27.43) <em>āat̰ dīš raϑβō 
+               bərəzatō</em> OD ... <em>aiiāϑrəmahe raϑβō</em> ʾywp ẔK gʾs YHWWNyt <em>xšnaōϑra yasnāica</em> 2109.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS27.43 = DoHom4.43.</ab>
+   </Parallels>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Vid. VrS27.42</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS27.43"/>
+   </translation>
+</text>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y3.8" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y3.8">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY3.8a" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat5.1" on_line="in1line"/>
+               <!-- successive gāh from Y3.7 -->
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY3.8b" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat5.2" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY3.8c" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat5.3" on_line="in1line"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. Y3.6.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab><em>γə̄nąnąmca</em>] sec. cod.; Geldner, Kellens, Redard <em>γənąnąmca</em>.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels>
+        <ab>Y3.8 = Y22.9, VrS78.18; ≈ Y1.6, Y2.6, Y4.11, Y6.5, Y7.9, Y17.5, Y24.16, Y59.5, Y66.6, VrS79.11, VrS81.5, VrS82.6.</ab>
+    <ab>
+            <em>amaheca hutāštahe huraōδahe vərəϑraγnaheca ahuraδātahe vanaiṇtiiā̊sca uparatātō</em> = Y72.19 = in <em>xšnūman wahrom</em>; ~ VrS1.14, VrS25.16, VrS27.30, VrS90.14. <em>vərəϑraγnahe ahuraδātahe vanaiṇtiiā̊sca uparatātō</em>; VrS2.16, VrS17.15, VrS77.15 ~ <em>vərəϑraγnəm ahuraδātəm ... vanaiṇtīmca uparatātəm</em>; ~ Y16.5, Y59.29 <em>vərəϑraγnəm ahuraδātəm yazamaide</em>.
+        </ab>
+        </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrY3.8"/>
+
+    <include type="W" corresp="WTrY3.8"/>
+        <include type="K" corresp="KTrY3.8"/>
+        <include type="D" corresp="DTrY3.8"/>
+    </translation>
+</text>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL12.2.3" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="3" xml:id="ParagnaLL12.2.3">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL12.2.3 (Ms. K7):</ab>
+            <ab class="ab_indent">
+                čašm andar vars konešn <em>imąmcā uruuarąm barəsmanīm jaγmūšīmca aṣ̌aonō aṣ̌ahe raθβō ratufritīm</em> cašm andar esm va buy konešn <em>imąm aēsmąsca baoiδīmca</em> 
+                čašm andar ātaš konešn <em>tauua āθrō ahurahe mazdā̊ puϑra vīspaca vōhū mazdaδāta aṣ̌aciϑra pairica dadəmahī āca vaēδaiiamahī āat̰ dīš āuuaēδaiiamahī</em>.</ab>  
+            <ab class="ab_indent">
+                "He has to gaze at the <em>vars</em> at <em>imąmcā uruuarąm barəsmanīm jaγmūšīmca aṣ̌aonō aṣ̌ahe raθβō ratufritīm</em>; he has to gaze at the <em>esm</em> and 
+                <em>buy</em> at <em>imąm aēsmąsca baoiδīmca</em> and he has to gaze at the fire at <em>tauua āθrō ahurahe mazdā̊ puϑra vīspaca vōhū mazdaδāta aṣ̌aciϑra pairica 
+                    dadəmahī āca vaēδaiiamahī āat̰ dīš āuuaēδaiiamahī</em>."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL12.2.3"/>
+    </translation>
+</text>

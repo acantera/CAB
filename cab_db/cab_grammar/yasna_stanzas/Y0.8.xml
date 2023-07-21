@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y0.8" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y0.8" quote="Y12.4">
+        <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY0.6a"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>zōt ud rāspīg: vid. Y0.6.</div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <RecitationInstruction>
+            <ab>Vid. Y0.6.</ab>
+        </RecitationInstruction>
+        <Commentary/>
+    </Apparatus>
+    <Parallels>
+        <ab>Y0.8 = Y12.4.</ab>
+        <ab><em>staōmī aṣ̌əm</em> ~ VrS1.12, VrS25.14, VrS27.28, VrS90.12 <em>aṣ̌ahe vahištahe staōϑβahe</em>;
+            ~ VrS2.14, VrS17.13, VrS77.13 <em>aṣ̌əm vahištəm staōϑβəm</em>.</ab>
+        <ab><em>staōmī aṣ̌əm</em> quoted by colophons 2610 [K7b], 2620 [M51a] <em>staomi aṣ̌əm</em> ... (Pahl.) stāyēm ahlāyīh. </ab>
+    </Parallels>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Y0.8 Var.a (mss.40, 82, 400, 410 (sec.m.), 2030, 2040, 2101, 4010, 4020, 4025, 4050, 4055, 4060, 4161, 5010, 4030a, 5030): </ab>
+            <ab class="ab_indent">
+                zōt dast abar barsom nihādan ud <em>staōmi aṣ̌əm</em> bē gōwišn u-š barsom az māhrōy ul stānišn</ab>
+            <ab class="ab_indent">
+                "The <em>zōt</em> should put the hand on the <em>barsom</em> and, at <em>staōmi aṣ̌əm</em>, take up the <em>barsom</em> from the <em>māhrōy</em>."</ab>
+            <ab>Y0.8 Var.b (mss. 5, 15):</ab>
+            <ab n="NerangTransc.a"> <em>staōmī</em>dast abar barsom nihādan ud barsom ul stānišn <em>aṣ̌əm</em>.</ab>
+            <ab n="NerangTransc.a">
+                "Between <em>staōmi</em> and <em>aṣ̌əm</em> (the <em>zōt</em>) should put his hand on the <em>barsom</em> and take up the <em>barsom</em>."</ab>
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+            <ab>Cf.N28.34b, <bibl>Kotwal and Kreyenbroek, 2003</bibl>, pp. 90-91:</ab>
+            <ab><em> u-š pad <em>staōmi</em> pāy ī dašn andar [gāh ī] zōtān nihišn... ast kē ēdōn
+                    gōwēd ay hād </em>staōmi aṣ̌əm <em>ka nē pad barsom gōwēd ā nē šāyēd</em>
+            </ab>
+            <ab>"At <em>staōmi</em>, he has to put his right food on the place of the <em>zōt</em>
+                ... There is one commentator who says that, if he does not recite <em>staōmi</em>,
+                then it is not allowed."</ab>
+        </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY0.8"/>
+        <include type="W" corresp="WTrY0.6a"/>
+        <include type="K" corresp="KTrY0.1"/>
+        <include type="D" corresp="DTrY0.6a"/>
+    </translation>
+</text>

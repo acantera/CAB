@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y20.3" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y20.3">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY20.3"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y19.3.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y20.3a <em>yat̰</em>] sec. cod. Ir.; Geldner, Kellens <em>yat̰</em>. OAv. form <em>hiiat̰</em> expected.  Only cod. 672, 677, 4515 <em>hiiat̰</em>.</ab>
+         <ab>Y20.3a.8 <em>vīspəm mąϑrəm vīspəm mąϑrāi</em>] <em>vīspāi mąϑrāi</em> expected. Cod. 2040 <em>vīspəm vīspāi mąϑrāi</em> (<em>mąϑrəm</em> missing), 
+            4370 <em>vīspəm mąϑrəm vīspāi mąϑrāi</em>. Likely secondary corrections of 19th Century.</ab>
+         <ab>Y20.3d <em>šaōš́iieṇtibiiō</em>] irr. sec. cod. 2007, 2010, 2109, 4040, 5020 (°<em>-aṇtibiiō</em> 5,15,83,88, 231, 400, 410, 2106); Geldner <em>saošiiaṇtaēbiiō</em>; Kellens <em>saošiiaṇtibiiō</em>. Only attested form for the dat. pl. of <em>saōš́iiaṇt-</em>. Cf. <em>t̰bišiiaṇbiiō</em> (Y68.13), 
+            other similar forms dat. pl. <em>amauuat̰biiō</em> (VrS24.7) and <em>druuat̰biiō</em> (Y57.36), instr. pl. <em>daēuuauuat̰bīš</em> and <em>yatumat̰bīš</em> (Y12.9), 
+            and <em>bərəzaṇbiia</em> (e.g. Y1.11) with full degree. For vv. ll. vid. Apparatus.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      ̣<ab><em>yat̰ aṣ̌āi vahištāi aṣ̌əm</em> quotes AV.c.</ab>
+      <ab><em>yaϑa aṣ̌āi xšaϑrəm cinasti</em> quotes Y29.10 <em>aṣ̌ā xšaϑrəmcā</em> (<bibl>Kellens, 2010</bibl> p. 56).</ab>
+      <ab><em>zbaiieṇte aṣ̌aōne</em> quotes Y49.12 <em>aṣ̌ā zbaiieṇtē ... zaraϑuštrāi</em> (<bibl>Kellens, 2010</bibl> p. 57).</ab>
+      <ab><em>xšmāuuōiia aṣ̌əm cinasti yat̰ saōš́iiaṇtaēbiiō</em> quotes Y46.15 <em>aṣ̌əm xšmaibiiā</em> (<bibl>Kellens, 2010</bibl> p. 57).</ab>
+      <ab><em>vīspəm vacō frauuākəm haurum vacō ahurahe mazdā̊</em> = Y19.14.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY20.3"/>
+      <include type="W" corresp="WTrY20.3"/>
+      <include type="K" corresp="KTrY20.3"/>
+      <include type="D" corresp="DTrY20.3"/>
+   </translation>
+</text>

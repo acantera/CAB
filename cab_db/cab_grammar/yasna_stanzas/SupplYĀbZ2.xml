@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="SupplYĀbZ2" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="SupplYĀbZ2" gahfra="1">
+        <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanAcc" xpointer="ShnumanAcc21" dep="fraw" on_line="in1lineblock"/><!-- IF YASNA HAPPENS IN FRAWARDIGAN DAYS -->
+               <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanAcc" xpointer="ShnumanAcc40" dep="gath" on_line="in1lineblock"/> <!-- IF YASNA HAPPENS IN THE GATHA DAYS -->
+               <include href="/db/apps/cab_db/cab_rituals/blocks/SupplY" xpointer="SupplY4.a" on_line="in1line"/> <!-- ALWAYS IN LAST DAYS -->
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+   <Quotations id="ritualQuotations">
+        <ab>Vid. Y62.10.</ab>
+        </Quotations>
+        </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrSupplYĀbZ2"/>
+   </translation>
+</text>

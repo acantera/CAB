@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y59.29" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y59.29">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY59.28a"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y59.29NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY59.28b"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY59.28c"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab><em>saōš́iiaṇtəm vərəϑrājanəm</em> ~ Y26.9 <em>saōš́iiaṇtāt̰ vərəϑraγnat̰</em>.</ab>
+   </Parallels>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y59.29 Var. a (mss. 400, 2101, 88):</ab>
+         <ab class="ab_indent">
+            <em>imat̰ barəsma</em>. ēn gyāg barsom az māhrōy stānišn datuš bē nibāyišn ud abāg gyāg ī xwēš bandišn frāgām pad bun ī barsom abāz kunišn abāg māhrōy nihišn</ab> 
+         <ab class="ab_indent">
+            "At <em>imat̰ barəsma</em>, he has to remove the <em>barsom</em> from the <em>māhrōy</em>, to lay down the <em>datuš</em> and to bind it at its own place. 
+            He has to remove the <em>frāgām</em> from the bottom of the <em>barsom</em> and put it on the <em>māhrōy</em>."</ab>  
+         <ab>Y59.29 Var. b (mss. 5, 6, 15, 40, 82, 2106):</ab>
+         <ab class="ab_indent">
+            <em>imat̰ barəsma</em>. ēn gyāg barsom az māhrōy gušādan ud datuš abāz gyāg ī xwēš kardan frāgām pad abāg bun ī barsom abāz kunišn abāg māhrōy nihišn</ab>
+         <ab class="ab_indent">
+            "At <em>imat̰ barəsma</em>, he has to loose the <em>barsom</em> from the <em>māhrōy</em>, to bring the <em>datuš</em> back to its place. He has to remove the 
+            <em>frāgām</em> from the bottom of the <em>barsom</em> and put it on the <em>māhrōy</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY59.29"/>
+      <include type="W" corresp="WTrY59.28"/>
+      <include type="K" corresp="KTrY59.28"/>
+      <include type="D" corresp="DTrY59.28"/>
+   </translation>
+</text>

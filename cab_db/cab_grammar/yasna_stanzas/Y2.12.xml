@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y2.12" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y2.12">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.11c" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RozAcc" xpointer="RozAcc1" on_line="in1line"/>
+               <!-- All days possible -->
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.11d" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.11e" on_line="in1lineblock"/> <!-- Eliminate when Gatha days -->
+               <include href="/db/apps/cab_db/cab_rituals/blocks/MahAcc" xpointer="MahAcc1" on_line="in1line"/>
+               <!-- All months possible -->
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.11f" on_line="in1line"/>  <!-- Eliminate when Gatha days -->
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. Y2.4.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab><em>aɱiia zaōϑre barəsmanaēca</em>] <em>aɱiia zaōϑre barəsmanaēca</em> YWM W BYRH ZKš ḆYN YKOYTN gwptn' <em>āiiese yešti</em> 5; <em>aɱiia zaōϑre barəsmanaēca</em> YWM W BYRH ZKš gwptn' 15;
+                <em>aɱ. z. b.</em> YWM W BYRH gwptn' 40;  <em>aɱ. z. b.</em> YWM W BYRH ZKš <em>ahurəm mazdąm raēuuaṇtəm xᵛarənaŋᵛhaṇtəm yazamaide</em> 60; <em>ahmīa</em> YWM BYRH <em>āiie</em> 100; 
+                <em>aɱiia</em> YWM BYRH <em>āiie</em> BYR <em>aɱiia</em> BYRH <em>āiie</em> 672. 400, 410, 500, 510 do not abbreviate.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels>
+        <ab>Y2.12 = VVrS14.10; ≈ Y1.12, Y3.14, Y4.17, Y6.11, Y7.15, Y17.11, Y22.15, Y24.22, Y59.11, Y66.12, VrS78.24, VrS79.17, VrS81.11, VrS82.12.</ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrY2.12"/>
+    <include type="W" corresp="WTrY2.11b"/>
+        <include type="K" corresp="KTrY2.11b"/>
+        <include type="D" corresp="DTrY2.11b"/>
+    </translation>
+</text>

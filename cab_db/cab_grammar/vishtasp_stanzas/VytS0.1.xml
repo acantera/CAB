@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VytS0.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>07 March 2020</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VytS0.1">
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+   <Ritual>
+       <Nerangs id="ritualNerangs">
+           <ab>VytVrS0.1 Var. a (mss. 5010, 5030, 5100, 5103, 5105, 5115):</ab>
+           <ab class="ab_indent">
+               barsom sih ud sē tāg ud frāgām dō tāg barsom bastan ud parāhōm kardan sāzišn hamāg xūb frāz nihādan ud parāhōm kardan rāy pad har hōmāst-ē pad kamistīh hōm sē tāg ud 
+               urwarām pārag-ē ud ǰām andak-ē frāz nihišn</ab>  
+           <ab class="ab_indent">
+               "The <em>barsom</em> (consists of) 33 twigs and the <em>frāgām</em> are two. He should tie the <em>barsom</em>, prepare the <em>parāhōm</em> and dispose all the
+               implements carefully. For the preparation of the <em>parāhōm</em>, he has to dispose for each Hōmāst at least three twigs of <em>hōm</em> and a branch of <em>urwarām</em>
+               and a drop of <em>ǰām</em>."</ab> 
+           
+           
+       </Nerangs>
+   </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrVytS0.1"/>
+    </translation>
+</text>

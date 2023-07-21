@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL9.1.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="1" xml:id="ParagnaLL9.1.1">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL9.1.1 Var. a (Mss. K7, RJ):</ab>
+            <ab class="ab_indent">
+                pas digar haft šāḫ-e hum ke az gere tā gere yek-šāḫ ast pas <em>xšnaoθra ahurahe mazdā̊ aṣ̌əm vōhū</em> se guftan <em>frauuarāne</em> gāh ānče bid <em>haomahe aṣ̌auua.zaŋhō 
+                    xšnaoθra. y. v. x. f. yaϑā ahū vairiiō zaotā frā mē mrūtē</em> OD <em>mraotū</em></ab> 
+            <ab class="ab_indent">
+                "Then, again the seven <em>hum</em>-twigs. (One twig) is what (goes) from one knot to another knot. Then (he should recite) <em>xšnaoθra ahurahe mazdā̊</em> and three
+                <em>Aṣ̌əm Vohū</em>s and the <em>Frauuarāne</em> with the corresponding <em>gāh</em> and (with the <em>šnūman</em>) <em>haomahe aṣ̌auua.zaŋhō xšnaoθra
+                    y. v. x. f.</em> (and with the <em>wāz-gīrišnīh</em>) <em>yaϑā ahū vairiiō zaotā frā mē mrūtē</em> until <em>mraotū</em>"</ab>
+            
+            <ab>ParagnaLL9.1.1 Var. b (Ms. 19):</ab>
+            <ab class="ab_indent">
+                ke hum šuyid ḫšnutra <em>ahurahe mazdā ašem vohi</em> se bār fravarāne če gāh dārid <em>haōmahe aṣ̌auuazaŋhō xšnaōθra yasnāica v. x. f. yaθā ahī vairiiō zaōtā</em> tā 
+                sar u-š wāz vāǧ frāǧ girešn</ab>
+            <ab class="ab_indent">
+                "When one washes the <em>hum</em>, (he should recite) <em>xšnaoθra ahurahe mazdā̊</em> and three <em>Aṣ̌əm Vohū</em>s and the <em>Frauuarāne</em> with the 
+                corresponding <em>gāh</em> (and with the <em>šnūman</em>) <em>haomahe aṣ̌auua.zaŋhō xšnaoθra. y. v. x. f.</em> (and with the <em>wāz-gīrišnīh</em>) <em>yaϑā
+                    ahū vairiiō zaotā frā mē mrūtē</em> until the end. He has to take the <em>vāǧ</em>."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL9.1.1"/>
+    </translation>
+</text>

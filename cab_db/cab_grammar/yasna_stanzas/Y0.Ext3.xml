@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y0.Ext3" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+        <approved/>
+        <updated/>
+    </header>
+    <div xml:id="Y0.Ext3">
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="7"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>zōt: vid. Y0.1.</div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+
+        <Critical/>
+        <RecitationInstruction/>
+        <Commentary>
+            <ab><em>yaϑā. ahū. vairiiō.</em>] 15, 60, 82, 100, 110, 235. Number of Ahuna Vairiiias variable depending on the šnūman, see Ritual Information</ab>
+        </Commentary>
+
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Vid. Y0.1.</ab>
+            <ab>NērY0.1 Var c (Nērang ī Nō-nāwar yaštan)</ab>
+            <ab class="ab_indent">
+                <em> ka ādurgāh kāmēd šustan naxost dast pad pādyāb bē kunišn u-š ātaxš ud barsom bē
+                    nigerišn u-š az nōg dast pad pādyāb abāz kunišn u-š</em> xšnaoθra. ahurahe.
+                mazdā̊. tarōidite.<em> tā </em> fərašaōtəməm <em>bē gōwišn u-š az nōg dast pad
+                    pādyāb abāz kunišn ud ašemwohū sē ...</em></ab>
+            <ab class="ab_indent">
+                <em>rōz ī dudīgar ka yašt ī srōš kunēd pēš az ādurgāh suštan yatāhūwairyō panǰ bē
+                    gōwišn u-š ādurgāh šustan ...</em>
+            </ab>
+            <ab class="ab_indent"><em>rōz ī sidīgar pēš az ādurgāh šustan </em>yaθā. ahū. vairiiō.
+                    <em>dō ...</em></ab>
+            <ab class="ab_indent"> When he wants to clean the <em>ādurgāh</em>, first, he has to made his
+                hands clean with <em>pādyāb</em> and to look at the fire and the <em>barsom</em>. He
+                has to made anew his hands clean. He has to recite <em>xšnaoθra ahurahe mazdā̊
+                    tarōidite</em> until <em>fərašaōtəməm</em>. He has to made anew his hands clean
+                with <em>pādyāb</em>. (He has to continue with) three Ašemwohū. ... The second day,
+                when he performs the Yašt for Srōš, before cleaning the <em>ādurgāh</em>, he has to
+                recite five Yatāhuwairyō. He should clean the <em>ādurgāh</em>. ... The third day,
+                before cleaning the <em>ādurgāh</em>, (he should recite) two <em>yaθā ahū
+                    vairiiō.</em>
+            </ab>
+            <ab>NērY0.1 Var d (Nērang ī Nō-nāwar yaštan)</ab>
+            <ab class="ab_indent"><em>ka ādurgāh kāmēd šustan naxost dast pad pādyāb abāz kunišn
+                    u-š</em> xšnaōθra. ahurahe. mazdā̊. taraōi.diti. <em>tā</em> staōmi. aṣ̌əm <em>
+                    bē gōwišn u-š nōg dast pad pādyāb abāz kunišn</em> aṣ̌əm. vohū. <em>sē
+                </em>...</ab>
+            <ab class="ab_indent"><em>rōz ī dudīgar ka yašt ī srōš kunēd pēš az ādurgāh suštan
+                yatāhūwairyō panǰ bē gōwišn u-š ādurgāh šustan </em>...</ab>
+            <ab class="ab_indent"><em>rōz ī sidīgar pēš az ādurgāh šustan</em> yaθā. ahū. vairiiō. <em>dō bē
+                gōwišn</em></ab>
+            <ab class="ab_indent"> When he wants to clean the <em>ādurgāh</em>, first, he has to made his
+                hands clean with <em>pādyāb</em>. He has to recite <em>xšnaoθra ahurahe mazdā̊ taraōi.dīti.</em> until
+                <em>staōmi aṣ̌əm</em>. He has to made anew his hands clean with <em>pādyāb</em>. (He has to continue
+                with) three Ašemwohū. ... The second day, when he performs the Yašt for Srōš, before
+                cleaning the <em>ādurgāh</em>, he has to recite five Yatāhuwairyō. He should clean the
+                <em>ādurgāh</em>. ... The third day, before cleaning the <em>ādurgāh</em>, (he should recite) two <em>yaθā
+                ahū vairiiō </em>.</ab>
+            <ab>Ms. 0060 (cf. ms. 4075, same scribe):</ab>
+            <ab class="ab_indent" n="NerangTranslit.a" xml:id="Y0.1NerangTransc.a" xml:lang="Pers">
+                <em>yaθā. ahū. vairiiō. </em> agar yašt ašōān bāšad hašt agar yašt srōš bāšad panǧ
+                ḫvandan agar yašt ruz bāšad haft agar yašt *nōnāvar bāšad haft ḫvandan agar yašt
+                siruze bāšad dō ḫvandan agar yašt raftvan dvāzdah tā ḫvandan agar yašt humane bāšad
+                hft tā ḫvandan tā sar ʾ </ab>
+            <ab class="ab_indent" n="NerangEnglish.a" source="0060" xml:id="Y0.1NerangEnglish.a">
+                    "<em>yaθā ahū vairiiō</em>. If it is a <em>yašt</em> for <em>ašōān</em>, eight
+                times. If it is a <em>yašt</em> for Srōš, five times. If it is the <em>yašt</em> for
+                the patron of the day, seven times. If it is a <em>yašt</em> Nōnāwar, seven times.
+                If it is a <em>yašt</em> Siruze, two times. If it is a <em>yašt</em> for Rapihbin,
+                twelve times. If it is a <em>yašt</em> for Vahman, seven times. (He should recite:)
+                    <em>xšnōϑra. ahurahe. mazdā̊. aṣ̌əm. vohī.</em>" </ab>
+        </Nerangs>
+        <ModernPractice id="ritualModernPractice">
+            <ab>
+                <ab>
+                    <bibl>Redard and Daruwalla, 2021</bibl>, pp. 69-70: </ab>
+                <ab class="ab_indent">"... and if the Yasna of the day Ahuramajd is to be performed,
+                    then he recites 10 Ahuna Vairiia, if the Yasna of Ardafrauuaš or of the Gāthā is
+                    to be performed, then 8 (<em>Ahuna Vairiia</em>), if the Yasna to Sraoša is to
+                    be performed, then 5 (<em>Ahuna Vairiia</em>), if the Yasna to Sīroza is to be
+                    performed, then 2 (<em>Ahuna Vairiia</em>), if the Yasna to the Gāhānbār is to
+                    be performed, then 4 (<em>Ahuna Vairiia</em>), and if the Yasna of Mīno Nāwar or
+                    any of the days is to be performed, then 7 (<em>Ahuna Vairiia</em>).</ab>
+                <ab class="ab_indent">Then, the chief priest taking the jug which has been made
+                    pure, in his right hand, <em>xšnaoϑra ahurahe mazdā̊</em> 1x <em>Aṣ̌əm Vohū</em>
+                </ab>
+                <ab class="ab_indent">While reciting, he makes his left hand pure and inserting that
+                    hand, which has been made pure, into the jug, he holds the jug. Then the second
+                    time <em>xšnaoϑra ahurahe mazdā̊</em> 1x <em>Aṣ̌əm Vohū</em>
+                </ab>
+                <ab class="ab_indent">While reciting, he makes his right hand pure."</ab>
+            </ab>
+        </ModernPractice>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY0.Ext3"/>
+    </translation>
+</text>

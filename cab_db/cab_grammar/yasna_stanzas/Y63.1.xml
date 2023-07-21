@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y63.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y63.1">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y62.11NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y63.1 Var. a (mss. 5, 40, 400, 410 (sec. m.), 4000, 4010, 4020, 4040, 4050, 4055, 4161, 4162, 5020):</ab>
+         <ab class="ab_indent">
+            pas barsom frōd ō māhrōy nihišn sar ī zōhr abar griftan ud zōhr bē nigerīdan <em>aṣ̌əm vohū</em> sē guftan</ab>
+         <ab class="ab_indent">
+            "He has to put the <em>barsom</em> on the <em>māhrōy</em>, take the top (of the saucer for) the <em>zōhr</em> and gaze at the <em>zōhr</em>.</ab>
+         <ab>Y63.1 Var. b (mss. 6, 88, 15):</ab>
+         <ab class="ab_indent">
+            čon panǧe-ye kuček va bozorg yazišn konand <em>aṣ̌əm vohū</em> sē guftan <em>frauuarāne sauuaŋhə̄e raθβąm</em> wāz gīrišnīh zōt <em>yaθā ahū vairiiō zaōtā frā.mē mrūtē</em> 
+            rāspīg <em>yaθā ahū vairiiō zaōtā frā.mē mrūtē</em> rāspīg <em>yaθā ahū vairiiō yō zaōtā frā.mē mrūtē</em> zōt <em>aθā ratuš</em> kardan tā <em>frauuaṣ̌aiiō yaz yā̊ vīsāδa</em> 
+            bun tā sar guftan pas barsom frōd ō ī barsomdān nihišn sar ī zōhr abar griftan zōhr bē nigerīdan <em>aṣ̌əm vohū</em> sē guftan</ab> 
+         <ab class="ab_indent">
+            "When they peform a liturgy during the Five Lesser or Five Greater Days, they should say three <em>aṣ̌əm vohū</em> and the frauuarāne with <em>sauuaŋhə̄e raθβąm</em> 
+            and taking of the <em>wāz</em>: the <em>zōt</em> should recite <em>yaθā ahū vairiiō zaōtā frā.mē mrūtē</em>, the <em>rāspīg</em> <em>yaθā ahū vairiiō zaōtā frā.mē mrūtē</em> 
+            <em>rāspīg</em> <em>yaθā ahū vairiiō yō zaōtā frā.mē mrūtē</em> and the <em>zōt</em> should answer <em>aθā ratuš</em>. They recite the <em>frauuaṣ̌aiiō yazamaide yā̊ vīsāδa</em> 
+            from the beginning to the end.  He has to put the <em>barsom</em> on the <em>barsomdān</em>, take the container of the <em>zōhr</em> and gaze at the <em>zōhr</em>. They should recite three <em>aṣ̌əm vohū</em>"</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY63.1"/>
+      <include type="W" corresp="WTrY62.11a"/>
+      <include type="K" corresp="KTrY62.11a"/>
+      <include type="D" corresp="DTrY62.11a"/>
+   </translation>
+</text>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y9.26" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y9.26">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY9.26"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y9.3.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y9.26a <em>maińiiutāštəm</em>] Geldner; Kellens, Pirart <em>mainiiu.tāštəm</em>.</ab>
+         <ab>Y9.26b <em>barəšnuš</em>] Kellens (Bartholomae); Geldner <em>baršnuš</em>; Pirart <em>barəšnušu</em>. Acc. pl. irr. Cf. Y10.17 <em>barəšnušuua gairinąm</em>.</ab>
+         <ab>Y9.26b <em>drājaŋhe</em>] Geldner; Kellens (<bibl>Hoffmann, 1970</bibl>) <em>drājaŋ́he</em>.</ab>
+         <ab>Y9.26b <em>graūsca</em>] Kellens, Pirart (<bibl>Hoffmann, 1970</bibl>), Pirart; Geldner <em>grauuasca</em>. Cod. vv.ll.. Vid. apparatus.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>pauruuanīm aiβiiā̊ŋhanəm stəhrpaēsaŋhəm maińiiutāštəm vaŋᵛhīm daēnąm māzdaiiasnīm</em> quoted Dd38.15 (Pahl.) <em>+ēbyānghan ī star-pēsīd ī mēnōyan-tāšīd wehdēn ī mazdēsnān.</em> (vid. <bibl>Cantera, 2019b</bibl>).</ab>
+      <ab><em>stəhrpaēsaŋhəm maińiiutāštəm</em> = Yt13.3, Yt10.143; ~ Yt10.90 <em>stəhrpaēsaŋha maińiiutāšta</em></ab>
+      <ab><em>vaŋᵛhīm daēnąm mazdaiiasnīm</em> = V19.16; ~ Yt13.94 <em>vaŋᵛhi daēna māzdaiiasniš</em>.</ab>
+      <ab><em>baršnuš paiti gairinąm</em> = Y10.3, VS2.23; ~ Y10.17 <em>baršnušuua gairinąm</em>; ~ VS5.1 <em>haca barəšnauuō gairinąm</em>; ~ VS5.1, VS5.2 <em>auui barəšnauuō gairinąm</em>;
+      ~ Yt14.21 <em>barəšnauuō ... gairinąm</em>; ~ Yt18.6 <em>barəšnauuō gairinąm</em>.</ab>
+   </Parallels>
+   <Ritual>
+      <Textual id="textualQuotations">
+         <ab>Dd38.15 (vid. <bibl>Cantera, 2019b</bibl>):</ab>
+         <ab class="ab_indent">+ēbyānghan ī star-pēsīd ī mēnōyan-tāšīd wehdēn ī mazdēsnān.</ab>
+         <ab class="ab_indent">"The girdle adorned with stars andfashioned in the world of thought is the good Vision of the Mazdā-worshippers."</ab>
+      </Textual>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY9.26"/>
+
+        <include type="W" corresp="WTrY9.26"/>
+        <include type="K" corresp="KTrY9.26"/>
+        <include type="D" corresp="DTrY9.26"/>
+    </translation>
+</text>

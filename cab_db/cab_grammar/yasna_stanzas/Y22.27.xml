@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y22.27" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y22.27" shnumandep="1">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY23.2"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. Y22.26.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab>Y22.27a-b <em>†āfrauuaṣ̌e</em>] sec. cod.; Geldner, Kellens <em>āfrauuaṣ̌i</em>. <bibl>Wolff, 1910</bibl> p. 58 <em>†ā †frauuaṣ̌e</em> as repetition of the praevb. <em>ā</em> from <em>āiiese</em>? 
+                Or particle <em>ā</em> + voc. sg. (vid. <bibl>Dunkel, 2014</bibl>, p. II.208)? Cf. <em>āiiese yešti</em> + voc. VrS25.11 (cf. Commentary VrS1.9).</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels>
+        <ab>VrS25.34 = DoHom2.34.</ab>
+    <ab><em>āiiese yešti āfrauuaṣ̌i ahurahe mazdā̊</em> ~ Y26.1, Y59.20, VrS81.19, DrYt4.10, Yt13.80 <em>yazamaide frauuaṣ̌īm auuąm yąm ahurahe mazdā̊</em>.</ab>
+    <ab><em>āiiese yešti āfrauuaṣ̌i [...] aməṣ̌anąm spəṇtanąm</em> ~ Yt13.82 <em>aṣ̌āunąm vaŋᵛhīš sūrā̊ spəṇtā° frauuaṣ̌aiiō yazamaide yā̊ aməṣ̌anąm spəṇtanąm</em>.</ab>
+    <ab><em>āiiese yešti āfrauuaṣ̌i gaiiehe marəϑnō zaraϑuštrahe spitāmahe</em> ~ Yt13.87 <em>gaiiehe marəϑnō aṣ̌aōnō frauuaṣ̌īm yazamaide [...] zaraϑuštrahe spitāmahe iδa aṣ̌aōnō aṣ̌īmca frauuaṣ̌īmca yazamaide</em>.</ab>
+    <ab><em>āiiese yešti āfrauuaṣ̌i [...] kauuōiš vīštāspahe</em> ~ Yt13.99 <em>kauuōiš vīštāspahe aṣ̌aōnō frauuaṣ̌īm yazamaide</em>.</ab>
+    <ab><em>āiiese yešti āfrauuaṣ̌i [...] isat̰.vāstrahe zaraϑuštrōiš</em> ~ Yt13.98 <em>isat̰.vāstrahe zaraϑuštrōiš aṣ̌aōnō frauuaṣ̌īm yazamaide</em>.</ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrY22.27"/>
+    <include type="W" corresp="WTrY23.2"/><include type="K" corresp="KTrY23.2"/><include type="D" corresp="DTrY23.2"/></translation>
+</text>

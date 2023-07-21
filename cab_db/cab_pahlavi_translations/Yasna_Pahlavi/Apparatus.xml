@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+    
+    <ab xml:id="Y0.9Translation.AV">
+            <app>
+                <lem wit="PY">ahlāyīh pahlom ast </lem>
+                <rdg n="a" wit="0400">ahlāyīh pahlom ast <wit><idno>0400</idno></wit></rdg>
+                <rdg n="b" wit="0510">ahlāyīh ābādīh ī pahlom ast nēk ast
+                    ahlāyīh nēk ōy kē ahlāyīhēnīdār ān ī pahlom ahlāyīh <wit><idno>0510</idno><idno>Rapithwin</idno></wit></rdg>
+            </app>
+        </ab>
+    
+    
+    <ab xml:id="PY0.14">
+        <app>
+            <lem wit="PY"/>
+            <rdg n="a" wit="0500">andar dānēnd <wit><idno>0510</idno></wit></rdg>
+            <rdg n="b" wit="0400">andar nihānēnd <wit><idno>0400</idno></wit></rdg>
+        </app>
+    </ab>
+</div>

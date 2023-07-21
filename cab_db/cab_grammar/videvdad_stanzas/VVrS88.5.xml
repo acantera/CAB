@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS88.5" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VVrS88.5" quote="Y50.9">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY64.5"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VVrS88.5 Var. a (mss. 4000, 4010, 4020, 4025, 4040, 4050, 4161, 4162):</ab>
+         <ab class="ab_indent">
+            barsom az māhrōy stānišn <em>mat̰ vā̊</em> gām-ē abar kunišn padāiš yā gām-ē abar kunišn <em>frasrūtā īžaiiā̊</em> gām-ē abar kunišn</ab> 
+         <ab class="ab_indent">
+            "He has to take the <em>barsom</em> from the <em>māhrōy</em>. At <em>mat̰ vā̊</em>, he has to advance one step. At <em>padāiš yā</em>, he has to advance one step.
+            At <em>frasrūtā īžaiiā̊</em>, he has to advance one step."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS88.5"/>
+   </translation>
+</text>

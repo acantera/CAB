@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR8.6" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y8.6" xml:id="YR8.6">
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. YR8.6.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <ab>Vid. Nērang.</ab>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>YR8.6 Var. a (mss. 300, 360, 370, Ms. 300):</ab>
+            <ab class="ab_indent">
+                <em>aṣ̌əm vohū</em> sē guftan srōšdrōn xwardan ud dahān pāk kardan ud dast pad pādyāb kardan <em>aṣ̌əm vohū</em> čahār guftan</ab> 
+            <ab class="ab_indent">
+                "He should say three <em>Aṣ̌əm Vohū</em>, eat the <em>srōšdrōn</em>, clean his mouth and wash his (right) hand with <em>pādyāb</em>. 
+                Then he should recite the <em>Aṣ̌əm Vohū</em> four times."</ab>
+            <ab>YR8.6 Var. b (ms. 365):</ab>
+            <ab class="ab_indent">
+                <em>aṣ̌əm vohū</em> sə -:- cāšniikaradan. paṣ̌. <em>aṣ̌əm vōhū</em> cāhr</ab>
+            <ab class="ab_indent">
+                "He (says) three <em>Aṣ̌əm Vohū</em>. He should make <em>čāšnī</em> and then he (says) four <em>Aṣ̌əm Vohū</em>."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation/>
+</text>

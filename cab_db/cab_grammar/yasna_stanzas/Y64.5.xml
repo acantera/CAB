@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y64.5" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y64.5" quote="Y50.8">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y64.5NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY64.4"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y64.5 Var. a (mss. 82, 88, 400, 410):</ab>
+         <ab class="ab_indent">
+            ... <em>auuaŋ́he</em> barsom az māhrōy ul stānišn az zōtgāh gām-e pad kust ī frabardārān nihišn <em>mat̰ vā̊ padāiš</em> bē kunišn pad ruwān ō ī bun ī ātaxš gāh tā <em>haiϑiiāuuarəštąm</em>. 
+            gōwišn <em>mat̰ vā̊</em> gām-ē frāz nihišn namāz ō ī zōhr barišn padāiš gām-ē namāz ō zōhr barišn <em>yā frasrūtā īžaiiā̊</em> gām-ē frāz nihišn be ō ī gāh ābardān šawišn
+            <em>pairi.jasāi</em> šaš gōwišn u-š sē gām az kustag ī hōy pad sar ī barsom bē āyišn</ab> 
+         <ab class="ab_indent">
+            "He has to take the <em>barsom</em> from the <em>māhrōy</em> and make one step towards the side of the <em>frabardārān</em>. Here, he has to recite the section going from 
+            <em>mat̰ vā̊ padāiš</em> until <em>haiϑiiāuuarəštąm</em> with the mind put on the beginning of the fire place. At <em>mat̰ vā̊</em>, he has to make a second step and bring homage 
+            to the <em>zōhr</em>. At <em>padāiš</em>, one further step and he should bring homage to the <em>zōhr</em>. At <em>yā frasrūtā īžaiiā̊</em>, he has make one step further 
+            and to go to the place of the <em>ābardān</em>. He has to recite six times <em>pari.jasāi</em> (?) and he has to make three steps from the left side (of the <em>zōtgāh</em>), (starting) 
+            at the (standard) position of the upper end of the <em>barsom</em>."</ab>
+         <ab>Y64.5 Var. b (mss. 40, 2030, 2106):</ab>
+         <ab class="ab_indent">
+            barsom ul stānišn be gāh ī frabardārān šawišn mat̰. vā̊. bē kunišn pad ruwān ō ī bun ī ātaxš gāh tā <em>haiϑiiāuuarəštąm</em>. gōwišn <em>mat̰ vā̊</em> gām-ē frāz nihišn namāz ō 
+            zōhr barišn <em>padāiš yā̊</em> gām-ē <em>frasrūtā īžaiiā̊</em> gām-ē frāz nihišn be ō ī gāh ī abardān <em>pairi.jasāi</em> šaš gōwišn u-š sē gām az kustag ī hōy pad sar ī barsom
+            bē āyišn čē paydāg kū ka andar zōt gāh bē gōwēd ēzišn dēwēzagīh nē pēš ud nē pas ī gām ka-z abēr kučak ēč šāyēd </ab>  
+         <ab class="ab_indent">
+            "He has to take the <em>barsom</em> and go to the place of the <em>frabardārān</em>. He has to begin the recitation of <em>mat̰ vā̊</em> and recite until <em>haiϑiiāuuarəštąm</em> 
+            with his mind put towards the fire. At <em>mat̰ vā̊</em>, he has to make a stept and bring <em>namāz</em> to the <em>zōhr</em>. At <em>padāiš yā̊</em>, one further step.
+            At <em>frasrūtā īžaiiā̊</em>, he has to make a step towards the place of the <em>abardān</em>. He has to recite the six times <em>pari.jasāi</em> (?) and he has to make three
+            steps on the left side (of the <em>zōtgāh</em>) (starting) at the (standard) position of the upper end of the <em>barsom</em>, since it is declared that, when he recites (these stanzas) 
+            in the <em>zōtgāh</em>, the liturgy is <em>dēw</em>-worship. Not a step before or a step later. Even if it is a small (step), it is not valid."</ab>
+         <ab>Y64.5 Var. c (ms. 5):</ab>
+         <ab class="ab_indent">
+            barsom az māhrōy ul stānišn <em>mat̰ vā̊</em> gām-ē abar kunišn <em>padāiš yā̊</em> gām-ē abar kunišn <em>frasrūtā īžaiiā̊</em> gām-ē abar kunišn <em>pairi.jasāi</em>. ...</ab>
+         <ab class="ab_indent">
+            "He has to take the <em>barsom</em> from the <em>māhrōy</em>. At <em>mat̰ vā̊</em>, he has to take an step. At <em>padāiš yā̊</em>, he has to take an step. At  
+            <em>frasrūtā īžaiiā̊</em>, he has to take an step (and continue with) <em>pairi.jasāi</em>. ..."</ab> 
+      <ab>Cf. Dk9.43.7 (DkM866.23):</ab>
+      <ab class="ab_indent">
+         <em>abar čim ī gām sē az zōtgāh abastāg gōwišnīh frāz āmad ī zōt pas az yašt pad ātaxš sar
+            pad franābišn ō āb zōhr-barišnīh ul uzīdan ī amahrspandān hamē hanjaman ī hampursagīh ī
+            zardušt sar pad 3 gām az zamīg ō xwaršēd-pāyag pad humad ud hūxt ud huwaršt </em>
+      </ab>
+      <ab class="ab_indent">About the reason why the zōt goes three steps away from the <em>zōtgāh</em> while
+         saying the Avestan text after the end of the yašt for the fire and the introduction to the
+         offering of <em>zōhr</em> to the water ; (the reason) is the moving of the Amahrspandān after the
+         end of each meeting of Zardušt (with them) through three steps, from the earth to the sun
+         station through humad, hūxt and huwaršt</ab>
+      </Nerangs>
+      
+      <Quotations id="ritualQuotations">
+         <ab>N52.9:</ab>
+         <ab class="ab_indent">
+            tā ō ī <em>ẏāiš azāθā mahmāi x́iiātā auuaŋᵛhē mat̰ vā̊ padāiš ẏā frasrūtā īzaiiā̊ pairi.jasāi</em> šaš gōwišn u-š sē gām az kust ī hōy pad sar ī barsom be āyišn</ab>
+         <ab class="ab_indent">
+            "He has to recite the six (stanzas) including <em>ẏāiš azāθā mahmāi x́iiātā auuaŋᵛhē mat̰ vā̊ padāiš ẏā frasrūtā īzaiiā̊ pairi.jasāi</em> and he has to advance three stpes on the left 
+            side, (starting) at the (standard) position of the upper end of the <em>barsom</em>."</ab>
+      </Quotations>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY64.5"/>
+      <include type="W" corresp="WTrY64.4"/>
+      <include type="K" corresp="KTrY64.4"/>
+      <include type="D" corresp="DTrY64.4"/>
+   </translation>
+</text>

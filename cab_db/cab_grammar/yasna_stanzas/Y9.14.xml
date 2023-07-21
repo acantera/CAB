@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y9.14" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y9.14">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY9.14"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y9.3.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y9.14a <em>vaējahi</em>] Kellens, Pirart, ms. 2030. Geldner <em>vaējahe</em>.</ab>
+         <ab>Y9.14a <em>airiiene vaējahi</em>] Pirart add. post <em>vaŋhuiiā̊ dāitiiaiiā̊</em> (= Yt5.17, VS2.20).</ab>
+         <ab>Y9.14a <em>vībərəϑβaṇtəm</em>] Geldner, Kellens; Pirart <em>vī.bərəϑβaṇtəm</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>
+            <em>tūm paōiriiō zaraϑuštra ahunəm vairīm frasrāuuaiiō vībərəϑβaṇtəm āxtūirīm aparəm xraōždiiehiia frasrūiti</em> 
+         ~ Yt19.81 <em>āat̰ tē aēuuō ahunō vairiiō yim aṣ̌auuanəm zaraϑuštrəm frasrāuuaiiat̰ vī.bərəϑβəṇtəm āxtūirīm aparəm xraoždiiehiia frasrūiti</em>.</ab>
+      <ab>
+            <em>tūm paōiriiō zaraϑuštra ahunəm vairīm frasrāuuaiiō</em> ~ VS19.2 <em>zaraϑuštrō ahunəm vairīm frasrāuua</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY9.14"/>
+
+        <include type="W" corresp="WTrY9.14"/>
+        <include type="K" corresp="KTrY9.14"/>
+        <include type="D" corresp="DTrY9.14"/>
+    </translation>
+</text>

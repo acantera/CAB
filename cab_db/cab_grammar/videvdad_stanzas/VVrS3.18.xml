@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS3.18" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y3.23" xml:id="VVrS3.18">
+         <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY3.14c"/>
+         <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY3.14d"/>
+      </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. VVrS3.12.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab><em>xᵛarəϑəm miiazdəm ... aōxtō.nāmanō yazatahe</em>] II bʾl gwptn' 4000; MN <em>xᵛarəϑəm miiazdəm āiiese yešti</em> (4025: <em>hauruuata</em>) OD OL Y <em>aōxtō.nāmanō yazatahe</em> II bʾl gwptn' 4010, 4025, 4045; 
+                MN <em>xᵛarəϑəm miiazdəm āiiese yešti</em> OD <em>aōxtō.nāmanō yazatahe</em> II bʾl gwptn' 4030; MN <em>xᵛarəϑəm miiazdəm āiiese yešti</em> OD OL <em>aōxtō.nāmanō yazatahe</em> II bʾl gwptn' 4161;
+                <em>xᵛarəϑəm miiazdəm ā. y.</em> OD LOYŠE II bʾl gwptn' 4050.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation/>
+</text>

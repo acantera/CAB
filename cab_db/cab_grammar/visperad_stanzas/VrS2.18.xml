@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS2.18" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VrS2.18">
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS2.10"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. VrS2.4.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+     <Parallels>
+         <ab>VrS2.18 ≈ VrS1.16, VrS17.17, VrS25.18, VrS27.32, VrS77.17, VrS90.16.</ab>
+        <ab><em>ratūm bərəzəm haδaōxtəm</em> ~ <em>raϑβō bərəzatō</em> Y1.18, Y3.20, Y4.23, Y7.21, Y22.21, Y24.28, Y66.18,  VrS27.42, VrS78.30, VrS79.23, VrS82.18.</ab> </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrVrS2.18"/>
+        <include type="W" corresp="WTrVr2.10"/>
+        <include type="D" corresp="DTrVr1.10"/>
+        <include type="K" corresp="KTrVr2.10"/>
+    </translation>
+</text>

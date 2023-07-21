@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS88.5" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS88.5" quote="Y50.8">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS88.5NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY64.4"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS88.5 (mss. 2005, 2007, 2010, 2040, 2101, 2102, 2104, 2109, 4060):</ab>
+         <ab class="ab_indent">
+            barsom az māhrōy ul stānišn az zōtgāh sē gām pad kustag ī frabardārān frāz nihišn <em>mat̰ vā̊</em>. gām-ē abar kunišn namāz ō ī zōhr barišn  padāiš yā gām-ē abar kunišn namāz ō ī zōhr barišn
+            <em> frasrūtā īžaiiā̊</em> gām-ē abar kunišn namāz ō ī zōhr barišn be ō ī gāh ī ābardān šawišn ud bē gōwišn <em>pairi.jasāi</em>.</ab> 
+         <ab class="ab_indent">
+            "He has to take the <em>barsom</em> from the <em>māhrōy</em> and make three steps from the <em>zōtgāh</em> at the side of the <em>frabardārān</em>. At <em>mat̰ vā̊</em>, 
+            he has to advance one step and bring <em>namāz</em> to the <em>zōhr</em>. At <em>padāiš yā</em>, he has to advance one step and bring <em>namāz</em> to the <em>zōhr</em>.
+            At <em> frasrūtā īžaiiā̊</em>, he has to advance one step and bring <em>namāz</em> to the <em>zōhr</em>, has to go to the place of the <em>ābardān</em> and recite 
+            <em>pairi.jasāi</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS88.5"/>
+   </translation>
+</text>

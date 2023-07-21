@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS64.6" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS64.6">
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS25.3g"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS25.3h"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS25.3i"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+       <ab>
+          <em>framərəiti humatanąmca hūxtanąmca huuarštanąmca paitištātə̄e dušmatanąmca dužūxtanąmca dužuuarštanąmca</em> = VrS64.7, VrS71.5, VrS71.6; ~ Y0.6, Y12.2 <em>aibī.gairiiā daiϑē vīspā humatācā hūxtācā huuarštācā paitī.riciiā daiϑē vīspā dušmatācā dužūxtācā dužuuarštācā</em>; ~ Y10.16 <em>humatahe aɱi dušmatahe nōit̰ aɱi hūxtahe aɱi dužūxtahe nōit̰ aɱi huuarštahe aɱi dužuuarštahe nīt̰ aɱi</em>; .</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS64.6"/>
+   </translation>
+</text>

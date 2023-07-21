@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS78.12" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS78.12">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS78.12 (mss. 2005, 2007, 2010, 2030, 2040, 2101, 2104, 2106, 2109, 4010, 4020, 4025, 4040, 4050, 4055, 4060, 4161, 4162, 5020):</ab>
+         <ab class="ab_indent">
+            ēsm ud bōy sē tāg frāz nihādan zōt ud rāspīg <em>aṣ̌əm vohū</em> sē guftan</ab> 
+         <ab class="ab_indent">
+            "He (the <em>rāspīg</em>) should put three pieces of <em>ēsm</em> and <em>bōy</em> into the fire. The <em>zōt</em> and the <em>rāspīg</em> should recite three 
+            <em>aṣ̌əm vohū</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS78.12"/>
+   </translation>
+</text>

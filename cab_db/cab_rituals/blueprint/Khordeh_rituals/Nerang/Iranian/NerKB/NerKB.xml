@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+            <div type="IntroductoryPrayer" xml:id="NerKB"> <!-- vide: YL2-17, K36, MZK9, MZK6, RR3, DorostXANew; non vide: MF32, MF25, MF29, MF31, W1, Ethé1943 -->
+                <div type="IntroductoryPrayerStanza" xml:id="NerKB1.1" corresp="#GNerKB1">
+                    <ab n="a" xml:id="NerKB1a">xšnaōϑra. ahurahe. mazdā̊. tarōidīti. aŋhrahe. maińiiə̄uš.</ab>
+                    <ab n="b" xml:id="NerKB1b">haiϑiiāuuarštąm. hiiat̰. vasnā. fərašōtəməm.</ab>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="NerKB1.2" corresp="#GNerKB1">
+                    <ab n="a" xml:id="NerKB1c">staōmi. aṣ̌əm.</ab>
+                </div>
+				<div type="IntroductoryPrayerStanza" xml:id="NerKB1.3" corresp="#GNerKB1">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+				</div>	
+				<div type="IntroductoryPrayerStanza" xml:id="NerKB1.4" corresp="#GNerKB1"> <!-- not in IndXA -->	
+                    <ab n="a" xml:id="NerKB1b">xšnaōϑra. ahurahe. mazdā̊.</ab>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="NerKB1.5" corresp="#GNerKB1"> <!-- not in IndXA -->
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+                </div>
+                <div type="IntroductoryPrayerStanza" xml:id="NerKB1.6" corresp="#GNerKB1">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="2"/>
+                </div>
+                <div type="IntroductoryPrayerStanza" xml:id="NerKB1.7" corresp="#GNerKB1">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/> <!-- in IndXA follows: jasa.mē. auuaŋhe. mazda. 3x -->
+                </div>
+                <div type="IntroductoryPrayerStanza" xml:id="NerKB2.1" corresp="#GNerKB2" quote="Y12.13 (#GY12.8) = YR12.13 VrS12.13 VVrS12.13 VytVrS12.13">
+                    <ab n="a" xml:id="NerKB2.1a">mazdaiiasnō. aɱī.</ab>
+                    <ab n="b" xml:id="NerKB2.1b">mazdaiiasnō. zaraϑuštriš. frauuarānē.</ab>
+					<ab n="c" xml:id="NerKB2.1c">āstūtascā. frauuarətascā.</ab>					
+                    <ab n="d" xml:id="NerKB2.1d">āstuiiē. humatəm. manō.</ab>
+                    <ab n="e" xml:id="NerKB2.1e">āstuiiē. hūxtəm. vacō.</ab>
+                    <ab n="f" xml:id="NerKB2.1f">āstuiiē. huuarštəm. š́iiaōϑanəm.</ab>
+				</div>
+                <div type="IntroductoryPrayerStanza" xml:id="NerKB2.2" corresp="#GNerKB2" quote="Y12.14 (#GY12.9) = YR12.14 VrS12.14 VVrS12.14 VytVrS12.14">
+                    <ab n="a" xml:id="NerKB2.2a">āstuiiē. daēnąm. māzdaiiasnīm.</ab> 
+                    <ab n="b" xml:id="NerKB2.2b">fraspāiiaōxəδrąm. niδāsnaiϑišəm.</ab>
+                    <ab n="c" xml:id="NerKB2.2c">xᵛaētuuadaϑąm. aṣ̌aōnīm. yā. hāitinąmcā. būš́iieiṇtinąmcā. mazištācā. vahištācā. sraēštācā. yā. āhūiriš. zaraϑuštriš.</ab>
+                    <ab n="d" xml:id="NerKB2.2d">ahurāi. mazdāi. vīspā. vohū. cinaɱī.</ab> 
+                    <ab n="e" xml:id="NerKB2.2e">aēšā. astī. daēnaiiā̊. māzdaiiasnōiš. āstūitiš.</ab>
+				</div>	
+				<div type="IntroductoryPrayerStanza" xml:id="NerKB3.1" corresp="#GNerKB2"> <!-- not in IndXA -->
+                    <ab n="a" xml:id="NerKB3.1a">jasa.mē. auuaŋhe. mazda.</ab>
+                    <ab n="b" xml:id="NerKB3.1b">jasa.mē. auuaŋhe. mazda.</ab> 
+                    <ab n="c" xml:id="NerKB3.1c">jasa.mē. auuaŋhe. mazda.</ab>
+				</div>	
+                <div type="IntroductoryPrayerStanza" xml:id="NerKB3.2" corresp="#GNerKB2">
+                    <ab n="a" xml:id="NerKB3.2a">amahe. hutāštahe. huraōδahe.</ab> <!-- Xšnūman  Gen day 20-->
+                    <ab n="b" xml:id="NerKB3.2b">vərəθraγnahe. ahuraδātahe. vanaiṇtiiā̊sca. uparatātō.</ab>
+                    <ab n="c" xml:id="NerKB3.2c">rāmanasca. xᵛāstrahe. vaiiaōš. uparō.kairiiehe. taraδātō. ańiiāiš. dāmąn.</ab> <!-- Xšnūman  Gen day 21-->
+                    <ab n="d" xml:id="NerKB3.2d">aētat̰. tē. vaiiō. yat̰. tē. asti. spəṇtō.maińiiaōm.</ab>
+                    <ab n="e" xml:id="NerKB3.2e">θβāṣ̌ahe. xᵛaδātahe. zruuānahe. akaranahe. zruuānahe. darəγō.xᵛaδātahe.</ab><!-- In the IndXA it follows the kərba. mažd. Vāj -->
+                </div>
+				<div type="IntroductoryPrayerStanza" xml:id="NerKB3.3" corresp="#GNerKB2">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+                </div>
+			</div> 
+</div>

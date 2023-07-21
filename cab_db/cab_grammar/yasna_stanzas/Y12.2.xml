@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y12.2" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y12.2">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY11.17"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: Anklesaria, Geldner.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y12.2b <em>aibī.gairiiā.</em>] Geldner <em>aibigairiiā.</em></ab>
+         <ab>Y12.2c <em>paitī.riciiā</em>] Geldner <em>paitiriciiā.</em></ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab><em>frastuiiē...</em>]  <em>frastuiiē</em> OD OL Y <em>staōmī aṣ̌əm</em> (Y12.4) 40; <em>frastuiiē humatōibiiascā</em> OD OL Y <em>staōmī aṣ̌əm</em> 88; <em>fərastui[..] [.....]ō[..]iiascā</em> OD <em>x́ax́aiia uštanəm</em> (Y12.3) 110;
+         <em>fraštōiiē</em> OD <em>x́axaiiā̊</em> 231; <em>fərastuiiē</em> OD <em>staōmī aṣ̌əm</em> 234, 235.</ab>
+         <ab><em>aibī.gairiiā ...</em>] <em>aibi.gairiiā</em> OD OL Y <em>staōmi aṣ̌əm</em> (Y12.4) 5.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>Y12.2-4 = Y0.6-8.</ab>
+      <ab>Y12.2 = Y0.6.</ab>
+      <ab><em>humatōibiiascā hūxtōibiiascā huuarštōibiiascā [...] vīspā humatācā hūxtācā huuarštācā</em> ~ Y4.1, Y4.3 <em>ima humatāca hūxtāca huuarštāca</em>; ~ Y19.16 <em>humatəm hūxtəm huuarštəm</em>.</ab>
+      <ab><em>mąϑβōibiiascā vaxəδβōibiiscā varštuuōibiiascā</em> ~ VrS31.13 <em>mąϑβanąmca vaxəδβanąmca varštuuanąmca</em>.</ab>
+      <ab><em>aibī.gairiiā daiϑē vīspā humatācā hūxtācā huuarštācā paitī.riciiā daiϑē vīspā dušmatācā dužūxtācā dužuuarštācā</em> ~ Y10.16 <em>humatahe aɱi dušmatahe nōit̰ aɱi hūxtahe aɱi dužūxtahe nōit̰ aɱi huuarštahe aɱi dužuuarštahe nīt̰ aɱi</em>;
+         ~ VrS64.6, VrS64.7, VrS71.5, VrS71.6 <em>framərəiti humatanąmca hūxtanąmca huuarštanąmca paitištātə̄e dušmatanąmca dužūxtanąmca dužuuarštanąmca</em>.</ab>
+   </Parallels>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y12.2 (Ms. 60):</ab>
+         <ab class="ab_indent">(Pahl.) az gyāg āb andar sar barsom kunišn 
+            (Per.) āb-e sakāle bardāštan goftan <em>frastuiiē humatōibiiasca</em> āb bar sakāle riḫtan <em>hīxtōibiiasca</em> āb bar māhruy riḫtan <em>huuarəštōibiiasca</em> 
+            āb bar hāvan riḫtan <em>mąϑβōibiiasca</em> āb zamin riḫtan sakāle nikāne inǧā nahādan tā sar ḫāndan 
+            (Y12.3-4) tanāvasčid <em>xᵛax́iiā uštanəm stōmī</em> dast va hāvan kardan dast be māruy nahādan <em>aṣ̌əm</em> 
+            (Y12.5) ašem vāhi yek ḫāndan (Y12.6) <em>nāsmī daēuuō</em> goftan tanggol zadan ke div farib dādan.</ab>
+         <ab class="ab_indent">
+            "(Pahl.)He has to put the <em>ab</em> on the top of the <em>barsom</em> . 
+            (Pers.) He should take the cup for the <em>āb</em>. At <em>frastuiiē humatōibiiasca</em> he should pour water into the cup. At <em>hīxtōibiiasca</em>, he should pour water on the <em>māhruy</em>. 
+            At <em>huuarəštōibiiasca</em>, he should pour water on the <em>hāwan</em>. At <em>mąϑβōibiiasca</em>, he should pour water on the floor and then put there the cup. 
+            He should then recite until the end, i.e. (Y12.3) tanāvasčid <em>xᵛax́iiā uštanəm</em>. At (Y12.4) <em>stōmi</em> he should put the hand on the <em>hāwan</em> and then he has to touch the hand to the <em>māhruy</em> 
+            and recite one (Y12.5) Aṣ̌əm Vohū. He should then recite (Y12.6) <em>nāsmī daēuuō</em> and ululate so that he plays away the div."
+         </ab>
+         <ab>Cf. VVrS12.5.</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY12.2"/>
+      <include type="W" corresp="WTrY11.17"/>
+      <include type="K" corresp="KTrY11.17"/>
+      <include type="D" corresp="DTrY11.17"/>
+   </translation>
+</text>

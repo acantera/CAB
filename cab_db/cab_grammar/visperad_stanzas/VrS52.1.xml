@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS52.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS52.1">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV1"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS52.1 (ms. 2106):</ab>
+         <ab class="ab_indent">
+            <em>tā̊scā y aṣ̌əm vohū</em> sē guftan <em>aiβi.gərəδmahi yasnahe haptaŋhātōiš humataca hūxtaca huuarštaca aiβi.gərəδmahi aṣ̌əm vohū</em> ēk guftan az 
+            <em>aiβi.gərəδmahi yasnahe haptaŋhātōiš</em> tā <em>huuarštaca aiβi.gərəδmahi aṣ̌əm vohū</em> ēk guftan sē bār guftan bōy ō ī ātaxš dahišn</ab> 
+         <ab class="ab_indent">
+            "At ... <em>tā̊scā y</em> they should recite three <em>aṣ̌əm vohū</em> (and continue with) <em>aiβi.gərəδmahi yasnahe haptaŋhātōiš humataca hūxtaca huuarštaca 
+              aiβi.gərəδmahi aṣ̌əm vohū</em> and he should recite one <em>aṣ̌əm vohū</em>. Since <em>aiβi.gərəδmahi yasnahe haptaŋhātōiš</em> until <em>huuarštaca aiβi.gərəδmahi</em> 
+            and the recitation of one <em>aṣ̌əm vohū</em>, he should recite it three times. He has to give <em>bōy</em> to the fire."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS52.1"/>
+   </translation>
+</text>

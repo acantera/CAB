@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS1.26" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VrS1.26">
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY1.17a" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/GahanbarGen" xpointer="GahanbarGen1" alt_href="/db/apps/cab_db/cab_rituals/blocks/RatuGen" alt_xpointer="RatuGen2" has_alt="1" on_line="in1line"/> <!-- If not a Gahanbar day -->
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. VrS1.23.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels>
+        <ab>VrS1.26 ≈ Y1.18, Y2.18, Y3.20, Y4.23, Y6.17, Y7.21, Y17.18, Y22.21, Y24.28, Y59.18, Y66.18, Y71.22, VrS3.20, VrS4.23, VrS7.21, VrS25.28, VrS27.42, VrS78.30, VrS79.23, VrS81.17, VrS82.18, VVrS1.28, VVrS2.31, VVrS3.15, VVrS4.18, VVrS7.16, VVrS25.29, VVrS27.43, VVrS78.25, VVrS79.18, VVrS82.13, VytVrS1.28, VytVrS2.31, VytVrS3.15, VytVrS4.18, VytVrS7.16, VytVrS25.29, VytVrS27.43, VytVrS78.25, VytVrS79.18, VytVrS82.13</ab>
+        <ab>
+            <em>raϑβō bərəzatō</em> ~ VrS1.16, VrS2.18, VrS17.17, VrS25.18, VrS27.32, VrS77.17, VrS90.16 <em>ratə̄uš bərəzō</em>
+        </ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrVrS1.26"/>
+    </translation>
+</text>

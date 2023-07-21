@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR24.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y24.1" xml:id="YR24.1">
+            <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR24.1b"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR24.1c"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR24.1d"/>
+        </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. Y24.1.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab>YR24.1a <em>ahurāi mazdāi</em> ...] <em>mazdāi haōmąn</em> OD <em>jaγmūšūmca aṣ̌aōnō</em> (YR24.3) 300; <em>mazdā̊ haōmąn</em> OD LOYŠE Y <em>jaγmīšīmca aṣ̌aōnō</em> (YR24.3) 360.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrYR24.1"/>
+    </translation>
+</text>

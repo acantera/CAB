@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS0.3" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VrS0.3">
+               <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP1"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>   
+            <div>zōt: vid. Y0.3.</div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary><em>yaϑā. ahū. vairiiō. zaōtā.</em>...<em>mraōtū. yaϑā. ahū. vairiiō. yō. zaōtā.</em>... <em>mraōtū</em>] ms. 2230 as a single <em>wāz grišnīh</em>, without the alternative Nērangs; 
+            ms. 2065 only <em>yaϑā. ahū. vairiiō. yō. zaōtā.</em>...<em>mraōtū</em>, cf. Y0.3.</Commentary>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrVrS0.3"/>
+    </translation>
+</text>

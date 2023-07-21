@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y19.4" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y19.4">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY19.4"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y19.3.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y19.4a <em>asməm</em>] irr. for <em>asmānəm</em>.</ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab>Y19.4a <em>para asməm</em>...] <em>para asməm</em> II bʾl gwptn' 672.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>Vid. Y19.2.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY19.4"/>
+      <include type="W" corresp="WTrY19.4"/>
+      <include type="K" corresp="KTrY19.4"/>
+      <include type="D" corresp="DTrY19.4"/>
+   </translation>
+</text>

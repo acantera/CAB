@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS15.2" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y15.2" xml:id="VrS15.2" quote="Y51.23, Y51.24a">
+
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS6.2a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS6.2b"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS6.2c"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS15.2NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS6.2d"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y15.2.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS15.2 Var. a (mss. 2030, 2101, 2106, 2109, 5020):</ab>
+         <ab class="ab_indent">
+            <em>yeŋ́hē mē ... jasāi vaṇtā</em> frāgām ud ǰām ō ī war ī grih ī barsom burdan ud rāspīg ēsm pad <em>vaṇtā</em> ō ī ātaxš dādan harw gyāg-ē kē bēd kunišn <em>xšaθrəm vairīm bāgəm aibī.bairištəm</em>.</ab> 
+         <ab class="ab_indent">
+            "At <em>yeŋ́hē mē ... jasāi vaṇtā</em> (the <em>zōt</em>) should bring the <em>frāgām</em> and the <em>ǰām</em> towards the knot of the <em>barsom</em> and, at
+            <em>vaṇtā</em>, the <em>rāspīg</em> should give <em>ēsm</em> to the fire. At each passage that is so, he has to do it."</ab>
+         
+         <ab>VrS15.2 Var. b (mss. 2010, 4040):</ab>
+         <ab class="ab_indent">
+            <em>vohū xšaϑrəm vairīm bāgəm aibībairištəm</em> frāgām ud ǰām ō ī war ī grih ī barsom burdan rāspīg ēsm pad ātaxš nihādan harw gyāg kū bēd kunišn</ab>
+         <ab class="ab_indent">
+            "At <em>vohū xšaϑrəm vairīm bāgəm aibībairištəm</em> he should bring the <em>frāgām</em> and the <em>ǰām</em> towards the knot of the <em>barsom</em>. 
+            The <em>rāspīg</em> should put <em>ēsm</em> into the fire. Every time when it happens (that this is recited), he has to do it."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS15.2"/>
+   </translation>
+</text>

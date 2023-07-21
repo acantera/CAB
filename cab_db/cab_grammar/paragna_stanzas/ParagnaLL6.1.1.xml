@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL6.1.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="1" xml:id="ParagnaLL6.1.1">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL6.1.1 Var a (Phl) (WīD 95.1a)</ab>
+            <ab class="ab_indent">
+                pad *nērang ī wars puxtan nazdist dumb ī gāw ī nar kē arus mōy abāg hamāg handām tā pāy ud sumb ud manaoθra ud čašm ud srū hamāg spēd bawēd āwarišn ud hamāg hannām ud
+                dumb pāk kunišn ud dō mard ī yōždahrgar kē yašt *nōg nāwar kard estēd pēš ān gāw āyēd ud pad <em>xšnaoθra ahurahe mazdā̊ aṣ̌əm vohū</em> sē bār dumb ī gāw pādyāb čiyōn
+                urwarām bē kunišn ud wāz ī ōhrmazd xwadāy kū šnūman ī ōhrmazd xwadāy tā maraotū *gōwišn</ab>  
+            <ab class="ab_indent">
+                "According to the instruction for boiling the wars, first, they should bring the tail of a male bull that has white hair in all his limbs except feet, hoofs, neck, eyes and horns. He has 
+                to wash all limbs and the tail and two <em>yōždahrgar</em> who have perforemd a <em>Yašt Nōg-nāwar</em>, should go to this bull and at <em>xšnaoθra ahurahe mazdā̊</em> 
+                and three <em>aṣ̌əm vohū</em>, he has to purify three times the bull's tail in the same as they have to do with the <em>urwarām</em> and he has to say the <em>wāz ī ōhrmazd</em> 
+                that includes the <em>šnūman ī ōhrmazd</em> up to <em>maraōtu</em>."</ab>
+            
+            <ab>ParagnaLL6.1.1 Var. b (Phl) (Ms. M53):</ab>
+            <ab class="ab_indent">
+                nērang wars puxtan nadist dēg-e pad pādyāb kard ud zōhr-ē abar griftan ud sē srešk war ī ātaxš warhrām andar afgandan ud wāz bē guftan wāz ōhrmazd griftan dast ud war pad 
+                pādyād bē kardan</ab>
+            <ab class="ab_indent">
+                "Instruction for boiling the <em>vars</em>. He should wash the vessel and take the <em>zur</em>. He should throw in it three pinches of ashes from the <em>ātaš varharām</em>
+                and say the <em>vāǧ</em> and take the <em>wāǧ</em> for Urmazd and wash the hands and the <em>vars</em> with <em>pādyāb</em>."</ab>
+            
+            <ab>ParagnaLL6.1.1 Var. c (Ms. RKS (Unvala 2.31 ff.) . It is likely that the original was a Pāzand version identical or similar to the one of ms. F13. The text is better there. Cf. ParagnaLL5.1.1-3 Var. d):</ab>
+            <ab class="ab_indent">
+                nirang-e vars poḫtan naḫost yek āv pādyāv āvāyad andāḫtan pas ṣabāḥ dast be-pādyāv kardan dig be-pādyāv kardan u pādyāb be-zur avar gereftan be-dig se †serešk vari ātaš 
+                āvāyad kardan andak-i be-dig kardan vāǧ hurmazd gereftan dast vars be-pādyāv be-kardan</ab>  
+            <ab class="ab_indent">
+                "Instruction for boiling the <em>vars</em>. First, one should collect <em>pādyāv</em>-water. Then, at the morningdawn, he should wash his hands with <em>pādyāv</em>, 
+                wash a vessel with <em>pādyāv</em> and pour the <em>pādyāv</em> into the <em>zur</em>. He should put three pinches of ashes from the fire into the vessel and add 
+                (a further) pinch to the vessel. He should take the <em>vāǧ</em> for Hurmazd and wash the hands and the <em>vars</em>."</ab>
+            
+            <ab>ParagnaLL6.1.1 Var. d (Ms. F13):</ab>
+            <ab class="ab_indent">
+                nirang-e vars poḫtan nīrəng. vars. puxδən. nuxust. ẏak. šaba. bi. āvi. pādiiāv. āvāiiat̰. ṇdāxtən. pas. sabāh. dast. bi. pādiiāv. kirdən. dīg. bi. pādiiāv. kirdən. āvi. pādiiāv. bi.zōr. auur. 
+                girəftən. bi. dəg. si. sərəšg. varə. ātaš. āvāiiaṯ. kirdən. ṇdakə. bi. dīg. kirdən. vāj. hōrməzd. gərəftən. dast. varas. bi. pādiiāv. bi. kirdən.</ab>  
+            <ab class="ab_indent">
+                "Instruction for boiling the <em>vars</em>. First, one should collect <em>pādyāv</em>-water one night. Then, at the morningdawn, he should wash his hands with <em>pādyāv</em>,
+                wash a vessel with <em>pādyāv</em> and pour the <em>pādyāv</em> into the <em>zur</em>. He should put three pinches of ashes from the fire into the vessel and add (a further) 
+                pinch to the vessel. He should take the <em>vāǧ</em> for Hurmazd and wash the hands and the <em>vars</em>."</ab> 
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL6.1.1"/>
+    </translation>
+</text>

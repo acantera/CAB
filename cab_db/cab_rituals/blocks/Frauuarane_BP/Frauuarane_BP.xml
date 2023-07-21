@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xml:id="Frauuarane_BP">
+    <div type="Frauuarane" xml:id="Frauuarane_BP1">
+        <note anchored="true">zōt</note> <!-- K&B --> 
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō. ahura.t̰kaēšō.</ab>
+        <include type="block_ratu" href="/db/apps/cab_db/cab_rituals/blocks/RatuFra" xpointer="RatuFra2"/> <!-- possible all -->
+        <note anchored="true">pad mān ī ātaxšān</note>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/FireDed" xpointer="FireDed1"/> <!-- possible 1,2 -->
+        <note anchored="true">pad mān ī wehān</note>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/FireDed" xpointer="FireDed2"/>
+        <note anchored="true">agar ham zōt yašt sāxtag bawēd</note>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr4"/><!-- possible 1,4 -->
+        <note anchored="true">agar rāspīg yašt sāxtag bawēd</note>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr1bis"/>
+    </div>
+    <div type="Frauuarane" xml:id="Frauuarane_BP2">
+        <note anchored="true">zōt ud rāspīg</note> <!-- K&B --> 
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō.
+            ahura.t̰kaēšō.</ab>
+        <include type="block_ratu" href="/db/apps/cab_db/cab_rituals/blocks/RatuFra" xpointer="RatuFra2"/> <!-- possible all -->
+        <span class="note red">[Raθβąm]</span> 
+        <ab n="b" xml:id="Frauuarane.b">raϑβąm. aiiaranąmca. asńiianąmca. māhiianąmca. yāiriianąmca. sarəδanąmca.  yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen54"/> <!-- possible all -->
+        <ab n="c" xml:id="Frauuarane.c">xšnaōϑra. yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+         <note anchored="true">zōt ud rāspīg cašm pad
+            ātaxš ud barsom dārišn</note>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr7"/> <!-- only nr 7 is possible -->    
+    </div>
+    <div type="Frauuarane" xml:id="Frauuarane_BP3">
+        <note anchored="true">zōt ud rāspīg</note> <!-- K&B --> 
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō. ahura.t̰kaēšō.</ab>
+        <include type="block_ratu" href="/db/apps/cab_db/cab_rituals/blocks/RatuFra" xpointer="RatuFra2"/> <!-- possible all -->
+        <span class="note red">[Raθβąm]</span> 
+        <ab n="b" xml:id="Frauuarane.b">raϑβąm. aiiaranąmca. asńiianąmca. māhiianąmca. yāiriianąmca. sarəδanąmca.  yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr7"/> <!-- only nr 7 is possible -->    
+    </div>
+    <div type="Frauuarane" xml:id="Frauuarane_BP3a">
+        <note anchored="true">zōt ud rāspīg</note> <!-- K&B -->  <!-- Only at the beginning of Y2, VrS2, VS2, Vyt2 --> 
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō. ahura.t̰kaēšō.</ab>
+        <include type="block_ratu" href="/db/apps/cab_db/cab_rituals/blocks/RatuFra" xpointer="RatuFra2"/> <!-- possible all -->
+        <span class="note red">[Raθβąm]</span> 
+        <ab n="b" xml:id="Frauuarane.b">raϑβąm. aiiaranąmca. asńiianąmca. māhiianąmca. yāiriianąmca. sarəδanąmca.  yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+    </div>
+    <div type="Frauuarane" xml:id="Frauuarane_BP4">
+        <note anchored="true">zōt ud rāspīg</note> <!-- K&B --> 
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō.
+            ahura.t̰kaēšō.</ab>
+        <include type="block_ratu" href="/db/apps/cab_db/cab_rituals/blocks/RatuFra" xpointer="RatuFra2"/> <!-- possible all -->
+        <span class="note red">[Raθβąm]</span> 
+        <ab n="b" xml:id="Frauuarane.b">raϑβąm. aiiaranąmca. asńiianąmca. māhiianąmca. yāiriianąmca. sarəδanąmca.  yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen42"/> <!-- possible all -->
+        <note anchored="true">zōt ud rāspīg cašm pad
+            ātaxš ud barsom dārišn</note>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr7"/> <!-- only nr 7 is possible -->    
+    </div>
+    <div type="Frauuarane" xml:id="Frauuarane_BP5">
+        <note anchored="true">zōt ud rāspīg</note> <!-- K&B --> 
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō.
+            ahura.t̰kaēšō.</ab>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/RatuCerDat" xpointer="RatuCerDatV"/> 
+        <span class="note red">[Raθβąm]</span> 
+        <ab n="b" xml:id="Frauuarane.b">raϑβąm. aiiaranąmca. asńiianąmca. māhiianąmca. yāiriianąmca. sarəδanąmca.  yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen19"/> <!-- Srōš and Ohrmazd -->
+        <ab n="c" xml:id="Frauuarane.c">xšnaōϑra. yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <note anchored="true">zōt ud rāspīg cašm pad
+            ātaxš ud barsom dārišn</note>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr7"/> <!-- only nr 7 is possible -->
+    </div>
+    <div type="Frauuarane" xml:id="Frauuarane_BP6"> 
+        <note anchored="true">zōt ud rāspīg</note> <!-- K&B --> 
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō.
+            ahura.t̰kaēšō.</ab>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/RatuCerDat" xpointer="RatuCerDatV"/> 
+        <span class="note red">[Raθβąm]</span> 
+        <ab n="b" xml:id="Frauuarane.b">raϑβąm. aiiaranąmca. asńiianąmca. māhiianąmca. yāiriianąmca. sarəδanąmca.  yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+    
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr7"/> <!-- only nr 7 is possible -->
+    </div>
+    <div type="Frauuarane" xml:id="Frauuarane_BP7">
+        <note anchored="true">zōt ud rāspīg</note> <!-- K&B --> 
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō. ahura.t̰kaēšō.</ab>
+        <include type="block_ratu" href="/db/apps/cab_db/cab_rituals/blocks/RatuFra" xpointer="RatuFra2"/> <!-- possible all -->
+        <note anchored="true">pad mān ī ātaxšān</note>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/FireDed" xpointer="FireDed1"/> <!-- possible 1,2 -->
+        <note anchored="true">pad mān ī wehān</note>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/FireDed" xpointer="FireDed2"/>
+        <note anchored="true">agar ham zōt yašt sāxtag bawēd</note>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr4"/><!-- possible 1,4 -->
+        <note anchored="true">agar rāspīg yašt sāxtag bawēd</note>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr1bis"/>
+    </div>
+    <div type="Frauuarane" xml:id="Frauuarane_BP8">
+        <note anchored="true">zōt ud rāspīg</note> <!-- K&B -->
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō.
+            ahura.t̰kaēšō.</ab>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/RatuCerDat" xpointer="RatuCerDatV"/> 
+        <span class="note red">[Raθβąm]</span> 
+        <ab n="b" xml:id="Frauuarane.b">raϑβąm. aiiaranąmca. asńiianąmca. māhiianąmca. yāiriianąmca. sarəδanąmca.  yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+    </div>
+    <div type="Frauuarane" xml:id="Frauuarane_BP9">
+        <note anchored="true">zōt ud rāspīg</note> <!-- K&B -->
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō.
+            ahura.t̰kaēšō.</ab>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/RatuCerDat" xpointer="RatuCerDatVyt"/> 
+        <span class="note red">[Raθβąm]</span> 
+        <ab n="b" xml:id="Frauuarane.b">raϑβąm. aiiaranąmca. asńiianąmca. māhiianąmca. yāiriianąmca. sarəδanąmca.  yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr7"/> <!-- only nr 7 is possible -->
+    </div>
+    <div type="Frauuarane" xml:id="Frauuarane_BP10">
+        <note anchored="true">zōt ud rāspīg</note> <!-- K&B -->
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō.
+            ahura.t̰kaēšō.</ab>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/RatuCerDat" xpointer="RatuCerDatVyt"/> 
+        <span class="note red">[Raθβąm]</span> 
+        <ab n="b" xml:id="Frauuarane.b">raϑβąm. aiiaranąmca. asńiianąmca. māhiianąmca. yāiriianąmca. sarəδanąmca.  yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+    </div>
+    <div type="Frauuarane" xml:id="Frauuarane_BP11">
+        <note anchored="true">zōt ud rāspīg</note> <!-- K&B -->
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō.
+            ahura.t̰kaēšō.</ab>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/RatuCerDat" xpointer="RatuCerDatVyt"/> 
+        <span class="note red">[Raθβąm]</span> 
+        <ab n="b" xml:id="Frauuarane.b">raϑβąm. aiiaranąmca. asńiianąmca. māhiianąmca. yāiriianąmca. sarəδanąmca.  yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen26"/> 
+        <ab n="c" xml:id="Frauuarane.c">xšnaōϑra. yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <note anchored="true">zōt ud rāspīg cašm pad
+            ātaxš ud barsom dārišn</note>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr7"/> <!-- only nr 7 is possible -->
+    </div>
+    <div type="Frauuarane" xml:id="Frauuarane_BP12">
+        <note anchored="true">zōt ud rāspīg</note> <!-- K&B -->
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō. ahura.t̰kaēšō.</ab>
+        <include type="block_ratu" href="/db/apps/cab_db/cab_rituals/blocks/RatuFra" xpointer="RatuFra2"/>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/FireDed" xpointer="FireDed1"/>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr7"/>
+    </div>
+    <div type="Frauuarane" xml:id="Frauuarane_BP13">
+        <note anchored="true">zōt ud rāspīg</note> <!-- K&B -->
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō. ahura.t̰kaēšō.</ab>
+        <include type="block_ratu" href="/db/apps/cab_db/cab_rituals/blocks/RatuFra" xpointer="RatuFra2"/>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr7"/> <!-- only nr 7 is possible -->
+    </div>
+    <div type="Frauuarane" xml:id="Frauuarane_BP14">
+        <note anchored="true">zōt ud rāspīg</note> <!-- K&B -->
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō.
+            ahura.t̰kaēšō.</ab>
+        <include type="block_ratu" href="/db/apps/cab_db/cab_rituals/blocks/RatuFra" xpointer="RatuFra2"/> 
+        <include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen39"/> <!-- Only this -->
+        <ab n="c" xml:id="Frauuarane.c">xšnaōϑra. yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr7"/> <!-- only nr 7 is possible -->
+    </div>
+    <div type="Frauuarane" xml:id="Frauuarane_BP15">
+        <note anchored="true">zōt ud rāspīg</note> <!-- K&B -->
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō. ahura.t̰kaēšō.</ab>
+        <include type="block_ratu" href="/db/apps/cab_db/cab_rituals/blocks/RatuFra" xpointer="RatuFra2"/>
+    </div>
+    <div type="Frauuarane" xml:id="Frauuarane_BP16"><!-- K&B -->
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō. ahura.t̰kaēšō.</ab>
+        <include type="block_ratu" href="/db/apps/cab_db/cab_rituals/blocks/RatuFra" xpointer="RatuFra2"/>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr4"/> <!-- only nr 4 is possible -->
+    </div>
+    <div type="Frauuarane" xml:id="Frauuarane_BP17">
+        <note anchored="true">zōt ud rāspīg</note> <!-- K&B -->
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō. ahura.t̰kaēšō.</ab>
+        <include type="block_ratu" href="/db/apps/cab_db/cab_rituals/blocks/RatuFra" xpointer="RatuFra2"/>
+        <span class="note red">[Raθβąm]</span> 
+        <ab n="b" xml:id="Frauuarane.b">raϑβąm. aiiaranąmca. asńiianąmca. māhiianąmca. yāiriianąmca. sarəδanąmca.  yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+    </div>
+    <div type="Frauuarane" xml:id="Frauuarane_BP18">
+        <note anchored="true">zōt ud rāspīg</note> <!-- K&B -->
+        <ab>frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō. ahura.t̰kaēšō.</ab>
+        <include type="block_ratu" href="/db/apps/cab_db/cab_rituals/blocks/RatuFra" xpointer="RatuFra2"/>
+        <span class="note red">[Raθβąm]</span> 
+        <ab n="b" xml:id="Frauuarane.b">raϑβąm. aiiaranąmca. asńiianąmca. māhiianąmca. yāiriianąmca. sarəδanąmca.  yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr8"/>     
+    </div>
+    <div type="Frauuarane" xml:id="Frauuarane_BP19">
+        <note anchored="true">zōt ud rāspīg</note> <!-- K&B -->
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō.
+            ahura.t̰kaēšō.</ab>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/RatuCerDat" xpointer="RatuCerDatV"/> <note anchored="true">zōt ud rāspīg</note> <!-- K&B -->
+        <span class="note red">[Raθβąm]</span> 
+        <ab n="b" xml:id="Frauuarane.b">raϑβąm. aiiaranąmca. asńiianąmca. māhiianąmca. yāiriianąmca. sarəδanąmca.  yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr8"/> 
+    </div>
+    <div type="Frauuarane" xml:id="Frauuarane_BP20">
+        <note anchored="true">zōt ud rāspīg</note> <!-- K&B -->
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō.
+            ahura.t̰kaēšō.</ab>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/RatuCerDat" xpointer="RatuCerDatVyt"/> 
+        <span class="note red">[Raθβąm]</span> 
+        <ab n="b" xml:id="Frauuarane.b">raϑβąm. aiiaranąmca. asńiianąmca. māhiianąmca. yāiriianąmca. sarəδanąmca.  yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr8"/> 
+    </div>
+    <div type="Frauuarane" xml:id="Frauuarane_YasnaFrawardigan">
+        <note anchored="true">zōt ud rāspīg</note> <!-- K&B -->
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō.
+            ahura.t̰kaēšō.</ab>
+        <include type="block_ratu" href="/db/apps/cab_db/cab_rituals/blocks/RatuFra" xpointer="RatuFra2"/> <!-- possible all -->
+        <span class="note red">[Raθβąm]</span> 
+        <ab n="b" xml:id="Frauuarane.b">raϑβąm. aiiaranąmca. asńiianąmca. māhiianąmca. yāiriianąmca. sarəδanąmca.  yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen21"/>
+        <ab n="c" xml:id="Frauuarane.c">xšnaōϑra. yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr7"/>
+    </div>
+    <div type="Frauuarane" xml:id="Frauuarane_VisperadFrawardigan">
+        <note anchored="true">zōt ud rāspīg</note> <!-- K&B -->
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō.
+            ahura.t̰kaēšō.</ab>
+        <include type="block_ratu" href="/db/apps/cab_db/cab_rituals/blocks/RatuFra" xpointer="RatuFra2"/> <!-- possible all -->
+        <span class="note red">[Raθβąm]</span> 
+        <ab n="b" xml:id="Frauuarane.b">raϑβąm. aiiaranąmca. asńiianąmca. māhiianąmca. yāiriianąmca. sarəδanąmca.  yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen21"/>
+        <ab n="c" xml:id="Frauuarane.c">xšnaōϑra. yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr8"/>
+    </div>
+    <div type="Frauuarane" xml:id="Frauuarane_YasnaGahan">
+        <note anchored="true">zōt ud rāspīg</note> <!-- K&B -->
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō.
+            ahura.t̰kaēšō.</ab>
+        <include type="block_ratu" href="/db/apps/cab_db/cab_rituals/blocks/RatuFra" xpointer="RatuFra2"/> <!-- possible all -->
+        <span class="note red">[Raθβąm]</span> 
+        <ab n="b" xml:id="Frauuarane.b">raϑβąm. aiiaranąmca. asńiianąmca. māhiianąmca. yāiriianąmca. sarəδanąmca.  yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen40"/>
+        <ab n="c" xml:id="Frauuarane.c">xšnaōϑra. yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr7"/>
+    </div>
+    <div type="Frauuarane" xml:id="Frauuarane_VisperadGahan">
+        <note anchored="true">zōt ud rāspīg</note> <!-- K&B -->
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō.
+            ahura.t̰kaēšō.</ab>
+        <include type="block_ratu" href="/db/apps/cab_db/cab_rituals/blocks/RatuFra" xpointer="RatuFra2"/> <!-- possible all -->
+        <span class="note red">[Raθβąm]</span> 
+        <ab n="b" xml:id="Frauuarane.b">raϑβąm. aiiaranąmca. asńiianąmca. māhiianąmca. yāiriianąmca. sarəδanąmca.  yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen21"/>
+        <ab n="c" xml:id="Frauuarane.c">xšnaōϑra. yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr8"/>
+    </div>
+    <div type="Frauuarane" xml:id="Frauuarane_BP21"> <!--minor liturgies-->
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō. ahura.t̰kaēšō.</ab>
+        <include type="block_ratu" href="/db/apps/cab_db/cab_rituals/blocks/RatuFra" xpointer="RatuFra2"/>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr4"/> <!-- only nr 4 is possible -->
+    </div>
+    <div type="Frauuarane" xml:id="Frauuarane_BP22">
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō. ahura.t̰kaēšō.</ab>
+        <include type="block_ratu" href="/db/apps/cab_db/cab_rituals/blocks/RatuFra" xpointer="RatuFra2"/>
+        <include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGenXA1"/> <!-- Possible 1, 4, 5, 6 -->
+        <ab n="c" xml:id="Frauuarane.c">xšnaōϑra. yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr1"/>
+    </div>  
+    <div type="Frauuarane" xml:id="Frauuarane_BP23">
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō. ahura.t̰kaēšō.</ab>
+        <include type="block_ratu" href="/db/apps/cab_db/cab_rituals/blocks/RatuFra" xpointer="RatuFra2"/>
+        <include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen63"/>
+        <ab n="c" xml:id="Frauuarane.c">xšnaōϑra. yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr4"/>
+    </div>
+
+<div type="Frauuarane" xml:id="Frauuarane_BP24">
+    <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō. ahura.t̰kaēšō.</ab>
+        <include type="block_ratu" href="/db/apps/cab_db/cab_rituals/blocks/RatuFra" xpointer="RatuFra2"/>
+        <include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen63"/>
+        <ab n="c" xml:id="Frauuarane.c">xšnaōϑra. yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr4"/>
+    </div>
+    <div type="Frauuarane" xml:id="Frauuarane_BP25">
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō. ahura.t̰kaēšō.</ab>
+        <include type="block_ratu" href="/db/apps/cab_db/cab_rituals/blocks/RatuFra" xpointer="RatuFra2"/>
+        <include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen64a"/>
+        <ab n="c" xml:id="Frauuarane.c">xšnaōϑra. yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <include type="block_nerang" href="/db/apps/cab_db/cab_rituals/nerang/khordeh_nerangs/NerJamDuxtan_nerang" xpointer="NerJamDuxtan1.2NerangTransc.a"/>
+        <include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen64b"/>
+        <ab n="c" xml:id="Frauuarane.c">xšnaōϑra. yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <include type="block_nerang" href="/db/apps/cab_db/cab_rituals/nerang/khordeh_nerangs/NerJamDuxtan_nerang" xpointer="NerJamDuxtan1.2NerangTransc.b"/>
+        <include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen64c"/>
+        <ab n="c" xml:id="Frauuarane.c">xšnaōϑra. yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr4"/>
+    </div>
+    <div type="Frauuarane" xml:id="Frauuarane_BP26">
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō. ahura.t̰kaēšō.</ab>
+        <include type="block_ratu" href="/db/apps/cab_db/cab_rituals/blocks/RatuFra" xpointer="RatuFra2"/><!-- Possible 2,3,4 -->
+        <include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen62"/>
+        <ab n="c" xml:id="Frauuarane.c">xšnaōϑra. yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr4"/>
+    </div>
+    <div type="Frauuarane" xml:id="Frauuarane_BP27">
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō. ahura.t̰kaēšō.</ab>
+        <include type="block_ratu" href="/db/apps/cab_db/cab_rituals/blocks/RatuFra" xpointer="RatuFra2"/><!-- Possible 2,3,4 -->
+        <include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen65"/>
+        <ab n="c" xml:id="Frauuarane.c">xšnaōϑra. yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr4"/>
+    </div>
+<div type="Frauuarane" xml:id="Frauuarane_BP28">
+    <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō. ahura.t̰kaēšō.</ab>
+        <include type="block_ratu" href="/db/apps/cab_db/cab_rituals/blocks/RatuFra" xpointer="RatuFra2"/><!-- Possible 2,3,4 -->
+        <include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen1"/>
+        <ab n="c" xml:id="Frauuarane.c">xšnaōϑra. yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr4"/>
+    </div>
+    <div type="Frauuarane" xml:id="Frauuarane_BP28AS">
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō. ahura.t̰kaēšō.</ab>
+        <include type="block_ratu" href="/db/apps/cab_db/cab_rituals/blocks/RatuFra" xpointer="RatuFra2"/><!-- Possible 2,3,4 -->
+        <include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen1AS"/>
+        <ab n="c" xml:id="Frauuarane.c">xšnaōϑra. yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr4"/>
+    </div>
+    <div type="Frauuarane" xml:id="Frauuarane_BP29">
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō. ahura.t̰kaēšō.</ab>
+        <include type="block_ratu" href="/db/apps/cab_db/cab_rituals/blocks/RatuFra" xpointer="RatuFra2"/><!-- Possible 2,3,4 -->
+        <include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen34"/>
+        <ab n="c" xml:id="Frauuarane.c">xšnaōϑra. yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr4"/>
+    </div>
+    <div type="Frauuarane" xml:id="Frauuarane_BP29a">
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō. ahura.t̰kaēšō.</ab>
+        <include type="block_ratu" href="/db/apps/cab_db/cab_rituals/blocks/RatuFra" xpointer="RatuFra2"/><!-- Possible 2,3,4 -->
+        <include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen34shorta"/>
+        <ab n="c" xml:id="Frauuarane.c">xšnaōϑra. yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr4"/>
+    </div>
+    <div type="Frauuarane" xml:id="Frauuarane_BP30">
+        <note anchored="true">zōt ud rāspīg</note> <!-- K&B -->
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō.
+            ahura.t̰kaēšō.</ab>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/RatuCerDat" xpointer="RatuCerDatV"/> 
+        <span class="note red">[Raθβąm]</span> 
+        <ab n="b" xml:id="Frauuarane.b">raϑβąm. aiiaranąmca. asńiianąmca. māhiianąmca. yāiriianąmca. sarəδanąmca.  yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr2"/> <!-- only nr 2 is possible -->
+    </div>
+    <div type="Frauuarane" xml:id="Frauuarane_BP31">
+        <note anchored="true">zōt ud rāspīg</note> <!-- K&B -->
+        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō.
+            ahura.t̰kaēšō.</ab>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/RatuCerDat" xpointer="RatuCerDatVyt"/> 
+        <span class="note red">[Raθβąm]</span> 
+        <ab n="b" xml:id="Frauuarane.b">raϑβąm. aiiaranąmca. asńiianąmca. māhiianąmca. yāiriianąmca. sarəδanąmca.  yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+        <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr2"/> <!-- only nr 2 is possible -->
+    </div>
+</div>

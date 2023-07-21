@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y19.11" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y19.11">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY19.11"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y19.3.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y19.11a <em>sixšaēmca</em>] sec. cod.; Kellens (sec. Bartholomae); Geldner <em>saxṣ̌aēmca</em>.</ab>
+         <ab>Y19.11a <em>yaϑna</em>] Geldner; Kellens (sec. <bibl>Reichelt, 1911</bibl> p. 74) <em>yaϑana</em> "comme un homme".</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>aētat̰ca nō vacō frauuaōce</em> ~ Y19.8 <em>fraca aētat̰ vacō vaōce</em>.</ab>
+      <ab><em>kaɱāicit̰ hātąm</em> quotes Y35.8 <em>kaɱāicīt̰ hātąm</em>.</ab>
+      <ab><em>aṣ̌āt̰ haca yat̰ vahištāt̰</em> = Y1.20, Y3.25, Y4.26, Y7.26, Y22.30, Y24.31, Y66.25, Y68.7, Y71.10, VrS2.11, VrS17.19, VrS77.10, VrS78.37, VrS79.26, VrS82.25, YtWahr18.2, YtWahr18.3, Yt8.15, Yt8.17, Yt8.19.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY19.11"/>
+      <include type="W" corresp="WTrY19.11"/>
+      <include type="K" corresp="KTrY19.11"/>
+      <include type="D" corresp="DTrY19.11"/>
+   </translation>
+</text>

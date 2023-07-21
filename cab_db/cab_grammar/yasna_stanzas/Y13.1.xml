@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y13.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y13.1">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY13.1"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: Anklesaria, Kotwal and Boyd, Geldner.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y13.1b <em>parə̄ṇdīm</em>] Geldner, Ir. mss.; Kellens <em>parəṇdīm</em>. Cf. with YAv. <em>pārəṇdi-</em> (vid. VytS2.3, S1.25, S2.25, etc.). 
+            However VrS18.3 <em>parəṇdi-</em> / <em>parə̄ṇdi-</em> well attested. <bibl>Narten, 1986</bibl> pp. 206-210 <em>parəṇdi-</em> with bibliography. 
+            <bibl>De Vaan, 2003</bibl> p. 63, where he states initial <em>pā-</em> as a lengthening from <em>pa-</em>, comparing with lengthening in <em>pāraiia-</em> and <em>pārəṇtara-</em>.</ab>
+      </Commentary>
+      <RecitationInstructions>
+         <ab><em>ahurəm mazdą̇m</em>] <em>ahurəm mazdą̇m ā.mruiiē</em> OD <em>yaϑā tū.ī</em> (Y13.5) 40.</ab>
+      </RecitationInstructions>
+   </Apparatus>
+   <Parallels>
+      <ab><em>nmānahē nmānō.patōiš ratūm ā vīsō vīspatōiš ratūm ā zaṇtə̄uš zaṇtu.patōiš ratūm ā daiŋ́hə̄uš daiŋ́hu.patōiš ratūm ā</em> 
+         ~ VrS11.10 <em>nmānahe nmānō.paitīm āstāiia vīsō vīspaitīm āstāiia zaṇtə̄uš zaṇtu.paitīm āstāiia daiŋ́hə̄uš daiŋ́hu.paitīm āstāiia</em>; 
+         ~ VS10.5 (x2), VS10.6, VS10.9, VS10.10, VS10.13, VS10.14 <em>haca nmānahē nmānō.patōiš haca vīsō vīspatōiš haca zaṇtə̄uš zaṇtu.patōiš haca daiŋ́hə̄uš daiŋ́hu.patōiš</em>.</ab>
+      <ab><em>γə̄nąnąm ratūm āmruiiē daēnąm māzdaiiasnīm aṣ̌īm vaŋᵛhīm parə̄ṇdīm</em> ~ Y38.1 - Y38.2 <em>imąm āat̰ ząm gənābīš haϑrā yazamaidē yā.nā̊ baraitī yā̊sca tōi gənā̊ ... yazamaidē ... ābīš aṣ̌īm vaŋᵛhīm ... parə̄ṇdīm yazamaidē</em>.</ab>
+      <ab><em>ratūm āmruiiē</em> = Y13.2 (x3), Y13.3; ~ VrS11.13 <em>ratūš āmrūmaide</em>.</ab>
+      <ab><em>γə̄nąnąm ... yąmcā bipaitištanąm aṣ̌aōnīm</em> ~ VS15.19 <em>vīspā̊ hāirišīš frašnaōiti bipaitištanaca caϑβarə.paitištanaca</em>.</ab>
+   </Parallels>
+   <Ritual>
+      <ModernPractice id="ritualModernPractice">
+         <ab><ab><bibl>Redard and Daruwalla, 2021</bibl>, p. 84:</ab>
+            <ab class="ab_indent">"While wetting the bundle, the chief priest recites alone"</ab></ab>
+      </ModernPractice>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY13.1"/>
+   <include type="W" corresp="WTrY13.1"/><include type="K" corresp="KTrY13.1"/><include type="D" corresp="DTrY13.1"/></translation>
+</text>

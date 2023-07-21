@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y28.0" status="created">  <!-- created, approved, updated--> <header>
+    <creators>
+        <creator>Porro</creator>
+        <creator>Cantera</creator>
+    </creators>
+    <created>1 June 2019</created>
+</header>
+    <div type="Stanza" sameAs="" xml:id="Y28.0">
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <ab>Cf. VS10.7-9</ab>
+        <ab>Cf. N17.1 (<bibl>Kotwal and Kreyenbroek, 1995</bibl>: pp. 98-9):</ab>
+        <ab class="ab_indent"><em>kaiia θrišāmrūta</em></ab>
+        <ab class="ab_indent"><em>aṣ̌əm vohū</em> (Y28.14) ... <em>ẏə̄ səuuištō</em> (Y33.11) ... <em>huxšaθrōtəmāi</em> (Y35.5)... <em>dužuuarənāiš</em>(Y53.10)</ab>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY28.0"/>
+    <include type="W" corresp="WTrY27.11b"/><include type="K" corresp="KTrY27.11b"/><include type="D" corresp="DTrY27.11b"/></translation>
+</text>

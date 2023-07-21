@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS0.Ext3" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+        <approved/>
+        <updated/>
+    </header>
+    <div xml:id="VrS0.Ext3">
+         <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="4"/>
+      </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>zōt: vid. Y0.1.</div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        
+        <Critical/>
+        <RecitationInstruction/>
+        <Commentary>
+            <ab><em>yaϑā. ahū. vairiiō.</em>] 2230, add. <em>aṣ̌əm. vohū.</em></ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <ModernPractice id="ritualModernPractice">
+            <ab>
+                <ab><bibl>Redard and Daruwalla, 2021</bibl>, pp. 193: </ab>
+                <ab class="ab_indent">"then if the Visperad of Gāhānbār is to be performed, he recites 4 Ahuna Vairiia, (and if) the Visperad of Navar and (Visperad of) Geti Kharīd is
+                    to be performed, (he recites) 10 (Ahuna Vairiia). After that the chief priest taking the jug which has been made pure, in his right hand, purifies the fire-stand
+                    as per the rule; then coming near the seat, climbs upon the seat while reciting 2 Ahuna Vairiia. And the assistant priest, if he has stepped down from the seat
+                    (and) released the bāj, (and) is standing outside the pāvī , then taking the bāj, he comes back inside the pāvī of the table (and) recites as many Ahuna Vairiia as
+                    have been recited by the chief priest. Then both of them remember together in a low tone: <em>humata hūxta huuaršta humanašnw hugauuašnw hukunašnə īn xšnumaine</em>.
+                    Recite here the dedication for which Visperad is to be performed."</ab>
+            </ab>
+        </ModernPractice>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrVrS0.Ext3"/>
+    </translation>
+</text>

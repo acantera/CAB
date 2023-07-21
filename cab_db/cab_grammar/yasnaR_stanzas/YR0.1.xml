@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR0.1" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="YR0.1">
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <em>zōt: vid. Y0.2.</em>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <RecitationInstruction>
+            <ab>III gwptn'] III bʾl 360; III 370.</ab>
+        </RecitationInstruction>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>YR0.1 Var. a (ms. 365):</ab>
+            <ab class="ab_indent"> 
+                barsom sizdah tāg frāgām dō tāg barsom bastan sāzišn hamāg frāz nihādan ud parāhōm kardan hōm sē tāg ud urwarām pārag-ē ud ǰīw andak-ē andar kardan ēn hamāg pad gāh ī 
+                hāwan abāyēd kardan pas-iz cīyōn gāh ī rapihwin andar āyēd ān kas kē zōtīh kāmēd kardan <em>xšnaōϑra ahurahe mazdā̊ aṣ̌əm vohū</em> ēk guftan ud dast pad pādyāb kardan</ab>   
+            <ab class="ab_indent">
+                "The <em>barsom</em> (should consist) of 13 twigs and the <em>frāgām</em> are two. He should tie the <em>barsom</em>, dispose all the implements and prepare the 
+                <em>parāhōm</em>. He should use for it three twigs of <em>hōm</em>, one piece of <em>urwarām</em> and one drop of <em>ǰīw</em>. He should do all these preparatives 
+                in the gāh <em>hāwan</em>. Later, when <em>rapithwin</em> arrives, the one who wants to perform in the office of <em>zōt</em> should say: <em>xšnaōϑra ahurahe mazdā̊</em> 
+                and one <em>aṣ̌əm vohū</em> He should wash his hands with <em>pādyāb</em>."</ab> 
+            <ab>YR0.1 Var. b (pāzand) (ms. 365):</ab>
+            <ab class="ab_indent">
+                <em>ąnki rapīθβən</em> cūn. <em>ẏaząd</em>. . : cūn. mibāẏat̰. yastan. pswx́w. ąki. cūn. rōz. ōhrmazd. māh. frauuardīn. ki. dar.āat̰. rapəθβən. mi.bāyat̰. yastan. andar. gāhi. 
+                hāuuan. barəsəm. cīδan. <em>yašt</em>. sāxtan. barəsəm. sizdah. tāk. du. tāi. parāgąm. dar. pāi. māh.rōy. nihādan. barasəm. bastan. sāziš. hā.həm. binihāt̰a. pas. cūn. gāhə. rapəθβən. 
+                dar.āyat̰. <em>yaθā ahū vairiiō</em>. . : duāzdah. xvąn.dan. pas. ąki. bāsat̰. dast. bi.pādayāv. kardan.</ab>
+            <ab class="ab_indent">
+                "When someone will perform a <em>rapīθβən</em>, how should he perform it. Answer : When it is the day of Ohrmazd of the month Frauuardīn, in the <em>gāhi hāuuan</em>
+                he should cut the <em>barsom</em> and prepare the <em>yašt</em>. The <em>barsom</em> is of 13 twigs and two twigs <em>fragām</em>. He should place them beside the foot
+                of the <em>māhrōy</em> and bind the <em>barsom</em>. He places as well all implements. Later, when the <em>gāhə rapəθβən</em> arrives, he recites 12 <em>yaθā ahū vairiiō</em>. 
+                The one who is going to be (the <em>zōt</em>), should wash his hands with <em>pādyāb</em>."</ab> 
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrYR0.1"/>
+    </translation>
+</text>

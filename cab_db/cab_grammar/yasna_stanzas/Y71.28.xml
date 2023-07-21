@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y71.28" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y71.28" quote="Y35.4a + Y48.6c">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y71.27NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY71.25a"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y71.27NerangTransc.b"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY71.25b"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+      <ab>Y71.28 Var. a (mss. 40, 2007, 2010, 2030, 2040, 2101, 2104a, 5, 88, 2106, 4000, 4010, 4020, 4025, 4040, 4050, 4161, 5020):</ab>
+      <ab class="ab_indent">
+         <em>gauue aδāiš</em> ēk tāg frāgām az pas ī barsom datuš az dast ī hōy ul widārišn <em>tāiš š́iiaōθnāiš</em> ān ī dudīgar az pas ī barsom datuš az dast ī dašn ul widārišn 
+         <em>yāiš vahištāiš fraēš́iiāmahī at̰ ax́iiāi aṣ̌ā mazdā̊</em> bun ī barsom ō ī urwēs nihišn <em>uruuarā̊</em> sar ī barsom ō ī urwēs nihišn ud dudīgar bār bun ī barsom ō ī urwēs nihišn</ab> 
+      <ab class="ab_indent">
+         "At <em>gauue aδāiš</em>, he has to put one <em>frāgām</em> (into the <em>barsom</em>) from the back part of the <em>barsom</em> and the <em>datuš</em> from the left
+         side (of the <em>barsom</em>). At <em>tāiš š́iiaōθanāiš</em>, he has to put the second <em>frāgām</em> (into the <em>barsom</em>) from the back part of the <em>barsom</em> 
+         and the <em>datuš</em> from the right side (of the <em>barsom</em>). At <em>yāiš vahištāiš fraēš́iiāmahī at̰ ax́iiāi aṣ̌ā mazdā̊</em>, he has to touch the <em>urwēs</em> with 
+         the beginning of the <em>barsom</em>. At <em>uruuarā̊ vaxšat̰</em>, he has to touch the <em>urwēs</em> with the end of the <em>barsom</em> and has to touch a second time
+         the <em>urwēs</em> with the beginning of the <em>barsom</em>."</ab>
+      <ab>Y71.28 Var. b</ab>
+      <ab class="ab_indent">
+         <em>gauue</em> datuš barsom bun tā sar šustan aδāiš. ēk tāg frāgām az pas ī barsom datuš az dast ī hōy ul widārišn <em>tāiš š́iiaōθnāiš</em> ān ī dudīgar az pas ī barsom datuš az 
+         dast ī dašn ul widārišn <em>yāiš vahištāiš fraēš́iiāmahī at̰ ax́iiāi aṣ̌ā mazdā̊</em> bun ī barsom ō ī urwēs nihišn <em>uruuarā̊</em> sar ī barsom ō ī urwēs nihišn ud dudīgar bār bun ī 
+         barsom ō ī urwēs nihišn </ab>
+      <ab class="ab_indent">
+         "At <em>gauue</em>, he has to wash the <em>barsom</em> from the beginning to the end. At <em>aδāiš</em>, he has to put one <em>frāgām</em> (into the <em>barsom</em>) 
+         from the back part of the <em>barsom</em> and the <em>datuš</em> from the left side (of the <em>barsom</em>). At <em>tāiš</em>, he has to put the second <em>frāgām</em> 
+         (into the <em>barsom</em>) from the back part of the <em>barsom</em> and the <em>datuš</em> from the right side (of the <em>barsom</em>). At <em>š́iiaōθnāiš yāiš vahištāiš 
+         fraēš́iiāmahī at̰ ax́iiāi aṣ̌ā mazdā̊</em>, he has to touch the <em>urwēs</em> with the beginning of the <em>barsom</em>. At <em>uruuarā̊ vaxšat̰</em>, he has to touch the <em>urwēs</em> 
+         with the end of the <em>barsom</em> and has to touch a second time the <em>urwēs</em> with the beginning of the <em>barsom</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY71.28"/>
+      <include type="W" corresp="WTrY71.25"/>
+      <include type="K" corresp="KTrY71.25"/>
+      <include type="D" corresp="DTrY71.25"/>
+   </translation>
+</text>

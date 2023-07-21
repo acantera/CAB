@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS28.3" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="VrS28.3" xml:id="VVrS28.3">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS14.4"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. VrS27.49.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VVrS28.3a <em>vahištahe aŋhə̄uš</em> ...] <em>aiianąm yaz.</em> OD OL Y <em>stōiš</em> gwptn' (VVrS28.5) W AHL <em>iməm haōməm</em> (VVrS29.1) 4010; 
+            <em>aiianąm yaz.</em> OD<em>gaēϑīm gaēϑiiaiiā̊ stōiš</em> gwptn' (VVrS28.5) W AHL <em>iməm haōməm</em> (VVrS29.1) 4020;
+            <em>aiianąm yaz.</em> OD OL Y <em>gaēϑiiaiiā̊ stōiš</em> gwptn' (VVrS28.5) AHL <em>iməm haōməm</em> (VVrS29.1) 4025;
+            <em>aiianąm yaz.</em> OD OL Y <em>gaētīm gaēϑiiaiiā̊ stōiš</em> gwptn' (VVrS28.5) AHL <em>iməm haōməm</em> (VVrS29.1) 4030; <em>aiianąm yaz.</em> cygwn npyšt' OD OL Y <em>gaēϑūm gaēϑiiaiiā̊</em> (VVrS28.5) 4040.
+            <em>aŋhə̄uš vahištąm</em> OD <em>paoriiō.dātəm paoiriiō.fraϑβarstəm</em> (VrS28.5) 4240.</ab>
+         <ab>VVrS28.3b <em>arštātəm yazamaide</em> ...] <em>arštātəm y.</em> cygwn npšt' OD <em>gaēϑiiaiiā̊ staōiš</em> (VVrS28.5) 4000.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS28.3"/>
+   </translation>
+</text>

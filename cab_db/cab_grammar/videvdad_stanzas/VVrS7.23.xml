@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS7.23" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y7.28" xml:id="VVrS7.23" quote="Y40.2">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY7.18a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY7.18b"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY7.18c"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. VVrS7.22.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VVrS7.23 (ms. 4030a):</ab>
+         <ab class="ab_indent">
+            <em>aṣ̌aiia daδąmi xᵛarəϑəm miiazdəm ... aōxtō.nāmanō yazatahe</em> dō bār guftan -:- ēsm ud bōy ō ī ātaxš dādan</ab>  
+         <ab class="ab_indent">
+            "He has to say from <em>aṣ̌aiia daδąmi xᵛarəϑəm miiazdəm</em> until <em>aōxtō.nāmanō yazatahe</em> twice and he has to give <em>ēsm</em> and <em>bōy</em> to the fire."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation/>
+</text>

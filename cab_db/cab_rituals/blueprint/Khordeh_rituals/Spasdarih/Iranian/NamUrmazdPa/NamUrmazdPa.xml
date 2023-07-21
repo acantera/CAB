@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+			<div type="Spasdarih" xml:id="NamazUrmazd_Parsi"> <!-- vide: MZK9, K37; non vide: 6855(MF43) -->
+				<div type="SpasdarihStanza" xml:id="NamazUrmazd_Parsi2.1"> <!-- cf. NamX3.1 -->
+                    <ab n="a" xml:id="NamazUrmazd_Parsi1.1a">nmʾǧ ʾwʿh ʾwrmzd rʾywmnd xrwhmnd hrwsf ākʾh dʾnʾy twʾnʾy twʾnkrdʾr ʾwxščʾšnykr</ab>
+				</div>
+				<div type="SpasdarihStanza" xml:id="NamazUrmazd_Parsi2.1"> <!-- cf. NamX3.1 -->
+                    <ab n="a" xml:id="NamazUrmazd_Parsi2.1a">hrwsf nykh dʾdʾr</ab>
+					<ab n="b" xml:id="NamazUrmazd_Parsi2.1b">hrwsf nykh dʾštʾr</ab>
+					<ab n="c" xml:id="NamazUrmazd_Parsi2.1c">hrwsf ʾnʾkh ʾwʾǧ dʾštʾr</ab>
+					<ab n="d" xml:id="NamazUrmazd_Parsi2.1d">wrǧʾwnd shy fyrwzkr pʾdšʾh wrǧʾwnd āfrynkʾn ʾwyǧh</ab>
+				</div>
+				<div type="SpasdarihStanza" xml:id="NamazUrmazd_Parsi3.1"> <!-- PaNamDadarOhrmazd3.1 -->
+                    <ab n="a" xml:id="NamazUrmazd_Parsi3.1a">spʾsdʾrm ʾndr twʿh dʾdʾr ʾwrmzd</ab>
+					<ab n="b" xml:id="NamazUrmazd_Parsi3.1b">spʾsdʾrm bmnšn</ab>
+					<ab n="c" xml:id="NamazUrmazd_Parsi3.1c">spʾsdʾrm bgwšn</ab>
+					<ab n="d" xml:id="NamazUrmazd_Parsi3.1d">spʾsdʾrm bknšn</ab>
+					<ab n="e" xml:id="NamazUrmazd_Parsi3.1e">dʾdʾr spʾs tw kh nykh zmʾn āmd</ab>
+					<ab n="f" xml:id="NamazUrmazd_Parsi3.1f">spʾsdʾrm kh ʾnʾ kh zmʾn nrsyd</ab>
+					<ab n="g" xml:id="NamazUrmazd_Parsi3.1g">spʾsdʾrm kh ʾndr āsmʾn zywʾ zmyn fh phnʾ rwz fh drʾ hnʾ xwršyd fh bʾlʾ āwʾn tǧšn ʾrwrʾn wxššn xwršyd tʾwš mʾh rwšn stʾrh fh āsmʾn ʾǧ bndhšn tʾ ʾmrwz ʾǧ ʾmrwz tʾ rstʾxyz tn psyn</ab>
+					</div>
+				<div type="SpasdarihStanza" xml:id="NamazUrmazd_Parsi3.2">
+                    <ab n="a" xml:id="NamazUrmazd_Parsi3.2a">ʾndr twʿh dʾdʾr ʾwrmzd</ab>
+					<ab n="b" xml:id="NamazUrmazd_Parsi3.2b">spʾsdʾrm bmnšn</ab>
+					<ab n="c" xml:id="NamazUrmazd_Parsi3.2c">spʾsdʾrm bgwšn</ab>
+					<ab n="d" xml:id="NamazUrmazd_Parsi3.2d">spʾsdʾrm bknšn</ab>
+				</div>
+				<div type="SpasdarihStanza" xml:id="NamazUrmazd_Parsi3.3">
+                    <ab n="a" xml:id="NamazUrmazd_Parsi3.3a">dʾdʾr spʾs tw kt hyr whwdyn dyn krd hm hš wyrw wʾrwm rwšnʾyh čšm w dst w pʾy w xwršn xwš ǧʾmh nyk nyn hmʾ nykh fh kʾmh dʾd hm</ab>
+					<ab n="b" xml:id="NamazUrmazd_Parsi3.3b">dʾdʾr spʾs tw mnšn w gwšn w knšn</ab>
+					<ab n="c" xml:id="NamazUrmazd_Parsi3.3c">hr rwz hzʾr bʾr hzʾrʾn hzʾr bʾr.</ab>
+				</div>
+				<div type="SpasdarihStanza" xml:id="NamazUrmazd_Parsi3.4">
+					<ab n="a" xml:id="NamazUrmazd_Parsi3.4a">ʾndr twʿh dʾdʾr ʾwrmzd</ab>
+					<ab n="b" xml:id="NamazUrmazd_Parsi3.4b">spʾsdʾrm bmnšn</ab>
+					<ab n="c" xml:id="NamazUrmazd_Parsi3.4c">spʾsdʾrm bgwšn</ab>
+					<ab n="d" xml:id="NamazUrmazd_Parsi3.4d">spʾsdʾrm bknšn</ab>
+					<ab n="e" xml:id="NamazUrmazd_Parsi3.4e">dʾdʾr spʾs tw kt ʾǧ chr mrdmʾn āfryd</ab>
+					<ab n="f" xml:id="NamazUrmazd_Parsi3.4f">ʾš ʾušnwʾ gwyʾ bynʾ dʾd hm</ab>
+					<ab n="g" xml:id="NamazUrmazd_Parsi3.4g">ʾt āzʾd brhnyd nh bndh</ab>
+					<ab n="h" xml:id="NamazUrmazd_Parsi3.4h">ʾut mrd dʾd hm nh zn</ab>
+					<ab n="i" xml:id="NamazUrmazd_Parsi3.4i">ʾut wʾǧ xwršn āfryd nh drʾyʾn</ab>
+				</div>	
+				<div type="SpasdarihStanza" xml:id="NamazUrmazd_Parsi4.1">	
+					<ab n="a" xml:id="NamazUrmazd_Parsi4.1a">nyʾyšny hm ʾwʿh dʾdʾr kh ānh tw dhšn wnym</ab>
+					<ab n="b" xml:id="NamazUrmazd_Parsi4.1b">āsmʾn blnd</ab>
+					<ab n="c" xml:id="NamazUrmazd_Parsi4.1c">cyn xwršyd tʾwšnwmnd</ab>
+					<ab n="d" xml:id="NamazUrmazd_Parsi4.1d">cyn mʾh gwsfnd txmh</ab>
+					<ab n="e" xml:id="NamazUrmazd_Parsi4.1e">cyn ātʾš srx swžʾy brhwmnd</ab>
+					<ab n="f" xml:id="NamazUrmazd_Parsi4.1f">cyn xrwh pʾdšʾh gnǧ xwʾsth ābʾdʾmnd</ab>
+					<ab n="g" xml:id="NamazUrmazd_Parsi4.1g">cyn zmyn brwmnd</ab>
+					<ab n="h" xml:id="NamazUrmazd_Parsi4.1h">cyn ʾb rwšnwmnd</ab>
+					<ab n="i" xml:id="NamazUrmazd_Parsi4.1i">cyn ʾurwr dʾrw drxt wʾstrǧ ʾršnwmnd</ab>
+					<ab n="j" xml:id="NamazUrmazd_Parsi4.1j">cyn zn trsgʾh hwchrh xrwhmnd</ab>
+					<ab n="k" xml:id="NamazUrmazd_Parsi4.1k">cyn ps ʾnǧmny hwršt šyw hzwʾn psndšy nyʾʿšnwmnd</ab>
+					<ab n="l" xml:id="NamazUrmazd_Parsi4.1l">cyn dwstʾn hmsʾygʾn brʾdrʾn nbʾnzdštʾn ʾurwʾxšwmnd</ab>
+					<ab n="l" xml:id="NamazUrmazd_Parsi4.1l">cyn rʾmšn xʾrʾm</ab>
+				</div>	
+				<div type="SpasdarihStanza" xml:id="NamazUrmazd_Parsi5.1">	
+					<ab n="a" xml:id="NamazUrmazd_Parsi5.1a">mnšn xwyš ʾwʾyst frʾryn hrwsfǧ</ab>
+					<ab n="b" xml:id="NamazUrmazd_Parsi5.1b">ānh tw ābʾdʾmnd w swd w xrwh w xʾrh nykh ʾm</ab>
+					<ab n="c" xml:id="NamazUrmazd_Parsi5.1c">ʾndr ʾyn gyhʾn ʾšʾyʾwmnd ʾwʿš hʾdrh pdš mʾhmʾntr hst</ab>
+				</div>
+				<div type="SpasdarihStanza" xml:id="NamazUrmazd_Parsi6.1">
+					<ab n="a" xml:id="NamazUrmazd_Parsi6.1a">ʾušʾn bhšt bhr bʾd ʾnwšhšʾn bh ʾwʿh rwʾn rsʾd bh ʾwʿh bhšt rwšn bh āsʾynd</ab>
+					<ab n="b" xml:id="NamazUrmazd_Parsi6.1b">pdrʾn w mʾdrʾn w brʾdrʾn w xwʾhrʾn w xwdʾn w xwyšʾn w hmdynʾn</ab>
+					<ab n="c" xml:id="NamazUrmazd_Parsi6.1c">mn kh bydh ʾnd wdrdh ʾnd</ab>
+				</div>
+				<div type="SpasdarihStanza" xml:id="NamazUrmazd_Parsi6.2">
+					<ab n="a" xml:id="NamazUrmazd_Parsi6.2a">hmʾ šʾn bhšt bhr bʾd ʾšʾn kyty bhr bʾd ʾšʾn kʾr w krfh gyty bhr bʾd</ab>
+					<ab n="b" xml:id="NamazUrmazd_Parsi6.2b">hmʾ ʾǧ mnšn w gwšn w knšn fh ānh rʾst frʾryn fh rʾh whʾn psnd yzdʾn bʾd</ab>
+				</div>
+				<div type="SpasdarihStanza" xml:id="NamazUrmazd_Parsi7.1">
+					<ab n="a" xml:id="NamazUrmazd_Parsi7.1a">ʾydwn bʾd ʾydwn trǧ bʾd</ab>
+				</div>
+				<div type="SpasdarihStanza" xml:id="NamazUrmazd_Parsi8.1">
+					<include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+				</div>
+			</div>
+</div>

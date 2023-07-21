@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS1.9" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VrS1.9">
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS1.1"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. VrS1.4.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <RecitationInstruction>
+            <ab><em>ńiuuaēδaiiemi haṇkāraiiemi ratauuō</em>...] <em>ratauuō mainiiauuaną̇m ratauuō gaēiϑiianą̇m</em> OD <em>gaoidaiiaheca narš aṣ̌aonō</em> (VrS1.17) 2065;
+                <em>n. h. ratauuō mainiiauuaną̇m</em> OD <em>yōi həṇti aṣ̌ahe ratauuō</em> (VrS1.18) 2070.</ab>
+        </RecitationInstruction>
+        <Commentary>
+            <ab><em>ratauuō maińiiauuanąm [...] ratauuō caṇgraŋhācąm aṣ̌aōnąm aṣ̌ahe raϑβąm</em>] problematic text. <bibl>Kellens, 1996</bibl> pp. 75-76 understands <em>aṣ̌aōnąm aṣ̌ahe raϑβąm</em> is addressing the <em>ratu</em>. 
+                As well, a sequence of voc. pl. <em>ratauuō</em> followed by gen. pl. (adj. as sust.). However, cf. VrS2.9, where he understands <em>ratauuō maińiauua</em>... as acc. pl. (sust. + adj.) dependent of <em>āiiese yešti</em> (despite the morpphological irregularities). 
+                Besides <em>aṣ̌aōnąm aṣ̌ahe raϑβąm</em> has no parallel in VrS2.9.</ab>
+            <ab><em>caṇgraŋhācąm</em>] Kellens, Hoffmann (apud <bibl>Kellens, 1974</bibl>, p. 301). Geldner <em>caŋraŋhācąm</em>. Vid. <bibl>Hoffmann and Narten, 1989</bibl>, p. 69, n. 112.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels>
+        <ab>VrS1.9 ≈ VrS2.9, VrS17.8, VrS25.11, VrS27.25, VrS77.8, VrS90.9. </ab>
+        <ab>
+            <em>ratauuō upāpanąm ratauuō upasmanąm ratauuō fraptərəjātąm ratauuō rauuascarātąm ratauuō caṇgraŋhācąm</em> ~ Y71.9. <em>vīspąmca gąm upāpąmca upasmąmca fraptərəjātąmca rauuascarātąmca caṇgraŋhācasca yazamaide</em>
+        </ab>
+        <ab>
+            <em>ratauuō fraptərəjātąm ratauuō rauuascarātąm</em> ~ Yt8.48 <em>yāca fraptərəją yāca rauuascarą</em>
+        </ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrVrS1.9"/>
+        <include type="W" corresp="WTrVr1.1"/>
+        <include type="D" corresp="DTrVr1.1"/>
+        <include type="K" corresp="KTrVr1.1"/>
+    </translation>
+</text>

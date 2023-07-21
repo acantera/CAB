@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL12.3.6" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="6" xml:id="ParagnaLL12.3.6">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL12.3.6 Var. a (Ms. K36):</ab>
+            <ab class="ab_indent">
+                <em>yeŋhe.hātąm</em> OD <em>tā̊scā yaz</em> esm va buy yektā ke nahāde bar u ātaš nahešn</ab>
+            <ab class="ab_indent">
+                "(He should recite) <em>yeŋhe.hātąm</em> until <em>tā̊scā yaz</em>. He has to put onto the fire one piece of the <em>esm</em> and <em>buy</em> that has been prepared
+                onto the fire."</ab>
+            
+            <ab>ParagnaLL12.3.6 Var. b (RJ, K7):</ab>
+            <ab class="ab_indent">
+                <em>yeŋhe.hātąm</em> tā sar u fe <em>yā̊ŋhąmcā</em> ān esm va buy yek tāk farāǧ u ātaš barešn"</ab> 
+            <ab class="ab_indent">
+                "(He should recite) <em>yeŋhe.hātąm</em> until the end and at <em>tā̊scā yaz</em> he has to bring one piece of <em>esm</em> and <em>buy</em> to the fire."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL12.3.6"/>
+    </translation>
+</text>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y9.22" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y9.22">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY9.22"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y9.3.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y9.22a <em>taxšəṇti</em>] Geldner, Pirart, cod. Kellens <em>tixšəṇti</em> (vid. <bibl>Kellens, 1984</bibl>, p 198). Cf. <bibl>Rix, 2001</bibl>, pp. 620-621 desiderative <em>*tékṷ-s-</em>.</ab>
+         <ab>Y9.22b <em>āzīzanāitibiš</em>] Geldner, Kellens; Pirart <em>āzīzanāiti.biš</em>.</ab>
+         <ab>Y9.22b <em>aṣ̌auua.frazaiṇtīm</em>] Geldner, cod.; Kellens, Pirart <em>aṣ̌auua frazaiṇtīm</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>
+            <em>spānō mastīmca baxšaiti</em> ~ Y62.4, Yt10.33 <em>mastīm spānō</em>; ~ Yt5.86 <em>mastīm jaiδiiā̊ṇte spānəmca</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY9.22"/>
+
+        <include type="W" corresp="WTrY9.22"/>
+        <include type="K" corresp="KTrY9.22"/>
+        <include type="D" corresp="DTrY9.22"/>
+    </translation>
+</text>

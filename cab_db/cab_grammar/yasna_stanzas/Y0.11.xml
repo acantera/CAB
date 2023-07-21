@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y0.11" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y0.11">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV2"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>zōt ud rāspīg: Kotwal und Boyd; zōt: Anklesaria.</div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <RecitationInstruction>
+         <ab>
+                <em>aṣ̌əm. vohū.</em> III gwptn'] <em>aṣ̌əm. vohū. ... vahištāi. aṣ̌əm. aṣ̌əm. vōhū.</em> III gwptn' 400;  <em>aṣ̌əm. vohū. ... vahištāi. aṣ̌əm.</em> 410.</ab>
+         <ab>III gwptn'] 15, 40; III bʾl 60; III 500.</ab> 
+      </RecitationInstruction>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y0.11 (ms. 5):</ab>
+         <ab class="ab_indent">
+            barsom frōd ō ī barsomdān nihišn <em>aṣ̌əm vohū</em></ab> 
+         <ab class="ab_indent">
+            "He should put the <em>barsom</em> on the <em>barsomdān</em> (and then recite:)"</ab>
+      </Nerangs>
+      <Quotations id="ritualQuotations"/>
+      <ModernPractice id="ritualModernPractice">
+         <ab>
+                <bibl>Redard and Daruwalla, 2021</bibl>: p. 76:</ab>
+         <ab>"While reciting (the <em>zōt̰</em>) all the three <em>Aṣ̌əm Vohū</em>, the chief priest circles the bundle with both hands over the moon-shaped stands. 
+            The assistant priest puts fragrant incense on the fire."</ab>
+         
+         <ab>
+                <bibl>Kotwal and Boyd, 1991</bibl>: p. 92: </ab>  
+         <ab>"(<em>zōt</em> and <em>rāspī</em>) recite in unison <em>ashem a. v.3</em>, with emphasis given to "righteousness" ( <em>ashem</em>). With each recitation the <em>zōt</em> repeats the gesture of touching the tip of the <em>barsom</em> to the crescent shaped stands."</ab>
+      </ModernPractice>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY0.11"/>
+      <include type="W" corresp="WTrY0.13b"/>
+      <include type="K" corresp="KTrY0.1"/>
+      <include type="D" corresp="DTrY0.13b"/>
+   </translation>
+</text>

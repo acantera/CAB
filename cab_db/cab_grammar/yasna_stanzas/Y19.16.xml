@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y19.16" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y19.16">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY19.16"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y19.3.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y19.16a <em>mazdō.uxδəm</em>] sec. Ir. cod.; VIrS <em>mazdā̊.uxδəm</em> (<em>ā̊</em> for <em>ō</em> common); 
+            Geldner, Kellens <em>mazdaoxtəm</em> (only in 110, 234, 235, 677, 4200, 4240, but ~ <em>mazda.u/oxtəm</em> 4210, 4280, 4370, 4515). 
+            Cf. <em>mazdō.fraōxta-</em>, <em>mazdō.frāsasta-</em>.</ab>
+         <ab>Y19.16a <em>ϑri.afsməm</em>] irr. for *<em>ϑri.afsma</em>. Analogic ending from <em>mazfō.uxδəm</em> and <em>caϑru.pištrəm</em>?</ab>
+         <ab>Y19.16a. <em>rāiti.haṇkərəϑəm</em>] sec. Kellens (sec. Bartholomae); Geldner <em>rāiti. haṇkərəϑəm</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>humatəm hūxtəm huuarštəm</em> ~ Y0.6, Y12.2 <em>humatōibiiascā hūxtōibiiascā huuarštōibiiascā [...] vīspā humatācā hūxtācā huuarštācā</em> ~ Y4.1, Y4.3, VrS79.1, VrS79.3 <em>ima humatāca hūxtāca huuarštāca</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY19.16"/>
+      <include type="W" corresp="WTrY19.16"/>
+      <include type="K" corresp="KTrY19.16"/>
+      <include type="D" corresp="DTrY19.16"/>
+   </translation>
+</text>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS87.8" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VVrS87.8">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS39.4"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VVrS87.8 (mss. 4020, 4025, 4040, 4050, 4055, 4060, 4161, 4162):</ab>
+         <ab class="ab_indent">
+            <em>daitikanąmcā aidiiūnąm hiiat̰ urunō yazamaidē</em> pad <em>aṣ̌āunąm āat̰ urunō yazamaidē</em> rāspīg ō ī dast ī hōy ī zōt šawišn hāwan abar griftan pad <em>kudō.zātanąmcīt̰</em> 
+            zōt pārag ī zōhr andar hāwan kunišn <em>narąmcā nāirinąmcā</em> abarhāwan abar hāwan zanišn <em>yaēšąm vahehīš daēnā̊ vanaiṇtī vā</em> rāspīg hāwan abar urwēs nihišn
+            <em>və̄ṇghən vā</em> abar wars-dān nihišn <em>vaōnarə̄</em> andarag ī ādišt ud urwēs abar zamīg nihišn <em>vā</em> abar ādišt nihišn zōhr abāg gyāg kunišn zōt <em>vaṇtąm</em>. ...</ab> 
+         <ab class="ab_indent">
+            "(The zōt should recite) <em>daitikanąmcā aidiiūnąm hiiat̰ urunō yazamaidē</em> and at <em>aṣ̌āunąm āat̰ urunō yazamaidē</em>, the <em>rāspīg</em> has to go to the left 
+            hand of the <em>zōt</em> and to take the <em>hāwan</em>. At <em>kudō.zātanąmcīt̰</em>, the <em>zōt</em> has to pour a drop of <em>zōhr</em> into the <em>hāwan</em>. 
+            At <em>narąmcā nāirinąmcā</em>, he has to hit the <em>hāwan</em> with the <em>abarhāwan</em>. At <em>yaēšąm vahehīš daēnā̊ vanaiṇtī vā</em>, the rāspīg has to put 
+            the <em>hāwan</em> on the <em>urwēs</em>. At <em>və̄ṇghən vā</em>, he has to put it ovedr the <em>wars-dān</em>. At <em>vaōnarə̄</em>, he has to touch with it the
+            earth in the <em>andarag</em> between the <em>ādušt</em> and the <em>urwēs</em>. At <em>vā</em>, he has to touch the <em>ādišt</em> with it and give back the 
+            <em>zōhr</em> to its place (and continue with) <em>vaṇtąm</em>. ..."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS87.8"/>
+   </translation>
+</text>

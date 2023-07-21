@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y1.5" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y1.5">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY1.5a" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat4.1" on_line="in1line"/>
+               <!-- successive gāh from Y1.4 -->
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY1.5b" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat4.2" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY1.5c" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat4.3" on_line="in1line"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. Y1.4.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab><em>dax́iiumāica</em>] Kellens. Geldner <em>dāx́iiumāica</em>.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels type="apparatus" n="3">
+        <ab>Y1.5 ≈ Y2.5, Y3.7, Y4.10, Y6.4, Y7.8, Y17.4, Y22.8, Y24.15, Y59.4, Y66.5, VrS78.17, VrS79.10, VrS81.4, VrS82.5.</ab>
+        <ab><em>bərəzatō ahurahe nafəδrō apąm apasca mazdaδātaiiā̊</em> = in <em>šnūman Burz</em>. (Cf. <bibl>Karanjia, 2010</bibl>:41); ~ Yt19.52 <em>bərəzaṇtəm ahurəm xšaϑrīm xšaētəm apąm napātəm auruuat̰.aspəm yazamaide</em>;
+            NerZurGereftan3.2 (FrW7)  <em>šnūman: aiβiiō vaŋᵛhībiiō vīspanąmca apąm mazdaδātanąm bərəzatō ahurahe nafəδrō apąm apasca mazdaδātaiiā̊ tauua ahurane ahurahe</em>.</ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrY1.5"/>
+        <include type="W" corresp="WTrY1.5"/>
+        <include type="K" corresp="KTrY1.5"/>
+        <include type="D" corresp="DTrY1.5"/>
+    </translation>
+</text>

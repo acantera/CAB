@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y72.7" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y72.7">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY72.6a" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen54" on_line="in1line"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y72.7 (ms. 5): </ab>
+         <ab class="ab_indent">
+            <em>yasnəmca vaɱəmca aōjasca zauuarəca āfrīnāmi</em> agar nōgnāwar bēd guftan tā gyāg</ab>  
+         <ab class="ab_indent">
+            "At <em>yasnəmca vaɱəmca aōjasca zauuarəca āfrīnāmi</em>, if it is /the <em>šnūman</em>) for nōgnāwar, they should recite (the <em>šnūman</em>) until the end."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY72.7"/>
+      <include type="W" corresp="WTrY72.6"/>
+      <include type="K" corresp="KTrY72.6"/>
+      <include type="D" corresp="DTrY72.6"/>
+   </translation>
+</text>

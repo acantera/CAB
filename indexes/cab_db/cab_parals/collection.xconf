@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist-db.org/collection-config/1.0">
+    <index xmlns:xs="http://www.w3.org/2001/XMLSchema">
+            <lucene>
+                <text qname="DrYt"/>
+                <text qname="YR"/>
+                <text qname="Y"/>
+                <text qname="VrS"/>
+                <text qname="VS"/>
+                <text qname="Vyt"/>
+            </lucene>
+    
+            <range>
+                <create qname="DrYt" type="xs:string" case="yes"/>
+                <create qname="YR" type="xs:string" case="yes"/>
+                <create qname="Y" type="xs:string" case="yes"/>
+                <create qname="VrS" type="xs:string" case="yes"/>
+                <create qname="VS" type="xs:string" case="yes"/>
+                <create qname="Vyt" type="xs:string" case="yes"/>
+                <create qname="DrYt_aprox" type="xs:string" case="yes"/>
+                <create qname="YR_aprox" type="xs:string" case="yes"/>
+                <create qname="Y_aprox" type="xs:string" case="yes"/>
+                <create qname="VrS_aprox" type="xs:string" case="yes"/>
+                <create qname="VS_aprox" type="xs:string" case="yes"/>
+                <create qname="Vyt_aprox" type="xs:string" case="yes"/>
+            </range>
+            
+                <create path="//DrYt" type="xs:string"/>
+                <create path="//YR" type="xs:string"/>
+                <create path="//Y" type="xs:string"/>
+                <create path="//VrS" type="xs:string"/>
+                <create path="//VS" type="xs:string"/>
+                <create path="//Vyt" type="xs:string"/>
+            
+
+    </index>
+</collection>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL1.3.10" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+
+            <creator>Cantera</creator>
+            <creator>Porro</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="10" xml:id="ParagnaLL1.3.10"> </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary>According to Ǧāsā's Revāyat, when the tree from which the <em>aivyanghan</em>
+            is cut stays far from the thicket from which the <em>barsom</em> is cut, then at this
+            moment the whole wāz of the barsom has to be repeated, that is, the Neyrang-e barsom
+            cidan (Par1.3.10 agar aivyanghan ǧā-ye digar bud vāǧ-e barsom guftan). At its end, after
+            Par1.3.10, the priest recites again xšnaōθra ahurahe mazdā̊ with three Aṣ̌əm Vohūs and
+            then cuts the <em>aivyanaghan</em> (see NerPar1.3.10 in Ritual) </Commentary>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL1.3.10 Var. a (Mss. K7, RJ):</ab>
+            <ab class="ab_indent">
+                <em>aṣ̌əm vōhū</em> yek ḫᵛāndan agar aivyanghan ǧā-ye digar bud vāǧ-e barsom guftan
+                va barsomdān dur nahādan va pas ahmāi. raesca tā sar va hazaŋhrəm tā sar va jasamē
+                tā sar xāndan pas digar bār <em>xšnaoθra ahurahe mazdā̊ aṣ̌əm vōhū</em> se ḫᵛāndan
+                barsom va barsomdām va āb bar dāštan va nazdik-e aivyanghan šodan va aivyanghan az
+                har deraḫt-e sabz šāyad ellā nār va gaz našāyad va digar dast b-āb pādyāvi šostan
+                barsom az barsomdān bedar kardan va dar dast gereftan pas be-kārd-e barsom-čin
+                aivyanghan čidan ba hǐč čiz našāyad ḫᵛāndan va ān <em>ašem vohu</em> ke šomā neveste
+                budid niz navāyad ḫᵛāndan va barsom be-dast našāyad čidan barsom šab našāyad čidan
+                va ān <em>xšaθrahe vairiiehe</em> ke šoma nevešte budid niz nabāyad ḫᵛāndan ke
+                barsom bandand se tā yā panǧ tā yā hafta tā barsom va aivyanghan dar dast gereftan
+                čenān konand ke dast-e čab az barsom ǧodā nabāšad </ab>
+            <ab class="ab_indent"> "If the <em>aivyanghan</em> was at a different place, he should
+                recite again the <em>vāǧ</em> for the <em>barsom</em> and to put the
+                    <em>barsomdān</em> far away. Then, he should recite <em>ahmāi raesca</em> till
+                the end and <em>jasa.me</em> till the end. Then he should recite again <em>xšnaoθra
+                    ahurahe mazdā̊</em> and three <em>Aṣ̌əm Vohū</em>. He should raise the
+                    <em>barsom</em>, the <em>barsomdān</em> and the water and go near the
+                    <em>aivyanghan</em>. The <em>aivyanghan</em> can be from any frutal tree, but
+                pomegranate and tamarisk are not allowed. He should wash again the hand with
+                    <em>pādyāb</em> and remove the <em>barsom</em> from the <em>barsomdān</em> and
+                take it in the hand and then cut the <em>aivyanghan</em> with the knife called
+                    <em>barsom-čin</em>. It is not allowed to recite anything else. It is not
+                allowed to recite the <em>Aṣ̌əm Vohū</em> that you have written. It is also not
+                allowed to cut the <em>barsom</em> with the hand. It is not allowed to cut it during
+                the night. It is also not allowed to recite the <em>xšaθrahe vairiiehe</em> that you
+                have written.The ones who tie the barsom, they should take three, five, seven
+                branches of the barsom and the aivyanghan in the right hand and make so that the
+                left hand does not release the barsom."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL1.3.10"/>
+    </translation>
+</text>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y26.11" status="created">  <!-- created, approved, updated--> <header>
+   <creators>
+      <creator>Porro</creator>
+      <creator>Cantera</creator>
+   </creators>
+   <created>1 June 2019</created>
+</header>
+   <div type="Stanza" sameAs="" xml:id="Y26.11">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YeH" xpointer="YeH"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/" xpointer="Y26.11NerangTransc.a"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y26.10.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>yeŋ́hē hātąm</em> OD LOYŠE gwptn'] 6, 15, 88; <em>yeŋ́hē hātąm</em> OD LOYŠE 5, 60; <em>ẏeŋ́hē hātą̇m</em> OD <em>tā̊scā yaz.</em> 110, 231.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS30.13 = DoHom7.13.</ab>
+   </Parallels>
+   <Ritual>      
+      <Nerangs id="ritualNerangs">
+         <ab>Y26.11 (mss. 6, 40, 88, 400, 410 (sec.m.), 2007, 2010, 2030, 2040, 2101, 2106, 2109, 4000, 4010, 4020, 4025, 4030a, 4040, 4050, 4055, 4060, 4063, 4161, 4162, 5020):</ab>
+         <ab class="ab_indent">
+            <em>yeŋ́hē hātąm</em> tā sar guftan rāspīg ēsm ud bōy ī nihād ēstēd ō ī ātaxš barišn</ab>
+         <ab class="ab_indent">
+            "They should recite the <em>yeŋ́hē hātąm</em> until the end. The <em>rāspīg</em> has to bring to the fire the <em>ēsm</em> and <em>bōy</em> that have been disposed."</ab>
+      </Nerangs>
+      <Quotations id="ritualQuotations">
+         <ab>Cf. N28.46c:</ab>
+         <ab class="ab_indent">
+            <em>pad </em>yā̊ŋhąmcā<ém> hān ēsm bōy ēw tāg frāz ō ātaxš barišn u-š wāz gīrišn</ém></ab>
+         <ab class="ab_indent">
+            At <em>yā̊ŋhąmcā</em>, he has to bring one piece of firewood and incense to the fire and take the <em>wāz-gīrišnīh</em> (Y27.0)</ab>
+         
+         <ab>N28.46f:</ab>
+         <ab class="ab_indent">
+            pad <em>yā̊ŋhąmcā</em> ān ēsm ud bōy ēw tāg frāz ō ātaxš barišn u-š wāz gīrišn</ab>
+         <ab class="ab_indent">
+            "At <em>yā̊ŋhąmcā</em>, he has to bring one piece of <em>ēsm</em> and <em>bōy</em> to the fire and he has to take the <em>wāz</em>."</ab>
+      </Quotations>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY26.11"/>
+   <include type="W" corresp="WTrY26.11b"/><include type="K" corresp="KTrY26.11b"/><include type="D" corresp="DTrY26.11b"/></translation>
+</text>

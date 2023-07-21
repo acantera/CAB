@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VytVrS88.5" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VytVrS88.5" quote="Y50.9">
+      <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VytSY64.5"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VytVrS88.5 (ms. 5020):</ab>
+         <ab class="ab_indent">
+            barsom az māhrōy stānišn <em>mat̰ vā̊</em> bē gōwišn namāz zōhr barišn pad dudīgar gām <em>padāiš yā</em> bē gōwišn namāz zōhr barišn pad sidīgar gām <em>frasrūtā īžaiiā̊</em>
+            namāz zōhr barišn ō ī gāh ī ābardān šawišn be gōwišn <em>pairi.jasāi</em>. ...</ab>  
+         <ab class="ab_indent">
+            "He has to take the barsom from the <em>māhrōy</em>. At <em>mat̰ vā̊</em>, he has to advance one step and bring namāz to the <em>zōhr</em>. With the second stept, he 
+            has to recite <em>padāiš yā</em> and bring <em>namāz</em> to the <em>zōhr</em>. With the third step, he has (to recite) <em>frasrūtā īžaiiā̊</em>, bring <em>namāz</em> to the 
+            <em>zōhr</em> and go to the place of the <em>ābardān</em> and recite: <em>pairi.jasāi</em>. ..."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVytVrS88.5"/>
+   </translation>
+</text>

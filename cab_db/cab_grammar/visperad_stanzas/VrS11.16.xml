@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS11.16" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y11.11" xml:id="VrS11.16">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS11.16NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV2"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV3"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV2"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV3"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV2"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV3"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Nērangs.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>Vid. Nērangs.</ab>
+         <ab><em>aṣ̌əm vohū</em>] <em>aṣ̌əm vohī</em> III gwptn' plʾhwm PWN III bʾl hwltn' cygwn PWN yšt YHWWN-yt OD <em>vispaiiā̊ druuatō stōiš</em> (VrS11.22) 2065.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS11.16 Var a (mss. 2007, 2010, 2030, 2040, 2065, 2070, 2109, 4000, 4010, 4020, 4025, 4040, 4161, 4162, 5020, 4030a):</ab>
+         <ab class="ab_indent">
+            <em>aṣ̌əm vohū</em> sē xwandār guftan parāhōm pad sē bār xwardan  harw bār-ē rāspīg <em>aṣ̌əm vohū</em> dō guftan ud bōy ō ī ātaxš dādan ud zōt dahān pāk kardan ud 
+            dast harw dō pad pādyāb kardan ud dast ī hōy abar barsom dast nihādan</ab>
+         <ab class="ab_indent">
+            "The reciter should  recite three times the <em>aṣ̌əm vohū</em> and drink the <em>parāhōm</em> in three times. Each time, the <em>rāspīg</em> should recite two <em>aṣ̌əm vohū</em> 
+            and the <em>zōt</em> should clean his mouth, wash his two hands with <em>pādyāb</em> and put his left hand on the <em>barsom</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS11.16"/>
+   </translation>
+</text>

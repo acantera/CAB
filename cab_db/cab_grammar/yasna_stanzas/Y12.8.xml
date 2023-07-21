@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y12.8" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y12.8">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY12.3"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y12.6.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y12.3a †<em>manaēibiiō</em>] Ir. cod. (Ind. cod. <em>maniiaēibiiō</em>); Geldner, Kellens <em>maniiaēibiiō</em>. 
+            <bibl>Humbach, 1955</bibl> pp. 48-49 <em>*dmāniia-</em>. Corrupted form from <em>*dmāna-</em>?</ab>
+         <ab>Y12.3a <em>rā̊ŋhē</em>] problemaitc form. Either 1st. sg. aor. subj. med. with err. correction <em>*-āi</em> to <em>-ē</em>, or 1st. sg. aor. opt. med., but IIr. <em>*-i̭a</em> &gt; <em>-ē</em> not expected.
+            Furthermore, <em>ŋ́</em> hardly attested (mss. 110, 4020, 4162) and likely influenced by ending <em>-ē</em>, as in dat. sg. of <em>ah</em>-stems <em>-ŋ́he</em>.</ab>
+         <ab>Y12.3b <em>āiia. zəmā</em>] Kellens (Bartholomae); Geldner <em>āiia.zəmā</em>. Cf. Y9.15.</ab>
+         <ab>Y12.3b <em>š́iieiṇtī</em>] Kellens (Bartholomae); Geldner <em>š́iieṇtī</em>. Cf. Y4.4, Y5.2, etc.</ab>
+         <ab>Y12.3d ⁺<em>ā</em> ⁺<em>ziienīm</em>] Kellens (<bibl>Hoffmann, 1969</bibl>); Geldner <em>āziiā̊nīm</em>.</ab>
+         <ab>Y12.3e <em>uštānahe</em>] sec. cod.; Geldner, Kellens <em>uštānahē</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>yāiš upairī āiia zəmā gaōbīš š́iieiṇtī</em> ~ Y5.2, Y37.2, VrS65.34 <em>yōi gə̄uš hacā š́iieiṇtī</em>.</ab>
+      <ab><em>nəmaŋhā aṣ̌āi</em> ~ Y34.3 <em>nəmaŋhā aṣ̌āicā</em></ab>
+      <ab><em>nōit̰ aɱāt̰ ā ziienīm nōit̰ vīuuāpəm xštā māzdaiiasnīš auui vīsō</em> ~ Y12.7 <em>us (stuiiē) māzdaiiasninąm vīšąm ziiānaiiat̰ca vīuuāpat̰ca</em>.</ab>
+      <ab><em>māzdaiiasnīš auui vīsō</em> = VS18.12; ~ Y68.15 <em>vīse māzdaiiasne</em>; ~ VS19.12 <em>vīsat̰ yat̰ māzdaiiasnōḭt̰</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY12.8"/>
+      <include type="W" corresp="WTrY12.3"/>
+      <include type="K" corresp="KTrY12.3"/>
+      <include type="D" corresp="DTrY12.3"/>
+   </translation>
+</text>

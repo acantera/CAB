@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS25.34" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y22.26" xml:id="VVrS25.34" shnumandep="3">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY23.1"/>
+      <!-- VS25.35 to VS25.37 if Shnuman 21 -->
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid Y22.26.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VVrS25.34a <em>āiiese yešti auuaŋ́hā̊ frauuaṣ̌aiiō</em> ...] HT' ʾhlwbʾn' plwʾhl YHWWN-yt' <em>auuaŋ́hā̊ frauuaṣ̌aiiō</em> 4000, 4010.</ab>
+         <ab>VVrS25.34a <em>āiiese yešti auuaŋ́hā̊ frauuaṣ̌aiiō</em> ...] <em>paōiriia ā̊ŋharə</em> (ms. 4000 <em>nmānanąmca</em>) OD OL Y <em>vaŋhūš yasnąsca vahmąsca</em> BRA gwbšn (VVrS25.36) 4000, 4045.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS25.34"/>
+   </translation>
+</text>

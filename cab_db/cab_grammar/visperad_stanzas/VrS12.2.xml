@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS12.2" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y12.2" xml:id="VrS12.2">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY11.17"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: Anklesaria.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>frastuiiē</em>] <em>frastuiiē humatōibiiascā hīxtōibiiascā huuarəštōbiiascā mąϑβōibiiascā</em> OD OL Y <em>xᵛax́iiā̊ uštanəm</em> (VrS12.3) 2007, 2010; <em>frastuiiē humatōibii[.]scā hīxtōibiiascā</em> OD OL Y <em>xᵛax́iiā̊ uštanəm</em> (VrS12.3) 2030; 
+            <em>frastuiiē humatōibiiascā</em> OD OL Y <em>xᵛax́iiā̊ uštanəm</em> (VrS12.3) 2101, 2109; <em>frastuiiē humatōi.biiascā</em> OD <em>x́ax́aiiā̊ uštanəm</em> (VrS12.3) 2220; <em>frastuiiē</em> OD <em>x́ax́iiā̊ uštanəm</em> (VrS12.3) 2230;
+         <em>fə̄rastuiie</em> cygwn PWN yšt YHWWNyt OD <em>tā̊scā yazamaide</em> (VrS13.8) 2000, 2065; <em>frastuiiē</em> OD <em>staōmī aṣ̌əm</em> (VrS12.4) 2070.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS12.2 (mss. 5, 2010, 4040):</ab>
+         <ab class="ab_indent">
+            hāwan abar griftan āb pārag ē pad sar ī aiwyāhān barsom kardan srēšk ē bē dar mayān andar kunēd <em>frastuiie</em></ab>
+         <ab class="ab_indent">
+            "He must take the <em>hāwan</em>. pour a driblet of water on the top of the <em>aiwyāhān</em> of the <em>barsom</em> and one drop onto the middle of the <em>barsom</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS12.2"/>
+   </translation>
+</text>

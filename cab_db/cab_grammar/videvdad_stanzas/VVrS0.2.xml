@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS0.2" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VVrS0.2">
+        <include href="/db/apps/cab_db/cab_rituals/nerang/videvdad_nerang" xpointer="VVrS0.2NerangTransc.a"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>zōt: vid. Y0.2.</div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <RecitationInstruction>
+            <ab>III gwptn'] 4000, 4010, 4025, 4030, 4050; III bʾl gwptn' ms 4020.</ab>
+        </RecitationInstruction>
+        <Commentary>
+            <ab>VVrS0.2] om. Indian mss.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>VVrS0.2 Var. a (mss. 4010, 4025, 4063):</ab>
+            <ab class="ab_indent">
+                ō ī gāh ī ābardān šudan war ō ātaxšgāh ud barsom kardan <em>aṣ̌əm vōhū</em> sē guftan</ab> 
+            <ab class="ab_indent">
+                "He should clean his hands with <em>pādyāb</em>, go to the place of the <em>ābard</em>, facing the <em>ātaxšgāh</em> and the <em>barsom</em> and recite three 
+                <em>aṣ̌əm vōhū</em>."</ab>
+            
+            <ab>VVrS0.2 (Nērang ī āb) (mss. 4000, 4010, 4020, 4025, 4063):</ab>
+            <ab class="ab_indent">
+                dudīgar bār pad gāh ī ātrawaxšān ān gyāg kū <em>humāiiahe pairi.jaθnō</em> bē ēstišn u-š war andar hamāg sāzišn kunišn <em>aṣ̌əm</em> bē gōwišn dudīgar bār hamāg xūb
+                bē nigerišn u-š ātaxšgāh šustan u-š dast pad pādyāb abāz kardan</ab>  
+            <ab class="ab_indent">
+                "The second time, he has to stand at the place of the <em>ātrawaxš</em>, there where he stands while reciting <em>humāiiahe pairi.jaθnō</em>. He has to face all the implements
+                and recite the <em>ašəm (vohū)</em>. He has to look all (implements) carefully and clean the <em>ātaxšgāh</em>. He has to wash his hands again with <em>pādyāb</em>."</ab>
+        </Nerangs>
+    <Quotations id="ritualQuotations">
+        <ab><ab>NērangVVrS0.2 (Nērang ī āb) [mss. 4000 4010 4020 4025 4063], cf. WiD and Revāyat of Kāma Bohra (MU1, p. I. 577), on the Nērang ī Āb ud Padyāb ceremony:</ab>
+            <ab class="ab_indent">(Pahl.) dudīgar bār pad gāh  ātrawaxšān ān gyāg kū <em>humāiiehe. pairi.jaθnō.</em> bē estišn u-š war andar hamāg sāzišn kunišn <em>ašəm.</em> bē gōwišn</ab>
+            <ab class="ab_indent">"Secondly, he has to stay at the place of the <em>ātrawaxš</em>, at that place where <em>humāiiehe pairi.jaϑnō</em> (is recited),
+            and  facing the whole ritual instruments, he has to recite <em>aṣ̌əm</em> (<em>vohū</em>).</ab>"</ab>
+        
+        <ab>Revāyat of Kāmdin Šapur (var. a) (MU1, p. I. 580), cf. Revāyat of Kāmdin Šapur (var. b) (MU1, p. I. 584), on the Nērang ī Āb ud Padyāb ceremony: vid. VVrS0.Ext8.</ab>
+    </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrVVrS0.2"/>
+    </translation>
+</text>

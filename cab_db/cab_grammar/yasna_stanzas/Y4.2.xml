@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y4.2" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y4.2">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY4.2"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: Anklesaria, Kotwal and Boyd, Geldner.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>Y4.2 = Y24.4, VrS79.2. </ab>
+      <ab><ab><em>āϑraēca ahurahe mazdā̊ raϑβaēca bərəzaite</em> ~ Y22.5, VrS78.14, VrS82.2, VrS90.2 <em>āϑrō ahurahe mazdā̊ raϑβō bərəzatō yō aṣ̌ahe</em>.</ab></ab>
+      <ab><em>vīspaiiā̊ sącat̰ca aṣ̌aōnō stōiš yasnāica vaɱāica xšnaōϑrāica frasastaiiaēca</em> = VrS11.35, VrS24.10, VrS24.12, VrS27.6, VrS27.16, VrS42.8, VrS42.10, VrS65.8, VrS65.10, VrS75.8, VrS75.10, VrS89.19, VrS89.21.</ab>
+      <ab><em>vīspaiiā̊ sącat̰ca aṣ̌aōnō stōiš</em> ~ Y8.11, Y11.17, Y52.2, Y52.5, Y52.9, Y68.20, Y68.29, Y70.6, VrS27.1 <em>vīspaiiā̊ aṣ̌aōnō stōiš</em>; ~ Y55.3 <em>vīspaiiā̊sca aṣ̌aōnō stōiš</em>; ~ Y19.9 <em>vīspąm aṣ̌aōnō stīm</em>.
+        </ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY4.2"/>
+   <include type="W" corresp="WTrY4.2"/>
+        <include type="K" corresp="KTrY4.2"/>
+        <include type="D" corresp="DTrY4.2"/>
+    </translation>
+</text>

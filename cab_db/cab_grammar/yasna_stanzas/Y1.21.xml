@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y1.21" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y1.21">
+        <include href="/db/apps/cab_db/cab_rituals/blocks/RatuVoc" xpointer="RatuVoc2"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. Y1.18. Cf. VrS1.29.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+            <!-- <ab>Y1.21] The first <em>asńiia ratu</em> is the actual one of the performance. Cf. as well YR1.13</ab>  --> 
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrY1.21"/>
+        <include type="W" corresp="WTrY1.20"/>
+        <include type="K" corresp="KTrY1.20"/>
+        <include type="D" corresp="DTrY1.20"/>
+    </translation>
+</text>

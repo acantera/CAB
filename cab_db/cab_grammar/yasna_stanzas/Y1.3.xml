@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y1.3" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+        <checked>Cantera, 23 February 2020</checked>
+        <updated>Cantera, 23 February 2020</updated>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y1.3">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY1.3a" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.1" on_line="in1line"/>
+               <!-- all five possible -->
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY1.3b" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.2" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY1.3c" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.3" on_line="in1line"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: vid. Y1.1.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+    </Apparatus>
+    <Parallels>
+        <ab>Y1.3 ≈ Y2.3, Y3.5, Y4.8, Y6.2, Y7.6, Y17.2, Y22.6, Y24.13, Y59.2, Y66.3, VrS78.15, VrS79.8, VrS81.2, VrS82.3; ~ VVrS3.6, VVrS4.8, VVrS6.3, VVrS7.7, VVrS78.16, VVrS79.9, VVrS81.3, VVrS82.4.</ab>
+        <ab><em>miϑrahe vouru.gaōiiaōtōiš hazaŋhrō.gaōšahe baēuuarə.cašmanō aōxtō.namanō yazatahe rāmanō xᵛāstrahe aṣ̌aōne aṣ̌ahe raϑβe</em> = <em>šnūman Mihr</em>.</ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrY1.3"/>
+        <include type="W" corresp="WTrY1.3"/>
+        <include type="K" corresp="KTrY1.3"/>
+        <include type="D" corresp="DTrY1.3"/>
+    </translation>
+</text>

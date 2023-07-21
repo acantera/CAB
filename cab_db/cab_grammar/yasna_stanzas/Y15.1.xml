@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y15.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y15.1">
+            <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y15.1NerangTransc.a"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY15.1"/>
+               <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y15.1NerangTransc.b"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg <em>sastica</em>, zōt <em>vaṇtāca</em>... vid. Nērangs; Anklesaria, Kotwal and Boyd, Geldner.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab>Y15.1b] cf. VrS15.1c-d (c) <em>aməṣ̌ə̄ spəṇtə̄ vaŋhūš srīrāiš nāmąn āzbaiia</em> (d) <em>aməṣ̌ə̄ spəṇtə̄ vaŋhūš srīrāiš nāmąn aṣ̌ahe frāiieze</em>.
+                Likely error in the Yasna transmission. <em>frāiieze</em> needs the direct object (except if we understand them as two verbs in apposition.
+                <em>frāiieze</em> alone with the following <em>bərəja vaŋhə̄uš aṣ̌ahe</em>... seems unlikely. <em>bərəja vaŋhə̄uš aṣ̌ahe bərəja daēnaiiā̊ vaŋhuiiā̊ māzdaiiasnōiš</em> is a quotation of Y35.1.</ab>.
+        </Commentary>
+    </Apparatus>
+    <Parallels>
+        <ab><em>bərəja vaŋhə̄uš aṣ̌ahe bərəja daēnaiiā̊ vaŋhuiiā̊ māzdaiiasnōiš</em> quotes Y35.1 <em>bərəjā vaŋhə̄uš aṣ̌ahe bərəjā daēnaiiā̊ vaŋhuiiā̊ māzdaiiasnōiš</em> = VrS65.15.</ab>
+        <ab> <em>daēnaiiā̊ vaŋhuiiā̊ māzdaiiasnōiš</em> = Y0.10, Y1.14, Y22.4, Y22.24, Y22.25, Y24.3, Y24.8, Y24.29, Y25.3, Y35.1, Y53.11 (x2), Y66.19, Y66.20, Y70.3, Y72.7, Y72.11, VrS87.11; ~ Y6.12, Y16.6 <em>daēnąm vaŋᵛhīm māzdaiiasnīm</em>;
+            ~ Y9.26, Yt16.5, Yt16.8, Yt16.11, Yt16.14, Yt16.16, Yt16.18 <em>vaŋᵛhīm daēnąm māzdaiiasnīm</em>
+        </ab>
+    </Parallels>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Y15.1 Var. a (ms. 40):</ab>
+            <ab class="ab_indent">
+                <em>sastica</em>. zōt ud rāspīg harw dō bē gōwišn bōy ō ī ātaxš nihādan barsom ul stānišn barsom dašn hōy paydāg bē kunišn u-š tāg ī stabrtar ud rāsttar pad datuš kunišn pad abrāyēnišn 
+                az dast ī rāst ud grih ēdōn čīyōn xūbīhā abāz kardan barsom ō māhrōy bandišn dast abar barsom nihādan
+                ka datuš bē škīhēd ‡ka barsom drahnā bē mānēd u-š ān ī  pad āsāyišn ēw tāg az kustag ī did abāz abrāyišn ast kē ān ī hōy gōwēd ka barsom drahnā bē mānēd u-š ān bē nihišn 
+                u-š did bē bandišn u-š ē tāg az kustag ī dašn abāz abrāyišn <em>vaṇtāca</em>. tā <em>daēnaiiā̊ vaŋhuiiā̊ māzdaiiasnōiš</em> skārag abāz rāst kunišn ǰiw bē baxšišn</ab>
+            <ab class="ab_indent">
+                "Both the <em>zōt</em> and the <em>rāspīg</em> have to recite <em>sastica</em>. (The <em>rāspīg</em>) should put <em>bōy</em> into the fire. 
+                (The <em>zōt</em>) has to take the <em>barsom</em> (from the <em>barsomdān</em>) and show the right and left sides. He has to make the strongest and straightest twig 
+                to the <em>datuš</em> while lifting it with the right hand. He should tie again the knot so as (it is done) correctly. He has to tie the <em>barsom</em> to the <em>māhrōy</em> 
+                and should put his hand on the <em>barsom</em>. If the <em>datuš</em> gets broken and it remains (from it) the length of the <em>barsom</em>, he has to raise one from 
+                the other side. There is one who says: “From  the left”. If it remains (from it) the length of the <em>barsom</em>, he has to remove it, tie it again and raise (as <em>datuš</em>) 
+                one twig from the right side. (Then they continue with ) <em>vaṇtāca</em> until <em>daēnaiiā̊ vaŋhuiiā̊ māzdaiiasnōiš</em>. 
+                He has to turn up again the (inverted) <em>skūrag</em> and distribute  <em>ǰīwām</em> (into the <em>skūrag</em>)."</ab>
+            <ab>Y15.1 Var. b (ms. 88):</ab>
+            <ab class="ab_indent">
+                <em>sastica</em>. zōt ud rāspīg harw dō bē gōwišn bōy ō ī ātaxš nihādan ud barsom ul stānišn barsom dašn hōy paydāg bē kunišn u-š tāg ī stabrtar ud rāsttar pad datuš kunišn 
+                bē abrāyēnišn az dast ī rāst ka az rāsttar ud stabrtar ēk ast ān ī rāsttar bē datuš kunišn pad māhrōy bastan dast abar barsom nihādan 
+                <em>vaṇtāca... ... daēnaiiā̊. vaŋhuiiā̊. māzdaiiasnōiš</em>. skūrag abāz rāst kunišn ǰīw bē baxšišn</ab>
+            <ab class="ab_indent">
+                "Both, the <em>zōt</em> and the <em>rāspīg</em> have to recite <em>sastica</em>. (The <em>rāspīg</em>) should put <em>bōy</em> to the fire. 
+                (The <em>zōt</em>) has to take the <em>barsom</em> (from the <em>barsomdān</em>) and show the right and left sides. He has to make the strongest and straightest twig 
+                to the <em>datuš</em> while lifting it with the right hand. If (one has to choose) one among the “straightest” and “strongest”, he has to make the straightest to the <em>datuš</em>. 
+                He should tie (the <em>barsom</em>) to the <em>māhrōy</em> and put his hand on the <em>barsom</em> (and continue with)  <em>vaṇtāca ... daēnaiiā̊ vaŋhuiiā̊ māzdaiiasnōiš</em>. 
+                He has to turn up again the (inverted) <em>skūrag</em> and distribute <em>ǰīwām</em> (into the <em>skūrag</em>)."</ab>
+            <ab>Y15.1 Var. c (mss. 5, 6):</ab>
+            <ab class="ab_indent">
+                <em>sastica</em>. zōt ud rāspīg harw dō bē gōwišn bōy ō ī ātaxš dahišn barsom panǰ pad dōgānag-ē  az dašn ōšmurdan tāg ī rāsttar ō datuš rāst kardan ud grih ēdōn čīyōn xūbīhā abāz kardan barsom ō ī māhrōy bandišn dast abar barsom nihādan <em>vaṇtāca</em></ab>
+            <ab class="ab_indent">
+                "Both, the <em>zōt</em> and the <em>rāspīg</em> have to recite <em>sastica</em>. (The <em>rāspīg</em>) has to give <em>bōy</em> to the fire. 
+                (The <em>zōt</em>) should count five pairs of (twigs of ) the <em>barsom</em> from the right side, make the more straight twig to <em>datuš</em> and tie the knot again 
+                so as (it is done) correctly. He has to tie the <em>barsom</em> to the <em>māhrōy</em>. He should put his hand on the <em>barsom</em>."</ab>
+            <ab>Y15.1 Var. d (mss. 400, 410 (sec.m.), 2101):</ab>
+            <ab class="ab_indent">
+                barsom abar gīrišn ēk-ē rāsttar ud stabrtar pad datuš kunišn bē abrāzēnišn barsom ō ī māhrōy barišn <em>sastica</em>. 
+                <em>vaṇtāca ... daēnaiiā̊ vaŋhuiiā̊ māzdaiiasnōiš</em>. skūrag abāz rāst kunišn ǰīw bē baxšišn</ab>
+            <ab class="ab_indent">
+                "He has to take the <em>barsom</em>, make to <em>datuš</em> the one (twig) that is the straightest and the strongest and he has to raise it. He has to bring the <em>barsom</em> 
+                to the <em>māhrōy</em> (and continue with)  <em>vaṇtāca ... daēnaiiā̊ vaŋhuiiā̊ māzdaiiasnōiš</em>. He has to turn up again the (inverted) <em>skūrag</em> and distribute <em>ǰīwām</em> (into the <em>skūrag</em>)."</ab>
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+            <ab>Cf. N28.45 <bibl>Kotwal and Kreyenbroek, 2003</bibl>pp. 102-3: </ab>
+            <ab class="ab_indent">
+                u-š pad <em>sastica</em> barsom and dašn paydāg be kunišnīh az-iš ēw tāg ī stabrtar ud rāsttar pad datuš bē abrāyišn ka az dō ēk-ē ān ī stabrtar; ast kē ān ī rāsttar gōwēd 
+                ka datuš bē škīhēd ka barsom drahnāy be mānēd u-š *any pad *āsāyišn ēw tāg az kušt ī dašn abāz abrāyišn ast kē ān ī hōy gōwēd ka barsom drahnāy be mānēd u-š ān be nihišn u-š
+                ēk-ē did bē bandišn ud andar barišn u-š ēw tāg az kust ī dašn abāz abrāyišn ast kē az ān ī hōy gōwēd</ab>
+            <ab class="ab_indent">
+                And at <em>sastica</em> he should display some twigs at the right hand. He should take up the strongest and straightest to serve as the <em>datuš</em>. If (one has to choose) 
+                one (factor) out of the two, (one should take) the strongest. There is one who says: "The straightest."
+                If the <em>datuš</em> breaks, if (only) the length of the <em>barsom</em> remains, then he should calmly take up another one from the right side. There is one (commentator) 
+                who says "from the left side".  If it (only) remains the length of the <em>barsom</em>, he should put that one down and tie and insert another one, and he should take up a twig 
+                from the right-hand side. There is one who says: "From the left."</ab>
+        </Quotations>
+        <ModernPractice id="ritualModernPractice">
+            <ab><ab><bibl>Redard and Daruwalla, 2021</bibl>, p. 85:</ab>
+                <ab class="ab_indent">"The chief priest and the assistant priest both say <em>sastica</em> and the chief priest, while saying <em>sastica</em>, after taking the date-palm leaf on which the knot has been
+                    tied first, he fixes (it) on the right horn of the moon-shaped stand. And while saying <em>vaṇtāca</em>, after striking that inverted cup (which is) near the base of
+                    the moon-shaped stands, he turns (it) upright. Then the chief priest recites alone."</ab></ab>
+            
+            <ab><ab><bibl>Kotwal and Boyd, 1991</bibl> p. 101:</ab> 
+                <ab class="ab_indent">"Except for the first two words of st. I, when he is joined by the <em>rāspī</em>, the <em>zōt</em> recites Y.15.1 alone. Reciting "and with religious precepts"
+                    (<em>sasticha</em>), the <em>zōt</em> puts the loop of the date-palm cord over the western horn of the <em>barsom</em> stand furthest from him. This tends to pull the
+                    <em>barsom</em> bundle toward that side of the crescent-shaped stand. While saying "and with devotion" (<em>vaṇtācha</em>), the <em>zōt</em> strikes the inverted cup
+                    against the table, turns it upright and sets it down beside the <em>barsom</em> stand." </ab></ab>
+        </ModernPractice>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY15.1"/>
+    <include type="W" corresp="WTrY15.1"/><include type="K" corresp="KTrY15.1"/><include type="D" corresp="DTrY15.1"/></translation>
+</text>

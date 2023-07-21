@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL1.1.0" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="0" xml:id="ParagnaLL1.1.0">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL1.1.0 (Mss. K7, RJ):</ab>
+            <ab class="ab_indent">
+                naḫost nirang barsom čidan</ab>
+            <ab class="ab_indent">
+                "First, the <em>nirang</em> for cutting the <em>barsom</em>."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL1.1.0"/>
+    </translation>
+</text>

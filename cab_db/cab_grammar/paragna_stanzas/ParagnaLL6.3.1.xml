@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL6.3.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="1" xml:id="ParagnaLL6.3.1">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL6.3.1 (Phl)</ab>
+            <ab class="ab_indent">
+                ud zōt wars andar harw dō dast griftag abar ātaxš bōy xwaš nihādag wāz ōhrmazd xwadāy bē gīrēd ud ān ǰām āb az ātaxš frōd āwarēd</ab>
+            <ab class="ab_indent">
+                "Once the <em>zōt</em> has taken the <em>wars</em> with both hands and put pleasant <em>bōy</em> to the fire, he takes the <em>wāz</em> of <em>Ohrmazd</em> 
+                and removes the goblet from the fire."</ab>
+            
+            <ab>ParagnaLL6.3.1 Var. a (Mss. K7, RJ):</ab>
+            <ab class="ab_indent">
+                pas yas̱āhuveiryō do <em>yasnəmca</em> tā <em>āfrīnāmi ahurahe mazdā̊ raēuuatō xᵛarənaŋhatō</em></ab>
+            <ab class="ab_indent">
+                "Then, he should recite two <em>Yaθā ahū variiō</em> and <em>yasnəmca</em> until <em>āfrīnāmi ahurahe mazdā̊ raēuuatō xᵛarənaŋhatō</em>."</ab> 
+            
+            <ab>ParagnaLL6.3.1 Var. b (Mss. K7, RJ):</ab>
+            <ab class="ab_indent">
+                do <em>is̱ā ahu vairiyo</em> va <em>yasnəmca</em> tā <em>ahurahe. mazdā̊. raēuuatō. x́arənaŋ(hatō)</em> pas dast az vars avāǧ gereftan vāǧ goftan dar †varsdān moḥkam 
+                kardan pas parāhum gereftan digar vars avāǧ kardan ḫošk kardan be-miyān-e †māhruy nahādan pa-ǧāy-e ḫod be-ǧāy-e ḫošk pa-miyān-e ṭāq nahādan vars va ǧāy-e vars pe nāčār
+                do hirbad bāyad ke dānand naẓar-e bigāne pas poḫte kardan har bār-i ke vars kār farmāyand zende-ravān pa-ḫešnuman-e ān ruz yaštan tā qabul bāšad</ab> 
+            <ab class="ab_indent">
+                "Then, he should recite two <em>Yaθā ahū variiō</em> and <em>yasnəmca</em> until <em>āfrīnāmi ahurahe mazdā̊ raēuuatō xᵛarənaŋhatō</em>. Then they remove the hand 
+                from the <em>vars</em>, say the <em>vāǧ</em> and put it into the <em>varsdān</em>. Then he should take the <em>parāhum</em> and remove again the <em>vars</em>
+                (from the <em>varsdān</em>), dry it and put it between the (two pieces) of the <em>māhruy</em>. He should put it at its own place, in one dry place, in a niche. For the <em>vars</em>
+                and the place for the <em>vars</em> (there must be) at least two <em>herbad</em>s who know that the view (of the <em>vars</em>) is forbidden. Once the <em>vars</em>
+                is boiled, everytime they want to use the <em>vars</em>, they must celebrate a <em>Zende-ravān</em> with the <em>šnūman</em> of the day so that it might be accepted."</ab>
+            
+            <ab>ParagnaLL6.3.1 Var. c (Ms. F13):</ab>
+            <ab class="ab_indent">
+                du. <em>yaϑā ahū vairiiō</em> vi <em>ẏasnəmca</em> tā <em>ahurahe mazdā̊ raēuuatō x́arənaŋhatō</em> pas. dast. aj. vars. avāj. gərəftan. vāj. guftən. darə. uuarsdąn. muhukəm. 
+                kirdən. pas. pərāhōm. gərəftən. dīgar. vars. avāj. kirdən. hušk. kirdən. bi. miiąn. māhrūī. nihādin. pi. jāi. xut̰. bi. jāiiə. xušk. pi. miiąn. tāk. nihādən. virsu. jāiiī. vars. vars. pi. 
+                nāgar. du. hīrbut̰. bāiiat̰. ki. dānąd. nazarəbīgāna. pas puxδa. kirdən. har. bārə. ki. vars. kār. framāiiəṇd. zəṇda. ruuānə. pa. <em>xšnūmən</em> ąn. rōz. yaštən. tā. kabūr. bāšat̰.</ab>  
+            <ab class="ab_indent">
+                "Then, he should recite two <em>Yaθā ahū variiō</em> and <em>yasnəmca</em> until <em>ahurahe mazdā̊ raēuuatō xᵛarənaŋhatō</em>. Then they remove the hand from the
+                <em>vars</em>, say the <em>vāǧ</em> and put it into the . Then he should take the <em>parāhum</em> and remove again the <em>vars</em>  (from the <em>varsdān</em>), 
+                dry it and put it between the (two pieces) of the <em>māhruy</em>. He should put it at its own place, in one dry place, in a niche. For the <em>vars</em> and the place for the
+                <em>vars</em> (there must be) at least two <em>herbad</em>s who know that the view (of the <em>vars</em>) is forbidden. Once the <em>vars</em> is boiled, everytime
+                they want to use the <em>vars</em>, they must celebrate a <em>Zende-ravān</em> with the <em>šnūman</em> of the day so that it might be accepted."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL6.3.1"/>
+    </translation>
+</text>

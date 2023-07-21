@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y0.Ext4" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+        <approved/>
+        <updated/>
+    </header>
+    <div xml:id="Y0.Ext4">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="Y0Ext4"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>zōt: vid. Y0.1.</div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        
+        <Critical/>
+        <RecitationInstruction/>
+        <Commentary>
+            <ab><em>xšnaōϑra. ahurahe. mazdā̊.] 15, 60, 82, 100, 110, 235.</em></ab>
+        </Commentary>
+        
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Vid. Y0.1.</ab>
+        </Nerangs>
+        <ModernPractice id="ritualModernPractice">
+            <ab>
+                <ab>
+                    <bibl>Redard and Daruwalla, 2021</bibl>, p. 70: </ab>
+                 <ab class="ab_indent">Then, the chief priest taking the jug which has been made pure, in his right
+                     hand, <em>xšnaoϑra ahurahe mazdā̊</em> 1x <em>Aṣ̌əm Vohū</em> While reciting, he makes his left hand pure and inserting that hand, which has
+                     been made pure, into the jug, he holds the jug.</ab></ab>
+        </ModernPractice>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY0.Ext4"/>
+    </translation>
+</text>

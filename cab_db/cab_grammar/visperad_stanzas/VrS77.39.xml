@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS77.39" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS77.39">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY59.27a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY59.27b"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS77.39NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY59.27c"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY59.27d"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS77.39 Var. a (mss. 2005, 2007, 2109):</ab>
+         <ab class="ab_indent">
+            <em>imat̰ barəsma</em> ēn gyāg barsom az māhrōy abāz wišādan ō ī māhrōy nihišn pas <em>haδa.zaōθrəm haδa.aiβiiā̊ŋhəm</em>.</ab> 
+         <ab class="ab_indent">
+            "<em>imat̰ barəsma</em>. At this passage he has to release the <em>barsom</em> from the <em>māhrōy</em> and put it on to the <em>māhrōy</em>. Afterwards (he has to continue with) 
+            <em>haδa.zaōθrəm haδa.aiβiiā̊ŋhəm</em>."</ab>
+         
+         <ab>VrS77.39 Var. b (mss. 2010, 2030, 2040, 2104, 2109):</ab>
+         <ab class="ab_indent">
+            <em>imat̰ barəsma</em> ēn gyāg barsom az māhrōy gušādan ud datuš abāg gyāg kardan pas <em>haδa.zaōθrəm haδa.aiβiiā̊ŋhəm</em>.</ab>  
+         <ab class="ab_indent">
+            "<em>imat̰ barəsma</em>. At this passage, he should release the <em>barsom</em> from the <em>māhrōy</em> and put the <em>datuš</em> back to its place. Afterwards (he has to 
+            continue with) <em>haδa.zaōθrəm haδa.aiβiiā̊ŋhəm</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS77.39"/>
+   </translation>
+</text>

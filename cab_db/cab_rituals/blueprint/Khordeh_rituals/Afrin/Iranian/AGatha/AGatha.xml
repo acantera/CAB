@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+			<div type="Afringan" xml:id="AGatha"> <!-- vide: K36, MZK6, RR3, DorostXANew, MZK8, K37; non vide: F2, MF28 (2x), MF25, IOL CCXXI (?), MF31, W3, Lb5 --> <!-- Geldner says: „L25.9. Mf3. Mb2 have Par. 4 only,* with the concluding formula of the Afrîngâns, J9. H2. K7c Par. 4 only, J9 with the superscription: âçîrvâd i Fravardiyân” (Geldner, Avesta II, p. 270). Par. 4 = yā̊. vīsāδa. stanza. --><!-- An old attestion of the text could be: MU I 505.7-506.12 -->
+				<div type="AfringanStanza" xml:id="AGatha1.1" corresp="#GA2.1"> <!-- mss. 19th century introduce with: hišt. aṣ̌aōnąm. frauuašaiiō. nąm. īzit̰. -->
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="8"/> <!-- MZK6: haft -->
+                </div>
+                <div type="AfringanStanza" xml:id="AGatha1.2" corresp="#GA2.1">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/> <!-- In the Indian tradition the Dhup Nērang is recited. Anquetil (ZA II, p. 63, states: "On récite le Doup-néreng à voix haute, si on commence par l’Afergan Gâthâ; en vadj, si on a dit auparavant l’Afergan Gâhanbar." He also points to the Iranian performance in fn. 1: "Dans le Kirman, au lieu du Doup-néreng on récite une courte priere qui commence par, Grand & victorieux." -->
+				</div>
+				<div type="Frauuarane" xml:id="AGatha1.3" corresp="#GA2.1, GA2.2">
+				    <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP1XA"/>
+                    <!-- Anquetil II, p. 63 (cf. I, p. 99) points to a WazGr recited by 2 priests (India): "Le Djouti (dit): Dites-moi, (à moi) Djouti: c’est le desir d’Ormusd (&c.) Le Raspi (dit) Dites-moi, ô Djouti: c’est le desir d’ormusd (&c.) Le Djouti (répond): Dites au Chef de faire des actions saintes & utiles; avertissez-le de cela." -->
+				</div>
+				<div type="ShnumanAcc" xml:id="AGatha2.1" corresp="#GA2.3">
+					<include type="block_shnumanacc" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanAcc" xpointer="ShnumanAcc40.a"/>
+					<include type="block_shnumanacc" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanAcc" xpointer="ShnumanAcc40.b"/> <!-- This Xšnūman section (= GRap2.3b-f) given only in parts in MZK6 (ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide. + aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spə̄ntā̊. frauuaṣ̌aiiō.), DorostXANew. However, it is included in NiknamXA, DorostXANew has it sec.man., see fol. 146 v 7 after the (second) WazGir -->
+				</div>
+				<div type="AfringanStanza" xml:id="AGatha2.2" corresp="#GA2.4"> <!-- = #GYt13.49 --> <!-- NiknamXA gives the instruction (NP): <agar> fanǧ kūcek īdar --> <!-- The so-called yā̊. vīsāδa. section is frequently used in Jašn ceremonies, see e.g. the ceremonies recorded in E1 -->
+					<ab n="a" xml:id="AGatha2.2a">aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spə̄ntā̊. frauuaṣ̌aiiō. yazamaide.</ab> <!-- This verse belongs still to the Shnuman. In G it is taken as the beginning of AGatha2.2, in the CAB blocks the yazamaide is missing -->
+					<ab n="b" xml:id="AGatha2.2b">yā̊. vīsāδa. āuuaiieiṇti.</ab>
+					<ab n="c" xml:id="AGatha2.2c">hamaspaϑmaēdaēm. paiti. ratūm.</ab>
+					<ab n="d" xml:id="AGatha2.2d">āat̰. aϑra. vīcarəṇti. dasa. pairi. xšafnō.</ab>
+					<ab n="e" xml:id="AGatha2.2e">auuat. auuō. zixšnā̊ŋhəmnā̊.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="AGatha2.3" corresp="#GA2.4"> <!-- = #GYt13.49, 50 -->
+					<ab n="a" xml:id="AGatha2.3a">kō. nō. stauuāt̰. kō. yazāite.</ab>
+					<ab n="b" xml:id="AGatha2.3b">kō. ufiiāt̰. kō. frīnāt̰. kō. paiti.zanāt̰.</ab>
+					<ab n="c" xml:id="AGatha2.3c">gaōmata. zasta. vastrauuata. aṣ̌a.nāsa. nəmaŋha.</ab> <!-- On this formula, which is used several times, see cf. Dhabhar 1932, p. 314 (< MU I, p. 351.11-19; cf. MU I, p. 352.6-8) -->
+					<ab n="d" xml:id="AGatha2.3d">kahe. nō. iδa. nąma. āγairiiāt̰.</ab>
+					<ab n="e" xml:id="AGatha2.3e">kahe. vō. uruua. frāiieziiāt̰.</ab>
+					<ab n="f" xml:id="AGatha2.3f">kaɱāi. nō. tat̰. dāϑrəm. daiiāt̰.</ab> <!-- For kaɱāi. ... yauuaēca. yauuaētātaēca. see also #GYt13.71 -->
+					<ab n="g" xml:id="AGatha2.3g">yat̰. hē. aŋhat̰. xᵛairiiąn. ajiiamnəm.</ab>
+					<ab n="h" xml:id="AGatha2.3h">yauuaēca. yauuaētātaēca.</ab> <!-- In many mss. of the IndXA (Geldner points to J10, K12, J9, H2, L25, L9, Mb 2, K7) the quotation of #GYt13.156-157 is following, the xšnūtā̊. āfrīnəṇtu. text is also quoted/translated in the beginning of the CiBu which is found in some Iranian XA mss. In DorostXANew 148 r the text is appended which indicates that this remarkable ms. is contaminated by the Indian tradition -->
+				</div>
+				<div type="AfringanStanza" xml:id="AGatha2.4" corresp="#GA2.4"> <!-- = #GYt13.51 -->
+					<ab n="a" xml:id="AGatha2.4a">āat̰. yō. nā.hīš. frāiiazāite.</ab>
+					<ab n="b" xml:id="AGatha2.4b">gaōmata. zasta. vastrauuata. aṣ̌a.nāsa. nəmaŋha.</ab>
+					<ab n="c" xml:id="AGatha2.4c">aɱāi. āfrīnəṇti. xšnūtā̊. ainitā̊. at̰bištā̊. uγrā̊. aṣ̌āunąm. frauuaṣ̌aiiō.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="AGatha2.5" corresp="#GA2.5"> <!-- = #GYt13.52 -->
+					<ab n="a" xml:id="AGatha2.4a">buiiāt̰. aɱi. nmāne. gə̄ušca.</ab>
+					<ab n="b" xml:id="AGatha2.4b">vąϑβa. upa. vīranąmca.</ab>
+					<ab n="c" xml:id="AGatha2.5c">buiiāt̰. āsušca. aspō. dərəzrasca. vāxšō.</ab>
+					<ab n="d" xml:id="AGatha2.5d">buiiāt̰. nā. stāhiiō. viiāxanō.</ab>
+					<ab n="e" xml:id="AGatha2.5e">yā.nō. bāδa. frāiiazāite.</ab>
+					<ab n="f" xml:id="AGatha2.5f">gaōmata. zasta. vastrauuata. aṣ̌a.nāsa. nəmaŋha.</ab>
+				</div>
+				 <div type="AfringanStanza" xml:id="AGatha2.6" corresp="#GA2.5">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/> <!-- According to K37 only 1 AV -->
+				</div>
+				<div type="AfringanStanza" xml:id="AGatha3.1" corresp="#GA2.5" quote="AD2.8"> 
+					<ab n="a" xml:id="AGatha3.1a">āfrīnāmi. xšaϑraiiāne. daŋ́hu.paiti.</ab> <!-- In the recitation with two priests (see IndXA) it follow: [rāspīg] ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō., then the recitation of the āfrīnāmi. xšaϑraiiāne. section by the two priests-->
+					<ab n="b" xml:id="AGatha3.1b">uparāi. amāi. uparāi. vərəϑrāi. uparāi. xšaϑrāi.</ab>
+					<ab n="c" xml:id="AGatha3.1c">xšaϑrəmca. paiti.astīmca.</ab>
+					<ab n="d" xml:id="AGatha3.1d">darəγō.xšaϑrəm. xšaϑrahe.</ab>
+					<ab n="e" xml:id="AGatha3.1e">darəγō.jītīm. uštānahe.</ab>
+					<ab n="f" xml:id="AGatha3.1f">druuatātəm. tanubiiō.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="AGatha3.2" corresp="#GA2.5" quote="AD2.9">
+					<ab n="a" xml:id="AGatha3.2a">aməm. hutaštəm. huraōδəm.</ab> <!-- For AGatha3.2a-c cf. S2.20 -->
+					<ab n="b" xml:id="AGatha3.2b">vərəϑraγnəm. ahuraδātəm.</ab>
+					<ab n="c" xml:id="AGatha3.2c">vanaiṇtīmca. uparatātəm.</ab>
+					<ab n="d" xml:id="AGatha3.2d">pouru.spaxštīm. t̰bišiiaṇtąm.</ab> <!-- AGatha3.2d-g = YtSr11.4d-g -->
+					<ab n="e" xml:id="AGatha3.2e">paiti.jaitīm. dušmaińiiunąm.</ab>
+					<ab n="f" xml:id="AGatha3.2f">haϑrā.niuuāitīm. hamərəϑanąm.</ab>
+					<ab n="g" xml:id="AGatha3.2g">auruuaϑanąm. t̰bišiiaṇtąm.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="AGatha3.3" corresp="#GA2.5" quote="AD2.10">
+					<ab n="a" xml:id="AGatha3.3a">āfrīnāmi.</ab>
+					<ab n="b" xml:id="AGatha3.3b">vauuanuuā̊. vanat̰.pəṣ̌ənə. buiie.</ab>
+					<ab n="c" xml:id="AGatha3.3c">vīspəm. auruuaϑəm. t̰bišiiaṇtəm.</ab>
+					<ab n="d" xml:id="AGatha3.3d">vīspəm. aγəm. t̰bišiiaṇtəm.</ab>
+					<ab n="e" xml:id="AGatha3.3e">araϑβiiō.manaŋhəm.</ab>
+					<ab n="f" xml:id="AGatha3.3f">araϑβiiō.vacaŋhəm. </ab>
+					<ab n="g" xml:id="AGatha3.3g">araϑβiiō.š́iiaōϑnəm.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="AGatha3.4" corresp="#GA2.5" quote="AD2.11">
+					<ab n="a" xml:id="AGatha3.4a">vauuanə. buiie. </ab>
+					<ab n="b" xml:id="AGatha3.4b">raϑβiia. manaŋha. </ab>
+					<ab n="c" xml:id="AGatha3.4c">raϑβiia. vacaŋha. </ab>
+					<ab n="d" xml:id="AGatha3.4d">raϑβiia. š́iiaōϑna. </ab>
+					<ab n="e" xml:id="AGatha3.4e">nijanə. buiie.</ab>
+					<ab n="f" xml:id="AGatha3.4f">vīspe. dušmaińiiū. </ab>
+					<ab n="g" xml:id="AGatha3.4g">vīspe. daēuuaiiasnə̄.</ab>
+					<ab n="h" xml:id="AGatha3.4h">zazə. buiie.</ab>
+					<ab n="i" xml:id="AGatha3.4i">vaŋhāuca. mižde.</ab>
+					<ab n="j" xml:id="AGatha3.4j">vaŋhāuca. srauuahe.</ab>
+					<ab n="k" xml:id="AGatha3.4k">urunaēca. darəγe. hauuaŋhe.</ab>
+				</div>		
+				<div type="AfringanStanza" xml:id="AGatha3.5" corresp="#GA2.5" quote="AD2.12">
+					<ab n="a" xml:id="AGatha3.5a">āfrīnāmi. </ab>
+					<ab n="b" xml:id="AGatha3.5b">darəγəm. juua.</ab>
+					<ab n="c" xml:id="AGatha3.5c">ušta. juua.</ab>
+					<ab n="d" xml:id="AGatha3.5d">auuaŋhe. narąm. aṣ̌aōnąm. </ab>
+					<ab n="e" xml:id="AGatha3.5e">ązaŋhe. dužuuarštāuuarəząm.</ab>
+					<ab n="f" xml:id="AGatha3.5f">vahištəm. ahūm. aṣ̌aōnąm. </ab>
+					<ab n="g" xml:id="AGatha3.5g">raōcaŋhəm. vīspō.xᵛāϑrəm.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="AGatha3.6" corresp="#GA2.5">
+					<ab n="a" xml:id="AGatha3.6a">aϑa. jamiiāt̰. yaϑa. āfrīnāmi.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="AGatha3.7" corresp="#GA2.5" quote="Y35.2 (#GY35.2) = YR35.2 VrS43.2 VVrS43.2 VytVrS43.2">
+					<ab n="a" xml:id="AGatha3.7a">humatanąm. hūxtanąm. huuarštanąm. iiadacā. ańiiadacā.</ab>
+					<ab n="b" xml:id="AGatha3.7b">vərəziiamnanąmcā. vāuuərəzananąmcā. mahī.</ab>
+					<ab n="c" xml:id="AGatha3.7c">aibī.jarətārō. naēnaēstārō. yaϑanā. vohunąm. mahī.</ab>
+					<ab n="d" xml:id="AGatha3.7d">humatanąm. hūxtanąm. huuarštanąm. iiadacā. ańiiadacā. vərəziiamnanąmcā. vāuuərəzananąmcā. mahī. aibī.jarətārō. naēnaēstārō. yaϑanā. vohunąm. mahī.</ab> <!-- In the IndXA a Vāj (Pāz. etc.) follows. According to Anquetil II, p. 64, both priests recite: Que cet Afergan parvienne aux saints Feroüers, aux Feroüers de la pure Terre (l’Iranvedj), aux Feroüers vainqueurs, aux Feroüers de Poériodekéschans, aux Feroüers de (mes) proches, à tel Feroüer, (cet Afergan) des Gâhs, du Gâh Honoüet, du Gâh Oschtoüet, du Gâh Sependomad, du Gâh Vôhou Khschethré, du Gâh Veheschtôéstôesch! Qu’il parvienne à tel Gâhs (&) à tel fort Feroüers! Qu’ils l’agréent, & accordent à celui qui le fait avec intelligence, de vivre bien & heureux, d’être fort, bon Roi! Que cela soit ainsi dans les sept Keschvars de la Terre!" -->
+				</div>
+				<div type="AfringanStanza" xml:id="AGatha4.1" corresp="#GA2.5">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+                </div>
+				<div type="AfringanStanza" xml:id="AGatha4.2" corresp="#GA2.5">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+				</div>
+				<div type="AfringanStanza" xml:id="AGatha4.3" corresp="#GA2.6">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="2"/>
+                </div>	
+				<div type="AfringanStanza" xml:id="AGatha4.4" corresp="#GA2.6">
+					<ab n="a" xml:id="AGatha4.4a">yasnəmca. vaɱəmca. aōjasca. zauuarəca. āfrīnāmi.</ab>
+					<include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen40"/>
+				</div>
+				<div type="AfringanStanza" xml:id="AGatha4.5" corresp="#GA2.6">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/> <!-- In mss. of the IndXA follows again: a) aθa. jamiiāt̰. yaθa. āfrīnāmi., b) the humatanąm.-formula (2x), c) YAV (21x) + AV (12x), d) the full aɱāi. raēšca. frame as known from Yt, Ny etc. -->
+				</div>
+			</div>
+</div>

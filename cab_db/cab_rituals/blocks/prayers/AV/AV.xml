@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+    <ab type="prayer" xml:id="AV">
+        <ab xml:id="AV.a"><l>aṣ̌əm. vohū. vahištəm. astī.</l></ab>
+        <ab xml:id="AV.b"><l>uštā. astī. uštā. aɱāi.</l></ab>
+        <ab xml:id="AV.c"><l>hiiat̰. aṣ̌āi. vahištāi. aṣ̌əm.</l></ab>
+    </ab>
+    <ab type="prayer" xml:id="AV1">
+        <note anchored="true">zōt ud rāspīg</note> 
+        <ab xml:id="AV1.a"><l>aṣ̌əm. vohū. vahištəm. astī.</l></ab>
+        <ab xml:id="AV1.b"><l>uštā. astī. uštā. aɱāi.</l></ab>
+        <ab xml:id="AV1.c"><l>hiiat̰. aṣ̌āi. vahištāi. aṣ̌əm.</l></ab>
+    </ab>
+    <ab type="prayer" xml:id="AV2">
+        <note anchored="true">zōt</note> 
+        <ab xml:id="AV2.a"><l>aṣ̌əm. vohū. vahištəm. astī.</l></ab>
+        <ab xml:id="AV2.b"><l>uštā. astī. uštā. aɱāi.</l></ab>
+        <ab xml:id="AV2.c"><l>hiiat̰. aṣ̌āi. vahištāi. aṣ̌əm.</l></ab>
+    </ab>
+    <ab type="prayer" xml:id="AV3">
+        <note anchored="true">rāspīg</note> 
+        <ab xml:id="AV3.a"><l>aṣ̌əm. vohū. vahištəm. astī.</l></ab>
+        <ab xml:id="AV3.b"><l>uštā. astī. uštā. aɱāi.</l></ab>
+        <ab xml:id="AV3.c"><l>hiiat̰. aṣ̌āi. vahištāi. aṣ̌əm.</l></ab>
+    </ab>
+    <ab type="prayer" n="AV" xml:id="AVE">
+        <ab xml:id="AVE.a"><l>aṣ̌əm. vohū. vahištəm. astī.</l></ab>
+        <ab xml:id="AVE.b"><l>uštā. astī. uštā. aɱāi.</l></ab>
+        <ab xml:id="AVE.c"><l>hiiat̰. aṣ̌āi. vahištāi. aṣ̌əm.</l></ab>
+    </ab>
+</div>

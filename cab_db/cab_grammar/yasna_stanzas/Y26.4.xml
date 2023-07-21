@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y26.4" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y26.5" shnumandep="1">
+   <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY26.5"/>
+</div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. Y25.4.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels>
+        <ab>Y26.4 = Y59.23, VrS81.22, DrYt4.13.</ab>
+        <ab>VrS30.4 = DoHom7.4.</ab>
+        <ab><em>yōi aṣ̌āi vaōnarə</em> = Y26.3, Y26.5, Y59.22, Y59.24.</ab>
+        <ab><em>zaraϑuštrahe spitāmahe iδa aṣ̌aōnō aṣ̌īmca frauuaṣ̌īmca yazamaide</em> = Y6.19, Y10.21, Y13.7, VrS51.5; ~ Y4.24, Y24.5 <em>āat̰ dīš āuuaēδaiiamahi zaraϑuštrahe spitāmahe aṣ̌aōnō frauuaṣ̌ə̄e</em>; 
+            ~ Y3.2, Y3.22, Y3.23, Y7.3, Y7.23, Y7.24 <em>xšnūmaine zaraϑuštrahe spitāmahe aṣ̌aōnō frauuaṣ̌əe</em>; ~ Y68.30, NyMihr1.6, NyXwar1.6 <em>nəmō zaraϑuštrahe spitāmahe aṣ̌aōnō frauuaṣ̌ə̄e</em>.</ab>
+        <ab><em>kauuōiš vīštāspahe aṣ̌aōnō frauuaṣ̌īm yazamaide</em> = Yt13.99.</ab>
+        <ab><em>isat̰.vāstrahe zaraϑuštrōiš aṣ̌aōnō frauuaṣ̌īm yazamaide</em> = Yt13.98.</ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrY26.5"/>
+        <include type="W" corresp="WTrY26.5"/>
+        <include type="K" corresp="KTrY26.5"/>
+        <include type="D" corresp="DTrY26.5"/>
+    </translation>
+</text>

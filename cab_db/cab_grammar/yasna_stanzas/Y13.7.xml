@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y13.7" status="created">   <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y13.7">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY13.7a"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY13.7b"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: vid. Y13.4.</ab>
+            </div>
+        </SpeakerInfo>  
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels>
+        <ab><em>gə̄uš hudā̊ŋhō gaiiex́iiācā maraϑnō aṣ̌aōnō frauuaṣ̌īm yazamaide zaraϑuštrahe spitāmahe iδa aṣ̌aōnō aṣ̌īmca frauuaṣ̌īmca yazamaide</em> ~ Y68.30 <em>nəmō gə̄uš nəmō gaiiehe nəmō zaraϑuštrahe spitāmahe aṣ̌aōnō frauuaṣ̌ə̄e</em>.</ab>
+        <ab><em>gaiiex́iiācā maraϑnō aṣ̌aōnō frauuaṣ̌īm yazamaide</em> ~ Y59.23 <em>gaiiehe marəϑnō aṣ̌aōnō frauuaṣ̌īm yazamaide</em></ab>
+        <ab><em>zaraϑuštrahe spitāmahe iδa aṣ̌aōnō aṣ̌īmca frauuaṣ̌īmca yazamaide</em> = Y6.19, Y10.21, Y26.4, Y59.23,VrS51.5, VrS51.6; ~ Y4.24, Y24.5 <em>āat̰ dīš āuuaēδaiiamahi zaraϑuštrahe spitāmahe aṣ̌aōnō frauuaṣ̌ə̄e</em>.</ab>
+    </Parallels>
+    <Ritual>
+        <ab>Cf. N84.1-8 (cf. <bibl>Kotwal and Kreyenbroek, 2009</bibl>: pp. 76-7; see too <bibl>Cantera, 2014</bibl>: pp. 211 ff.):</ab>
+        <ab class="ab_indent">
+            <em>hapta həṇti hāuuanaiiō ratauuō barəsma stərənaēti paōiriia yeŋ́hē mē aṣ̌āt̰ hacā
+                bitiiā ahunanąm vairiianąm θritiia dāidī mōi tūiriiā uštauuaitiiå vā spə̄ṇtā
+                mainiiə̄uš vā hātōiš puxδa yeŋ́hē mē aṣ̌āt̰ hacā xštuuō dāidī mōi haptaθa
+                uštauuaitiiå vā spə̄ṇtā mainiiə̄uš vā hātōiš </em></ab>
+            <ab class="ab_indent">"There are seven <em>ratu</em> in the <em>hāuuani</em>-performance, where one spreads the <em>barəsman</em>: the first is  <em>yeŋ́hē mē aṣ̌āt̰ hacā</em> (VrS11.30); the second, the Ahuna Vairiias (likely Y13.7); 
+                the third,  <em> dāidī mōi</em> (Y18.1); the fourth, the Uštauuaitī or the Spəṇtā.mainiiū Gāθā; the fifth, <em>yeŋ́hē mē aṣ̌āt̰ hacā</em> (Y63.1); the sixth, dāidī mōi (Y65.15); the seventh, the Uštauuaitī or the Spəṇtā.mainiiū Gāθā."   </ab>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY13.7"/>
+    <include type="W" corresp="WTrY13.7a"/><include type="K" corresp="KTrY13.7a"/><include type="D" corresp="DTrY13.7a"/></translation>
+</text>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL9.4.10" status="created">  <!-- created, approved, updated--> <header><creators><creator>Porro</creator><creator>Cantera</creator></creators><created>1 June 2019</created></header><div type="Stanza" sameAs="" n="10" xml:id="ParagnaLL9.4.10">
+                <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.10a"/>
+                <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.10b"/>
+                <include href="/db/apps/cab_db/cab_rituals/nerang/dron_nerang" xpointer="HomastP4.10NerangTransc.a"/>
+                <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.10c"/>
+                <include href="/db/apps/cab_db/cab_rituals/nerang/dron_nerang" xpointer="HomastP4.10NerangTransc.b"/>
+                <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.10d"/>
+                <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.10e"/>
+            </div><Apparatus><Critical/><Commentary/></Apparatus><Parallels/><Ritual/><translation><include type="CAB" corresp="CABTrParagnaLL9.4.10"/></translation></text>

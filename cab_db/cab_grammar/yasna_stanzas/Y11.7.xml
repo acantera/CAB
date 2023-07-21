@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y11.7" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y11.7">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY11.7"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y11.1.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y11.7c <em>pairiš.xᵛaxtəm</em>] Kellens (Bartholomae), Pirart; Geldner <em>pairišxᵛaxtəm</em>.</ab>
+         <ab>Y11.7c <em>aiiaŋhahe</em>] Bartholomae, gen. sg. (thematized) of <em>ayah-</em> "iron", 
+            but <bibl>Pirart, 2004</bibl> p. 257 gen. sg. of an adj. <em>āiiaŋha-</em> (ved. <em>āyasá-</em>). <bibl>Kellens, 2007</bibl> p. 89 (Pirart) "en métal &gt; chaîne". For <em>āiia-</em> vid. <bibl>De Vaan, 2003</bibl> p. 118 ff.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>yaϑa mairīm baṇdaiiat̰ yim tūirīm fraŋhrasiiānəm</em> ~ Yt19.77 <em>ahurō kauua haōsrauua mairīm tūirīm fraŋhrasiiānəm baṇdaiiat̰</em>.</ab>
+   </Parallels>
+   <Ritual>
+      <Quotations id="ritualQuotations">
+         <ab>PRDd26.4:</ab>
+         <ab class="ab_indent">ud hōm yazd ō kas rāy nifrīn kunēd gōwēd kū-t frazend ma bawād u-t dusrawīh-iz ud abārīg anāgīh xwēš bawād kē man andar yazišn kār 
+            nē +framāyē ud sūr ī pid ohrmazd bē ō man dād ērwārag abāg uzwān ud čašm ī hōy ī hamāg gōspand ud gōspand sardagān nē yazē bē +jōyē 
+            kē ān sūr ī pid ī man ohrmazd bē ō man dād nē yazēd bē jōyēd andar mān ī ōy nē zāyēd nē āsrōn nē artēštār ud nē wāstaryōš ud andar mān ī ōy zāyēnd mardōm ī čihr ī jādūgān 
+            ud +wināhēd +dahišn +ī ohrmazd kirrēnīdār +ī tis tabāh kunēd ud ka kār ud dādestān was frāz kunēd tis-iz bē ō frazām nē āwarēd 
+            u-š mēnōyīhā pad ān band bandēm ī-m tūr ī frāsyāb bast </ab>
+         <ab class="ab_indent">And the yazad Hōm curses that person, he says: (~ Y11.4-7) "May you not have children, and may dishonour and other afflictions be yours, 
+            you who do not use me in worship. Nor do you consecrate the meal which (my) father Ohrmazd gave to me the jaw along with the tongue and left eye of all beneficent animals, 
+            and the varieties of beneficent animals you do not consecrate (for me), but you devour (it)! Whoever does not consecrate that food which my father Ohrmazd gave to me, 
+            but devours it, in his house will be born neither priest nor warrior nor husband man. In his house people of the line of sorcerers will be born, and will destroy the creations of Ohrmazd. 
+            (He is) the miscreator who ruins things, and (even if) he will undertake many duties and obligations, he will bring nothing at all to completion,
+            and I shall bind him in the spiritual slate with those bonds with which I bound Frasyab the Tūr."
+         </ab>
+         
+         <ab>Revāyat  Šāpur Baruchi <bibl>Unvala, 1922</bibl> p. 263:</ab>
+         <ab class="ab_indent">digar agar kasi gušt-e nā-yašte be-ḫorad gušurang amšāsfand ham-čenān farmāyad čenān-ke afrāsiyāb rā baste be-dast-e šāh kay-ḫosro 
+            dādam hamin ṭor baste be-dast-e divān u rā sepāram</ab>
+         <ab class="ab_indent">:"If one eats unconsecrated flesh, then Gušurang Amšāsfand commands thus: "as I bound Afrāsyāb and gived him to king Kayxōsrō, in the same manner
+            I bind (him) and put (him) in the demons' hands." (<bibl>Dhabhar, 1932</bibl>, pp.263)</ab>
+      </Quotations>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY11.7"/>
+      <include type="W" corresp="WTrY11.7"/>
+      <include type="K" corresp="KTrY11.7"/>
+      <include type="D" corresp="DTrY11.7"/>
+   </translation>
+</text>

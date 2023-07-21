@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y62.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y62.1" headerPointer="Head62">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y62.1NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY62.1a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY62.1b"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY62.1c"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY62.1d"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y62.1 Var. a (ms. 40):</ab>
+         <ab class="ab_indent">
+            barsom abar griftan <em>yasnəmca</em>. tā sar az pāy gōbišn ēsm ud bōy ō ī ātaxš dahišn <em>yasnəmca vaɱəmca hubərətīmca</em>. ...</ab>
+         <ab class="ab_indent">
+            "He has to take up the <em>barsom</em>. From <em>yasnəmca</em> until the end, he has to recite it standing. He has to give <em>ēsm</em> and <em>bōy</em> 
+            to the fire (and recite): <em>yasnəmca vaɱəmca hubərətīmca</em>. ..."</ab>
+         <ab>Y62.1 Var. b (mss. 400, 410):</ab>
+         <ab class="ab_indent">
+            barsom az barsomdān ul darišn ud namāz ō ī ātaxš barišn <em>yasnəmca vaɱəmca hubərətīmca</em>. ...</ab>
+         <ab class="ab_indent">
+            "He has to raise the <em>barsom</em> from the <em>barsomdān</em> and bring <em>namāz</em> to the fire (and continue with) <em>yasnəmca vaɱəmca hubərətīmca</em>. ..."</ab> 
+         <ab>Y62.1 Var. c (ms. 5):</ab>
+         <ab class="ab_indent">
+            barsom az māhrōy abar griftan abar pāy ēstādan <em>yasnəmca vaɱəmca hubərətīmca</em>. ...</ab>
+         <ab class="ab_indent">
+            "He should take the <em>barsom</em> from the <em>māhrōy</em> (and continue with) <em>yasnəmca vaɱəmca hubərətīmca</em> ..."</ab>
+         <ab>Y62.1 Var. d (ms. 88):</ab>
+         <ab class="ab_indent">
+            barsom abar griftan ud namāz ō ī ātaxš barišn ud bōy ō ī ātaxš dahišn <em>yasnəmca</em>. tā sar az pāy gōwišn <em>yasnəmca vaɱəmca hubərətīmca</em>. ...</ab>
+         <ab class="ab_indent">
+            "He should take the <em>barsom</em>. He has to bring <em>namāz</em> to the fire and to give to the fire <em>ēsm</em> ud <em>bōy</em>. They have to recite standing the 
+            <em>yasnəmca</em> until the end: <em>yasnəmca vaɱəmca hubərətīmca</em> ..."</ab>
+      </Nerangs>
+      <Commentary id="ritualCommentary">In the greater performances, the same ritual action is carried out at VrS86.1 (=Y62.7)
+      </Commentary>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY62.1"/>
+      <include type="W" corresp="WTrY62.1"/>
+      <include type="K" corresp="KTrY62.1"/>
+      <include type="D" corresp="DTrY62.1"/>
+   </translation>
+</text>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y39.4" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y39.4">
+        <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY39.4"/>
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels>
+        <ab>Y39.4 quoted by Y13.5, VrS65.4, VS10.4.</ab>
+        <ab><em>yā vōhū aϑā tōi dadəmahī aϑā cīšmahī ... ϑβā mazdā ahurā</em> ~ Y35.5, VrS19.2, VrS65.19, VrS82.37, VrS89.26 <em>dadəmahicā cīšmahicā huuąmahicā hiiat̰ mazdāi ahurāi aṣ̌āicā vahištāi</em>; 
+            ~ Y12.14, VrS11.28, VrS32.3 <em>ahurāi mazdāi vīspā vohū cinaɱi</em>; ~ Y12.6 <em>ahurāi mazdāi vaŋhauuē vohumaitē vīspā vohū cinaɱī</em>.</ab>
+        <ab><em>aϑā ϑβā āiš yazamaide aϑā nəmax́iiāmahī aϑā išūidiiāmahī ϑβā mazdā ahurā</em> ~ Y36.5, VrS65.30, VrS80.5 <em>nəmax́iiāmahī išūidiiāmahī ϑβā mazdā ahurā</em>; ~ Y38.4, Y67.3, VrS65.42 <em>tāiš vā̊ yazamaidē tāiš friiąmahī tāiš nəmax́iiāmahī tāiš išūidiiāmahī</em>.</ab>
+    </Parallels>
+    <Ritual>
+        <ab>Cf. VS10.2-4</ab>
+        <ab>Cf. N16.1 (<bibl>Kotwal and Kreyenbroek, 1995</bibl>: pp. 98-9):</ab>
+        <ab class="ab_indent">
+            <em>kaiia *həṇti vaca bišāmrūta</em>
+        </ab>
+        <ab class="ab_indent">
+            <em>ahiiā ẏāsā ... humatanąm ... aṣ̌ahiiā āat̰ ... ẏaθā tū ī ... humāīm θβā īžīm ...
+                'θβōi staotarascā' ... uštā ahmāi... spəṇtā mainiiū ... vohū xšaθrəm vairīm ...
+                vahištā īštiš </em>
+        </ab>
+        <ab class="ab_indent">"Which are the formulae to be recited twice?</ab>
+        <ab class="ab_indent"><em>ahiiā ẏāsā </em>(Y28.3)... <em> humatanąm </em>(Y35.2) ...
+                <em>aṣ̌ahiiā āat̰ </em>(Y35.8) ... <em>ẏaθā tū ī</em> (Y39.4) ... <em>humāīm θβā
+                īžīm </em>(Y41.3) ...<em> θβōi staotarascā </em> (Y41.5) ... <em>uštā ahmāi</em>
+            (Y43.2)... <em>spəṇtā mainiiū </em>(Y47.2) ... <em>vohū xšaθrəm vairīm</em> (Y51.2) ...
+                <em>vahištā īštiš</em> (Y53.2) </ab>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY39.4"/>
+        <include type="W" corresp="WTrY39.4"/>
+        <include type="K" corresp="KTrY39.4"/>
+        <include type="D" corresp="DTrY39.4"/>
+    </translation>
+</text>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y22.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y22.1" headerPointer="Head22">
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV1"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+               <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y22.1NerangTransc.a"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: Anklesaria, Kotwal and Boyd, Geldner.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab><em>aṣ̌əm vohū</em> III gwptn'] 5, 6, 15, 40, 83, 88, 672; <em>aṣ̌əm vohū</em> III 100, 110,231, 234, 235, 677; <em>aṣ̌əm vohū vahištəm astī</em> ... slyšʾmlwtyk gwbšn' 400, 410, 510.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Vid. VVrS24.1.</ab>
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+            <ab>Cf. N28.46a <bibl>Kotwal and Kreyenbroek, 2003</bibl> pp. 104-105:</ab>
+            <ab class="ab_indent"><em>pad hōmāst' bun ēsm ud bōy ēw tāy az dašn be nihišn u-š hōm ud urwarām pad candīh be paydāgēnišn hōm pad kamistīh sē grih ud pad wēšištīg *5. </em> ṣ̌ōpaθ.<em> pad dawāzdah-hōmāst-ē tašt-ē enyā urwarām ī andar ān pad
+                nēmag u-š hamē xwarišn </em></ab>
+            <ab>"At the beginning of the Hōmāst, (the <em>rāspīg</em>) has to put a piece of fire wood and incense (on the fire) and has to present the <em>hōm</em> and the <em>urwarām</em> in a certain quantity: 
+                at least three pieces and at most five. <em>ṣ̌ōpaθ.</em> For the Dawāzdah-Hōmāst, a whole bowl. Moreover, the <em>urwarām</em> in the saucer until the middle. He has to drink the whole.</ab>
+        </Quotations>
+        <ModernPractice id="ritualModernPractice">
+            <ab><bibl>Redard and Daruwalla, 2021</bibl>, p. 88:</ab>
+            <ab class="ab_indent">"The chief priest, taking the libation wire, wetting (it) in the milk saucer, touching it to the date-palm leaf of the bundle while wetting it, he recites with the assistant priest.</ab>
+        </ModernPractice>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY22.1"/>
+    <include type="W" corresp="WTrY22.1a"/>
+        <include type="K" corresp="KTrY22.1a"/>
+        <include type="D" corresp="DTrY22.1a"/></translation>
+</text>

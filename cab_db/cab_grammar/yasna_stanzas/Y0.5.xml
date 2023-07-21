@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y0.5" status="created">  <!-- created, approved, updated--> <header>
+    <creators>
+        <creator>Porro</creator>
+        <creator>Cantera</creator>
+    </creators>
+    <created>1 June 2019</created>
+    <approved/>
+    <updated/>
+</header>
+    <div type="Stanza" sameAs="" xml:id="Y0.5">
+        <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y0.5NerangTransc.a"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>zōt: vid. Modern Practice</div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab><em>yazdān ō yazišn xwāstan</em> must refer to the recitation of the corresponding <em>xšnūman</em>, vid. Modern Practice.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Y0.5 (ms. 5, 15, 40, 82, 300, 360, 370, 400, 410, 2007, 2010, 2030, 2040, 2101, 4000a, 4010, 4020, 4050a, 4025, 4055, 4060, 5020, 4030a, 5116): </ab>
+            <ab class="ab_indent">
+                u-š <em>yaϑā. ahū. vairiiō.</em> dō andar rāh guftan pad <em>š́iiaōθananąm</em> pāyag rāst andar zōtgāh nihādan u-š tarsāgīhā bē ēstādan yazdān ō ī 
+                yazišn xwāstan pādyābdān pad pādyāb abāz kardan ud dast pad pādyāb abāz kardan </ab>
+            <ab class="ab_indent">
+                He should say two <em>yaϑā ahū vairiiō</em> on the way. While saying <em>š́iiaōθananąm</em> he should put the right foot on the <em>zōtgāh</em>, 
+                stand respectful, invite the gods to the liturgy, wash the <em>pādyābdān</em> with <em>pādyāb</em> and wash his hands again with <em>pādyāb</em>.</ab>  
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+            <ab>N28.34, <bibl>Kotwal and Kreyenbroek, 2003</bibl>, pp. 90-91 (Mss. 5, 15, 40, 82, 300, 360, 370, 400, 410, 2007, 2010, 2030, 2040, 2101, 4000a, 4010, 4020, 4050a, 4025, 4055, 4060, 5020, 4030a, 5116):</ab>
+            <ab class="ab_indent">
+                u-š ān dō yatāhūwēryō ay andar rāh' bē gōwišn u-š abāz ō gāh ī zōtān šawišn u-š ē gām barsom abāz estēnišn u-š andar ō kār kunišn</ab>
+            <ab class="ab_indent">
+                "He has to say those two <em>Yatāhuweryō</em> on the way, and return to the place of the <em>zōt</em>. He has to stand one step away from the <em>barsom</em> and 
+                begin the ritual."</ab>
+        </Quotations>
+        <ModernPractice id="ritualModernPractice">
+            <ab><ab><bibl>Redard and Daruwalla, 2021</bibl>, p. 71-73:</ab>
+                <ab class="ab_indent">"Then the chief priest, after coming near the seat, in the way that while reciting the first <em>Ahuna Vairiia</em>, he puts the right foot on the seat, and reciting the second <em>Ahuna Vairiia</em>,
+                    puttung the left foot on the seat, he stands up. But when the chief priest, after coming near the seat, starts reciting the first <em>Ahuna Vairiia</em>, at that time if the assistant priest, who has performed the <em>Paragnā</em>,
+                    is still sitting on the seat, then (he) gets down and putting away the <em>hom</em>, the milk or whatever else that has to be put away, going outside the <em>pāvī</em> of the <em>hīṃdora</em>,
+                    releasing the <em>bāj</em>, he performs the girdle (rituall). Then, reciting one <em>Aṣ̌əm Vohū</em>, he comes back inside the <em>pāvī</em> and as many <em>Ahuna Vairiia</em> the chief priest has recited, that many he recites.
+                    Then both, the chief priest and the assistant priest, remember in a low tone the dedication for whom the Yasna is to be performed, in accordance to (what is given) below: <em>humata hūxta huuaršta humanašnə hugauuašnə hukunašnə īn xšnūmaine</em>."
+                    (Redard and Daruwalla gather at this point different <em>xšnūman</em>).
+                </ab></ab>
+            <ab><ab><bib>Kotwal and Boyd, 1991</bib>, p. 89: </ab>
+                <ab class="ab_indent">"The <em>rāspī</em> leaves the <em>pāwī</em>, stands in the adjacent one and recites <em>a. v. 1</em> facing east. He proceeds to a further <em>pāwī</em> and recites
+                    a fourfold grouping of Avestan prayers which include the whole Paragṇa service  (cf. ParagnaLL9.5.5-12) [...]".</ab></ab>
+        </ModernPractice>
+        <Commentary id="ritualCommentary">
+            <ab class="ab_indent">According to the Nērangestān, the entering of the <em>zōtgāh</em> happens at the recitation of Y0.8 <em>staōmi</em>. Cf. VrS0.5 ms. 2065.</ab>
+            <ab class="ab_indent">Texts and actions performed by the <em>rāspīg</em> at this point, cf. VVrS0.5.</ab>
+        </Commentary>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY0.5"/>
+        <include type="W" corresp="WTrY0.3c"/>
+        <include type="K" corresp="KTrY0.1"/>
+        <include type="D" corresp="DTrY0.3c"/>
+    </translation>
+</text>

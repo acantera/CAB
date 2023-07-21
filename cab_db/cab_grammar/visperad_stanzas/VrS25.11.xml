@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS25.11" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS25.11">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS11.1"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid Y22.7.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Vid. commentary in VrS1.9.</ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab>VrS25.10a <em>āiiese yešti ratauuō</em> ...] <em>ratauuō gaēiϑiianąm</em> cygwn PWN slwšdlwn npšt'' OD <em>aṣ̌ahe raϑβąm</em> (VrS25.27) 2000, 2065.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS25.11 = DoHom2.11.</ab>
+      <ab>VrS22.11 ≈ VrS1.9, VrS2.9, VrS17.8, VrS27.25, VrS77.8, VrS90.9. </ab>
+      <ab>
+         <em>ratauuō upāpanąm ratauuō upasmanąm ratauuō fraptərəjātąm ratauuō rauuascarātąm ratauuō caṇgraŋhācąm</em> ~ Y71.9. <em>vīspąmca gąm upāpąmca upasmąmca fraptərəjātąmca rauuascarātąmca caṇgraŋhācasca yazamaide</em>
+      </ab>
+      <ab>
+         <em>ratauuō fraptərəjātąm ratauuō rauuascarātąm</em> ~ Yt8.48 <em>yāca fraptərəją yāca rauuascarą</em>
+      </ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS25.11"/>
+   </translation>
+</text>

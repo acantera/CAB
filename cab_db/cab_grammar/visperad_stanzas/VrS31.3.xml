@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS31.3" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS31.3">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS31.3NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS31.3 (ms. 2000):</ab>
+         <ab class="ab_indent">
+            <em>yaθā ahū vairiiō</em> čahār pad ēk ī fradom pad <em>xš́iiaōθananąm</em> hōm ēk bār hunīdan ud pad aŋhəuš ēk bār hunīdan ud pad <em>mazdāi</em> ēk bār hunīdan 
+            ud pad dudīgar <em>yaθā ahū vairiiō</em> pad <em>xš́iiaōθananąm</em> dō bār hunīdan pad <em>aŋhəuš</em> dō bār hunīdan pad mazdāi dō bār hunīdan pad sidīgar 
+            <em>yaθā ahū vairiiō</em> pad <em>xš́iiaōθananąm</em> sē bār hunīdan pad aŋhəuš sē bār hunīdan pad <em>mazdāi</em> sē bār hunīdan ud abarhāwan gōš bālā abar dāštan 
+            ud pad ēk ī čahārom was hāwan frōd kōftan ud škāftan</ab> 
+         <ab class="ab_indent">
+            "(They should recite) the <em>yaθā ahū vairiiō</em> four times. During the first one, he should pound the <em>hōm</em> once at <em>xš́iiaōθananąm</em>, pound it once at 
+            <em>aŋhəuš</em> and pound it once at <em>mazdāi</em>. During the second <em>yaθā ahū vairiiō</em>, he should pound the hōm twice at <em>xš́iiaōθananąm</em>, pound 
+            it twice at <em>aŋhəuš</em> and pound it twice at <em>mazdāi</em>. During the third <em>yaθā ahū vairiiō</em>, he should pound the <em>hōm</em> three times at  
+            <em>xš́iiaōθananąm</em>, pound it three times at <em>aŋhəuš</em> and pound it three times at <em>mazdāi</em> and hold up the <em>abarhāwan</em> to the height of the
+            ears. During the fourth one, he has to strike and hit continuously the <em>hāwan</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS31.3"/>
+   </translation>
+</text>

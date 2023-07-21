@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VytVrS92.31" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VytVrS92.31" quote="Y33.10 x3, Y36.6b x3, Y43.7b.3">
+      <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VytSY68.23a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VytSY68.23b"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VytSY68.23c"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Ms. 5102: </ab>                 
+         <ab n="NerangTransc.a" source="5102" xml:id="VVrS92.31NerangTransc.a" xml:lang="Pahl"> ka gāh ī rapihbin <em>imā. raōcā̊. barəzištəm.
+            barəzimanąm.</em> 3 bār guftan ka gāh uzīrān <em>yaɱī. spəṇtā. ϑβā.
+               maińiiū. uruuaēsē. jasō.</em> 3 bār guftan </ab>
+         <ab n="NerangEnglish.a" source="5102" xml:id="VVrS92.31NerangEnglish.a" xml:lang="Pahl"> If it is the <em>gāh</em>
+            <em>rapihbin</em>, they should recite three times <em>imā. raōcā̊. barəzištəm.
+               barəzimanąm.</em>. If it is the <em>gāh uzīrān</em>, they should recite
+            three times <em>yaɱī. spəṇtā. ϑβā. maińiiū. uruuaēsē. jasō.</em>.</ab>
+         <ab>Ms. 5020: </ab>
+         <ab>az <em>vohī. uxšiiā̊. manaŋhā. xšaθrā. aṣ̌acā. uštā.tanīm</em> 3 bār guftan gwptn' <em>imā̊. raōcā̊. barəzištəm. barəzimanąm. </em> 3 bār guftan <em>yahmī. spəṇtā. θβā. maińiiə̄. uruuaēsī. jasō.</em> 3 bār guftan</ab>
+         <ab>They have to say three times <em>vohī. uxšiiā̊. manaŋhā. xšaθrā. aṣ̌acā. uštā.tanīm</em>, three times <em>imā̊. raōcā̊. barəzištəm. barəzimanąm. </em>, three times <em>yahmī. spəṇtā. θβā. maińiiə̄. uruuaēsī. jasō.</em> 3 bār guftan</ab>
+      </Nerangs> 
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVytVrS92.31"/>
+   </translation>
+</text>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y55.1" status="created">  <!-- created, approved, updated--> <header>
+    <creators>
+        <creator>Porro</creator>
+        <creator>Cantera</creator>
+    </creators>
+    <created>1 June 2019</created>
+</header>
+    <div type="Stanza" sameAs="" xml:id="Y55.1" headerPointer="Head55">
+        <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY55.1"/>
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels>
+        <ab><em>kəhrpasca təuuīšīšca</em> = VrS27.3; ~ VS21.6, VS21.10, VS21.14 <em>kəhrpəmca təuuīšīmca</em>.</ab>
+    </Parallels>
+    <Ritual>
+        <ab>Cf. N13.11 (cf. <bibl>Kotwal and Kreyenbroek, 1995</bibl>: pp. 88-9):</ab>
+        <ab class="ab_indent"><em>ka gāhān hamāg be srāyēd ā-š pad wīsparad hōm pad </em>vīspā̊
+            *gaēθā̊<em> hunišn ayāb pad gāhān ī ušt</em></ab>
+        <ab class="ab_indent">"When one recites the complete Gāθās, then he has to press the <em>hōm</em> at <em>vīspā̊
+            *gaēθā</em> or during the Uštauuaitī Gāθā."</ab>
+    </Ritual>
+        <translation>
+            <include type="CAB" corresp="CABTrY55.1"/>
+        <include type="W" corresp="WTrY55.1"/><include type="K" corresp="KTrY55.1"/><include type="D" corresp="DTrY55.1"/></translation>
+</text>

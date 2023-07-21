@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y33.11" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y33.11">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY33.11"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y33.11NerangTransc.a"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab><em>sraōtā.mōi mərəždātā.mōi</em> ~ VrS65.70 <em>sraōtəmca marždikəmca yazamaide</em></ab>
+   </Parallels>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y33.11 Var. a (mss. 88, 400, 410):</ab>
+         <ab class="ab_indent">
+            <em>yə̄ səuuištō ... mōi ādāi kahiiāicīt̰ paitī</em>. srišāmrūtīg gōwišn pad harw paitī hōm ud urwarām bē afšārišn skūrag andar mayān hōm pālā nihišn rāspīg bē sar čahār angust abar gīrišn ō dast ī hōy ī zōt barišn ǰīwdān abar sar ī zōhr nihišn</ab>
+         <ab class="ab_indent">
+            "<em>yə̄ səuuištō ... mōi ādāi kahiiāicīt̰ paitī</em>.  He has to recite (this stanza) three times. At each <em>paitī</em>, he has to strain the <em>hōm</em> and <em>urwarām</em>. 
+            He has to put the bowl on the middle of the <em>hōm pālā</em>. The <em>rāspīg</em> has to take it with four fingers and bring it to the left hand of the <em>zōt</em>. 
+            He has to place the <em>ǰīwdān</em> on the top of the <em>zōhr</em>."</ab>
+         <ab>Y33.11 Var. b (mss. 15, 40, 2005, 2007, 2010, 2030, 2040, 2101, 2106, 4000, 4010, 4020, 4025, 4030a, 4050, 4055, 4060, 4162, 5020):</ab>
+         <ab class="ab_indent">
+            <em>yə̄ səuuištō ... mōi ādāi kahiiāicīt̰ paitī</em>. sē bār guftan ud harw bār pad paitī hōm ud urwarām ī kōftag afšārdan</ab>
+         <ab class="ab_indent">
+            "He should recite <em>yə̄ səuuištō ... mōi ādāi kahiiāicīt̰ paitī </em> three times. Each time, at <em>paitī</em>, he should strain the crushed <em>hōm</em> and <em>urwarām</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY33.11"/>
+   </translation>
+</text>

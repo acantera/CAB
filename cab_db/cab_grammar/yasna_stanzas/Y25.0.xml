@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y25.0" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y25.0">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY25.1a"/>
+               <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y25.1NerangTransc.a"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: Anklesaria, Kotwal and Boyd, Geldner. Vid. also VrS29.1.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels>
+        <ab><em>aməṣ̌ā spəṇtā huxšaϑrā huδā̊ŋhō</em> = Y2.2, Y4.26, Y6.1, Y13.4, Y14.2, Y17.1, Y35.1 (x2), Y58.5, VrS14.5, VrS28.1, VrS65.15 (x2), VrS76.10, VrS77.1, VrS79.26, VrS81.1, VrS87.7, VrS89.12, VrS89.13 (x2); 
+            ~ VrS95.1 <em>aməṣ̌ə̄ spəṇtə̄ huxšaϑrə̄ huδā̊ŋhō</em>; ~ VrS19.1, VrS89.25 <em>vaŋhubiiō yazataēibiiō yat̰ aməṣ̌aēibiiō spəṇtaēibiiō huxšaϑraēibiiō huδā̊biiō</em>; 
+            ~ VrS24.7, VrS24.12 <em>amauuatäbiiō aēibiiō yazataēibiiō yat̰ aməṣ̌aēibiiō spəṇtaēibiiō huxšaϑraēibiiō huδā̊biiō</em>; ~ VrS27.12, VrS79.4 <em>aməṣ̌aēibiiō spəṇtaēibiiō huxšaϑraēibiiō huδā̊biiō</em> ... <em>yōi aməṣ̌ā̊ spəṇta huxšaϑra huδā̊ŋhō</em>;
+            ~ VrS73.3, VrS73.4, VrS89.17, VrS89.20 <em>aməṣ̌anąmcā spəṇtanąm huxšaϑranąm huδā̊ŋhąm vohunąmcā</em>.</ab>
+    </Parallels>
+    <Ritual>
+        <Quotations id="ritualQuotations">
+            <ab>Cf. N28.46c (<bibl>Kotwal and Kreyenbroek, 2003</bibl>, pp. 104-105):</ab>
+            <ab class="ab_indent"><em>pad </em> aməṣ̌ā spəṇtā<em> hāwan abāg wardēnišn</em>.</ab>
+            <ab class="ab_indent">At <em>aməṣ̌ā spəṇtā</em> he has to turn the mortar right side.</ab>
+            <ab>Vid. also Y25.1.</ab>
+        </Quotations>
+        <ModernPractice id="ritualModernPractice">
+            <ab><ab><bibl>Kotwal and Boyd, 1991</bibl>, p. 106: </ab>
+                <ab class="ab_indent">"In st. 1 the <em>zōt</em> strikes the rim of the inverted mortar against the table three times, while saying "We worship the Bountiful Immortals, food rulers, food bestowers" 
+                    (<em>amēshā spēṇtā hukhshathrā hudhāonghō yazamaidē</em>), and then sets the mortar upright on the table".</ab></ab>
+        </ModernPractice>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY25.1"/>
+    <include type="W" corresp="WTrY25.1"/>
+        <include type="K" corresp="KTrY25.1"/>
+        <include type="D" corresp="DTrY25.1"/>
+    </translation>
+</text>

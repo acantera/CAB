@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS76.4" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS76.4">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY58.4a"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS76.4NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY58.4b"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS76.4NerangTransc.b"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY58.4c"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS76.4NerangTransc.c"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY58.4d"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS76.4 (mss. 2005, 2007, 2010, 2030, 2040, 2101, 2104, 2106, 2109, 4000, 4010, 4020, 4025, 4040, 4045, 4050, 4060, 4161, 4162, 5020):</ab>
+         <ab class="ab_indent">
+            <em>fšūmā̊ astī aṣ̌auuā vərəϑrajā vahištō fšūšə̄ carəkərəmahī</em> rāspīg pad gāh ī hāwanān šawišn ud bē gōwišn <em>hə̄.ptā gə̄ušcā aṣ̌aŋhācā aṣ̌aōnascā aṣ̌āuuairiiā̊scā stōiš</em>
+            rāspīg pad gāh ī frabardārān šawišn <em>haiϑiiō vaŋhudā̊ yeŋ́hē və̄ masānascā vaŋhānascā sraiianascā carəkərəmahī</em> rāspīg pad gāh ī srōšāwarzān bē gōwišn <em>hə̄cā.nā 
+            fšūmā̊ nišaŋharatū hə̄ aiβiiāxšaiiatū hadā aṣ̌ācā vāstrācā frārāticā vīdīšaiiācā ainiticā āϑrācā ahurahē mazdā</em></ab>
+         <ab class="ab_indent">
+            "<em>fšūmā̊ astī aṣ̌auuā vərəϑrajā vahištō fšūšə̄ carəkərəmahī</em>. The <em>rāspīg</em> has to go to the place of the <em>hāwanān</em> and recite: <em>hə̄.ptā gə̄ušcā 
+               aṣ̌aŋhācā aṣ̌aōnascā aṣ̌āuuairiiā̊scā stōiš</em>. The <em>rāspīg</em> has to go to the place of the <em>frabardārān</em> (and recite): <em>haiϑiiō vaŋhudā̊ yeŋ́hē və̄ masānascā 
+                  vaŋhānascā sraiianascā carəkərəmahī</em>. The <em>rāspīg</em> has to recite at the place of the <em>srōšāwarzān</em>: <em>hə̄cā.nā fšūmā̊ nišaŋharatū hə̄ aiβiiāxšaiiatū 
+                     hadā aṣ̌ācā vāstrācā frārāticā vīdīšaiiācā ainiticā āϑrācā ahurahē mazdā</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS76.4"/>
+   </translation>
+</text>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VytVrS25.34" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y22.26" xml:id="VytVrS25.34" shnumandep="2">
+      <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VytSY23.1"/>
+      <!-- VytS25.35 to VytS25.37 if Shnuman 15, 17, 18, 21, 25, 26 -->
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid Y22.26.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VytVrS25.34a <em>āiiese yešti āuuaŋ́hā̊</em> ...] HT' hšnwmn' ʾhlwbʾn' ptš YHWWNyt'' <em>āuuaŋ́hā̊ frauuaṣ̌iiō</em> 5020.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Vid. VytVrS25.33.</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVytVrS25.34"/>
+   </translation>
+</text>

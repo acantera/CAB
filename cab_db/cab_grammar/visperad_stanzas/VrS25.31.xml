@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS25.31" status="create            d">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y22.24" xml:id="VrS25.31">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY22.21"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY22.22a" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen42" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY22.22b" on_line="in1line"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y22.21.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VrS25.31a <em>imąmcā uruuarąm</em> ...]  šnwmn' wcʾlšnyh bwndk gwptn 2000.</ab>
+         <ab>VrS25.31d <em>xšnūmaine</em> ...] HT yšt' gʾsʾnbʾl YHWWNyt' <em>xšnūmaine raϑβō bərəzatō yō</em> OD OL Y ... <em>maiδiiōizarəmaiiehe raϑβō aōxtō.nāmanō yazatahe ā. y.</em>  (err. add. <em>ā. y.</em>) ʾywp ẔK gʾs MNW YHWWNyt' gwptn' 2010;
+            HT ycšn' gʾsʾnbʾl YHWWNyt' <em>xšnūmaine raϑβō bərəzatō ... maiδiiōizarəmaiiehe raϑβō</em> ʾywp ẔK gʾs YHWWNyt' <em>aōxtō.nāmanō yazatahe</em> 2030, 2106, 2109;
+            MN <em>iməm haōməm</em> (VrS25.29a) ... HT ycšn' gʾssʾnbʾl <em>xšnīmaine raϑβō bərəzatō ... maiδiiōizarəmiiehe raϑβō aōxtō.nāmanō yazatahe</em> II bʾl gwptn' 
+            HT' plwlʾn' YHWWNyt <em>xšnīmaine ahurahe... nabānazdištanąm frauuaṣ̌anąm aōxtō.nāmanō yazatahe</em> II bʾl <em>ā. y. auuaŋhā̊</em> (VrS25.33) 2040;
+            HT ycšn' gʾsʾnbʾl YHWWNyt' <em>xšnūmaine raϑβō bərəzatō ... maiδiiōizarəmaiiehe raϑβō</em> ʾywp ẔK gʾs YHWWNyt' <em>aōxtō.nāmanō yazatahe</em> II bʾl gwptn' 2070;
+            <em>xšnīmaine</em> ẔK Y YHWWNyt gwptn' HT ʾycšn' gʾsʾnbʾl YHWWNyt <em>xšnīmaine raϑβō ... maiδiiōizarəmiiehe raϑβō</em> ʾywp ẔK gʾs YHWWNyt <em>aōxtō.nāmanō yazatahe</em> II bʾl gwptn' 2101.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS25.31 Var. a (mss. 2005, 2010, 2030, 2040, 2101, 2104, 2106, 2109):</ab>
+         <ab class="ab_indent">
+            ... <em>aṣ̌a.ciθra āiiese</em> agar yašt gāhānbār bēd <em>xšnūmaine raθβō bərəzatō … yōi həṇti aṣ̌ahe ratauuō hāuuanīm paiti ratūm maiδiiōizarəmiiehe raθβō</em> ayāb ān 
+            gāh bēd <em>aōxtō.nāmanō yazatahe</em> (VrS25.32) dudīgar bār az <em>iməm haōməm aṣ̌aiia uzdātəm āiiese</em> tā gyāg dō bār guftan sāzišn hāmag xūb bē nigerišn ud bōy ō ī  ātaxš 
+            dahišn agar xšnūman dudīgar bēd ka xšnūman ī ahlawān padiš bēd <em>āiiese yešti auuaŋ́hā̊ frauuaṣ̌aiiō</em>. …</ab> 
+         <ab class="ab_indent">
+            "... <em>aṣ̌a.ciθra āiiese</em> If it is the service of the <em>Gāhānbār: xšnūmaine raθβō bərəzatō … yōi həṇti aṣ̌ahe ratauuō hāuuanīm paiti ratūm maiδiiōizarəmiiehe raθβō</em> 
+            (or the corresponding <em>gāh</em>) <em>aōxtō.nāmanō yazatahe</em> (VrS25.32) A second time: they should say twice from <em>iməm haōməm aṣ̌aiia uzdātəm āiiese</em> until this 
+            passage. He has to gaze carefully at all implements and to give <em>bōy</em> to the fire. If the <em>šnūman</em> is another one, when the <em>šnūman</em> is one that contains 
+            <em>ahlawān</em>, (they have to recite:) <em>āiiese yešti auuaŋ́hā̊ frauuaṣ̌aiiō</em> …"</ab>
+         
+         <ab>VrS25.31 Var. b (ms. 2000):</ab>
+         <ab class="ab_indent">
+            <em>iməm haoməm</em> čīyōn pad yašt bēd tā šnūman wizārišnīh bowandag guftan agar šnūman ardā ī frawahr bēd <em>auuaŋ́hā̊ frauuaṣ̌aiiō</em> tā <em>vaŋhuš</em></ab>
+         <ab class="ab_indent">
+            "They should recite <em>iməm haoməm</em> complete as it is in the <em>yašt</em> until the performance of the <em>šnūman</em>. If it is the <em>šnūman</em> of Ardā Frawahr, 
+            (they have to recite:) <em>auuaŋ́hā̊ frauuaṣ̌aiiō</em> OD <em>vaŋhuš</em>."</ab>
+      </Nerangs>
+      <Quotations id="ritualQuotations">
+         <Quotations id="ritualQuotations">
+            <ab><ab>Revāyat of Kamdīn Šapur (MU1, p. 448) on the Visperad ī Gāhānbār:</ab>
+               <ab class="ab_indent"><em>əməm haoməm aṣ̌aiia uzdātəm āiie.</em> (VrS25.29) (Pahl) LD  <em>vīspaca vōhū mazdaδātahe aṣ̌aciϑra āiie. xšnūmaine raϑβō bərəzatō ẏō aṣ̌ahe raϑβąm aiiaraną̇mca</em> (Pahl.) LWD <em>yō həṇti aṣ̌ahe ratuuō hāuuanīm paiti 
+                  ratūm maiδiiō.zaramaiiahe raϑβō aoxtō.nāmanō ẏazatahe iməm haoməm</em> (Pahl.) LWD <em>aoxtō.nāmanō ẏazatahe āiie. arəzahebiiō sauuahebiiō</em> (VrS25.36) (Per.) gāhanbār ke bāšad ān ḫešnuman bāyad goftan
+                  (Paz.) u.<em>fradaδafšubiiō</em>.</ab>
+               <ab class="ab_indent"><em>əməm haoməm aṣ̌aiia uzdātəm āiie.</em> (VrS25.29) until  <em>vīspaca vōhū mazdaδātahe aṣ̌aciϑra āiie. xšnūmaine raϑβō bərəzatō ẏō aṣ̌ahe raϑβąm aiiaraną̇mca</em> until <em>yō həṇti aṣ̌ahe ratuuō hāuuanīm paiti 
+                  ratūm maiδiiō.zaramaiiahe raϑβō aoxtō.nāmanō ẏazatahe iməm haoməm</em> until <em>aoxtō.nāmanō ẏazatahe āiie. arəzahebiiō sauuahebiiō</em> (VrS25.36) (Per.) 
+                  In case it is the Gāhānbār, this <em>šnūman</em> should be recited and<em>fradaδafšubiiō</em>.</ab>
+            </ab>
+         </Quotations>
+         <ab><ab>In case of Visperad-ī Gāhānbār, from Revayat of Kāma Bohra (MU1, p. 454):</ab>
+            <ab class="ab_indent"><em>aməm haoməm aṣ̌aiia uzadātəm āiie.</em> (Pahl.) OD (Per.) tā <em>aṣ̌aciϑra xšnūmaine raϑβō bərəzatō ẏō aṣ̌ahe raϑβą̇m aiiaraną̇mca asniianą̇mca māhiianą̇mca ẏāiriianą̇mca sarəδaną̇mca raϑβą̇m 
+               vīspe mazištaną̇m ẏōi həṇti aṣ̌ahe ratuuō hāuuanīm paiti ratūm hamaspaϑmaēδiiahe raϑβō aoxtō.nāmanō ẏazatahe (VrS25.32) iməm haoməm aṣ̌aiia uzdātəm āiie.</em> (Per.) tā sar .</ab>
+            <ab class="ab_indent"><em>aməm haoməm aṣ̌aiia uzadātəm āiie.</em> until <em>aṣ̌aciϑra xšnūmaine raϑβō bərəzatō ẏō aṣ̌ahe raϑβą̇m aiiaraną̇mca asniianą̇mca māhiianą̇mca ẏāiriianą̇mca sarəδaną̇mca raϑβą̇m 
+               vīspe mazištaną̇m ẏōi həṇti aṣ̌ahe ratuuō hāuuanīm paiti ratūm hamaspaϑmaēδiiahe raϑβō aoxtō.nāmanō ẏazatahe (VrS25.32) iməm haoməm aṣ̌aiia uzdātəm āiie.</em> to the end  <em>māhiianą̇mca yāiriianą̇mca sarəδaną̇mca raϑβą̇m
+                  vīspamazištaną̇m ẏō həṇti aṣ̌ahe ratuuō hāuuanīm paiti ratūm hamaspaϑmidiiahe raϑβō aoxtō.nāmanō ẏazatahe</em>.</ab></ab>
+         
+      </Quotations>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS25.31"/>
+   </translation>
+</text>

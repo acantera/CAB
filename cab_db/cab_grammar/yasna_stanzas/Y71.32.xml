@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y71.32" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y71.32">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY71.29"/>
+            </div>
+            
+    <Speaker>
+        <SpeakerInfo>
+            <div><em>zōt</em> at the place of the <em>ātrawaxš</em></div>
+        </SpeakerInfo>
+        <Commentary>Thus according to the manuscript, but after N28.3
+rāspīg at the place of the ātrawaxš</Commentary>
+    </Speaker>        
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrY71.32"/>
+    <include type="W" corresp="WTrY71.29"/><include type="K" corresp="KTrY71.29"/><include type="D" corresp="DTrY71.29"/></translation>
+</text>

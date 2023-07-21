@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y59.32" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y59.32">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y59.32NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY59.30"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab><em>tū.tūm ... frāiiō.humatō frāiiō.hūxtō frāiiō.huuarštō</em> ~ Y57.20, Y57.48 <em>nāca aṣ̌auua frāiiō.humatō frāiiō.hūxtō frāiiō.huuarštō</em>; ~ VrS11.12 <em>narəmca aṣ̌auuanəm āstāiia frāiiō.humatəm frāiiō.hūxtəm frāiiō.huuarštəm</em>; ~ VrS2.13 <em>humatəmca manō hūxtəmca vacō huuarštəmca š́iiaōϑnəm</em>; ~ Y12.13, VrS11.27, VrS32.2 <em>āstuiiē humatəm manō āstuiiē hūxtəm vacō āstuiiē huuarštəm š́iiaōϑanəm</em>.</ab>
+   </Parallels>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y59.32 (mss. 5, 6, 15, 40, 88, 400, 410 (sec.m.), 2007, 2010, 2030, 2040, 2101, 2104, 2106, 2109, 4010, 4020, 4025, 4040, 4050, 4055, 4060, 4162, 5020):</ab>
+         <ab class="ab_indent">
+            rāspīg pad gāh ī frabardārān šawišn az pāy guftan <em>vaŋhu.tū.tē vaŋhaōt̰ vaŋ́hō buiiāt̰</em> zōt gōwēd <em>jamiiāt̰ vō vaŋhaōt̰ vaŋ́hō mā.vō jamiiāt̰ akāt̰ aš́ō mā.mē jamiiāt̰ akāt̰ aš́ō</em> </ab> 
+         <ab class="ab_indent">
+            "The <em>rāspīg</em> has to go to the place of the <em>frabardārān</em> and recite standing: <em>vaŋhu.tū.tē vaŋhaōt̰ vaŋ́hō buiiāt̰</em>. The <em>zōt</em> says: 
+            <em>jamiiāt̰.vō vaŋhaōt̰ vaŋ́hō mā.vō jamiiāt̰ akāt̰ aš́ō mā.mē jamiiāt̰ akāt̰ aš́ō</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY59.32"/>
+      <include type="W" corresp="WTrY59.30"/>
+      <include type="K" corresp="KTrY59.30"/>
+      <include type="D" corresp="DTrY59.30"/>
+   </translation>
+</text>

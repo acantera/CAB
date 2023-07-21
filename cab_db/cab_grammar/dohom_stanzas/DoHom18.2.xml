@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="DoHom18.2" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="DoHom18.2">
+      <include href="/db/apps/cab_db/cab_rituals/fragards/FragardDH" xpointer="DoHom18.2"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerang id="ritualNerangs">
+         <ab>DoHom18.2 (ms. 2000):</ab>
+         <ab class="ab_indent">
+            <em>tąm yazāitəm</em> tā sar guftan <em>pərəsat̰ frašaōštrō</em> agar yazišn dō-hōmāst ēn gyāg <em>nəmō və̄ gāϑā̊ aṣ̌aoniš uštā aɱāi</em> tā sar <em>aṣ̌əm vohū</em> sē 
+            <em>yeŋ́he me</em> tā sar <em>aibi.bairištəm</em> rāspīg wāz gīrišnīh zōt <em>aϑā ratuš</em> kardan rāspīg <em>sraošō iδā astū</em> tā <em>uštəməmcit̰</em> zōt 
+            <em>yaϑā ahū vairiiō yō atrauuaxšō frame mrute</em> rāspīg <em>aϑā ratuš</em> tā sar zōt <em>auuaϑāt̰ iδa</em> tā <em>ištō ahurəm mazdąm aṣ̌auuanəm aṣ̌ahe ratūm yzm</em>
+            tā <em>ratufritim yzm uštauuaitīm hāitīm paitiiāpąm yzm mat̰.aβsmanąm</em> tā <em>aŋhuiiat̰ haca ušta ahurəm mazdąm yzm</em> tā <em>bušiiaṇtəmca</em> dō-bār guftan 
+            <em>ātrə̄m ahurahe mazdā̊</em> tā <em>yeŋ́he hātąm</em> tā sar <em>yeŋ́he me</em> čiyōn nibišt šaš-bār guftan <em>tąm yazāitəm</em> tā sar zōt <em>aṣ̌əm vohū</em> 
+            sē <em>aiβigərəδmahe apąm</em> čiyōn nibišt ka <em>gaodiieheca narš aṣ̌aonō</em> guft <em>aṣ̌aiiadaδąmi yasnahe haptaŋhātōiš</em> ka šnūman wizārd <em>arəzahibiiō</em> 
+            tā-iz ūštawāyt sar tā-iz <em>tąm yazāitəm</em> ta sar <em>pərəsat̰ frašaoštrō</em>...</ab> 
+         <ab class="ab_indent">
+            "<em>tąm yazāitəm</em> (= VrS95, Y70) has to be recited to the end (and then) <em>pərəsat̰ frašaōštrō</em> (= VrS96, Y71). If it is a (ceremony) Dō-Hōmāst, at this place 
+            (must be recited) <em>nəmō və̄ gāϑā̊ aṣ̌aoniš uštā aɱāi</em> to the end (= Y43). (Then) <em>aṣ̌əm vohū</em> three times (= VrS93.1) (and) <em>yeŋ́he me</em> until 
+            <em>aibi.bairištəm</em> (= VrS93.2a-d). The <em>rāspīg</em> takes the <em>wāz</em> and the <em>zōt</em> performs the <em>aϑā ratuš</em> (= VrS93.2 <em>wāz grišnīh</em>). 
+            The <em>rāspīg</em> (has to recite) <em>sraošō iδā astū</em> until <em>uštəməmcit̰</em> (= VrS93.3a). (Then) the <em>zōt</em> (has to recite) <em>yaϑā</em> [100v] 
+            <em>ahū vairiiō yō atrauuaxšō frame mrute</em> and the <em>rāspīg</em> (to perform) <em>aϑā ratuš</em> to the end (= VrS93.3 <em>wāz grišnīh</em>). (Then) the <em>zōt</em> (has to recite) 
+            <em>auuaϑāt̰ iδa</em> until <em>ištō</em> (= VrS93.3b). (Then the <em>zōt</em> has to recite) <em>ahurəm mazdąm aṣ̌auuanəm aṣ̌ahe ratūm yzm</em> until <em>ratufritim yzm</em> 
+            (= VrS93.4) (and then) <em>uštauuaitīm hāitīm paitiiāpąm yzm mat̰.aβsmanąm</em> (~ VrS57.2), (then) until <em>aŋhuiiat̰ haca</em> (= VrS57.3b 9-10) <em>ušta ahurəm mazdąm yzm</em> 
+            (= VrS57.4a), (then) until <em>bušiiaṇtəmca</em> (= VrS57.5d 6) (and this) has to be recited twice (= VrS57.6). (Then he has to recite) <em>ātrə̄m ahurahe mazdā̊</em> (= VrS93.10, ~ VrS57.8) 
+            until <em>yeŋ́he hātąm</em> (= VrS93.12, VrS57.10) until the end. (Then) <em>yeŋ́he me</em> has to be recited six times as it is written (= VrS94).  (Then) <em>tąm yazāitəm</em>
+            (= VrS95) until the end. (Then) the <em>zōt</em> (has to recite) <em>aṣ̌əm vohū</em> three times (= VrS87.1) <em>aiβigərəδmahe apąm</em> (= VrS87.2) as it is written. When he
+            has recited <em>gaodiieheca narš aṣ̌aonō</em> (= VrS90.17b 7-9), (he has to recite) <em>aṣ̌aiiadaδąmi yasnahe haptaŋhātōiš</em>. When the <em>šnūman</em> has been performed
+            (= VrS92.27-28), (then they have to recite) <em>arəzahibiiō</em> (= VrS92.32) and until the Uštauuaitī (Hāiti) to the end (~ VrS92.33-VrS93) and also until <em>tąm yazāitəm</em>
+            (= VrS95) to the end (and) <em>pərəsat̰ frašaoštrō</em> (= VrS96)..."</ab>
+      </Nerang>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrDoHom18.2"/>
+   </translation>
+</text>

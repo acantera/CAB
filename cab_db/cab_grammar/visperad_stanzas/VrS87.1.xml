@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS87.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS87.1">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS87.1 (mss. 2005, 2007, 2010, 2030, 2101, 2102, 2104, 2106, 2109):</ab>
+         <ab class="ab_indent">
+            ka panǰag weh bēd yazišn ardā fraward ǰud az gāhānbār ud srōš tā abārīg <em>yā̊ vīsāδa</em> ō gōwišn ka gāhānbār ud srōš bēd nē gōwišn agar ardā farward padiš ka <em>yaōždātą</em>
+            guft pas zōt ud rāspīg <em>aṣ̌əm vohū</em> sē guftan I <em>frauuarāne</em> ud <em>hāuuanə̄e</em> ud <em>sāuuaŋhə̄e</em> ud <em>raθβąm</em> tā gyāg <em>ahurahe
+               mazdā̊ raeuuatō xᵛarənaŋᵛhatō aməšanąm spəṇtanąm aṣ̌āunąm frauuašinąm</em> tā <em>nabānazdištanąm frauuašanąm xšnaoϑra</em> tā sar guftan ka panǰag ī
+            gāhānīg bēd gāθābiiō tā sar guftan zōt <em>yaθā ahū vairiiō yō ātrauuaxšō</em> rāspīg <em>aθā ratuš</em> kardan hamrāspīg <em>yaθā ahū vairiiō yō zaōtā</em> zōt <em>
+               aϑā ratuš</em> kardan zōt ud rāspīg <em>ahurəm mazdąm raēuuaṇtəm xᵛarənaŋᵛhaṇtəm yazamaide aməṣ̌ā spəṇtā huxšaϑrā huδā̊ŋhō yazamaide frauuaṣ̌aiiō yazamaide yā̊ vīsāδa
+                  āuuaiieiṇti hamaspaϑmaēdaēm paiti ratūm</em> tā. <em>nəmaŋha</em> ka panǰag ī gāhānīg bēd <em>gāθā spəṇtā</em> tā sar gōwišn barsom abar barsomdān nihišn skūrag
+            ī zōhr abar gīrišn zōhr bē nigerišn <em>aṣ̌əm vohū</em> sē guftan</ab>  
+         <ab class="ab_indent">
+            "When it is (a performance during) the Five Good Days, a service for Ardā Fraward except for Gāhānbār or Srōš, he has to recite the text until the additional <em>yā̊ vīsāδa</em>.
+            When it is a ceremony for Gāhānbār or for Srōš, then he has not to recite this text. If the <em>frauuaṣ̌is</em> are mentioned (in the <em>šnūman</em>), then, when he has said 
+            <em>yaōždātą</em>, then the <em>zōt</em> and the <em>rāspīg</em> recite three <em>aṣ̌əm vohū</em>, then the <em>frauuarāne</em>. and the section <em>hāuuanə̄e</em> 
+            and the section <em>sāuuaŋhə̄e</em> and the section <em>raθβąm</em>. until (the <em>šnūman</em>) <em>ahurahe mazdā̊ raeuuatō xᵛarənaŋᵛhatō aməšanąm spəṇtanąm aṣ̌āunąm 
+               frauuašinąm</em> OD <em>nabānazdištanąm frauuašanąm xšnaoϑra</em> until the end. When they are the Five Days of the Gāθās, they should say <em>gāθābiiō</em> until the 
+            end. Then the <em>zōt</em> should say <em>yaθā ahū vairiiō yō ātrauuaxšō</em> and the <em>rāspīg</em> should answer <em>aθā ratuš</em>. The same <em>rāspīg</em>
+            should say: <em>yaθā ahū vairiiō yō zaōtā</em>. The zōt should answer: <em>aϑā ratuš</em>. The <em>zōt</em> and the <em>rāspīg</em> should recite togeher: <em>ahurəm 
+               mazdąm raēuuaṇtəm xᵛarənaŋᵛhaṇtəm yazamaide aməṣ̌ā spəṇtā huxšaϑrā huδā̊ŋhō yazamaide frauuaṣ̌aiiō yazamaide yā̊ vīsāδa āuuaiieiṇti hamaspaϑmaēdaēm paiti ratūm</em> until 
+            <em>nəmaŋha</em>. When they are the Five Days of the Gāθās, they should recite the section <em>gāθā spəṇtā</em>. He has to put the <em>barsom</em> on the <em>barsomdān</em>, 
+            take the <em>skūrag</em> for the <em>zōhr</em> and gaze at the <em>zōhr</em>. They should recite three <em>aṣ̌əm vohū</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS87.1"/>
+   </translation>
+</text>

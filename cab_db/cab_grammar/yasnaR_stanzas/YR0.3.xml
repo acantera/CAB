@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR0.3" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="YR0.5">
+        <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="YR0.5NerangTransc.a"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>zōt: vid. YR0.4 wāz gīrišnīh.</div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>YR0.3 Var. a (mss. 300, 355, 360, 370):</ab>
+            <ab class="ab_indent">
+                ō gāh ātrawaxšān šudan war ō ī ādurgāh ud barsom ud hamāg sāzišn xūb nigerīdan ud tarsāgāhīhā menīdan <em>aṣ̌əm vōhū</em> sē guftan</ab>  
+            <ab class="ab_indent">
+                He should go to the place of the <em>ātrawaxš</em> facing the <em>ātaxšgāh</em> and <em>barsom</em>. He should gaze carefully at all implements and think respectfully.
+                He shoul recite three <em>aṣ̌əm vohū</em>.</ab>
+            <ab>YR0.3 Var. b (ms. 365):</ab>
+            <ab class="ab_indent">
+                pīš. ātaš. īštāδan. <em>nəmsitē ātaraš mazdā̊ ahurahe haodā̊ mazšta yazata xšnaoϑra ahurahe mazdā̊ aṣ̌əm vōhū</em> sə̄</ab>
+            <ab class="ab_indent">
+                "He should stay before the fire. (He recites): <em>nəmsitē ātarš mazdå ahurahē haodå mazšta yazata xšnaōθra ahurahe mazdå</em> and three <em>aṣ̌əm vōhū</em>."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrYR0.3"/>
+    </translation>
+</text>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL12.4.4" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="4" xml:id="ParagnaLL12.4.4">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL12.4.4 (Ms. RJ):</ab>
+            <ab class="ab_indent">
+                <em>mazdā at̰ mōi vahištā srauuā̊scā š́iiaoϑanācā vaocā tā.tū vohū manaŋhā aṣ̌ācā iṣ̌udəm stūtō xšmākā xšaϑrā ahurā fəraṣ̌ə̄m vasnā haiϑiiə̄m dā̊ ahūm</em> in vačast čahār bār 
+                ḫᵛāndan hum va urvarān andar hāvan kuftan </ab>
+            <ab class="ab_indent">
+                "<em>mazdā at̰ mōi vahištā srauuā̊scā š́iiaoϑanācā vaocā tā.tū vohū manaŋhā aṣ̌ācā iṣ̌udəm stūtō xšmākā xšaϑrā ahurā fəraṣ̌ə̄m vasnā haiϑiiə̄m dā̊ ahūm</em>. He should recite this
+                stanza four times and pound the <em>hum</em> and <em>urvarām</em> in the <em>hāvan</em>."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL12.4.4"/>
+    </translation>
+</text>

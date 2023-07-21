@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL6.2.1" status="created">  <!-- created, approved, updated--> <header><creators><creator>Porro</creator><creator>Cantera</creator></creators><created>1 June 2019</created></header><div type="Stanza" sameAs="" n="1" xml:id="ParagnaLL6.2.1">
+                        <include href="/db/apps/cab_db/cab_rituals/blueprint/Khordeh_rituals/Nerang/NerZurGereftan" xpointer="NerZurGereftan2.1a"/>
+                        <include href="/db/apps/cab_db/cab_rituals/blueprint/Khordeh_rituals/Nerang/NerZurGereftan" xpointer="NerZurGereftan2.1b"/>
+                        <include href="/db/apps/cab_db/cab_rituals/blueprint/Khordeh_rituals/Nerang/NerZurGereftan" xpointer="NerZurGereftan2.1c"/>
+                        <include href="/db/apps/cab_db/cab_rituals/blueprint/Khordeh_rituals/Nerang/NerZurGereftan" xpointer="NerZurGereftan2.1d"/>
+                        <include href="/db/apps/cab_db/cab_rituals/nerang/khordeh_nerangs/NerZurGereftan_nerang" xpointer="NerZurGereftan2.1NerangTransc.a"/>
+                        <include href="/db/apps/cab_db/cab_rituals/blueprint/Khordeh_rituals/Nerang/NerZurGereftan" xpointer="NerZurGereftan2.1e"/>
+                        <include href="/db/apps/cab_db/cab_rituals/nerang/khordeh_nerangs/NerZurGereftan_nerang" xpointer="NerZurGereftan2.1NerangTransc.b"/>
+                        <include href="/db/apps/cab_db/cab_rituals/nerang/khordeh_nerangs/NerZurGereftan_nerang" xpointer="NerZurGereftan2.1NerangTransc.c"/>
+                    </div><Apparatus><Critical/><Commentary/></Apparatus><Parallels/><Ritual/><translation><include type="CAB" corresp="CABTrParagnaLL6.2.1"/></translation></text>

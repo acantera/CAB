@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL8.2.4" status="created">  <!-- created, approved, updated--> <header><creators><creator>Porro</creator><creator>Cantera</creator></creators><created>1 June 2019</created></header><div type="Stanza" sameAs="" n="4" xml:id="ParagnaLL8.2.4">
+                            <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+                            <include href="/db/apps/cab_db/cab_rituals/nerang/cluster_nerangs/Paragna_nerang" xpointer="ParagnaLL8.2.4NerangTransc.a"/>
+                        </div><Apparatus><Critical/><Commentary/></Apparatus><Parallels/><Ritual/><translation><include type="CAB" corresp="CABTrParagnaLL8.2.4"/></translation></text>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y72.2" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y72.2">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY72.2"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y72.2NerangTransc.a"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y72.2 Var. a (mss. 40, 88, 400, 410 (sec. m.), 2007, 2010, 2030, 2101, 2106, 4000, 4010, 4040, 4050, 5020):</ab>
+         <ab class="ab_indent">
+            <em>hamistaiiaēca nižbərətaiiaēca aṇgrahe mańiiə̄uš</em> ēn gyāg pad harw <em>hamistaiiaēca</em> grih-ē abar barsom zanišn pad zōt ud rāspīg dō abar azabar ēk abar azēr</ab> 
+         <ab class="ab_indent">
+            "<em>hamistaiiaēca nižbərətaiiaēca aṇgrahe mańiiə̄uš</em>. At this passage, at each <em>hamistaiiaēca</em>,  knots have to be tied on the <em>barsom</em> together by the 
+            <em>zōt</em> and the <em>rāspīg</em>: two above and one below."</ab>
+         <ab>Y72.2 Var. b (ms. 5): </ab>
+         <ab class="ab_indent">
+            pad <em>nižbərətaiiaēca</em> grih abar barsom zanišn zōt ud rāspīg harw dō guftan tā ō ī  <em>yə̄ hudā̊ yōi həṇti</em>.</ab>
+         <ab class="ab_indent">
+            "At <em>nižbərətaiiaēca</em>, knots have to be tied on the <em>barsom</em>. The <em>zōt</em> and the <em>rāspīg</em>, both, should recite until <em>yə̄ hudā̊ yōi həṇti</em>"</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY72.2"/>
+      <include type="W" corresp="WTrY72.2"/>
+      <include type="K" corresp="KTrY72.2"/>
+      <include type="D" corresp="DTrY72.2"/>
+   </translation>
+</text>

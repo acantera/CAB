@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR0.11" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="YR0.11">
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR0.11a"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>zōt ud rāspīg: vid. Y0.11.</div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <RecitationInstruction>
+            <ab>Vid. YR0.12.</ab> 
+        </RecitationInstruction>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>YR0.11 gāh (mss. 300, 360, 370):</ab>
+            <ab class="ab_indent">
+                <em>frauuarānē mazdaiiasnō zaraϑuštriš vīdaeuuō ahura⸳t̰kaēšō rapiϑβanāi aṣ̌aone aṣ̌ahe raϑβe y v xš fra raϑβąm</em> nē abāyēd guftan</ab> 
+            <ab class="ab_indent">
+                "(After) <em>frauuarānē mazdaiiasnō zaraϑuštriš vīdaeuuō ahura⸳t̰kaēšō rapiϑβanāi aṣ̌aone aṣ̌ahe raϑβe y v xš fra</em>., he must not say the <em>raθβąm</em>-section."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrYR0.11"/>
+    </translation>
+</text>

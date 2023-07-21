@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS11.9" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VrS11.9">
+        <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS11.9NerangTransc.a"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS3.1a"/>
+        <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS11.9NerangTransc.b"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS3.1b"/>
+        <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS11.9NerangTransc.c"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS3.1c"/>
+        <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS11.9NerangTransc.d"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS3.1d"/>
+        <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS11.9NerangTransc.e"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS3.1e"/>
+        <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS11.9NerangTransc.f"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS3.1f"/>
+        <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS11.9NerangTransc.g"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS3.1g"/>
+        <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS11.9NerangTransc.h"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS3.1h"/>
+        <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS11.9NerangTransc.i"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS3.1i"/>
+        <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS11.9NerangTransc.j"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS3.1j"/>
+        <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS11.9NerangTransc.k"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS3.1k"/>
+        <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS11.9NerangTransc.l"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS3.1l"/>
+        <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS11.9NerangTransc.m"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS3.1m"/>
+        <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS11.9NerangTransc.n"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS3.1n"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr1"/>
+        <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS11.9NerangTransc.o"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: vid. Nērangs, Quotations. Ankleasaria, Geldner.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab>VrS11.9c <em>ātrauuaxšəm</em>] Kellens (Bartholomae) <em>ātrəuuaxšəm</em>.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels>
+        <ab><em>dąhištəm aršuuacastəməm</em> ~ Y13.3, VrS11.13 <em>dąhištə̄ aršuuacastəmą</em>.</ab>
+    </Parallels>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>VrS11.9 Var. a (2007, 2010, 4050, 5020):</ab>
+            <ab class="ab_indent">
+                zōt gōwēd <em>hāuuanānəm āstāiia</em> rāspīg pad gāh ī hāwanān ud pad dast ī dašn ī zōt <em>azəm vīsāi</em> zōt gōwēd <em>ātrauuaxšəm āstāiia</em> rāspīg pad gāh ī 
+                ātrawaxš <em>azəm vīsāi</em> zōt gōwēd <em>frabərətārəm āstāiia</em> rāspīg pad gāh ī frabardārān <em>azəm vīsāi</em> zōt gōwēd <em>ābərətārəm āstāiia</em> rāspīg
+                pad gāh ī ābardān <em>azəm vīsāi</em> zōt gōwēd <em>āsnatārəm āstāiia</em> rāspīg pad gāh ī āsnudārān <em>azəm vīsāi</em> zōt gōwēd <em>raēϑβiškarəm āstāiia</em> 
+                rāspīg pad gāh ī rēhwiškarān <em>azəm vīsāi</em> zōt gōwēd <em>sraōšāuuarəzəm āstāiia dąhištəm aršuuacastəməm</em> rāspīg pad gāh ī srōšāwarzān <em>azəm. vīsāi.</em>
+                ham rāspīg az pāy guftan <em>yaϑā ahū vairiiō yō zaōtā frā.mē mrūtē</em> zōt <em>aϑā ratuš</em> kardan</ab>
+            <ab class="ab_indent">
+                "The <em>zōt</em> says: <em>hāuuanānəm āstāiia</em>. The <em>rāspīg</em> (says) at the place of the <em>hāwanān</em> and at the right hand of the <em>zōt</em>: 
+                <em>azəm vīsāi</em>. The <em>zōt</em> says: <em>ātrauuaxšəm āstāiia</em>. The <em>rāspīg</em> (says) at the place of the <em>ātrawaxš: azəm vīsāi</em>. The <em>zōt</em> says: 
+                <em>frabərətārəm āstāiia</em>. The <em>rāspīg</em> (says) at the place of the <em>frabardārān: azəm vīsāi</em>. The <em>zōt</em> says: <em>ābərətārəm āstāiia</em>. 
+                The <em>rāspīg</em> (says) at the place of the <em>ābardān: azəm vīsāi</em>. The <em>zōt</em> says: <em>āsnatārəm āstāiia</em>. The <em>rāspīg</em> (says) at the place
+                of the <em>āsnudārān: azəm vīsāi</em>. The <em>zōt</em> says: <em>raēϑβiškarəm āstāiia</em>. The <em>rāspīg</em> (says) at the place of the <em>rēhwiškarān: azəm vīsāi</em>. 
+                The zōt says <em>sraōšāuuarəzəm āstāiia dąhištəm aršuuacastəməm</em>. The <em>rāspīg</em> (says) at the place of the <em>srōšāwarzān: azəm vīsāi</em>. The same <em>rāspīg</em> 
+                should say standing: <em>yaϑā ahū vairiiō yō zaōtā frā.mē mrītē</em> and the <em>zōt</em> should make <em>aϑā ratuš</em>."</ab>
+            <ab>VrS11.9 Var. b (ms. 2109):</ab>
+            <ab class="ab_indent">zōt gōwēd <em>hāuuanānəm āstāiia</em> rāspīg pad gāh ī hāwanān
+                ud pad dast ī rāst <em>azəm vīsāi</em> zōt gōwēd <em>ātrauuaxšəm āstāiia</em> rāspīg pad gāh ī ātrawaxš <em>azəm vīsāi</em> zōt gōwēd
+                <em>frabərətārəm āstāiia</em> rāspīg pad gāh ī frabardārān <em>azəm vīsāi</em> zōt gōwēd <em>ābərətārəm āstāiia</em> rāspīg pad gāh ī
+                ābardarān <em>azəm vīsāi</em> zōt <em>āsnatārəm āstāiia</em> rāspīg pad gāh ī āsnudārān <em>azəm vīsāi</em> zōt <em>raēϑβiškarəm āstāiia</em> rāspīg
+                pad gāh ī rēhwiškarān azəm. vīsāi. zōt <em>sraōšāuuarəzəm āstāiia dąhištəm aršuuacastəməm</em> rāspīg pad gāh ī srōšāwarzān <em>azəm vīsāi</em> 
+                ham rāspīg az pāy guftan <em>yaϑā ahū vairiiō yō zaōtā frā.mē mrūtē</em> zōt <em>aϑā ratuš</em> kardan</ab>
+            <ab class="ab_indent">az nūn nigārag hangōšīdag ī urwēs ud ādurgāh zōt-iz ud rāspīg ēn kū gāh cīyōn abāyēd baxtan gāh ī hāwanān
+                ātrawaxšān frabardārān ābardān āsnudārān rēhwiškarān srōšāwarzān čē ēwēnag baxšīhēd ēn cīyōn abar nibišt
+                ēstēd rāspīgān har ēk pad gāh ī ēstād tā bowandag haftgāh cīyōn paydāgēnēd</ab>
+            <ab class="ab_indent">"The <em>zōt</em> says: <em>hāuuanānəm āstāiia</em>. The <em>rāspīg</em> (says) at the
+                place of the <em>hāwanān</em> and at the right hand : <em>azəm vīsāi</em>. The <em>zōt</em> says: <em>ātrauuaxšəm āstāiia</em>. The <em>rāspīg</em> (says) at the
+                place of the <em>ātrawaxš</em>: <em>azəm vīsāi</em>. The <em>zōt</em> says: <em>frabərətārəm āstāiia</em>. The <em>rāspīg</em> (says) at the place of the
+                <em>frabardārān</em>: <em>azəm vīsāi</em>. The <em>zōt</em> says: <em>ābərətārəm āstāiia</em>. 
+                The <em>rāspīg</em> (says) at the place of the <em>ābardān</em>: <em>azəm vīsāi</em>.
+                The <em>zōt</em> (says): <em>āsnatārəm āstāiia</em>. The <em>rāspīg</em> (says) at the place of the <em>āsnudārān</em>: <em>azəm vīsāi</em>. 
+                The <em>zōt</em> (says): <em>raēϑβiškarəm āstāiia</em>. The <em>rāspīg</em> (says) at the place of the <em>rēhbiškarān</em>: <em>azəm vīsāi</em>. 
+                The <em>zōt</em> (says): <em>sraōšāuuarəzəm āstāiia dąhištəm aršuuacastəməm</em>. The rāspīg (says) at the place of the <em>srōšāwarzān</em>: <em>azəm vīsāi</em>. 
+                The <em>rāspīg</em> should say standing: <em>yaϑā ahū vairiiō yō zaōtā frā.mē mrūtē</em> and the <em>zōt</em> should make <em>aϑā ratuš</em>"</ab>
+            <ab class="ab_indent">"From now on, this is the picture of the disposition of the <em>urwēs</em> and <em>ādurgāh</em> 
+                and so it is how the <em>zōt</em> and <em>rāspīg</em> have to distribute their places. 
+                The places of the <em>hāwanān ātrawaxšān frabardārān ābardān āsnudārān rēhwiškarān</em> and <em>srōšāwarzān</em> 
+                are distributed as it is written. Each <em>rāspīg</em> stays at his place until the end. The seven positions are as depicted."</ab>
+            
+            <ab>VrS11.9 Var. c (mss. 2030, 2040, 2101, 4000, 4010, 4020, 4025, 4040, 4045, 4050, 4161, 4162, 4030a):</ab>
+            <ab class="ab_indent">zōt gōwēd <em>hāuuanānəm āstāiia</em> rāspīg pad gāh ī hāwanān
+                ud pad nazdīk ī dast ī rāst ī zōt šawišn ud gōwišn <em>azəm vīsāi</em> zōt gōwēd <em>ātrauuaxšəm āstāiia</em> rāspīg pad gāh ī ātrawaxšān 
+                <em>azəm vīsāi</em> zōt gōwēd <em>frabərətārəm āstāiia</em> rāspīg pad gāh ī frabardārān pad nazdīk ī dast ī hōy ī zōt šudan ud guftan <em>azəm vīsāi</em> 
+                zōt gōwēd <em>ābərətārəm āstāiia</em> rāspīg pad gāh ī ābardān <em>azəm vīsāi</em> zōt <em>āsnatārəm āstāiia</em> rāspīg pad hgāh ī āsnudārān <em>azəm vīsāi</em> 
+                zōt <em>raēϑβiškarəm āstāiia</em> rāspīg pad gāh ī rēhwiškarān <em>azəm vīsāi</em> zōt <em>sraōšāuuarəzəm āstāiia dąhištəm aršuuacastəməm</em> 
+                rāspīg pad gāh ī srōšāwarzān <em>azəm vīsāi</em> ud ham ēdōn az pāy guftan <em>yaϑā ahū vairiiō yō zaōtā frā.mē mrūtē</em> zōt <em>aϑā ratuš</em> kardan</ab>
+                <ab class="ab_indent">az nūn nigārag hangōšīdag ī urwēs ud ādurgāh ud zōtiz ud rāspīg ēn kū gāh cīyōn abāyēd baxtan 
+                    gāh ī hāwanān ud ātrawaxšān ud frabardārān ud ābardān ud āsnudārān rēhwiškarān srōšāwarzān čē ēwēnag baxšīhēd ēn 
+                    cīyōn abar nibišt ēstēd rāspīgān har ēk pad gāh ī ēstād tā bowandag haftgāh cīyōn paydāgēnēd</ab>
+            <ab class="ab_indent">"The <em>zōt</em> says: <em>hāuuanānəm āstāiia</em>. The <em>rāspīg</em> has to go to
+                the place of the <em>hāwanān</em>, near to the right hand of the <em>zōt</em> and say: <em>azəm vīsāi</em> The <em>zōt</em> says: <em>ātrauuaxšəm āstāiia</em>.
+                The <em>rāspīg</em> (says) at the place of the <em>ātrawaxšān</em>: <em>azəm vīsāi</em>. The <em>zōt</em> (says): <em>frabərətārəm āstāiia</em>. 
+                The <em>rāspīg</em> should go to the place of the <em>frabardārān</em>, near to the left hand of the <em>zōt</em> and say: <em>azəm vīsāi</em>. 
+                The <em>zōt</em> (says): <em>ābərətārəm āstāiia</em>. The <em>rāspīg</em> (says) at the place of the  <em>ābardān</em>: <em>azəm vīsāi</em>. 
+                The <em>zōt</em> (says): <em>āsnatārəm āstāiia</em>. The <em>rāspīg</em> (says) at the place of the <em>āsnudārān</em>: <em>azəm vīsāi</em>. 
+                The <em>zōt</em> (says): <em>raēϑβiškarəm āstāiia</em>. The <em>rāspīg</em> (says) at the place of the <em>rēhbiškarān</em>: <em>azəm vīsāi</em>. 
+                The <em>zōt</em> (says): <em>sraōšāuuarəzəm āstāiia dąhištəm aršuuacastəməm</em>. 
+                The <em>rāspīg</em> (says) at the place of the <em>srōšāwarzān</em>: <em>azəm vīsāi</em>. 
+                And he himself should say standing: <em>yaϑā ahū vairiiō yō zaōtā frā.mē mrūtē</em> and the <em>zōt</em> should make <em>aϑā ratuš</em>."</ab>
+            <ab class="ab_indent">"From now on, this is the picture of the disposition of the <em>urwēs</em> and <em>ādurgāh</em>
+                and so it is how the <em>zōt</em> and <em>rāspīg</em> have to distribute their places. 
+                The places of the <em>hāwanān, ātrawaxšān, frabardārān, ābardān, āsnudārān, rēhwiškarān</em> and <em>srōšāwarzān</em> are distributed as it is
+                written. Each <em>rāspīg</em> stays at his place until the end. The even positions are as depicted.</ab>
+            
+            <ab>VrS11.9 Var. d (ms. 2065):</ab>
+            <ab class="ab_indent">pas rāspīg ō dašn ālag ī zōt ēstādan zōt kū <em>hāuuanānəm āstāiia</em> 
+                rāspīg guftan kū <em>azəm vīsāi</em> zōt guftan kū <em>ātruuaxšəm āstāiia</em> ātrawaxš pad gāh ham ī ātrawaxšān pāsoxēnīd kū <em>azəm vīsāi</em> 
+                ham pad dast ī rāspīg bar-ā-bār ī ātaxš gāh zōt guftan <em>frabərətārəm āstāiia</em> rāspīg pad dast ī čab ī zōt bar-ā-bar ī sar ī barsom pad gāh ī frabardārān
+                šudan ēn pāsox guftan <em>azəm vīsāi</em> zōt guftan kū <em>ābərətəm āstāiia</em> rāspīg pad dast ī čab ī zōt bar-ā-bar ataxš gāh pad ī gāh ī aberetān ēn guftan ku 
+                <em>azəm vīsāi</em> zōt guftan kū <em>āsnatārəm āstāiia</em> rāspig pad dast ī rāst ī zōt madyān ī ataxš ud barōm pad gāh āsnudārān ēn guftan ku <em>azəm vīsāi</em> 
+                zōt guftan kū <em>raϑβiškarəm āstāiia</em> rāspīg pad dast y čab ī zōt madyān ī ataxš barsom pad gāh rēhbiškar ēn guftan kū <em>azəm vīsāi</em> 
+                zōt guftan kū <em>sraošāuuarəzəm āstāiia dą̇hištəm aršuuacastəməm</em> rāspīg war ō warl ātaxš ud sar ī barsōm pad gāh ī srōšawarzān ēn guftan kū <em>azəm vīsāi</em> 
+                pas rāspīgān wāz gīrišn zōt <em>aϑā ratuš</em>.</ab>
+            <ab class="ab_indent">Then, the <em>rāspīg</em> should stand at the right hand of the <em>zōt</em>
+                and the <em>zōt</em> should say: <em>hāuuanānəm āstāiia</em>. The <em>rāspīg</em> should say: <em>azəm vīsāi</em>. 
+                The <em>zōt</em> should say: <em>ātruuaxšəm āstāiia</em>. The <em>ātrawaxš</em> at the proper place of the <em>ātrawaxšān</em> should answer: <em>azəm vīsāi</em>. 
+                Also at the side of the <em>rāspīg</em>, the <em>zōt</em> at the level of the fire, the <em>zōt</em> should say: <em>frabərətārəm āstāiia</em>. 
+                The <em>rāspīg</em> should go to the left hand of the <em>zōt</em>, opposite the end of the <em>barsom</em>, to the  place of the <em>frabardārān</em> 
+                and say this answer: <em>azəm vīsāi</em>. The <em>zōt</em> should say: <em>ābərətəm āstāiia</em>.  
+                The <em>rāspīg</em> should say the following at the left hand of the <em>zōt</em>, at the level of the <em>ātaxšgāh</em>, at the place of the <em>frabardārān</em>:
+                <em>azəm vīsāi</em>. The <em>zōt</em> should say: <em>āsnatārəm āstāiia</em>. The <em>rāspīg</em> should say the following at the right hand of the 
+                <em>zōt</em> between the fire and the <em>barsom</em>, at the place of the <em>āsnudārān</em>: <em>azəm vīsāi</em>. 
+                The <em>zōt</em> should say: <em>raϑβiškarəm āstāiia</em>. The <em>rāspīg</em> should say the following at the left hand of the <em>zōt</em>,
+                between the fire and the <em>barsom</em>, at the place of the <em>rēhwiškar</em>: <em>azəm vīsāi</em>. 
+                The <em>zōt</em> should say: <em>sraošāuuarəzəm āstāiia dą̇hištəm aršuuacastəməm</em>. 
+                The <em>rāspīg</em> should say the following face to face to the fire and to the end of the <em>barsom</em>: <em>azəm vīsāi</em>. 
+                Then, the <em>rāspīg</em> has to take the <em>wāz</em> and the <em>zōt</em> (to make) <em>aϑā ratuš</em>.</ab>
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+        <ab>Cf. N28.41 (cf. <bibl>Kotwal and Kreyenbroek, 2003</bibl> pp. 98-99:</ab>
+        <ab class="ab_indent">zōt ka <em>hāuanānəm āstāiia</em> nē gōwēd {ka nē pad kardag mad estēd} u-šān pad yašt ī keh be *rāyēnīd pad wīsparad ud bagān yasn šāyēd būdan 
+            rāspīg ka <em>azəm vīsāi</em> nē gōwēd ī pad kār andar yazišn pad tis-iz kār nē šāyēd ka ēk pad gāh-ē hamē be gōwēd pad hamāg kār šāyēd</ab>
+        <ab class="ab_indent">"If the <em>zōt</em> does not say <em>hāuanānəm āstāiia</em> {if it is not a cermony with <em>kardag</em>}, 
+            then they have arranged it as a <em>yašt ī keh</em>. 
+            This might happen in the Visperad or the Bagān Yašt. If the <em>rāspīg</em> does not say <em>azəm vīsāi</em> for his participation in the <em>yazišn</em>, 
+            he is not authorized for any function. If he says once in one <em>gāh</em>, he is authorized for any function."</ab>
+        
+        <ab>Cf. N64.1-3  (cf. <bibl>Kotwal and Kreyenbroek, 2003</bibl> pp. 274-275:</ab>
+        <ab class="ab_indent"><em>ẏasca aētaēšąm raθβą paoiriiō paiti.ā.jasāt̰ hāuuanānəm aētəm āstaiieiti bitīm ātrauuaxšəm ϑritīm frabərətārəm tūirīm 
+            *dānazuuāzəm  puxδəm āsnatārəm xštūm raēθβiškarəm haptaθəm sraōšāuuarəzəm</em>.</ab>
+        <ab class="ab_indent">"The one of the auxiliary priests who arrives first, the <em>zaōtar</em> appoints him as <em>hāuuanāna</em>, 
+            the second as <em>ātrauuaxša</em>, the third as <em>frabərətar </em>, the fourth as <em>dānazuuāza</em>, the fifth as <em>āsnatar</em>, 
+            the sixth as <em>raēθβiškara</em>, the seventh as <em>sraōšāuuarəza</em>."</ab>
+        </Quotations>
+        <ModernPractice id="ritualModernPractice">
+            <ab><ab><bibl>Redard and Daruwalla, 2021</bibl>, pp. 182-183:</ab>
+                <ab class="ab_indent">"The chief priest recites alone <em>hāuuanānəm āstāiia</em>. Standing on the right hand side of the chief priest, the assistant priest recites:
+                    <em>azəm vīsāi</em>. The chief priest recites alone <em>ātruuaxšəm āstāiia</em>. Standing on the right side of the chief priest facing the fire, 
+                    the assistant priest recites: <em>azəm vīsāi</em>. The chief priest recites alone: <em>frabərətārəm āstāiia</em>. Standing on the left hand side of the chief priest, 
+                    the assistant priest recites: <em>azəm vīsāi</em>. The chief priest recites alone: <em>ābərətəm āstāiia</em>. Standing on the left side of the chief priest facing the fire-place, 
+                    the assistant priest recites: <em>azəm vīsāi</em>. The chief priest recites alone: <em>āsnatārəm āstāiia</em>. Standing on the right side of the chief priest 
+                    between the seat of the chief priest and the fireplace, the assistant priest recites: <em>azəm vīsāi</em>. The chief priest recites alone: <em>raēϑβiškarəm āstāiia</em>.
+                    Standing on the left side of the chief priest between the seat of the chief priest and the fireplace, the assistant priest recites: <em>azəm vīsāi</em>.
+                    The chief priest recites alone: <em>sraōšāuuarəzəm āstāiia dąhištəm aršuuacastəməm</em>. Standing in front of the chief priest near the plate of the fire, 
+                    the assistant priest recites: <em>azəm vīsāi</em>.</ab></ab>
+        </ModernPractice>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrVrS11.9"/>
+    </translation>
+</text>

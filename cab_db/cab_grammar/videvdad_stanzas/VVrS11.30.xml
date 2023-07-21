@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS11.30" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="VrS11.30" xml:id="VVrS11.30" quote="Y51.23, Y51.24a">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS3.11a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS3.11b"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS3.11c"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS3.11d"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/videvdad_nerang" xpointer="VVrS11.30NerangTransc.a"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt̰ ud rāspīg: vid. VVrS11.28.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Var. b (mss. 4025):</ab>
+         <ab class="ab_indent" n="NerangTransc.a" xml:id="VrS11.30NerangTransc.a" xml:lang="Pahl"><em>tąn yazāi</em> ēn gyāg ǰām abāz baxšišn <em>xᵛāiš
+            nāmə̄nīš pairicā jasāi</em></ab>
+         <ab class="ab_indent" n="NerangEnglish.a" xml:id="VrS11.30NerangEnglish.a">"<em>tąn yazāi</em> at this passage, he has to divide the <em>ǰām</em> again <em>xᵛāiš
+            nāmə̄nīš pairicā jasāi</em>"</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS11.30"/>
+   </translation>
+</text>

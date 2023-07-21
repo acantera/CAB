@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS29.4" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y25.4" xml:id="VVrS29.4">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanAcc" xpointer="ShnumanAcc19"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY26.1"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: Šnūman, vid. VrS29.1; zōt: VVrS29.4a-b, vid. Y25.4.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>VVrS29.4] ms. 4240 attests only Šn. Frauuaṣ̌i.</ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab>VVrS29.4ShnumanAcc.a <em>sraōšəm aṣ̌īm</em> ...] <em>sraōšəm aṣ̌īm</em> ... (VVrS29.4, VVrS30.11-13) HT' hšnwmn' LA slwš YHWWNyt' ẔK Y YHWWNyt' hšnwmn' gwptn' HT ʾltʾplwlt YHWWNyt' cygwn
+            (VVrS29.3) <em>mazdaδāta aṣ̌a.ciϑra y.</em> gwpt' HWEd (VVrS29.4) <em>ahurəm mazdąm</em> ... <em>zbaiiemi ufiiemi [yazamaide]</em> OD <em>[vīspā̊] frauuašaiiō</em> (VVrS30.10) 4000;
+            <em>sraōšəm aṣ̌īm</em> ... (VVrS29.4, VVrS30.11-13) HT' hšnmn' LA slwš YHWWNyt' ẔK Y YHWWNyt' hšnwmn' gwptn' W HT ʾltʾplwlt YHWWNyt' cygwn
+            (VVrS29.3) <em>mazdaδāta aṣ̌aciϑra y.</em> gwptn (VVrS29.4) <em>ahurəm mazdąm</em> ... <em>[u]fiiemi y.</em> OD OL Y (ms. 4045 only OD) <em>vīspā̊ frauuašaiiō</em> (VVrS30.10) 4010, 4045;
+            <em>sraōšəm aṣ̌īm</em> ... (VVrS29.4, VVrS30.11-13) HT' hšnmn' LA slwš YHWWNyt' ẔK Y YHWWNyt' gwptn' W HT ʾltʾplwlt YHWWNyt' cygwn (VVrS29.3) <em>mazdaδāta aṣ̌a.ciϑra yaz.</em> (VVrS29.4) <em>ahurəm mazdąm</em>
+            ... <em>ufiiemi yaz.</em> OD sl (mss. 4161, 4162 only OD) <em>vīspā̊ frauuašaiiō</em> (VVrS30.10) 4020, 4161, 4162;
+            HT hšnmn' slwš YHWWNyt' <em>sraōšəm aṣ̌īm</em> ... (VVrS29.4, VVrS30.11-13) HT' hšnmn' LA slwš YHWWNyt' ẔK Y YHWWNyt' gwptn' W HT ʾltʾplwlt YHWWNyt' cygwn (VVrS29.3) <em>mazdaδāta aṣ̌a.ciϑra yaz.</em> (VVrS29.4) <em>ahurəm mazdąm</em> ... 
+            <em>yaz. nmāniiā̊</em> OD OL Y <em>vīspā̊ frauuaṣ̌iiō</em> (VVrS30.10) 4025; hšnwmn' MN ẔK Y byt' wcʾltn' HT' hšnwmn' <em>sraōšəm aṣ̌ə̄m</em> ... (VVrS29.4, VVrS30.11-13) (then Šn. Frauuaṣ̌i and) <em>y. nmāniiā̊</em> OD OL Y 
+            <em>vūspā̊ frauuaṣ̌aiiō</em> (VVrS30.10) 4040; <em>sraōšəm aṣ̌īm</em> ... (VVrS29.4, VVrS30.11-13) HT' hšnmn LA slwš YHWWN-yt ZK YHWWN-yt gwptn' Q̱DM hm ptysʾl HT' ʾltʾplwlt YHWWN-yt cygwn
+            (VVrS29.3) <em>mazdaδāta aṣ̌a.ciϑra y.</em> (VVrS29.4) <em>ahurəm mazdąm</em> ... <em>ufiiemi y.</em> OD OL Y <em>vīspā̊ frauuaṣ̌aiiō</em> (VVrS30.10) 4050; <em>huruδəm vərəϑrāzanəm</em> OD <em>tā̊scā yaz.</em> (VVrS30.13) 4220. </ab>
+         <ab>VVrS29.4b <em>yazamaide nmāńiiā̊</em> ...] <em>y.</em> OD <em>vīspā̊ frauuašiiō</em> (VVrS30.10) 4240.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VVrS29.4 Var. a (mss. 4000, 4010, 4020, 4050, 4055, 4060, 4063, 4162):</ab>
+         <ab class="ab_indent">
+            <em>sraōšəm aṣ̌īm huraōδəm vərəϑrājanəm frādat̰.gaēϑəm aṣ̌auuanəm aṣ̌ahe ratūm yazamaide
+               ... yeŋ́hē hātąm</em> tā sar guftan ka xšnūman nē srōš bēd ān ī bēd guftan agar ardā
+            fraward bēd čīyōn (VVrS29.3) <em>mazdaδāta aṣ̌a.ciθra yazamaide</em> guft (VVrS29.4) <em>ahurəm mazdąm
+               raēuuaṇtəm xᵛarənaŋᵛhaṇtəm yazamaide aməṣ̌ā spəṇtā huxšaϑrā.huδā̊ŋhō yazamaide
+               aṣ̌āunąm vaŋᵛhīš sūrā̊ spə̄ntā̊ frauuaṣ̌aiiō staōmi zbaiiemi ufiiemi ... vīspā̊
+               frauuaṣ̌aiiō aṣ̌āunąm yazamaide</em>.</ab>
+         <ab class="ab_indent"> "<em>sraōšəm aṣ̌īm huraōδəm vərəϑrājanəm frādat̰.gaēϑəm aṣ̌auuanəm
+               aṣ̌ahe ratūm yazamaide ... yeŋ́hē hātąm</em> he should say it until the end. If ot is
+            not the <em>šnūman</em> for Srōš, he should say the corresponding one. If it is the one
+            for Ardā Fraward, when they have said (VVrS29.3) <em>mazdaδāta aṣ̌a.ciθra yazamaide</em>, he should
+            say (VVrS29.4) <em>ahurəm mazdąm raēuuaṇtəm xᵛarənaŋᵛhaṇtəm yazamaide aməṣ̌ā spəṇtā
+               huxšaϑrā.huδā̊ŋhō yazamaide aṣ̌āunąm vaŋᵛhīš sūrā̊ spə̄ntā̊ frauuaṣ̌aiiō staōmi
+               zbaiiemi ufiiemi</em> ... (VVrS30.10) <em>vīspā̊ frauuaṣ̌aiiō aṣ̌āunąm yazamaide</em>.</ab>
+
+         <ab>VVrS29.4 Var. b (ms. 4040):</ab>
+         <ab class="ab_indent"> ... (VVrS29.3) <em>vīspaca vohu mazdaδāta aṣ̌a.ciθra yazamaide</em> hōm ud
+            urwarām andar hāwan abganišn xšnūman ān ī bēd wizārdan agar xšnūman (VVrS29.4) <em>sraōšəm aṣ̌īm
+               huraōδəm vərəϑrājanəm frādat̰.gaēϑəm aṣ̌auuanəm aṣ̌ahe ratūm yazamaide</em> (VVrS30.11) <em>ϑβąm ātrəm
+               ahurahe mazdā̊ puϑrəm aṣ̌auuanəm aṣ̌ahe ratūm yazamaide ... haδa.zaōϑrəm</em>.</ab>
+         <ab class="ab_indent"> "... (VVrS29.3) <em>vīspaca vohu mazdaδāta aṣ̌a.ciθra yazamaide</em>. He has to
+            throw <em>hōm</em> and <em>urwarām</em> into the <em>hāwan</em>. They should perform the
+            corresponding <em>šnūman</em>. If the <em>šnūman</em> is (the <em>šnūman</em> of Srōš,
+            they should recite) (VVrS29.4) <em>sraōšəm aṣ̌īm huraōδəm vərəϑrājanəm frādat̰.gaēϑəm aṣ̌auuanəm
+               aṣ̌ahe ratūm yazamaide</em>, (then they continue with) (VVrS30.11) <em>ϑβąm ātrəm ahurahe mazdā̊
+               puϑrəm aṣ̌auuanəm aṣ̌ahe ratūm yazamaide ... haδa.zaōϑrəm</em> ..."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS29.4"/>
+   </translation>
+</text>

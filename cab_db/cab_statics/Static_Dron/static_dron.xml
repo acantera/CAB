@@ -1,0 +1,3004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <text>
+        <div id="DrYt1.0" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt1.0</h4>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt1.0', '')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt1.0', '0', '' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class=""/>
+                <p class="">
+                    <ab xml:id="DrYt1.0a">xšnaōϑra. ahurahe. mazdā̊.</ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt1.1" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt1.1</h4>
+            <h5 style="display:inline-block">
+                <prl>= YR0.1 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt1.1', '')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt1.1', '0', '' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p>
+                    <p>
+                        <ab type="prayer" xml:id="AV">
+        <ab xml:id="AV.a">
+                                <l>aṣ̌əm. vohū. vahištəm. astī.</l>
+                            </ab>
+        <ab xml:id="AV.b">
+                                <l>uštā. astī. uštā. aɱāi.</l>
+                            </ab>
+        <ab xml:id="AV.c">
+                                <l>hiiat̰. aṣ̌āi. vahištāi. aṣ̌əm.</l>
+                            </ab>
+    </ab>
+                        <note class="times">[ 3x ]</note>
+                    </p>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt1.2" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt1.2</h4>
+            <h5 style="display:inline-block">(#GY3.1 #GY3.2)</h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt1.2', '#GY3.1 #GY3.2')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt1.2', '0', '#GY3.1 #GY3.2' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="1" type="Stanza" xml:id="DrYt1.1" corresp="#GY3.1 #GY3.2">
+                        <ab xml:id="DrYt1.1a">barəsmana. daϑušō. ahurahe. mazdā̊. raēuuatō.
+                            xᵛarənaŋᵛhatō. maińiiə̄uš. maińiiaōiiehe. aməṣ̌anąm. spəṇtanąm.  xᵛarəϑəm. miiazdəm. āiiese. yešti. hauruuata.
+                            amərətāta. gāuš. hudā̊. āpə̄. uruuara. aēsma. baōδi. xšnūmaine. ahurahe. mazdā̊. aməṣ̌anąm. spəṇtanąm. xšnūmaine. sraōšahe. aṣ̌iiehe. āϑrō. ahurahe.
+                            mazdā̊. raϑβō. bərəzatō. yō. aṣ̌ahe.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt1.3" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt1.3</h4>
+            <h5 style="display:inline-block">(#GY3.5)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y3.5 YR3.5 VrS3.5 ≈ VVrS3.6 VytVrS3.6</prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt1.3', '#GY3.5')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt1.3', '0', '#GY3.5' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="in1lineblock">
+                    <ab xml:id="DrYt1.2a">āiiese. yešti. asńiiaēibiiō. aṣ̌ahe. ratubiiō.</ab>
+                </p>
+                <p class="in1line">
+                    <span class="note red_nofloat">[Gāh] </span>
+                    <ab xml:id="RatuLetDat2.1" type="verse">
+                    hāuuanə̄e. aṣ̌aōne. aṣ̌ahe. raϑβe.
+                </ab>
+                </p>
+                <p class="in1lineblock">
+                    <ab xml:id="DrYt1.2b">āiiese. yešti. </ab>
+                </p>
+                <p class="in1line">
+                    <span class="note red_nofloat">[Gāh] </span>
+                    <ab xml:id="RatuLetDat2.2" type="verse">
+                    sāuuaŋhə̄e. vīsiiāica. aṣ̌aōne. aṣ̌ahe. raϑβe.
+                </ab>
+                </p>
+                <p class="in1lineblock">
+                    <ab xml:id="DrYt1.2c"> āiiese. yešti. </ab>
+                </p>
+                <p class="in1line">
+                    <span class="note red_nofloat">[Gāh] </span>
+                    <ab xml:id="RatuLetDat2.3" type="verse">
+                    miϑrahe. vouru.gaōiiaōtōiš. hazaŋhrō.gaōšahe. baēuuarə.cašmanō. aōxtō.nāmanō. yazatahe. rāmanō. xᵛāstrahe.
+                </ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt1.4" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt1.4</h4>
+            <h5 style="display:inline-block">(#GY3.13)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y3.14 YR3.6 VrS3.14 VVrS3.9 VytVrS3.9 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt1.4', '#GY3.13')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt1.4', '0', '#GY3.13' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="in1lineblock">
+                    <ab xml:id="DrYt1.3a">āiiese. yešti.</ab>
+                </p>
+                <p class="in1line">
+                    <span class="note red_nofloat">[Rōz] </span>
+                    <ab xml:id="RozGen1" type="RozGen">
+                ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō.
+            </ab>
+                </p>
+                <p class="in1lineblock">
+                    <ab xml:id="DrYt1.3b">āiiese. yešti. </ab>
+                </p>
+                <p class="in1line">
+                    <span class="note red_nofloat month">[Māh] </span>
+                    <ab xml:id="MahGen1" type="MahGen"> aṣ̌āunąm. frauuaṣ̌inąm. </ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt1.5" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt1.5</h4>
+            <h5 style="display:inline-block">(#GY3.14)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y3.15 YR3.7 VrS3.15 VVrS3.10 VytVrS3.10 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt1.5', '#GY3.14')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt1.5', '0', '#GY3.14' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class=""/>
+                <p class="">
+                    <div n="4" type="Stanza" xml:id="DrYt1.4" corresp="#GY3.14">
+                        <ab xml:id="DrYt1.4a">āiiese. yešti. tauua. āϑrō. ahurahe. mazdā̊. puϑra.
+                            mat̰. vīspaēibiiō. ātərəbiiō.</ab>
+                        <ab xml:id="DrYt1.4b">āiiese. yešti. aiβiiō. vaŋᵛhībiiō. vīspanąmca. apąm.
+                            mazdaδātanąm. vīspanąmca. uruuaranąm. mazdaδātanąm.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt1.6" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt1.6</h4>
+            <h5 style="display:inline-block">(#GY3.15)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y3.16 YR3.8 VrS3.16 VVrS3.11 VytVrS3.11 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt1.6', '#GY3.15')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt1.6', '0', '#GY3.15' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="5" type="Stanza" xml:id="DrYt1.5" corresp="#GY3.15">
+                        <ab xml:id="DrYt1.5a"> āiiese. yešti. mąϑrahe. spəṇtahe. aṣ̌aōnō.
+                            vərəziiaŋᵛhahe. dātahe. vīdaēuuahe. dātahe. zaraϑuštrōiš. darəγaiiā̊.
+                            upaiianaiiā̊. daēnaiiā̊. vaŋhuiiā̊. māzdaiiasnōiš.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt1.7" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt1.7</h4>
+            <h5 style="display:inline-block">(#GY3.16)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y3.17 YR3.9 VrS3.17 VVrS3.12 VytVrS3.12 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt1.7', '#GY3.16')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt1.7', '0', '#GY3.16' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="6" type="Stanza" xml:id="DrYt1.6" corresp="#GY3.16">
+                        <ab xml:id="DrYt1.6a">āiiese. yešti. garōiš. ušidarənahe. mazdaδātahe.
+                            aṣ̌axᵛāϑrahe. vīspaēšąmca. gairinąm. aṣ̌axᵛāϑranąm. pouru.xᵛāϑranąm.
+                            mazdaδātanąm. kāuuaiieheca. xᵛarənaŋhō. mazdaδātahe. axᵛarətaheca.
+                            xᵛarənaŋhō. mazdaδātahe. </ab>
+                        <ab xml:id="DrYt1.6b">āiiese. yešti. aṣ̌ōiš. vaŋhuiiā̊. cistōiš. vaŋhuiiā̊.
+                            ərəϑə̄. vaŋhuiiā̊. rasąstātō. vaŋhuiiā̊. xᵛarənaŋhō. sauuaŋhō.
+                            mazdaδātahe.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt1.8" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt1.8</h4>
+            <h5 style="display:inline-block">(#GY3.17)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y3.18 YR3.10 VrS3.18 VVrS3.13 VytVrS3.13 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt1.8', '#GY3.17')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt1.8', '0', '#GY3.17' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="7" type="Stanza" xml:id="DrYt1.7" corresp="#GY3.17">
+                        <ab xml:id="DrYt1.7a"> āiiese. yešti. daɱaiiā̊. vaŋhuiiā̊. āfritōiš.
+                            daɱaheca. narš. aṣ̌aōnō. uγraheca. taxmahe. dāmōiš. upamanahe.
+                            yazatahe.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt1.9" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt1.9</h4>
+            <h5 style="display:inline-block">(#GY3.18)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y3.19 YR3.11 VrS3.19 VVrS3.14 VytVrS3.14 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt1.9', '#GY3.18')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt1.9', '0', '#GY3.18' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="8" type="Stanza" xml:id="DrYt1.8" corresp="#GY3.18">
+                        <ab xml:id="DrYt1.8a"> āiiese. yešti. ā̊ŋhąm. asaŋhąmca. šōiϑranąmca.
+                            gaōiiaōitinąmca. maēϑananąmca. auuō.xᵛarənanąmca. apąmca. zəmąmca.
+                            uruuaranąmca. aŋ́hā̊sca. zəmō. auuaŋ́heca. ašnō. vātaheca. aṣ̌aōnō.
+                            strąm. mā̊ŋhō. hūrō. anaγranąm. raōcaŋhąm. xᵛaδātanąm. vīspanąmca.
+                            spəṇtahe. maińiiə̄uš. dāmanąm. aṣ̌aōnąm. aṣ̌aōninąmca. aṣ̌ahe.
+                            raϑβąm.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt1.10" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt1.10</h4>
+            <h5 style="display:inline-block">(#GY3.20)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y3.21 YR3.12 VrS3.21 VVrS3.16 VytVrS3.16 ≈ = Y3.22 YR3.13 VrS3.22 VVrS3.17 VytVrS3.17 ≈</prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt1.10', '#GY3.20')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt1.10', '0', '#GY3.20' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="in1lineblock">
+                    <ab xml:id="DrYt1.9a"> xᵛarəϑəm. miiazdəm. āiiese. yešti. hauruuata.
+                            amərətāta. gāuš. hudā̊. apə̄. uruuara. aēsma. baōδi. xšnūmaine.</ab>
+                </p>
+                <p class="in1line">
+                    <span class="note red_nofloat">[Šnūman] </span>
+                    <ab xml:id="ShnumanGen21a">ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab>
+                    <ab xml:id="ShnumanGen21b">aṣ̌āunąm. frauuaṣ̌inąm. uγranąm. aiβiϑūranąm. paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm.
+            nabānazdištanąm. frauuaṣ̌inąm.</ab>
+                </p>
+                <p class="in1line">
+                    <ab xml:id="DrYt1.9b">aōxtō.nāmanō. yazatahe.</ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt1.11" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt1.11</h4>
+            <h5 style="display:inline-block">(#GY3.20)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y3.23 YR3.14 VrS3.23 VVrS3.18 VytVrS3.18 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt1.11', '#GY3.20')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt1.11', '0', '#GY3.20' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="in1lineblock">
+                    <ab xml:id="DrYt1.10a"> xᵛarəϑəm. miiazdəm. āiiese. yešti. hauruuata.
+                            amərətāta. gāuš. hudā̊. apə̄. uruuara. aēsma. baōδi. xšnūmaine.</ab>
+                </p>
+                <p class="in1line">
+                    <span class="note red_nofloat">[Šnūman] </span>
+                    <ab xml:id="ShnumanGen21a">ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab>
+                    <ab xml:id="ShnumanGen21b">aṣ̌āunąm. frauuaṣ̌inąm. uγranąm. aiβiϑūranąm. paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm.
+            nabānazdištanąm. frauuaṣ̌inąm.</ab>
+                </p>
+                <p class="in1line">
+                    <ab xml:id="DrYt1.10b">aōxtō.nāmanō. yazatahe.</ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt1.12" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt1.12</h4>
+            <h5 style="display:inline-block">( #GY23.1)</h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt1.12', ' #GY23.1')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt1.12', '0', ' #GY23.1' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <ab xml:id="DrYt1.11a">āiiese. yešti. auuaŋ́hā̊. frauuaṣ̌aiiō. yā̊. paōiriia.
+                            ā̊ŋharə. nmānanąmca. vīsąmca. zaṇtunąmca. dax́iiunąmca. yā̊. asmanəm. vīδāraiiən. yā̊. āpəm. vīδaraiiən. yā̊.
+                            ząm. vīδāraiiən. yā̊. gąm. vīδāraiiən. yā̊. barəϑrišuua. puϑrə̄. vīδāraiiən.
+                            paiti.vərətə̄. apara.iriϑəṇtō.</ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt1.13" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt1.13</h4>
+            <h5 style="display:inline-block">(#GY23.2)</h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt1.13', '#GY23.2')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt1.13', '0', '#GY23.2' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <ab xml:id="DrYt1.11b">āiiese. yešti. āfrauuaṣ̌i. ahurahe. mazdā̊.
+                            aməṣ̌anąm. spəṇtanąm. mat̰. vīspābiiō. aṣ̌aōnibiiō. frauuaṣ̌ibiiō. yā̊.
+                            maińiiauuanąm. yazatanąm. </ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt1.11c">āiiese. yešti. āfrauuaṣ̌i. gaiiehe. marəϑnō.
+                            zaraϑuštrahe. spitāmahe. kauuōiš. vīštāspahe. isat̰.vāstrahe.
+                            zaraϑuštrōiš. mat̰. vīspābiiō. aṣ̌aōnibiiō. frauuaṣ̌ibiiō. yā̊.
+                            paōiriianąm. t̰kaēšanąm.</ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt1.14" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt1.14</h4>
+            <h5 style="display:inline-block">(#GY23.3)</h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt1.14', '#GY23.3')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt1.14', '0', '#GY23.3' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <ab xml:id="DrYt1.11d">āiiese. yešti. vīspaiia. aṣ̌auuane. frauuaṣ̌e. ke.
+                            asti. kuuacit̰. aŋ́hā̊. zəmō. para.irista. daɱi. nāirike. apərənāiiūke.
+                            kainike. vāstriiāuuarəzi. upa.šaēta. haca. aɱāt̰. nmānāt̰. iziieiṇti.
+                            yā̊. paitišmarəṇti. yā̊. aiβināsəṇti. vaŋhūš. yasnąsca. vaɱąsca.</ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt1.15" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt1.15</h4>
+            <h5 style="display:inline-block">(#GY3.22)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y3.24 YR3.15 VrS3.24 VVrS3.19 VytVrS3.19 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt1.15', '#GY3.22')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt1.15', '0', '#GY3.22' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="12" type="Stanza" xml:id="DrYt1.12" corresp="#GY3.22">
+                        <ab xml:id="DrYt1.12a"> āiiese. yešti. aṣ̌āunąm. frauuaṣ̌inąm. uγranąm.
+                            aiβiϑūranąm. paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm. nabānazdištanąm.
+                            frauuaṣ̌inąm.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt1.16" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt1.16</h4>
+            <h5 style="display:inline-block">(#GY3.23b)</h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt1.16', '#GY3.23b')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt1.16', '0', '#GY3.23b' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="13" type="Stanza" xml:id="DrYt1.13" corresp="#GY3.23b">
+                        <ab xml:id="DrYt1.13a"> āiiese. yešti. vīspaēibiiō. vaŋhuδābiiō.
+                            yazataēibiiō. maińiiaōibiiascā. gaēϑiiaēibiiascā. yōi. həṇti.
+                            yasńiiāca. vaɱiiāca. aṣ̌āt̰. haca. yat̰. vahištāt̰.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt2.0" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt2.0</h4>
+            <h5 style="display:inline-block">(#GY3.24-25)</h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt2.0', '#GY3.24-25')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt2.0', '0', '#GY3.24-25' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <div type="Frauuarane" xml:id="Frauuarane_BP16">
+                    <span class="frauuarane note red">[Frauuarāne] </span>
+                    <p>
+                        <ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō. ahura.t̰kaēšō.</ab>
+                        <p>
+                            <span class="note red">[Gāh] </span>
+                            <ab xml:id="RatuFra2" type="RatuFra">
+                                <ab xml:id="RatuFra2.a">hāuuanə̄e. aṣ̌aōne. aṣ̌ahe. raϑβe. yasnāica. vaɱāica.
+        xšnaōϑrāica. frasastaiiaēca.</ab> <ab xml:id="RatuFra2.b">sāuuaŋhə̄e. vīsiiāica. aṣ̌aōne. aṣ̌ahe. raϑβe. yasnāica.
+        vaɱāica. xšnaōϑrāica. frasastaiiaēca. </ab>
+                            </ab>
+                        </p>
+                        <p>
+                            <ab xml:id="WazGr4" type="WazGr">
+    <note anchored="true">zōt </note> yaϑā. ahū. vairiiō. zaōtā. frā.mē. mrūtē. aϑā. ratuš.
+    aṣ̌āt̰cīt̰. hacā. frā. aṣ̌auuā. vīδuuā̊. mraōtū.</ab>
+                        </p>
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div id="DrYt2.1" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt2.1</h4>
+            <h5 style="display:inline-block">(#GY4.1)</h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt2.1', '#GY4.1')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt2.1', '0', '#GY4.1' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="2" type="Stanza" xml:id="DrYt2.2" corresp="#GY4.1">
+                        <ab xml:id="DrYt2.2a"> ima. humatāca. hūxtāca. huuarštāca. </ab>
+                        <ab xml:id="DrYt2.2b">imą. miiazdąsca. zaōϑrā̊sca. 
+                            hauruuata. amərətāta. gąmca. huδā̊ŋhəm. apəmca. uruuarąm. aēsmąsca. baōiδīmca. pairica. dadəmahi. āca.
+                            vaēδaiiamahi.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt2.2" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt2.2</h4>
+            <h5 style="display:inline-block">(#GY4.2)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y4.2 YR4.2 VrS4.2 VVrS4.2 VytVrS4.2 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt2.2', '#GY4.2')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt2.2', '0', '#GY4.2' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="3" type="Stanza" xml:id="DrYt2.3" corresp="#GY4.2">
+                        <ab xml:id="DrYt2.3a"> āat̰. dīš. āuuaēδaiiamahi. ahurāica. mazdāi. sraōšāica. aṣ̌iiāi.
+                            aməṣ̌aēibiiasca. spəṇtaēibiiō. aṣ̌āunąmca. frauuaṣ̌ibiiō. aṣ̌āunąmca.
+                            uruuōibiiō. āϑraēca. ahurahe. mazdā̊. raϑβaēca. bərəzaite. vīspaiiā̊.
+                            sącat̰ca. aṣ̌aōnō. stōiš. yasnāica. vaɱāica. xšnaōϑrāica.
+                            frasastaiiaēca.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt2.3" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt2.3</h4>
+            <h5 style="display:inline-block">(#GY4.3)</h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt2.3', '#GY4.3')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt2.3', '0', '#GY4.3' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="4" type="Stanza" xml:id="DrYt2.4" corresp="#GY4.3">
+                        <ab xml:id="DrYt2.4a">āat̰. dīš. āuuaēδaiiamahi. ima. humatāca. hūxtāca.
+                            huuarštāca.</ab>
+                        <ab xml:id="DrYt2.4b">imą. miiazdąsca. zaōϑrā̊sca. hauruuata. amərətāta.
+                            gąmca. huδā̊ŋhəm. apəmca. uruuarąm. aēsmąsca. baōiδīmca. pairica. dadəmahi. āca.
+                            vaēδaiiamahi.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt2.4" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt2.4</h4>
+            <h5 style="display:inline-block">(#GY4.4)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y4.4 YR4.4 VrS4.4 VVrS4.4 VytVrS4.4 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt2.4', '#GY4.4')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt2.4', '0', '#GY4.4' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="5" type="Stanza" xml:id="DrYt2.5" corresp="#GY4.4">
+                        <ab xml:id="DrYt2.5a"> āat̰. dīš. āuuaēδaiiamahi. aməṣ̌aēibiiō.
+                            spəṇtaēibiiō. huxšaϑraēibiiō. huδābiiō. yauuaējibiiō. yauuaēsubiiō.  yōi. vaŋhə̄uš. ā. manaŋhō. š́iieiṇti. yā̊sca.
+                            uiti.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt2.5" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt2.5</h4>
+            <h5 style="display:inline-block">(#GY4.5)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y4.5 YR4.5 VrS4.5 VVrS4.5 VytVrS4.5 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt2.5', '#GY4.5')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt2.5', '0', '#GY4.5' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="6" type="Stanza" xml:id="DrYt2.6" corresp="#GY4.5">
+                        <ab xml:id="DrYt2.6a"> āat̰. dīš. āuuaēδaiiamahi. frāiiehīš. ahe. nmānahe.
+                            fradaϑāi. ahe. nmānahe. pasuuąmca. narąmca. zātanąmca. ząhiiamnanąmca.
+                            aṣ̌aōnąm. yeŋ́he. aēm. həṇti.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt2.6" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt2.6</h4>
+            <h5 style="display:inline-block">(#GY4.6)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y4.6 YR4.6 VrS4.6 VVrS4.6 VytVrS4.6 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt2.6', '#GY4.6')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt2.6', '0', '#GY4.6' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="7" type="Stanza" xml:id="DrYt2.7" corresp="#GY4.6">
+                        <ab xml:id="DrYt2.7a"> āat̰. dīš. āuuaēδaiiamahi. aṣ̌āunąm. vaŋᵛhībiiō.
+                            frauuaṣ̌ibiiō. yā̊. uγrā̊sca. aiβiϑūrā̊sca. aṣ̌aōnąm. auuaŋhe.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt2.7" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt2.7</h4>
+            <h5 style="display:inline-block">(#GY4.7)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y4.7 YR4.7 VrS4.7 VVrS4.7 VytVrS4.7 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt2.7', '#GY4.7')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt2.7', '0', '#GY4.7' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="8" type="Stanza" xml:id="DrYt2.8" corresp="#GY4.7">
+                        <ab xml:id="DrYt2.8a"> āat̰. dīš. āuuaēδaiiamahi. daϑušō. ahurahe. mazdā̊.
+                            raēuuatō. xᵛarənaŋᵛhatō. maińiiə̄uš. maińiiaōiiehe. aməṣ̌anąm.
+                            spəṇtanąm. yasnāica. vaɱāica. xšnaōϑrāica. frasāstaiiaēca.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt2.8" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt2.8</h4>
+            <h5 style="display:inline-block">(#GY4.8)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y4.8 VrS4.8 ≈ YR4.8 VVrS4.9 VytVrS4.9</prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt2.8', '#GY4.8')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt2.8', '0', '#GY4.8' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="in1lineblock">
+                    <ab xml:id="DrYt2.9a"> āat̰. dīš. āuuaēδaiiamahi. asńiiaēibiiō. aṣ̌ahe.
+                            ratubiiō.</ab>
+                </p>
+                <p class="in1line">
+                    <span class="note red_nofloat">[Gāh] </span>
+                    <ab xml:id="RatuLetDat2.1" type="verse">
+                    hāuuanə̄e. aṣ̌aōne. aṣ̌ahe. raϑβe.
+                </ab>
+                </p>
+                <p class="in1line">
+                    <ab xml:id="DrYt2.9b">yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+                </p>
+                <p class="in1lineblock">
+                    <ab xml:id="DrYt2.9c">āat̰. dīš. āuuaēδaiiamahi.</ab>
+                </p>
+                <p class="in1line">
+                    <span class="note red_nofloat">[Gāh] </span>
+                    <ab xml:id="RatuLetDat2.2" type="verse">
+                    sāuuaŋhə̄e. vīsiiāica. aṣ̌aōne. aṣ̌ahe. raϑβe.
+                </ab>
+                </p>
+                <p class="in1line">
+                    <ab xml:id="DrYt2.9d">yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+                </p>
+                <p class="in1lineblock">
+                    <ab xml:id="DrYt2.9e">āat̰. dīš. āuuaēδaiiamahi.</ab>
+                </p>
+                <p class="in1line">
+                    <span class="note red_nofloat">[Gāh] </span>
+                    <ab xml:id="RatuLetDat2.3" type="verse">
+                    miϑrahe. vouru.gaōiiaōtōiš. hazaŋhrō.gaōšahe. baēuuarə.cašmanō. aōxtō.nāmanō. yazatahe. rāmanō. xᵛāstrahe.
+                </ab>
+                </p>
+                <p class="in1line">
+                    <ab xml:id="DrYt2.9f">yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt2.9" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt2.9</h4>
+            <h5 style="display:inline-block">(#GY4.16)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y4.17 YR4.9 VrS4.17 VVrS4.12 VytVrS4.12 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt2.9', '#GY4.16')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt2.9', '0', '#GY4.16' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="in1lineblock">
+                    <ab xml:id="DrYt2.10a"> āat̰. dīš. āuuaēδaiiamahi. </ab>
+                </p>
+                <p class="in1line">
+                    <span class="note red_nofloat">[Rōz] </span>
+                    <ab xml:id="RozGen1" type="RozGen">
+                ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō.
+            </ab>
+                </p>
+                <p class="in1line">
+                    <ab xml:id="DrYt2.10b">yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+                </p>
+                <p class="in1lineblock">
+                    <ab xml:id="DrYt2.10c">āat̰. dīš. āuuaēδaiiamahi. </ab>
+                </p>
+                <p class="in1line">
+                    <span class="note red_nofloat month">[Māh] </span>
+                    <ab xml:id="MahGen1" type="MahGen"> aṣ̌āunąm. frauuaṣ̌inąm. </ab>
+                </p>
+                <p class="in1line">
+                    <ab xml:id="DrYt2.10d">yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt2.10" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt2.10</h4>
+            <h5 style="display:inline-block">(#GY4.17)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y4.18 YR4.10 VrS4.18 VVrS4.13 VytVrS4.13 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt2.10', '#GY4.17')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt2.10', '0', '#GY4.17' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="11" type="Stanza" xml:id="DrYt2.11" corresp="#GY4.17">
+                        <ab xml:id="DrYt2.11a"> āat̰. dīš. āuuaēδaiiamahi. tauua. āϑrō. ahurahe.
+                            mazdā̊. puϑra. mat̰. vīspaēibiiō. ātərəbiiō. yasnāica. vaɱāica.
+                            xšnaōϑrāica. frasastaiiaēca.</ab>
+                        <ab xml:id="DrYt2.11b">āat̰. dīš. āuuaēδaiiamahi. aiβiiō. vaŋᵛhībiiō.
+                            vīspanąmca. apąm. mazdaδātanąm. vīspanamca. uruuaranąm. mazdaδātanąm.
+                            yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt2.11" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt2.11</h4>
+            <h5 style="display:inline-block">(#GY4.18)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y4.19 YR4.11 VrS4.19 VVrS4.14 VytVrS4.14 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt2.11', '#GY4.18')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt2.11', '0', '#GY4.18' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="12" type="Stanza" xml:id="DrYt2.12" corresp="#GY4.18">
+                        <ab xml:id="DrYt2.12a"> āat̰. dīš. āuuaēδaiiamahi. mąϑrahe. spəṇtahe.
+                            aṣ̌aōnō. vərəziiaŋᵛhahe. dātahe. vīdaēuuahe. dātahe. zaraϑuštrōiš.
+                            darəγaiiā̊. upaiianaiiā̊. daēnaiiā̊. vaŋhuiiā̊. māzdaiiasnōiš. yasnāica.
+                            vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt2.12" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt2.12</h4>
+            <h5 style="display:inline-block">(#GY4.19)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y4.20 YR4.12 VrS4.20 VVrS4.15 VytVrS4.15 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt2.12', '#GY4.19')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt2.12', '0', '#GY4.19' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="13" type="Stanza" xml:id="DrYt2.13" corresp="#GY4.19">
+                        <ab xml:id="DrYt2.13a"> āat̰. dīš. āuuaēδaiiamahi. garōiš. ušidarənahe.
+                            mazdaδātahe. aṣ̌axᵛāϑrahe. vīspaēšąmca. gairinąm. aṣ̌axᵛāϑranąm.
+                            pouru.xᵛāϑranąm. mazdaδātanąm. kāuuaiieheca. xᵛarənaŋhō. mazdaδātahe.
+                            axᵛarətaheca. xᵛarənaŋhō. mazdaδātahe. yasnāica. vaɱāica. xšnaōϑrāica.
+                            frasastaiiaēca. </ab>
+                        <ab xml:id="DrYt2.13b">āat̰. dīš. āuuaēδaiiamahi. aṣ̌ōiš. vaŋhuiiā̊.
+                            cistōiš. vaŋhuiiā̊. ərəϑə̄. vaŋhuiiā̊. rasąstātō. vaŋhuiiā̊. xᵛarənaŋhō.
+                            sauuaŋhō. mazdaδātahe. yasnāica. vaɱāica. xšnaōϑrāica.
+                            frasastaiiaēca.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt2.13" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt2.13</h4>
+            <h5 style="display:inline-block">(#GY4.20)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y4.21 YR4.13 VrS4.21 VVrS4.16 VytVrS4.16 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt2.13', '#GY4.20')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt2.13', '0', '#GY4.20' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="14" type="Stanza" xml:id="DrYt2.14" corresp="#GY4.20">
+                        <ab xml:id="DrYt2.14a"> āat̰. dīš. āuuaēδaiiamahi. daɱaiiā̊. vaŋhuiiā̊.
+                            āfritōiš. daɱaheca. narš. aṣ̌aōnō. uγraheca. taxmahe. dāmōiš. upamanahe.
+                            yazatahe. yasnāica. vaɱāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt2.14" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt2.14</h4>
+            <h5 style="display:inline-block">(#GY4.21)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y4.22 YR4.14 VrS4.22 VVrS4.17 VytVrS4.17 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt2.14', '#GY4.21')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt2.14', '0', '#GY4.21' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="15" type="Stanza" xml:id="DrYt2.15" corresp="#GY4.21">
+                        <ab xml:id="DrYt2.15a"> āat̰. dīš. āuuaēδaiiamahī. ā̊ŋhąm. asaŋhąmca.
+                            šōiϑranąmca. gaōiiaōitinąmca. maēϑananąmca. auuō.xᵛarənanąmca. apąmca.
+                            zəmąmca. uruuaranąmca. aiŋ́hā̊sca. zəmō. auuaiŋ́heca. ašnō. vātaheca.
+                            aṣ̌aōnō. strąm. mā̊ŋhō. hūrō. anaγranąm. raōcaŋhąm. xᵛaδātanam.
+                            vīspanąmca. spəṇtahe. maińiiə̄uš. dāmanąm. aṣ̌aōnąm. aṣ̌aōninąmca.
+                            aṣ̌ahe. raϑβąm. yasnāica. vahmāica. xšnaōϑrāica. frasastaiiaēca.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt2.15" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt2.15</h4>
+            <h5 style="display:inline-block">(#GY4.23)</h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt2.15', '#GY4.23')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt2.15', '0', '#GY4.23' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="in1lineblock">
+                    <ab xml:id="DrYt2.16a"> āat̰. dīš. āuuaēδaiiamahi. </ab>
+                </p>
+                <p class="in1line">
+                    <span class="note red_nofloat">[Šnūman] </span>
+                    <ab xml:id="ShnumanGen21a">ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab>
+                    <ab xml:id="ShnumanGen21b">aṣ̌āunąm. frauuaṣ̌inąm. uγranąm. aiβiϑūranąm. paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm.
+            nabānazdištanąm. frauuaṣ̌inąm.</ab>
+                </p>
+                <p class="in1line">
+                    <ab xml:id="DrYt2.16b">xšnaōϑra. yasnāica. vaɱāica. xšnaōϑrāica.
+                            frasastaiiaēca.</ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt2.16" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt2.16</h4>
+            <h5 style="display:inline-block">(#GY4.24)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y4.25 YR4.16 VrS4.25 VVrS4.20 VytVrS4.20 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt2.16', '#GY4.24')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt2.16', '0', '#GY4.24' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="17" type="Stanza" xml:id="DrYt2.17" corresp="#GY4.24">
+                        <ab xml:id="DrYt2.17a"> āat̰. dīš. āuuaēδaiiamahi. aṣ̌āunąm. frauuaṣ̌inąm.
+                            uγranąm. aiβiϑūranąm. paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm.
+                            nabānazdištanąm. frauuaṣ̌inąm. yasnāica. vaɱāica. xšnaōϑrāica.
+                            frasastaiiaēca.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt2.17" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt2.17</h4>
+            <h5 style="display:inline-block">(#GY4.25)</h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt2.17', '#GY4.25')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt2.17', '0', '#GY4.25' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="18" type="Stanza" xml:id="DrYt2.18" corresp="#GY4.25">
+                        <ab xml:id="DrYt2.18a"> āat̰. dīš. āuuaēδaiiamahi. vīspaēibiiō. vaŋhuδābiiō.
+                            yazataēibiiō. maińiiaōibiiascā. gaēϑiiaēibiiascā. yōi. həṇti.
+                            yasńiiāca. vaɱiiāca. aṣ̌āt̰. haca. yat̰. vahištāt̰.</ab>
+                        <ab xml:id="DrYt2.18b">aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt2.18" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt2.18</h4>
+            <h5 style="display:inline-block">(#GY4.26)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y4.27 YR4.18 VrS4.27 VVrS4.22 VytVrS4.22 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt2.18', '#GY4.26')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt2.18', '0', '#GY4.26' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p>
+                    <p>
+                        <ab xml:id="YeH" type="prayer">
+        <ab xml:id="YeH.a">
+                                <l>yeŋ́hē. hātąm. āat̰. yesnē. paitī. vaŋ́hō.</l>
+                            </ab> 
+        <ab xml:id="YeH.b">
+                                <l>mazdā̊. ahurō. vaēϑā. aṣ̌āt̰. hacā. yā̊ŋhąmcā.</l>
+                            </ab>
+        <ab xml:id="YeH.c">
+                                <l>tąscā. tā̊scā. yazamaide.</l>
+                            </ab>
+    </ab>
+                    </p>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt3.1" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt3.1</h4>
+            <h5 style="display:inline-block">(#GY5.1)</h5>
+            <h5 style="display:inline-block">[Y37.1]</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y5.1 YR5.1 VrS5.1 VVrS5.1 VytVrS5.1 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt3.1', '#GY5.1')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt3.1', '0', '#GY5.1' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="1" type="Stanza" xml:id="DrYt3.1" corresp="#GY5.1">
+                        <ab xml:id="DrYt3.1a"> iϑā. āt̰. yazamaidē. ahurəm. mazdąm. yə̄. gąmcā.
+                            aṣ̌əmcā. dāt̰. apascā. dāt̰. uruuarā̊scā. vaŋᵛhīš.</ab>
+                        <ab xml:id="DrYt3.1b">raōcā̊scā. dāt̰. būmīmcā. vīspācā. vohū. ahiiā.
+                            xšaϑrācā. mazə̄nācā. hauuapaŋhāišcā.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt3.2" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt3.2</h4>
+            <h5 style="display:inline-block">(#GY5.2)</h5>
+            <h5 style="display:inline-block">[Y37.2]</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y5.2 YR5.2 VrS5.2 VVrS5.2 VytVrS5.2 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt3.2', '#GY5.2')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt3.2', '0', '#GY5.2' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="2" type="Stanza" xml:id="DrYt3.2" corresp="#GY5.2">
+                        <ab xml:id="DrYt3.2a"> tə̄m. at̰. yasnanąm. pauruuatātā. yazamaidē.</ab>
+                        <ab xml:id="DrYt3.2b">yōi. gə̄uš. hacā. š́iieiṇtī.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt3.3" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt3.3</h4>
+            <h5 style="display:inline-block">(#GY5.3)</h5>
+            <h5 style="display:inline-block">[Y37.3]</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y5.3 YR5.3 VrS5.3 VVrS5.3 VytVrS5.3 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt3.3', '#GY5.3')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt3.3', '0', '#GY5.3' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="3" type="Stanza" xml:id="DrYt3.3" corresp="#GY5.3">
+                        <ab xml:id="DrYt3.3a"> tə̄m. at̰. āhūiriiā. nāmə̄nī. mazdā.varā.
+                            spəṇtō.tə̄mā. yazamaidē. </ab>
+                        <ab xml:id="DrYt3.3b">tə̄m. aɱākāiš. azdibīšcā. uštānāišcā. yazamaidē. </ab>
+                        <ab xml:id="DrYt3.3c">tə̄m. aṣ̌āunąm. frauuaṣ̌īš. narąmcā. nāirinąmcā.
+                            yazamaidē.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt3.4" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt3.4</h4>
+            <h5 style="display:inline-block">(#GY5.4)</h5>
+            <h5 style="display:inline-block">[Y37.4]</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y5.4 YR5.4 VrS5.4 VVrS5.4 VytVrS5.4 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt3.4', '#GY5.4')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt3.4', '0', '#GY5.4' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="4" type="Stanza" xml:id="DrYt3.4" corresp="#GY5.4">
+                        <ab xml:id="DrYt3.4a"> aṣ̌əm. at̰. vahištəm. yazamaidē.</ab>
+                        <ab xml:id="DrYt3.4b">hiiat̰. sraēštəm. hiiat̰. spəṇtəm. aməṣ̌əm. </ab>
+                        <ab xml:id="DrYt3.4c">hiiat̰. raōcōŋhuuat̰. hiiat̰. vīspā. vohū.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt3.5" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt3.5</h4>
+            <h5 style="display:inline-block">(#GY5.5)</h5>
+            <h5 style="display:inline-block">[Y37.5]</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y5.5 YR5.5 VrS5.5 VVrS5.5 VytVrS5.5 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt3.5', '#GY5.5')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt3.5', '0', '#GY5.5' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="5" type="Stanza" xml:id="DrYt3.5" corresp="#GY5.5">
+                        <ab xml:id="DrYt3.5a"> vohucā. manō. yazamaidē. vohucā. xšaϑrəm.</ab>
+                        <ab xml:id="DrYt3.5b">vaŋᵛhīmcā. daēnąm. vaŋᵛhīmcā. fsəratūm. vaŋᵛhīmcā.
+                            ārmaitīm.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt3.6" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt3.6</h4>
+            <h5 style="display:inline-block">(#GY5.6)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y5.6 YR5.6 VrS5.6 VVrS5.6 VytVrS5.6 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt3.6', '#GY5.6')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt3.6', '0', '#GY5.6' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p>
+                    <p>
+                        <ab xml:id="YeH" type="prayer">
+        <ab xml:id="YeH.a">
+                                <l>yeŋ́hē. hātąm. āat̰. yesnē. paitī. vaŋ́hō.</l>
+                            </ab> 
+        <ab xml:id="YeH.b">
+                                <l>mazdā̊. ahurō. vaēϑā. aṣ̌āt̰. hacā. yā̊ŋhąmcā.</l>
+                            </ab>
+        <ab xml:id="YeH.c">
+                                <l>tąscā. tā̊scā. yazamaide.</l>
+                            </ab>
+    </ab>
+                    </p>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt4.1" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt4.1</h4>
+            <h5 style="display:inline-block">(#GY6.1)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y6.1 YR6.1 VrS6.1 VVrS6.1 VytVrS6.1 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt4.1', '#GY6.1')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt4.1', '0', '#GY6.1' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="1" type="Stanza" xml:id="DrYt4.1" corresp="#GY6.1">
+                        <ab xml:id="DrYt4.1a">daδuuā̊ŋhəm. ahurəm. mazdąm. yazamaide.</ab> 
+                        <ab xml:id="DrYt4.1b">aməṣ̌ā.
+                            spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt4.2" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt4.2</h4>
+            <h5 style="display:inline-block">(#GY6.2)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y6.2 VrS6.2 ≈ YR6.2 VVrS6.3 VytVrS6.3</prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt4.2', '#GY6.2')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt4.2', '0', '#GY6.2' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <ab xml:id="DrYt4.2a" corresp="#GY6.1"> asńiia. aṣ̌auuana. aṣ̌ahe. ratauuō.
+                            yazamaide.</ab>
+                </p>
+                <p class="in1lineblock">
+                    <span class="note red_nofloat">[Gāh] </span>
+                    <ab xml:id="RatuLetAccY2.1" type="verse">
+                    hāuuanīm. aṣ̌auuanəm. aṣ̌ahe. ratūm.
+                </ab>
+                </p>
+                <p class="in1line">
+                    <ab xml:id="DrYt4.2b">yazamaide.</ab>
+                </p>
+                <p class="in1lineblock">
+                    <span class="note red_nofloat">[Gāh] </span>
+                    <ab xml:id="RatuLetAccY2.2" type="verse">
+                    sāuuaŋhaēm. vīsīmca. aṣ̌auuanəm. aṣ̌ahe. ratūm.
+                </ab>
+                </p>
+                <p class="in1line">
+                    <ab xml:id="DrYt4.2c">yazamaide.</ab>
+                </p>
+                <p class="in1lineblock">
+                    <span class="note red_nofloat">[Gāh] </span>
+                    <ab xml:id="RatuLetAccY2.3" type="verse">
+                    miϑrəm. vouru.gaōiiaōitīm. hazaŋhra.gaōšəm. baēuuarə.cašmanəm. aōxtō.nāmanəm. yazatəm. yazamaide. rāma. xᵛāstrəm.
+                </ab>
+                </p>
+                <p class="in1line">
+                    <ab xml:id="DrYt4.2d">yazamaide.</ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt4.3" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt4.3</h4>
+            <h5 style="display:inline-block">(#GY6.10)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y6.11 YR6.3 VrS6.11 VVrS6.6 VytVrS6.6 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt4.3', '#GY6.10')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt4.3', '0', '#GY6.10' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="in1lineblock">
+                    <span class="note red_nofloat">[Rōz] </span>
+                </p>
+                <p class="in1line">
+                    <ab xml:id="DrYt4.3a">yazamaide. </ab>
+                </p>
+                <p class="in1lineblock">
+                    <span class="note red_nofloat month">[Māh] </span>
+                    <ab xml:id="MahAcc1" type="MahAcc">
+                 aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spəṇtā̊. frauuaṣ̌aiiō.
+            </ab>
+                </p>
+                <p class="in1line">
+                    <ab xml:id="DrYt4.3b">yazamaide.</ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt4.4" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt4.4</h4>
+            <h5 style="display:inline-block">(#GY6.11)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y6.12 YR6.4 VrS6.12 VVrS6.8 VytVrS6.8 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt4.4', '#GY6.11')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt4.4', '0', '#GY6.11' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="4" type="Stanza" xml:id="DrYt4.4" corresp="#GY6.11">
+                        <ab xml:id="DrYt4.4a"> ϑβąm. ātrəm. ahurahe. mazdā̊. puϑrəm. aṣ̌auuanəm.
+                            aṣ̌ahe. ratūm. yazamaide. mat̰. vīspaēibiiō. ātərəbiiō. </ab>
+                        <ab xml:id="DrYt4.4b">āpō. vaŋᵛhīš. vahištā̊. mazdaδātā̊. aṣ̌aōnīš.
+                            yazamaide.</ab> 
+                        <ab xml:id="DrYt4.4c">vīspā̊. āpō. mazdaδātā̊. aṣ̌aōnīš. yazamaide.</ab> 
+                        <ab xml:id="DrYt4.4d">vīspā̊. uruuarā̊. mazdaδātā̊. aṣ̌aōnīš. yazamaide.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt4.5" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt4.5</h4>
+            <h5 style="display:inline-block">(#GY6.12)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y6.13 YR6.5 VrS6.13 VVrS6.9 VytVrS6.9 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt4.5', '#GY6.12')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt4.5', '0', '#GY6.12' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="5" type="Stanza" xml:id="DrYt4.5" corresp="#GY6.12">
+                        <ab xml:id="DrYt4.5a"> mąϑrəm. spəṇtəm. ašxᵛarənaŋhəm. yazamaide. </ab>
+                        <ab xml:id="DrYt4.5b">dātəm. vīdōiiūm. yazamaide.</ab>
+                        <ab xml:id="DrYt4.5c">dātəm. zaraϑuštri. yazamaide. </ab>
+                        <ab xml:id="DrYt4.5d"> darəγąm. upaiianąm. yazamaide.</ab> 
+                        <ab xml:id="DrYt4.5e">daēnąm. vaŋᵛhīm. māzdaiiasnīm. yazamaide.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt4.6" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt4.6</h4>
+            <h5 style="display:inline-block">(#GY6.13)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y6.14 YR6.6 VrS6.14 VVrS6.10 VytVrS6.10 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt4.6', '#GY6.13')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt4.6', '0', '#GY6.13' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="6" type="Stanza" xml:id="DrYt4.6" corresp="#GY6.13">
+                        <ab xml:id="DrYt4.6a">gairīm. ušidarənəm. mazdaδātəm. aṣ̌axᵛāϑrəm. yazatəm.
+                            yazamaide.</ab> 
+                        <ab xml:id="DrYt4.6b">vīspā̊. garaiiō. aṣ̌axᵛāϑrā̊. pouru.xᵛāϑrā̊. mazdaδāta.
+                            aṣ̌auuana. aṣ̌ahe. ratauuō. yazamaide.</ab>
+                        <ab xml:id="DrYt4.6c">uγrəm. kauuaēm. xᵛarənō. mazdaδātəm. yazamaide.</ab> 
+                        <ab xml:id="DrYt4.6d">uγrəm.
+                            axᵛarətəm. xᵛarənō. mazdaδātəm. yazamaide. </ab>
+                        <ab xml:id="DrYt4.6e">aṣ̌īm. vaŋᵛhīm. yazamaide. xšōiϑnīm. bərəzaitīm.
+                            amauuaitīm. huraōδąm. xᵛāparąm.</ab> 
+                        <ab xml:id="DrYt4.6f">xᵛarənō. mazdaδātəm. yazamaide.</ab> 
+                        <ab xml:id="DrYt4.6g">sauuō.
+                            mazdaδātəm. yazamaide.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt4.7" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt4.7</h4>
+            <h5 style="display:inline-block">(#GY6.14)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y6.15 YR6.7 VrS6.15 VVrS6.11 VytVrS6.11 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt4.7', '#GY6.14')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt4.7', '0', '#GY6.14' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="7" type="Stanza" xml:id="DrYt4.7" corresp="#GY6.14">
+                        <ab xml:id="DrYt4.7a">daɱąm. vaŋᵛhīm. āfritīm. yazamaide.</ab> 
+                        <ab xml:id="DrYt4.7b">daɱəmca. narəm.
+                            aṣ̌auuanəm. yazamaide.</ab> 
+                        <ab xml:id="DrYt4.7c">uγrəm. taxməm. dāmōiš. upamanəm. yazatəm.
+                            yazamaide.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt4.8" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt4.8</h4>
+            <h5 style="display:inline-block">(#GY6.15)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y6.16 YR6.8 VrS6.16 VVrS6.12 VytVrS6.12 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt4.8', '#GY6.15')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt4.8', '0', '#GY6.15' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="8" type="Stanza" xml:id="DrYt4.8" corresp="#GY6.15">
+                        <ab xml:id="DrYt4.8a">imā̊. apasca. zəmasca. uruuarā̊sca. yazamaide.</ab> 
+                        <ab xml:id="DrYt4.8b">imā̊. apā̊sca. šōiϑrā̊sca. gaōiiaōitīšca. maēϑańiiā̊sca. auuō.xᵛarənā̊sca.
+                            yazamaide.</ab> 
+                        <ab xml:id="DrYt4.8c">iməmca. šoiϑrahe. paitīm. yazamaide. yim. ahurəm.
+                            mazdąm.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt4.9" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt4.9</h4>
+            <h5 style="display:inline-block">(#GY6.17)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y6.18 YR6.9 VrS6.18 VVrS6.14 VytVrS6.14 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt4.9', '#GY6.17')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt4.9', '0', '#GY6.17' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <ab xml:id="DrYt4.9a">hauruuata. amərətāta. yazamaide.</ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt4.9b">gāuš. hudā̊.
+                            yazamaide.</ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt4.9c">apəm. uruuarąmca. aēsmąsca. baōiδīmca. yazamaide.</ab>
+                </p>
+                <p>
+                    <span class="note red">[Šnūman] </span>
+                    <ab xml:id="ShnumanAcc21.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide. 
+                aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spə̄ntā̊. frauuaṣ̌aiiō.</ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt4.10a">staōmi. zbaiiemi. ufiiemi.</ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt4.10b">yazamaide. nmāńiiā̊. vīsiiā̊.
+                            zaṇtumā̊. dax́iiumā̊. zaraϑuštrō.təmā̊. </ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt4.10" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt4.10</h4>
+            <h5 style="display:inline-block">(#GY26.2)</h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt4.10', '#GY26.2')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt4.10', '0', '#GY26.2' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <ab xml:id="DrYt4.10c">vīspanąmca. ā̊ŋhąm. paōiriianąm. frauuaṣ̌inąm. iδa.
+                            yazamaide. frauuaṣ̌īm. auuąm. yąm. ahurahe. mazdā̊.</ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt4.10d">mazištąmca.
+                            vahištąmca. sraēštąmca.</ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt4.10e">xraōždištąmca. xraϑβištąmca. hukərəptəmąmca. aṣ̌āt̰. apanō.təmąmca.</ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt4.11" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt4.11</h4>
+            <h5 style="display:inline-block">(#GY26.3)</h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt4.11', '#GY26.3')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt4.11', '0', '#GY26.3' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <ab xml:id="DrYt4.10g">aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spəṇtā̊. frauuaṣ̌aiiō.
+                            yazamaide.</ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt4.10h">yā̊. aməṣ̌anąm. spəṇtanąm. xšaētanąm. vərəzi.dōiϑranąm.</ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt4.10i">bərəzatąm. aiβiiāmanąm. taxmanąm. āhūiriianąm.</ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt4.10j">yōi. aiϑiiajaŋhō.
+                            aṣ̌auuanō.</ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt4.12" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt4.12</h4>
+            <h5 style="display:inline-block">(#GY26.4)</h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt4.12', '#GY26.4')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt4.12', '0', '#GY26.4' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <ab xml:id="DrYt4.10k">paōiriianąm. t̰kaēšanąm. paōiriianąm. sāsnō.gūšąm.</ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt4.10l">iδa. aṣ̌aōnąm. aṣ̌aōninąmca. ahūmca. daēnąmca. baōδasca. uruuānəmca.
+                            frauuaṣ̌īmca. yazamaide. yōi. aṣ̌āi. vaōnarə.</ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt4.10m">gə̄uš. huδā̊ŋhō. uruuanəm.
+                            yazamaide.</ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt4.13" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt4.13</h4>
+            <h5 style="display:inline-block">(#GY26.5)</h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt4.13', '#GY26.5')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt4.13', '0', '#GY26.5' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <ab xml:id="DrYt4.10n">yōi. aṣ̌āi. vaōnarə. gaiiehe. marəϑnō. aṣ̌aōnō.
+                            frauuaṣ̌īm. yazamaide.</ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt4.10o">zaraϑuštrahe. spitāmahe. iδa. aṣ̌aōnō. aṣ̌īmca.
+                            frauuaṣ̌īmca. yazamaide.</ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt4.10p">kauuōiš. vīštāspahe. aṣ̌aōnō. frauuaṣ̌īm.
+                            yazamaide.</ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt4.10q">isat̰.vāstrahe. zaraϑuštrōiš. aṣ̌aōnō. frauuaṣ̌īm.
+                            yazamaide.</ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt4.14" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt4.14</h4>
+            <h5 style="display:inline-block">(#GY26.6)</h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt4.14', '#GY26.6')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt4.14', '0', '#GY26.6' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <ab xml:id="DrYt4.10r">nabānazdištanąm. iδa. aṣ̌aōnąm. aṣ̌aōninąmca. ahūmca.
+                            daēnąmca. baōδasca. uruuānəmca. frauuaṣ̌īmca. yazamaide. yōi. aṣ̌āi.
+                            vaōnarə.</ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt4.10s">mat̰. vīspābiiō. aṣ̌aōnibiiō. frauuaṣ̌ibiiō. yā̊. irīriϑušąm.
+                            aṣ̌aōnąm. yā̊sca. juuaṇtąm. aṣ̌aōnąm. yā̊sca. narąm. azātanąm.
+                            frašō.carəϑrąm. saōš́iiaṇtąm.</ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt4.15" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt4.15</h4>
+            <h5 style="display:inline-block">(#GY26.7)</h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt4.15', '#GY26.7')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt4.15', '0', '#GY26.7' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <ab xml:id="DrYt4.10t">iδa. iristanąm. uruuąnō. yazamaide. yā̊. aṣ̌aōnąm.
+                            frauuaṣ̌aiiō.</ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt4.10u">vīspanąm. aɱiia. nmāne. nabānazdištanąm. para.iristanąm.
+                            aēϑrapaitinąm. aēϑriianąm. narąm. nāirinąm. iδa. aṣ̌aōnąm. aṣ̌aōninąm.
+                            frauuaṣ̌aiiō. yazamaide.</ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt4.16" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt4.16</h4>
+            <h5 style="display:inline-block">(#GY26.8)</h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt4.16', '#GY26.8')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt4.16', '0', '#GY26.8' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <ab xml:id="DrYt4.10v">vīspanąm. aēϑrapaitinąm. aṣ̌aōnąm.
+                            frauuaṣ̌aiiō. yazamaide. </ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt4.10w">vīspanąm. aēϑriianąm. aṣ̌aōnąm. frauuaṣ̌aiiō.
+                            yazamaide.</ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt4.10x">vīspanąm. narąm. aṣ̌aōnąm. frauuaṣ̌aiiō. yazamaide.</ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt4.10y">vīspanąm. nāirinąm. aṣ̌aōninąm. frauuaṣ̌aiiō. yazamaide.</ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt4.17" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt4.17</h4>
+            <h5 style="display:inline-block">(#GY26.9)</h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt4.17', '#GY26.9')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt4.17', '0', '#GY26.9' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <ab xml:id="DrYt4.10z">vīspanąm. apərənāiiūkanąm. daɱō.kərətanąm. aṣ̌aōnąm.
+                            frauuaṣ̌aiiō. yazamaide.</ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt4.10aa">ādax́iiunąmca. aṣ̌aōnąm. frauuaṣ̌aiiō.
+                            yazamaide.</ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt4.10ab">uzdax́iiunąmca. aṣ̌aōnąm. frauuaṣ̌aiiō. yazamaide.</ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt4.18" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt4.18</h4>
+            <h5 style="display:inline-block">(#GY26.10)</h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt4.18', '#GY26.10')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt4.18', '0', '#GY26.10' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <ab xml:id="DrYt4.10ac">narąmca. aṣ̌aōnąm. frauuaṣ̌aiiō. yazamaide.</ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt4.10ad">nāirinąmca. aṣ̌aōninąm. frauuaṣ̌aiiō. yazamaide.</ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt4.10ae">vīspā̊. aṣ̌āunąm.
+                            vaŋᵛhīš. sūrā̊. spəṇtā̊. frauuaṣ̌aiiō. yazamaide. yā̊. haca. gaiiāt̰.
+                            marəϑnat̰. ā. saōš́iiaṇtāt̰. vərəϑraγnat̰.</ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt4.19" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt4.19</h4>
+            <h5 style="display:inline-block">(#GY26.11)</h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt4.19', '#GY26.11')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt4.19', '0', '#GY26.11' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <ab xml:id="DrYt4.10af">vīspā̊. frauuaṣ̌aiiō. aṣ̌āunąm. yazamaide.</ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt4.20" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt4.20</h4>
+            <h5 style="display:inline-block">(#GY6.19)</h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt4.20', '#GY6.19')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt4.20', '0', '#GY6.19' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="11" type="Stanza" xml:id="DrYt4.11" corresp="#GY6.19">
+                        <ab xml:id="DrYt4.11a"> aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spəṇtā̊. frauuaṣ̌aiiō.
+                            yazamaide.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt4.21" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt4.21</h4>
+            <h5 style="display:inline-block">(#GY6.20)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y6.20 YR6.11 VrS6.20 ≈ VVrS6.16 VytVrS6.16</prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt4.21', '#GY6.20')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt4.21', '0', '#GY6.20' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <ab xml:id="DrYt4.12a"> vīspe. aṣ̌auuanō. yazata. yazamaide.</ab>
+                </p>
+                <p class="">
+                    <ab xml:id="RatuPaitiRatu2" type="RatuPaitiRatu">
+                hāuuanīm. paiti. ratūm. sāuuaŋhaēm. vīsīmca. paiti. ratūm.
+            </ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt4.22" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt4.22</h4>
+            <h5 style="display:inline-block">(#GY6.21)</h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt4.22', '#GY6.21')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt4.22', '0', '#GY6.21' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p>
+                    <p>
+                        <ab xml:id="YeH" type="prayer">
+        <ab xml:id="YeH.a">
+                                <l>yeŋ́hē. hātąm. āat̰. yesnē. paitī. vaŋ́hō.</l>
+                            </ab> 
+        <ab xml:id="YeH.b">
+                                <l>mazdā̊. ahurō. vaēϑā. aṣ̌āt̰. hacā. yā̊ŋhąmcā.</l>
+                            </ab>
+        <ab xml:id="YeH.c">
+                                <l>tąscā. tā̊scā. yazamaide.</l>
+                            </ab>
+    </ab>
+                    </p>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt5.1" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt5.1</h4>
+            <h5 style="display:inline-block">(#GY7.1)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y7.1 YR7.1 VrS7.1 VVrS7.1 VytVrS7.1 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt5.1', '#GY7.1')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt5.1', '0', '#GY7.1' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p>
+                    <p>
+                        <ab type="prayer" xml:id="AV">
+        <ab xml:id="AV.a">
+                                <l>aṣ̌əm. vohū. vahištəm. astī.</l>
+                            </ab>
+        <ab xml:id="AV.b">
+                                <l>uštā. astī. uštā. aɱāi.</l>
+                            </ab>
+        <ab xml:id="AV.c">
+                                <l>hiiat̰. aṣ̌āi. vahištāi. aṣ̌əm.</l>
+                            </ab>
+    </ab>
+                        <note class="times">[ 3x ]</note>
+                    </p>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt5.2" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt5.2</h4>
+            <h5 style="display:inline-block">(#GY7.1)</h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt5.2', '#GY7.1')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt5.2', '0', '#GY7.1' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <ab xml:id="DrYt5.1a">aṣ̌aiia. daδąmi. xᵛarəϑəm. miiazdəm. hauruuata.
+                            amərətāta. gāuš. hudā̊. āpe. uruuara. aēsmi. baōiδi.
+                            xšnūmaine. ahurahe. mazdā̊. aməṣ̌anąm. spəṇtanąm. sraōšahe. aṣ̌iiehe.
+                            āϑrō. ahurahe. mazdā̊. puϑra. </ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt5.3" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt5.3</h4>
+            <h5 style="display:inline-block">(#GY7.5)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y7.7 VrS7.7 ≈ VVrS7.7 VytVrS7.7</prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt5.3', '#GY7.5')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt5.3', '0', '#GY7.5' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="in1lineblock">
+                    <ab xml:id="DrYt5.2a">aṣ̌aiia. daδąmi. asńiiaēibiiō. aṣ̌ahe. ratubiiō.</ab>
+                </p>
+                <p class="in1line">
+                    <span class="note red_nofloat">[Gāh] </span>
+                    <ab xml:id="RatuLetDat2.1" type="verse">
+                    hāuuanə̄e. aṣ̌aōne. aṣ̌ahe. raϑβe.
+                </ab>
+                </p>
+                <p class="in1lineblock">
+                    <ab xml:id="DrYt5.2b">āiiese. yešti. </ab>
+                </p>
+                <p class="in1line">
+                    <span class="note red_nofloat">[Gāh] </span>
+                    <ab xml:id="RatuLetDat2.2" type="verse">
+                    sāuuaŋhə̄e. vīsiiāica. aṣ̌aōne. aṣ̌ahe. raϑβe.
+                </ab>
+                </p>
+                <p class="in1lineblock">
+                    <ab xml:id="DrYt5.2c">āiiese. yešti. </ab>
+                </p>
+                <p class="in1line">
+                    <span class="note red_nofloat">[Gāh] </span>
+                    <ab xml:id="RatuLetDat2.3" type="verse">
+                    miϑrahe. vouru.gaōiiaōtōiš. hazaŋhrō.gaōšahe. baēuuarə.cašmanō. aōxtō.nāmanō. yazatahe. rāmanō. xᵛāstrahe.
+                </ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt5.4" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt5.4</h4>
+            <h5 style="display:inline-block">(#GY7.13)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y7.15 YR7.7 VrS7.15 VVrS7.10 VytVrS7.10 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt5.4', '#GY7.13')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt5.4', '0', '#GY7.13' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="in1lineblock">
+                    <ab xml:id="DrYt5.3a"> aṣ̌aiia. daδąmi. </ab>
+                </p>
+                <p class="in1line">
+                    <span class="note red_nofloat">[Rōz] </span>
+                    <ab xml:id="RozGen1" type="RozGen">
+                ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō.
+            </ab>
+                </p>
+                <p class="in1lineblock">
+                    <ab xml:id="DrYt5.3b">aṣ̌aiia. daδąmi. </ab>
+                </p>
+                <p class="in1line">
+                    <span class="note red_nofloat month">[Māh] </span>
+                    <ab xml:id="MahGen1" type="MahGen"> aṣ̌āunąm. frauuaṣ̌inąm. </ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt5.5" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt5.5</h4>
+            <h5 style="display:inline-block">(#GY7.14)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y7.16 YR7.8 VrS7.16 VVrS7.11 VytVrS7.11 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt5.5', '#GY7.14')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt5.5', '0', '#GY7.14' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="4" type="Stanza" xml:id="DrYt5.4" corresp="#GY7.14">
+                        <ab xml:id="DrYt5.4a"> aṣ̌aiia. daδąmi. tauua. āϑrō. ahurahe. mazdā̊. puϑra.
+                            mat̰. vīspaēibiiō. ātərəbiiō.</ab>
+                        <ab xml:id="DrYt5.4b">aṣ̌aiia. daδąmi. aiβiiō. vaŋᵛhībiiō. vīspanąmca. apąm.
+                            mazdaδātanąm. vīspanąmca. uruuaranąm. mazdaδātanąm.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt5.6" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt5.6</h4>
+            <h5 style="display:inline-block">(#GY7.15)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y7.17 YR7.9 VrS7.17 VVrS7.12 VytVrS7.12 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt5.6', '#GY7.15')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt5.6', '0', '#GY7.15' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="5" type="Stanza" xml:id="DrYt5.5" corresp="#GY7.15">
+                        <ab xml:id="DrYt5.5a"> aṣ̌aiia. daδąmi. mąϑrahe. spəṇtahe. aṣ̌aōne.
+                            vərəziiaŋᵛhahe. dātahe. vīdaēuuahe. dātahe. zaraϑuštrōiš. darəγaiiā̊.
+                            upaiianaiiā̊. daēnaiiā̊. vaŋhuiiā̊. māzdaiiasnōiš.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt5.7" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt5.7</h4>
+            <h5 style="display:inline-block">(#GY7.16)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y7.18 YR7.10 VrS7.18 VVrS7.13 VytVrS7.13 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt5.7', '#GY7.16')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt5.7', '0', '#GY7.16' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="6" type="Stanza" xml:id="DrYt5.6" corresp="#GY7.16">
+                        <ab xml:id="DrYt5.6a"> aṣ̌aiia. daδąmi. garōiš. ušidarənahe. mazdaδātahe.
+                            aṣ̌axᵛāϑrahe. vīspaēšąmca. gairinąm. aṣ̌axᵛāϑranąm. pouru.xᵛāϑraṇam.
+                            mazdaδātanąm. kāuuaiieheca. xᵛarənaŋhō. mazdaδātahe. axᵛarətaheca.
+                            xᵛarənaŋhō. mazdaδātahe. </ab>
+                        <ab xml:id="DrYt5.6b">aṣ̌aiia. daδąmi. aṣ̌ōiš. vaŋhuiiā̊. cistōiš.
+                            vaŋhuiiā̊. ərəϑə̄. vaŋhuiiā̊. rasąstātō. vaŋhuiiā̊. xᵛarənaŋhō.
+                            sauuaŋhō. mazdaδātahe.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt5.8" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt5.8</h4>
+            <h5 style="display:inline-block">(#GY7.17)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y7.19 YR7.11 VrS7.19 VVrS7.14 VytVrS7.14 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt5.8', '#GY7.17')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt5.8', '0', '#GY7.17' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="7" type="Stanza" xml:id="DrYt5.7" corresp="#GY7.17">
+                        <ab xml:id="DrYt5.7a"> aṣ̌aiia. daδąmi. daɱaiiā̊. vaŋhuiiā̊. āfritōiš.
+                            daɱaheca. narš. aṣ̌aōnō. uγraheca. taxmahe. dāmōiš. upamanahe.
+                            yazatahe.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt5.9" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt5.9</h4>
+            <h5 style="display:inline-block">(#GY7.18)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y7.20 YR7.12 VrS7.20 VVrS7.15 VytVrS7.15 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt5.9', '#GY7.18')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt5.9', '0', '#GY7.18' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="8" type="Stanza" xml:id="DrYt5.8" corresp="#GY7.18">
+                        <ab xml:id="DrYt5.8a"> aṣ̌aiia. daδąmi. ā̊ŋhąm. asaŋhąmca. šōiϑranąmca.
+                            gaōiiaōitinąmca. maēϑananąmca. auuō.xᵛarənanąmca. apąmca. zəmąmca.
+                            uruuaranąmca. aŋ́hā̊sca. zəmō. auuaŋ́heca. ašnō. vātaheca. aṣ̌aōnō.
+                            strąm. mā̊ŋhō. hūrō. anaγranąm. raōcaŋhąm. xᵛaδātanąm. vīspanąmca.
+                            spəṇtahe. maińiiə̄uš. dāmanąm. aṣ̌aōnąm. aṣ̌aōninąmca. aṣ̌ahe.
+                            raϑβąm.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt5.10" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt5.10</h4>
+            <h5 style="display:inline-block">(#GY7.20)</h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt5.10', '#GY7.20')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt5.10', '0', '#GY7.20' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="in1lineblock">
+                    <ab xml:id="DrYt5.9a">aṣ̌aiia. daδąmi. xᵛarəϑəm. miiazdəm. hauruuata. amərətāta. gāuš.
+                            hudā̊. āpe. uruuara. aēsmi. baōiδi. xšnūmaine.</ab>
+                </p>
+                <p class="in1line">
+                    <span class="note red_nofloat">[Šnūman] </span>
+                    <ab xml:id="ShnumanGen21a">ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab>
+                    <ab xml:id="ShnumanGen21b">aṣ̌āunąm. frauuaṣ̌inąm. uγranąm. aiβiϑūranąm. paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm.
+            nabānazdištanąm. frauuaṣ̌inąm.</ab>
+                </p>
+                <p class="in1line">
+                    <ab xml:id="DrYt5.9b">aōxtō.nāmanō. yazatahe.</ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt5.11" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt5.11</h4>
+            <h5 style="display:inline-block">(#GY7.20)</h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt5.11', '#GY7.20')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt5.11', '0', '#GY7.20' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="in1lineblock">
+                    <ab xml:id="DrYt5.10a">aṣ̌aiia. daδąmi. xᵛarəϑəm. miiazdəm. hauruuata. amərətāta. gāuš.
+                            hudā̊. āpe. uruuara. aēsmi. baōiδi. xšnūmaine.</ab>
+                </p>
+                <p class="in1line">
+                    <span class="note red_nofloat">[Šnūman] </span>
+                    <ab xml:id="ShnumanGen21a">ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab>
+                    <ab xml:id="ShnumanGen21b">aṣ̌āunąm. frauuaṣ̌inąm. uγranąm. aiβiϑūranąm. paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm.
+            nabānazdištanąm. frauuaṣ̌inąm.</ab>
+                </p>
+                <p class="in1line">
+                    <ab xml:id="DrYt5.10b">aōxtō.nāmanō. yazatahe.</ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt5.12" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt5.12</h4>
+            <h5 style="display:inline-block">(#GY23.1)</h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt5.12', '#GY23.1')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt5.12', '0', '#GY23.1' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <ab xml:id="DrYt5.11a">aṣ̌aiia. daδąmi. auuaŋhā̊. frauuaṣ̌aiiō. yā̊. paōiriia.
+                            ā̊ŋharə. nmānanąmca. vīspąmca. zaṇtunąmca. dax́iiunąmca. yā̊. asmanəm. vīδāraiiən. yā̊. āpəm. vīδaraiiən. yā̊.
+                            ząm. vīδāraiiən. yā̊. gąm. vīδāraiiən. yā̊. barəϑrišuua. vīδāraiiən.
+                            paiti.vərəte. apara.iriϑəṇtō.</ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt5.13" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt5.13</h4>
+            <h5 style="display:inline-block">(#GY23.2)</h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt5.13', '#GY23.2')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt5.13', '0', '#GY23.2' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <ab xml:id="DrYt5.11b">aṣ̌aiia. daδąmi. āfrauuaṣ̌i. ahurahe. mazdā̊.
+                            aməṣ̌anąm. spəṇtanąm. mat̰. vīspābiiō. aṣ̌aōnibiiō. frauuaṣ̌ibiiō. yā̊.
+                            maińiiauuanąm. yazatanąm. </ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt5.11c">aṣ̌aiia. daδąmi. āfrauuaṣ̌i. gaiiehe. marəϑnō.
+                            zaraϑuštrahe. spitāmahe. kauuōiš. vīštāspahe. isat̰.vāstrahe.
+                            zaraϑuštrōiš. mat̰. vīspābiiō. aṣ̌aōnibiiō. frauuaṣ̌ibiiō. yā̊.
+                            paōiriianąm. t̰kaēšanąm.</ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt5.14" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt5.14</h4>
+            <h5 style="display:inline-block">(#GY23.3)</h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt5.14', '#GY23.3')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt5.14', '0', '#GY23.3' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <ab xml:id="DrYt5.11d">aṣ̌aiia. daδąmi. vīspaiia. aṣ̌auuane. frauuaṣ̌e. ke.
+                            asti. kuuacit̰. aŋhā̊. zəmō. para.iristi. daɱa. nāirike. apərənāiiūke.
+                            kainike. vāstriiāuuarəzi. upašaēti. haca. aɱāt̰. nmānāt̰. iziieiṇti.
+                            yā̊. paitišmarəṇti. yā̊. aiβināsəṇti. vaŋhūš. yasnąsca. vaɱąsca.</ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt5.15" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt5.15</h4>
+            <h5 style="display:inline-block">(#GY7.22)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y7.25 YR7.16 VrS7.25 VVrS7.20 VytVrS7.20 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt5.15', '#GY7.22')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt5.15', '0', '#GY7.22' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="12" type="Stanza" xml:id="DrYt5.12" corresp="#GY7.22">
+                        <ab xml:id="DrYt5.12a"> aṣ̌aiia. daδąmi. aṣ̌āunąm. frauuaṣ̌inąm. uγranąm.
+                            aiβiϑūranąm. paoiriiō.tkaēšanąm. frauuaṣ̌inąm. nabānazdištanąm.
+                            frauuaṣ̌inąm.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt5.16" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt5.16</h4>
+            <h5 style="display:inline-block">(#GY7.23)</h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt5.16', '#GY7.23')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt5.16', '0', '#GY7.23' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="13" type="Stanza" xml:id="DrYt5.13" corresp="#GY7.23">
+                        <ab xml:id="DrYt5.13b">aṣ̌aiia. daδąmi. vīspaēibiiō. vaŋhuδābiiō.
+                            yazataēibiiō. maińiiaōibiiascā. gaēϑiiaēibiiascā. yōi. həṇti.
+                            yasńiiāca. vaɱiiāca. aṣ̌āt̰. haca. yat̰. vahištāt̰. </ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt5.17" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt5.17</h4>
+            <h5 style="display:inline-block">(#GY7.24)</h5>
+            <h5 style="display:inline-block">[Y41.5]</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y7.27 YR7.18 VrS7.27 VVrS7.22 VytVrS7.22 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt5.17', '#GY7.24')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt5.17', '0', '#GY7.24' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="14" type="Stanza" xml:id="DrYt5.14" corresp="#GY7.24">
+                        <ab xml:id="DrYt5.14a">aṣ̌aiia.nō. paiti.jamiiāt̰.</ab> 
+                        <ab xml:id="DrYt5.14b">yehiiā. sauuā. išā̊ṇtī.
+                            rādaŋhō. </ab>
+                        <ab xml:id="DrYt5.14c"> ϑβōi. staōtarascā. mąϑranascā. ahura.mazdā. </ab>
+                        <ab xml:id="DrYt5.14d"> aōgəmadaēcā. usmahicā. vīsāmadaēcā. </ab>
+                        <ab xml:id="DrYt5.14e"> hiiat̰. mīždəm. mauuaēϑəm. fradadāϑā. daēnābiiō.
+                            mazdā. ahurā. </ab>
+                    </div>
+                </p>
+                <p class="">
+                    <div n="15" type="Stanza" xml:id="DrYt5.15" corresp="#GY7.24e">
+                        <ab xml:id="DrYt5.15a"> ϑβōi. staōtarascā. mąϑranascā. ahura.mazdā.
+                            aōgəmadaēcā. usmahicā. vīsāmadaēcā. hiiat̰. mīždəm. mauuaēϑəm.
+                            fradadāϑā. daēnābiiō. mazdā. ahurā.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt5.18" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt5.18</h4>
+            <h5 style="display:inline-block">(#GY7.25)</h5>
+            <h5 style="display:inline-block">[Y40.2]</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y7.28 YR7.19 VrS7.28 VVrS7.23 VytVrS7.23 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt5.18', '#GY7.25')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt5.18', '0', '#GY7.25' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <ab xml:id="DrYt5.16a"> ahiiā. huuō. nə̄. dāidī. aɱāicā. ahuiiē.
+                            manax́iiāica. </ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt5.16b">tat̰. ahiiā. yā. tat̰. upā.jamiiāmā.</ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt5.16c">tauuācā. sarəm.
+                            aṣ̌ax́iiācā. vīspāi. yauuē.</ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt5.19" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt5.19</h4>
+            <h5 style="display:inline-block">(#GY7.25)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y7.29 YR7.20 VrS7.29 VVrS7.24 VytVrS7.24 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt5.19', '#GY7.25')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt5.19', '0', '#GY7.25' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p>
+                    <p>
+                        <ab type="prayer" xml:id="YAV">
+       <ab xml:id="YAV.a">
+                                <l>yaϑā. ahū. vairiiō. aϑā. ratuš. aṣ̌āt̰cīt̰. hacā.</l>
+                            </ab> 
+       <ab xml:id="YAV.b">
+                                <l>vaŋhə̄uš. dazdā. manaŋhō. š́iiaōϑananąm. aŋhə̄uš. mazdāi.</l> </ab>
+       <ab xml:id="YAV.c">
+                                <l> xšaϑrəmcā. ahurāi.ā. yim. drigubiiō. dadat̰. vāstārəm.</l>
+                            </ab>
+    </ab>
+                    </p>
+                </p>
+                <p>
+                    <p>
+                        <ab type="prayer" xml:id="YAV">
+       <ab xml:id="YAV.a">
+                                <l>yaϑā. ahū. vairiiō. aϑā. ratuš. aṣ̌āt̰cīt̰. hacā.</l>
+                            </ab> 
+       <ab xml:id="YAV.b">
+                                <l>vaŋhə̄uš. dazdā. manaŋhō. š́iiaōϑananąm. aŋhə̄uš. mazdāi.</l> </ab>
+       <ab xml:id="YAV.c">
+                                <l> xšaϑrəmcā. ahurāi.ā. yim. drigubiiō. dadat̰. vāstārəm.</l>
+                            </ab>
+    </ab>
+                    </p>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt5.20" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt5.20</h4>
+            <h5 style="display:inline-block">(#GY7.26)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y7.30 YR7.21 VrS7.30 VVrS7.25 VytVrS7.25 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt5.20', '#GY7.26')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt5.20', '0', '#GY7.26' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="18" type="Stanza" xml:id="DrYt5.18" corresp="#GY7.26">
+                        <ab xml:id="DrYt5.18a"> ahunəm. vairīm. yazamaide.</ab> 
+                        <ab xml:id="DrYt5.18b">aršuxδəm. vācim.
+                            yazamaide. </ab>
+                        <ab xml:id="DrYt5.18c">daɱąm. vaŋᵛhīm. āfritīm. yazamaide.</ab> 
+                        <ab xml:id="DrYt5.18d">uγrəm. taxməm.
+                            dāmōiš. upamanəm. yazatəm. yazamaide.</ab>
+                        <ab xml:id="DrYt5.18e">hauruuata. amərətāta. yazamaide.</ab> 
+                        <ab xml:id="DrYt5.18f">gāuš. hudā̊.
+                            yazamaide. </ab>
+                        <ab xml:id="DrYt5.18g">apəmca. uruuarąmca. aēsmąsca. baōiδīmca. yazamaide. </ab>
+                        <ab xml:id="DrYt5.18h">frasasti. daɱaiiā̊. vaŋhuiiā̊. āfritōiš.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt5.21" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt5.21</h4>
+            <h5 style="display:inline-block">(#GY7.27)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y7.31 YR7.22 VrS7.31 VVrS7.26 VytVrS7.26 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt5.21', '#GY7.27')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt5.21', '0', '#GY7.27' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p>
+                    <p>
+                        <ab xml:id="YeH" type="prayer">
+        <ab xml:id="YeH.a">
+                                <l>yeŋ́hē. hātąm. āat̰. yesnē. paitī. vaŋ́hō.</l>
+                            </ab> 
+        <ab xml:id="YeH.b">
+                                <l>mazdā̊. ahurō. vaēϑā. aṣ̌āt̰. hacā. yā̊ŋhąmcā.</l>
+                            </ab>
+        <ab xml:id="YeH.c">
+                                <l>tąscā. tā̊scā. yazamaide.</l>
+                            </ab>
+    </ab>
+                    </p>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt6.0" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt6.0</h4>
+            <h5 style="display:inline-block">(#GY7.28)</h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt6.0', '#GY7.28')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt6.0', '0', '#GY7.28' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <ab xml:id="WazGr4" type="WazGr">
+    <note anchored="true">zōt </note> yaϑā. ahū. vairiiō. zaōtā. frā.mē. mrūtē. aϑā. ratuš.
+    aṣ̌āt̰cīt̰. hacā. frā. aṣ̌auuā. vīδuuā̊. mraōtū.</ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt6.1" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt6.1</h4>
+            <h5 style="display:inline-block">(#GY8.1)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y8.1 YR8.1 VrS8.1 VVrS8.1 VytVrS8.1 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt6.1', '#GY8.1')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt6.1', '0', '#GY8.1' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p>
+                    <p>
+                        <ab type="prayer" xml:id="AV">
+        <ab xml:id="AV.a">
+                                <l>aṣ̌əm. vohū. vahištəm. astī.</l>
+                            </ab>
+        <ab xml:id="AV.b">
+                                <l>uštā. astī. uštā. aɱāi.</l>
+                            </ab>
+        <ab xml:id="AV.c">
+                                <l>hiiat̰. aṣ̌āi. vahištāi. aṣ̌əm.</l>
+                            </ab>
+    </ab>
+                        <note class="times">[ 3x ]</note>
+                    </p>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt6.2" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt6.2</h4>
+            <h5 style="display:inline-block">(#GY8.1)</h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt6.2', '#GY8.1')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt6.2', '0', '#GY8.1' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <ab xml:id="DrYt6.1a">aṣ̌aiia. daδąmi. xᵛarəϑəm. miiazdəm. hauruuata. amərətāta. gāuš. hudā̊. apə̄. uruuara.</ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt6.1b">aēsma. baōiδī. frasasti. ahurahe. mazdā̊. ahunahe. vairiiehe. aršuxδahe. vāxš.</ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt6.1c">daɱaiiā̊. vaŋhuiiā̊. āfritōiš. uγrāi. dāmōiš. upamanāi. </ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt6.1d">haōmaheca. mąϑraheca. aṣ̌aōnaēca. zaraϑuštrahe. aṣ̌aiia.nō. paiti. jamiiāt̰.</ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt6.3" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt6.3</h4>
+            <h5 style="display:inline-block">(#GY8.3)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y8.4 YR8.4 VrS8.4 VVrS8.4 VytVrS8.4 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt6.3', '#GY8.3')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt6.3', '0', '#GY8.3' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="2" type="Stanza" xml:id="DrYt6.2" corresp="#GY8.3">
+                        <ab xml:id="DrYt6.2a"> aməṣ̌a. spəṇta. daēne. māzdaiiasne. vaŋhauuasca.
+                            vaŋᵛhīšca. zaōϑrā̊sca.</ab>
+                        <ab xml:id="DrYt6.2b">yō. aēšuua. mazdaiiasnaēšuua. mazdaiiasnō. aōjanō.
+                            aṣ̌ahe. rāϑma. jīštaiiamnō. </ab>
+                        <ab xml:id="DrYt6.2c">yāϑβa. gaēϑā̊. aṣ̌ahe. mərəγəṇte. </ab>
+                        <ab xml:id="DrYt6.2d"> auui. tū. dim. disiiata. yā̊. apasca. uruuarā̊.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt6.4" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt6.4</h4>
+            <h5 style="display:inline-block">(#GY8.4)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y8.5 YR8.5 VrS8.5 VVrS8.5 VytVrS8.5 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt6.4', '#GY8.4')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt6.4', '0', '#GY8.4' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="3" type="Stanza" xml:id="DrYt6.3" corresp="#GY8.4a">
+                        <ab xml:id="DrYt6.3a"> yasca. aētaēšąm. mazdaiiasnanąm. pərənāiiunąm.
+                            aiβi.zūzuiianąm. imą. vacō. nōit̰. vīsaite. framrūite. aētąm. ā.
+                            yātumanahe. jasaiti.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt6.5" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt6.5</h4>
+            <h5 style="display:inline-block">(#GY8.4)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y8.6 YR8.6 VrS8.6 VVrS8.6 VytVrS8.6 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt6.5', '#GY8.4')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt6.5', '0', '#GY8.4' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p>
+                    <p>
+                        <ab type="prayer" xml:id="AV">
+        <ab xml:id="AV.a">
+                                <l>aṣ̌əm. vohū. vahištəm. astī.</l>
+                            </ab>
+        <ab xml:id="AV.b">
+                                <l>uštā. astī. uštā. aɱāi.</l>
+                            </ab>
+        <ab xml:id="AV.c">
+                                <l>hiiat̰. aṣ̌āi. vahištāi. aṣ̌əm.</l>
+                            </ab>
+    </ab>
+                        <note class="times">[ 3x ]</note>
+                    </p>
+                </p>
+                <p class=""/>
+                <p>
+                    <p>
+                        <ab type="prayer" xml:id="AV">
+        <ab xml:id="AV.a">
+                                <l>aṣ̌əm. vohū. vahištəm. astī.</l>
+                            </ab>
+        <ab xml:id="AV.b">
+                                <l>uštā. astī. uštā. aɱāi.</l>
+                            </ab>
+        <ab xml:id="AV.c">
+                                <l>hiiat̰. aṣ̌āi. vahištāi. aṣ̌əm.</l>
+                            </ab>
+    </ab>
+                        <note class="times">[ 4x ]</note>
+                    </p>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt6.6" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt6.6</h4>
+            <h5 style="display:inline-block">(#GY8.4)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y8.7 YR8.7 VrS8.7 VVrS8.7 VytVrS8.7 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt6.6', '#GY8.4')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt6.6', '0', '#GY8.4' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p>
+                    <p>
+                        <ab type="prayer" xml:id="YAV">
+       <ab xml:id="YAV.a">
+                                <l>yaϑā. ahū. vairiiō. aϑā. ratuš. aṣ̌āt̰cīt̰. hacā.</l>
+                            </ab> 
+       <ab xml:id="YAV.b">
+                                <l>vaŋhə̄uš. dazdā. manaŋhō. š́iiaōϑananąm. aŋhə̄uš. mazdāi.</l> </ab>
+       <ab xml:id="YAV.c">
+                                <l> xšaϑrəmcā. ahurāi.ā. yim. drigubiiō. dadat̰. vāstārəm.</l>
+                            </ab>
+    </ab>
+                        <note class="times">[ 2x ]</note>
+                    </p>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt6.7" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt6.7</h4>
+            <h5 style="display:inline-block">(#GY8.5)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y8.8 YR8.8 VrS8.8 VVrS8.8 VytVrS8.8 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt6.7', '#GY8.5')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt6.7', '0', '#GY8.5' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="5" type="Stanza" xml:id="DrYt6.5" corresp="#GY8.5">
+                        <ab xml:id="DrYt6.5a">vasasca. tū. ahura.mazda. uštāca. xšaēša. hauuanąm.
+                            dāmanąm.</ab>
+                        <ab xml:id="DrYt6.5b">vasō. āpō. vasō. uruuarā̊. vasō. vīspa. vohū.
+                            aṣ̌a.ciϑra.</ab>
+                        <ab xml:id="DrYt6.5c">xšaiiamnəm. aṣ̌auuanəm. dāiiata. axšaiiamnəm.
+                            druuaṇtəm.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt6.8" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt6.8</h4>
+            <h5 style="display:inline-block">(#GY8.6)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y8.9 YR8.9 VrS8.9 VVrS8.9 VytVrS8.9 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt6.8', '#GY8.6')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt6.8', '0', '#GY8.6' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="6" type="Stanza" xml:id="DrYt6.6" corresp="#GY8.6">
+                        <ab xml:id="DrYt6.6a">vasō.xšaϑrō. hiiāt̰. aṣ̌auua. auuasō.xšaϑrō. hiiāt̰.
+                            druuā̊.</ab>
+                        <ab xml:id="DrYt6.6b">gatō. hamistō. nižbərətō. haca. spəṇtahe. maińiiə̄uš.
+                            dāmabiiō. varatō. auuasō.xšaϑrō.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt6.9" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt6.9</h4>
+            <h5 style="display:inline-block">(#GY8.7)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y8.10 YR8.10 VrS8.10 VVrS8.10 VytVrS8.10 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt6.9', '#GY8.7')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt6.9', '0', '#GY8.7' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="7" type="Stanza" xml:id="DrYt6.7" corresp="#GY8.7">
+                        <ab xml:id="DrYt6.7a">haxšaiia. azəmcit̰. yō. zaraϑuštrō. fratəmą.
+                            nmānanąmca. vīsąmca. zaṇtunąmca. dax́iiunąmca.</ab>
+                        <ab xml:id="DrYt6.7b">aŋ́hā̊. daēnaiiā̊. anumataiiaēca. anuxtaiiaēca.
+                            anuuarštaiiaēca. yā. āhūiriš. zaraϑuštriš.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt6.10" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt6.10</h4>
+            <h5 style="display:inline-block">(#GY8.8)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y8.11 YR8.11 VrS8.11 VVrS8.11 VytVrS8.11 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt6.10', '#GY8.8')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt6.10', '0', '#GY8.8' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <div n="8" type="Stanza" xml:id="DrYt6.8" corresp="#GY8.8">
+                        <ab xml:id="DrYt6.8a">rauuasca. xᵛāϑrəmca. āfrīnāmi. vīspaiiā̊. aṣ̌aōnō.
+                            stōiš. </ab>
+                        <ab xml:id="DrYt6.8b">ązasca. dužāϑrəmca. āfrīnāmi. vīspaiiā̊. druuatō.
+                            stōiš.</ab>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt7.1" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt7.1</h4>
+            <h5 style="display:inline-block">
+                <prl>= Y8.12 YR8.12 VrS8.12 VVrS8.12 VytVrS8.12 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt7.1', '')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt7.1', '0', '' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p>
+                    <p>
+                        <ab type="prayer" xml:id="AV">
+        <ab xml:id="AV.a">
+                                <l>aṣ̌əm. vohū. vahištəm. astī.</l>
+                            </ab>
+        <ab xml:id="AV.b">
+                                <l>uštā. astī. uštā. aɱāi.</l>
+                            </ab>
+        <ab xml:id="AV.c">
+                                <l>hiiat̰. aṣ̌āi. vahištāi. aṣ̌əm.</l>
+                            </ab>
+    </ab>
+                        <note class="times">[ 3x ]</note>
+                    </p>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt7.2" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt7.2</h4>
+            <h5 style="display:inline-block">(#GY72.5)</h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt7.2', '#GY72.5')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt7.2', '0', '#GY72.5' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p>
+                    <p>
+                        <ab type="prayer" xml:id="YAV">
+       <ab xml:id="YAV.a">
+                                <l>yaϑā. ahū. vairiiō. aϑā. ratuš. aṣ̌āt̰cīt̰. hacā.</l>
+                            </ab> 
+       <ab xml:id="YAV.b">
+                                <l>vaŋhə̄uš. dazdā. manaŋhō. š́iiaōϑananąm. aŋhə̄uš. mazdāi.</l> </ab>
+       <ab xml:id="YAV.c">
+                                <l> xšaϑrəmcā. ahurāi.ā. yim. drigubiiō. dadat̰. vāstārəm.</l>
+                            </ab>
+    </ab>
+                        <note class="times">[ 2x ]</note>
+                    </p>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt7.3" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt7.3</h4>
+            <h5 style="display:inline-block">(#GY72.6, #GY72.7)</h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt7.3', '#GY72.6, #GY72.7')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt7.3', '0', '#GY72.6, #GY72.7' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="in1lineblock">
+                    <ab xml:id="DrYt7.2a">yasnəmca. vaɱəmca. aōjasca. zauuarəca. āfrīnāmi.</ab>
+                </p>
+                <p class="in1line">
+                    <span class="note red_nofloat">[Šnūman] </span>
+                    <ab xml:id="ShnumanGen21a">ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab>
+                    <ab xml:id="ShnumanGen21b">aṣ̌āunąm. frauuaṣ̌inąm. uγranąm. aiβiϑūranąm. paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm.
+            nabānazdištanąm. frauuaṣ̌inąm.</ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt7.4" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt7.4</h4>
+            <h5 style="display:inline-block">(GY72.8)</h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt7.4', 'GY72.8')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt7.4', '0', 'GY72.8' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="in1lineblock">
+                    <ab xml:id="DrYt7.3a">yasnəmca. vaɱəmca. aōjasca. zauuarəca. āfrīnāmi.</ab>
+                </p>
+                <p class="in1line">
+                    <span class="note red_nofloat">[Šnūman] </span>
+                    <ab xml:id="ShnumanGen21a">ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō. aməṣ̌anąm. spəṇtanąm.</ab>
+                    <ab xml:id="ShnumanGen21b">aṣ̌āunąm. frauuaṣ̌inąm. uγranąm. aiβiϑūranąm. paōiriiō.t̰kaēšanąm. frauuaṣ̌inąm.
+            nabānazdištanąm. frauuaṣ̌inąm.</ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt7.5" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt7.5</h4>
+            <h5 style="display:inline-block">(GY72.8)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y72.13 YR72.13 VrS97.13 VVrS97.13 VytVrS97.13 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt7.5', 'GY72.8')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt7.5', '0', 'GY72.8' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p>
+                    <p>
+                        <ab type="prayer" xml:id="AV">
+        <ab xml:id="AV.a">
+                                <l>aṣ̌əm. vohū. vahištəm. astī.</l>
+                            </ab>
+        <ab xml:id="AV.b">
+                                <l>uštā. astī. uštā. aɱāi.</l>
+                            </ab>
+        <ab xml:id="AV.c">
+                                <l>hiiat̰. aṣ̌āi. vahištāi. aṣ̌əm.</l>
+                            </ab>
+    </ab>
+                    </p>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt7.6" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt7.6</h4>
+            <h5 style="display:inline-block">(#GY72.9)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y72.14 YR72.14 VrS97.14 VVrS97.14 VytVrS97.14 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt7.6', '#GY72.9')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt7.6', '0', '#GY72.9' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <ab xml:id="DrYt7.4a">aɱāi. raēšca. xᵛarənasca. aɱāi. tanuuō. druuatātəm. </ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt7.4b">aɱāi. tanuuō. vazduuarə. aɱāi. tanuuō. vərəϑrəm. </ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt7.4c">aɱāi. īštīm. pouruš.xᵛāϑrąm. </ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt7.4d">aɱāi. āsnąmcit̰. frazaṇtīm. aɱāi. darəγąm.
+                            darəγō.jītīm. aɱāi. vahištəm. ahūm. aṣ̌aōnąm. raōcaŋhəm.
+                            vīspō.xᵛāϑrəm.</ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt7.7" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt7.7</h4>
+            <h5 style="display:inline-block">(#GY72.9)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y72.15 YR72.15 VrS97.15 VVrS97.15 VytVrS97.15 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt7.7', '#GY72.9')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt7.7', '0', '#GY72.9' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p>
+                    <p>
+                        <ab type="prayer" xml:id="AV">
+        <ab xml:id="AV.a">
+                                <l>aṣ̌əm. vohū. vahištəm. astī.</l>
+                            </ab>
+        <ab xml:id="AV.b">
+                                <l>uštā. astī. uštā. aɱāi.</l>
+                            </ab>
+        <ab xml:id="AV.c">
+                                <l>hiiat̰. aṣ̌āi. vahištāi. aṣ̌əm.</l>
+                            </ab>
+    </ab>
+                    </p>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt7.8" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt7.8</h4>
+            <h5 style="display:inline-block">(#GY72.9)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y72.16 YR72.16 VrS97.16 VVrS97.16 VytVrS97.16 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt7.8', '#GY72.9')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt7.8', '0', '#GY72.9' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <ab xml:id="DrYt7.4e">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt7.4f">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt7.4g">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt7.9" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt7.9</h4>
+            <h5 style="display:inline-block">(#GY72.9)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y72.17 YR72.17 VrS97.17 VVrS97.17 VytVrS97.17 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt7.9', '#GY72.9')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt7.9', '0', '#GY72.9' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p>
+                    <p>
+                        <ab type="prayer" xml:id="AV">
+        <ab xml:id="AV.a">
+                                <l>aṣ̌əm. vohū. vahištəm. astī.</l>
+                            </ab>
+        <ab xml:id="AV.b">
+                                <l>uštā. astī. uštā. aɱāi.</l>
+                            </ab>
+        <ab xml:id="AV.c">
+                                <l>hiiat̰. aṣ̌āi. vahištāi. aṣ̌əm.</l>
+                            </ab>
+    </ab>
+                    </p>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt7.10" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt7.10</h4>
+            <h5 style="display:inline-block">(#GY72.9)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y72.18 YR72.18 VrS97.18 VVrS97.18 VytVrS97.18 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt7.10', '#GY72.9')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt7.10', '0', '#GY72.9' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <ab xml:id="DrYt7.4h">jasa.mē. auuaŋhe. mazda.</ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt7.4i">jasa.mē. auuaŋhe. mazda.</ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt7.4j">jasa.mē. auuaŋhe. mazda.</ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt7.11" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt7.11</h4>
+            <h5 style="display:inline-block">(#GY72.10)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y72.19 YR72.19 VrS97.19 VVrS97.19 VytVrS97.19 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt7.11', '#GY72.10')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt7.11', '0', '#GY72.10' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p class="">
+                    <ab xml:id="DrYt7.5a">amahe. hutāštahe. huraōδahe. vərəϑraγnahe.
+                            ahuraδātahe. vanaiṇtiiā̊sca. uparatātō.</ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt7.5b">rāmanasca. xᵛāstrahe. vaiiaōš. uparō.kairiiehe.
+                            taraδātō. ańiiāiš. dāmąn. </ab>
+                </p>
+                <p class="">
+                    <ab xml:id="DrYt7.5c">aētat̰. tē. vaiiō. yat̰. tē. asti. spəṇtō.maińiiaōm.
+                            ϑβāṣ̌ahe. xᵛaδātahe. zruuānahe. akaranahe. zruuānahe. darəγō.xᵛaδātahe. </ab>
+                </p>
+            </div>
+        </div>
+        <div id="DrYt7.12" class="div_gen tabcontent">
+            <h4 style="display:inline-block;font-weight:bold;">DrYt7.12</h4>
+            <h5 style="display:inline-block">(#GY72.10)</h5>
+            <h5 style="display:inline-block">
+                <prl>= Y72.20 YR72.20 VrS97.20 VVrS97.20 VytVrS97.20 </prl>
+            </h5>
+            <div class="btn-stanza-options">
+                <button class="btn btn-tertiary option_button_third" style="text-align:left !important" type="button" title="Avestan Digital Archive" onclick="GotoADA('DrYt7.12', '#GY72.10')">
+                    <span class="glyphicon glyphicon-file"/>
+                </button>
+                <button class="btn btn-success option_button" style="text-align:left !important" title="Stanza Analysis" onclick="GetStanzaInfo('DrYt7.12', '0', '#GY72.10' )">
+                    <span class="glyphicon  btn-secondary glyphicon-th"/>
+                </button>
+            </div>
+            <div class="stanza_width">
+                <p>
+                    <p>
+                        <ab type="prayer" xml:id="AV">
+        <ab xml:id="AV.a">
+                                <l>aṣ̌əm. vohū. vahištəm. astī.</l>
+                            </ab>
+        <ab xml:id="AV.b">
+                                <l>uštā. astī. uštā. aɱāi.</l>
+                            </ab>
+        <ab xml:id="AV.c">
+                                <l>hiiat̰. aṣ̌āi. vahištāi. aṣ̌əm.</l>
+                            </ab>
+    </ab>
+                    </p>
+                </p>
+            </div>
+        </div>
+    </text>
+</TEI>

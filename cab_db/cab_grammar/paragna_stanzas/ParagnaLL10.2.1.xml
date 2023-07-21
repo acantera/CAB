@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL10.2.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="1" xml:id="ParagnaLL10.2.1">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL10.2.1 Var. a (Mss. K7, RJ):</ab>
+            <ab class="ab_indent">
+                pas yek-yek barsom sar čidan va šemordan pas b-āb-e pādyāb šostan be-čahār <em>aṣ̌em vohū</em> se <em>aṣ̌em vohū</em> az bon u sar šuyad va yek <em>aṣ̌əm vōhū</em> 
+                az sar u bon šuyad va barsom be pāy-e māhruy nahādan</ab>
+            <ab class="ab_indent">
+                "Then, he has to cut the end of the <em>barsom</em>, one to one, and count (the twigs) and wash them with <em>pādyāb</em>. (He has to recite) four <em>Aṣ̌əm Vohū</em>s.
+                During the three first <em>Aṣ̌əm Vohū</em>, he washes them from the bottom to the top and during one <em>Aṣ̌əm Vohū</em> from the top to the bottom. He has to put the 
+                <em>barsom</em> at the bottom of the <em>māhruy</em>."</ab>
+            
+            <ab>ParagnaLL10.2.1 Var. b (Mss. K36, 31, 19):</ab>
+            <ab class="ab_indent">
+                <em>aṣ̌əm vohū</em> se be guyešn va se bār az bon tā sar-e barsom be-šoyešn yeki digar be-guyešn va yekbār az sar tā bon be-šuyešn čin avāyad kardan ke har bār-i be har ǧā-ye 
+                pādyāv avar resid ke fa se-bār besyār berasīd šāyad</ab> 
+            <ab class="ab_indent">
+                "He has to recite three <em>Aṣ̌əm Vohū</em>s and to wash (the twigs) three times from the tip to the top of the <em>barsom</em> and one time from the top to the tip as it must
+                been done so that each single time he reaches that every parts is clean when it reaches entirely for three times, then it is allowed."</ab> 
+        </Nerangs>
+
+        <Quotations id="ritualQuotations">
+            <ab>N28.16 (Mss. K7, RJ):</ab>
+            <ab class="ab_indent">
+                <em>aṣ̌əm vohū</em> čahār bē gōwišn u-š harw sē bār az bun ō sar šōyišn u-š ēk-ē did bē gōwišn u-š ēk bār az sar ō bun šōyišn u-š ēdōn kunišn kū harw gyāg *pas bē ēk pas harw 
+                tāg pēš* pādyāb abar bē rasēd ast kē ēdōn gōwēd ya ka harw čahār bār rasēd ā šāyēd ast kē ēdōn gōwēd ay hād andar ōy sē *bār šōyēd ā šāyēd.</ab> 
+            <ab class="ab_indent">
+                "Then one should take the <em>bāj</em> and recite <em>aṣ̌əm vohū</em> four times. The first three times one should wash (the <em>barsom</em>) from bottom to top, and 
+                recite another (a.v.) and (then) wash it from top to bottom, and one should do this in such a way that (they wash) all places and then one (more). The <em>pādyāb</em> reaches 
+                each twig before and after. There is one who says: When (the <em>pādyāb</em>) reaches them every four times, then it is allowed. There is one who says that when he washes (them) in it 
+                three times, it is allowed."</ab>   
+        </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL10.2.1"/>
+    </translation>
+</text>

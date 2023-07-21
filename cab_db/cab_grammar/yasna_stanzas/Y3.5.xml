@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y3.5" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y3.5">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY3.5a" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.1" on_line="in1line"/>
+               <!-- all five possible -->
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY3.5b" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.2" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY3.5c" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.3" on_line="in1line"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: Y3.1.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab><em>āiiese yešti asńiiaēibiiō...</em>] <em>sāuuaŋhə̄ē</em> OD <em>yōi həṇti</em> (Y3.20) 231, 234, 235 (~ 100 -Gujarati Instruction-); <em>sāuuaŋhə̄ vīsīāica aṣ̌aone aṣ̌ahe raϑβe āiie.</em> OD LOYŠE cygwn PWN npšt <em>ẏōi həṇti</em> (Y3.20) 672.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels>
+    <ab>Y3.5 = Y22.6, VrS78.15; ≈ Y1.3, Y2.3, Y4.8, Y6.2, Y7.6, Y17.2, Y24.13, Y59.2, Y66.3, VrS79.8, VrS81.2, VrS82.3.</ab>
+    <ab><em>miϑrahe vouru.gaōiiaōtōiš hazaŋhrō.gaōšahe baēuuarə.cašmanō aōxtō.namanō yazatahe rāmanō xᵛāstrahe aṣ̌aōne aṣ̌ahe raϑβe</em> = The standard <em>xšnūman Mihr</em>.</ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrY3.5"/>
+    <include type="W" corresp="WTrY3.5"/>
+        <include type="K" corresp="KTrY3.5"/>
+        <include type="D" corresp="DTrY3.5"/>
+    </translation>
+</text>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y70.8" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y70.8">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YeH" xpointer="YeH"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y70.8 (mss. 5, 15, 40, 82, 88, 400, 410 (sec. m.), 2007, 2010, 2030, 2040, 2101, 2102, 2104, 2106, 2109, 4000, 4010, 4025, 4040, 4050, 4161 (sec.m. supr. l.), 5020, 4056):</ab>
+         <ab class="ab_indent">
+            <em>yeŋ́hē hātąm</em> tā sar guftan ēn gyāg āb hamāg pad sar ī barsom rēxtan</ab> 
+         <ab class="ab_indent">
+            "He should recite the <em>yeŋ́hē hātąm</em> until the end. At this passage, he should pour all water on the top of the barsom."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY70.8"/>
+      <include type="W" corresp="WTrY70.7b"/>
+      <include type="K" corresp="KTrY70.7b"/>
+      <include type="D" corresp="DTrY70.7b"/>
+   </translation>
+</text>

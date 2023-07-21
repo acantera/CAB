@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR11.14" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y11.14" xml:id="YR11.14" quote="Y52.6">
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR11.12a"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR11.12b"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR11.12c"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: vid. Y11.12.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab>YR11.14a <em>vasasca tū</em>] <em>ahuramazda</em> OD <em>vīspaiiā̊ druuatō</em> (YR11.17) 320; <em>ahuramazda</em> OD <em>druuatō staōiš</em> (YR11.17) 360;
+                <em>ahura mazda</em> OD OL Y <em>druuatō staōiš</em> (YR11.17) 370.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrYR11.14"/>
+    </translation>
+</text>

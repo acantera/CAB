@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y12.12" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y12.12">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY12.7a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY12.7b"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y12.6.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y12.12 <em>yāuuarəna-</em>] cod. (vid. Apparatus vv.ll.); Geldner <em>ẏā. varana-</em> / <em>ẏāuuarana-</em>; Kellens <em>yāuuarana-</em>. Cf. Y12.13a <em>tā varənācā</em>. 
+            <bibl>Tremblay, 2003</bibl>, p. 255 <em>yāuuarana-</em> "Compris par tout ou partie des manuscrits comme un composé <em>yauuarana-</em> et altéré en <em>yauaranō</em> (parfois au mépris de l'accord). Faut-il éditer <em>varənā</em> avec K4?".</ab>
+         <ab>Y12.12a.1, 3, 5 <em>yāuuarənā ... yāuuarənā ... yāuuarənā</em>] Geldner <em>ẏā.varanā</em>; Kellens <em>yāuuaranā</em>.</ab>
+         <ab>Y12.12a.8 <em>yāuuarənā</em>] Ir. cod.; Geldner, Kellens <em>ẏāuuaranō</em>; Tremblay <em>⁺yāuuaranā</em>.</ab>
+         <ab>Y12.12b.1 <em>yāuuarənā</em>] cod. 2007, 2010, 2109, 5020; Geldner, Kellens <em>ẏāuuaranō</em>; Tremblay <em>⁺yāuuaranā</em>.</ab>
+         <ab>Y12.12b.2 <em>as</em>] Geldner, Kellens pro ⁺<em>ās</em> (Tremblay). <bibl>Kellens, 2007</bibl> p. 136 "l'imparfait explicite (<em>ās</em>) signale le passage au passé."</ab>
+         <ab>Y12.12b.4 <em>yāuuarənā</em>] Ir. cod.; Geldner, Kellens <em>ẏāuuaranō</em>; Tremblay <em>⁺yāuuaranā</em>.</ab>
+         <ab>Y12.12b.7 <em>yāuuarənā</em>] cod.; Geödner, Kellens, Tremblay <em>yāuuaranā</em>.</ab>
+         <ab>Y12.12b.10 <em>yāuuarənā</em>] cod. 15; Geldner, Kellens <em>ẏāuuaranō</em>; Tremblay <em>⁺yāuuaranā</em>.</ab>
+         <ab><em>tā varənācā t̰kaēšācā mazdaiiasnō aɱī</em>] vid. Y12.13.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>yāuuaranā āpō yāuuaranā uruuarā̊</em> ~ Y8.4 <em>yā̊ apasca uruuarā̊</em>; ~ Y9.4 <em>āpa uruuaire</em>;  ~ Y18.2, Y51.8, Y65.15 <em>yə̄ gąm tašō apascā uruuarā̊sca</em>; ~ Y8.8, Y11.4, Y52.6, Y60.10, Y68.17, Y71.29 <em>vasō. āpō. vasō. uruuarā̊.</em>; 
+         ~ Y16.9 <em>yazamaide vīspā̊ āpō yazamaide vīspā uruuarā̊</em>; ~ Y37.1 <em>dāt̰ apascā dāt̰ uruuarā̊sca vaŋᵛhīš</em>; ~ Y44.4 <em>kə̄ apō uruuarā̊scā</em>; 
+         ~ VrS65.78, VrS65.80 <em>auui apąmca vaŋᵛhinąm uruuuarnąmca</em>; ~ VrS65.78, VrS65.80 <em>yā̊ vaŋᵛhīš yā̊ āpō yā̊sca uruuarā̊</em>.</ab>
+      <ab><em>ahurō mazdā̊ ... yə̄ gąm dadā</em> ~ Y37.1 <em>ahurəm mazdąm yə̄ gąmcā aṣ̌əmcā dāt̰</em>.</ab>
+      <ab><em>fərašaōštrā jāmāspā</em> ~ VytS2.6 <em>frašaōštraēibiia jāmāspaēibiia</em>.</ab>
+      <ab><em>kascīt̰ saōš́iiaṇtąm haiϑiiāuuarəząm aṣ̌āunąm</em> ~ VrS27.14 <em>yōi saōš́iiaṇtō ... yat̰ haiϑiiāuuarəząm aṣ̌aōnąm</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY12.12"/>
+      <include type="W" corresp="WTrY12.7"/>
+      <include type="K" corresp="KTrY12.7a"/>
+      <include type="D" corresp="DTrY12.7a"/>
+   </translation>
+</text>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y4.7" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y4.7">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY4.7"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: Kotwal und Boyd.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>Y4.7 = Y24.12, VrS79.7; ≈ Y1.1, Y1.2, Y2.2, Y6.1, Y17.1, Y22.2, Y59.1, VrS78.13, VrS81.1.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY4.7"/>
+     <include type="W" corresp="WTrY4.7"/>
+        <include type="K" corresp="KTrY4.7"/>
+        <include type="D" corresp="DTrY4.7"/>
+    </translation>
+</text>

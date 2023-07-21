@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y22.25" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y22.25">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY22.27b" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen54" on_line="in1line"/>
+      <!-- Others possible depending on the the day, except... -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY22.27c" on_line="in1line"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y22.21.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>Y22.25a <em>iməm haōməm</em> ...] MN <em>iməm haōməm aṣ̌aiia uzdātəm āii. ye.</em> cygwn npšt OD OL Y <em>aōxtō.nāmanō yazatahe</em> II bʾl gwptn' 5;
+            <em>iməm haōməm aṣ̌aiia uzdātəm ā. y.</em> cygwn npšt' OD <em>aōxtō.nāmanō yazatahe</em> 6; <em>imim hōmim</em> II bʾl <em>aōxtō nāmanō.yazatahe</em> 60;
+         MN <em>iməm haoməm</em> OD LOYŠE II bʾ˛gwptn' 400; MN <em>iməm haoməm</em> OD LTME II  bʾl gwptn' 410, 500, 510.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>Vid. Parallels Y22.22, Y22.23, Y22.24.</ab>
+      <ab>VrS25.32 = DoHom2.32.</ab>
+   </Parallels>
+   <Ritual>
+      <Quotations id="ritualQuotations">
+         <ab>Vid. Y22.24.</ab>
+      </Quotations>
+      <ModernPractice id="ritualModernPractice">
+         <ab><bibl>Redard and Daruwalla, 2021</bibl>, p. 89:</ab>
+         <ab class="ab_indent">"As above, while reciting <em>imǝm haomǝm</em> for the second time, the chief priest, taking the libation wire again, dipping it in the milk saucer, while wetting the
+            date-palm leaf of the bundle, he recites. And at the start of the dedication, the chief priest puts the libation wire back on the milk saucer."</ab>
+      </ModernPractice>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY22.25"/>
+      <include type="W" corresp="WTrY22.28"/>
+      <include type="K" corresp="KTrY22.28"/>
+      <include type="D" corresp="DTrY22.28"/>
+   </translation>
+</text>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS1.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y1.1" xml:id="VVrS1.1">
+         <include href="/db/apps/cab_db/cab_rituals/nerang/videvdad_nerang" xpointer="VVrS1.1NerangTransc.a"/>
+         <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY1.1"/>
+      </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: vid. Y1.1.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>VVrS1.1 (Nērang ī āb) (mss. 4000, 4010, 4020, 4063):</ab>
+            <ab class="ab_indent">
+                pad <em>ńiuuaēδaiiemi</em> bun bē nigerišn u-š abastāg bē rāyēnišn</ab>
+            <ab class="ab_indent">
+                "He has to make an inspection at the beginning of the <em>ńiuuaēδaiiemi</em> and to arrange the <em>abastāg</em>."</ab>
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+            <ab><ab>NērangVVrS0.14 (Nērang ī āb) [mss. 4000 4010 4020 4025 4063], cf. WiD and Revāyat of Kāma Bohra (MU1, p. 577):</ab>
+                <ab class="ab_indent">(Pahl.) pad <em>ńiuuaēδaiiemi</em> (Pahl.) bun bē nigerišn pas abastāg bē rāyēnišn</ab>
+                <ab class="ab_indent">At the beginning of <em>ńiuuaēδaiiemi</em> (they) should be looked. Then the Avesta should be recited.</ab></ab>
+            
+            <ab><ab>Revāyat of Kāmdin Šapur (var. a) (MU1, pp. 581):</ab>
+                <ab class="ab_indent">(Pāz.) u pa <em>niuuaēδaiiaemi</em> (Pāz.) nīrəṇg u <em>haṇkāraiiemi</em> (Pāz.) āv nigrīδan</ab>
+                <ab class="ab_indent">At <em>niuuaēδaiiaemi</em> the <em>nīrang</em> must be looked and at <em>haṇkāraiiemi</em> the water.</ab></ab>
+            
+            <ab><ab>Revāyat of Kāmdin Šapur (var. b) (MU1, p.584):</ab>
+                <ab class="ab_indent">(Pāz.) pa <em>niuuaēδaiiemi</em> banagarṣ̌ni</ab>
+                <ab class="ab_indent">At <em>niuuaēδaiiemi</em> (they) should look.</ab></ab>
+            
+            <ab><ab>Revāyat of Behdin Ǧāsā (MU1, p. 593):</ab>
+                <ab class="ab_indent">pas <em>niuuaēδaiiaēimi</em> gomiz va <em>haṇkāraiiaēimi</em> āb benagarəšn pas hamā saǧešn zur va barsam va urvarām va hum va ǧuvām va ān ātašgāh ism va buy hamā ḫub benagarešn va avestā beḫᵛānešn</ab>
+                <ab class="ab_indent">Then at <em>niuuaēδaiiaēimi</em> (they) should look at the urine and (at) <em>haṇkāraiiaēimi</em> the water. Then all the utensils should be washed and the <em>barsom</em>. the <em>urvarām</em>, 
+                    the <em>hōm</em>, the <em>ǰivām</em> and this <em>ātaš-gāh</em>. (They) should look well at all the <em>ēsm</em> and <em>bōy</em> and recite the Avesta.</ab></ab>
+        </Quotations>
+        <ab class="ab_indent">At the beginning of the ńiuuaēδaiiemi, they have togaze (at them). Than, they continue with the <em>abastāg</em>.</ab>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrVVrS1.1"/>
+    </translation>
+</text>

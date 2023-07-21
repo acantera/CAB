@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS11.10" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS11.10">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS3.2"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: mss., Ankleasaria, Geldner.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>āϑrauuanəm āstāiia...</em>] ẔNE gywʾk' zwt'lʾspyk KRA II gwptn' <em>āϑrauuanəm āstāiia</em> 2007; W ẔNE gyw zwt' lʾspyk LWTE hm gwptn' <em>āϑrauuanəm āstāiia</em> 2010; MN ẔNE gywʾk' zwt W lʾspyk' LWTE ʾywk' dtykl gwptn' <em>āϑrauuanəm āstāiia</em> 2030; lʾspyk LWTE zwt' gwptn' <em>āϑrauuanəm āstāiia</em> 2040; zwt' lʾspyk ẔNE gwptn' <em>āϑrauuanəm āstāiia</em> 2065;  zwt' lʾsp̄yk gwptn' <em>āϑrauuanəm āstāiia</em> 2070; zwt W lʾspyk LWTE ʾywk' dtygl gwptn' <em>āϑrauuanəm āstāiia</em> 2101; ẔNE gywʾk' zwt' lʾspyk <em>āϑrauuanəm āstāiia</em> 2109.</ab>
+         <ab><em>āϑrauuanəm āstāiia...</em>] <em>āϑrauuanəm āstāiia. raϑaēštārəm āstāiia</em> OD <em>vāstriią̇sca fšuiiaṇtō</em> (VrS11.13) 2065; <em>āϑrauuanəm āstāiia. raϑaēštārəm āstāiia</em> OD <em>aϑauruną̇sca raϑaēštārə̄sca</em> (VrS11.13) 2070.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab><em>āϑrauuanəm āstāiia raϑaēštārəm āstāiia vāstrīm fšuiiaṇtəm āstāiia</em> ~ Y11.6 <em>āϑrauua naēδa raϑaēštā̊ naēδa vāstriiō fšuiiąs</em>; ~ Y19.17 <em>āϑrauua raϑaēštā̊ vāstriiō fšuiiąs</em>; ~ Y13.3 <em>aϑaurunąscā raϑaēštąscā vāstriiąscā fšuiiaṇtō</em>; ~ VrS11.13 <em>aϑaurunąsca raϑaēštārə̄sca vāstriiąsca fšuiiaṇtō</em>.</ab>
+      <ab><em>nmānahe nmānō.paitīm āstāiia vīsō vīspaitīm āstāiia zaṇtə̄uš zaṇtu.paitīm āstāiia daiŋ́hə̄uš daiŋ́hu.paitīm āstāiia</em> ~ Y13.1 <em>nmānahē nmānō.patōiš ratūm ā vīsō vīspatōiš ratūm ā zaṇtə̄uš zaṇtu.patōiš ratūm ā daiŋ́hə̄uš daiŋ́hu.patōiš ratūm ā</em>; ~ VS10.5 (x2), VS10.6, VS10.9, VS10.10, VS10.13, VS10.14 <em>haca nmānahē nmānō.patōiš haca vīsō vīspatōiš haca zaṇtə̄uš zaṇtu.patōiš haca daiŋ́hə̄uš daiŋ́hu.patōiš</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS11.10"/>
+   </translation>
+</text>

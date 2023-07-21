@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS65.13" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS65.13">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS65.13NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV3"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS65.13 (mss. 2005, 2007, 2010, 2030, 2040, 2101, 2109, 4000, 4010, 4025, 4040, 4050, 4055, 4060, 4161, 5020):</ab>
+         <ab class="ab_indent">
+            rāspīg pad gād gāh ī ātrawaxšān <em>aṣ̌əm vohū</em> sē guftan</ab> 
+         <ab class="ab_indent">
+            "The <em>rāspīg</em> should recite three <em>aṣ̌əm vohū</em> at the place of the <em>ātrawaxš</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS65.13"/>
+   </translation>
+</text>

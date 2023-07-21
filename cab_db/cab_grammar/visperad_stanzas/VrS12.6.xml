@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS12.6" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y12.6" xml:id="VrS12.6">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY12.1"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y12.6.</ab>
+            <ab class="ab_indent">zōt ud rāspīg: <em>nāismī ... ahurāi mazdāi</em>; zōt: <em>vaŋhauuē...</em>: 2109.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>nāismī daēuuō ...</em>] <em>nāismī daēuuō</em> OD OL Y <em>yeŋ́hē hātą̇m</em> (Y13.12) 2070.</ab>
+         <ab><em>ahurāi mazdāi vaŋhauuē</em>] <em>ahurāi mazdāi</em> (Per.) rāsfi ḫāmuš <em>vaŋhauuē</em> 2109.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS12.6"/>
+   </translation>
+</text>

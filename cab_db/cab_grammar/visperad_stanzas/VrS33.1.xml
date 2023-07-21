@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS33.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS33.1">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS33.1NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY28.0"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS33.1 (mss. 2005, 2007, 2010, 2040, 2104, 2109, 4000, 4010, 4025, 4040, 4050, 4055, 4060, 4063, 4161, 4162, 5020):</ab>
+         <ab class="ab_indent">
+            yānīm bun kardan ud hāwan škāftan abastāg rāyēnīdan</ab>
+         <ab class="ab_indent">
+            "He should begin the <em>Yānīm</em>, hit the <em>hāwan</em> and peform the <em>abastāg</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS33.1"/>
+   </translation>
+</text>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS87.7" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VrS87.7">
+            <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS87.7NerangTransc.a"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS39.3a"/>
+               <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS87.7NerangTransc.b"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS39.3b"/>
+               <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS87.7NerangTransc.c"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS39.3c"/>
+               <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS87.7NerangTransc.d"/>
+            </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>VrS87.7 Var. a (mss. 2005, 2007, 2030, 2040, 2101, 2102, 2106, 2109, 5020):</ab>
+            <ab class="ab_indent">
+                taštag kē-š zōhr padiš abar ǰām gāh nihišn <em>ahurəm mazdąm aṣ̌auuanəm aṣ̌ahe ratūm yazamaide</em> abar sar ī barsom nihišn <em>aməṣ̌ā spəṇtā huxšaϑrā huδā̊ŋhō yazamaide</em> pad 
+                hōy ī barsom nihišn <em>apō at̰ yazamaide</em> zōhr abar āb nihišn</ab> 
+            <ab class="ab_indent">
+                "He has to put the cup that contains the <em>zōhr</em> on the place of the <em>ǰīwām</em>. At <em>ahurəm mazdąm aṣ̌auuanəm aṣ̌ahe ratūm yazamaide</em>, he has to put
+                it on the end of the <em>barsom</em>. At <em>aməṣ̌ā spəṇtā huxšaϑrā huδā̊ŋhō yazamaide</em>, he has to put it on the left side of the <em>barsom</em>. At <em>apō at̰ 
+                    yazamaide</em>, he has to put the <em>zōhr</em> on the water."</ab>
+            
+            <ab>VrS87.7 Var. b (mss. 2010, 2104):</ab>
+            <ab class="ab_indent">
+                taštag kē-š zōhr padiš abar ǰām nihišn <em>ahurəm mazdąm</em> andar mayān māhrōy abar sar ī barsom <em>aməṣ̌ā spəṇtā</em> tā <em>huδā̊ŋhō yazamaide</em> pad hōy ī 
+                barsom <em>apō at̰ yazamaide</em> zōhr abar āb nihišn</ab>
+            <ab class="ab_indent">
+                "He has to put the cup that contains the <em>zōhr</em> on <em>ǰīwām</em>. At <em>ahurəm mazdąm</em>, he has to put it in the middle of <em>māhrōy</em>, at the end
+                of the <em>barsom</em>. At <em>aməṣ̌ā spəṇtā</em> until <em>huδā̊ŋhō yazamaide</em>, on the left side of the <em>barsom</em>. At <em>apō at̰ yazamaide</em>, on the water."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrVrS87.7"/>
+    </translation>
+</text>

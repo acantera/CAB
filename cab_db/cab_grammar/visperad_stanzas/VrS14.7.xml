@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS14.7" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS14.7">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS5.5b"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. VrS14.1.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS14.7 = Y2.19; ≈ Y1.19, Y3.24, Y4.25, Y6.20, Y7.25, Y17.19, Y22.29, Y24.30, Y66.24, Y71.23, VrS78.36, VrS79.25, VrS81.29, VrS82.24.</ab>
+      <ab><em>aṣ̌āunąm vaŋuhīš sūrā̊ spəṇtā̊ frauuaṣ̌aiiō</em> = Y26.2, Y59.21, VrS81.20, DrYt4.11, Yt13 (<em>passim</em>), Šn. ext. <em>ardafrawahr</em>.</ab>.
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS14.7"/>
+   </translation>
+</text>

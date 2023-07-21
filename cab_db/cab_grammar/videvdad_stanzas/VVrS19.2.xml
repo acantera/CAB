@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS19.2" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="VrS19.2" xml:id="VVrS19.2" quote="Y35.5">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS9.2"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">rāspīg: vid. VrS19.2.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VrS19.2a-c <em>huxšaϑrō.təmāi</em> ... <em>vahištāi</em>]  MN <em>huxšaϑrōtəmāi</em> ... <em>aṣ̌āicā vahištāi</em> III bʾl gwptn' 4000; MN <em>huxšaϑrōtəmāi</em> OD <em>aṣ̌āicā vahištāi</em> III bʾl gwptn' 4045;
+            MN <em>huxšaϑrōtəmāi</em> ... <em>aṣ̌āicā vahištāi</em> III bʾl 4075; <em>huxšaϑarō.təmāi bāδaxšaϑrəm</em> OD <em>vahištāi</em> III 4280; <em>huxšāϑrō.təmāi</em> OD <em>aṣ̌āica vahištā</em> III 4515.</ab>
+         <ab>VrS19.2a <em>huxšaϑrō.təmāi bā.at̰</em> ...] <em>huxšatrōtəmāi bāt̰</em> OD III bʾl gwptn' 4030; <em>huxšaϑrōtəmāi</em> III bʾl gwptn' 4040, 4161; <em>huxšaϑrō.təmāi</em> III 4200; <em>aɱat̰ hiiat̰ aibī</em> III 4210;
+            <em>huxšϑrō.təmāi</em> III bʾl 4370.</ab>
+         <ab>VrS19.2c <em>hiiat̰ mazdāi</em> ...] <em>aṣ̌āicā vahištāi</em> MN <em>huxšaϑrōtəmāi</em> OD <em>vahištāi</em> III bʾl gwptn' 4010, 4025; <em>aṣ̌āicā vahištāi</em> III bʾl gwptn' 4020, 4050. 4162.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS19.2"/>
+   </translation>
+</text>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y10.11" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y10.11">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY10.11"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y10.6.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y10.11a <em>aϑra</em>] Geldner, Kellens; Pirart <em>haϑra</em>.</ab>
+         <ab>Y10.11a <em>spəṇta.fradaxšta</em>] Geldner, Kellens; Pirart <em>spəṇta.fradixšta</em>,</ab>
+         <ab>Y10.11b <em>vī.barən</em>] cod., Pirart; Geldner, Kellens <em>vībarən</em>.</ab>
+         <ab>Y10.11b <em>iš́ata</em>] Ir. cod. clearly <em>iš́ata</em> (also <em>išata</em> and <em>iš́iiata</em>) as <em>lectio difficilior</em>, Geldner; Kellens, Pirart <em>iškata</em> (Ind. liturgical cod.). Cf. Pahl. <em>škuft</em> (<bibl>Humbach and Ichaporia, 1998</bibl> pp. 70-71) speaks for <em>iškata</em> “house/home of refreshments” (etim. by Hoffmann). <bibl>Hintze, 1994</bibl> p. 77 <em>iš́iiata</em> (IIr. <em>*īč-ḭa-ta-</em> “[widely] visible”) seems secondary.</ab>
+         <ab>Y10.11b <em>upāiri.saēna</em>] Geldner, Bartholomae, Pirart; Kellens (sec. <bibl>De Vaan, 2003</bibl> p. 74) <em>upairi.saēna-</em>. Cod. divided and VIr. <em>upaēri°</em>.
+            <bibl>Humbach and Ichaporia, 1998</bibl> p. 71 <em>*upārisaina-</em> “covered with juniper”. Cf. Pahl. <em>abārsēn</em>.</ab>
+         <ab>Y10.11b-c <em>iš́ata. upāiri saēna ... staēra. starō.sāra ... kusrāδa. kusrō.patāδa ... paβrāna. višpaϑa</em>] Pirart <em>iškata.upāiri saēna ... staēra.starō.sāra ... kusrāδa.kusrō.patāδa ... paβrāna.višpaϑa</em>.</ab>
+         <ab>Y10.11c <em>viš.paϑa</em>] sec. cod.; Geldner, Kellens, Pirart <em>višpaϑa</em>. Vid. com. Y10.4 <em>višpaϑa</em>, adverb.</ab>
+         <ab>Y10.11c <em>spita.gaōna</em>] Geldner, Kellens; Pirart <em>spiti.gaona</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>iš́ata upairi.saēna</em> ~ Y1t19.3 <em>iš́atāca upairi.saēna</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY10.11"/>
+      <include type="W" corresp="WTrY10.11"/>
+      <include type="K" corresp="KTrY10.11"/>
+      <include type="D" corresp="DTrY10.11"/>
+   </translation>
+</text>

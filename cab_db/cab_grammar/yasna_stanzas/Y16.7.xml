@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y16.7" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y16.7">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY16.7"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y16.0.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab><em>xᵛanuuaitīš aṣ̌ahe vərəzō yazamaide</em> ~ VrS62.5 <em>xᵛanuuaitīš vərəzō yazamaide</em>; ~ Yt3.1 <em>xvanuuaitīšca vərəzō</em>.</ab>
+      <ab><em>iristanąm uruuąnō š́āiieṇti yā̊ aṣ̌āunąm frāuuaṣ̌aiiō</em> ~ Y26.6, Y26.10, Y59.25, Y71.24, VrS18.5, VrS30.11, VrS36.5, VrS41.6, VrS51.8, VrS57.8, VrS62.8, VrS64.9, VrS65.82, VrS69.8, VrS71.8, VrS81.24, VrS87.12, VrS93.11, DrYt4.15 
+         <em>iristanąm uruuąnō yazamaide yā̊ aṣ̌āunąm frāuuaṣ̌aiiō</em>.</ab>
+      <ab><em>vahištəm ahūm aṣ̌aōnąm yazamaide raōcaŋhəm vīspō.xᵛāϑrəm</em> =  VrS18.1 (x3), VrS28.2 (x3), VrS69.5; 
+         ~ Y9.19, Y11.10, Y62.6, Y68.5, Y68.11, Y72.14, VrS78.11, AD2.12, AGahambar2.23, AGatha2.11, ARap2.12, ANogNavar2.7, ŠnĀsman <em>vahištəm ahūm aṣ̌aōnąm raōcaŋhəm vīspō.xᵛāϑrəm</em>; 
+         ~ P37.2 <em>vahištəmca ahūm anaγraca raōcā̊ afrasaŋhąnca xᵛāϑra</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY16.7"/>
+      <include type="W" corresp="WTrY16.7"/>
+      <include type="K" corresp="KTrY16.7"/>
+      <include type="D" corresp="DTrY16.7"/>
+   </translation>
+</text>

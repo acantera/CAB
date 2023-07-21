@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y22.26" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y22.26" shnumandep="1"> <!-- here Y22.27 to Y22.29 if Shnuman 15, 17, 18, 21, 25, 26, 35, 39, 40, 41, 43, 44, 45, 46, 47, 48, 49, 50, 51, 54, 56, 57, 58. --> <!-- aci -->
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY23.1"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: Anklesaria, Kotwal and Boyd, Geldner.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab>Y22.26a <em>paōiriia</em>] err. for exp. <em>paōiriiā̊</em>; likely dissimilated from next word <em>ā̊ŋharə</em>. Some Ind. mss. <em>paōiriiā̊ŋharə</em>.</ab>
+        </Commentary>
+        <RecitationInstruction>
+            <ab>Y22.26a <em>auuaŋ́hā̊ frauuaṣ̌aiiō</em> ...] <em>auuaŋ́hā̊ frauuašaiiō</em> OD <em>yat̰ vahištāt̰</em> (Y22.30) 40.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels>
+        <ab>Y22.24-26 = Y66.21-23.</ab>
+        <ab>Y22.24 = Y66.21.</ab>
+        <ab>VrS25.33 = DoHom2.33.</ab>
+        <ab><em>auuaŋ́hā frauuaṣ̌aiiō yā̊ paōiriia ā̊ŋharə nmānanąmca vīsąmca zaṇtunąmca dax́iiunąmca</em> ~ Yt13.150 <em>paōiriiąn t̰kaēšə̄ yazamaide nmānanąmca vīsąmca zaṇtunąmca dax́iiunąmca yōi ā̊ŋharə</em>.</ab>
+        <ab><em>auuaŋ́hā frauuaṣ̌aiiō yā̊ paōiriia ā̊ŋharə</em> ~ Y26.1, Y59.20, VrS81.19, DrYt4.10, Yt13.80 <em>vīspanąmca ā̊ŋhąm paōiriianąm frauuaṣ̌inąm</em>.</ab>
+        <ab><em>yā̊ paōiriia ā̊ŋharə nmānanąmca vīsąmca zaṇtunąmca dax́iiunąmca</em> ~ Y8.10, Y11.16, Y52.8, Y60.12, Y68.19, Y71.31 <em>fratəmą nmānanąmca vīsąmca zaṇtunąmca dax́iiunąmca</em>.</ab>
+        <ab><em>yā̊ asmanəm vīδāraiiən yā̊ āpəm vīδāraiiən yā̊ ząm vīδāraiiən yā̊ gąm vīδāraiiən yā̊ barəϑrišuua puϑrə̄ vīδāraiiən paiti.vərətə̄ apara.iriϑəṇtō</em> ~ Yt13.2 <em>ā̊ŋhąm raiia xᵛarənaŋhaca vīδāraēm zaraϑuštra aōm asmanəm</em> [...] Yt13.4 <em>ā̊ŋhąm raiia xᵛarənaŋhaca vīδāraēm zaraϑuštra arəduuīm sūrąm anāhitąm</em> [...] Yt13.9 <em>ā̊ŋhąm raiia xᵛarənaŋhaca vīδāraēm zaraϑuštra ząm pərəϑβīm ahuraδātąm</em> [...] Yt13.11 <em>ā̊ŋhąm raiia xᵛarənaŋhaca vīδāraēm zaraϑuštra azəm bərəϑrišuua puϑrə̄ paiti.vərətə̄ apara iriϑiṇtō</em>; 
+            ~ Yt13.28 <em> tā̊</em> (*Note: the Frauuaṣ̌iš) <em>mazdā̊ zbaiiat̰ auuaŋhe auuaŋheca ašnō vīdiδāra apasca zəmasca uruuaraiiā̊sca yat̰ spəṇtō maińiiuš vīδāraiiat̰ asmanəm yat̰ āpəm yat̰ ząm yat̰ gąm yat̰ uruuarąm yat̰ barəϑrišuua puϑrə̄ vīδāraiiat̰ paiti.vərətə̄ apara.iriϑəṇtō</em></ab>
+    </Parallels>
+    <Ritual>
+        <Quotations id="ritualQuotations">
+            <ab>Vid. Y22.24.</ab>
+        </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY22.26"/>
+    <include type="W" corresp="WTrY23.1"/><include type="K" corresp="KTrY23.1"/><include type="D" corresp="DTrY23.1"/></translation>
+</text>

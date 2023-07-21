@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y51.1" status="created">  <!-- created, approved, updated--> <header>
+   <creators>
+      <creator>Porro</creator>
+      <creator>Cantera</creator>
+   </creators>
+   <created>1 June 2019</created>
+</header>
+   <div type="Stanza" sameAs="" xml:id="Y51.1">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY51.1"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <ab>Cf. VS10.2-4</ab>
+      <ab>Cf. N16.1 (<bibl>Kotwal and Kreyenbroek, 1995</bibl>: pp. 98-9):</ab>
+      <ab class="ab_indent"><em>kaiia *həṇti vaca bišāmrūta</em></ab>
+      <ab class="ab_indent"><em>ahiiā ẏāsā ... humatanąm ... aṣ̌ahiiā āat̰ ... ẏaθā tū ī ... humāīm
+         θβā īžīm ... 'θβōi staotarascā' ... uštā ahmāi... spəṇtā
+         mainiiū ... vohū xšaθrəm vairīm ... vahištā īštiš
+      </em></ab>
+      <ab class="ab_indent">"Which are the formulae to be recited twice?</ab>
+      <ab class="ab_indent"><em>ahiiā ẏāsā </em>(Y28.3)... <em> humatanąm </em>(Y35.2) ... <em>aṣ̌ahiiā āat̰ </em>(Y35.8) ... <em>ẏaθā tū ī</em> (Y39.4) ... <em>humāīm
+         θβā īžīm </em>(Y41.3) ...<em> θβōi staotarascā </em> (Y41.5) ... <em>uštā ahmāi</em> (Y43.1)... <em>spəṇtā
+            mainiiū </em>(Y47.1) ... <em>vohū xšaθrəm vairīm</em> (Y51.1) ... <em>vahištā īštiš</em> (Y53.1)
+      </ab>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY51.2"/>
+   </translation>
+</text>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y8.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y8.1">
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV1"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: Anklesaria, Geldner.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab>III gwptn'] 5, 6, 8, 15, 40, 88, 672; III 100, 110, 231, 234, 235, 677; <em>aṣ̌əm vohū vahištəm astī</em> OD gywʾk slyšʾmlwtyk gwbšn' 400, 410, 500, 510.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrY8.1"/>
+    <include type="W" corresp="WTrY8.1a"/>
+        <include type="K" corresp="KTrY8.1a"/>
+        <include type="D" corresp="DTrY8.1a"/>
+    </translation>
+</text>

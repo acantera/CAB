@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y46.7" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y46.7">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY46.7"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab><em>naēcīt̰</em> must be an old variant (Iranian VrS -except mss. 2030 and copies- and VS). Dk and Iranian VS traditions linked by Šahryār Irdešīr.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <Quotations id="Nebenüberlieferung">
+         <ab><em>̰naēcīt̰ tə̄m aniiə̄m</em>: Dk M944.8.</ab>
+      </Quotations>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY46.7"/>
+   </translation>
+</text>

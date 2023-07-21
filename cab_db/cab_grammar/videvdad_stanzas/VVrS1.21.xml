@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS1.21" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y1.12" xml:id="VVrS1.21">
+         <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY1.11b" on_line="in1lineblock"/>
+         <include href="/db/apps/cab_db/cab_rituals/blocks/RozGen" xpointer="RozGen1" on_line="in1line"/>
+         <!-- All days possible -->
+         <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY1.11c" on_line="in1lineblock"/>
+         <include href="/db/apps/cab_db/cab_rituals/blocks/MahGen" xpointer="MahGen1" on_line="in1line"/>
+         <!-- All months possible -->
+      </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. VVrS1.5.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab><em>ńiuuaēδaiiemi haṇkāraiiemi ...</em>] <em>ńiuuaēδaiiemi haṇkāraiiemi</em> YWM W BYRH gwptn' 4010, 4020, 4025, 4040, 4050, 4161; <em>ńiuuaēδaiiemi haṇkāraiieme</em> YWM W BYRH ZKš.ḆYN YKOYYMWNd gwptn' 4030; <em>ńiuuaēδaiiemi haṇkāraiiemi</em> YWM W BYRH 4075.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrVVrS1.21"/>
+    </translation>
+</text>

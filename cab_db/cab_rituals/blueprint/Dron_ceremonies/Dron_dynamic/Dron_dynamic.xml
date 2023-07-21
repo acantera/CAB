@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+         <div>
+             <div xml:id="DrYt1.0">
+                 <include href="/db/apps/cab_db/cab_rituals/nerang/dron_nerang" xpointer="DrYt1.0NerangTransc.a"/>
+                 <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt1.0a"/>
+             </div>
+            <div xml:id="DrYt1.1">
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/>
+             </div>
+            <div xml:id="DrYt1.2" corresp="#GY3.1 #GY3.2">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt1.1"/>
+            </div>
+            <div xml:id="DrYt1.3" corresp="#GY3.5">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt1.2a" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.1" on_line="in1line"/>
+               <!-- All possible -->
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt1.2b" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.2" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt1.2c" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.3" on_line="in1line"/>
+            </div>
+            <div xml:id="DrYt1.4" corresp="#GY3.13">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt1.3a" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RozGen" xpointer="RozGen1" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt1.3b" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/MahGen" xpointer="MahGen1" on_line="in1line"/>
+            </div>
+            <div xml:id="DrYt1.5" corresp="#GY3.14">
+            <include href="/db/apps/cab_db/cab_rituals/nerang/dron_nerang" xpointer="DrYt1.5NerangTransc.a"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt1.4"/>
+            </div>
+            <div xml:id="DrYt1.6" corresp="#GY3.15">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt1.5"/>
+            </div>
+            <div xml:id="DrYt1.7" corresp="#GY3.16">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt1.6"/>
+            </div>
+            <div xml:id="DrYt1.8" corresp="#GY3.17">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt1.7"/>
+            </div>
+            <div xml:id="DrYt1.9" corresp="#GY3.18">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt1.8"/>
+            </div>
+            <div xml:id="DrYt1.10" corresp="#GY3.20">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt1.9a" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen21" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt1.9b" on_line="in1line"/>
+            </div>
+            <div xml:id="DrYt1.11" corresp="#GY3.20">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt1.10a" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen21" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt1.10b" on_line="in1line"/>
+            </div>
+             <div xml:id="DrYt1.12" corresp=" #GY23.1" shnumandep="1">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt1.11a"/>
+            </div>
+            <div xml:id="DrYt1.13" corresp="#GY23.2" shnumandep="1">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt1.11b"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt1.11c"/>
+            </div>
+            <div xml:id="DrYt1.14" corresp="#GY23.3" shnumandep="1">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt1.11d"/>
+            </div>
+             <div xml:id="DrYt1.15" corresp="#GY3.22">
+                 <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt1.12"/>
+             </div>
+             <div xml:id="DrYt1.16" corresp="#GY3.23b">
+                 <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt1.13"/>
+             </div>
+         </div>
+         <div>
+             <div xml:id="DrYt2.0" corresp="#GY3.24-25">
+                 <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP16"/>
+             </div>
+            <div xml:id="DrYt2.1" corresp="#GY4.1">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt2.2"/>
+            </div>
+            <div xml:id="DrYt2.2" corresp="#GY4.2">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt2.3"/>
+            </div>
+            <div xml:id="DrYt2.3" corresp="#GY4.3">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt2.4"/>
+            </div>
+            <div xml:id="DrYt2.4" corresp="#GY4.4">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt2.5"/>
+            </div>
+            <div xml:id="DrYt2.5" corresp="#GY4.5">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt2.6"/>
+            </div>
+            <div xml:id="DrYt2.6" corresp="#GY4.6">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt2.7"/>
+            </div>
+            <div xml:id="DrYt2.7" corresp="#GY4.7">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt2.8"/>
+            </div>
+            <div xml:id="DrYt2.8" corresp="#GY4.8">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt2.9a" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.1" on_line="in1line"/>
+               <!-- All possible -->
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt2.9b" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt2.9c" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.2" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt2.9d" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt2.9e" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.3" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt2.9f" on_line="in1line"/>
+            </div>
+            <div xml:id="DrYt2.9" corresp="#GY4.16">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt2.10a" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RozGen" xpointer="RozGen1" on_line="in1line"/>
+               <!-- All days possible -->
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt2.10b" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt2.10c" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/MahGen" xpointer="MahGen1" on_line="in1line"/>
+               <!-- All months possible -->
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt2.10d" on_line="in1line"/>
+            </div>
+            <div xml:id="DrYt2.10" corresp="#GY4.17">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt2.11"/>
+            </div>
+            <div xml:id="DrYt2.11" corresp="#GY4.18">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt2.12"/>
+            </div>
+            <div xml:id="DrYt2.12" corresp="#GY4.19">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt2.13"/>
+            </div>
+            <div xml:id="DrYt2.13" corresp="#GY4.20">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt2.14"/>
+            </div>
+            <div xml:id="DrYt2.14" corresp="#GY4.21">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt2.15"/>
+            </div>
+            <div xml:id="DrYt2.15" corresp="#GY4.23">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt2.16a" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen21" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt2.16b" on_line="in1line"/>
+            </div>
+            <div xml:id="DrYt2.16" corresp="#GY4.24">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt2.17"/>
+            </div>
+            <div xml:id="DrYt2.17" corresp="#GY4.25">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt2.18"/>
+            </div>
+            <div xml:id="DrYt2.18" corresp="#GY4.26">
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YeH" xpointer="YeH"/>
+            </div>
+         </div>
+         <div>
+            <div xml:id="DrYt3.1" corresp="#GY5.1" quote="Y37.1">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt3.1"/>
+            </div>
+            <div xml:id="DrYt3.2" corresp="#GY5.2" quote="Y37.2">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt3.2"/>
+            </div>
+            <div xml:id="DrYt3.3" corresp="#GY5.3" quote="Y37.3">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt3.3"/>
+            </div>
+            <div xml:id="DrYt3.4" corresp="#GY5.4" quote="Y37.4">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt3.4"/>
+            </div>
+            <div xml:id="DrYt3.5" corresp="#GY5.5" quote="Y37.5">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt3.5"/>
+            </div>
+            <div xml:id="DrYt3.6" corresp="#GY5.6">
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YeH" xpointer="YeH"/>
+            </div>
+         </div>
+         <div>
+            <div xml:id="DrYt4.1" corresp="#GY6.1">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.1"/>
+            </div>
+            <div xml:id="DrYt4.2" corresp="#GY6.2">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.2a"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY2.1" on_line="in1lineblock"/>
+               <!-- All possible -->
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.2b" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY2.2" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.2c" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY2.3" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.2d" on_line="in1line"/>
+            </div>
+            <div xml:id="DrYt4.3" corresp="#GY6.10">
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RozAcc" xpointer="RozAcc1" on_line="in1lineblock"/> 
+               <!-- All days possible -->
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.3a" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/MahAcc" xpointer="MahAcc1" on_line="in1lineblock"/>
+               <!-- All days possible -->
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.3b" on_line="in1line"/>
+            </div>
+            <div xml:id="DrYt4.4" corresp="#GY6.11">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.4"/>
+            </div>
+            <div xml:id="DrYt4.5" corresp="#GY6.12">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.5"/>
+            </div>
+            <div xml:id="DrYt4.6" corresp="#GY6.13">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.6"/>
+            </div>
+            <div xml:id="DrYt4.7" corresp="#GY6.14">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.7"/>
+            </div>
+            <div xml:id="DrYt4.8" corresp="#GY6.15">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.8"/>
+            </div>
+            <div xml:id="DrYt4.9" corresp="#GY6.17">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.9a"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.9b"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.9c"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanAcc" xpointer="ShnumanAcc21"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.10a"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.10b"/>
+            </div>
+            <div xml:id="DrYt4.10" corresp="#GY26.2" shnumandep="1">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.10c"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.10d"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.10e"/>
+            </div>
+            <div xml:id="DrYt4.11" corresp="#GY26.3" shnumandep="1">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.10g"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.10h"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.10i"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.10j"/>
+            </div>
+            <div xml:id="DrYt4.12" corresp="#GY26.4" shnumandep="1">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.10k"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.10l"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.10m"/>
+            </div>
+            <div xml:id="DrYt4.13" corresp="#GY26.5" shnumandep="1">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.10n"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.10o"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.10p"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.10q"/>
+            </div>
+            <div xml:id="DrYt4.14" corresp="#GY26.6" shnumandep="1">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.10r"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.10s"/>
+            </div>
+            <div xml:id="DrYt4.15" corresp="#GY26.7" shnumandep="1">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.10t"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.10u"/>
+            </div>
+            <div xml:id="DrYt4.16" corresp="#GY26.8" shnumandep="1">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.10v"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.10w"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.10x"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.10y"/>
+            </div>
+            <div xml:id="DrYt4.17" corresp="#GY26.9" shnumandep="1">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.10z"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.10aa"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.10ab"/>
+            </div>
+            <div xml:id="DrYt4.18" corresp="#GY26.10" shnumandep="1">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.10ac"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.10ad"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.10ae"/>
+            </div>
+            <div xml:id="DrYt4.19" corresp="#GY26.11" shnumandep="1">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.10af"/>
+            </div>
+            <div xml:id="DrYt4.20" corresp="#GY6.19">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.11"/>
+            </div>
+            <div xml:id="DrYt4.21" corresp="#GY6.20">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt4.12a"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuPaitiRatu" xpointer="RatuPaitiRatu2"/>
+            </div>
+            <div xml:id="DrYt4.22" corresp="#GY6.21">
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YeH" xpointer="YeH"/>
+            </div>
+         </div>
+         <div>
+            <div xml:id="DrYt5.1" corresp="#GY7.1">
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/>
+            </div>
+            <div xml:id="DrYt5.2" corresp="#GY7.1">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt5.1a"/>
+            </div>
+            <div xml:id="DrYt5.3" corresp="#GY7.5">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt5.2a" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.1" on_line="in1line"/>
+               <!-- All possible -->
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt5.2b" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.2" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt5.2c" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.3" on_line="in1line"/>
+            </div>
+            <div xml:id="DrYt5.4" corresp="#GY7.13">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt5.3a" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RozGen" xpointer="RozGen1" on_line="in1line"/>
+               <!-- All days possible -->
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt5.3b" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/MahGen" xpointer="MahGen1" on_line="in1line"/>
+               <!-- All months possible -->
+            </div>
+            <div xml:id="DrYt5.5" corresp="#GY7.14">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt5.4"/>
+            </div>
+            <div xml:id="DrYt5.6" corresp="#GY7.15">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt5.5"/>
+            </div>
+            <div xml:id="DrYt5.7" corresp="#GY7.16">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt5.6"/>
+            </div>
+            <div xml:id="DrYt5.8" corresp="#GY7.17">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt5.7"/>
+            </div>
+            <div xml:id="DrYt5.9" corresp="#GY7.18">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt5.8"/>
+            </div>
+            <div xml:id="DrYt5.10" corresp="#GY7.20">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt5.9a" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen21" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt5.9b" on_line="in1line"/>
+            </div>
+            <div xml:id="DrYt5.11" corresp="#GY7.20">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt5.10a" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen21" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt5.10b" on_line="in1line"/>
+            </div>
+            <div xml:id="DrYt5.12" corresp="#GY23.1" shnumandep="1">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt5.11a"/>
+            </div>
+            <div xml:id="DrYt5.13" corresp="#GY23.2" shnumandep="1">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt5.11b"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt5.11c"/>
+            </div>
+            <div xml:id="DrYt5.14" corresp="#GY23.3" shnumandep="1">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt5.11d"/>
+            </div>
+            <div xml:id="DrYt5.15" corresp="#GY7.22">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt5.12"/>
+            </div>
+            <div xml:id="DrYt5.16" corresp="#GY7.23">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt5.13"/>
+            </div>
+            <div xml:id="DrYt5.17" corresp="#GY7.24" quote="Y41.5">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt5.14"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt5.15"/>
+            </div>
+            <div xml:id="DrYt5.18" corresp="#GY7.25" quote="Y40.2">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt5.16a"/>
+                <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt5.16b"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt5.16c"/>
+            </div>
+            <div xml:id="DrYt5.19" corresp="#GY7.25">
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+            </div>cc
+            <div xml:id="DrYt5.20" corresp="#GY7.26">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt5.18"/>
+            </div>
+            <div xml:id="DrYt5.21" corresp="#GY7.27">
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YeH" xpointer="YeH"/>
+            </div>
+         </div>
+         <div>
+            <div xml:id="DrYt6.0" corresp="#GY7.28">
+               <include href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr4"/>
+               <!-- WazGr4 only possible -->
+            </div>         
+            <div xml:id="DrYt6.1" corresp="#GY8.1">
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/>
+            </div>
+            <div xml:id="DrYt6.2" corresp="#GY8.1">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt6.1a"/>
+                <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt6.1b"/>
+                <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt6.1c"/>
+                <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt6.1d"/>
+            </div>
+            <div xml:id="DrYt6.3" corresp="#GY8.3">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt6.2"/>
+            </div>
+            <div xml:id="DrYt6.4" corresp="#GY8.4">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt6.3"/>
+            </div>
+            <div xml:id="DrYt6.5" corresp="#GY8.4">
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/>
+               <include href="/db/apps/cab_db/cab_rituals/nerang/dron_nerang" xpointer="DrYt6.5NerangTransc.a"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="4"/>
+            </div>
+            <div xml:id="DrYt6.6" corresp="#GY8.4">
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="2"/>
+            </div>
+            <div xml:id="DrYt6.7" corresp="#GY8.5">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt6.5"/>
+            </div>
+            <div xml:id="DrYt6.8" corresp="#GY8.6">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt6.6"/>
+            </div>
+            <div xml:id="DrYt6.9" corresp="#GY8.7">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt6.7"/>
+            </div>
+            <div xml:id="DrYt6.10" corresp="#GY8.8">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt6.8"/>
+            </div>
+         </div>
+         <div>
+            <div xml:id="DrYt7.1">
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/>
+            </div>
+            <div xml:id="DrYt7.2" corresp="#GY72.5">
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="2"/>
+            </div>
+            <div xml:id="DrYt7.3" corresp="#GY72.6, #GY72.7">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt7.2a" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen21" on_line="in1line"/>
+            </div>
+            <div xml:id="DrYt7.4" corresp="GY72.8">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt7.3a" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen21" on_line="in1line"/>
+            </div>
+            <div xml:id="DrYt7.5" corresp="GY72.8">
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+            </div>
+            <div xml:id="DrYt7.6" corresp="#GY72.9">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt7.4a"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt7.4b"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt7.4c"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt7.4d"/>
+            </div>
+            <div xml:id="DrYt7.7" corresp="#GY72.9">
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+            </div>
+            <div xml:id="DrYt7.8" corresp="#GY72.9">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt7.4e"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt7.4f"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt7.4g"/>
+            </div>
+            <div xml:id="DrYt7.9" corresp="#GY72.9">
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+            </div>
+            <div xml:id="DrYt7.10" corresp="#GY72.9">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt7.4h"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt7.4i"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt7.4j"/>
+            </div>
+            <div xml:id="DrYt7.11" corresp="#GY72.10">
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt7.5a"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt7.5b"/>
+                <include href="/db/apps/cab_db/cab_rituals/static/Dron_static" xpointer="DrYt7.5c"/>
+            </div>
+            <div xml:id="DrYt7.12" corresp="#GY72.10">
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+            </div>
+         </div>
+</div>

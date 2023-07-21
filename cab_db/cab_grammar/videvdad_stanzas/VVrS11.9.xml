@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS11.9" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="VrS11.9" xml:id="VVrS11.9">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/videvdad_nerang" xpointer="VVrS11.9NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS3.1a"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/videvdad_nerang" xpointer="VVrS11.9NerangTransc.b"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS3.1b"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/videvdad_nerang" xpointer="VVrS11.9NerangTransc.c"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS3.1c"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/videvdad_nerang" xpointer="VVrS11.9NerangTransc.d"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS3.1d"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/videvdad_nerang" xpointer="VVrS11.9NerangTransc.e"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS3.1e"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/videvdad_nerang" xpointer="VVrS11.9NerangTransc.f"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS3.1f"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/videvdad_nerang" xpointer="VVrS11.9NerangTransc.g"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS3.1g"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/videvdad_nerang" xpointer="VVrS11.9NerangTransc.h"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS3.1h"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/videvdad_nerang" xpointer="VVrS11.9NerangTransc.i"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS3.1i"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/videvdad_nerang" xpointer="VVrS11.9NerangTransc.j"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS3.1j"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/videvdad_nerang" xpointer="VVrS11.9NerangTransc.k"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS3.1k"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS3.1l"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/videvdad_nerang" xpointer="VVrS11.9NerangTransc.l"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS3.1m"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/videvdad_nerang" xpointer="VVrS11.9NerangTransc.m"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS3.1n"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/videvdad_nerang" xpointer="VVrS11.9NerangTransc.n"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS3.1o"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/videvdad_nerang" xpointer="VVrS11.9NerangTransc.n'"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr1"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/videvdad_nerang" xpointer="VVrS11.9NerangTransc.o"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Nērangs. Cf. VrS11.9.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Var. c (ms. 4000, 4010, 4020, 4025, 4030a, 4040, 4045,4161, 4162):</ab>
+         <ab class="ab_indent" n="NerangTransc.a" xml:id="VrS11.9NerangTransc.a" xml:lang="Pahl">zōt gōwēd <em>hāuuanānəm āstāiia</em> rāspīg pad gāh ī hāwanān
+            ud pad nazdīk ī dast ī rāst ī zōt šawišn ud gōwišn <em>azəm vīsāi</em> zōt gōwēd <em>ātrauuaxšəm āstāiia</em> rāspīg pad gāh ī ātrawaxšān 
+            <em>azəm vīsāi</em> zōt gōwēd <em>frabərətārəm āstāiia</em> rāspīg pad gāh ī frabardārān pad nazdīk ī dast ī hōy ī zōt šudan ud guftan <em>azəm vīsāi</em> 
+            zōt gōwēd <em>ābərətārəm āstāiia</em> rāspīg pad gāh ī ābardān <em>azəm vīsāi</em> zōt <em>āsnatārəm āstāiia</em> rāspīg pad hgāh ī āsnudārān <em>azəm vīsāi</em> 
+            zōt <em>raēϑβiškarəm āstāiia</em> rāspīg pad gāh ī rēhwiškarān <em>azəm vīsāi</em> zōt <em>sraōšāuuarəzəm āstāiia dąhištəm aršuuacastəməm</em> 
+            rāspīg pad gāh ī srōšāwarzān <em>azəm vīsāi</em> ud ham ēdōn az pāy guftan <em>yaϑā ahū vairiiō yō zaōtā frā.mē mrūtē</em> zōt <em>aϑā ratuš</em> kardan</ab>
+         <ab class="ab_indent">az nūn nigārag hangōšīdag ī urwēs ud ādurgāh ud zōtiz ud rāspīg ēn kū gāh cīyōn abāyēd baxtan 
+            gāh ī hāwanān ud ātrawaxšān ud frabardārān ud ābardān ud āsnudārān rēhwiškarān srōšāwarzān čē ēwēnag baxšīhēd ēn 
+            cīyōn abar nibišt ēstēd rāspīgān har ēk pad gāh ī ēstād tā bowandag haftgāh cīyōn paydāgēnēd</ab>
+         <ab class="ab_indent" n="NerangEnglish.a" xml:id="VrS11.9NerangEnglish.a">"The <em>zōt</em> says: <em>hāuuanānəm āstāiia</em>. The <em>rāspīg</em> has to go to
+            the place of the <em>hāwanān</em>, near to the right hand of the <em>zōt</em> and say: <em>azəm vīsāi</em> The <em>zōt</em> says: <em>ātrauuaxšəm āstāiia</em>.
+            The <em>rāspīg</em> (says) at the place of the <em>ātrawaxšān</em>: <em>azəm vīsāi</em>. The <em>zōt</em> (says): <em>frabərətārəm āstāiia</em>. 
+            The <em>rāspīg</em> should go to the place of the <em>frabardārān</em>, near to the left hand of the <em>zōt</em> and say: <em>azəm vīsāi</em>. 
+            The <em>zōt</em> (says): <em>ābərətārəm āstāiia</em>. The <em>rāspīg</em> (says) at the place of the  <em>ābardān</em>: <em>azəm vīsāi</em>. 
+            The <em>zōt</em> (says): <em>āsnatārəm āstāiia</em>. The <em>rāspīg</em> (says) at the place of the <em>āsnudārān</em>: <em>azəm vīsāi</em>. 
+            The <em>zōt</em> (says): <em>raēϑβiškarəm āstāiia</em>. The <em>rāspīg</em> (says) at the place of the <em>rēhbiškarān</em>: <em>azəm vīsāi</em>. 
+            The <em>zōt</em> (says): <em>sraōšāuuarəzəm āstāiia dąhištəm aršuuacastəməm</em>. 
+            The <em>rāspīg</em> (says) at the place of the <em>srōšāwarzān</em>: <em>azəm vīsāi</em>. 
+            And he himself should say standing: <em>yaϑā ahū vairiiō yō zaōtā frā.mē mrūtē</em> and the <em>zōt</em> should make <em>aϑā ratuš</em>."</ab>
+         <ab class="ab_indent">"From now on, this is the picture of the disposition of the <em>urwēs</em> and <em>ādurgāh</em>
+            and so it is how the <em>zōt</em> and <em>rāspīg</em> have to distribute their places. 
+            The places of the <em>hāwanān, ātrawaxšān, frabardārān, ābardān, āsnudārān, rēhwiškarān</em> and <em>srōšāwarzān</em> are distributed as it is
+            written. Each <em>rāspīg</em> stays at his place until the end. The even positions are as depicted.</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS11.9"/>
+   </translation>
+</text>

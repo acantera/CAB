@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y68.23" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y68.23">
+        <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY68.21a"/>
+        <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y68.22NerangTransc.a"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY68.21b"/>
+        <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y68.22NerangTransc.b"/>
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels>
+        <ab><em>vaŋᵛhīm iδāt̰ ādąm vaŋᵛhīm aṣ̌īm</em> = Y68.28 (x2); ~ VrS11.34 <em>vaŋᵛhīmca ādąm vaŋᵛhīmca aṣ̌īm</em> ~ Y52.4 <em>vaŋᵛhīšca aδā̊ vaŋᵛhīšca aṣ̌aiiō</em>.</ab>
+    </Parallels>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Y68.23 (mss. 2040, 4025):</ab>
+            <ab class="ab_indent">
+                <em>vaŋᵛhīm iδāt̰ ādąm vaŋᵛhīm aṣ̌īm ǰām</em> ēdōn kū xwaršēd gardēd abar sar ī ān ǰām kē-š āb andar gardēnīdan āca abar āb nica andar wardēnišn <em>mrūmaide</em> purr bē kunišn</ab>
+            <ab class="ab_indent">
+                "At <em>vaŋᵛhīm iδāt̰ ādąm vaŋᵛhīm aṣ̌īm</em>, he should turn the cup over the rim of the cup that contains the water in the direction in which the sun rotates. 
+                At <em>āca</em>, over the water. At <em>nicā</em>, he should turn  it around. At <em>mrūmaide</em>, he has to fill it."</ab>
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+            <ab>In the Āb-zōhr with Drōn Yašt, Y68.22-26 are recited in a simiar way, see N53.31a (cf.
+                <bibl>Kotwal and Kreyenbroek, 2003</bibl>: pp. 256-7): </ab>
+            <ab class="ab_indent">
+                <em>vaŋᵛhīm iδāt̰ āδąm vaŋᵛhīm aṣ̌īm āca</em> abar āb nica andar wardēnišn <em>mrūmaide</em> purr be kunišn
+            </ab>
+            <ab class="ab_indent">
+                "At <em>vaŋᵛhīm iδāt̰ āδąm vaŋᵛhīm aṣ̌īm</em> (he has to hold the bowl) over the water. At <em> nica </em> he has to turn (the <em>zōhr</em>-cup) down. At <em>mrūmaide</em> 
+                he has to fill (the water-cup with the <em>zōhr</em> of the <em>zōhr</em>-cup)."</ab>
+        </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY68.23"/>
+        <include type="W" corresp="WTrY68.21a"/><include type="K" corresp="KTrY68.21a"/><include type="D" corresp="DTrY68.21a"/></translation>
+</text>

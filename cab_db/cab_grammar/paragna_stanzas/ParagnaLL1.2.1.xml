@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL1.2.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="1" xml:id="ParagnaLL1.2.1">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL1.2.1. (Pahl.) (Ms. K43):</ab>
+            <ab class="ab_indent">
+                u-š pad <em>nǝmō uruuaire</em> wēšag pad ēwkardagīh nigērišn ēn kū wēšag ō wēšag čand pādixšāy ast kē gōwēd ēw +daxšmēst, ast kē ēdōn gōwēd ay bē ka az harw bun-ē 
+                tāg-+ē wēned  ā nē šāyēd, ast kē ēdōn gōwēd ay ka wāng āšnawēd ā šāyēd </ab> 
+            <ab class="ab_indent">
+                "At <em>nəmō uruuaire</em>, he has to look to the thicket "as a whole". That means that "how much distance is allowed between each thicket. There is one who says: 
+                "A <em>daxšmēst</em>". There is one who says: "Except when he sees (at least) a branch from each trunk, it is not permissible." There is one who says: "When he can hear the 
+                voice (from one thicket to another), then it is permissible."</ab>
+            
+            <ab>ParagnaLL1.2.1 (NP) (Mss. K7, RJ, RSK, K36, 31, 89, 19):</ab>
+            <ab class="ab_indent">
+                <em>nəmō uruuaire vaŋhi mazdaδāte aṣ̌aōni</em> urvar va dār va deraḫt tamām be-negarand</ab>  
+            <ab class="ab_indent">
+                "<em>nəmō uruuaire vaŋhi mazdaδāte aṣ̌aōni</em>. They examine thoroughly the plant, the wood and the three."</ab>
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+            <ab>N53.41</ab>
+            <ab class="ab_indent">
+                u-š <em>nəmō uruuaire</em> ān gyāg gōwišn kū barsom cīnēd</ab>  
+            <ab class="ab_indent">
+                "He has to recite <em>nəmō uruuaire</em> at the moment when he cuts the <em>barsom</em>."</ab>
+            
+            <ab>N79.10</ab>
+            <ab class="ab_indent">
+                ēn kū az wēšag tā ō wēšag cand *pādixšāy ast kē gōwēd ay *daxšmēst gōwēd ast kē ēdōn gōwēd ay be ka az harw *bun-ē tāg-ē wēnēd tā nē šāyēd ast kē ēdōn gōwēd ay ka 
+                wāng ašnawēd ā šāyēd</ab>  
+            <ab class="ab_indent">
+                "As to the (question) of how much distance it is permissible from thicket to thicket, there is one who says: "A <em>daxšmēst</em>." There is one who says thus: "Unless he sees
+                a twig from each tree, it is not proper."There is one who says thus: "If he can hear a call, then it is permissible."</ab>
+        </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL1.2.1"/>
+    </translation>
+</text>

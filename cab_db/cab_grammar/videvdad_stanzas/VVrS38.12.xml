@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS38.12" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VVrS38.12">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY32.12"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VVrS38.12 Var. a (mss. 4010, 4025, 4030a, 4040, 4063):</ab>
+         <ab class="ab_indent">
+            ... <em>īšanąm drujəm</em> ēn gyāg hōm ud urwarām kōftan ud hāwan škāftan ud zōhr andar kardan andar hōm pālā kardan</ab> 
+         <ab class="ab_indent">
+            "... <em>īšanąm drujəm</em>. At this passage, he should strike the <em>hōm</em> and <em>urwarām</em> and hit the <em>hāwan</em> and pour <em>zōhr</em> in them
+            and throw (the mix) into the <em>hōm pālā</em>."</ab>
+         
+         <ab>VVrS38.12 Var. c (ms. 4050):</ab>
+         <ab class="ab_indent">
+            ... <em>īšanąm drujəm</em> ēn gyāg hōm ud urwarām kōftan ud hāwan škāftan</ab>
+         <ab class="ab_indent">
+            "... <em>īšanąm drujəm</em>. At this passage, he should strike the <em>hōm</em> and <em>urwarām</em> and hit the <em>hāwan</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS38.12"/>
+   </translation>
+</text>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y17.2" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y17.2">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY17.2a"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY2.1" on_line="in1lineblock"/>
+      <!-- All posible -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY17.2b" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY2.2" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY17.2c" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY2.3" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY17.2d" on_line="in1line"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y17.1.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y17.2c <em>sāuuaŋhaēm</em>] vid. Y2.3.</ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab>Y6.2b <em>hāuuanīm aṣ̌auuanəm... </em>]  <em>hāuuanīm aṣ̌auuanəm aṣ̌ahe ratūm ẏaz...</em> cygwn PWN slwšdlwn' npšt OD YWM BYRH <em>ahurəm mazdąm</em> (Y17.11) 500, 510.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <Parallels>
+         <ab>Y17.2 = Y6.2, Y59.2, VrS81.2; ≈ Y1.3, Y3.5, Y4.8, Y2.3, Y7.6, Y22.6, Y24.13, Y66.3, VrS78.15, VrS79.8, VrS82.3.</ab>
+      </Parallels>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY17.2"/>
+      <include type="W" corresp="WTrY17.2"/>
+      <include type="K" corresp="KTrY17.2"/>
+      <include type="D" corresp="DTrY17.2"/>
+   </translation>
+</text>

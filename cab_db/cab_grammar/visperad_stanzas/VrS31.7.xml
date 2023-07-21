@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS31.7" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VrS31.7" quote="Y51.23, Y51.24a">
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS16.1a"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS16.1b"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS16.1c"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS16.1d"/>
+            </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>VrS31.7 (mss. 2000, 2005, 2007, 2010, 2030, 2040, 2101, 2106, 2109, 4000, 4020, 4025, 4040, 4050, 4055, 4060, 4063, 4161, 4162, 5020):</ab>
+            <ab class="ab_indent">
+                rāspīg pad gāh ī srōšāwarzān <em>yaθā ahū vairiiō yō zaōtā frā.mē mrūtē</em> zōt <em>aϑā ratuš</em> kardan 
+                rāspīg <em>səraōšō iδā astū ahurahe mazdā̊ yasnāi səuuīštahe aṣ̌aōnō yə̄.nā̊ ištō haōma pairi harəš́iieṇte mazda.xšaϑra aṣ̌a.ratauuō vaŋhuš sraōšō yō aṣ̌ahe hacaite mązaraiia
+                    hə̄ca iδa yōiϑβā astu hiiat̰ paōuruuīm tat̰ ustəməmcīt̰</em>
+                zōt <em>yaθā ahū vairiiō yō ātrauuaxšō frā.me mrūtē</em> rāspīg <em>aϑā ratuš</em> kardan
+                zōt <em>auuaϑāt̰</em>. ...</ab>   
+            <ab class="ab_indent">
+                "The <em>rāspīg</em>, at the place of the <em>srōšāwarzān: yaθā ahū vairiiō yō zaōtā frā.mē mrūtē</em>. The <em>zōt</em> should answer: <em>aϑā ratuš</em> 
+                The <em>rāspīg:</em> <em>səraōšō iδā astū ahurahe mazdā̊ yasnāi səuuīštahe aṣ̌aōnō yə̄.nā̊ ištō haōma pairi harəš́iieṇte mazda.xšaϑra aṣ̌a.ratauuō vaŋhuš sraōšō yō aṣ̌ahe hacaite mązaraiia
+                    hə̄ca iδa yōiϑβā astu hiiat̰ paōuruuīm tat̰ ustəməmcīt̰</em>
+                The <em>zōt</em>: <em>yaθā ahū vairiiō yō ātrauuaxšō frā.me mrūtē</em>. The <em>rāspīg</em> should answer: <em>aϑā ratuš</em>. 
+                <em>zōt</em> <em>auuaϑāt̰</em>. ..."</ab>
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+            <ab>Cf. N28.47b <bibl>Kotwal and Kreyenbroek, 2003</bibl>: p. 107:</ab>
+            <ab class="ab_indent">
+                pad <em>ẏeŋ́hē mē aṣ̌āt̰ hacā</em> keh abāz ō meh wardēnišn</ab>
+            <ab class="ab_indent">
+                "At <em>ẏeŋ́hē mē aṣ̌āt̰ hacā</em> he has to turn the smaller (container) back into the larger one."</ab>
+<ab><bibl>Kotwal and Kreyenbroek, 2003</bibl>:p. 107, note 392): "I.e, apparently, the contents of the mortar (#the larger item#) is to be ground with the pestle ('the smaller one')." The manuscripts do not have any ritual instruction for this text. </ab>
+
+    </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrVrS31.7"/>
+    </translation>
+</text>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS27.19" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VVrS27.19">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VS24.1a" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/videvdad_nerang" xpointer="VVrS27.19NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuCerDat" xpointer="RatuCerDatV" on_line="in1line"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: ms. 4025 only indicates rāspīg, but cf. VrS27.19. Cf. also zōt ud rāspīg Y24.12.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VrS27.19a <em>āat̰ dīš āuuaēδaiiamahi dātāi</em>] rāsfi <em>dātāi</em> 4025.</ab>
+         <ab>VrS27.19a <em>āat̰ dīš āuuaēδaiiamahi dātāi</em>] <em>dātāi haδadātā[.]</em> OD <em>āat̰ pərənō.mā̊ŋhāi</em> (VVrS27.25) 4200.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>VVrS27.19 ≈ VVrS1.3, VVrS2.3, VVrS3.5, VVrS4.8, VVrS6.2, VVrS7.6, VVrS14.6, VVrS17.2, VVrS25.5, VVrS77.2, VVrS78.15, VVrS79.8, VVrS81.2, VVrS82.3, VVrS90.3.</ab>
+   </Parallels>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VVrS27.19 Var. a (mss. 4000, 4010, 4020, 4025, 4040, 4050, 4055, 4060, 4161, 4162):</ab>
+         <ab class="ab_indent">
+            <em>āat̰ dīš āuuaēδaiiamahi</em> bōy ō ī ātaxš dahišn ēn gyāg taštag kē-š hōm ud urwarām pad datuš abāz nihišn pad urwēs bē nihišn hāwan az kustag ī hōy ō kustag ī dašn āwarišn
+            pad rōy frāz nigūn kunišn <em>dātāi haδa.dātāi vīdaēuuāi zaraθuštrāi aṣ̌aōne aṣ̌ahe raθβe yasnāica vaɱāica xšnaōθrāica frasastaiiaēca</em>.</ab>
+         <ab class="ab_indent">
+            "<em>āat̰ dīš āuuaēδaiiamahi</em>. He has to give <em>bōy</em> to the fire. At this passage, he has to put again in contact with the <em>datuš</em> the saucer that contains the
+            <em>hōm</em> ud <em>urwarām</em> and (then) to put it on the <em>urwēs</em>; he has to bring the hāwan from the left side to the right side and put it upside-down (and continue 
+            with) <em>dātāi haδa.dātāi vīdaēuuāi zaraθuštrāi aṣ̌aōne aṣ̌ahe raθβe yasnāica vaɱāica xšnaōθrāica frasastaiiaēca</em>."</ab>
+         
+         <ab>VVrS27.19 Var. b (ms. 4050):</ab>
+         <ab class="ab_indent">
+            (VVrS27.18) <em>āat̰ dīš āuuaēδaiiamahi</em> bōy ō ī ātaxš dahišn <em>daθušō ahurahe mazdā̊ … spəṇtanąm yasnāica vaɱāica xšnaōθrāica frasastaiiaēca</em> (VVrS27.19) <em>āat̰ dīš āuuaēδaiiamahi</em> ēn 
+            gyāg taštag kē-š hōm ud urwarām pad datuš abāz nihišn pad urwēs bē nihišn hāwan az kustag ī hōy ō kustag ī dašn āwarišn pad rōy frāz nigūn kunišn <em>dātāi haδa.dātāi vīdaēuuāi
+               zaraθuštrāi aṣ̌aōne aṣ̌ahe raθβe yasnāica vaɱāica xšnaōθrāica frasastaiiaēca</em>.</ab>  
+         <ab class="ab_indent">
+            (VVrS27.18) "Between <em>āat̰ dīš āuuaēδaiiamahi</em> and <em>daθušō ahurahe mazdā̊ … spəṇtanąm y.v.x.</em> he has to give <em>bōy</em> to the fire. (VVrS27.19) <em>āat̰ dīš āuuaēδaiiamahi</em>. 
+            At this passage, he has to put again in contact with the <em>datuš</em> the saucer that contains the <em>hōm</em> and <em>urwarām</em> and (then) to put it on the <em>urwēs</em>;
+            he has to bring the <em>hāwan</em> from the left side to the right side and put it upside-down (and continue with) <em>dātāi haδa.dātāi vīdaēuuāi zaraθuštrāi aṣ̌aōne aṣ̌ahe raθβe
+               yasnāica vaɱāica xšnaōθrāica frasastaiiaēca</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS27.19"/>
+   </translation>
+</text>

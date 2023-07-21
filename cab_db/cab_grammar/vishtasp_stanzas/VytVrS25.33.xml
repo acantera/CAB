@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VytVrS25.33" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y22.25" xml:id="VytVrS25.33">
+      <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VytSY22.23a" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen26" on_line="in1line"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid Y22.21.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VytVrS25.33a <em>iməm haōməm</em> ...] <em>aṣ̌aiia uzdātəm</em> OD gywʾk' II bʾl gwptn' 5020.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VytVrS25.33 (ms. 5020):</ab>
+         <ab class="ab_indent">
+            <em>aṣ̌a.ciθra āiiese yešti</em> pas harw xšnūman kē bēd guftan <em>iməm haōməm
+               uzdātəm</em> tā gyāg dō bār guftan agar xšnūman ahlawān padiš bēd <em>auuaŋ́hā̊
+               frauuaṣ̌aiiō</em>…</ab>
+         <ab class="ab_indent"> "<em>aṣ̌a.ciθra āiiese yešti</em>. Afterwards, they should recite
+            wahtever <em>šnūman</em> it is. They have to recite <em>iməm haōməm uzdātəm</em> until
+            this passage two times. If the <em>šnūman</em> contains the <em>ahlawān</em>, (they have
+            to recite:) <em>auuaŋ́hā̊ frauuaṣ̌aiiō</em>…"</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVytVrS25.33"/>
+   </translation>
+</text>

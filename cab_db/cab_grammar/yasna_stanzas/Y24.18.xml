@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y24.18" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y24.18">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY24.18"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y24.14.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>Y24.18 = Y4.13, VrS79.13; ≈ Y1.8, Y2.8, Y3.10, Y6.7, Y7.11, Y17.7, Y22.11, Y59.7, Y66.8, VrS78.20, VrS81.7, VrS82.8.</ab>
+      <ab>VrS27.24 = DoHom4.24.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY24.18"/>
+      <include type="W" corresp="WTrY24.18"/>
+      <include type="K" corresp="KTrY24.18"/>
+      <include type="D" corresp="DTrY24.18"/>
+   </translation>
+</text>

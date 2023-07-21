@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS88.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VVrS88.1" quote="Y46.3b">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY64.1"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VVrS88.1 (mss. 4010, 4020, 4025, 4040, 4050, 4055, 4060, 4161, 4162):</ab>
+         <ab class="ab_indent">
+            <em>yaθā ahū vairiiō</em> čahār guftan zōhr abar māhrōy barsom nihādan ud pad harw yatāhuwairyō frāztar burdan ō ī sar ī barsom</ab> 
+         <ab class="ab_indent">
+            "He should recite four <em>yaθā ahū vairiiō</em> and put the <em>zōhr</em> on the <em>māhrōy</em> and <em>barsom</em>. At each yatāhuwairyō, he should move it 
+            further forward towards the end of the <em>barsom</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS88.1"/>
+   </translation>
+</text>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y3.6" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y3.6">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY3.6a" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat3.1" on_line="in1line"/>
+               <!-- successive gāh from Y3.5 -->
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY3.6b" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat3.2" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY3.6c" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat3.3" on_line="in1line"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: Anklesaria, Kotwal and Boyd.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels>
+        <ab>Y3.6 = Y22.7, VrS78.16; ≈ Y1.4, Y2.4, Y4.9, Y6.3, Y7.7, Y17.3, Y24.14, Y59.3, Y66.4, VrS79.9, VrS81.3, VrS82.4.</ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrY3.6"/>
+    <include type="W" corresp="WTrY3.6"/>
+        <include type="K" corresp="KTrY3.6"/>
+        <include type="D" corresp="DTrY3.6"/>
+    </translation>
+</text>

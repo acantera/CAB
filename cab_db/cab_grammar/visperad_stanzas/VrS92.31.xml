@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS92.31" status="created">
+     <!-- created, approved, updated-->
+     <header>
+          <creators>
+               <creator>Porro</creator>
+               <creator>Cantera</creator>
+          </creators>
+          <created>2 March 2020</created>
+     </header>
+     <div type="Stanza" sameAs="" xml:id="VrS92.31" quote="Y33.10 x3, Y36.6b x3, Y43.7a x3">
+          <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY68.23a"/>
+          <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY68.23b"/>
+          <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY68.23c"/>
+     </div>
+     <Apparatus>
+          <Critical/>
+          <Commentary> Cf. Y68.31 </Commentary>
+     </Apparatus>
+     <Parallels/>
+     <Ritual>
+          <Nerang id="ritualNerangs">
+               <ab>VrS92.31 (Ms. 2106):</ab>
+               <ab class="ab_indent">
+                    gāh ī hāwan bēd <em>vohū uxšiiā manaŋhā xšaϑrā aṣ̌ācā uštā tanūm</em> sē bār guftan ka
+                    gāh ī rapihwin bēd <em>imā raōcā̊ barəzištəm barəzimanąm</em> sē bār guftan ka gāh ī
+                    uzērin bēd <em> yaɱī spəṇtā ϑβā maińiiū uruuaēsē jasō</em> sē bār guftan harw gāh
+                    dārēd sē bār guftan ud ka yašt nōgnāwar ayāb sīh rōzag harw sē gāh ī bāmyazd nēmrōz ud bārag
+                    guftan harw ēk sē bār</ab>
+               <ab class="ab_indent"> When it is
+                    (When) it is the <em>gāh hāwan</em>, he should recite <em>vohū uxšiiā manaŋhā xšaϑrā aṣ̌ācā uštā
+                         tanūm</em> three times. When it is <em>rapihwin</em>, he should recite <em>imā
+                              raōcā̊ barəzištəm barəzimanąm</em> three times. When it is <em>gāh uzērin</em>, he
+                    should recite <em> yaɱī spəṇtā ϑβā maińiiū uruuaēsē jasō</em> three times.He should recite three times any <em>gāh</em>. When it is the
+                    <em>yašt</em> Nōgnāwar or Sīrōzag, he should recite every three <em>gāh</em>, the one of Bāmzayd,
+                    the one of noon and the one of <em>aybārag</em>(?) each one three
+                    times.</ab>
+          </Nerang>
+          <Quotations id="ritualQuotations">
+               <ab>Cf. Y68.31</ab>
+          </Quotations>
+     </Ritual>
+     <translation>
+          <include type="CAB" corresp="CABTrVrS92.31"/>
+     </translation>
+</text>

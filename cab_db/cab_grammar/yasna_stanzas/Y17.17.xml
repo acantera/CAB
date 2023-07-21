@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y17.17" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y17.17">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY17.16"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y17.13.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>Y17.17 = Y6.16, Y59.17, Y71.21, VrS81.16; ≈ Y1.17, Y2.17, Y3.19, Y4.22, Y7.20, Y22.20, Y24.27, Y66.17, VrS78.29, VrS79.22, VrS82.17, VVrS14.14.</ab>
+      <ab>
+         <em>apasca zəmasca uruuarā̊sca</em> = VS6.3; ~ VrS18.4 <em>apāat̰ca zəmāat̰ca uruuaraiiāat̰ca</em>; ~ Y19.8 <em>para āpō para zəmō para uruuaraiiā̊</em>; ~ G2.6 <em>apasca zəmasca yazamaide uruuarā̊sca</em>
+      </ab>
+      <ab>
+         <em>asā̊sca šōiθrā̊sca</em> = VS1.22; ~ VS1 (<em>passim</em>) <em>asaŋhąmca šōiϑranąmca</em>; ~ VS9.55, VS9.57 <em>asaŋhaēca šōiϑraēca</em>;  ~ VS13.52 <em>asaŋhat̰ca šōiϑrāat̰ca</em>
+      </ab>
+      <ab><em>asā̊sca ... maēϑańiiā̊sca</em> ~ Yt13.67 <em>asō maēϑanəmca</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY17.17"/>
+      <include type="W" corresp="WTrY17.16"/>
+      <include type="K" corresp="KTrY17.16"/>
+      <include type="D" corresp="DTrY17.16"/>
+   </translation>
+</text>

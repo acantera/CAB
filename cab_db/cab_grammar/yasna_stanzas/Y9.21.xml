@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y9.21" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y9.21">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY9.21"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y9.3.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y9.21a, Y9.21b <em>būiδiiōimaiδe</em>] Geldner, Kellens; Pirart <em>būiδiiōi.maiδi.</em> Cf. Y9.21b <em>būiδiiaēta</em>.</ab>
+         <ab>Y9.21b <em>vīspə̄</em>] Pirart; Geldner, Kellens <em>vīspe</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>iməm ϑβąm ... yānəm haōma jaiδiiemi dūraōša</em> = Y9.19 (x3), Y9.20 (x2).</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY9.21"/>
+        <include type="W" corresp="WTrY9.21"/>
+        <include type="K" corresp="KTrY9.21"/>
+        <include type="D" corresp="DTrY9.21"/>
+    </translation>
+</text>

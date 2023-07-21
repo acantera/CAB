@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y11.11" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y11.11">
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV2"/>
+        <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y11.11NerangTransc.a"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV3"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV2"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV3"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV2"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV3"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: vid. Nērangs, Quotations, Modern Practice.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab>Vid. Nērangs.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Y11.11 Var.a (mss. 88, 2101):</ab>
+            <ab class="ab_indent">
+                <em>aṣ̌əm vohū</em> sē guftan parāhōm pad panǰ dō abāz xwarišn ud dahān pāk kardan pad sar nimāyišn rāspīg <em>aṣ̌əm vohū</em> dō guftan zōt parāhōm pad panǰ sē xwardan dahān pāk kardan rāspīg 
+                <em>aṣ̌əm vohū</em> dō guftan ud zōt parāhōm hamāg xwardan dahān pāk kardan dast pad sar abardahomin kardan rāspīg ašemwohū dō guftan edōn kē fradom nēmag-ē abāg xwarišn ud bār ī did az ān ī abāg nēm-ē abāg xwarišn bār ī sidigar hamāg abāg xwarišn ka čahār bār xwardan bawēd ā-š drāyīd bēd</ab>
+            <ab class="ab_indent">
+                "He should recite three <em>aṣ̌əm vohū.</em> He has to drink the <em>parāhōm</em> in a portion of two fifths and clean his mouth. When the <em>zōt</em> ends (the first sip), 
+                the <em>rāspīg</em> should recite two <em>aṣ̌əm vohū</em>. The <em>zōt</em> should drink the <em>parāhōm</em> in a portion of three fifths (of the remaining quantity) 
+                and clean his mouth. The <em>zōt</em> should drink the whole (rest of the) <em>parāhōm</em> and clean his mouth. He should put his hand on the top of the <em>abardahomin</em> (?). 
+                The <em>rāspīg</em> should say two <em>Aṣ̌əm Vohū</em>. There is one who (says) that : "First, he has to drink one half of the avaible (<em>parāhōm</em>). 
+                The second time he has to drink a half of the still available. The third time, he drinks all the available (<em>parāhōm</em>). When he has drunk four times, then he has chattered."</ab>
+            <ab>Y11.11 Var. b (mss. 5, 6, 40, 400, 410):</ab>
+            <ab class="ab_indent"><em>aṣ̌əm vohū</em> sē guftan ud parāhōm pad panǰ ud dō abāz
+                xwarišn ud harw bār rāspīg ašemwohū dō guftan zōt dahān pāk kardan ud dast harw dō pad pādyāb kardan abar barsom nihādan ast kē fradom nēmag-ē abāg xwarišn bār
+                ī did az ān ī abāg nēm-ē abāg xwarišn bār ī sidigar hamāg abāg xwarišn</ab>
+            <ab class="ab_indent">"He has to say three <em>Aṣ̌əm Vohū</em>. He has to drink the <em>parāhōm</em>
+                in portions of two fifths and each time, the <em>rāspīg</em> should say two <em>Aṣ̌əm Vohū</em>. 
+                The <em>zōt</em> should clean his mouth and wash both hands with <em>pādyāb</em>. He should put (his hand) on the <em>barsom</em>. 
+                There is one who (says that) first, he has to drink one half of the avaible (<em>parāhōm</em>). The second time he has to drink an half of the still available.
+                The third time, he drinks all the available (<em>parāhōm</em>). Then they should say four <em>Aṣ̌əm Vohū</em>."</ab>
+            
+            <ab>Y11.11 Var. c (ms. 15):</ab>
+            <ab class="ab_indent"><em>aṣ̌əm vohū</em> se guftan ud parāhōm pad sē bār xwardan harw
+                bār rāspīg <em>aṣ̌əm vohū</em> dō guftan bōy ō ātaxš dādan</ab>
+            <ab class="ab_indent">"He should recite three <em>Aṣ̌əm Vohū</em> and drink the <em>parāhōm</em>
+                in three times. Each time the <em>rāspīg</em> should recite two <em>Aṣ̌əm Vohū</em> and give <em>bōy</em> to the fire"</ab>
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+            <ab>Cf. N28.43-44  (<bibl>Kotwal and Kreyenbroek, 1995</bibl>: pp. 100-103): </ab>
+            <ab class="ab_indent">nēmag-ē abāg xwarišn ud bār ī did az ān ī abāg nēm-ē abāg xwarišn, ud bār ī sidīgar hamē abāg xwarišn ka IV
+                bār xwarēd ā-š drāyīd bawēd ka ēk bār ayāb dō bār xwarēd ayāb rāspīg abestāg nē gōwēd ayāb-iš ātaxš-ē
+                *abd ī ōh nišīnīhēd wāzag-ē be gōwēd ayāb zōt dast nē pad barsom dārēd ašə̣ m vohū be ēk nē rōšnag ēdōn
+                uskārd kū hamāg šāyēd be ān ī ēw-tom kū zōt dast nē pad barsom dārišn ašə̣ m vohū be gōwēd čē ān kē abāg gōwēd
+                u-š gumānīg ast kē ēdōn gōwēd ay hād <em>vaŋhuca vaŋhā̊sca</em> †ōh rāyēnišn u-š gumānīg wizārd bawēdkay-ādur-bōzēd
+                guft hād pōryōtkēšān abastāg anēraxt nē cāšt estēd pad ēn †wāzag ā ham-dādestān bawēd ast kē ēdōn gōwēd pad-iz
+                abārīg nē bawēd ast kē ōwōn [ēdōn] gōwēd ay pad-iz ēn nē bawēd</ab>
+            <ab class="ab_indent">"He has to drink one half with (the first <em>Aṣ̌əm Vohū</em>), and the second time, with (the second <em>Aṣ̌əm Vohū</em>), he should drink half of what is left; and
+                the third time she should drink the rest with (the final <em>Aṣ̌əm Vohū</em>). If he drinks a fourth time, he has 'chattered'. If he drinks once or two times, or if the
+                <em>rāspīg</em> does not recite the <em>abastāg</em>, or if he sets down the marvelous fire and says (only) one prayer, or if the <em>zōt</em> does not have his hand on
+                the <em>barsom</em> and only recites one <em>Aṣ̌əm Vohū</em>, then it is not clear. It has been considered thus that everything is permissible except if the foremost one, that
+                is, the <em>zōt</em>, does not keep his hand on the <em>barsom</em>. He should recite the <em>Aṣ̌əm Vohū</em>. (alone), for if he recites it together (with the
+                    <em>rāspīg</em>), then it is doubtful for him. There is one who says thus: 'He has to continue up to <em>vaŋhuca vaŋhā̊sca</em>, then he has completed it
+                doubtfully.' Kay-Ādur-bōzēd said: 'The <em>pōryōtkēšān</em> have not taught the <em>abastāg</em> without dissent. Concerning the (recitation ) this prayer (the
+                <em>Aṣ̌əm Vohū</em> at this point), there is agreement.' There is, however, a commentator who says: 'Also concerning other issues, there is not agreement.' There is one
+                commentator who says: 'Also concerning this one issue, there is no (agreement).'</ab>
+            
+            <ab>Cf. Purs. 28, <bibl>Jamaspasa and Humbach, 1971</bibl> pp. 44-45:</ab>
+            <ab class="ab_indent">ka parāhōm xwarēnd naxust ud dudīgar wēš ud sisīgar wēštar xwarēnd šāyēd ayāb nē</ab>
+            <ab class="ab_indent">nē xūb nē kunišn  <em>xᵛarōiš haōməm zaraϑuštra bisarəmca ϑrəsarəmca yaϑa ϑrəsarəmca nitəməm</em>xwarē hōm zarduxšt pad dō kunišnīh sē kunišn
+                    ēdōn pad sē kunišnyh nidom bār ī sidīgar kem xwar dastwarān pad harw bahr-ē az panǰ bahr-ē sē bahr xward guft hēnd</ab>
+            <ab class="ab_indent">"If he (i. e. the Zōt) drinks the Parāhōm the first (time), the second (time) more and the third (time) even more, is it proper, or not?"</ab>
+            <ab class="ab_indent">"It is not good, it should not be done. <em>xᵛarōiš haōməm zaraϑuštra bisarəmca ϑrəsarəmca yaϑa ϑrəsarəmca nitəməm</em>. 
+                Thou should partake of Hōm, o Zartuxšt, in 2 actions and 3 actions so that at the third, (it is) the least [the third time, partake of the least]. The <em>dastwar</em>s have said to
+                partake of 3 portions from 5 portions for each portion</ab>
+            
+            <ab>Cf. Purs. 29, <bibl>Jamaspasa and Humbach, 1971</bibl> pp. 46-47:</ab>
+            <ab class="ab_indent">ān <em>aṣ̌əm</em> šaš ka xwandār nē gōwēnd u-š saxwan andar gōwēnd šāyēd ayāb nē</ab>
+            <ab class="ab_indent">nē <em>vīspaēca aṇtarə aṣ̌əm *upa.stuiiā̊</em> harwisp andarag ī ahlāyīh xūb abar ē stāyēnd [rāspīg] <em>fraōrət̰ *fraxšni aōi manō
+                zrazdātōit̰ aŋhuiiāt̰ haca</em> pad franāmišnīh was [kū was bār ō ēn kār *franabīnīh] abar pad menišn [kū menišn frōdīhā] pad rawāg-dahišnīh az axw [ī pad dastwar]</ab>
+            <ab class="ab_indent">"If the <em>reciter</em> does not say the six Aṣ̌əm Vohū and he  does say something in between, is this allowed or not?</ab>
+            <ab class="ab_indent"> No. <em>vīspaēca aṇtarə aṣ̌əm *upa.stuiiā̊</em> At all pauses (between the three sips) the must praise <em>ahlāyīh</em> well  [the <em>rāspīg</em>]
+                    <em>fraōrət ̰*fraxšni aōi manō zrazdātōit̰ aŋhuiiāt̰ haca</em> Which much celebration [that is, the performance several times to this purpose], with lofty
+                thought [that is, thougthful] and with progress-giving thorugh the lord [ for the dastwar]. </ab>
+            
+            <ab>Cf. Purs. 30, <bibl>Jamaspasa and Humbach, 1971</bibl> pp. 46-47:</ab>
+            <ab class="ab_indent">ka harw šaš pad ēw-bār bē gōwēd šāyēd ayāb nē</ab>
+            <ab class="ab_indent">nē šāyēd mā agar dēwēzagīh-iz bēd u-š harw dō <em>aṣ̌əm</em> bē gōwišn u-š bē pāyišn tāg abg xwarēd u-š pas  <em>aṣ̌əm</em> gōwišn
+                <em>vīspā̊ aṇtarə viiānīš</em> u-š pad harwisp andarag *pārē [kū-š bē *pāyē]</ab>
+            <ab class="ab_indent">When (the <em>rāspīg</em>) recites all six (Aṣ̌əm Vohū) without pause, is this allowed or not?</ab>
+            <ab class="ab_indent">No. In this case, it would be <em>dēw-</em>worship. (The <em>rāspīg</em> has to say the two Aṣ̌əm Vohū and has to watch one one (while
+                the <em>zōt</em>) drinks (the <em>parāhōm</em>. Then , he has to recite Aṣ̌əm Vohū. <em> vīspā̊ aṇtarə viiānīš</em>. 
+                He has to stop at all the pauses [that is, he has to watch it].</ab>
+        </Quotations>
+        <ModernPractice id="ritualModernPractice">
+            <ab><ab><bibl>Redard and Daruwalla, 2021</bibl>, p. 81-83:</ab>
+                <ab class="ab_indent">"The assistant priest recites with (the chief priest) the above 3 <em>Aṣ̌ǝm Vohū.</em>. 
+                    The chief priest taking care that the left hand does not touch the mouth sheet (and) become impure, after lifting the mouth sheet with the left hand,
+                    drinks one third part of the <em>hom</em> inside the cup and gazes towards the assistant priest. The assistant priest, standing on the Western side, while putting
+                    fragrant incense on the fire, recites alone:</ab>
+                <ab class="ab_indent">"1×Aṣ̌ǝm Vohū"</ab>
+                <ab class="ab_indent">"The chief priest, lifting the mouth sheet with care, drinks half part of the remaining <em>hom</em>, and gazes towards the assistant priest.
+                    The assistant priest, for the second time, looking at the bundle, while putting the fragrant incense on the fire, recites alone:"</ab>
+                <ab class="ab_indent">"1×Aṣ̌ǝm Vohū"</ab>
+                <ab class="ab_indent">"The chief priest, lifting the mouth sheet with care, drinks the entire remaining <em>hom</em> and gazes towards the assistant priest 
+                    and the assistant priest, for the third time, while offering the fragrant incense on the fire, recites:"</ab>
+                <ab class="ab_indent">"1×Aṣ̌ǝm Vohū"</ab>
+                <ab class="ab_indent">The chief priest washing (and) making pure that <em>hom</em> cup three times, filling (it) with water, puts it back at its place. 
+                    Then, cleaning his own mouth, wipes (it). Making the right hand pure again, he puts (it) on the cup and puts the left hand on the bundle. 
+                    The chief priest and the assistant priest both remember in a low tone:</ab>
+                <ab class="ab_indent"><em>anaošahī gaβāzišta gōš yak yazašnǝ i nǝ̄k pāβ kart ̰yazašnǝ i xvūb xvuršǝ̄δ saošiiōis ahuramazda amǝšāspǝṇdąn bǝ̄rasāt ̰gurja xvarǝhe aβazāiiāt ̰īn
+                    xšnūmaine</em></ab>
+                <ab class="ab_indent">Recite here that dedication in whose honour the Yasna is being performed. Below the example of the dedication of Mīno Nāvar has been given.</ab>
+                <ab class="ab_indent"><em>mīnō nāβar vīspaešā ardā.frauuaš bǝ̄rasāδ nīraṇg pīrōzgar bāδ xvarǝh i vǝ̄h.dīn i māzdaiiasnąn rauuā bāδ … 
+                    ǝž hamā gunāh patit pašǝ̄mąn.hom pa patit.hom</em></ab>
+            </ab>
+            
+            <ab><ab><bibl>Kotwal and Boyd, 1991</bibl> p. 98-99:</ab> 
+                <ab class="ab_indent">"After the <em>rāspī</em> returned to his place, both priests say a. v.3. The <em>zōt</em> removes his left hand from the
+                    <em>barsom</em>, lifts his face mask with his left forearm, touches the cup to the outer portion of his lower lip, and takes the first sip of the <em>parāhōm</em>.
+                    Looking directly at the <em>rāspī</em>, the <em>rāspī</em> recites a.v.1 and offers sandalwood and frankincense (<em>khūsh-bōy</em>) to the fire. 
+                    This sequence is repeated two more times, the <em>zōt</em> drinking the entire contents of the <em>parahōm</em> cup by the third sip.</ab>
+                <ab class="ab_indent">Having drunk the <em>parahōm</em>, the <em>zōt</em> with his left hand takes out a metal saucer from the large basin 
+                    and rinses the emptied cup in his right hand three times, each time dipping water from the basin. He returns the saucer to the basin, 
+                    places his left hand on the <em>barsom</em>, fills the cup with water from the basin, and places it back on the ritual table, resting his
+                    right hand on it. The rtispr places a new set of sandalwood and frankincense (<em>ēsm-bōy</em>) on each of the two blocks near the fire, and
+                    recites with the <em>zōt</em> in an undertone (<em>bista</em>) the Pazand dedication (<em>dībāchā</em>). When the name of the spirit being and the
+                    remembrance of the soul of the deceased are being uttered in the Pazand dedication, the <em>rāspī</em> offers some sandalwood and frankincense (<em>khūsh-bōy</em>)
+                    to the fire.</ab></ab>
+        </ModernPractice>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY11.11"/>
+        <include type="W" corresp="WTrY11.11"/>
+        <include type="K" corresp="KTrY11.11"/>
+        <include type="D" corresp="DTrY11.11"/>
+    </translation>
+</text>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS27.26" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="VrS27.25" xml:id="VVrS27.26">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS13.25"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y24.14.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VrS27.26a <em>āat̰ dīš āuuaēδaiiamahi dātāi</em>] <em>ratauuō maińiiauuanąm</em> gwptn' OD OL Y <em>miϑrahe dax́iiunąm</em> (VVrS27.36) 4025; <em>ratauuō mainiiauuanąm</em> OD <em>yōi həṇti</em> (VVrS27.43) 4200;
+            <em>ratauuō gaiϑiianąm</em> OD <em>yōi həṇti</em> (VVrS27.43) 4210, 4240; <em>ratauuō mainiiauuaną̇m</em> OD <em>naraša aṣ̌aonō</em> (VVrS27.34) 4370;
+            <em>ratauuō gaeϑiianą̇m</em> OD <em>gaoiδiieca narš</em> (VVrS27.34) 4515.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS27.26"/>
+   </translation>
+</text>

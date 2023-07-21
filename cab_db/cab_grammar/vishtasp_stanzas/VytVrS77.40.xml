@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VytVrS77.40" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VytVrS77.40">
+      <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VytSY59.27"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VytVrS77.40 (ms. 5020):</ab>
+         <ab class="ab_indent">
+            <em>imat̰ barəsma</em> ēn gyāg barsom az māhrōy abāg wišādan ud xūb bastan ud frāz nihišn</ab>
+         <ab class="ab_indent">
+            "<em>imat̰ barəsma</em>. At this passage, he should release the <em>barsom</em> from the <em>māhrōy</em>, bind it (again) carefully (together with the <em>datuš</em> 
+            and <em>frāgām</em>) and lay it down."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVytVrS77.40"/>
+   </translation>
+</text>

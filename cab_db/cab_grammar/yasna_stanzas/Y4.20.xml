@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y4.20" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y4.20">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY4.19"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y4.9.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y4.20a <em>uši.darənahe</em>] Redard; Geldner, Kellens <em>ušidarənahe</em>, cf. <em>uši.darəϑrəm</em>.</ab>
+         <ab>Y4.20a <em>aṣ̌a.xᵛāϑrahe</em>] Kellens, Redard. Geldner <em>aṣ̌axᵛāϑrahe</em>.</ab>
+         <ab>Y4.20a <em>aṣ̌a.xᵛāϑranąm</em>] Kellens, Redard. Geldner <em>aṣ̌axᵛāϑranąm</em>.</ab>
+         <ab>Y4.20a <em>pouru.xᵛāϑranąm</em>] Kellens,Redard. Geldner <em>pouruxᵛāϑranąm</em>.</ab>
+         <ab>Y4.20b <em>ərəϑə̄</em>] but cf. VrS24.7b <em>ərəϑiiā̊</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>Y4.20 = Y24.25, VrS79.20; ≈ Y1.15, Y2.15, Y3.17, Y6.14, Y7.18, Y17.15, Y22.18, Y59.15, Y66.15, VrS78.27, VrS81.14, VrS82.15, VVrS14.13.</ab>
+      <ab><em>garōiš ušidarənahe mazdaδātahe aṣ̌a.xᵛāϑrahe vīspaēšąmca gairinąm aṣ̌a.xᵛāϑranąm pouru.xᵛāϑranąm mazdaδātanąm kāuuaiieheca xᵛarənaŋhō mazdaδātahe axᵛarətaheca xᵛarənaŋhō mazdaδātahe</em> 
+         ~ Yt19.0, Yt19.97, ŠnZamyadYt <em>garōiš ušidarənahe mazdaδātahe aṣ̌a.xᵛāϑrahe kāuuaiieheca xᵛarənaŋhō mazdaδātahe axᵛarətaheca xᵛarənaŋhō mazdaδātahe</em>.</ab>
+      <ab><em>vīspaēšąmca gairinąm aṣ̌a.xᵛāϑranąm pouru.xᵛāϑranąm mazdaδātanąm</em> ≈ VrS1.14, VrS25.16, VrS27.30, VrS90.14 <em>gairinąm aṣ̌a.xᵛāϑranąm pouru.xᵛāϑranąm mazdaδātanąm</em>;
+         ~ VrS2.16, VrS17.15, VrS77.15 <em>garaiiō aṣ̌a.xᵛāϑrā̊ pouru.xᵛāϑrā̊ mazdaδāta</em>; ~ Y71.10 <em>vīspā̊sca garaiiō aṣ̌a.xᵛāϑrā̊ yazamaide</em>; ~ VS19.28 <em>gairinąm aṣ̌axᵛāϑranąm āsənaōiti</em>;
+         ~ Y62.4, VrS78.9 <em>pouru xᵛāϑrəm</em>.</ab>
+      <ab><em>kāuuaiieheca xᵛarənaŋhō mazdaδātahe</em> ~ Yt19 (<em>passim</em>) <em>uγrəm kauuaēm xᵛarənō mazdaδātəm</em>.</ab>
+      <ab><em>axᵛarətaheca xᵛarənaŋhō</em> ~ Yt19.45, Yt19.54 (x2), Yt19.55, Yt19.64 (x2), Yt19.65 <em>uγrəm axᵛarətəm xᵛarənō</em>; ~ Yt19.47, Yt19.49, Yt19.51 <em>xᵛarənō ... yat̰ axᵛarətəm</em>;
+         ~ Yt19.53 <em>xᵛarənō axᵛarətəm</em>.</ab>
+      <ab><em>aṣ̌ōiš vaŋhuiiā̊ cistōiš vaŋhuiiā̊ ərəϑə̄ vaŋhuiiā̊ rasąstātō vaŋhuiiā̊ xᵛarənaŋhō sauuaŋhō mazdaδātahe</em> = Yt17.0, Yt17.62, ŠnAṣ̌i.</ab>
+      <ab><em>aṣ̌ōiš vaŋhuiiā̊ cistōiš vaŋhuiiā̊ ərəϑə̄ vaŋhuiiā̊</em> ~ VrS24.7 <em>amauuaiϑiiā̊ ərəϑiiā̊ amauuaiϑiiā̊ aṣ̌ōiš amauuaiϑiiā̊ cistōiš</em>.</ab>
+      <ab><em>aṣ̌ōiš vaŋhuiiā̊</em> ~ Y13.1, Y16.6, Y38.2, Yt17 (<em>passim</em>) <em>aṣ̌īm vaŋᵛhīm</em>; ~ Y43.6, Y68.22 <em>vaŋᵛhīm aṣ̌īm</em>.</ab>
+      <ab><em>xᵛarənō sauuaŋhō mazdaδātahe</em> = Ny5.5; ~ S2.9 <em>xᵛarənō mazdaδātəm yazamaide sauuō mazdaδātəm yazamaide</em>; ~ Y60.4 <em>sauuasca xᵛarəasca</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY4.20"/>
+
+   <include type="W" corresp="WTrY4.19"/>
+        <include type="K" corresp="KTrY4.19"/>
+        <include type="D" corresp="DTrY4.19"/>
+    </translation>
+</text>

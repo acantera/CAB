@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y24.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y24.1">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY24.1b"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY24.1c"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY24.1d"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: Anklesaria, Kotwal and Boyd, Geldner.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels>
+        <ab>Y24.1 = Y24.6.</ab>
+        <ab><em>gąmca huδā̊ŋhəm</em> = Y4.1, Y4.3, VrS27.3.</ab>
+        <ab><em>imąmcā gąm jīuuiiąm aṣ̌aiia uzdātąm imąmcā uruuarąm haδānaēpatąm aṣ̌aiia uzdātąm</em> ~ Y22.2, Y22.22, Y22.25 <em>imąmcā gąm jīuuiiąm aṣ̌aiia uzdātąm āiiese yešti imąmcā uruuarąm haδānaēpatąm aṣ̌aiia uzdātąm āiiese yešti</em>;
+            ~ Y25.1 <em>imąmcā gąm jīuuiiąm aṣ̌aiia uzdātąm yazamaide imąmcā uruuarąm haδānaēpatąm aṣ̌aiia uzdātąm yazamaide</em>;
+            ~ Y3.3 <em>gąm jīuuiiąm āiiese yešti uruuarąm haδānaēpatąm aṣ̌aiia uzdātąm āiiese yešti</em>; ~ Y7.4 <em>aṣ̌aiia daδąmi gąm jīuuiiąm aṣ̌aiia daδąmi uruuarąm haδānaēpatąm aṣ̌aiia uzdātąm</em>.</ab>
+        <ab><em>uruuarąm haδānaēptąm</em> ~ Y62.9 <em>uruuarąm vā haδānaēpatąm</em>.</ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrY24.1"/>
+    <include type="W" corresp="WTrY24.1"/>
+        <include type="K" corresp="KTrY24.1"/>
+        <include type="D" corresp="DTrY24.1"/>
+    </translation>
+</text>

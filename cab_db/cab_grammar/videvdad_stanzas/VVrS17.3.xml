@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS17.3" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VVrS17.3">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY17.2a"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY2.1" on_line="in1lineblock"/>
+      <!-- Only Ushanina possible and the rest after it -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY17.2b" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY2.2" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY17.2c" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetAccY" xpointer="RatuLetAccY2.3" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY17.2d" on_line="in1line"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. VVrS17.1.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VVrS17.3b <em>ušahinəm aṣ̌auuanəm</em>...] <em>ušahinəm aṣ̌auuanəm aṣ̌ahe ratūm yaz.</em> OD <em>pərənō.mā̊ŋhəm vīspataϑəm</em>(-<em>ca</em> in 4200) (VVrS17.8)
+         4200, 4210, 4240, 4280, 4370.</ab>
+         <ab>VVrS17.3c <em>bərəjīm nmānīmca</em>...] <em>bərəzīmṇtəm</em> OD <em>pərənō.mā̊ŋhəm vīspataϑəm</em> (VVrS17.8) 4515.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>VVrS17.3 = VVrS77.3; ≈ VVrS1.4, VVrS2.4, VVrS25.6, VVrS27.20, VVrS90.4. Cf. Y17.6.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS17.3"/>
+   </translation>
+</text>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+			<div type="Spasdarih" xml:id="NamazUrmazd_Pazand"> <!-- vide: MZK6, RR3, MZK8; cf. MU I 411.2-413, edition Antia; non vide: 6880(MF76) (Pazand ?), Ethé1941 (Pazand ?) --> <!-- MU gives the instruction: īn setāyeš har rūz be-gāh-e Hāwan baʿd az Niyāyeš-e Xoršīd o Mehr xwāndan -->
+				<div type="SpasdarihStanza" xml:id="NamazUrmazd_Pazand1.1"> <!-- cf. NamX3.1 -->
+                    <ab n="a" xml:id="NamazUrmazd_Pazand2.1a">nəmāj. aōiiə. dāδārə. ʾwhrmẕd raiiōmaṇt̰. x́aruhumaṇt̰. haruuisp. āgāhi. tubąnāhi. tubąn.kardārə. aβaxšāiiəṣ̌nīgar.</ab>
+				</div>
+				<div type="SpasdarihStanza" xml:id="NamazUrmazd_Pazand2.1"> <!-- cf. NamX3.1 -->              
+					<ab n="a" xml:id="NamazUrmazd_Pazand2.1a">haruuisp. ńiiake. dāδār.</ab>
+					<ab n="b" xml:id="NamazUrmazd_Pazand2.1b">haruuisp. ńiiake. dāštār.</ab>
+					<ab n="c" xml:id="NamazUrmazd_Pazand2.1c">haruuisp. anāgi. aβāj.dāštār.</ab>
+					<ab n="d" xml:id="NamazUrmazd_Pazand2.1d">varjāuuaṇt̰. sahī. fīraōzgar. pādišāhi. varjāuuaṇt̰. āfrīnigąn. aβīja.</ab>
+				</div>
+				<div type="SpasdarihStanza" xml:id="NamazUrmazd_Pazand3.1"> <!-- PaNamDadarOhrmazd3.1 -->
+                    <ab n="a" xml:id="NamazUrmazd_Pazand3.1a">spāsδār. həm. aṇdar. tuiiē. dāδār. ʾwhrmẕd.</ab>
+					<ab n="b" xml:id="NamazUrmazd_Pazand3.1b">spāsδār. həm. pə. mənəṣ̌nu.</ab>
+					<ab n="c" xml:id="NamazUrmazd_Pazand3.1c">spāsδār. həm. pə. guuiṣ̌nu.</ab>
+					<ab n="d" xml:id="NamazUrmazd_Pazand3.1d">spāsδār. həm. pə. kunəṣ̌n.</ab>
+					<ab n="e" xml:id="NamazUrmazd_Pazand3.1e">dāδār. spāsi. tu. ki. ńiiake. zəmąn. āmat̰.</ab>
+					<ab n="f" xml:id="NamazUrmazd_Pazand3.1f">spāsδār. həm. ki. anāgi. zəmąn. narasīt̰.</ab>
+					<ab n="g" xml:id="NamazUrmazd_Pazand3.1g">spāsδār. həm. aṇdar. ku. āsmąn. zīuuāh. zəmīn. pahnāh. raōt̰. drunāh. x́urṣ̌īt̰. bālāi. āβąn. təjiṣ̌ne. uruuarąn. vaxšəṣ̌ne. x́uršīt̰. pāϑāiiəṣ̌nī. māh. raōšan. stāra. pə. āsmąn. aj. bun. dihiṣ̌ne. tā. imraōz. tā. aj. həmā. raōz. tā. ristāxīzi. tani. pasīn.</ab>
+					</div>
+				<div type="SpasdarihStanza" xml:id="NamazUrmazd_Pazand3.2">
+                    <ab n="a" xml:id="NamazUrmazd_Pazand3.2a">aṇdar. tuiiē. dāδārə. ʾwhrmẕd</ab>
+					<ab n="b" xml:id="NamazUrmazd_Pazand3.2b">spāsδār. həm. pə. mənəṣ̌nu.</ab>
+					<ab n="c" xml:id="NamazUrmazd_Pazand3.2c">spāsδār. həm. pə. guuiṣ̌nu.</ab>
+					<ab n="d" xml:id="NamazUrmazd_Pazand3.2d">spāsδār. həm. pə. kunəṣ̌n.</ab>
+				</div>
+				<div type="SpasdarihStanza" xml:id="NamazUrmazd_Pazand3.3">
+                    <ab n="a" xml:id="NamazUrmazd_Pazand3.3a">dāδārə. spāsi. tu. kit. hīr. hudīn. kardihī. ut̰. ušu. vīru. vārąm. raōšənāiiə. cašm. u. dastu. pāiiə. x́urəṣ̌ne. x́aš. jaōmiiə. ńiiake. aγnīn. həmā. ńiiake. pə. kāma. dāδihī.</ab>
+					<ab n="b" xml:id="NamazUrmazd_Pazand3.3b">dāδār. spāsi. tu. mənəṣ̌ni. u. guuiiṣ̌nī. u. kunəšnī.</ab>
+					<ab n="c" xml:id="NamazUrmazd_Pazand3.3c">har. rōz. hizār. bār. hizārąn. hizār. bār.</ab>
+				</div>
+				<div type="SpasdarihStanza" xml:id="NamazUrmazd_Pazand3.4">
+					<ab n="a" xml:id="NamazUrmazd_Pazand3.4a">aṇdar. tuiiē. dāδārə. ʾwhrmẕd</ab>
+					<ab n="b" xml:id="NamazUrmazd_Pazand3.4b">spāsδār. həm. pə. mənəṣ̌nu.</ab>
+					<ab n="c" xml:id="NamazUrmazd_Pazand3.4c">spāsδār. həm. pə. guuiṣ̌nu.</ab>
+					<ab n="d" xml:id="NamazUrmazd_Pazand3.4d">spāsδār. həm. pə. kunəṣ̌n.</ab>
+					<ab n="e" xml:id="NamazUrmazd_Pazand3.4e">dāδār. spāsi. tu. kit̰. aj. cihri. mardumąn. āfrīdihī.</ab>
+					<ab n="f" xml:id="NamazUrmazd_Pazand3.4f">ut. aṣ̌nuuā. u. gaōiiā. u. vīnā. dāδihī.</ab>
+					<ab n="g" xml:id="NamazUrmazd_Pazand3.4g">ut̰. āzāt̰. bərəhnīdihī. na. bəṇda.</ab>
+					<ab n="h" xml:id="NamazUrmazd_Pazand3.4h">ut̰. mart̰. dāδihī. na. zan.</ab>
+					<ab n="i" xml:id="NamazUrmazd_Pazand3.4i">vāj. x́aruh. āfrīdihī. nadrāiiąn.</ab>
+				</div>	
+				<div type="SpasdarihStanza" xml:id="NamazUrmazd_Pazand4.1">	
+					<ab n="a" xml:id="NamazUrmazd_Pazand4.1a">yeziṣ̌nu. ńiiāiiəṣ̌n. həm. aōiiə. tu. dāδārə. ki. ąni. dihiṣ̌ne. tu. vīnəm.</ab>
+					<ab n="b" xml:id="NamazUrmazd_Pazand4.1b">cīn. āsmąni. bulaṇdi.</ab>
+					<ab n="c" xml:id="NamazUrmazd_Pazand4.1c">cīn. x́uršīt̰. tāuuiṣ̌naōmaṇt̰.</ab>
+					<ab n="d" xml:id="NamazUrmazd_Pazand4.1d">cīn. māh. u. gaōspəṇt̰. tuxma.</ab>
+					<ab n="e" xml:id="NamazUrmazd_Pazand4.1e">cīn. ātaši. saōjā. srux. vāstarju. aršōmanδu.</ab>
+					<ab n="f" xml:id="NamazUrmazd_Pazand4.1f">cīn. x́aruh. pāδišāhi. gəṇj. u. x́āsta. āβādōmaṇt̰.</ab>
+					<ab n="g" xml:id="NamazUrmazd_Pazand4.1g">cīn. āβi. rubiṣ̌naōmaṇt̰.</ab>
+					<ab n="h" xml:id="NamazUrmazd_Pazand4.1h">cīn. uruuaru. dāru. dirāxt. vāstarj. aršōmaṇd.</ab>
+					<ab n="i" xml:id="NamazUrmazd_Pazand4.1i">cīn. zan. tars.gāhī. hucihiri. x́aruhumaṇt̰.</ab>
+					<ab n="j" xml:id="NamazUrmazd_Pazand4.1j">cīn. pusu. aṇjumanī. urust. šaēuuā̊. hizuuąn. pasəṇdišnī. ńiiāiiəṣ̌naōmaṇd.</ab>
+					<ab n="k" xml:id="NamazUrmazd_Pazand4.1k">cīn. daōstąn. u. həmsāiiəgąn. u. birāδarąn. u. nabānazdištąn. uruuāxšōmaṇt̰.</ab>
+					<ab n="l" xml:id="NamazUrmazd_Pazand4.1l">cīn. rąməṣ̌nī. x́ārąm.</ab>
+				</div>	
+				<div type="SpasdarihStanza" xml:id="NamazUrmazd_Pazand5.1">	
+					<ab n="a" xml:id="NamazUrmazd_Pazand5.1a">mənəṣ̌ne. x́īš. āβāiiast. frārīn. harvispic. frārīn.</ab>
+					<ab n="b" xml:id="NamazUrmazd_Pazand5.1b">ąni. tu. āβāδi. u. saōδa. x́aruh. x́ārə. u. ńiiake. həm.</ab>
+					<ab n="c" xml:id="NamazUrmazd_Pazand5.1c">aṇdar. īn. gaēhąn. aṣ̌āiōmaṇt̰. aōiš. āδir. padiš. māhmąn. ast.</ab>
+					
+				</div>
+				<div type="SpasdarihStanza" xml:id="NamazUrmazd_Pazand6.1">
+					<ab n="a" xml:id="NamazUrmazd_Pazand6.1a">ušąn. bihišt. bahra. bāt̰. anōšašąn. bi. aōi. ruuąn. rasāt̰. bi. aōiiə. bihišt̰. raōšən. bi. āsāiiand.</ab>
+					<ab n="b" xml:id="NamazUrmazd_Pazand6.1b">piδarąn. u. māδarąn. u. birāδarąn. u. x́āhirąn. u. x́uδąn. u. x́aēšąn. u. həm. dīnąn.</ab>
+					<ab n="c" xml:id="NamazUrmazd_Pazand6.1c">man. aj. kiiōmars. tā. aj. amraōz. ki. bīδihəṇt̰. u. vidurδihəṇt̰.</ab>
+				</div>
+				<div type="SpasdarihStanza" xml:id="NamazUrmazd_Pazand6.2">
+					<ab n="a" xml:id="NamazUrmazd_Pazand6.2a">həmā. šąn. bihišt. bahra. bāt̰. šąn. pə. gaēϑī. bahra. bāt̰. šąn. kāru. kirpa. gaēϑī. bahra. bāt̰.</ab>
+					<ab n="b" xml:id="NamazUrmazd_Pazand6.2b">həm. pə. aj. mənəṣ̌nu. guuiṣ̌nu. kunəšn. pə. ąni. rāst. frārīn. pə. rāhi. yezdąn. bāt̰. pasəṇdi. yezdąn. bāt̰. hiiāriiə. vahąn. rasāt̰.</ab>
+                </div>
+				<div type="SpasdarihStanza" xml:id="NamazUrmazd_Pazand7.1">
+					<ab n="a" xml:id="NamazUrmazd_Pazand7.1a">harciš. aidąn. bāt̰.</ab>
+					<ab n="b" xml:id="NamazUrmazd_Pazand7.1b">aidąn. bāt̰. taraj. bāt̰.</ab>
+					<ab n="c" xml:id="NamazUrmazd_Pazand7.1c">pə. yezdąn. u. aməṣ̌āspəṇdąn. kąma. bāt̰.</ab>
+                </div>
+				<div type="SpasdarihStanza" xml:id="NamazUrmazd_Pazand8.1">
+					<include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+				</div>
+			</div>
+</div>

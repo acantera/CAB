@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS17.12" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS17.12">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS7.5"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. VrS17.3.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>VrS17.12a <em>darətəm</em>] Geldner, mss.; Kellens <em>⁺dərətəm</em>, vid. <bibl>Kellens, 1974</bibl>, pp. 132-135: full-grade of the root morphologically unexpected.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS17.12 = VrS77.12; ≈ VrS2.13.</ab>
+      <ab> <em>humatəmca manō hūxtəmca vacō huuarštəmca š́iiaōϑnəm</em> ~ Y12.13, VrS11.27, VrS32.2 <em>āstuiiē humatəm manō āstuiiē hūxtəm vacō āstuiiē huuarštəm š́iiaōϑanəm</em>; ~ VrS11.12 <em>narəmca aṣ̌auuanəm āstāiia frāiiō.humatəm frāiiō.hūxtəm frāiiō.huuarštəm</em>; ~ Y57.20, Y57.48 <em>nāca aṣ̌auua frāiiō.humatō frāiiō.hūxtō frāiiō.huuarštō</em>; ~ Y59.32 <em>tū.tūm ... frāiiō.humatō frāiiō.hūxtō frāiiō.huuarštō</em>.</ab>
+      <ab><em>yeŋ́hē š́iiaōϑnāiš gaēϑā° aṣ̌a frādəṇte</em> quotes Y43.6 <em>yehiiā š́iiaōϑanāiš gaēϑā̊ aṣ̌ā frādəṇtē</em>; = Y19.17, VrS11.12.</ab>
+      <ab><em>gaēϑā° aṣ̌a frādəṇte</em> ~ <em>frādat̰.gaēϑa-</em> as epithet of several deities: Sraōša, Rašnu, Haōma, Arstāt, Vərəϑraγna.</ab>
+      
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS17.12"/>
+   </translation>
+</text>

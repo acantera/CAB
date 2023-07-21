@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS29.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y25.1" xml:id="VVrS29.1">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY25.1"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/videvdad_nerang" xpointer="VVrS29.1NerangTransc.a"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. VrS29.1.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VVrS29.1a <em>iməm haōməm</em> ...] <em>ašaiia uzdātəm yaz.</em> OD <em>vīspaca vōhū</em> (VVrS29.4) 4210, 4220, 4515; <em>ašaiiaoždātəm ẏ.</em> OD <em>vīspəca vōhū</em> (VVrS29.3) 4370.</ab>
+         <ab>VVrS29.1b <em>imąmcā gąm</em> ...] <em>gąm jiiuuīąm</em> OD <em>vīspaca vōhū</em> (VVrS29.3) 4280.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS29.1"/>
+   </translation>
+</text>

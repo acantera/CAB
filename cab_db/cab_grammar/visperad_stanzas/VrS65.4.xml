@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS65.4" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS65.4">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS26.2"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS65.4 quotes Y39.4 = Y13.5; ~ VS10.4.</ab>
+      <ab><em>yā vōhū aϑā tōi dadəmahī aϑā cīšmahī ... ϑβā mazdā ahurā</em> ~ Y35.5, VrS19.2, VrS65.19, VrS82.37, VrS89.26 <em>dadəmahicā cīšmahicā huuąmahicā hiiat̰ mazdāi ahurāi aṣ̌āicā vahištāi</em>; 
+         ~ Y12.14, VrS11.28, VrS32.3 <em>ahurāi mazdāi vīspā vohū cinaɱi</em>; ~ Y12.6 <em>ahurāi mazdāi vaŋhauuē vohumaitē vīspā vohū cinaɱī</em>.</ab>
+      <ab><em>aϑā ϑβā āiš yazamaide aϑā nəmax́iiāmahī aϑā išūidiiāmahī ϑβā mazdā ahurā</em> ~ Y36.5, VrS65.30, VrS80.5 <em>nəmax́iiāmahī išūidiiāmahī ϑβā mazdā ahurā</em>; ~ Y38.4, Y67.3, VrS65.42 <em>tāiš vā̊ yazamaidē tāiš friiąmahī tāiš nəmax́iiāmahī tāiš išūidiiāmahī</em>.</ab>
+   </Parallels>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Vid. VrS65.3</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS65.4"/>
+   </translation>
+</text>

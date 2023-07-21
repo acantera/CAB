@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y13.6" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y13.6">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY13.6"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y13.4.</ab>
+         </div>
+      </SpeakerInfo>  
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab><em>pairi.jasāmaide</em>] Geldner, Kellens <em>pairijasāmaidē</em>.</ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab><em>vaŋhə̄uš xᵛaētə̄uš</em>] <em>vaŋhəuš xᵛaētəuš xᵛaētātā</em> OD <em>yeŋ́hē hātą̇m</em> (Y13.8) 40.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>Y13.6 quotes Y39.5, VrS65.49; ~ Y20.1 <em>xᵛaētauue xᵛaētātəm</em>.</ab>
+      <ab><em>vaŋhuiiā̊ fsəratuuō vaŋhuiiā̊ ārmaitīm</em> ~ Y5.5, Y37.5, VrS65.37 <em>vaŋᵛhīmcā fsəratūm vaŋᵛhīmcā ārmaitīm</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY13.6"/>
+      <include type="W" corresp="WTrY13.6"/>
+      <include type="K" corresp="KTrY13.6"/>
+      <include type="D" corresp="DTrY13.6"/>
+   </translation>
+</text>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS11.30" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VrS11.30" quote="Y51.23, Y51.24a">
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS3.11a"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS3.11b"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS3.11c"/>
+               <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS11.30NerangTransc.a"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS3.11d"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt̰ ud rāspīg: vid. VrS11.29.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels>
+        <ab>VrS11.30 quotes Y51.22, Y51.23a; = Y15.2, Y63.4, Y65.16, Y69.3, VrS24.2, VrS31.7, VrS42.2, VrS65.2, VrS75.2, VrS87.4, VrS89.16, VrS93.2; ~ Y69.1, Y69.2, VrS78.2</ab>
+        <ab>VrS11.30-32 (<em>srōš barišnīh</em>) = VrS15.2-4; ~ Y15.2-3, VrS24.2-11, VrS31.7-10, VrS42.2-9, VrS65.2-9, VrS75.2-9, VrS87.4-6, VrS89.16-20, VrS93.2-4.</ab>
+    </Parallels>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>VrS11.30 Var. a (mss. 2101, 4000, 4010, 4020, 4040, 4045, 4161, 4162, 4030a):</ab>
+            <ab class="ab_indent">
+                tąn yazāi ǰīwām baxtan pad panǰ bār zōhr ud frāgām frāz ō ī barsom barišn <em>xᵛāiš nāmə̄nīš pairicā jasāi</em></ab> 
+            <ab class="ab_indent">
+                "At <em>tąn yazāi</em>, he should divide the <em>ǰīwām</em> and he has to bring in five occasions the <em>zōhr</em> and the <em>frāgām</em> to the <em>barsom</em>."</ab>
+            
+            <ab>Var. b (mss. 2007, 2010, 2030, 2109, 4025, 5020):</ab>
+            <ab class="ab_indent">
+                <em>tąn yazāi</em> ēn gyāg ǰām abāz baxšišn <em>xᵛāiš nāmə̄nīš pairicā jasāi</em></ab>
+            <ab class="ab_indent">
+                "<em>tąn yazāi</em> at this passage, he has to divide the <em>ǰām</em> again (and continue with) <em>nāmə̄nīš pairicā jasāi</em>"</ab>
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+            <ab>Cf. N28.44 <bibl>Kotwal and Kreyenbroek, 2009</bibl> pp. 102-103:</ab>
+            <ab class="ab_indent">
+                pad <em>ẏeŋ́hē mē aṣ̌āt̰ hacā</em> jīw be baxšišn pad se bahr dō bahr ān ī zōhrag ud ēk ān ī barsom ay tāy ī *bastag kē az kust ī dašn-iš zōhrag pad-iš</ab>
+            <ab class="ab_indent">
+                At <em>ẏeŋ́hē mē aṣ̌āt̰ hacā</em>he has to divide the <em>jīw</em>in three parts. 
+                Two parts are for the <em>zōhrag</em> and one for the <em>barsom</em>, that is, for the tied twigs at whose right side is the <em>zōhrag</em>  </ab>
+            
+            <ab>Cf. N84.1-8 <bibl>Kotwal and Kreyenbroek, 2009</bibl> pp. 76-77; <bibl>Cantera, 2014</bibl> pp. 211ff.:</ab>
+            <ab class="ab_indent"> <em>hapta həṇti hāuuanaiiō ratauuō barəsma stərənaēti paōiriia yeŋ́hē mē aṣ̌āt̰ hacā
+                bitiiā ahunanąm vairiianąm θritiia dāidī mōi tūiriiā uštauuaitiiå vā spə̄ṇtā mainiiə̄uš vā hātōiš puxδa yeŋ́hē mē aṣ̌āt̰ hacā xštuuō dāidī mōi haptaθa
+                uštauuaitiiå vā spə̄ṇtā mainiiə̄uš vā hātōiš </em></ab>
+            <ab class="ab_indent">"There are seven <em>ratu</em> in the <em>hāuuani</em>-performance, where one spreads the <em>barəsman</em>: the first is  
+                <em>yeŋ́hē mē aṣ̌āt̰ hacā</em> (VrS11.30); the second, the Ahuna Vairiias (likely Y13.7);  the third, <em>dāidī mōi</em> (Y18.1); 
+                the fourth, the Uštauuaitī or the Spəṇtā.mainiiū Gāθā;  the fifth, <em>yeŋ́hē mē aṣ̌āt̰ hacā</em> (Y63.1); the sixth, <em>dāidī mōi</em> (Y65.15); 
+                the seventh, the Uštauuaitī or the Spəṇtā.mainiiū Gāθā."</ab>
+        </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrVrS11.30"/>
+    </translation>
+</text>

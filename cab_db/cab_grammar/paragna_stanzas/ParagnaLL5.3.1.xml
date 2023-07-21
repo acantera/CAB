@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL5.3.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="1" xml:id="ParagnaLL5.3.1">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL5.3.1 Var. a (Mss. K7, RJ):</ab>
+            <ab class="ab_indent">
+                digar dast-e avar gāv nahāde yā gusfand va <em>yaθā ahū vairiiō</em> goftan va <em>yasnəmca</em> tā sar <em>āfrīnāmi gə̄uš tašne gə̄uš urune tauua gə̄uš huδā̊ŋhō urune</em>
+                se tā har kodām be-vāǧ gerefte bāšand ān vāǧ beguyad pas andar yazešgāh bordan moḥkam nahādan pas durtar āyad yek <em>aṣ̌əm vohū</em> goftan <em>ahmāi raēsca</em> 
+                tās sar <em>hazaŋhrəm</em> se bār tā sar <em>jasa.mē</em> tā sar <em>aṣ̌əm vohū</em> yek goftan</ab> 
+            <ab class="ab_indent">
+                "Further, he has to recite two <em>Yaθā ahū vairiiō</em> with the hand put on the cow or the sheep and then <em>yasnəmca</em> until the end <em>āfrīnāmi</em> (with the
+                <em>šnūman</em>) <em>gə̄uš tašne gə̄uš urune tauua gə̄uš huδā̊ŋhō urune</em>, one of the three ones -- they should say the <em>vāǧ</em> that they have taken (at the beginning). 
+                Then, he should bring it to the <em>yazešngāh</em> and place it. Then, he should go further and say one <em>Aṣ̌əm Vohū</em> and <em>ahmāi raēsca</em> until the end and
+                three times <em>hazaŋhrəm</em> until the end. He should recite one <em>Aṣ̌əm Vohū</em>."</ab>
+            
+            <ab>ParagnaLL5.3.1 Var. b (Mss. K36, 31):</ab>
+            <ab class="ab_indent">
+                <em>yaθā ahū vairiiō</em> do goftan <em>yasnəmca v. aō. z. āf. gə̄uš tašne gə̄uš urune</em> tā sar ǧāmdān moḥkam kardan be ǧāy nahādan va vāǧ tamām goftan</ab>
+            <ab class="ab_indent">
+                "He should recite two <em>Yaθā ahū vairiiō</em> and <em>yasnəmca v. aō. z. āf. gə̄uš tašne gə̄uš urune</em> until the end. He should put the <em>ǧāmdān</em>, put it at its
+                place and complete the <em>vāǧ</em>."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL5.3.1"/>
+    </translation>
+</text>

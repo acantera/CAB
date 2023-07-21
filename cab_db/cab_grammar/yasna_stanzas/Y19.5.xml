@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y19.5" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y19.5">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY19.5"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y19.3.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y19.5a, Y19.5c <em>anapiiūxδa anapišūta</em>] analyzed by Bartholomae as loc. sg. of <em>anapiiūxδi-</em> and <em>anapišūti-</em>, but <em>anapiiūxδanąm anapišūtanąm</em> as adj. <em>anapiiūxδa-</em> and <em>anapišūta-</em>; cod. mostly with false cut in both cases <em>ana.°</em>.</ab>
+         <ab>Y19.5b <em>gāϑanąm</em>] <bibl>Kellens, 2010</bibl> p. 30 as glossa of <em>raϑβanąm</em>.</ab>
+         <ab>Y19.5c <em>ańiie ratauuō</em>] nom. for acc. if we accept <em>paiti</em> with acc. for the expression of equivalency (<bibl>Bartholomae, 1904</bibl>, p.827).</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>hā.mē baγa ahunahe vairiiehe</em> ~ Y19.3 <em>baγa aēša ās ahunahe vairiiehe</em>; ~ Y19.6, Y19.7, Y19.21 <em>baγąm ahunahe vairiiehe</em>;
+         ~ Y20.5 <em>baγąm aṣ̌ahe vahištahe</em>; ~ Y21.5 <em>baγąm yeŋ́hē.hātąm</em>; ~ Y55.7 <em>baγąm staōtanąm yesńiianąm</em>.</ab>
+      <ab><em>anapiiūxδa anapišūta</em> ... <em>anapiiūδanąm anapišūtanąm</em> ... <em>anapiiūxδa anapišūta</em> ~ VrS36.2, VrS36.3, VrS36.4 <em>anapiiūxδō anapišūtō</em>;
+      ~ VrS36.3, VrS36.4 (x2) <em>anapiiūxδa anapišūta</em>; ~ VrS36.4 <em>anapiiūxδanąm anapišūtanąm</em>; 
+         ~ VrS42.5, VrS42.10, VrS65.5, VrS65.10, VrS75.5, VrS75.10 <em>anapiiūxδe anapišūte</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY19.5"/>
+      <include type="W" corresp="WTrY19.5"/>
+      <include type="K" corresp="KTrY19.5"/>
+      <include type="D" corresp="DTrY19.5"/>
+   </translation>
+</text>

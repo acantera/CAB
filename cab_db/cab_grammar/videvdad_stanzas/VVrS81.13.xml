@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS81.13" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VVrS81.13">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS35.27b"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS35.28"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanAcc" xpointer="ShnumanAcc19"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS35.31a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS35.31b"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VVrS81.13 (mss. 4025, 4161 (supr.), 4162):</ab>
+         <ab class="ab_indent">
+            <em>aēsmąsca baōiδīmca ... ratufritīmca yazamaide sraōšəm aṣ̌īm huraōδəm vərəϑrājanəm frādat̰.gaēϑəm aṣ̌auuanəm aṣ̌ahe ratūm yazamaide</em> ka xšnūman nē srōš bēd ān ī kē
+            bēd <em>aṣ̌āunąm vaŋᵛhīš sūrā̊ spəṇtā̊ frauuaṣ̌aiiō yazamaide dātəm haδa.dātəm vīdōiium zaraϑuštrīm paiti ratūm ratauuō vīspe mazišta paiti ratūm yeŋ́hē hātąm</em> tā sar guftan</ab> 
+         <ab class="ab_indent">
+            "At <em>aēsmąsca baōiδīmca ... ratufritīmca yazamaide sraōšəm aṣ̌īm huraōδəm vərəϑrājanəm frādat̰.gaēϑəm aṣ̌auuanəm aṣ̌ahe ratūm yazamaide</em>, when the <em>šnūman</em> 
+            is not for Srōš, (they should recite) the corresponding one (and continue with) <em>aṣ̌āunąm vaŋᵛhīš sūrā̊ spəṇtā̊ frauuaṣ̌aiiō yazamaide dātəm haδa.dātəm vīdōiium zaraϑuštrīm 
+               paiti ratūm ratauuō vīspe mazišta paiti ratūm</em>. They sould recite <em>yeŋ́hē hātąm</em> until the end."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS81.13"/>
+   </translation>
+</text>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y41.8" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y41.8">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY41.7a"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY41.7b"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY41.7c"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY41.7d"/>
+            </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+     <ab>Cf. N N47.41b (cf. <bibl>Kotwal and Kreyenbroek, 2003</bibl>: 216-7):</ab>
+ <ab class="ab_indent"><em> ka pad </em>humatanąm<em>
+be hilēd tā ān 4 </em>ẏaθā ahū vairiiō<em> ud</em> 3 aṣ̌əm vohū<em> *ōh dārišn</em></ab>
+<ab class="ab_indent">If he (the <em>zōt</em>) has put (the fat on the bone) down (into the fire)at <em>humatanąm</em>, he has to hold it until the end of the four Ahuna Vairiia (Y41.9) and the three Aṣ̌əm Vohū (Y41.10). </ab>
+   
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY41.8"/>
+    <include type="W" corresp="WTrY41.7b"/><include type="K" corresp="KTrY41.7b"/><include type="D" corresp="DTrY41.7b"/></translation>
+</text>

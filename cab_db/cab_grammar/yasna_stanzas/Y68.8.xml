@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y68.8" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y68.8">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY68.8"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>Y68.8= Y16.8. In Y16.8 <em>paitištātə̄e daēuuaheca t̰baēšaŋhō maṣ̌iieheca</em> is missing.</ab>
+   </Parallels>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y68.8 (mss. 6, 15, 40, 82, 88, 2005, 2007, 2010, 2030, 2101, 2102, 2104, 2106, 4050, 4060, 4161, 4162, 4056):</ab>
+         <ab class="ab_indent">
+            ... <em>t̰baēšaŋhō maṣ̌iieheca</em> zōhr andak-ē andar ǰām rēzišn</ab>
+         <ab class="ab_indent">
+            "At <em>t̰baēšaŋhō maṣ̌iieheca</em>, he has to pour one <em>zōhr</em>'s drop into the <em>ǰīwām</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <ab>Y68.8 = Y16.8.without <em>paitištātə̄e daēuuaheca t̰baēšaŋhō maṣ̌iieheca</em>.</ab>
+   <ab><em>xšuuīδa āzūiti</em> ~ Y68.2 <em>xšuuīδaēca āzūtaiiaēca</em>.</ab>
+   <translation>
+      <include type="CAB" corresp="CABTrY68.8"/>
+      <include type="W" corresp="WTrY68.8"/>
+      <include type="K" corresp="KTrY68.8"/>
+      <include type="D" corresp="DTrY68.8"/>
+   </translation>
+</text>

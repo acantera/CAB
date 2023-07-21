@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y19.15" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y19.15">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY19.15"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y19.3.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y19.15a <em>hamō kāraiiat̰</em>] Kellens suggests <em>hāmō.kāraiiat̰</em> from *<em>ham-akāraiiat̰</em> (impf.).</ab>
+         <ab>Y19.15d-f] adaptation of Y45.2. The Avestan words present mostly a mixture of Old Avestan features (in the middle of the word) and Young Avestan fetaures (short vowel ending). We have tried to keep a coherence within the stanza.</ab>
+         <ab>Y19.15d <em>sə̄ŋha</em>] OAv. <em>sə̄ṇghā</em>, YAv. <em>saŋha</em>. Sec. cod. <em>sə̄ŋha</em>; Geldner, Kellens <em>saŋha</em>.</ab>
+         <ab>Y19.15e <em>varana</em>] OAv. <em>varanā</em>, YAv. <em>varəna</em>. Cod. vv. ll.: <em>varanā</em>, <em>varəna</em>, <em>varənā</em>, but VIrS mostly <em>varana</em>. Geldner, Kellens <em>varəna</em>.</ab>
+         <ab>Y19.15e <em>š́iiaōϑana</em>] OAv. <em>š́iiaōϑanā</em>, YAv. <em>š́iiaōϑna</em>. Cod. vv. ll.: <em>š́iiaōϑana</em> (mostly Ir.), <em>š́iiaōϑna</em> (mostly Ind.). Geldner, Kellens <em>š́iiaoϑna</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>Y19.15 <em>nōit̰ nā manā̊ nōit̰ sə̄ŋha nōit̰ xratauuō naēδa varana nōit̰ uxδa naēδa š́iiaōϑana nōit̰ daēnā̊ nōit̰ uruuąnō haciṇte</em> quotes Y45.2 
+         <em>nōit̰ nā manā̊ nōit̰ sə̄ṇghā nōit̰ xratauuō naēdā varanā nōit̰ uxδā naēdā š́iiaōϑanā nōit̰ daēnā̊ nōit̰ uruuąnō hacaiṇtē</em>.</ab>
+      <ab><em>ahunəm vairīm frāmraōt̰</em> ~ WazGr <em>yaϑā ahū vairiiō ... frā.mē mrūtē</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY19.15"/>
+      <include type="W" corresp="WTrY19.15"/>
+      <include type="K" corresp="KTrY19.15"/>
+      <include type="D" corresp="DTrY19.15"/>
+   </translation>
+</text>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div type="ceremony" n="NerWaras">
+    <header>
+        <creators>
+            <creator>Cantera</creator>
+        </creators>
+        <created>02 March 2020</created>
+        <updated/>
+    </header>
+    <div n="1" type="chapter">
+        <div n="1" type="stanza">
+            <ab1 n="NerangTransc.a" source="K7c" xml:id="NerWaras1.1NerangTransc.a" xml:lang="Pers"> pas varas z-inke az gāv va varazā mičinand dast rā b-āb-e pādyāvi
+                pāk bešuyad va ān varas rā be-dast girad se bār b-āb-e pādyāvi bešuyad</ab1>
+            <ab1 n="NerangEnglish.a" source="K7c" xml:id="NerWaras1.1NerangEnglish.a">Afterwards,
+                they cut the <em>varas</em> from a cow or beef. He washes the hand clean with
+                <em>pādyāb</em> and takes the <em>varas</em> with the hand and wash it three
+                times with <em>pādyāb</em>.</ab1>
+        </div>
+    </div>
+    <div n="2" type="chapter">
+        <div n="1" type="stanza">
+            <ab1 n="NerangTransc.a" source="K7c" xml:id="NerWaras2.1NerangTransc.a" xml:lang="Pers">aṣ̌əm vōhū čahār guftan ke se ašem vohū az bon ō sar šostan va pas
+                se bār ḥalqe begardānand pas yek ḥalqe-ye zarrin b-āb pādyāvi bešuyand va ān varas
+                ḥalqe-karde dar gardan-e ān andazand va ān ḥalqe-ye zarrin rā be-sar-e barsom-čin
+                konand va yek sukure porr az āb-e pādyāb konand va yek-pāre-ye var-e ātaš vaharām
+                dar ānǧā konand yaʾni xākestar-e ātaš šeib-e-ān nahānd čenānke ḫorm-e ātaš bālā na-yāyad va ān āb be-ǧuš āyad va
+                panǧāh-o yek bār ān varas b-āb ǧušān foru barand va bar āvarand zud āb-e sard b-ānǧā
+                foru rizand </ab1>
+            <ab1 n="NerangEnglish.a" source="K7c" xml:id="NerWaras2.1NerangEnglish.a">He has to
+                recite four Aṣ̌əm Vohū. During the third, he has to wash (the <em>varas</em>) from
+                the begin to the end. They braid it three times and wash a golden ring with
+                <em>pādyāb</em>. Then they put the braided <em>varas</em> in the the ring neck
+                and pit the golden ring next to the <em>barsom-čin</em>. They fill a <em>sukure</em>
+                with <em>pādyāb</em> and put some hot ashes of the Ātaš Waharām in it (viz. the
+                <em>sukure</em>), that is, they put ashes of the fire at its bottom so that the
+                smoke of the fire does not go up and the water reaches the boiling point. The bring
+                the <em>varas</em> fifty one times to the boiling water and take it out. Immediatly,
+                the pour cold water on it. </ab1>
+        </div>
+    </div>
+    <div n="3" type="chapter">
+        <div n="2" type="stanza">
+            <ab1 n="NerangTransc.a" source="K7c" xml:id="NerWaras3.2NerangTransc.a" xml:lang="Pers"> digar ān varas az ḥalqe bāz konand se bār b-āb-e pādyāvi bešuyand </ab1>
+            <ab1 n="NerangEnglish.a" source="K7c" xml:id="NerWaras3.2NerangEnglish.a">Then they
+                lose again the <em>varas</em> from the ring and wash it three times with
+                <em>pādyāb</em>.</ab1>
+        </div>
+    </div>
+    <div n="5" type="chapter">
+        <div n="1" type="stanza">
+            <ab1 n="NerangTransc.a" source="K7c" xml:id="NerWaras5.1NerangTransc.a" xml:lang="Pers">čahār aṣ̌əm vōhū čon piš neveštam pas digar be-ḥalqe dar-ārand dar
+                hamān ḥalqe-ye zarrin andazand va hezār-o-yek bār b-āb-e pādyāvi foru barand va
+                bar-āvarand va varasdān nahand</ab1>
+            <ab1 n="NerangEnglish.a" source="K7c" xml:id="NerWaras5.1NerangEnglish.a">four Aṣ̌əm
+                Vohū as I have written before. Then they wind the <em>varas</em> in the ring and put
+                it in the same golden ring. They bring it thousand and one times to the water and
+                out of it and lay the <em>varas-dān</em>.</ab1>
+        </div>
+    </div>
+    <div n="6" type="chapter">
+        <div n="2" type="stanza">
+            <ab1 n="NerangTransc.a" source="K7c" xml:id="NerWaras6.2NerangTransc.a" xml:lang="Pers"> sar-aš mohkam be-nahand va dar yazišngāh mohkam be-nahand </ab1>
+            <ab1 n="NerangEnglish.a" source="K7c" xml:id="NerWaras6.2NerangEnglish.a">Then they
+                lose again the <em>varas</em> from the ring and wash it three times with
+                <em>pādyāb</em>.</ab1>
+        </div>
+    </div>
+</div>

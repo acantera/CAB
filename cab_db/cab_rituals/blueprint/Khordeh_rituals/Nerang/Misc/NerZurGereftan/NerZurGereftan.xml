@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div type="book" xml:id="NerZurGereftan" n="NerZurGereftan">
+    <div n="1" type="Chapter" xml:id="NerZurGereftan1">
+        
+        <div n="1" type="Stanza" xml:id="NerZurGereftan1.1">
+            <include href="/db/apps/cab_db/cab_rituals/nerang/khordeh_nerangs/NerZurGereftan_nerang" xpointer="NerZurGereftan1.1NerangTransc.a"/>
+            <ab xml:id="NerZurGereftan1.1a">xšnaōθra. ahurahe. mazdā̊.</ab>
+        </div>
+        <div n="2" type="Stanza" xml:id="NerZurGereftan1.2">
+            <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/>
+        </div>
+        <div n="3" type="Stanza" xml:id="NerZurGereftan1.3" corresp="FrW7">
+            <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP26"/>
+        </div>
+    </div>
+    <div n="2" type="Chapter" xml:id="NerZurGereftan2">
+        <div n="1" type="Stanza" xml:id="NerZurGereftan2.1" corresp="FrW7">
+            <ab xml:id="NerZurGereftan2.1a">frā.te. staōmaide. ahurāne. ahurahe. </ab>
+            <ab xml:id="NerZurGereftan2.1b">vaŋhūš. yasnąsca. vahmąsca. </ab>
+            <ab xml:id="NerZurGereftan2.1c">hubərətīšca. uštā.bərətīšca. vaṇtā.bərətīšca. </ab>
+            <ab xml:id="NerZurGereftan2.1d">yazatanąm. θβā. aṣ̌aōnąm. kuxšnūša. </ab>
+            <include href="/db/apps/cab_db/cab_rituals/nerang/khordeh_nerangs/NerZurGereftan_nerang" xpointer="NerZurGereftan2.1NerangTransc.a"/>
+            <ab xml:id="NerZurGereftan2.1e">us.bī.barāmi. raθβasca. bərəzatō. gāθā̊sca.
+                srāuuaiiōit̰. </ab>
+            <include href="/db/apps/cab_db/cab_rituals/nerang/khordeh_nerangs/NerZurGereftan_nerang" xpointer="NerZurGereftan2.1NerangTransc.b"/>
+            <include href="/db/apps/cab_db/cab_rituals/nerang/khordeh_nerangs/NerZurGereftan_nerang" xpointer="NerZurGereftan2.1NerangTransc.c"/>
+            
+        </div>
+    </div>
+    <div n="3" type="Chapter" xml:id="NerZurGereftan3">
+        <div n="1" type="Stanza" xml:id="NerZurGereftan3.1" corresp="FrW7">
+            <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="2"/>
+        </div>
+        <div n="2" type="Stanza" xml:id="NerZurGereftan3.2" corresp="FrW7">
+            <ab xml:id="NerZurGereftan3.2a">yasnəmca. vaɱəmca. aōjasca. zauuarəca. āfrīnāmi. </ab>
+            <include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen62"/>
+            <include href="/db/apps/cab_db/cab_rituals/nerang/khordeh_nerangs/NerZurGereftan_nerang" xpointer="NerZurGereftan3.2NerangTransc.a"/>
+        </div>
+        <div n="3" type="Stanza" xml:id="NerZurGereftan3.3" corresp="GY72.9">
+            <ab xml:id="NerZurGereftan3.3a">aɱāi. raēšca. xᵛarənasca. aɱāi. tanuuō.
+                druuatātəm.</ab>
+            <ab xml:id="NerZurGereftan3.3b">aɱāi. tanuuō. vazduuarə. aɱāi. tanuuō.
+                vərəϑrəm.</ab>
+            <ab xml:id="NerZurGereftan3.3c">aɱāi. īštīm. pouruš.xᵛāϑrąm.</ab>
+            <ab xml:id="NerZurGereftan3.3d">aɱāi. āsnąmcit̰. frazaṇtīm. aɱāi. darəγąm.
+                darəγō.jītīm. aɱāi. vahištəm. ahūm. aṣ̌aōnąm. raōcaŋhəm. vīspō.xᵛāϑrəm.</ab>
+        </div>
+        <div n="4" type="Stanza" xml:id="NerZurGereftan3.4" corresp="GY72.9">
+            <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+        </div>
+        <div n="5" type="Stanza" xml:id="NerZurGereftan3.5" corresp="GY72.9">
+            <ab xml:id="NerZurGereftan3.5a">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+            <ab xml:id="NerZurGereftan3.5b">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+            <ab xml:id="NerZurGereftan3.5c">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+        </div>
+        <div n="6" type="Stanza" xml:id="NerZurGereftan3.6" corresp="GY72.9">
+            <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+        </div>
+        <div n="7" type="Stanza" xml:id="NerZurGereftan3.7" corresp="GY72.9">
+            <ab xml:id="NerZurGereftan3.7a">jasa.mē. auuaŋhe. mazda.</ab>
+            <ab xml:id="NerZurGereftan3.7b">jasa.mē. auuaŋhe. mazda.</ab>
+            <ab xml:id="NerZurGereftan3.7c">jasa.mē. auuaŋhe. mazda.</ab>
+        </div>
+        <div n="8" type="Stanza" xml:id="NerZurGereftan3.8" corresp="GY72.10">
+            <ab xml:id="NerZurGereftan3.8a">amahe. hutāštahe. huraōδahe. vərəϑraγnahe.
+                ahuraδātahe. vanaiṇtiiā̊sca. uparatātō.</ab>
+            <ab xml:id="NerZurGereftan3.8b">rāmanasca. xᵛāstrahe. vaiiaōš. uparō.kairiiehe.
+                taraδātō. ańiiāiš. dāmąn.</ab>
+            <ab xml:id="NerZurGereftan3.8c">aētat̰. tē. vaiiō. yat̰. tē. asti.
+                spəṇtō.maińiiaōm.</ab>
+            <ab xml:id="NerZurGereftan3.8d">ϑβāšahe. xᵛaδātahe. zruuānahe. akaranahe. zruuānahe.
+                darəγō.xᵛaδātahe.</ab>
+        </div>
+        <div n="9" type="Stanza" xml:id="NerZurGereftan3.9" corresp="GY72.10">
+            <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+        </div>
+    </div>
+</div>

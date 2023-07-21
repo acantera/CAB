@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS0.4" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS0.4">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS0.4NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV1"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>zōt: vid. VrS0.3 wāz gīrišnīh.</div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS0.4 Var. b (ms. 2065):</ab>
+         <ab class="ab_indent">
+            ātaxšgāh čahār kustag sē <em>aṣ̌əm vōhū</em> pad pādyāb kunišn</ab>
+         <ab class="ab_indent">
+            "With three <em>Aṣ̌əm Vohū</em> he has to clean the four sides of the <em> ātaxšgāh.</em>."</ab>
+      </Nerangs>
+      <ModernPractice id="ritualModernPractice">
+         <ab><ab><bibl>Redard and Daruwalla, 2021</bibl>, p. 193:</ab>
+            <ab class="ab_indent">"After that the chief priest taking the jug which has been made pure, in his right hand, purifies the firestand as per the rule;"</ab></ab>
+      </ModernPractice>   
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS0.4"/>
+   </translation>
+</text>

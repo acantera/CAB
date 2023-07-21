@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS0.6" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS0.6" quote="Y12.2">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY0.4"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>rāspīg <em>frastuiiē</em>: zōt ud rāspīg <em>humatōibiiascā...</em>: 2065 (see Rec. Instr.); vid. Y0.6 zōt ud rāspīg.</div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <RecitationInstruction>
+         <ab><em>frastuiiē. humatōbiiascā. ...</em>] <em>frastuiie.</em> OD <em>x́ax́iiā. staonəm</em> (VrS0.7) 2220; <em>frastuiiē.</em> OD <em>tanuuascīt̰. x́ax́iiā. uštanəm.</em> (VrS0.7) 2230; 
+            <em>fərastuiiē.</em> lʾspykʾn. <em>fərastuiie.</em> BRA kwnšn zwt' lʾspyk KRA II <em>humatōibiiascā.</em> BRA lʾdynyd OD <em>xᵛaxᵛiiā̊. uštanəm</em> (VrS0.7) 2065; <em>frastuiie. humatōibiiascā.</em> OD OL-Y <em>xᵛax́iiā. uštanəm.</em> (VVrS0.7) 2101.</ab> 
+      </RecitationInstruction>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Quotations id="ritualQuotations"/>
+      <Nerangs id="ritualNerangs">
+         <ab>Var.b (ms. 2065): </ab>
+         <ab n="NerangTransc.a" source="2065" xml:id="VrS0.6NerangTransc.a" xml:lang="Pahl">zōt pāy ī dašn andar nihišn dast abar barsom nihišn <em>stāomī aṣ̌əm</em> pad barsom gōwišn barsom az barsomdān ul dārišn
+            ud ka <em>stāomī aṣ̌əm</em> nē pad barsom gōwēd ātaxšgāh nōg pad pādyāb kunišn ud ka nē ranǰagīhā abastāg hamāg az pāy be <em>aməša. spəṇta. vasasca</em> ud ka ranǰagīhātar ēn and pāy kunišn bišāmrūt
+            ud šnūman wizārišnīh ud wāz zōt <em>fərastuiie</em> az yasn [tā] <em>imat̰ barəsma</em> wa <em>ahurāi mazdāi</em> tā <em>daϑušō</em> tā <em>aētat̰adim</em> tā ān se hād ud hādān sar <em>vaŋhuca</em></ab>
+         <ab n="NerangTransc.a" source="2065" xml:id="VrS0.6NerangEnglish.a" xml:lang="Eng">"The <em>zōt</em> has to put his right foot in, put his hand on the <em>barsom</em> and say <em>staōmī aṣ̌əm</em> next to the <em>barsom</em>. He has
+            to remove it from the <em>barsomdān</em>. If he does not say <em>staōmī aṣ̌əm</em> next to the <em>barsom</em>, then he has to clean again the <em>ātaxšgāh</em> with <em>pādyāb</em>.  If he can do it without trouble, he has to recite the whole
+            abastāg standing, except <em>aməša spəṇta vasasca</em> (Y8.4-8). If it is troublesome for him, he has to stand as much as the stanzas said twice, the dedicatories and the <em>wāz gīrišnīh</em> and the <em>zōt</em> (as much as) from <em>frastuiie</em> (Y0.6) to <em>imat̰
+               barəsma</em> (Y2.1) and (from) <em>ahurāi mazdāi</em> (Y24.1) to <em>daθušō</em> (Y24.12) and then until <em>aētat̰adim</em> (Y27.1) and until these three hād, the end of the hāds: <em>vaŋhuca</em> (Y52)."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS0.6"/>
+   </translation>
+</text>

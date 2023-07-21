@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS2.10" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VrS2.10">
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS2.2"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. VrS2.4.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab>VrS2.10c <em>vāstrō.dataēnīm</em>] cod. Geldner, Kellens <em>vāstrō.dātainīm</em>. Cf. Skt. <em>prāvṛṣéṇya-</em> (<bibl>Debrunner, 1954</bibl>, p. 504).</ab>
+            <ab>VrS2.10e <em>varšni.haršəm</em>] Kellens. Geldner <em>varšniharštəm</em>.</ab>
+            <ab>VrS2.10f <em>sarəδīm</em>] cod. Gelner, Kellens <em>sarəδəm</em>. Cf. VrS1.10 <em>sarəδahe</em> instead expected <em>sarəδiiehe</em>.</ab>
+            <ab>VrS2.10g <em>arətō.kərəiϑinəm</em>] Kellens <em>arətō.kərəiϑinəm</em>; Geldner <em>arətōkarəϑnahe</em>. Vid. VrS1.10.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels>
+        <ab>VrS2.10 ≈ VrS1.10, VrS17.9, VrS25.12, VrS27.26, VrS77.9, VrS90.10.</ab>
+    <ab>Without the mention of the attributes to each <em>gahanbār</em> and mentioning <em>sarəδa</em> ("year") as <em>ratu</em> ~ Y1.9, Y2.9, Y3.11, Y4.14, Y6.8, Y7.12, Y17.8, Y22.12, Y24.19, Y59.8, Y66.9, VrS78.21, VrS79.14, VrS81.8, VrS82.9.</ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrVrS2.10"/>
+        <include type="W" corresp="WTrVr2.2"/>
+        <include type="D" corresp="DTrVr2.2"/>
+        <include type="K" corresp="KTrVr2.2"/>
+    </translation>
+</text>

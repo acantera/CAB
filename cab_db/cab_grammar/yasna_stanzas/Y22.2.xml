@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y22.2" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y22.2">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY22.1a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY22.1b"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY22.1c"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY22.1d"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y22.1.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical>
+         <ab>Y22.2c-d <em>imąmcā</em>] irr. for expected YAv. <em>imąmca</em>. Vid. other examples in <bibl>De Vaan, 2003</bibl> p. 163.</ab>
+      </Critical>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>Y22.2a <em>barəsmana paiti.bərəta</em>...] <em>barəsmana paiti.bərəta</em> OD LOYŠE <em>aōxtō.nāmanō yazatahe</em> (Y22.24) 40.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <Parallels>
+         <ab>Y22.2 ≈ Y3.1, Y4.1, Y4.3, Y7.2, Y24.1, VrS78.13, VrS79.1, VrS79.3, VrS82.2.</ab>
+         <ab>VrS25 = DoHom2.</ab>
+         <ab>VrS25.1 = DoHom2.1.</ab>
+         <ab><em>barəsmana paiti.bərəta haδa.zaōϑra</em> ~ Y2.1, Y3.4, Y7.5, Y59.29 <em>barəsma haδa.zaōϑrəm</em>.</ab>
+         <ab><em>iməm haōməm aṣ̌aiia uzdātəm āiiese yešti imąmcā gąm jīuuiiąm aṣ̌aiia uzdātąm āiiese yešti imąmcā uruuarąm haδānaēpatąm aṣ̌aiia uzdātąm āiiese yešti</em> = Y22.22, Y22.25; 
+            ~ Y25.1 <em>iməm haōməm aṣ̌aiia uzdātəm yazamaide imąmcā gąm jīuuiiąm aṣ̌aiia uzdātąm yazamaide imąmcā uruuarąm haδānaēpatąm aṣ̌aiia uzdātąm yazamaide</em>.</ab>
+         <ab><em>imąmcā gąm jīuuiiąm aṣ̌aiia uzdātąm āiiese yešti imąmcā uruuarąm haδānaēpatąm aṣ̌aiia uzdātąm āiiese yešti</em>; ~ Y24.6 <em>imąmcā gąm jīuuiiąm aṣ̌aiia uzdātąm imąmcā uruuarąm haδānaēpatąm aṣ̌aiia uzdātąm</em>;
+            ~ Y3.3 <em>gąm jīuuiiąm āiiese yešti uruuarąm haδānaēpatąm aṣ̌aiia uzdātąm āiiese yešti</em>; ~ Y7.4 <em>aṣ̌aiia daδąmi gąm jīuuiiąm aṣ̌aiia daδąmi uruuarąm haδānaēpatąm aṣ̌aiia uzdātąm</em>.</ab>
+         <ab><em>uruuarąm haδānaēpatąm</em> ~ Y62.9 <em>uruuarąm vā haδānaēpatąm</em>.</ab>
+      </Parallels>
+   </Parallels>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y22.2 Var. a (mss. 40, 400, 410):</ab>
+         <ab class="ab_indent">
+            ēsm ud bōy ēk tāg az dašn bē nihādan hōm pad kamistīh sē tāg ud urwarām pārag-ē nihādan <em>barəsmana paiti.bərəta</em> ...</ab> 
+         <ab class="ab_indent">
+            "He should place one piece of <em>ēsm</em> ud <em>bōy</em> at the right side. He should place at least three twigs of <em>hōm</em> and a portion of 
+            <em>urwarām</em> (and they should recite) <em>barəsmana paiti.bərəta</em> ..."</ab>
+         <ab>Y22.2 Var. b (mss. 6, 2005, 2007, 2010, 2030, 2040, 2101, 2104, 2106, 2109, 4010, 4020, 4025, 4030a, 4040, 4050, 4055, 4063, 4161, 5020):</ab>
+         <ab class="ab_indent">
+            ēsm ud bōy ēk tāg  nihādan <em>barəsmana. paiti.bərəta</em> ...</ab> 
+         <ab class="ab_indent">
+            "He should put one piece of <em>ēsm</em> and <em>bōy</em> (and they should recite) <em>barəsmana paiti.bərəta</em> ..."</ab>
+         <ab>Vid. VVrS24.1.</ab>
+      </Nerangs>
+      
+      <Quotations id="ritualQuotations">
+         <ab>N28.46a</ab>
+         <ab class="ab_indent">
+            pad hōmāst bun ēsm ud bōy ēw tāg az dašn bē nihišn u-š hōm ud urwarām pad čandīh bē paydāgēnišn hōm pad kamistīh sē grih ud pad wēšištīg panǰ. ṣ̌ōpaθ pad dwāzdah hōmāst-ē 
+            tašt-ē enyā urwarām ī andar ān pad nēmag u-š hamē xwarišn</ab>
+         <ab class="ab_indent">
+            "At the beginning of the <em>Hōmāst</em>, he should put a piece of <em>ēsm</em> and <em>bōy</em> on the right side. He has to show the <em>hōm</em> and <em>urwarām</em> 
+            in the following quantity: <em>hōm</em>, at least three "knots" and at most… (unclear). For the Dawāzdah-Hōmāst, (thes use) only a saucer. The <em>urwarām</em> in it is a half. He has to
+            drink the whole."</ab>
+      </Quotations>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY22.2"/>
+      <include type="W" corresp="WTrY22.1b"/>
+      <include type="K" corresp="KTrY22.1b"/>
+      <include type="D" corresp="DTrY22.1b"/>
+   </translation>
+</text>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS15.3" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="VrS15.3" xml:id="VVrS15.3">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/videvdad_nerang" xpointer="VVrS15.3NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr1"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS6.3a"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt̰ ud rāspīg (this at the place of the <em>srōšāwarzān</em>): vid. Nērang.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VVrS15.3WazGr lʾspyk PWN gʾs Y slwšʾwlcʾn' <em>yaϑā ahū vairiiō yō zaōtā frā.mē mrūte</em> zwt' <em>aϑā ratuš</em> krtn'] 4000, 4025, 4040, 4050; 
+            lʾspyk PWN gʾs Y slwšʾwlc' <em>yaϑā ahī vairiiō yō zaōtā frā.mē mrīte</em> zwt' <em>aϑā ratuš</em> OD LOYŠE gwptn' 4020, 4161, 4162; 
+            lʾspyk PWN gʾs Y slwšʾwlc' <em>yaϑā ahī vairiiō yō zaōtā frā.mē mrīte</em> zwt' <em>aϑā ratuš</em> krtn 4045; lʾspyk <em>yaϑā ahē vairiiō yō zaōtā frāmē maraēte</em> zwt' gwptn <em>aϑā ratuš</em> krtn' 4030.</ab>
+         <ab>VVrS15.3a <em>səraōšō iδā astū...</em>] lʾspyk <em>səraōšō iδā astū</em> 4000, 4010, 4020, 4025, 4040, 4045, 4050, 4075, 4161, 4162; lʾspyk gwtn' <em>sraōšō iδā astī</em>.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS15.3"/>
+   </translation>
+</text>

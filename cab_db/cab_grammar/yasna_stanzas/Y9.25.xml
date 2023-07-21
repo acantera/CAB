@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y9.25" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y9.25">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY9.25"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y9.3.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y9.25b <em>apiuuatahi</em>] em., sec Pirart <em>apiuuatahi</em>; Geldner, Kellens <em>apiuuatahe</em>. Cf. VSS9.2, VS19.47, VS19.52 <em>apiuuatāiti</em>. Cf. OInd. <em>ápivátati</em>.</ab>
+         <ab>Y9.25b <em>pouru vacąm</em>] Pirart (<bibl>Duchesne-Guillemin, 1936</bibl>, p. 141 §173); Geldner <em>pouruuacąm</em>; Bartholomae, Kellens <em>pouru.vacąm</em>, but <bibl>Kellens, 2007</bibl>, p. 65 "B pour G <em>pouruuacąm</em>, mais en fait tantôt un composé spécifique (902), tantôt deux mots indépendants (parav-, 855 n.8)."</ab>
+         <ab>Y9.25b <em>pouru vacąm ərəžuxδanąm</em>] add. post. glossa <em>ušta.tē kā nā vaca arṣ̌uxδa</em> 510, man. del. <em>ušta.tē</em>; <em>	
+            kā nā vaca aršuxδā</em> 500, 510 (post. corr.), 672, 677; <em>kānā vaca arəšuxδa</em> 235, 400; <em>kānēvaca ərəjuxt̰</em> 231. Kellens [<em>kā nā vaca aršuxδa</em>].</ab>
+         <ab>Y9.25c <em>pərəsahi</em>] Bartholomae, Kellens; Geldner, Pirart <em>pərəsahe</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>
+         <em>vacąm ərəžuxδanąm [...] ərəǔxδəm [...] vācim</em> ~ Y7.30 <em>aršuxδəm vācim</em>;  ~ Y60.5 <em>aršuxδō vāxš</em>; ~ Y71.10 <em>vacō aršuxδa</em>; ~ VrS15.1 <em>aršuxδaēibiiasca vāγžibiiō</em>;  ~ Y27.8 <em>aršuxδanąmcā vacąm</em>; ~ VrS31.13 <em>aršuxδanąmca vacaŋhąm</em> (!), etc.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY9.25"/>
+
+        <include type="W" corresp="WTrY9.25"/>
+        <include type="K" corresp="KTrY9.25"/>
+        <include type="D" corresp="DTrY9.25"/>
+    </translation>
+</text>

@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+            <div type="Yasht" xml:id="YtSrH"> <!-- vide: YL2-17, K36, MZK9, MZK6, RR3, NiknamXA, KM8_5, K37; non vide: L12, MF28, MF25, MF29, MF31, W1 -->
+				<div type="YashtStanza" xml:id="YtSrH1.1" corresp="#GYt11.0"> <!-- The later IrXA mss. start with a Parsi or Pāzand introduction; K37 mas o weh o fīrūzgar bād mīnūī ādor xorre ādor goštasb ādor borzīn-mehr-āwārī hamā adorān ātašān -->    
+					<ab n="a" xml:id="YtSrH1.1a">xšnaōϑra. ahurahe. mazdā̊. tarōidīti. aŋhrahe. maińiiə̄uš.</ab>
+                    <ab n="b" xml:id="YtSrH1.1b">haiϑiiāuuarštąm. hiiat̰. vasnā. fəraṣ̌ōtəməm.</ab>
+                </div>
+                <div type="YashtStanza" xml:id="YtSrH1.2" corresp="#GYt11.0" quote="Y12.2 (#GY11.17) = YR12.2 VrS12.2 VVrS12.2 VytVrS12.2">
+                    <ab n="a" xml:id="YtSrH1.2a">fərastuiiē. humatōibiiascā. hūxtōibiiascā. huuarštōibiiascā. mąϑβōibiiascā. vaxəδβōibiiascā. varštuuōibiiascā.</ab>
+					<ab n="b" xml:id="YtSrH1.2b">aibigairiiā. daiϑē. vīspā. humatācā. hūxtācā. huuarštācā.</ab>
+					<ab n="c" xml:id="YtSrH1.2c">paitiriciiā. daiϑē. vīspā. dušmatācā. dužūxtācā. dužuuarštācā.</ab>
+                </div>
+                <div type="YashtStanza" xml:id="YtSrH1.3" corresp="#GYt11.0" quote="Y12.3 (#GY11.18) = YR12.3 VrS12.3 VVrS12.3 VytVrS12.3 ">
+                    <ab n="a" xml:id="YtSrH1.3a">fərā. və̄. rāhī. aməṣ̌ā. spəṇtā. yasnəmcā. vaɱəmcā.</ab>
+					<ab n="b" xml:id="YtSrH1.3b">fərā. manaŋhā. fərā. vacaŋhā. fərā. š́iiaōϑanā.</ab>
+					<ab n="c" xml:id="YtSrH1.3c">fərā. aŋhuiiā. fərā. tanuuascīt̰. xᵛax́iiā̊. uštanəm.</ab>
+				</div>
+				<div type="YashtStanza" xml:id="YtSrH1.4" corresp="#GYt11.0" quote="Y12.4 (#GY11.19) = YR12.4 VrS12.4 VVrS12.4 VytVrS12.4">
+                    <ab n="a" xml:id="YtSrH1.4a">staōmi. aṣ̌əm.</ab>
+				</div>
+				<div type="YashtStanza" xml:id="YtSrH1.5" corresp="#GYt11.0" quote="Y12.5 (#GY11.19) = YR12.5 VrS12.5 VVrS12.5 VytVrS12.5">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/>
+                </div>
+				<div type="Frauuarane" xml:id="YtSrH1.6" corresp="#GYt11.0">
+				<ab n="a" xml:id="Frauuarane.a">frauuarāne. mazdaiiasnō. zaraϑuštriš. vīdaēuuō. ahura.t̰kaēšō.</ab>
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP1XA"/>
+				</div>	
+                <div type="YashtStanza" xml:id="YtSrH2.1" corresp="#GYt11.1"> <!-- Missing in the IndXA -->
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+				</div>
+				<div type="YashtStanza" xml:id="YtSrH2.2" corresp="#GYt11.1">
+                    <include type="block_shnumanacc" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanAcc" xpointer="ShnumanAcc19"/>
+                    <ab n="a" xml:id="YtSrH2.2a">nəmō. vohu. nəmō. vahištəm. zaraϑuštra. gaēϑābiiō.</ab>
+                </div>
+                <div type="YashtStanza" xml:id="YtSrH2.3" corresp="#GYt11.2">
+                    <ab n="a" xml:id="YtSrH2.3a">tat̰. druuatō. druuatąm. auruuaϑō. paiti.dārəšta.</ab>
+                    <ab n="b" xml:id="YtSrH2.3b">tat̰. druuatō. druuatiiā̊sca.</ab>
+                    <ab n="c" xml:id="YtSrH2.3c">aṣ̌i. uši. karəna. gauua. duuarəϑra. zafarə. dərəzuuąn. pairi.uruuaēštəm.</ab>
+                    <ab n="d" xml:id="YtSrH2.3d">yat̰. nəmō. vohu. aδauuīm. at̰baēšəm.</ab>
+                    <ab n="e" xml:id="YtSrH2.3e">naire. hąm.varəitiš. drujō. vārəϑma. dārəšta.</ab>
+                </div>
+                <div type="YashtStanza" xml:id="YtSrH2.4" corresp="#GYt11.3">
+                    <ab n="a" xml:id="YtSrH2.4a">sraōšō. aṣ̌iiō. driγūm. ϑrātōtəmō.</ab>
+                    <ab n="b" xml:id="YtSrH2.4b">hō. vərəϑraja. drujəm. jaγništō.</ab>
+                    <ab n="c" xml:id="YtSrH2.4c">nā. aṣ̌auua. āfri.vacastəmō.</ab>
+                    <ab n="d" xml:id="YtSrH2.4d">hō. vərəϑra. vərəϑrauuastəmō. mąϑrō. spəṇtō.</ab>
+                    <ab n="e" xml:id="YtSrH2.4e">maińiiəuuīm. drujəm. nižbairištō.</ab>
+                    <ab n="f" xml:id="YtSrH2.4f">ahunō. vairiiō. vacąm. vərəϑrająstəmō.</ab> <!-- Cf. #GY7.26 -->
+                    <ab n="g" xml:id="YtSrH2.4g">aršuxδō. vāxš. yāhi. vərəϑrająstəmō.</ab>
+                    <ab n="h" xml:id="YtSrH2.4h">daēna. māzdaiiasniš.</ab>
+                    <ab n="i" xml:id="YtSrH2.4i">vīspaēšu. vaŋhušu. vīspaēšuca. aṣ̌ō.ciϑraēšu.</ab>
+                    <ab n="j" xml:id="YtSrH2.4j">haiϑiia.dātəma. aϑa. dātəm. zaraϑuštri.</ab>
+                </div>
+                <div type="YashtStanza" xml:id="YtSrH2.5" corresp="#GYt11.4">
+                    <ab n="a" xml:id="YtSrH2.5a">yasca. zaraϑuštra. imat̰. uxδəm. vacō. frauuaōcāt̰.</ab> <!-- yasca. zaraϑuštra. ommitted in NiknamXA -->
+                    <ab n="b" xml:id="YtSrH2.5b">nā. vā. nāiri.vā.</ab>
+                    <ab n="c" xml:id="YtSrH2.5c">aṣ̌a.sara. manaŋha. aṣ̌a.sara. vacaŋha. aṣ̌a.sara. š́iiaōϑna.</ab>
+                    <ab n="d" xml:id="YtSrH2.5d">masō. vā. āpō. masō. vā. ϑβaēšō. xšapō. vā.</ab>
+                    <ab n="e" xml:id="YtSrH2.5e">tąϑriiaiiā̊. aipi.duuąnaraiiā̊.</ab>
+                    <ab n="f" xml:id="YtSrH2.5f">apąm. vā. nāuuaiianąm.</ab>
+                    <ab n="g" xml:id="YtSrH2.5g">paiti. pərətūš. paϑąm. vā.</ab>
+                    <ab n="h" xml:id="YtSrH2.5h">paiti. vīcarənā̊.</ab>
+                    <ab n="i" xml:id="YtSrH2.5i">narąm. vā. aṣ̌aōnąm.</ab>
+                    <ab n="j" xml:id="YtSrH2.5j">haṇjamanāiš. druuatąm. vā.</ab>
+                    <ab n="k" xml:id="YtSrH2.5k">daēuuaiiasnanąm. haṇduuaranāiš.</ab>
+                </div>
+                <div type="YashtStanza" xml:id="YtSrH2.6" corresp="#GYt11.5">
+                    <ab n="a" xml:id="YtSrH2.6a">kaɱi. kaɱicit̰. vā. aipiianąm.</ab>
+                    <ab n="b" xml:id="YtSrH2.6b">kaɱi. kaɱicit̰. vā. araϑiianąm.</ab>
+                    <ab n="c" xml:id="YtSrH2.6c">ϑβaēšō. biβiuuā̊.</ab>
+                    <ab n="d" xml:id="YtSrH2.6d">nōit̰. dim. yauua. aŋ́he. aiiąn.</ab>
+                    <ab n="e" xml:id="YtSrH2.6e">nōit̰. aŋ́hā̊. xšapō.</ab>
+                    <ab n="f" xml:id="YtSrH2.6f">druuā̊. zarətō. zaranumanō. zazarānō.</ab>
+                    <ab n="g" xml:id="YtSrH2.6g">aṣ̌ibiia. auua.spašticina.</ab>
+                    <ab n="h" xml:id="YtSrH2.6h">aōi. auua.spašnaōt̰.</ab>
+                    <ab n="i" xml:id="YtSrH2.6i">nōit̰. gaδahe. vazō.vąϑβiiehe. t̰baēšō. frąšticina. frāšnuiiāt̰.</ab>
+                </div>
+                <div type="YashtStanza" xml:id="YtSrH2.7" corresp="#GYt11.6">
+                    <ab n="a" xml:id="YtSrH2.7a">imat̰ca. zaraϑuštra. imat̰. uxδəm. vacō. framruiiā̊.</ab>
+                    <ab n="b" xml:id="YtSrH2.7b">yat̰. ājasāt̰. kərətasca. gaδōtušca. daēuuīšca. haṇdramana.</ab>
+                    <ab n="c" xml:id="YtSrH2.7c">āat̰. druuatąm. daēuuaiiasnanąm.</ab>
+                    <ab n="d" xml:id="YtSrH2.7d">yātušca. yātumatąm.</ab>
+                    <ab n="e" xml:id="YtSrH2.7e">pairikā̊sca. pairikauuatąm.</ab>
+                    <ab n="f" xml:id="YtSrH2.7f">t̰baēšō. fratərəsąn. fraduuarąn.</ab>
+                    <ab n="g" xml:id="YtSrH2.7g">ńiiā̊ṇcō. daēuuō.</ab>
+                    <ab n="h" xml:id="YtSrH2.7h">ńiiā̊ṇcō. daēuuaiiāzō.</ab>
+                    <ab n="i" xml:id="YtSrH2.7i">zafarə. auua.gəuruuaiiąn. iϑa. rārəš́iiaṇtō.</ab>
+                </div>
+                <div type="YashtStanza" xml:id="YtSrH2.8" corresp="#GYt11.7">
+                    <ab n="a" xml:id="YtSrH2.8a">yaϑaca. pasuš.hauruuā̊ŋhō.</ab>
+                    <ab n="b" xml:id="YtSrH2.8b">aētat̰. sraōšəm. aṣ̌īm. pairi.barāmaide.</ab> <!-- YtSrH2.8b-c in YL17-2 sec.man. on the margin -->
+                    <ab n="c" xml:id="YtSrH2.8c">yim. aṣ̌auuanəm. vərəϑrājanəm.</ab>
+                    <ab n="d" xml:id="YtSrH2.8d">aētat̰. sraōšəm. aṣ̌īm. frā.yazamaide.</ab>
+                    <ab n="e" xml:id="YtSrH2.8e">yim. aṣ̌auuanəm. vərəϑrājanəm. humatāišca. hūxtāišca. huuarštāišca.</ab> <!-- The section #GYt11.8-9 is missing in the IrXA -->
+                </div>
+                <div type="YashtStanza" xml:id="YtSrH3.1" corresp="#GYt11.10" quote="YtSr8.1 = Y57.23 (#GY57.15) = YR57.23 VrS74.23 VVrS74.23 VytVrS74.23 = YtSr8.1">
+					<ab n="a" xml:id="YtSrH3.1a">yō. vananō. kaiiaδahe.</ab> <!-- sraōšəm. aṣ̌īm. huraōδəm. vərəθrājanəm. yazamaide. missing in the IrXA? Or the full version (see YtSr8.1)?-->
+					<ab n="b" xml:id="YtSrH3.1b">yō. vananō. kāiδiiehe.</ab>
+                    <ab n="c" xml:id="YtSrH3.1c">yō. jaṇta. daēuuaiiā̊. drujō. aš.aōjaŋhō. ahūm.mərəṇcō.</ab> 
+                    <ab n="d" xml:id="YtSrH3.1d">yō. harəta. aiβiiāxštaca.</ab> <!-- YtSrH3.1d-YtSrH3.2d = YtMihr27.3.d-i-->
+					<ab n="e" xml:id="YtSrH3.1e">vīspaiiā̊. frauuōiš. gaēϑaiiā̊.</ab>
+                </div>
+                <div type="YashtStanza" xml:id="YtSrH3.2" corresp="#GYt11.11" quote="YtSr8.2 = Y57.24 (#GY57.16) = YR57.24 VrS74.24 VVrS74.24 VytVrS74.24 = YtSr8.2">
+                    <ab n="a" xml:id="YtSr3.2a">yō. anauuaŋhabdəmnō. zaēnaŋha.</ab>
+					<ab n="b" xml:id="YtSr3.2b">nipāiti. mazdā̊. dāmąn.</ab>
+                    <ab n="c" xml:id="YtSr3.2c">yō. anauuaŋhabdəmnō. zaēnaŋha. </ab>
+					<ab n="d" xml:id="YtSr3.2d">nišhauruuaiti. mazdā̊. dāmąn.</ab>
+                    <ab n="e" xml:id="YtSr3.2e">yō. vīspəm. ahūm. astuuaṇtəm.</ab>
+					<ab n="f" xml:id="YtSr3.2f">ərəδβa. snaiϑiša. nipāiti.</ab>
+					<ab n="g" xml:id="YtSr3.2g">pasca. hū. frāšmō.dāitīm.</ab>&gt;
+                </div>
+                <div type="YashtStanza" xml:id="YtSrH3.3" corresp="#GYt11.12, #GYt11.13" quote="YtSr8.3 = Y57.25 (#GY57.17) = YR57.25 VrS74.25 VVrS74.25 VytVrS74.25 = YtSr8.3">
+                    <ab n="a" xml:id="YtSr3.3a">yō. nōit̰. pascaēta. hušxᵛafa.</ab>
+					<ab n="b" xml:id="YtSr3.3b">yat̰. maińiiū. dāmąn. daiδītəm.</ab>
+                    <ab n="c" xml:id="YtSr3.3c">yasca. spəṇtō. maińiiuš. yasca. aŋhrō.</ab>
+                    <ab n="d" xml:id="YtSr3.3d">hišārō. aṣ̌ahe. gaēϑā̊.</ab> 
+                    <ab n="e" xml:id="YtSr3.3e">yō. vīspāiš. aiiąnca. xšafnasca. yūiδiieiti.</ab>
+					<ab n="f" xml:id="YtSr3.3f">māzańiiaēibiiō. haδa. daēuuaēibiiō.</ab>
+                    <ab n="g" xml:id="YtSr3.3g">hō. nōit̰. tarštō. frānāmāite.</ab>
+					<ab n="h" xml:id="YtSr3.3h">ϑβaēšāt̰. parō. daēuuaēibiiō.</ab>
+					<ab n="i" xml:id="YtSr3.3i">frā. aɱāt̰. parō. vīspe. daēuua.</ab>
+					<ab n="j" xml:id="YtSr3.3j">anusō. taršta. nəmaṇte.</ab>
+					<ab n="k" xml:id="YtSr3.3k">taršta. təmaŋhō. duuarəṇti.</ab>
+				</div>
+				<div type="YashtStanza" xml:id="YtSrH3.4" corresp="#GYt11.13"> quote="YtSr2.2 (#GYt11a.2) [Y57.5 (#GY57.3) = YR57.5 VrS74.5 VVrS74.5 VytVrS74.5]"&gt;	
+                    <ab n="a" xml:id="YtSrH3.4a">ahe. raiia. xᵛarənaŋhaca.</ab> 
+                    <ab n="b" xml:id="YtSrH3.4b">aŋ́he. ama. vərəϑraγnaca.</ab>
+					<ab n="c" xml:id="YtSrH3.4c">ahe. yasna. yazatanąm.</ab> 
+                    <ab n="d" xml:id="YtSrH3.4d">təm. yazāi. surunuuata. yasna.</ab> 
+                    <ab n="e" xml:id="YtSrH3.4e">sraōšəm. aṣ̌īm. zaōϑrābiiō.</ab>  
+                    <ab n="f" xml:id="YtSrH3.4f">aṣ̌īmca. vaŋᵛhīm. bərəzaitīm.</ab>  
+                    <ab n="g" xml:id="YtSrH3.4g">nairīmca. saŋhəm. huraōδəm.</ab>
+				</div>
+				<div type="YashtStanza" xml:id="YtSrH3.5" corresp="#GYt11.13">	quote="YtSr2.3 (#GYt11a.2) [Y57.5 (#GY57.3) = YR57.5 VrS74.5 VVrS74.5 VytVrS74.5]"&gt;
+                    <ab n="a" xml:id="YtSrH3.5a">āca.nō. jamiiāt̰. auuaŋhe.</ab>  
+                    <ab n="b" xml:id="YtSrH3.5b">vərəϑrajā̊. sraōšō. aṣ̌iiō.</ab>
+				</div>
+				<div type="YashtStanza" xml:id="YtSrH3.6" corresp="#GYt11.13"> "YtSr2.4 (#GYt11a.3) [Y57.6 (#GY57.4) = YR57.6 VrS74.6 VVrS74.6 VytVrS74.6 = YtSrH3.6]"&gt;	
+                    <ab n="a" xml:id="YtSrH3.6a">sraōšəm. aṣ̌īm. yazamaide.</ab> 
+                    <ab n="b" xml:id="YtSrH3.6b">ratūm. bərəzaṇtəm. yazamaide. yim. ahurəm. mazdąm.</ab> <!-- YtSrH3.6b-g = GHaw2.7g-j -->
+                    <ab n="c" xml:id="YtSrH3.6c">yō. aṣ̌ahe. apanōtəmō.</ab> 
+                    <ab n="d" xml:id="YtSrH3.6d">yō. aṣ̌ahe. jaγmūštəmō.</ab> 
+                    <ab n="e" xml:id="YtSrH3.6e">vīspa. srauuā̊. zaraϑuštri. yazamaide.</ab> 
+                    <ab n="f" xml:id="YtSrH3.6f">vīspaca. huuaršta. š́iiaōϑna. yazamaide.</ab> 
+                    <ab n="g" xml:id="YtSrH3.6g">varštaca. varəš́iiamnaca.</ab>
+				</div>
+				<div type="YashtStanza" xml:id="YtSrH3.7" corresp="#GYt11.13"> <!-- Missing in IndXA -->
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YeH" xpointer="YeH"/> 
+				</div>
+                <div type="YashtStanza" xml:id="YtSrH4.1" corresp="#GYt11.14">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+				</div>
+				<div type="YashtStanza" xml:id="YtSrH4.2" corresp="#GYt11.14">
+                    <include type="block_shnumanacc" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanAcc" xpointer="ShnumanAcc19"/>
+                    <ab n="a" xml:id="YtSrH4.2a">yō. āxštišca. uruuaitišca.</ab> <!-- On YtSrH4.2a-b see Humbach 1991 II, p. 179 (note on Y46.5), de Jong, Tradition, p. 175  -->
+                    <ab n="b" xml:id="YtSrH4.2b">drujō. spasiiō. spə̄ništahe.</ab>
+                    <ab n="c" xml:id="YtSrH4.2c">auuāin. aməṣ̌ā̊. spəṇtā̊.</ab> <!-- On YtSrH4.2c-d cf. GV19.13 auuaēn. aməṣ̌ā̊. spəṇta. auui. haptō. karṣ̌uuairīm. ząm. -->
+                    <ab n="d" xml:id="YtSrH4.2d">aōi. haptō.karšuuairīm. ząm.</ab>
+                    <ab n="e" xml:id="YtSrH4.2e">yō. daēnō.disō. daēnaiiāi.</ab>
+                    <ab n="f" xml:id="YtSrH4.2f">aɱāi. daēnąm. daēsaiiat̰.</ab>
+                    <ab n="g" xml:id="YtSrH4.2g">ahurō. mazdā̊. aṣ̌auua.</ab>
+				</div>
+				<div type="YashtStanza" xml:id="YtSrH4.3" corresp="#GYt11.14">
+                    <ab n="a" xml:id="YtSrH4.3a">ahe. raiia. xᵛarənaŋhaca.</ab> 
+                    <ab n="b" xml:id="YtSrH4.3b">aŋ́he. ama. vərəϑraγnaca.</ab>
+					<ab n="c" xml:id="YtSrH4.3c">ahe. yasna. yazatanąm.</ab> 
+                    <ab n="d" xml:id="YtSrH4.3d">təm. yazāi. surunuuata. yasna.</ab> 
+                    <ab n="e" xml:id="YtSrH4.3e">sraōšəm. aṣ̌īm. zaōϑrābiiō.</ab>  
+                    <ab n="f" xml:id="YtSrH4.3f">aṣ̌īmca. vaŋᵛhīm. bərəzaitīm.</ab>  
+                    <ab n="g" xml:id="YtSrH4.3g">nairīmca. saŋhəm. huraōδəm.</ab>
+				</div>
+				<div type="YashtStanza" xml:id="YtSrH4.4" corresp="#GYt11.14">	
+                    <ab n="a" xml:id="YtSrH4.4a">āca.nō. jamiiāt̰. auuaŋhe.</ab>  
+                    <ab n="b" xml:id="YtSrH4.4b">vərəϑrajā̊. sraōšō. aṣ̌iiō.</ab>
+				</div>
+				<div type="YashtStanza" xml:id="YtSrH4.5" corresp="#GYt11.14">					
+                    <ab n="a" xml:id="YtSrH4.5a">sraōšəm. aṣ̌īm. yazamaide.</ab> 
+                    <ab n="b" xml:id="YtSrH4.5b">ratūm. bərəzaṇtəm. yazamaide. yim. ahurəm. mazdąm.</ab> 
+                    <ab n="c" xml:id="YtSrH4.5c">yō. aṣ̌ahe. apanōtəmō.</ab> 
+                    <ab n="d" xml:id="YtSrH4.5d">yō. aṣ̌ahe. jaγmūštəmō.</ab> 
+                    <ab n="e" xml:id="YtSrH4.5e">vīspa. srauuā̊. zaraϑuštri. yazamaide.</ab> 
+                    <ab n="f" xml:id="YtSrH4.5f">vīspaca. huuaršta. š́iiaōϑna. yazamaide.</ab> 
+                    <ab n="g" xml:id="YtSrH4.5g">varštaca. varəš́iiamnaca.</ab>	
+                </div>
+				<div type="YashtStanza" xml:id="YtSrH4.6" corresp="#GYt11.14">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YeH" xpointer="YeH"/> 
+				</div>
+                <div type="YashtStanza" xml:id="YtSrH5.1" corresp="#GYt11.15">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+				</div>
+				<div type="YashtStanza" xml:id="YtSrH5.2" corresp="#GYt11.15">
+                    <include type="block_shnumanacc" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanAcc" xpointer="ShnumanAcc19"/>
+                    <ab n="a" xml:id="YtSrH5.2a">yim. daϑat̰. ahurō. mazdā̊. aṣ̌auua.</ab>
+                    <ab n="b" xml:id="YtSrH5.2b">aēšmahe. xruuī.draōš. hamaēstārəm.</ab>
+                    <ab n="c" xml:id="YtSrH5.2c">āxštīm. hąm.vaiṇtīm. yazamaide.</ab>
+                    <ab n="d" xml:id="YtSrH5.2d">parətasca. mruuaiiā̊sca. hamaēstāra.</ab>
+                </div>
+                <div type="YashtStanza" xml:id="YtSrH5.3" corresp="#GYt11.16">
+                    <ab n="a" xml:id="YtSrH5.3a">haxaiia. sraōšahe. aṣ̌iiehe.</ab>
+                    <ab n="b" xml:id="YtSrH5.3b">haxaiia. rašnaōš. razištahe.</ab>
+                    <ab n="c" xml:id="YtSrH5.3c">haxaiia. miϑrahe. vouru.gaōiiaōitōiš.</ab>
+                    <ab n="d" xml:id="YtSrH5.3d">haxaiia. vātahe. aṣ̌aōnō.</ab>
+                    <ab n="e" xml:id="YtSrH5.3e">haxaiia. daēnaiiā̊. vaŋhuiiā̊. māzdaiiasnōiš.</ab>
+                    <ab n="f" xml:id="YtSrH5.3f">haxaiia. arštātō. frādat̰.gaēϑaiiā̊. varədat̰.gaēϑaiiā̊. sauuō.gaēϑaiiā̊.</ab>
+                    <ab n="g" xml:id="YtSrH5.3g">haxaiia. aṣ̌ōiš. vaŋhuiiā̊.</ab>
+                    <ab n="h" xml:id="YtSrH5.3h">haxaiia. cistōiš. vaŋhuiiā̊.</ab>
+                    <ab n="i" xml:id="YtSrH5.3i">haxaiia. razištaiiā̊. cistaiiā̊.</ab>
+                </div>
+                <div type="YashtStanza" xml:id="YtSrH5.4" corresp="#GYt11.17">
+                    <ab n="a" xml:id="YtSrH5.4a">haxaiia. vīspaēšąm. yazatanąm.</ab>
+                    <ab n="b" xml:id="YtSrH5.4b">haxaiia. mąϑrahe. spəṇtahe.</ab>
+                    <ab n="c" xml:id="YtSrH5.4c">haxaiia. dātahe. vīdaēuuahe.</ab>
+                    <ab n="d" xml:id="YtSrH5.4d">haxaiia. darəγaiiā̊. upaiianaiiā̊.</ab>
+                    <ab n="e" xml:id="YtSrH5.4e">haxaiia. aməṣ̌anąm. spəṇtanąm.</ab>
+                    <ab n="f" xml:id="YtSrH5.4f">haxaiia. aɱākəm. saōš́iiaṇtąm. yat̰. bipaitištanąm. aṣ̌aōnąm.</ab>
+                    <ab n="g" xml:id="YtSrH5.4g">haxaiia. vīspaiiā̊. aṣ̌aōnō. stōiš.</ab>
+				</div>
+                <div type="YashtStanza" xml:id="YtSrH5.5" corresp="#GYt11.17">		
+                    <ab n="a" xml:id="YtSrH5.5a">ahe. raiia. xᵛarənaŋhaca.</ab> 
+                    <ab n="b" xml:id="YtSrH5.5b">aŋ́he. ama. vərəϑraγnaca.</ab> 
+                    <ab n="c" xml:id="YtSrH5.5c">ahe. yasna. yazatanąm.</ab> 
+                    <ab n="d" xml:id="YtSrH5.5d">təm. yazāi. surunuuata. yasna.</ab>
+                    <ab n="e" xml:id="YtSrH5.5e">sraōšəm. aṣ̌īm. zaōϑrābiiō. </ab>
+                    <ab n="f" xml:id="YtSrH5.5f">aṣ̌īmca. vaŋᵛhīm. bərəzaitīm.</ab> 
+                    <ab n="g" xml:id="YtSrH5.5g">nairīmca. saŋhəm. huraōδəm.</ab>
+				</div>
+                <div type="YashtStanza" xml:id="YtSrH5.6" corresp="#GYt11.17">					
+                    <ab n="a" xml:id="YtSrH5.6a">āca.nō. jamiiāt̰. auuaŋhe.</ab> 
+                    <ab n="b" xml:id="YtSrH5.6b">vərəϑrajā̊. sraōšō. aṣ̌iiō.</ab>
+				</div>
+                <div type="YashtStanza" xml:id="YtSrH5.7" corresp="#GYt11.17">
+					<ab n="a" xml:id="YtSrH5.7a">sraōšəm. aṣ̌īm. yazamaide.</ab>
+					<ab n="b" xml:id="YtSrH5.7b">ratūm. bərəzaṇtəm. yazamaide. yim. ahurəm. mazdąm.</ab>
+					<ab n="c" xml:id="YtSrH5.7c">yō. aṣ̌ahe. apanōtəmō.</ab>
+					<ab n="d" xml:id="YtSrH5.7d">yō. aṣ̌ahe. jaγmūštəmō.</ab>
+					<ab n="e" xml:id="YtSrH5.7e">vīspa. srauuā̊. zaraϑuštri. yazamaide.</ab>
+					<ab n="f" xml:id="YtSrH5.7f">vīspaca. huuaršta. š́iiaōϑna. yazamaide.</ab>
+					<ab n="g" xml:id="YtSrH5.7g">varštaca. varəš́iiamnaca.</ab>
+                </div>
+				<div type="YashtStanza" xml:id="YtSrH5.8" corresp="#GYt11.17">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YeH" xpointer="YeH"/> 
+				</div>
+				<div type="YashtStanza" xml:id="YtSrH6.1" corresp="#GYt11.18">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+				</div>
+                <div type="YashtStanza" xml:id="YtSrH6.2" corresp="#GYt11.18">
+					<include type="block_shnumanacc" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanAcc" xpointer="ShnumanAcc19"/>
+                    <ab n="a" xml:id="YtSrH6.2a">paōirīmca. upəməmca. maδəməmca. fratəməmca.</ab>
+                    <ab n="b" xml:id="YtSrH6.2b">paōiriiāca. yasna. upamaca. maδəmaca. fratəmaca.</ab>
+                </div>
+                <div type="YashtStanza" xml:id="YtSrH6.3" corresp="#GYt11.19, 11.20" quote="Y57.48 (#GY57.33, 34) = YR57.48 VrS74.48 VVrS74.48 VytVrS74.48 = YtSr14.1c-o">
+                    <ab n="a" xml:id="YtSrH6.3a">vīspā̊. sraōšahe. aṣ̌iiehe.</ab> 
+                    <ab n="b" xml:id="YtSrH6.3b">taxmahe. tanumąϑrahe.</ab>
+					<ab n="c" xml:id="YtSrH6.3c">taxmahe. hąm.varəitiuuatō.</ab>					
+                    <ab n="d" xml:id="YtSrH6.3d">bāzuš.aōjaŋhō. raϑaēštā̊.</ab>  
+                    <ab n="e" xml:id="YtSrH6.3e">kamərəδō.janō. daēuuanąm.</ab> 
+                    <ab n="f" xml:id="YtSrH6.3f">vanatō. vanaitīš. vanaitiuuatō. aṣ̌aōnō.</ab> 
+                    <ab n="g" xml:id="YtSrH6.3g">vanatō. vanaitīš. vanaiṇtīmca. uparatātəm. yazamaide.</ab> 
+                    <ab n="h" xml:id="YtSrH6.3h">yąmca. sraōšahe. aṣ̌iiehe.</ab> 
+                    <ab n="i" xml:id="YtSrH6.3i">yąmca. arštōiš. yazatahe.</ab>
+                    <ab n="a" xml:id="YtSrH6.3j">vīspa. nmāna. sraōšō.pāta. yazamaide.</ab> 
+                    <ab n="b" xml:id="YtSrH6.3k">yeŋ́hāδa. sraōšō. aṣ̌iiō.</ab> 
+                    <ab n="c" xml:id="YtSrH6.3l">friiō. friϑō. paiti.zaṇtō.</ab> 
+                    <ab n="d" xml:id="YtSrH6.3m">nāca. aṣ̌auua. frāiiō.humatō. frāiiō.hūxtō. frāiiō.huuarštō.</ab>
+                </div>
+                <div type="YashtStanza" xml:id="YtSrH6.4" corresp="#GYt11.21">
+                    <ab n="a" xml:id="YtSrH6.4a">kəhrpəm. rašnaōš. razištahe. yazamaide.</ab>
+                    <ab n="b" xml:id="YtSrH6.4b">kəhrpəm. miϑrahe. vouru.gaōiiaōitōiš. yazamaide.</ab>
+                    <ab n="c" xml:id="YtSrH6.4c">kəhrpəm. vātahe. aṣ̌aōnō. yazamaide.</ab>
+                    <ab n="d" xml:id="YtSrH6.4d">kəhrpəm. daēnaiiā̊. vaŋhuiiā̊. māzdaiiasnōiš. yazamaide.</ab>
+                    <ab n="e" xml:id="YtSrH6.4e">kəhrpəm. arštātō. frādat̰.gaēϑaiiā̊. varədat̰.gaēϑaiiā̊. sauuō.gaēϑaiiā̊. yazamaide.</ab>
+                    <ab n="f" xml:id="YtSrH6.4f">kəhrpəm. aṣ̌ōiš. vaŋhuiiā̊. yazamaide.</ab>
+                    <ab n="g" xml:id="YtSrH6.4g">kəhrpəm. cistōiš. vaŋhuiiā̊. yazamaide.</ab>
+                    <ab n="h" xml:id="YtSrH6.4h">kəhrpəm. razištaiiā̊. cistaiiā̊. yazamaide.</ab>
+                </div>
+                <div type="YashtStanza" xml:id="YtSrH6.5" corresp="#GYt11.22">
+                    <ab n="a" xml:id="YtSrH6.5a">kəhrpəm. vīspaēšąm. yazatanąm. yazamaide.</ab>
+                    <ab n="b" xml:id="YtSrH6.5b">kəhrpəm. mąϑrahe. spəṇtahe. yazamaide.</ab>
+                    <ab n="c" xml:id="YtSrH6.5c">kəhrpəm. dātahe. vīdaēuuahe. yazamaide.</ab>
+                    <ab n="d" xml:id="YtSrH6.5d">kəhrpəm. darəγaiiā̊. upaiianaiiā̊. yazamaide.</ab>
+                    <ab n="e" xml:id="YtSrH6.5e">kəhrpəm. aməṣ̌anąm. spəṇtanąm. yazamaide.</ab>
+                    <ab n="f" xml:id="YtSrH6.5f">kəhrpəm. aɱākəm. saōš́iiaṇtąm. yat̰. bipaitištanąm. aṣ̌aōnąm. yazamaide.</ab>
+                    <ab n="g" xml:id="YtSrH6.5g">kəhrpəm. vīspaiiā̊. aṣ̌aōnō. stōiš. yazamaide.</ab>
+				</div>
+				<div type="YashtStanza" xml:id="YtSrH6.6" corresp="#GYt11.22">		
+                    <ab n="a" xml:id="YtSrH6.6a">ahe. raiia. xᵛarənaŋhaca.</ab> 
+                    <ab n="b" xml:id="YtSrH6.6b">aŋ́he. ama. vərəϑraγnaca.</ab> 
+                    <ab n="c" xml:id="YtSrH6.6c">ahe. yasna. yazatanąm.</ab> 
+                    <ab n="d" xml:id="YtSrH6.6d">təm. yazāi. surunuuata. yasna.</ab>
+                    <ab n="e" xml:id="YtSrH6.6e">sraōšəm. aṣ̌īm. zaōϑrābiiō. </ab>
+                    <ab n="f" xml:id="YtSrH6.6f">aṣ̌īmca. vaŋᵛhīm. bərəzaitīm.</ab> 
+                    <ab n="g" xml:id="YtSrH6.6g">nairīmca. saŋhəm. huraōδəm.</ab>
+				</div>
+                <div type="YashtStanza" xml:id="YtSrH6.7" corresp="#GYt11.22">					
+                    <ab n="a" xml:id="YtSrH6.7a">āca.nō. jamiiāt̰. auuaŋhe.</ab> 
+                    <ab n="b" xml:id="YtSrH6.7b">vərəϑrajā̊. sraōšō. aṣ̌iiō.</ab>
+				</div>
+                <div type="YashtStanza" xml:id="YtSrH6.8" corresp="#GYt11.22">
+					<ab n="a" xml:id="YtSrH6.8a">sraōšəm. aṣ̌īm. yazamaide.</ab>
+					<ab n="b" xml:id="YtSrH6.8b">ratūm. bərəzaṇtəm. yazamaide. yim. ahurəm. mazdąm.</ab>
+					<ab n="c" xml:id="YtSrH6.8c">yō. aṣ̌ahe. apanōtəmō.</ab>
+					<ab n="d" xml:id="YtSrH6.8d">yō. aṣ̌ahe. jaγmūštəmō.</ab>
+					<ab n="e" xml:id="YtSrH6.8e">vīspa. srauuā̊. zaraϑuštri. yazamaide.</ab>
+					<ab n="f" xml:id="YtSrH6.8f">vīspaca. huuaršta. š́iiaōϑna. yazamaide.</ab>
+					<ab n="g" xml:id="YtSrH6.8g">varštaca. varəš́iiamnaca.</ab>
+                </div>
+				<div type="YashtStanza" xml:id="YtSrH6.9" corresp="#GYt11.22"> <!-- In YtSrH (cf. YtSr, YtOhr, YtFra) the formula haōmaiiō. gauua. barəsmana. hizuuō. daŋhaŋha. mąϑraca. vacaca. š́iiaōϑnaca. zaōϑrābiiasca. aršuxδaēibiiasca. vāγžibiiō. is missing-->
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YeH" xpointer="YeH"/> <!-- In the IndXA it follows the srōš. i. ašō. i. tagī. i. tan. frarmąn. i. škaft. zīn. i. zīn. aβazār. i. sālār. i. dąmą.  bə̄. rasāṯ. ə̄duṇ. bāṯ. --> 
+                </div>
+                <div type="YashtStanza" xml:id="YtSrH7.1" corresp="#GYt11.23">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="2"/>
+                </div>
+                <div type="YashtStanza" xml:id="YtSrH7.2" corresp="#GYt11.23">
+                    <ab n="a" xml:id="YtSrH7.2a">yasnəmca. vaɱəmca. aōjasca. zauuarəca. āfrīnāmi.</ab>
+                    <include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen19"/>
+                </div>
+                <div type="YashtStanza" xml:id="YtSrH7.3" corresp="#GYt11.23">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/>
+				</div>
+				<div type="YashtStanza" xml:id="YtSrH7.4" corresp="#GYt11.23">
+					<ab n="a" xml:id="YtSrH7.4a">aɱāi. raēšca. xᵛarənasca. aɱāi. tanuuō. druuatātəm.</ab>
+                    <ab n="b" xml:id="YtSrH7.4b">aɱāi. tanuuō. vazduuarə. aɱāi. tanuuō. vərəϑrəm.</ab>
+                    <ab n="c" xml:id="YtSrH7.4c">aɱāi. īštīm. pouruš.xᵛāϑrąm.</ab>
+                    <ab n="d" xml:id="YtSrH7.4d">aɱāi. āsnąmcit̰. frazaṇtīm. aɱāi. darəγąm. darəγō.jītīm. aɱāi. vahištəm. ahūm. aṣ̌aōnąm. raōcaŋhəm. vīspō.xᵛāϑrəm.</ab> <!-- In YtSrH (cf. YtSr, YtOhr, YtFra) the formula haōmaiiō. gauua. barəsmana. hizuuō. daŋhaŋha. mąϑraca. vacaca. š́iiaōϑnaca. zaōϑrābiiasca. aršuxδaēibiiasca. vāγžibiiō. is missing-->
+				</div>
+				<div type="YashtStanza" xml:id="YtSrH7.5" corresp="#GYt11.23">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+				</div>
+				<div type="YashtStanza" xml:id="YtSrH7.6" corresp="#GYt11.23">
+                    <ab n="a" xml:id="YtSrH7.6a">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+                    <ab n="b" xml:id="YtSrH7.6b">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+                    <ab n="c" xml:id="YtSrH7.6c">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+				</div>
+				<div type="YashtStanza" xml:id="YtSrH7.7" corresp="#GYt11.23">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+				</div>
+				<div type="YashtStanza" xml:id="YtSrH7.8" corresp="#GYt11.23">
+                    <ab n="a" xml:id="YtSrH7.8a">jasa.mē. auuaŋhe. mazda.</ab>
+                    <ab n="b" xml:id="YtSrH7.8b">jasa.mē. auuaŋhe. mazda.</ab>
+                    <ab n="c" xml:id="YtSrH7.8c">jasa.mē. auuaŋhe. mazda.</ab>
+				</div>
+				<div type="YashtStanza" xml:id="YtSrH7.9" corresp="#GYt11.23">    
+	<ab n="a" xml:id="YtSrH7.9a">amahe. hutāštahe. huraōδahe.</ab> <!-- Xšnūman  Gen day 20-->
+	<ab n="b" xml:id="YtSrH7.9b">vərəθraγnahe. ahuraδātahe. vanaiṇtiiā̊sca. uparatātō.</ab>
+	<ab n="c" xml:id="YtSrH7.9c">rāmanasca. xᵛāstrahe. vaiiaōš. uparō.kairiiehe. taraδātō. ańiiāiš. dāmąn.</ab> <!-- Xšnūman  Gen day 21-->
+	<ab n="d" xml:id="YtSrH7.9d">aētat̰. tē. vaiiō. yat̰. tē. asti. spəṇtō.maińiiaōm.</ab>
+                    <ab n="e" xml:id="YtSrH7.9e">θβāṣ̌ahe. xᵛaδātahe. zruuānahe. akaranahe. zruuānahe. darəγō.xᵛaδātahe.</ab><!-- In the IndXA it follows the kərba. mažd. Vāj -->
+				    </div>
+				    
+				<div type="YashtStanza" xml:id="YtSrH7.10" corresp="#GYt11.23">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+                </div>
+            </div>
+</div>

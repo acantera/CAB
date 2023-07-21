@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y10.17" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y10.17">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY10.17"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y10.6.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y10.17a <em>nəmō haōmāi mazdaδātāi vaŋhuš haōmō mazdaδātō nəmō haōmāi</em>] Pirart del.</ab>
+         <ab>Y10.17b <em>upa.staōmi</em>] Kellens, Pirart (Bartholomae); Geldner <em>upastaomi</em>.</ab>
+         <ab>Y10.17b <em>yat̰cit̰ ... yat̰cit̰ ... yaēcit̰</em>] Geldner; Kellens <em>yat̰cit̰ ... yat̰cit̰ ... yat̰cit̰</em>; Pirart <em>yaēcit̰ ... yaēcit̰ ... yaēcit̰</em>.</ab>
+         <ab>Y10.17b <em>upa dərəzāhu</em>] Kellens (Bartholomae); Geldner <em>upadarəzāhu</em>; Pirart <em>upa dərəzrāhu</em>.</ab>
+         <ab>Y10.17d <em>nīre</em>] Pirart <em>nīri</em>.</ab>
+         <ab>Y10.17d <em>zəmi</em>] Bartholomae <em>zəme</em>, but vid. <bibl>Kellens, 1974</bibl> p. 397.</ab>
+         <ab>Y10.17d <em>raēuuatō</em>] mss. 15, 677; Geldner, Kellens, Pirart <em>raēuuaṇtō</em>, but <bibl>Kellens, 2007</bibl> p. 82 " <em>*raēuuatō</em> était attendu"; <bibl>Pirart, 2004</bibl> p.104, n. 319 "(<em>raēuuaṇtō</em>) mis pour le génitif".</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>āat̰ aōxta zaraϑuštrō nəmō haōmāi mazdaδātāi vaŋhuš haōmō mazdaδātō nəmō haōmāi</em> = Y11.8.</ab>
+      <ab><em>āat̰ aōxta zaraϑuštrō nəmō haōmāi mazdaδātāi vaŋhuš haōmō</em> ~ Y9.16 <em>āat̰ aōxta zaraϑuštrō nəmō haōmāi vaŋhuš haōmō</em></ab>
+      <ab><em>āat̰ aōxta zaraϑuštrō nəmō haōmāi</em> = Y9.3.</ab>
+      <ab><em>nəmō haōmāi</em> = Yt17.5.</ab>
+      <ab><em>vīspe haōma upa.staōmi</em> ~ Y10.21 <em>vīspe haōma yazamaide</em>.</ab>
+      <ab><em>yat̰cit̰ baršnušuua gairinąm yat̰cit̰ jąfnušuua raōnąm</em> ~ VS2.23 <em>yat̰ca aŋhat̰ barəšnuš paiti gairinąm yat̰ca jafnušuua raōnąm</em>.</ab>
+      <ab><em>baršnušuua gairinąm</em> ~ Y9.26, Y10.3 <em>baršnuš paiti gairinąm</em>; ~ VS5.1 <em>haca barəšnauuō gairinąm</em>; ~ VS5.1, VS5.2 <em>auui barəšnauuō gairinąm</em>; ~ Yt14.21 <em>barəšnauuō ... gairinąm</em>; ~ Yt18.6 <em>barəšnauuō gairinąm</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY10.17"/>
+      <include type="W" corresp="WTrY10.17"/>
+      <include type="K" corresp="KTrY10.17"/>
+      <include type="D" corresp="DTrY10.17"/>
+   </translation>
+</text>

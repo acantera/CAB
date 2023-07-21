@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VS10.4" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VS10.4">
+      <include href="/db/apps/cab_db/cab_rituals/fragards/FragardVidevdad" xpointer="V10.4"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>VS10.4 quotes Y39.4; ~ Y13.5, VrS65.4.</ab>
+      <ab><em>aṣ̌ahiia āat̰ ... ubōibiiā ahubiiā</em> quotes Y35.8; = VrS65.22.</ab>
+      <ab><em>hātąm jījišąm</em> quoted by Y21.1 <em>haδβīš jījišąm</em> (<bibl>Kellens, 2010</bibl> p. 66, n. 52).</ab>
+      <ab><em>yā vōhū aϑā tōi dadəmahī aϑā cīšmahī ... ϑβā mazdā ahurā</em> ~ Y35.5, VrS19.2, VrS65.19, VrS82.37, VrS89.26 <em>dadəmahicā cīšmahicā huuąmahicā hiiat̰ mazdāi ahurāi aṣ̌āicā vahištāi</em>; 
+         ~ Y12.14, VrS11.28, VrS32.3 <em>ahurāi mazdāi vīspā vohū cinaɱi</em>; ~ Y12.6 <em>ahurāi mazdāi vaŋhauuē vohumaitē vīspā vohū cinaɱī</em>.</ab>
+      <ab><em>aϑā ϑβā āiš yazamaide aϑā nəmax́iiāmahī aϑā išūidiiāmahī ϑβā mazdā ahurā</em> ~ Y36.5, VrS65.30, VrS80.5 <em>nəmax́iiāmahī išūidiiāmahī ϑβā mazdā ahurā</em>; ~ Y38.4, Y67.3, VrS65.42 <em>tāiš vā̊ yazamaidē tāiš friiąmahī tāiš nəmax́iiāmahī tāiš išūidiiāmahī</em>.</ab>
+      <Parallels>
+         <ab><em>uštā aɱāi yaɱāi uštā kaɱāicīt̰ vasə̄ xšaiiąs mazdā̊ dāiiāt̰ ahurō</em> quotes Y43.1; = Y21.3.</ab>
+      </Parallels>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVS10.4"/>
+   </translation>
+</text>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS25.33" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VVrS25.33">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY22.23a" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen19" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY22.23b" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/videvdad_nerang" xpointer="VVrS25.33NerangTransc.a"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid Y22.21.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VVrS25.33a <em>iməm haōməm</em> ...] MN <em>iməm haōməm</em> OD OD Y <em>aṣ̌a.ciϑra</em> cygwn npšt' OD hšnwmn' MNW YHWWNyt' II bʾl wcltn' 4000;
+         MN <em>iməm haōməm aṣ̌aiia uzdātəm</em> OD OL Y <em>aṣ̌aciϑra āiiese yešti</em> cygwn npšt' OD hšnwmn' MNW YHWWNyt 4010;
+            <em>aṣ̌aiia uzdātəm</em> OD <em>aṣ̌aciϑra āiiese yešti</em> cygwn npšt OD hšnwmn MNW YHWWNyt 4020, 4045, 4161, 4162;
+            MN <em>iməm haōməm</em> OD OD Y <em>aṣ̌a.ciϑra āiiese yešti</em> cygwn npšt OD hšnwmn' MNW YHWWNyt' gwptn' 4025;
+            <em>aṣ̌aiia uzdātəm [..]iese yešti</em> OD OL Y <em>aṣ̌a.ciϑra āiiese ye[..]i</em> cygwn npšt OD hšnwmn' MNW YHWWNyt 4040;
+            MN <em>iməm haōməm aṣ̌aiia uzdātəm</em> OD OL Y <em>aṣ̌a.ciϑra ā. y.</em> LAWHL gbšn' 4050; <em>iməm haoməm</em> OD (Paz.) dō bār <em>arəzaheibiiō sauuaheibiiō</em> 4220.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VVrS25.33 (mss. 4000, 4010, 4020, 4025, 4030a, 4040, 4050, 4055, 4161, 4162):</ab>
+         <ab class="ab_indent">
+            ... <em>aṣ̌a.ciθra āiiese xšnūmaine sraōšahe aṣ̌iiehe taxmahe tanu.mąϑrahe darši.draōš āhūiriiehe aōxtō.nāmanō yazatahe</em> az <em>iməm haōməm</em> tā ō ī <em>aṣ̌a.ciθra</em> 
+            čīyōn nibišt tā xšnūman kē bēd guftan ud harw dō bār sāzišn hāmag xūb bē nigerišn ud bōy ō ī ātaxš dahišn agar xšnūman čiš-ē dudigar bēd čīyōn pad <em>xšnūmaine</em> rasēnd
+            ān ī kart ēstēd bē gōwišn agar ahlawān frawahr bēd <em>auuaŋ́hā̊ frauuaṣ̌aiiō</em>…</ab> 
+         <ab class="ab_indent">
+            "... <em>aṣ̌a.ciθra āiiese xšnūmaine sraōšahe aṣ̌iiehe taxmahe tanu.mąϑrahe darši.draōš āhūiriiehe aōxtō.nāmanō yazatahe</em>. They have to recite (again) from <em>iməm haōməm</em>
+            until <em>aṣ̌a.ciθra</em> as it has been written until the corresponding <em>šnūman</em>. Each of the two times he has to gaze carefully at all implements and bring <em>bōy</em> 
+            to the fire. If the <em>šnūman</em> is any other one, when they arrive at <em>xšnūmaine</em>, they have to recite the one that has been performed. If it is the one of <em>ahlawān fawahr</em>, 
+            (they have to recite:)  <em>ā y auuaŋ́hā̊ frauuaṣ̌aiiō</em>…"</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS25.33"/>
+   </translation>
+</text>

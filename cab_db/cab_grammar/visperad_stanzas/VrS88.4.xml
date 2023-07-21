@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS88.4" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VrS88.4" quote="Y50.7">
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY64.3"/>
+               <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS88.4NerangTransc.a"/>
+            </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+    <ab>Cf. N52.9 (cf. <bibl>Kotwal and Kreyenbroek, 2003</bibl>: p. 238-9; <bibl>Cantera, 2014</bibl>: p. 228 f.)</ab>
+    <ab class="ab_indent"> <em>tā ō </em>ẏāiš azāθā mahmāi x́iiātā auuaŋᵛhē .. mat̰ vā̊ padāiš *ẏā *frasrūtā īzaiiā̊ pairi.jasāi 6<em>
+gōwišn u-š sē gām 'az kust ī hōy pad sar ī barsom be āyišn</em></ab>
+<ab class="ab_indent"> He has to recite the six stanzas including (VrS88.3-8, Y64.3-8=Y50.6-11) ẏāiš azāθā mahmāi x́iiātā auuaŋᵛhē (VrS88.4, Y64.4=Y50.8)... mat̰ vā̊ padāiš *ẏā *frasrūtā īzaiiā̊ pairi.jasāi(VrS88.5, Y64.5 =Y50.8)and he has to go three paces from the left side to the top of the <em>barsom</em>.</ab>
+</Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrVrS88.4"/>
+    </translation>
+</text>

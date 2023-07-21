@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL8.3.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="1" xml:id="ParagnaLL8.3.1">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL8.3.1 Var. a (Mss. K7, RJ):</ab>
+            <ab class="ab_indent">
+                pas <em>yaϑā ahū vairiiō</em> do goftan <em>yasnəmca</em> OD <em>āfrīnāmi aiβiiō vaŋhibiiō vīspanąmca apąm mazdaδātanąm bərəzatō ahurahe nafəδrō apąm apasca 
+                    mazdaδātaiiā̊</em> va yek sokure-ye zarr az dast-e čab-e māhruy be-nahešn</ab> 
+            <ab class="ab_indent">
+                "Then, he should recite two <em>yaϑā ahū vairiiō</em> and <em>yasnəmca</em> until <em>āfrīnāmi aiβiiō vaŋhibiiō vīspanąmca apąm mazdaδātanąm bərəzatō ahurahe
+                    nafəδrō apąm apasca mazdaδātaiiā̊</em> and he should place a golden cup to the left side of the <em>māhruy</em>."</ab>
+            
+            <ab>ParagnaLL8.3.1 Var. b (Mss. K36, 31, 89, 19):</ab>
+            <ab class="ab_indent">
+                <em>yaϑā ahū vairiiō</em> do goftan <em>yasnəmca v. aō. z. ā.</em> tā ō ʿe <em>ahurāne ahurahe</em></ab> 
+            <ab class="ab_indent">
+                "Then, he should recite two <em>yaϑā ahū vairiiō</em> and <em>yasnəmca v. aō. z. ā.</em> until <em>ahurāne ahurahe</em>."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL8.3.1"/>
+    </translation>
+</text>

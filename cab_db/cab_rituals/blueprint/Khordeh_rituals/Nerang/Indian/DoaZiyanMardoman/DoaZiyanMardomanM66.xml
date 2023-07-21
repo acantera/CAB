@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+        <div type="Nerang" xml:id="DoaZiyanMardoman"> <!-- vide M66 -->
+                <div type="Nerang" xml:id="DoaZiyanMardoman0.1">
+					 <ab n="a" xml:id="DoaZiyanMardoman0.1a">PWN ŠM y dʾtʾl ʾwrmzd</ab>
+                </div>
+                <div type="Nerang" xml:id="DoaZiyanMardoman1.1">
+                     <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/>
+                </div>
+                 <div type="Nerang" xml:id="DoaZiyanMardoman1.2"> <!-- The Frauuarane with the Gāhs etc. is missing -->     
+                     <include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGenXA71" corresp="#YtAmSp1.6"/>
+                </div>
+                <div type="Nerang" xml:id="DoaZiyanMardoman2.1" corresp="#YtAmSp2.2">
+                      <ab n="a" xml:id="DoaZiyanMardoman2.1a">yātōizī. zaraθuštra. vanat̰. daēuuō. maš́iiāka.</ab>
+                      <ab n="b" xml:id="DoaZiyanMardoman2.1b">ahmāi. nimānā. bāδa. spəṇtəma. zaraθštra.</ab>
+                      <ab n="c" xml:id="DoaZiyanMardoman2.1c">vīspa. druxš. janaēta.</ab>
+                      <ab n="d" xml:id="DoaZiyanMardoman2.1d">vīspa. druxš. nāšānaēta.</ab>
+                      <ab n="e" xml:id="DoaZiyanMardoman2.1e">yaθahōnō. aētaēšąm. vacąm.</ab>
+                      <ab n="f" xml:id="DoaZiyanMardoman2.1f">auuaθə̄. aθa. urunəm. jbaēta.</ab>
+                      <ab n="g" xml:id="DoaZiyanMardoman2.1g">yaθa. urunəm. yaθa. ratə̄štārəm.</ab>
+                      <ab n="h" xml:id="DoaZiyanMardoman2.1h">vīspō. hōnō. asruš́ōiš. naēš́ānąm. ōjiš́a.</ab>
+                      <ab n="i" xml:id="DoaZiyanMardoman2.1i">yōim. karətō. druuąm.</ab> <!-- The mss. M70, K12, Ml2, Jm4 sec.man. give then the words: yō. hōhīm. dasta. kəhərpəm./karənəm., which are missing in the most of the Indian mss. and in that of the Doā -->
+                      <ab n="j" xml:id="DoaZiyanMardoman2.1j">yō. hapta. aməšāspəṇtā.</ab> <!-- In YtAmSp follow the words huxšaϑrā. huδā̊ŋhō. hamarəθanąm.cit̰. daēnąm. māzdaiiasnīm. are missing in the Doā -->
+                      <ab n="k" xml:id="DoaZiyanMardoman2.1k">upairi. imąm. ząm. hunarə.tī sriṣ̌ni. va. sāt̰.</ab> <!-- The words upairi. imąm. ząm. hunarə.tī sriṣ̌ni. va. sāt̰. are missing in YtAmSp -->
+                      <ab n="l" xml:id="DoaZiyanMardoman2.1l">aspō.kərəpəm.</ab>
+                      <ab n="m" xml:id="DoaZiyanMardoman2.1m">āpəm. mazδdaδātəm. aṣ̌aōne. yazrəmahe.</ab>
+                      <ab><span class="note red">cīn. mrdum. dih. aiiā. ṣ̌ahraii. rəṇjōrəē. u. vabāhī. bāst̰. mrdumiąndih. basarə̄cašma. bāiiat̰. šut̰. pāriiə̄āβaj. sar. cašma. bar. gərəptan.</span></ab>
+                </div>   
+                <div type="Nerang" xml:id="DoaZiyanMardoman3.1" corresp="#YtAmSp3.3"> <!-- The YAV 2x and the yasnəmca. formula is missing -->
+                      <include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGenXA71"/>
+                      <span class="note red">[7 repetitions of DoaZiyanMardoman1.1-3.1]</span>
+                </div>
+                <div type="Nerang" xml:id="DoaZiyanMardoman3.2">
+                      <ab n="a" xml:id="DoaZiyanMardoman3.2a">
+                <span class="note red">āiiapt. x́āstan.</span>
+            </ab>
+                      <ab><span class="note red">až. bāz. baršarəcasma. kərədan. tā. mardum. dih. bixarṇd. u. šapā. yāuuand.</span></ab>
+                </div> 
+                <div type="Nerang" xml:id="DoaZiyanMardoman3.3">
+                      <ab n="a" xml:id="DoaZiyanMardoman3.3a">
+                <span class="note red">[aṇdar. vāc. gōiṇt̰.]</span>pi. yizdąn. kuma. bāt̰.</ab>
+                </div> 
+        </div>
+</div>

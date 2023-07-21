@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y57.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y57.1" headerPointer="Head57">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV1"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y57.1 (mss. 2005, 2007, 5020):</ab>
+         <ab class="ab_indent">
+            ātaxš abrōxtan .: srōš yasn bun .: <em>aṣ̌əm vohū</em> sē bār</ab>
+         <ab class="ab_indent">
+            "He should kindle the fire. Beginning of the Srōš Yasn. (They should recite) the <em>aṣ̌əm vohū</em> three times."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY57.1"/>
+      <include type="W" corresp="WTrY57.1a"/>
+      <include type="K" corresp="KTrY57.1a"/>
+      <include type="D" corresp="DTrY57.1a"/>
+   </translation>
+</text>

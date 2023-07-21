@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y30.8" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y30.8">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY30.8"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y30.8NerangTransc.a"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y30.8 Var. a (mss. 15, 40, 88, 400, 410 (sec.m.), 2106, 4161):</ab>
+         <ab class="ab_indent">
+            ... <em>zastaiiō drujim</em>. hōm ud urwarām andar hāwan abganišn</ab>
+         <ab class="ab_indent">
+            "At ... <em>zastaiiō drujim</em>, he has to throw the <em>hōm</em> and <em>urwarām</em> into the <em>hāwan</em>."</ab>
+         <ab>Y30.8 Var. b (mss. 82, 2010, 2104, 2109, 4050, 4055, 4060, 4162): </ab>
+         <ab class="ab_indent">
+            ... <em>zastaiiō drujim</em>. ēn gyāg hōm ud urwarām kōftan ud hāwan škāftan</ab>
+         <ab class="ab_indent">
+            "... <em>zastaiiō drujim</em>. At this passage he should strike the <em>hōm</em> and <em>urwarām</em> and hit the <em>hāwan</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY30.8"/>
+   </translation>
+</text>

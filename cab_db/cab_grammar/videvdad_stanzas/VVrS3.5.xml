@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS3.5" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VVrS3.5">
+         <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VS3.1a" on_line="in1lineblock"/>
+         <include href="/db/apps/cab_db/cab_rituals/blocks/RatuCerDatShort" xpointer="RatuCerDatShortV" on_line="in1line"/>
+      </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: 4025.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab><em>⁺zaraϑuštrə̄e</em>] vid. VVrS0.10.</ab>
+        </Commentary>
+        <RecitationInstruction>
+            <ab><em>āiiese yešti</em>] <em>āiiese yešti</em> (Per.) rāsfi va zud 4025.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels>
+    <ab>VVrS3.5 = VVrS25.5, VVrS78.15; ≈ VVrS1.3, VVrS2.3, VVrS4.8, VVrS6.2, VVrS7.6, VVrS14.6, VVrS17.2, VVrS27.19, VVrS77.2, VVrS79.8, VVrS81.2, VVrS82.3, VVrS90.3</ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrVVrS3.5"/>
+    </translation>
+</text>

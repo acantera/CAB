@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VS19.22" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VS19.22">
+         <include href="/db/apps/cab_db/cab_rituals/fragards/FragardVidevdad" xpointer="V19.22"/>
+      </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+    <ab>The recitation of the 100 Aṣ̌əm Vohū and the 200 Ahuna Vairiia gives occasion in the Vīdēvdād Nērangdīn for the cleaning the stones that are going to be placed between the sixth and seventh wholes of the <em>baršnūm</em>. However, h and t this point there was differences of opinion between Mēdyōmāh and Abarag:</ab>
+    <ab class="ab_indent">
+            <em>medyōmāh ēn-īz guft kū pad fragard nōzdahōm ǰud-dēw-dād ān gyāg ku yatāhuwēryō 200 gānāg ud ašəmwōhū. 100-gānag ast kū 300 sa(n)g ī pad pādyāb bawēd harw ašemwohū ēk ud pad harw yaϑā. ahī. vairiiō. ēk san(n)g andar gōmēz ud āb abganēd u-š baxšišn nē āmār be agar andar ō gōmēz wēš abganēd šāyēd pad čāštag ī abarag guft sa(n)g nē abāyēd abganēd: pad čāštag ī medyōmāh abāyēd abganēd.</em>
+        </ab>
+    <ab class="ab_indent">
+Medyōmāh said also: ‘in the 19th Fragard of Vīdēvdād the place where the 200 Ahuna Vairiia and 100 Aṣ̌əm Vohū are (recited), 300 pebbles become purified’. At each Aṣ̌əm Vohū and for each Ahuna Vairiia, he throws one pebble into the <em>gōmēz</em> and into the water. About the distribution (between <em>gōmēz</em> and water)there is not any observation, but if he throws more pebbles into the <em>gōmēz</em>, then it is proper. In the teaching of Abarag is said: "It is not necessary to throw pebbles". In the teaching of Medyōmāh: "It is necessary to throw (them". 
+</ab>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrVS19.22"/>
+    </translation>
+</text>

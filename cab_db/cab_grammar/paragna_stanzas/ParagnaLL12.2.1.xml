@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL12.2.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="1" xml:id="ParagnaLL12.2.1">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL12.2.1 Var. a (Mss. RJ, 100):</ab>
+            <ab class="ab_indent">
+                <em>ahurāi mazdāi haomą āuuaēδaiiamahi</em> dast va hum pyāle va sokure az ruy-e sang-e urvis bālā dāštan hamān čašm andar him konešn <em>imą haomąsca miiazdąsca 
+                    barəsmaca aṣ̌aiia frastarətəm gąmca huδā̊ŋhəm</em> čašm andar urvarān konešn <em>imąmca uruuarąm haδānaēpatąm aṣ̌aiia uzdātąm</em></ab> 
+            <ab class="ab_indent">
+                "At <em>ahurāi mazdāi haōmą āuuaēδaiiamahi</em> he should raise the hand, the <em>hum-pyāle</em> and the cup from the <em>urvis</em>-stone. He has as well to gaze
+                at the <em>hum</em> at <em>imą haomąsca miiazdąsca barəsmaca aṣ̌aiia frastarətəm gąmca huδā̊ŋhəm</em>. He has to gaze at <em>urvarān</em> at <em>imąmca uruuarąm 
+                    haδānaēpatąm aṣ̌aiia uzdātąm</em>."</ab>
+            
+            <ab>ParagnaLL12.2.1 Var. b (Ms. K7):</ab>
+            <ab class="ab_indent">
+                <em>ahurāi mazdāi haomą</em> bon konešn va fe har čiši be-negarad <em>āuuaēδaiiamahi imą haomąsca miiazdąsca barəsmaca aṣ̌aiia frastarətəm gąmca huδā̊ŋhəm</em> 
+                fe hič ǧāi <em>imam gam jiuuiiam asaiia uzdatam</em> ne avayad goftan</ab> 
+            <ab class="ab_indent">
+                "He must begin with <em>ahurāi mazdāi haomą</em>. He looks at each implement (and continues with) <em>imą haomąsca miiazdąsca barəsmaca aṣ̌aiia frastarətəm gąmca 
+                    huδā̊ŋhəm</em>. He should not say <em>imam gam jiuuiiam asaiia uzdatam</em> at any place."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL12.2.1"/>
+    </translation>
+</text>

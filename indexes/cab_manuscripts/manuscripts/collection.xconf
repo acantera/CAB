@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist-db.org/collection-config/1.0">
+    <index xmlns:xs="http://www.w3.org/2001/XMLSchema">
+        <range>
+            <create qname="manuscript" type="xs:string"/>
+            <create qname="siglum_new" type="xs:string"/>
+            <create qname="date" type="xs:string"/>
+            <create qname="type" type="xs:string"/>
+            <create qname="ms_class" type="xs:string"/>
+            <create qname="location" type="xs:string"/>
+            <create qname="donator_purchase" type="xs:string"/>
+            <create qname="ms_history" type="xs:string"/>
+            <create qname="copied_from" type="xs:string"/>
+            <create qname="col_copied_from" type="xs:string"/>
+            <create qname="designation" type="xs:string"/>
+            <create qname="information" type="xs:string"/>
+            <create qname="language_script" type="xs:string"/>
+            <create qname="pictures_used_in_edition" type="xs:string"/>
+            <create qname="col_folio" type="xs:string"/>
+            <create qname="col_date" type="xs:string"/>
+            <create qname="col_place" type="xs:string"/>
+            <create qname="codicology" type="xs:string"/>
+            <create qname="replacements" type="xs:string"/>
+            <create qname="measurements" type="xs:string"/>
+            <create qname="folio_line_no" type="xs:string"/>
+            <create qname="calligraphy" type="xs:string"/>
+            <create qname="text_quality" type="xs:string"/>     
+            <create qname="scribe" type="xs:string"/>
+        </range>
+        
+            <create path="//manuscript" type="xs:string"/>
+            <create path="/manuscripts/manuscript/siglum_new" type="xs:string"/>
+            <create path="/manuscripts/manuscript/siglum_old" type="xs:string"/>
+            <create path="/manuscripts/manuscript/date" type="xs:string"/>
+            <create path="/manuscripts/manuscript/type" type="xs:string"/>
+            <create path="/manuscripts/manuscript/ms_class" type="xs:string"/>
+            <create path="/manuscripts/manuscript/location" type="xs:string"/> 
+            <create path="/manuscripts/manuscript/donator_purchase" type="xs:string"/>
+            <create path="/manuscripts/manuscript/ms_history" type="xs:string"/>
+            <create path="/manuscripts/manuscript/copied_from" type="xs:string"/>
+            <create path="/manuscripts/manuscript/col_copied_from" type="xs:string"/>
+            <create path="/manuscripts/manuscript/designation" type="xs:string"/>
+            <create path="/manuscripts/manuscript/information" type="xs:string"/>
+            <create path="/manuscripts/manuscript/language_script" type="xs:string"/>
+            <create path="/manuscripts/manuscript/pictures_used_in_edition" type="xs:string"/>
+            <create path="/manuscripts/manuscript/col_folio" type="xs:string"/>
+            <create path="/manuscripts/manuscript/col_date" type="xs:string"/>
+            <create path="/manuscripts/manuscript/col_place" type="xs:string"/>
+            <create path="/manuscripts/manuscript/codicology" type="xs:string"/>
+            <create path="/manuscripts/manuscript/replacements" type="xs:string"/>
+            <create path="/manuscripts/manuscript/measurements" type="xs:string"/>
+            <create path="/manuscripts/manuscript/folio_line_no" type="xs:string"/>
+            <create path="/manuscripts/manuscript/calligraphy" type="xs:string"/>
+            <create path="/manuscripts/manuscript/text_quality" type="xs:string"/>     
+            <create path="/manuscripts/manuscript/scribes/scribe" type="xs:string"/>
+    </index>
+</collection>

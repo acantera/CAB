@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS7.24" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y7.24" xml:id="VrS7.24">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY7.21c"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY7.21d"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. VrS7.7.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>aṣ̌aiia daδąmi ...</em>] MN <em>aṣ̌aiia daδąmi xᵛarəϑəm miiazdəm hauruuata</em> OD <em>puϑra aōxtō.nāmano yazatahe</em> ʾywkbʾl dtygl gwptn' 2007; 
+            MN <em>aṣ̌iia daδąmi xᵛarəϑəm miiazdəm </em> OD <em>puϑra aōxtō.nāmano yazatahe</em> 2bʾl gwptn' 2010; II bʾl gwptn' 2030; II bʾl 2040, 2101.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS7.24 (mss. 2101, 2030):</ab>
+         <ab class="ab_indent">
+            ... <em>aṣ̌aiia daδąmi aēsma baōiδi xšnūmaine tauua āϑrō ahurahe mazdā̊ puϑra aōxtō.nāmanō yazatahe</em> tā ānōh dō bār guftan harw bār-ē šaš bār bōy ō ī ātaxš guftan</ab>
+         <ab class="ab_indent">
+            "... <em>aṣ̌aiia daδąmi aēsma baōiδi xšnūmaine tauua āϑrō ahurahe mazdā̊ puϑra aōxtō.nāmanō yazatahe</em> He should recite twice until here and each time he has to give six 
+            times <em>bōy</em> to the fire."</ab> 
+      </Nerangs>
+   </Ritual>
+   <translation/>
+</text>

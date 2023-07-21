@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y9.3" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y9.3">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY9.3"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+                <ab class="ab_indent">zōt: Kotwal and Boyd, Geldner.</ab>
+            </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y9.3a <em>nəmō haōmāi</em>] Pirart. del.</ab>
+         <ab>Y9.3b <em>gaēϑaiiāi</em>] cod., Pirart <em>gaēϑaiiāi</em>; Geldner, Kellens <em>gaēϑiiāi</em>. <bibl>Kellens, 2006</bibl>, p. 48, n. 6 "semble correspondre à la prononciation métrique de <em>gaēϑaiiāi</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>
+            <em>āat̰ aōxta zaraϑuštrō nəmō haōmāi</em> = Y9.16, Y10.17, Y11.8.</ab>
+      <ab>
+            <em>nəmō haōmāi</em> = Y10.13 (x2), Yt17.5.</ab>
+      <ab>
+            <em>kasə.ϑβąm [...] haōma. maṣ̌iiō astuuaiϑiiāi hunūta gaēϑaiiāi kā aɱāi aṣ̌iš ərənāuui cit̰ aɱāi jasat̰ āiiaptəm</em> = Y9.6, Y9.9, Y9.12.</ab>
+      <ab>
+            <em>maṣ̌iiō astuuaiϑiiāi hunūta gaēϑaiiāi kā aɱāi aṣ̌iš ərənāuui cit̰ aɱāi jasat̰ āiiaptəm</em> = Y9.4, Y9.7, Y9.10, Y9.13.</ab>
+      <ab>
+            <em>aṣ̌iš ərənāuui</em> ~ 52.3 <em>aṣ̌aiiō ərənauuaṇte</em>; ~ Y56.3 <em>ašōiš ... yā.nə̄ āraēcā ərənauuataēcā ašaŋhāxš</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY9.3"/>
+
+   <include type="W" corresp="WTrY9.3"/>
+        <include type="K" corresp="KTrY9.3"/>
+        <include type="D" corresp="DTrY9.3"/>
+    </translation>
+</text>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y68.16" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y68.16">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY68.15a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY68.15b"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY68.15c"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY68.15d"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y68.16NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY68.15e"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab><em>dasuuarə baēšaza</em> ~ Y10.7 <em>dasuuarə baēšazəm</em> ~ Y9.17 <em>ni dasuuarə nī baēšazəm</em>.</ab>
+   </Parallels>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y68.16 (mss. 5 6 40 88 400 410 (sec. m. marg.) 2005 2007 2010 2030 2040 2101 2102 2106 4000 4010 4020 4025 4040 4050 4060 4161 4162 5020, 4056):</ab>
+         <ab class="ab_indent">
+            <em>hazaŋhrəm</em> āb andar kunišn <em>baēšazanąm</em> āb andar zōhr kunišn baēuuarə āb andar kunišn <em>baēšazanąm</em> āb andar zōhr kunišn</ab>  
+         <ab class="ab_indent">
+            "At <em>hazaŋhrəm</em>, he has to put water. At <em>baēšazanąm</em>, he has to add water to the <em>zōhr</em>. At <em>baēuuarə</em>, he has to put water. At  
+            <em>baēšazanąm</em>, he has to add water to the <em>zōhr</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY68.16"/>
+      <include type="W" corresp="WTrY68.15"/>
+      <include type="K" corresp="KTrY68.15"/>
+      <include type="D" corresp="DTrY68.15"/>
+   </translation>
+</text>

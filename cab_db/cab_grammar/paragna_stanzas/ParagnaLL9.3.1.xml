@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL9.3.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="1" xml:id="ParagnaLL9.3.1">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL9.3.1 (Ms. K7; piš RJ):</ab>
+            <ab class="ab_indent">
+                <em>yaθā ahū vairiiō</em> do <em>yasnəmca</em> tā afrināmi <em>haomahe aṣ̌auua.zaŋhō</em> pas se šāh ō dast-e čab-e māhruy nahādan kenār-e zur čahār šāh andar 
+                hum-pyāle gozāštan va digar panǧ pārre-ye urvarām stadan b-āb pādyāvi šostan va čahār pārre andar hum-pāle gozāštan va yek pārre andar dast-e čab māhruy nahādan kenār-e 
+                hum</ab> 
+            <ab class="ab_indent">
+                "(He should recite) two <em>yaθā ahū vairiiō</em>, <em>yasnəmca</em> until <em>āfrināmi</em> (with the <em>šnūman</em>) <em>haomahe aṣ̌auua.zaŋhō</em>. Then,
+                he should put three twigs to the left side of the <em>mahruy</em>, next to the <em>zur</em> and leave four twigs in the <em>hum-pyāle</em>. Then he should take five pieces
+                of <em>urvarām</em>, wash them with <em>pādyāvi</em>-water and leave four of them in the <em>hum-pyāle</em> and one to the left side of the <em>māhruy</em>, next 
+                to the <em>hum</em>."</ab>        
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL9.3.1"/>
+    </translation>
+</text>

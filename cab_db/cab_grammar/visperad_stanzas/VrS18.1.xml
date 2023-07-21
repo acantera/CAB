@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS18.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS18.1">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS8.1"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y17.18.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VrS18.1a <em>vaca aršuxδa</em>...] <em>vaca aršuxδa y.</em> OD <em>tā̊sca y.</em> (VrS18.7) 2065.</ab>
+         <ab>VrS18.1a-j <em>vaca aršuxδa</em> ... <em>vīspō.xᵛāϑrəm</em>] MN <em>vaca aršuxδa y.</em> ... <em>vīspō.xᵛāϑrəm</em> III bʾl gwptn' 2030, 2040, 2101;
+         MN <em>vaca aršuxδa y.</em> OD OL <em>raōcaŋhəm vīspō.xᵛāϑrəm</em> III bʾl 2070.</ab>
+         <ab>VrS18.1j-k <em>vīspō.xᵛāϑrəm vaca aršuxδa</em>...] <em>vīspō.xᵛāϑrəm vaca aršuxδa yazamaide</em> OD <em>vīspō.xᵛāϑrəm</em> III bʾl gwptn 2000, 2010, 2106;
+            <em>vīspō.xᵛāϑrəm</em> MN <em>vaca aršuxδa yazamaide</em> OD <em>vīspō.xᵛāϑrəm</em> (<em>xᵛāϑrəm</em> 2109) III bʾl gwptn' 2007, 2109.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS18.1-4 = VrS28.2-5.</ab>
+      <ab>VrS18.1 = VrS28.2.</ab>
+      <ab><em>vaca aršuxδa yazamaide</em> ~ Y7.30, VrS82.39 <em>aršuxδəm vacim yazamaide</em>; ~ VrS64.4, VrS64.7 <em>vaca aršuxδa vārəϑraγniš daēuuō.γnita yazamaide</em>; ~ VrS96.10 <em>vīspaēca vācō aršuxδa yazamaide</em>.</ab>
+      <ab><em>sraōšəm aṣ̌īm yazamaide aṣ̌īm vaŋᵛhīm yazamaide nairīm saŋhəm yazamaide āxštīm hąm.vaiṇtīm yazamade</em> 
+         ~ VrS27.16 <em>sraōšahe aṣ̌iiehe aṣ̌ōišca vaŋhuiiā̊ nairiieheca saŋhahe āxštibiiāca hąm.vaiṇtibiia</em></ab>
+      <ab><em>sraōšəm aṣ̌īm yazamaide</em> = Y16.5, Y57 (<em>passim</em>), VrS11.36, VrS28.2, VrS42.11, VrS65.11, VrS75.11, VrS89.22.</ab>
+      <ab><em>aṣ̌īm vaŋᵛhīm</em> = Y2.15, Y6.14, Y13.1, Y16.6, Y17.15, Y38.2, Y59.15, VrS81.14, Yt17 (<em>passim</em>); ~ Y43.6, Y68.22 <em>vaŋᵛhīm aṣ̌īm</em>.</ab>
+      <ab><em>nāirīm saŋhəm yazamaide</em> = Y71.24, VrS18.5, VrS30.11, VrS36.5, VrS41.6, VrS51.8, VrS57.8, VrS62.8, VrS64.9, VrS65.82, VrS69.8, VrS71.8, VrS87.12, VrS93.11.</ab>
+      <ab><em>aṣ̌āunąmca frauuaṣ̌aiiō yazamaide</em> = VrS51.4, VrS51.6; ~ <em>passim</em> <em>aṣ̌āunąm frauuaṣ̌inąm</em>; ~ <em>passim</em> <em>aṣ̌āunąm vaŋᵛhīš sūrā spəṇtā̊ frauuaṣ̌aiiō</em>.</ab>
+      <ab><em>vahištəm ahūm aṣ̌aōnąm yazamaide raōcaŋhəm vīspō.xᵛāϑrəm</em> (x3) = Y16.7, VrS28.2 (x3), VrS69.5; ~ Y9.19, Y11.10, Y62.6, Y68.5, Y68.11, Y72.14, VrS78.11, AD2.12, AGahambar2.23, AGatha2.11, ARap2.12, ANogNavar2.7, ŠnĀsman <em>vahištəm ahūm aṣ̌aōnąm raōcaŋhəm vīspō.xᵛāϑrəm</em>; ~ P37.2 <em>vahištəmca ahūm anaγraca raōcā̊ afrasaŋhąnca xᵛāϑra</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS18.1"/>
+   </translation>
+</text>

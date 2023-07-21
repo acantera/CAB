@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y1.6" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y1.6">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY1.6a" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat5.1" on_line="in1line"/>
+               <!-- successive gāh from Y1.5 -->
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY1.6b" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat5.2" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY1.6c" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat5.3" on_line="in1line"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. Y1.4.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+    <Orthographical/>
+        <Commentary>
+            <ab><em>γə̄nąnąmca</em>] cod. Geldner, Kellens <em>γənąnąmca</em>.</ab>
+        </Commentary>
+    </Apparatus>
+   <Parallels>
+    <ab>Y1.6 ≈ Y2.6, Y3.8, Y4.11, Y6.5, Y7.9, Y17.5, Y22.9, Y24.16, Y59.5, Y66.6, VrS78.18, VrS79.11, VrS81.5, VrS82.6.</ab>
+       <ab>aṣ̌āunąm frauuaṣ̌inąm γənąnąmca vīrō.vąϑβanąm yāiriiaiiā̊sca hušitōiš amaheca hutāštahe huraōδahe vərəϑraγnaheca ahuraδātahe vanaiṇtiiā̊sca uparatātō</ab> ~ Yt13.42 <em>(frauuaṣ̌aiiō) yā̊ [...]  aməm paiδimnā̊
+       hutāštəm vərəϑraγnəmca ahuraϑātəm vanaiṇtīmca uparatātəm.</em>
+    <ab><em>amaheca hutāštahe huraōδahe vərəϑraγnaheca ahuraδātahe vanaiṇtiiā̊sca uparatātō</em> = Y72.19, <em>šnūman Wahrom</em>.</ab>
+            <ab><em>vərəϑraγnaheca ahuraδātahe vanaiṇtiiā̊sca uparatātō</em> = VrS1.14, VrS25.16, VrS27.30, VrS90.14 <em>vərəϑraγnahe ahuraδātahe vanaiṇtiiā̊sca uparatātō</em>; ~ VrS2.16, VrS17.15, VrS77.15  <em>vərəϑraγnəm ahuraδātəm ... vanaiṇtīmca uparatātəm</em></ab>
+            <ab> <em>vərəϑraγnaheca ahuraδātahe</em> ~ Y16.5, Y59.29, Yt14.28, Yt14.30, Yt14.32 <em>vərəϑraγnəm ahuraδātəm yazamaide</em>.</ab>
+</Parallels>
+<Ritual/> 
+<translation>
+    <include type="CAB" corresp="CABTrY1.6"/>
+        <include type="W" corresp="WTrY1.6"/>
+        <include type="K" corresp="KTrY1.6"/>
+        <include type="D" corresp="DTrY1.6"/>
+    </translation>
+</text>

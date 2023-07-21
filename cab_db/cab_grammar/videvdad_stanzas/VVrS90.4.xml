@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS90.4" status="created">  <!-- created, approved, updated--> <header><creators><creator>Porro</creator><creator>Cantera</creator></creators><created>1 June 2019</created></header><div type="Stanza" sameAs="" xml:id="VVrS90.4">
+         <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY66.2a" on_line="in1lineblock"/>
+         <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.1" on_line="in1line"/>
+         <!-- Ushahina only possible. Rest after it -->
+         <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY66.2b" on_line="in1lineblock"/>
+         <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.2" on_line="in1line"/>
+         <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY66.2c" on_line="in1lineblock"/>
+         <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.3" on_line="in1line"/>
+      </div><Apparatus><Critical/><Commentary/></Apparatus><Parallels/><Ritual/><translation><include type="CAB" corresp="CABTrVVrS90.4"/></translation></text>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR0.Ext3" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+        <approved/>
+        <updated/>
+    </header>
+    <div xml:id="YR0.Ext3">
+            <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="12"/>
+        </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <em>zōt: vid. YR0.Ext1.</em>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab><em>yaϑā ahū vairiiō</em>] 300, 320, 350.</ab>
+        </Commentary>
+        <RecitationInstruction>
+            <ab>XII ʾp̱ʾyt' gwptn'] 300.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Ms. 350 (= Revāyat of Kāma Bohra):</ab>
+            <ab class="ab_indent" n="NerangTransc.a" xml:id="YR0.1NerangTransc.a" xml:lang="Paz">pascūn. gāhə. rapəθβən. dar. āi.ẏat̰. ẏaθā. ahū. vairiiō duāzdah. xą̇n.dan.</ab>
+            <ab class="ab_indent" n="NerangEnglish.a" xml:id="Y0.1NerangEnglish.a">"Then, at the <em>gāh</em> of Rapithwin, twelve Ahuna Vairiia should be recited."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrYR0.Ext3"/>
+    </translation>
+</text>

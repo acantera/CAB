@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS12.5" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VVrS12.5">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. VVrS12.2.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab><em>aṣ̌əm vohū</em>] to be recited once, but mss. 4370, 4515 thrice (vid. Recitation Instruction).</ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab><em>aṣ̌əm vohū</em> ʾywk' gwptn'] 4000, 4010, 4025, 4050, 4040, 4050, 4161; <em>aṣ̌əm vohū</em> I gwptn' 4045; <em>aṣ̌əm vohū</em> I 4200, 4210, 4240, 4280; 
+            <em>aṣ̌əm vōhū</em> III 4370, 4515.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS12.5"/>
+   </translation>
+</text>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist-db.org/collection-config/1.0">
+    <index xmlns:xs="http://www.w3.org/2001/XMLSchema">
+            <range>
+                <create qname="creator" type="xs:string" case="yes"/>
+                <create qname="created" type="xs:string" case="yes"/>
+                <create qname="approved" type="xs:string" case="yes"/>
+                <create qname="updated" type="xs:string" case="yes"/>
+                <create qname="include" type="xs:string" case="yes"/>
+                <create qname="SpeakerInfo" type="xs:string" case="yes"/>
+                <create qname="Commentary" type="xs:string" case="yes"/>
+                <create qname="Critical" type="xs:string" case="yes"/>
+                <create qname="Commentary" type="xs:string" case="yes"/>
+                <create qname="RecitationInstruction" type="xs:string" case="yes"/>
+                <create qname="Parallels" type="xs:string" case="yes"/>
+                <create qname="Nerangs" type="xs:string" case="yes"/>
+                <create qname="Quotations" type="xs:string" case="yes"/>
+                <create qname="ModernPractice" type="xs:string" case="yes"/>
+                <create qname="@xml:id" type="xs:string" case="yes"/>
+                <create qname="@sourceIs" type="xs:string" case="yes"/>
+            </range>    
+    
+    
+            <create path="//creator" type="xs:string"/>
+            <create path="//created" type="xs:string"/>
+            <create path="//approved" type="xs:string"/>
+            <create path="//updated" type="xs:string"/>
+            <create path="//include" type="xs:string"/>
+            <create path="//SpeakerInfo" type="xs:string"/>
+            <create path="//Commentary" type="xs:string"/>
+            <create path="//Critical" type="xs:string"/>
+            <create path="//Commentary" type="xs:string"/>
+            <create path="//RecitationInstruction" type="xs:string"/>
+            <create path="//Parallels" type="xs:string"/>
+            <create path="//Nerangs" type="xs:string"/>
+            <create path="//Quotations" type="xs:string"/>
+            <create path="//ModernPractice" type="xs:string"/>
+            <create path="//Commentary" type="xs:string"/>
+            <create path="//include" type="xs:string"/>
+    </index>
+</collection>

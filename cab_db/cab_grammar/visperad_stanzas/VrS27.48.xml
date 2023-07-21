@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS27.48" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS27.48">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS13.47"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. VrS27.44.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>VrS27.48a <em>āat̰ dīš āuuaēδaiiamahi iδa ...</em>] sec cod.; Geldner, Kellens (<bib>Kellens, 2010</bib>: p. 100) <em>āat̰ iδa ...</em>.
+            <em>āat̰ dīš āuuaēδaiiamahi</em> might be a transmission error, that entered early in the recitation and in all manuscripts. Cf. Y27.1 <em>aētat̰ dim</em> (vid. in Parallels).</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS27.48 = DoHom4.48.</ab>
+      <ab><em>āat̰ dīš āuuaēδaiiamahi iδa dim vīspanąm mazištəm dadəmahi ahūmca ratūmca yim ahurəm mazdąm</em> ~ Y27.1 <em>aētat̰ dim vīspanąm mazištəm dazdiiāi ahūmca ratūmca yim ahurəm mazdąm</em>;
+         ~ Y19.12 <em>yat̰ dim ahūmca ratūmca ādadat̰ iϑa dim para.cinasti yim ahurəm mazdąm manas.paōiriiaēibiiō dāmabiiō yaϑa īm vīspanąm mazištəm cinasti</em>.</ab>
+      <ab><em>ahūmca ratūmca yim ahurəm mazdąm</em> ~ VrS2.12, VrS17.11, VrS77.11 <em>yim ahurəm mazdąm maińiiaōm maińiiauuanąm dāmanąm maińiiaōiiā̊ stōiš ahūmca ratūmca</em>;
+         ~ Y16.1, VrS11.33, VrS28.1, VrS36.1, VrS41.1, VrS51.1, VrS57.1, VrS62.1, VrS64.1, VrS65.75, VrS69.1, VrS71.1, VrS89.27, VrS93.4, VrS96.2 <em>ahurəm mazdąm aṣ̌auuanəm aṣ̌ahe ratūm yazamaide</em>;
+         ~ VrS95.1 <em>təm ratūm yazamaide yim ahurəm mazdąm</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS27.48"/>
+   </translation>
+</text>

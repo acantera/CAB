@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS11.35" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VrS11.35">
+        <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS4.2"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt̰: vid. VrS11.32-33.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab>VSrS11.35b-c <em>ā.hīm vaēδaiiamahi ... frasastaiiaēca.</em>] N63.2-3 <em>aētaiia miiazde *aiβi.vaēδaiieti raϑβaēca miiazdaēca raϑβaēca vīspaiiā̊. sacat̰ca aṣ̌aōnō stōiš ẏasnāica vaɱāica xšnaōϑrāica frasastaiiaēca</em>.</ab>
+            <ab>VrS11.35b <em>vaēδaiiamahi</em>] cod.; Geldner, Kellens <em>vaēδaiiamhī</em>.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels>
+        <ab><em>ā.hīm vaēδaiiamahī raϑβaēca miiazdaēca raϑβaēca ratufritaiiaēca vīspaiiā̊ sącat̰ca aṣ̌aōnō stōiš yasnāica vaɱāica xšnaōϑrāica frasastaiiaēca</em> 
+            ~ N63.2-3 <em>aētaiia miiazde *aiβi.vaēδaiieti raϑβaēca miiazdaēca raϑβaēca vīspaiiā̊ sacat̰ca aṣ̌aōnō stōiš ẏasnāica vaɱāica xšnaōϑrāica frasastaiiaēca </em>.</ab>
+        <ab><em>frā gauue vərəṇdiiāi mazdaiiasna zaraϑuštraiiō</em> ~ Y12.13, VrS11.27, VrS32.2 <em>mazdaiiasnō zaraϑuštriš frauuarānē</em>.</ab>
+        <ab><em>ā.hīm vaēδaiiamahi raϑβaēca miiazdaēca raϑβaēca ratufritaiiaēca</em> ~ VrS27.6 <em>āat̰ dīš āuuaēδaiiamahi ... raϑβaēca miiazdaēca raϑβaēca ratufritaiiaēca</em>.</ab>
+        <ab><em>raϑβaēca ratufritaiiaēca</em> ~ Y3.4, Y4.1, Y4.3, Y7.5, VrS78.14, VrS78.31, VrS78.32, VrS79.1, VrS71.3, VrS81.18, VrS82.2, VrS82.19, VrS82.20, VrS82.39, VrS83.2 <em>raϑβąmca ratufritīmca</em>.</ab>
+        <ab><em>vīspaiiā̊ sącat̰ca aṣ̌aōnō stōiš yasnāica vaɱāica xšnaōϑrāica frasastaiiaēca</em> = Y4.2, Y24.4, VrS24.10, VrS24.12, VrS27.6, VrS27.16, VrS42.8, VrS42.10, VrS65.8, VrS65.10, VrS75.8, VrS75.10, VrS79.2, VrS89.19, VrS89.21.</ab>
+        <ab><em>vīspaiiā̊ sącat̰ca aṣ̌aōnō stōiš</em> ~ Y8.11, Y11.17, Y52.2, Y52.5, Y52.9, Y68.20, Y68.29, Y70.6 <em>vīspaiiā̊ aṣ̌aōnō stōiš</em>; ~ Y55.3 <em>vīspaiiā̊sca aṣ̌aōnō stōiš</em>; ~ Y19.9 <em>vīspąm aṣ̌aōnō stīm</em>.</ab>
+    </Parallels>
+    <Ritual>
+        <Quotations id="ritualQuotations">
+        <ab>Cf. N63.1-3 (<bibl>Kotwal and Kreyenbroek, 2003</bibl>: pp. 270-271): </ab>
+        <ab class="ab_indent">ẏezi aēuuō zaōtā frāiiazāiti miiazdahe *aiiąn zaōtarš gātauua *aētaδa miiazde *aiβi.vaēδaiieti raϑβaēca miiazdaēca raϑβaēca vīspaiiā̊. sacat̰ca aṣ̌aōnō stōiš
+            ẏasnāica vahmāica xšnaōϑrāica frasastaiiaēca </ab>
+        <ab class="ab_indent">"If a <em>zaōtar</em> performs alone on the day of the <em>miiazda</em> in the place of the <em>zaōtar</em> , then he announces to the
+                <em>miiazda</em> and the <em>ratu</em> and to the <em>miiazda</em> and the <em>ratu</em>."</ab>
+        </Quotations>
+        <Commentary id="ritualCommentary">
+            <ab>If N63.1-3 refers to this passage, the question is how a <em>zōt</em> can perform a Visperad alone. Maybe is it a lost text?</ab>
+        </Commentary>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrVrS11.35"/>
+    </translation>
+</text>

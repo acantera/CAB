@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y3.4" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y3.4">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY3.4"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: Y3.1.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab>Y3.4e <em>aṣ̌aiiąmca</em>] sec, Redard; Geldner <em>aš́iiąmca</em>; Kellens em. <em>⁺aṣ̌aiiąmca</em>.</ab>
+            <ab>Y3.4e <em>ratufritīmca</em>] damn., expected <em>ratufritīm</em> (vid. <bibl>Kellens, 1996</bibl>, p. 57). <em>ratufritīm</em> 100 a.c. (<em>ratufritīmca</em>), 677.</ab>
+            <ab>Y3.4e <em>hauuahe</em>] cod 510 <em>hauuahē</em> a.c. (<em>hauuahēca</em>), 4010 <em>hauuahē</em>, 4025, 4040 a.c. (<em>hauuaheca</em>). Geldner, Kellens, Redard <em>hauuaheca</em>. <bibl>Kellens, 1996</bibl>, p. 57: "<em>xšnumaine</em> n'est jamais répété sans que le soit <em>āiiese yešti</em> ou <em>aṣ̌aiia daδąmi</em>, c'est lui qui doit être considéré comme intrus", but cf. Y3.1 <em>xšnūmaine ahurahe mazdā̊ ... xšnūmaine sraōšahe ...</em>. Cf. Y7.5.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels>
+        <ab>Y3.4 ≈ Y4.1, Y4.3, Y7.5, VrS27.5, VrS27.11, VrS78.14, VrS79.1, VrS79.3, VrS82.2.</ab>
+    <ab><em>imat̰ barəsma haδa.zaōϑrəm haδa.aiβiiā̊ŋhanəm aṣ̌aiia frastarətəm</em> = Y2.1 Y59.29; 
+        ~ <em>haδa.zaōϑrəm haδa.aiβiiā̊ŋhanəm imat̰ barəsma aṣ̌aiia frastarətəm aṣ̌auuanəm aṣ̌ahe ratūm yazamaide</em> Y71.24, VrS14.4, VrS18.5, VrS30.11, VrS36.5, VrS41.6, VrS51.8, VrS57.8, VrS62.8, VrS64.9, VrS65.82, VrS69.8, VrS71.8, VrS87.12, VrS93.11; 
+        ~ VrS27.2, VrS27.7 <em>imat̰ barəsma aṣ̌aiia frastarətəm</em>; ~ Y24.1, Y24.6 <em>barəsmaca aṣ̌aiia frastarətəm</em>; ~ Y62.9 <em>barəsma vā aṣ̌aiia frastarətəm</em>.</ab>
+    <ab>
+            <em>gāϑanąmca sraōϑrəm āiiese yešti</em> ~ Y22.4, Y22.24, Y22.25, Y24.3, Y24.8, Y25.3, VrS87.11 <em>gāϑanąmca sraōϑrəm [...] ratufritīm</em>        </ab>
+    <ab>
+            <em>huuarštā° mąϑrā̊</em> = VrS62.5, VrS62.6, VrS93.8, VrS93.9</ab>
+    <ab>
+            <em>imąm aŋhuiiąmca aṣ̌aiiąmca raϑβąmca ratufritīmca</em> = VrS78.31, VrS78.32, VrS81.18, VrS82.19, VrS82.20, VrS82.39, VrS83.2. In the aforementioned equivalents in YR <em>raϑβąmca</em> omitted</ab>
+    <ab>
+        <ab><em>aŋhuiiąmca aṣ̌aiiąmca</em> ~ Y16.2 <em>aŋhuiiaōš aṣ̌acinaŋhō</em>.</ab>
+            <em>maińiiauuanąm gaēϑiianąm</em> ~ Y1.20 <em>maińiiaōibiiascā gaēϑiiaēibiiascā</em>; ~ Y19.20, Y20.4 <em>maińiiaōmca gaēϑīmca</em>
+        </ab>
+        <ab><em>raϑβąmca ratufritīmca</em> ~ VrS11.35, VrS27.6 <em>raϑβaēca ratufritaiiaēca</em>.</ab>
+    <ab>
+        <em>hauuahe urunō</em> = Y1.19, Y7.5, Y22.29, Y24.30; ~ Y66.24 Yt8.15, Yt8.17, Yt8.19  <em>hauuaheca urunō</em>; ~ Y71.11 <em>hauuāi urune</em>; ~ Y69.29, Y71.19, VS13.9, Yt6.4 <em>haōm uruuānəm</em>
+        </ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrY3.4"/>
+    <include type="W" corresp="WTrY3.4"/>
+        <include type="K" corresp="KTrY3.4"/>
+        <include type="D" corresp="DTrY3.4"/>
+    </translation>
+</text>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y20.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y20.1" headerPointer="Head20">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY20.1"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y19.3.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>Y20.1a <em>frāmraōt̰ ahurō ...</em>] <em>frāmraōt̰</em> OD LOYŠE <em>aṣ̌əm vohū</em> (Y21.1) 40.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab><em>aṣ̌əm vohū vahištəm astī</em> quotes AV.a.</ab>
+      <ab><em>xᵛaētauue xᵛaētātəm</em> quotes Y39.5, quoted also in Y13.6, VrS65.49 <em>vaŋhə̄uš xᵛaētə̄uš xᵛaētātā</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY20.1"/>
+      <include type="W" corresp="WTrY20.1"/>
+      <include type="K" corresp="KTrY20.1"/>
+      <include type="D" corresp="DTrY20.1"/>
+   </translation>
+</text>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y9.19" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y9.19">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY9.19"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y9.3.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab><em>aŋ́hā̊sə. tanuuō</em>] Kellens, Pirart; Geldner <em>aiŋ́hā̊sə.tanuuō</em>; cf. <em>aōšaŋᵛhaiθiiā̊sə. tanuuō</em> VS4.50; <em>hauuaiiā̊sə. tanuuō</em> VS10.5, VS10.6.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>
+            <em>iməm ϑβąm ... yānəm haōma jaiδiiemi dūraōša</em> = Y9.20 (x2), Y9.21.</ab>
+      <ab>
+         <em>haōma ... dūraōša</em> = Y11.10; ~ Y9.2, Y9.4, Y9.7, Y9.10, Y9.13, Y11.3 <em>haōmō ... dūraōšō</em>; ~ Y10.21, Y42.5, VrS65.72 <em>haōməm dūraōšəm</em>
+        </ab>
+      <ab>
+            <em>vahištəm ahūm aṣ̌aōnąm raōcaŋhəm vīspō.xᵛāϑrəm</em> = Y11.10, Y62.6, Y68.5, Y68.11, Y72.14, VrS78.11, AD2.12, AGahambar2.23, AGatha2.11, ARap2.12, ANogNavar2.7, ŠnĀsman; ~ Y16.7, VrS18.1 (x3), VrS28.2 (x3), VrS69.5 <em>vahištəm ahūm aṣ̌aōnąm yazamaide raōcaŋhəm vīspō.xᵛāϑrəm</em>; ~ P37.2 <em>vahištəmca ahūm anaγraca raōcā̊ afrasaŋhąnca xᵛāϑra</em>.</ab>
+      <ab>
+            <em>vahištəm ahūm</em>: <em>vahišta- ahu- passim</em>, e.g. Y19.6 <em>vahištəm ahūm ... vahištāt̰ aŋhaōt̰</em>
+        </ab>
+      <ab>
+            <em>druuatātəm aŋ́hā̊sə tanuuō</em> ~ Y68.11, Yt10.108 <em>tanuuō druuatātəm</em>; ~ Yt14.29 <em>tanuuō vīspaiiā̊ druuatātəm</em>; ~ Y57.37 <em>druuatātəm tanubiiō</em>;
+         ~ Yt13.134 <em>tanuiiā̊sca paiti druuatātō</em>.</ab>
+      <ab>
+            <em>darəγō.jītīm</em> ~ Y68.11 <em>darəγąm darəγō.jītīm</em>; ~ Yt13.135 <em>darəγaiiā̊sca ... darəγō.jītōiš</em>
+        </ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY9.19"/>
+
+        <include type="W" corresp="WTrY9.19"/>
+        <include type="K" corresp="KTrY9.19"/>
+        <include type="D" corresp="DTrY9.19"/>
+    </translation>
+</text>

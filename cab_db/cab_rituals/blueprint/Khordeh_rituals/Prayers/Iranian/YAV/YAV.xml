@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+    <div>
+			<div type="IntroductoryPrayer" xml:id="YAV"> <!-- vide: YL2-17, MZK9, RR3, DorostXANew; non vide: MF32, MF25, MF3, MF29, MF31, W1, Ethé1943 -->
+				<include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+			</div>
+	</div>
+</div>

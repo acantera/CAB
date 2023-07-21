@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="DoHom12.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="DoHom12.1">
+      <include href="/db/apps/cab_db/cab_rituals/fragards/FragardDH" xpointer="DoHom12.1"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>DoHom12.1 (mss. 2000, 2035):</ab> 
+         <ab class="ab_indent">
+            ... <em>tā̊sāc</em> yazom. ka dō-hōmāst yazēd ā gyāg airyaman dudīgar abāz xwāndan <em>aṣ̌əm vohū</em> sē <em>airiiamanō išiiehe sraōϑrəm āiiese yešti xšnūmaińe isat̰ 
+               uuāstrahe zaraθuštrahe ašạōnō frauuašә̣̄e xšnaōθra yasnāica vahmāica xšnaōϑrāica</em> tā sar</ab> 
+         <ab class="ab_indent">
+            "At ... <em>tā̊scā yazamaide</em>, when he performs a Dō-Hōmāst, at this passage, they should recite three Aṣ̌əm Vohū and (continue with) <em>airiiamanō išiiehe sraōϑrəm 
+               āiiese yešti xšnūmaińe isat̰uuāstrahe zaraθuštrahe ašạōnō frauuašә̣̄e xšnaōθra yasnāica vahmāica xšnaōϑrāica</em> until the end."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrDoHom12.1"/>
+   </translation>
+</text>

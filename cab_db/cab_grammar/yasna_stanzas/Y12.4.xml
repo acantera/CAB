@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y12.4" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y12.4">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY11.19a"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y12.2.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>Y12.4-6 <em>staōmī aṣ̌əm</em> ... <em>vīdaēuuō ahura.t̰kaēšō</em> ~ Yt13.89 <em>staot̰ aṣ̌əm nāist daēuuō fraorənata mazdaiiasnō zaraϑuštriš vīdaēuuō ahura.t̰kaēṣ̌ō</em>.</ab>
+      <ab>Y12.4-6 <em>staōmī aṣ̌əm</em> ... <em>nāismī daēuuō</em> ~ VS18.16 <em>staōta aṣ̌əm yat̰ vahištəm nīsta daēuua</em>;
+         quoted by colophons in mss. 2610 [K7b], 2620 [M51a], 4610 [K1] (Pahl.) stāyēm ahlāyīh nikōhēm dēwān (4610 nikōham dew).</ab>
+      <ab>Y12.4 = Y0.8.</ab>
+      <ab><em>staōmī aṣ̌əm</em> ~ VrS1.12, VrS25.14, VrS27.28, VrS90.12 <em>aṣ̌ahe vahištahe staōϑβahe</em>;
+         ~ VrS2.14, VrS17.13, VrS77.13 <em>aṣ̌əm vahištəm staōϑβəm</em>.</ab>
+      <ab><em>staōmī aṣ̌əm</em> quoted by colophons 2610 [K7b], 2620 [M51a] <em>staomi aṣ̌əm</em> ... (Pahl.) stāyēm ahlāyīh. </ab>
+   </Parallels>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Vid. Y12.2.</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY12.4"/>
+      <include type="W" corresp="WTrY11.19a"/>
+      <include type="K" corresp="KTrY11.19a"/>
+      <include type="D" corresp="DTrY11.19a"/>
+   </translation>
+</text>

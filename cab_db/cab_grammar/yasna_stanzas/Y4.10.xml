@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y4.10" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y4.10">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY4.10a" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat4.1" on_line="in1line"/>
+      <!-- Succesive gāh after Y4.9 -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY4.10b" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY4.10c" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat4.2" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY4.10d" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY4.10e" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat4.3" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY4.10f" on_line="in1line"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y4.9.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y4.10b <em>dax́iiumāica</em>] Kellens. Geldner, Redard <em>dāx́iiumāica</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>Y4.10 = Y24.15, VrS79.10; ≈ Y1.5, Y2.5, Y3.7, Y6.4, Y7.8, Y17.4, Y22.8, Y59.4, Y66.5, VrS78.17, VrS81.4, VrS82.5.</ab>
+      <ab>
+         <em>bərəzatō ahurahe nafəδrō apąm apasca mazdaδātaiiā̊</em> = in <em>xšnūman Burz</em>. See Karanjia (<bibl>Karanjia, 2010</bibl>:41).</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY4.10"/>
+
+   <include type="W" corresp="WTrY4.10"/>
+        <include type="K" corresp="KTrY4.10"/>
+        <include type="D" corresp="DTrY4.10"/>
+    </translation>
+</text>

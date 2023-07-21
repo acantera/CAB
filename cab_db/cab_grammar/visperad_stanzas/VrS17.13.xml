@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS17.13" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS17.13">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS7.6"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. VrS17.3.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS17.13 = VrS77.13; ≈ VrS1.12, VrS2.14, VrS25.14, VrS27.28, VrS90.12.</ab>
+      <ab><em>ahunəm vairīm frasraōϑrəm ... aṣ̌əm vahištəm staōϑβəm ... yeŋ́hē.hātąm hufrāiiaštąm</em> ~V18.43, V18.49 <em>aṣ̌əm upa.stuiiāt̰ ... ahunəm vairīm frasrāuuaiiōit̰ yeŋ́hē hātąm frāiiazaite</em></ab>
+      <ab><em>ahunəm vairīm frasraōϑrəm</em>; ~ Y9.14 <em>ahunəm vairīm frasrāuuaiiō</em>; ~V19.2 <em>ahunəm vairīm frasrāuuaiiat̰</em>; ~ Yt19.81 <em>ahunō vairiiō ... frasrāuuaiiat̰</em></ab>
+      <ab><em>aṣ̌əm vahištəm staōϑβəm</em> ~ Y0.8, Y12.4 <em>staōmi aṣ̌əm</em></ab>
+      <ab><em>yeŋ́hē.hātąm hufrāiiaštąm</em> ~Y21.5 <em> baγąm yeŋ́hē.hātąm hufrāiiaštąm aṣ̌aōnīm yazamaide</em>; ~ Y61.1, Y72.1 <em>yeŋ́hē.hātąmca hufrāiiaštąm fraēš́iiāmahī</em></ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS17.13"/>
+   </translation>
+</text>

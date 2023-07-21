@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y15.2" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y15.2" quote="Y51.23, Y51.24a">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY15.2"/>
+               <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y15.2NerangTransc.a"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: Anklesaria, Kotwal and Boyd, Geldner.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+       <Comentary/>
+    </Apparatus>
+    <Parallels>
+        <ab>Y15.2 quotes Y51.22, Y51.23a; = Y63.4, Y65.16, Y69.3, VrS11.30, VrS24.2, VrS31.7, VrS42.2, VrS65.2, VrS75.2, VrS87.4, VrS89.16, VrS93.2; ~ Y69.1, Y69.2, VrS78.2</ab>
+    </Parallels>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Y15.2 (mss. 5, 6, 40, 88, 400, 410):</ab>
+            <ab class="ab_indent">
+                <em>yeŋ́hē mē aṣ̌āt̰ hacā vahištəm yesnē paitī</em> ...  <em>bāgəm aibī.bairištəm</em> frāgām ud ǰām ō ī war ī grih ī barsom burdan</ab>
+            <ab class="ab_indent">
+                "At <em>yeŋ́hē.mē aṣ̌āt̰ hacā vahištəm yesnē paitī ...  bāgəm aibī.bairištəm</em>, he should bring the <em>frāgām</em> and the <em>ǰām</em> towards the knot of the <em>barsom</em>."</ab>
+        </Nerangs>
+        <ModernPractice id="ritualModernPractice">
+            <ab><ab><bibl>Redard and Daruwalla, 2021</bibl>, p. 85-86:</ab>
+                <ab class="ab_indent">"The chief priest and the assistant priest say <em>yeŋ́he me</em> together. And the chief priest while saying <em>yeŋ́he me</em>, taking the milk saucer, pours some milk in
+                    the cup near the base of the moon-shaped stands and while saying <em>aṣ̌āt ̰hacā</em>, he pours two parts of milk from the cup into the saucer. Then, from <em>vahištǝm
+                    yesne paitī</em>, the chief priest takes in the right hand the libation wire, which (is) on the milk saucer, wets (it) in the milk saucer (and) goes on touching it to the
+                    date-palm leaf of the bundle, upto the word <em>ustǝmǝmcīt</em> (Y15.3)."</ab></ab>
+            
+            <ab><ab><bibl>Kotwal and Boyd, 1991</bibl> p. 101:</ab> 
+                <ab class="ab_indent">"The <em>zōt</em> and <em>rāspī</em> recite st. 2 and most of st. 3 together. When they recite "those of whom [are the best in righteousness]" (<em>yēnghē mē</em>) of st. 2, 
+                    the <em>zōt</em> picks up the metal wire placed across the saucer containing goat's milk, holds the lower portion against the palm of his right hand and the middle portion between his thumb and first finger, and with the
+                    same hand picks up the saucer of consecrated water mixed with goat's milk. He pours a small amount of this mixture into the empty cup beside the <em>barsom</em> stand and sets the saucer down.
+                    Keeping the metal wire in his hand, he picks up the cup beside the <em>barsom</em> stand and pours a portion of its contents back into the saucer from which it was poured, while reciting with the <em>rāspī</em> the phrase
+                    "through righteousness" (<em>ašhāt hachā</em>). He returns the cup to its place, dips the end of the metal wire into the saucer, and libates the date-palm cord with it by moving the wire back and forth across the cord. This is
+                    the first time in the Yasna liturgy that the <em>zōt</em> libates the cord with the metal wire; with this ritual act the mixture of consecrated water and goat's milk becomes a "libation offering" (<em>zōhr</em>). The wire used for the
+                    libation is designated "the <em>tāy</em> of <em>zōhr</em> (Guj. <em>zōhrnō tāy</em>). As the <em>zōt</em> recites "to the end" (<em>ustememchīt</em>) of st. 3, 
+                    he replaces the metal wire (<em>zōhr tāy</em>) across the top of the saucer, and recites the remainder of st. 3 alone."</ab></ab>
+        </ModernPractice>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY15.2"/>
+    <include type="W" corresp="WTrY15.2"/><include type="K" corresp="KTrY15.2"/><include type="D" corresp="DTrY15.2"/></translation>
+</text>

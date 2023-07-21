@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y17.18" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y17.18">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY17.17"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: Anklesaria, Kotwal and Boyd.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>Y17.18 = Y6.17, Y59.18, Y71.22, VrS81.17; ≈ Y1.18, Y2.18, Y3.20, Y4.23, Y7.21, Y22.21, Y24.28, Y66.18, VrS78.30, VrS79.23, VrS82.18, VVrS14.15.</ab>
+      <ab>
+         <em>ratauuō vīspe mazišta [...] aiiara asńiia māhiia yāiriia sarəδa</em> = Šnūman Gāhānbār</ab>
+      <ab>
+         <em>ratauuō vīspe mazišta</em> = Y1.23, Y2.20, Y14.3, Y17.20, Y59.30, VrS81.31;</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY17.18"/>
+      <include type="W" corresp="WTrY17.17"/>
+      <include type="K" corresp="KTrY17.17"/>
+      <include type="D" corresp="DTrY17.17"/>
+   </translation>
+</text>

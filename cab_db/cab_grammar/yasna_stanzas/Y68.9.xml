@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y68.9" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y68.9">
+               <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y68.9NerangTransc.a"/>
+               <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y68.9NerangTransc.b"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY68.9"/>
+               <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y68.9NerangTransc.c"/>
+            </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Y68.9 (mss. 6, 15, 40, 88, 400, 410 (sec. m. marg.), 2005, 2007, 2010, 2030, 2101, 2102, 2104, 2106, 4000, 4050, 4060, 4161, 4162, 4056):</ab>
+            <ab class="ab_indent">
+                <em>surunuiiā̊</em> srešk-ē ī zōhr andar ǰīwdān rēzišn pas ǰīw andar zōhr kunišn <em>nō yasnəm ahurāne ahurahe xšnuiiā̊.nō yasnəm ahurāne ahurahe upa.nō yasnəm āhīša āca.nō jamiiā̊ auuaŋhe aš.yeštica huiieštica hufrabərətica zaōϑranąm</em>
+                zōhr abāg skūrag kunišn</ab>
+            <ab class="ab_indent">
+                "At <em>surunuiiā̊</em>, he has to pour one drop of <em>zōhr</em> in the <em>ǰīwdān</em> and mix the consecrated milk with the <em>zōhr</em> (and continue with) 
+                <em>nō yasnəm ahurāne ahurahe xšnuiiā̊.nō yasnəm ahurāne ahurahe upa.nō yasnəm āhīša āca.nō jamiiā̊ auuaŋhe aš.yeštica huiieštica hufrabərətica zaōϑranąm</em>. 
+                He has to put <em>zōhr</em> in the saucer."</ab>
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+    <ab>Cf. N51.11 (<bibl>Kotwal and Kreyenbroek, 2003</bibl>: p. 234-5:</ab>
+    <ab class="ab_indent">
+        jīuu <em>pad </em>surunuiiā̊<em> andar rēzišn be pad dah-hōmāst abar ān ī
+        pad </em> vīspaiia ... āfrīnāmi <em>andar rēzišn zōhrag čahār angust az āb ul dārišn ciyōn guft</em>
+            </ab>
+<ab class="ab_indent">
+    "At <em>surunuiiā̊</em> he has to pour <em>jīw</em> (<em>zōhr</em>), but in the Dō-Hōmāst service he should pour it in at <em>vīspaiia ... āfrīnāmi</em>. He should hold the
+    <em> zōhrag</em> hold four fingers above the water, as was said.</ab>
+        </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY68.9"/>
+    <include type="W" corresp="WTrY68.9"/><include type="K" corresp="KTrY68.9"/><include type="D" corresp="DTrY68.9"/></translation>
+</text>

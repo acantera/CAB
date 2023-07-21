@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y9.2" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y9.2">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY9.2"/>
+   </div>
+   <Speaker>
+   <SpeakerInfo>
+      <div>
+         <ab class="ab_indent">zōt: cf. Y9.1.</ab>
+      </div>
+   </SpeakerInfo>
+   <Commentary>Cf. Y9.1.</Commentary>
+      </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y9.2a <em>mē</em>] Pirart <em>hē</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>
+            <em>āat̰ mē aēm paitiiaōxta haōmō aṣ̌auua dūraōšō</em> = Y9.4, Y9.7, Y9.10, Y9.13; ~ VS2.3 <em>āat̰ mē aēm paitiiaōxta yīmō srīrō zaraϑuštra</em>.</ab>
+      <ab>
+            <em>haōmō aṣ̌auua dūraōšō</em> = Y11.3; ~ Y11.10 <em>haōma aṣ̌auua dūraōša</em>.</ab>
+      <ab>
+         <em>haōmō ... dūraōšō</em> ~ Y9.19 (x3), Y9.20 (x2) <em>haōma jaiδiiemi dūraōša</em>; ~ Y10.21, Y42.5, VrS65.72 <em>haōməm dūraōšəm</em>
+        </ab>
+      <ab>
+            <em>frā.mąm</em> (i.e. <em>haōməm</em>) <em>hunuuaŋᵛha</em> ~ VrS31.12 <em>hāuuanaiiā̊sca haōmą</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY9.2"/>
+
+   <include type="W" corresp="WTrY9.2"/>
+        <include type="K" corresp="KTrY9.2"/>
+        <include type="D" corresp="DTrY9.2"/>
+    </translation>
+</text>

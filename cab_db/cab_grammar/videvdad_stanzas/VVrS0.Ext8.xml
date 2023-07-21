@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS0.Ext8" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+        <approved/>
+        <updated/>
+    </header>
+    <div xml:id="VVrS0.Ext8">
+        <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VVrS0.Ext8"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>zōt: vid. Y0.1.</div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <RecitationInstruction/>
+        <Commentary>
+            <ab>
+                <em>nəmasə.tē. ātarš. mazdā̊. ahurahe. hudā̊. mazišta. yazata.</em>] 4075.</ab>
+        </Commentary>
+    </Apparatus>
+    <Ritual>
+        <Quotations id="ritualQuotations">
+            <ab>
+                <ab>Revāyat of Kāmdin Šapur (var. a) (MU1, pp. 580), cf. Revāyat of Kāmdin Šapur (var. b) (MU1, p. 584), on the Nērang ī Āb ud Padyāb ceremony:</ab>
+                <ab class="ab_indent">(Pāz.) pas. dast. pa. pāδiiāv. kardan. u. pa. gāh. ātarauuaxṣ̌ą̇n. īstādan. u. ruī. pa. ātaš. kardan. 
+                    <em>nəmasətə. ātarš. mazdā̊. ahurahe. huδā̊. mazišta. ẏazata. xṣ̌naoθra. ahurahe. mazdā̊. aṣ̌əm. vōhū.</em> 3</ab>
+                <ab class="ab_indent">Then he (the <em>zōt</em>) should purify his hands and at the place of the <em>ātrawaxš</em>. He should face the fire (and recite):
+                    <em>nəmasətə ātarš mazdā̊ ahurahe huδā̊ mazišta ẏazata xṣ̌naoθra ahurahe mazdā̊</em> (and the) <em>aṣ̌əm vōhū.</em> three times.</ab>
+            </ab>  
+        </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY0.Ext8"/>
+    </translation>
+</text>

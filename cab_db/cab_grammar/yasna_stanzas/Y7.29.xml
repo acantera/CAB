@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y7.29" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y7.29">
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+               <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y7.29NerangTransc.a"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: Anklesaria, Kotwal and Boyd.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab>II gwptn'] 5, 6, 15,83, 88, 672; II 100, 110, 231, 234, 677; <em>ẏaϑā ahū vairiiō aϑā ratuš aṣ̌āt̰.cīt̰ hacā</em> OD gywʾk. byšʾmlwtyk gwbšn' 400, 410; <em>ẏaϑā ahū vairiiō aϑā ratuš aṣ̌āt̰.cīt̰ hacā</em> byšʾmlwtyk gwbšn' 500, 510.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Y7.29 (mss. 5, 6, 40, 82, 88, 400, 410 (mg.), 500, 510, 2007, 2010, 2030, 2040, 2101, 2106, 2109, 4000a, 4010, 4020, 4025, 4030, 4040, 4045, 4050, 4055, 4060, 4161, 4162, 5020):</ab>
+            <ab class="ab_indent">
+                <em>yaϑā ahū vairiiō </em> dō guftan ud pad harw <em>š́iiaōϑananąm</em>. ēsm ud bōy ī nihādag  frāz ō ī ātaxš barišn</ab>
+            <ab class="ab_indent">
+                "He has to say twice the <em>yaϑā ahū vairiiō</em>. At each <em>š́iiaōϑananąm</em> he has to bring (one piece of) the deposited <em>ēsm</em> and <em>bōy</em> to the fire."</ab>  
+        </Nerangs>
+        <ModernPractice id="ritualModernPractice">
+            <ab><ab><bibl>Kotwal and Boyd, 1991</bibl>, p. 96:</ab>
+                <ab class="ab_indent">"Following st. 25 the two priests recite <em>y. a. v. 2</em>, during which the <em>rāspī</em> at the word "actions" (<em>shyaothnanām</em>) takes the set of sandalwood and frankincense (<em>ēsm-bōy</em>)
+                    from eastern side of the stone nearest him and offers it to the fire. This action is repeated, using the second set of sandalwood and frankincense, during the second recitation."</ab></ab>
+                <ab><ab><bibl>Redard and Daruwalla, 2021</bibl>, p. 83:</ab>
+                    <ab class="ab_indent">"While reciting <em>š́iiaoϑnanąm</em> of both these <em>Ahuna Viariia</em>, the assistant priest, putting 2 (pieces of) wood (and) incense on the ladle, punts (them) on the fire and both go on reciting together."</ab>
+                </ab>
+        </ModernPractice>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY7.29"/>
+    <include type="W" corresp="WTrY7.25b"/><include type="K" corresp="KTrY7.25b"/><include type="D" corresp="DTrY7.25b"/></translation>
+</text>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS0.14" status="created">  <!-- created, approved, updated--> <header>
+    <creators>
+        <creator>Porro</creator>
+        <creator>Cantera</creator>
+    </creators>
+    <created>1 June 2019</created>
+</header>
+    <div type="Stanza" sameAs="" xml:id="VVrS0.14">
+        <!-- The mss. sometimes x3 -->
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+        <include href="/db/apps/cab_db/cab_rituals/nerang/videvdad_nerang" xpointer="VVrS0.14NerangTransc.a"/>
+    </div>
+    <SpeakerInfo>
+        <div>zōt ud rāspīg: vid. VVrS0.11.</div>
+    </SpeakerInfo>
+    <Apparatus>
+        <Critical/>
+        <RecitationInstruction>
+            <ab>IV gwptn'] 4000a, 4010, 4020, 4025, 4030a, 4050, 4161; čāhār ḫundan 4045a; čahār bār 4162a.</ab>
+        </RecitationInstruction>
+        <Commentary>
+            <ab>IV gwptn'] dah 4200, 4240, 4280, 4370, 4515 (cf. Rit. Quot.).</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>VVrS0.14 Var. a (mss. 4000a, 4010, 4020, 4025, 4050, 4161):</ab>            
+            <ab class="ab_indent">
+                <em>yaϑā ahū vairiiō</em> čahār guftan ēn gyāg sāzišn ud zōhr hamāg bē nigerišn ud ēsm ud bōy ō ī ātaxš dahišn</ab>
+            <ab class="ab_indent">
+                "He should recite four <em>yaϑā ahū vairiiō</em>. At this moment, he has to inspect all the implements and the <em>zōhr</em> and (the <em>rāspīg</em>) has to give a piece 
+                of <em>ēsm</em> and <em>bōy</em> to the fire."</ab>
+            
+            <ab>VVrS0.14 (Nērang ī āb) (mss. 4000, 4010, 4020, 4025, 4063):</ab>
+            <ab class="ab_indent">
+                u-š čahārom bār xūb bē nigerišn bēd kū guft kū pad yatāhūweryō pad <em>š́iiaōθənanąm</em> čahār-gānag pad harw ēk bār bē nigerišn pas abastāg rāyēnišn</ab> 
+            <ab class="ab_indent">
+                "He has to gaze (at them) a fourth time. There is one who said. At the Yatāhuwairyō, he has to gaze once at one of the four <em>š́iiaōθənanąm</em>. Then he has to arrange 
+                the <em>abastāg</em>."</ab>
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+            <ab><ab>NērangVVrS0.14 (Nērang ī āb) [mss. 4000 4010 4020 4025 4063], cf. WiD, Revāyat of Kāma Bohra (MU1, p. 5I. 77) and Revāyat of Kāmdin Šapur (var. b.) (MU1, p. I. 584), on the Nērang ī Āb ud Padyāb ceremony:</ab>
+                <ab class="ab_indent">(Pahl.) u-š čahārōm xūb be nigerišn bawēd kē guft pad yadāhuwēryō pad <em>š́iiaōϑininąm</em> čahār-ganag pad harw ēk bār bē nigerišn</ab>
+                <ab class="ab_indent">"And four the fourth time they should look well. There was one who said that at <em>yaϑā ahū vairiiō</em> at the four <em>š́iiaōϑananąm</em> they should look each time.</ab>"</ab>
+            
+            <ab><ab>Revāyat of Behdin Ǧāsā (MU1, p. I. 593), cf. Revāyat of Kāmdin Šapur (var. a.) (MU1, p. I. 581), on the Nērang ī Āb ud Padyāb ceremony:</ab>
+                <ab class="ab_indent">(AvPerTr.) <em>is̱ā ahu vairiyo</em> (Per.) cahār behar (AvPerTr.) <em>is̱ā ahu vairiyo</em> (Per.) be (AvPerTr.) <em>šiyus̱anām.</em> (Per.) gomiz benegarešn va (AvPerTr.) <em>anghiyuš mazdāy</em> (Per.) āb benegarišn 
+                    beʾin cahār (AvPerTr.) <em>is̱ā ahu vairiyoš</em> (Per.) incenin konand</ab>
+                <ab class="ab_indent">"(They should recite) four <em>yaϑā ahū vairiiō</em>. At each <em>yaϑā ahū vairiiī</em>, at <em>š́iiaōϑananąm</em> they should look at the urine and (at) <em>aŋhə̄uš mazdāi</em> they should look at the water.
+                    At each four <em>yaϑā ahū vairiō</em> they should perform the same way.</ab>"</ab>
+        </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrVVrS0.14"/>
+    </translation>
+</text>

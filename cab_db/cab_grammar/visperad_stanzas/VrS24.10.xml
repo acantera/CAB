@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS24.10" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS24.10">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS10.7a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS10.7b"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS10.7c"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS10.7d"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">rāspīg (at the place of the <em>srōšāwarzān</em>): vid. VrS24.3.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS24.10 = VrS42.8, VrS65.8, VrS75.8, VrS89.19, DoHom1.10.</ab>
+      <ab>VrS24.10 = VrS24.12.</ab>
+      <ab><em>daēnaiiā̊ vaŋhuiiā̊ māzdaiiasnōiš</em> ~ <em>passim daēnā vaŋᵛhī māzdaiiasni</em>.</ab>
+      <ab><em>vīspaiiā̊ sącat̰ca aṣ̌aōnō stōiš yasnāica vaɱāica xšnaōϑrāica frasastaiiaēca</em> = Y4.2, Y24.4, VrS11.35, VrS27.6, VrS27.16, VrS79.2.</ab>
+      <ab><em>vīspaiiā̊ sącat̰ca aṣ̌aōnō stōiš</em> ~ Y8.11, Y11.17, Y52.2, Y52.5, Y52.9, Y68.20, Y68.29, Y70.6 <em>vīspaiiā̊ aṣ̌aōnō stōiš</em>; ~ Y55.3 <em>vīspaiiā̊sca aṣ̌aōnō stōiš</em>; ~ Y19.9, Y35.1 <em>vīspąm aṣ̌aōnō stīm</em>.</ab>
+      <ab><em>səraōšō astū hiiat̰ paōuruuīm tat̰ ustəməmcīt̰</em>~ Y56.1, Y56.2 <em>səraōšō iδā astū ... hiiat̰ paōuruuīm tat̰ ustəməmcīt̰</em>; ~ Y56.3 <em>səraōšō iδā astū ... hiiat̰ paōuruuīm tat̰ ustəməmcīt̰</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS24.10"/>
+   </translation>
+</text>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y2.11" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y2.11">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.11a"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.11b"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. Y2.4.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab>Y2.11a <em>aiϑiiejaŋha</em>] Kellens; Geldner <em>aiϑiiajaŋha</em>.</ab>
+            <ab>Y2.11b <em>daiŋ́hu.paitīm</em>] Geldner <em>daiŋ́hupaitīm</em>, Kellens <em>daŋ́hupaitīm</em>.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels>
+        <ab>Y2.11 quotes Yt10.145; = VVrS14.9; ≈ Y1.11, Y3.13, Y4.16, Y6.10, Y7.14, Y17.10, Y22.14, Y24.21, Y59.10, Y66.11, VrS78.23, VrS79.16, VrS81.10, VrS82.11.</ab>
+        <ab><em>ahura miϑra bərəzaṇta aiϑiiejaŋha aṣ̌auuana</em> ~ Y26.2 <em>aməṣ̌anąm spəṇtanąm ... bərəzatąm ... yōi aiϑiiejaŋhō aṣ̌auuanō</em>.</ab>
+        <ab>
+            <em>strə̄ušca mā̊ŋhəmca huuarəca</em> ~ Y1.17, Y2.17, Y3.19, Y4.22, Y6.16, Y7.20, Y17.17, Y22.20, Y24.27, Y59.17, Y66.17,  VrS78.29, VrS79.22, VrS81.16, VrS82.17 <em>strąm mā̊ŋhō hūrō</em>
+        </ab>
+        <ab>
+            <em>uruuarāhu paiti barəsmańiiāhu</em> = Yt10.145, Ny2.12</ab>
+        <ab>
+            <em>miϑrəm vīspanąm dax́iiunąm daiŋ́hu.paitīm</em> ~ Yt19.35 <em>miϑrəm dax́iiunąm daiŋ́hu.paitīm yazamaide</em>
+        </ab>
+        <ab>
+            <em>dax́iiunąm daiŋ́hu.paitīm</em> ~ Y13.1, VS10.5 (x2), VS10.6, VytS3.4, VytS7.4 <em>daŋ́hə̄uš daiŋ́hu.patōiš</em>; ~ VrS11.10, VS7.41, VS7.42, VS9.37<em>daŋ́həūš daiŋ́hu.paitīm</em>;
+            ~ Yt10.17 <em>daŋ́hə̄uš daiŋ́hu.patə̄e</em>; ~ Yt10.83 <em>daŋ́hə̄uš daiŋ́hu.paitiš</em>.</ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrY2.11"/>
+    <include type="W" corresp="WTrY2.11a"/>
+        <include type="K" corresp="KTrY2.11a"/>
+        <include type="D" corresp="DTrY2.11a"/>
+    </translation>
+</text>

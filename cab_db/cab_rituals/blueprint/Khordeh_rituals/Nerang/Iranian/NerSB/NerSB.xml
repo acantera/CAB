@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+            <div type="IntroductoryPrayer" xml:id="NerŠB=AvestaBušasf"> <!-- vide: YL2-17, MZK6, RR3, MZK8 -->
+				<div type="IntroductoryPrayerStanza" xml:id="NerŠB=AvestaBušasf1.1">
+                    <ab n="a" xml:id="NerŠB=AvestaBušasf1.1a">xšnaōϑra. ahurahe. mazdā̊.</ab>
+                </div>  
+				<div type="IntroductoryPrayerStanza" xml:id="NerŠB=AvestaBušasf1.2">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+                </div>
+				<div type="IntroductoryPrayerStanza" xml:id="NerŠB=AvestaBušasf1.3" quote="Y35.2 (#GY35.2) = YR35.2 VrS43.2 VVrS43.2 VytVrS43.2">
+					<ab n="a" xml:id="NerŠB=AvestaBušasf1.3a">humatanąm. hūxtanąm. huuarštanąm. iiadacā. ańiiadacā.</ab>
+					<ab n="b" xml:id="NerŠB=AvestaBušasf1.3b">vərəziiamnanąmcā. vāuuərəzananąmcā. mahī.</ab>
+					<ab n="c" xml:id="NerŠB=AvestaBušasf1.3c">aibī.jarətārō. naēnaēstārō. yaϑanā. vohunąm. mahī.</ab>
+					<ab n="d" xml:id="NerŠB=AvestaBušasf1.3d">humatanąm. hūxtanąm. huuarštanąm. iiadacā. ańiiadacā. vərəziiamnanąmcā. vāuuərəzananąmcā. mahī. aidī.jarətārō. naēnaēstārō. yaϑanā. vohunąm. mahī.</ab>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="NerŠB=AvestaBušasf1.4" quote="Y35.3 (#GY35.3) = YR35.3 VrS43.3 VVrS43.3 VytVrS43.3">
+					<ab n="a" xml:id="NerŠB=AvestaBušasf1.4a">tat̰. at̰. vairīmaidī. ahurā. mazdā. aṣ̌ā. srīrā.</ab>
+					<ab n="b" xml:id="NerŠB=AvestaBušasf1.4b">hiiat̰. ī. mainimadicā. vaōcōimācā. vərəzimācā.</ab>
+					<ab n="c" xml:id="NerŠB=AvestaBušasf1.4c">yā. hātąm. š́iiaōϑananąm. vahištā. x́iiāt̰. ubōibiiā. ahubiiā.</ab>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="NerŠB=AvestaBušasf1.5" quote="Y35.4 (#GY35.4) = YR35.4 VrS43.4 VVrS43.4 VytVrS43.4">
+					<ab n="a" xml:id="NerŠB=AvestaBušasf1.5a">gauuōi. adāiš. tāiš. š́iiaōϑanāiš. yāiš. vahištāiš. fraēš́iiāmahī.</ab>
+					<ab n="b" xml:id="NerŠB=AvestaBušasf1.5b">rāmācā. vāstrəmcā. dazdiiāi.</ab>
+					<ab n="c" xml:id="NerŠB=AvestaBušasf1.5c">surunuuatascā. asurunuuatascā. xšaiiaṇtascā. axšaiiaṇtascā.</ab>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="NerŠB=AvestaBušasf1.6" quote="Y35.2 (#GY35.2) = YR35.2 VrS43.2 VVrS43.2 VytVrS43.2">
+					<ab n="a" xml:id="NerŠB=AvestaBušasf1.6a">humatanąm. hūxtanąm. huuarštanąm. iiadacā. ańiiadacā.</ab>
+					<ab n="b" xml:id="NerŠB=AvestaBušasf1.6b">vərəziiamnanąmcā. vāuuərəzananąmcā. mahī.</ab>
+					<ab n="c" xml:id="NerŠB=AvestaBušasf1.6c">aibī.jarətārō. naēnaēstārō. yaϑanā. vohunąm. mahī.</ab>
+					<ab n="d" xml:id="NerŠB=AvestaBušasf1.6d">humatanąm. hūxtanąm. huuarštanąm. iiadacā. ańiiadacā. vərəziiamnanąmcā. vāuuərəzananąmcā. mahī. aidī.jarətārō. naēnaēstārō. yaϑanā. vohunąm. mahī.</ab>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="NerŠB=AvestaBušasf1.7" quote="Y35.3 (#GY35.3) = YR35.3 VrS43.3 VVrS43.3 VytVrS43.3">
+					<ab n="a" xml:id="NerŠB=AvestaBušasf1.7a">tat̰. at̰. vairīmaidī. ahurā. mazdā. aṣ̌ā. srīrā.</ab>
+					<ab n="b" xml:id="NerŠB=AvestaBušasf1.7b">hiiat̰. ī. mainimadicā. vaōcōimācā. vərəzimācā.</ab>
+					<ab n="c" xml:id="NerŠB=AvestaBušasf1.7c">yā. hātąm. š́iiaōϑananąm. vahištā. x́iiāt̰. ubōibiiā. ahubiiā.</ab>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="NerŠB=AvestaBušasf1.8" quote="Y35.4 (#GY35.4) = YR35.4 VrS43.4 VVrS43.4 VytVrS43.4">
+					<ab n="a" xml:id="NerŠB=AvestaBušasf1.8a">gauuōi. adāiš. tāiš. š́iiaōϑanāiš. yāiš. vahištāiš. fraēš́iiāmahī.</ab>
+					<ab n="b" xml:id="NerŠB=AvestaBušasf1.8b">rāmācā. vāstrəmcā. dazdiiāi.</ab>
+					<ab n="c" xml:id="NerŠB=AvestaBušasf1.8c">surunuuatascā. asurunuuatascā. xšaiiaṇtascā. axšaiiaṇtascā.</ab>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="NerŠB=AvestaBušasf1.9" quote="Y35.5 (#GY35.5) = YR35.5 VrS43.5 VVrS43.5 VytVrS43.5">
+					<ab n="a" xml:id="NerŠB=AvestaBušasf1.9a">huxšaϑrōtəmāi. bāt̰. xšaϑrəm. aɱat̰. hiiat̰. aibī.</ab>
+					<ab n="b" xml:id="NerŠB=AvestaBušasf1.9b">dadəmahicā. cīšmahicā. huuąmahicā.</ab>
+					<ab n="c" xml:id="NerŠB=AvestaBušasf1.9c">hiiat̰. mazdāi. ahurāi. aṣ̌āicā. vahištāi.</ab>
+					<ab n="d" xml:id="NerŠB=AvestaBušasf1.9d">huxšaϑrōtəmāi. bāt̰. xšaϑrəm. aɱat̰. hiiat̰. aibī. dadəmahicā. cīšmahicā. huuąmahicā. hiiat̰. mazdāi. ahurāi. aṣ̌āicā. vahištāi.</ab>
+					<ab n="e" xml:id="NerŠB=AvestaBušasf1.9e">huxšaϑrōtəmāi. bāt̰. xšaϑrəm. aɱat̰. hiiat̰. aibī. dadəmahicā. cīšmahicā. huuąmahicā. hiiat̰. mazdāi. ahurāi. aṣ̌āicā. vahištāi.</ab>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="NerŠB=AvestaBušasf1.10">
+					<include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="4"/>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="NerŠB=AvestaBušasf1.11">
+					<include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="NerŠB=AvestaBušasf2.1">
+					<ab n="a" xml:id="NerŠB=AvestaBušasf2.1a">ahunəm. vairīm. yazamaide.</ab>
+					<ab n="b" xml:id="NerŠB=AvestaBušasf2.1b">aṣ̌əm. vahištəm. sraēštəm. aməṣ̌əm. spəṇtəm. yazamaide.</ab>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="NerŠB=AvestaBušasf2.2">
+					<include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YeH" xpointer="YeH"/>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="NerŠB=AvestaBušasf2.3" quote="GV18.51">
+					<ab n="a" xml:id="NerŠB=AvestaBušasf2.3a">āat̰. aōšete. spəṇtaiiāi. ārmatə̄e.</ab>
+					<ab n="b" xml:id="NerŠB=AvestaBušasf2.3b">spəṇta. ārmaite.</ab>
+					<ab n="c" xml:id="NerŠB=AvestaBušasf2.3c">iməm. tē. narəm. nisrinaōmi.</ab>
+					<ab n="d" xml:id="NerŠB=AvestaBušasf2.3d">iməm. mē. narəm. nisrāraiiā̊.</ab>
+					<ab n="e" xml:id="NerŠB=AvestaBušasf2.3e">upa. sūrąm. fraṣ̌ō.kərətīm.</ab>
+					<ab n="f" xml:id="NerŠB=AvestaBušasf2.3f">ahunəm. vairīm. yazamaide.</ab>
+					<ab n="g" xml:id="NerŠB=AvestaBušasf2.3g">vīduš.gāϑəm. vīduš.yasnəm.</ab>
+					<ab n="h" xml:id="NerŠB=AvestaBušasf2.3h">paiti.parštō.srauuaŋhəm. mązdrəm. haδa.hunarəm. tanu.mąϑrəm.</ab>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="NerŠB=AvestaBušasf2.4" quote="GV18.52">
+					<ab n="a" xml:id="NerŠB=AvestaBušasf2.4a">āat̰. hē. nąma. fradaiϑiiā̊. </ab>
+					<ab n="b" xml:id="NerŠB=AvestaBušasf2.4b">ātrə.dātəm. vā. ātrə.ciϑrəm. vā.</ab>
+					<ab n="c" xml:id="NerŠB=AvestaBušasf2.4c">ātrə.zaṇtūm. vā. ātrə.dax́iiūm. vā. </ab>
+					<ab n="d" xml:id="NerŠB=AvestaBušasf2.4d">kąmcit̰. vā. ātrə. dātahe. nąma.</ab>			
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="NerŠB=AvestaBušasf3.1">
+					<include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+				</div>
+			</div>
+</div>

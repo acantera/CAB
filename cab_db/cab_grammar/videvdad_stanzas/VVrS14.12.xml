@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS14.12" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VVrS14.12">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS5.9"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. VVrS14.1.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>VVrS14.12 = Y2.14; ≈ Y1.14, Y3.16, Y4.19, Y6.13, Y7.17, Y17.14, Y22.17, Y24.24, Y59.13, Y66.14, VrS78.26, VrS79.19, VrS81.13, VrS82.14.</ab>
+      <ab><em>mąϑrəm spəṇtəm aš.xᵛarənaŋhəm āiiese yešti dātəm vīdōiiūm āiiese yešti dātəm zaraϑuštri āiiese yešti darəγąm upaiianąm āiiese yešti daēnąm vaŋᵛhīm māzdaiiasnīm āiiese yešti</em> ~ ŠnMinōNāwar with <em>yazamaide</em>.</ab>
+      <ab><em>mąϑrəm spəṇtəm aš.xᵛarənaŋhəm āiiese yešti dātəm vīdōiiūm āiiese yešti dātəm zaraϑuštri āiiese yešti darəγąm upaiianąm āiiese yešti</em> ~ Y71.5 <em>vīspəmca mąϑrəm spəṇtəm yazamaide vīspəmca dātəm vīdōiium yazamaide vīspąmca darəγąm upaiianąm yazamaide</em>; 
+         ~ Yt11.17 <em>haxaiia mąϑrahe spəṇtahe haxaiia dātahe vīdaēuuahe haxaiia darəγaiiā̊ upaiianaiiā̊</em>. </ab>
+      <ab><em>mąϑrəm spəṇtəm aš.xᵛarənaŋhəm āiiese yešti dātəm vīdōiiūm āiiese yešti dātəm zaraϑuštri</em> ~ Yt13.146 <em>mąϑraca spəṇta vīduša yō vīdaēuuō vīdaēuuahe</em>.</ab>
+      <ab><em>mąϑrəm spəṇtəm</em> ≈ ceremonial marker of Vyt.</ab>
+      <ab><em>dātəm vīdōiiūm āiiese yešti dātəm zaraϑuštri āiiese yešti</em> ≈ ceremonial marker of V; ~ VS5.22, VS5.23, VS5.24, VS5.25 <em>aētəm dātəm yim vīdōiiūm zaraϑuštri</em>;
+         ~ VS19.16 <em>nizbaiiemi ... dātəm vīdōiium zaraϑuštra</em>.</ab>
+      <ab> <em>daēnąm vaŋᵛhīm māzdaiiasnīm</em> ~ Y0.10, Y15.1, Y22.4, Y22.24, Y22.25, Y24.3, Y24.8, Y24.29, Y25.3, Y35.1, Y53.11 (x2), Y66.19, Y66.20, Y70.3, Y72.7, Y72.11, VrS87.11 <em>daēnaiiā̊ vaŋhuiiā̊ māzdaiiasnōiš</em>; 
+         ~ Y9.26, Yt16.5, Yt16.8, Yt16.11, Yt16.14, Yt16.16, Yt16.18 <em>vaŋᵛhīm daēnąm māzdaiiasnīm</em>
+      </ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS14.12"/>
+   </translation>
+</text>

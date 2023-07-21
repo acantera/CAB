@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR0.Ext5" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+        <approved/>
+        <updated/>
+    </header>
+    <div xml:id="YR0.Ext5">
+            <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR0Ext5"/>
+        </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <em>zōt: vid. YR0.Ext1.</em>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <RecitationInstruction/>
+        <Commentary>
+            <ab><em>xšnaōϑra. ahurahe. mazdā̊.</em>] 320, 350.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Vid. YR0.Ext4.</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrYR0.Ext5"/>
+    </translation>
+</text>

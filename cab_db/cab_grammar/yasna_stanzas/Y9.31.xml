@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y9.31" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y9.31">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY9.31"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y9.3.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y9.31c <em>ahu.mərəcō</em>] Geldner <em>ahūm.mərəṇcō</em>; Kellens, Pirart <em>ahūm.mərəcō</em>. <bibl>Kellens, 1974</bibl>, pp. 60 ff. secondary development of nasan infix (analogy vb. <em>mərəṇc-</em>). Cod. vv.ll.: <em>ahu(.)mərəcō</em> widely attested in the Iranian tradition and Sanskrit Yasna. <em>ū</em> seems a secondary lengthening before <em>m</em> as acc. sg. form <em>ahūmərə(ṇ)cō</em> or <em>ahūm.m°</em>. Cf. Y57.23 <em>ahūm.mərəṇcō</em> universally attested. Cf. short <em>u</em> in <em>ahu.nāsəm</em> VS18.6.</ab>.
+         <ab><em>aiŋ́hā̊ daēnaiiā̊</em>] Pirart. add. post <em>yā ahūiriš zaraϑuštriš</em>.</ab>
+         <ab>Y9.31c <em>vacō</em>] cod.; Geldner, Kellens, Pirart <em>vaca</em>. <em>mąs [...] daϑānahe</em> takes accusative (<bibl>Kellens and Pirart, 1990</bibl>, p. 256).
+            <em>vaca</em> as analogical instr. sg. of <em>š́iiaōϑnāiš</em>?</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>
+            <em>aṣ̌əmaōγahe anaṣ̌aōnō</em> ~ Y16.8, Y61.4 <em>aṣ̌əmaōγaheca anaṣ̌aōnō</em>; ~ VS4.49, Yt15.51 <em>aṣ̌əmaōγəm anaṣ̌auuanəm</em>; ~ Yt13.105 <em>aṣ̌əmaōγanąm anaṣ̌aōnąm</em>.</ab>
+      <ab>
+            <em>kəhrpəm nāšəmnāi aṣ̌aōne haōma zāire vadarə jaiδi</em> = Y9.30 (x2), Y9.32 (x2).</ab> 
+      <ab>
+            <em>haōma zāire</em> ~ Y9.17 <em>nī.tē zāire</em>; ~ Y10.13 <em>haōma zāire</em>; ~ Y10.21 <em>haōməm zāirīm</em>; Y42.5 <em>haōməmcā zāirīm</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY9.31"/>
+
+        <include type="W" corresp="WTrY9.31"/>
+        <include type="K" corresp="KTrY9.31"/>
+        <include type="D" corresp="DTrY9.31"/>
+    </translation>
+</text>

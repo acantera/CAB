@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS2.12" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VrS2.12">
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS2.4"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. VrS2.4.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab>VrS2.12a <em>maińiiaōiiā̊. stōiš.</em>] <em>lectio dificilior</em>, Iranian mss. <em>maińiiaiiā̊</em>, but cf. VrS17.11 <em>maińiiaōiiā̊</em> 2000, 2010. <em>lectio continua</em> in 2610, 2620, 2640 and 2220, with <em>saṃdhi</em> <em>°-aōstōiš</em> (vs. <em>**-ā̊stōiš</em>). Vid. <bibl>Kellens, 2006</bibl>, 42.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels>
+        <ab>VrS2.12 ≈ VrS17.11, VrS77.11</ab>
+        <ab><em>ϑβąm ratūm ... yim ahurəm mazdąm maińiiaōm maińiiauuanąm dāmanąm maińiiaōiiā̊ stōiš ahūmca ratūmca</em> ~ Y19.12 <em>yat̰ dim ahūmca ratūmca ādadat̰ iϑa dim para.cinasti yim ahurəm mazdąm manas.paōiriiaēibiiō dāmabiiō yaϑa īm vīspanąm mazištəm cinasti</em>;
+            ~ Y27.1 <em>aētat̰ dim vīspanąm mazištəm dazdiiāi ahūmca ratūmca yim ahurəm mazdąm</em>; ~ VrS27.48 <em>āat̰ dīš āuuaēδaiiamahi iδa dim vīspanąm mazištəm dadəmahi ahūmca ratūmca yim ahurəm mazdąm yasnāica vaɱāica xšnaōϑrāica frasastaiiaēca</em>.</ab>
+            <ab><em>ϑβąm ratūm āiiese yešti yim ahurəm mazdąm</em> ~ Y16.1, VrS11.33, VrS28.1, VrS36.1, VrS41.1, VrS51.1, VrS57.1, VrS62.1, VrS64.1, VrS65.75, VrS69.1, VrS71.1, VrS89.27, VrS93.4, VrS96.2 <em>ahurəm mazdąm aṣ̌auuanəm aṣ̌ahe ratūm yazamaide</em>; ~ VrS95.1 <em>təm ratūm yazamaide yim ahurəm mazdąm</em>.</ab>
+            <ab><em>ϑβąm ratūm āiiese yešti yim zaraϑuštrəm</em> ~ Y16.2, VrS11.33, VrS28.1, VrS36.1, VrS41.1, VrS51.1, VrS57.1, VrS62.1, VrS64.1, VrS65.75, VrS69.1, VrS71.1, VrS89.27, VrS93.4, VrS96.2 <em>zaraϑuštrəm aṣ̌auuanəm aṣ̌ahe ratūm yazamaide</em>; ~ VrS95.1 <em>təm ratūm yazamaide yim zaraϑuštrəm spitāməm</em>.</ab>
+            <ab><em>ϑβąm ratūm</em> ~ VrS65.78 <em>auui tauua ratuuō bərəza</em>.
+        </ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrVrS2.12"/>
+        <include type="W" corresp="WTrVr2.4"/>
+        <include type="D" corresp="DTrVr2.4"/>
+        <include type="K" corresp="KTrVr2.4"/>
+    </translation>
+</text>

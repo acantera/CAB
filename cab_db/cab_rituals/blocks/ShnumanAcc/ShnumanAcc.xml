@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xml:id="ShnumanAcc">
+            <div xml:id="ShnumanAcc1" type="ShnumanAcc">
+        <ab xml:id="ShnumanAcc1.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide.</ab>
+            </div>
+            <div xml:id="ShnumanAcc2" type="ShnumanAcc"> <!-- Wahman -->
+        <ab xml:id="ShnumanAcc2.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                <ab xml:id="ShnumanAcc2.b">vohu. manō. aməṣ̌əm. spəṇtəm. yazamaide. āxštīm. hąm.vaiṇtīm. yazamaide. taraδātəm. ańiiāiš. dāmąn. āsnəm. xratūm. mazdaδātəm. yazamaide. 
+                gaōšō.srūtəm. xratūm. mazdaδātəm. yazamaide. </ab>
+            </div>
+            <div xml:id="ShnumanAcc3" type="ShnumanAcc"> <!-- Addwahišt -->
+        <ab xml:id="ShnumanAcc3.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. 
+                yazamaide.</ab> <ab xml:id="ShnumanAcc3.b">aṣ̌əm. vahištəm. sraēštəm. aməṣ̌əm. spəṇtəm. yazamaide. airiiamanəm. išīm. yazamaide. 
+                sūrəm. mazdaδātəm. yazamaide. saōkąm. vaŋᵛhīm. vouru.dōiϑrąm. mazdaδātąm. aṣ̌aōnīm. yazamaide. </ab>
+            </div>
+            <div xml:id="ShnumanAcc4" type="ShnumanAcc"> <!-- Šahrewar -->
+        <ab xml:id="ShnumanAcc4.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide. </ab>
+                <ab xml:id="ShnumanAcc4.b">xšaϑrəm. vairīm. aməṣ̌əm. spəṇtəm. yazamaide. aiiōxšustəm. yazamaide. marždikəm. ϑrāiiō.driγūm. yazamaide. 
+                </ab>
+            </div>
+            <div xml:id="ShnumanAcc5" type="ShnumanAcc"> <!-- Spandarmad -->
+        <ab xml:id="ShnumanAcc5a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide. </ab>
+                <ab xml:id="ShnumanAcc5.b">spəṇtąm. vaŋᵛhīm. ārmaitīm. yazamaide. rātąm. vaŋᵛhīm. vouru.dōiϑrąm. mazdaδātąm. aṣ̌aōnīm. yazamaide. 
+                </ab>
+            </div>
+            <div xml:id="ShnumanAcc6" type="ShnumanAcc"> <!-- Khordād -->
+        <ab xml:id="ShnumanAcc6a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide. </ab>
+                <ab xml:id="ShnumanAcc6.b">hauruuatātəm. aməṣ̌əm. spəṇtəm. yazamaide. yāiriiąm. hušitīm. yazamaide. sarəδa. aṣ̌auuana. aṣ̌ahe. ratauuō. yazamaide. 
+                </ab>
+            </div>
+            <div xml:id="ShnumanAcc7" type="ShnumanAcc"> <!-- Amurdād -->
+        <ab xml:id="ShnumanAcc7a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                <ab xml:id="ShnumanAcc7.b">amərətatātəm. aməṣ̌əm. spəṇtəm. yazamaide. fšaōnīm. vąϑβąm. yazamaide. aspināca. yəuuīnō. yazamaide. 
+                gaōkərənəm. sūrəm. mazdaδātəm. yazamaide. </ab>
+            </div>
+            <div xml:id="ShnumanAcc8" type="ShnumanAcc"> <!-- Dae-pa-ādar -->
+        <ab xml:id="ShnumanAcc8.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab>
+                <include href="/db/apps/cab_db/cab_rituals/blocks/RatuShnumanAcc" xpointer="RatuShnumanAcc2"/> <!-- Possible all -->
+            </div>
+                <div xml:id="ShnumanAcc9" type="ShnumanAcc"> <!-- Ādar -->
+        <ab xml:id="ShnumanAcc9.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc9.b">ātrəm. ahurahe. mazdā̊. puϑrəm. yazamaide. xᵛarənō. mazdaδātəm. yazamaide. sauuō. mazdaδātəm. yazamaide. 
+                airiianəm. xᵛarənō. mazdaδātəm. yazamaide. uγrəm. kauuaēm. xᵛarənō. mazdaδātəm. yazamaide. ātrəm. ahurahe. mazdā̊. puϑrəm. yazamaide. 
+                kauuaēm. haōsrauuaŋhəm. yazamaide. vairīm. haōsrauuaŋhəm. yazamaide. asnuuaṇtəm. gairīm. mazdaδātəm. yazamaide. 
+                caēcastəm. vairīm. mazdaδātəm. yazamaide. uγrəm. kauuaēm. xᵛarənō. mazdaδātəm. yazamaide. ātrəm. ahurahe. mazdā̊. puϑrəm. yazamaide. 
+                raēuuaṇtəm. gairīm. mazdaδātəm. yazamaide. uγrəm. kauuaēm. xᵛarənō. mazdaδātəm. yazamaide. ātrəm. ahurahe. mazdā̊. puϑrəm. yazamaide. 
+                ātarš. spəṇta. raϑaēštāra. yazamaide. yazata. pouru.xᵛarənaŋha. yazamaide. yazata. pouru.baēšaza. yazamaide. ātrəm. ahurahe. mazdā̊. puϑrəm. yazamaide. 
+                vīspe. ātarō. yazamaide. xšaϑrəm. nafəδrəm. nairiiō.saŋhəm. yazatəm. yazamaide. </ab>
+            </div>
+                <div xml:id="ShnumanAcc10" type="ShnumanAcc"> <!-- Ābān -->
+        <ab xml:id="ShnumanAcc10.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc10.b">āpō. vaŋᵛhīš. mazdaδātō. aṣ̌aōnīš. yazamaide. arəduuīm. sūrąm. anāhitąm. aṣ̌aōnīm. yazamaide. vīspā̊. āpō. mazdaδātā̊. aṣ̌aōnīš. yazamaide. 
+                vīspā̊. uruuarā̊. mazdaδātā̊. aṣ̌aōnīš. yazamaide. </ab>
+            </div>
+                <div xml:id="ShnumanAcc11" type="ShnumanAcc"> <!-- Xwaršēd -->
+        <ab xml:id="ShnumanAcc11.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc11.b">huuarəxšaētəm. aməṣ̌əm. raēm. auruuat̰.aspəm. yazamaide. </ab>
+            </div>
+                <div xml:id="ShnumanAcc12" type="ShnumanAcc"> <!-- Māh -->
+        <ab xml:id="ShnumanAcc12.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc12.b">mā̊ŋhəm. gaōciϑrəm. yazamaide. gaōm. aēuuō.dātahe. urunō. frauuaṣ̌īm. yazamaide. gaōm. pouru.sarəδahe. urunō. frauuaṣ̌īm. yazamaide. 
+                </ab>
+            </div>
+                <div xml:id="ShnumanAcc13" type="ShnumanAcc"> <!-- Tīr -->
+        <ab xml:id="ShnumanAcc13.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc13.b">tištrīm. stārəm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. satauuaēsəm. frāpəm. sūrəm. mazdaδātəm. yazamaide. 
+                vīspe. stārō. afšciϑra. yazamaide. vīspe. stārō. zəmasciϑra. yazamaide. vīspe. stārō. uruuarō.ciϑra. yazamaide. 
+                vanaṇtəm. stārō. mazdaδātəm. yazamaide. aōe. strə̄uš. yazamaide. yōi. hapta. haptōiriṇga. mazdaδāta. xᵛarənaŋᵛhaṇta. baēšaziia. 
+                paitištātə̄e. yāϑβąm. pairikanąmca. </ab>
+            </div>
+                <div xml:id="ShnumanAcc14" type="ShnumanAcc"> <!-- Goš -->
+        <ab xml:id="ShnumanAcc14.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc14.b">gə̄uš. huδā̊ŋhō. uruuānəm. yazamaide. druuāspąm. sūrąm. mazdaδātąm. aṣ̌aōnīm. yazamaide. </ab>
+            </div>
+                <div xml:id="ShnumanAcc15" type="ShnumanAcc"> <!-- Dae-pa-mihr -->
+        <ab xml:id="ShnumanAcc15.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab>
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/RatuShnumanAcc" xpointer="RatuShnumanAcc2"/> <!-- Possible all -->
+                    <ab xml:id="ShnumanAcc15.b">daδuuā̊ŋhəm. ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. 
+                        aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> <ab xml:id="ShnumanAcc15.c">vīspəmca. aṣ̌auuanəm. maińiiaōm. yazatəm. yazamaide. vīspəmca. aṣ̌auuanəm. gaēϑīm. yazatəm. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc15.c">aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spə̄ntā̊. frauuaṣ̌aiiō.</ab>
+            </div>
+                <div xml:id="ShnumanAcc16" type="ShnumanAcc"> <!-- Mihr Standard -->
+        <ab xml:id="ShnumanAcc16.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc16.b">miϑrəm. vouru.gaōiiaōitīm. hazaŋhra.gaōšəm. baēuuarə.cašmanəm. aōxtō.nāmanəm. yazatəm. yazamaide. 
+                rāma. xᵛāstrəm. yazamaide. </ab>
+            </div>
+                <div xml:id="ShnumanAcc17" type="ShnumanAcc"> <!-- Bāj Mihrgān Indian -->
+        <ab xml:id="ShnumanAcc17.a">
+                miϑrəm. vouru.gaōiiaōitīm. hazaŋhra.gaōšəm. baēuuarə.cašmanəm. aōxtō.nāmanəm. yazatəm. yazamaide. 
+                rāma. xᵛāstrəm. yazamaide. rašnūm. razištəm. yazamaide. arštātəmca. frādat̰.gaēϑąm. varədat̰.gaēϑąm. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc17.b">vīspəmca. aṣ̌auuanəm. maińiiaōm. yazatəm. yazamaide. vīspəmca. aṣ̌auuanəm. gaēϑīm. yazatəm. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc17.c">aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spə̄ntā̊. frauuaṣ̌aiiō.</ab>
+            </div>
+                <div xml:id="ShnumanAcc18" type="ShnumanAcc"> <!-- Mihrgān Persian Rivayat -->
+        <ab xml:id="ShnumanAcc18.a">
+                miϑrəm. vouru.gaōiiaōitīm. hazaŋhra.gaōšəm. baēuuarə.cašmanəm. aōxtō.nāmanəm. yazatəm. yazamaide. 
+                rāma. xᵛāstrəm. yazamaide. rašnūm. razištəm. yazamaide. arštātəmca. frādat̰.gaēϑąm. varədat̰.gaēϑąm. yazamaide. 
+                ərəžux́δəm. vācim. yat̰. frādat̰.gaēϑəm. yazamaide.</ab> <ab xml:id="ShnumanAcc18.b">vīspəmca. aṣ̌auuanəm. maińiiaōm. yazatəm. yazamaide. 
+                    vīspəmca. aṣ̌auuanəm. gaēϑīm. yazatəm. yazamaide.</ab> <ab xml:id="ShnumanAcc18.c">aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spə̄ntā̊. frauuaṣ̌aiiō.</ab>
+            </div>
+                <div xml:id="ShnumanAcc19" type="ShnumanAcc"> <!-- Srōš -->
+        <ab xml:id="ShnumanAcc19a">
+                sraōšəm. aṣ̌īm. huraōδəm. vərəϑrājanəm. frādat̰.gaēϑəm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+            </div>
+                <div xml:id="ShnumanAcc20" type="ShnumanAcc"> <!-- Rašn -->
+        <ab xml:id="ShnumanAcc20a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide. 
+                rašnūm. razištəm. yazamaide. arštātəmca. frādat̰.gaēϑąm. varədat̰.gaēϑąm. yazamaide. ərəžux́δəm. vācim. yat̰. frādat̰.gaēϑəm. yazamaide. 
+                </ab>
+            </div>
+                <div xml:id="ShnumanAcc21" type="ShnumanAcc"> <!-- Frawardēn -->
+        <ab xml:id="ShnumanAcc21.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide. 
+                aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spə̄ntā̊. frauuaṣ̌aiiō.</ab>
+                </div>
+    <div xml:id="ShnumanAcc21_Frawardigan" type="ShnumanAcc"> <!-- Frawardēn -->
+        <ab xml:id="ShnumanAcc21.a">ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.
+            aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spə̄ntā̊. frauuaṣ̌aiiō.
+        </ab>
+    </div>
+                <div xml:id="ShnumanAcc22" type="ShnumanAcc"> <!-- Wahrām -->
+        <ab xml:id="ShnumanAcc22.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc22.b">aməm. hutaštəm. huraōδəm. yazamaide. vərəϑraγnəm. ahuraδātəm. yazamaide. vanaiṇtīmca. uparatātəm. yazamaide. 
+                </ab>
+            </div>
+                <div xml:id="ShnumanAcc23" type="ShnumanAcc"> <!-- Rām -->
+        <ab xml:id="ShnumanAcc23.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide. </ab>
+                    <ab xml:id="ShnumanAcc23.b">rāma. xᵛāstrəm. yazamaide. vaēm. aṣ̌auuanəm. yazamaide. vaēm. uparō.kairīm. yazamaide. 
+                taraδātəm. ańiiāiš. dāmąn. aētat̰. tē. vaiiō. yazamaide. yat̰. tē. asti. spəṇtō.maińiiaōm. ϑβāṣ̌əm. xᵛaδātəm. yazamaide. 
+                zruuānəm. akaranəm. yazamaide. zruuānəm. darəγō.xᵛaδātəm. yazamaide. </ab>
+            </div>
+                <div xml:id="ShnumanAcc24" type="ShnumanAcc"> <!-- Wād -->
+        <ab xml:id="ShnumanAcc24.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc24.b">vātəm. spəṇtəm. huδā̊ŋhəm. yazamaide. aδarəm. yazamaide. uparəm. yazamaide. fratarəm. yazamaide. pascąiϑīm. yazamaide. 
+                nairiiąm. hąm.varəitīm. yazamaide. </ab>
+            </div>
+                <div xml:id="ShnumanAcc25" type="ShnumanAcc"> <!-- Dae-pa-dēn -->
+        <ab xml:id="ShnumanAcc25.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab>
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/RatuShnumanAcc" xpointer="RatuShnumanAcc2"/> <!-- Possible all -->
+                    <ab xml:id="ShnumanAcc25.b">daδuuā̊ŋhəm. ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. 
+                        aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc25.c">vīspəmca. aṣ̌auuanəm. maińiiaōm. yazatəm. yazamaide. vīspəmca. aṣ̌auuanəm. gaēϑīm. yazatəm. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc25.d">aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spə̄ntā̊. frauuaṣ̌aiiō.</ab>
+            </div>
+                <div xml:id="ShnumanAcc26" type="ShnumanAcc"> <!-- Dēn -->
+        <ab xml:id="ShnumanAcc26.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide. </ab>
+                    <ab xml:id="ShnumanAcc26.b">razištąm. cistąm. mazdaδātąm. aṣ̌aōnīm. yazamaide. daēnąm. vaŋᵛhīm. māzdaiiasnīm. yazamaide.</ab>
+            </div>
+                <div xml:id="ShnumanAcc27" type="ShnumanAcc"> <!-- Ard -->
+        <ab xml:id="ShnumanAcc27.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc27.b">aṣ̌īm. vaŋᵛhīm. yazamaide. xšōiϑnīm. bərəzaitīm. amauuaitīm. huraōδąm. xᵛāparąm. xᵛarənō. mazdaδātəm. yazamaide. 
+                sauuō. mazdaδātəm. yazamaide. pārəṇdīm. raōraϑąm. yazamaide. airiianəm. xᵛarənō. mazdaδātəm. yazamaide. 
+                uγrəm. kauuaēm. xᵛarənō. mazdaδātəm. yazamaide. uγrəm. axᵛarətəm. xᵛarənō. mazdaδātəm. yazamaide. 
+                zaraϑuštrahe. xᵛarənō. mazdaδātəm. yazamaide. </ab>
+            </div>
+                <div xml:id="ShnumanAcc28" type="ShnumanAcc"> <!-- Āštād -->
+        <ab xml:id="ShnumanAcc28.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc28.b">arštātəm. frādat̰.gaēϑəm. yazamaide. gairīm. uši.darənəm. mazdaδātəm. aṣ̌a.xᵛāϑrəm. yazatəm. yazamaide. 
+                </ab>
+            </div>
+                <div xml:id="ShnumanAcc29" type="ShnumanAcc"> <!-- Āsmān -->
+        <ab xml:id="ShnumanAcc29.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab>
+                    <ab xml:id="ShnumanAcc29.b">asmanəm. xᵛanuuaṇtəm. yazamaide. vahištəm. ahūm. aṣ̌aōnąm. yazamaide. 
+                raōcaŋhəm. vīspō.xᵛāϑrəm. </ab>
+            </div>
+                <div xml:id="ShnumanAcc30" type="ShnumanAcc"> <!-- Zam -->
+        <ab xml:id="ShnumanAcc30.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc30.b">ząm. huδā̊ŋhəm. yazatəm. yazamaide. imā̊. asā̊. imā̊. šoiϑrā̊. yazamaide. 
+                gairīm. uši.darənəm. mazdaδātəm. aṣ̌a.xᵛāϑrəm. yazatəm. yazamaide. 
+                vīspā̊. garaiiō. aṣ̌a.xᵛāϑrā̊. pouru.xᵛāϑrā̊. mazdaδāta. aṣ̌auuana. aṣ̌ahe. ratauuō. yazamaide. 
+                uγrəm. kauuaēm. xᵛarənō. mazdaδātəm. yazamaide. uγrəm. axᵛarətəm. xᵛarənō. mazdaδātəm. yazamaide. 
+                </ab>
+            </div>
+                <div xml:id="ShnumanAcc31" type="ShnumanAcc"> <!-- Māraspand -->
+        <ab xml:id="ShnumanAcc31.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc31.b">mąϑrəm. spəṇtəm. aš.xᵛarənaŋhəm. yazamaide. dātəm. vīdōiium. yazamaide. dātəm. zaraϑuštri. yazamaide. 
+                darəγąm. upaiianąm. yazamaide. daēnąm. vaŋᵛhīm. māzdaiiasnīm. yazamaide. zrazdāitīm. mąϑrəm. spəṇtəm. yazamaide. 
+                uši.darəϑrəm. daēnąm. māzdaiiasnīm. yazamaide. vaēδīm. mąϑrəm. spəṇtəm. yazamaide. āsnəm. xratūm. mazdaδātəm. yazamaide. 
+                gaōšō.srūtəm. xratūm. mazdaδātəm. yazamaide. </ab>
+            </div>
+                <div xml:id="ShnumanAcc32" type="ShnumanAcc"> <!-- Anērān -->
+        <ab xml:id="ShnumanAcc32.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide. </ab>
+                    <ab xml:id="ShnumanAcc32.b">anaγra. raōcā̊. xᵛaδātā̊. yazamaide. raōxšnəm. garō. nmānəm. yazamaide. misuuānəm. gātūm. xᵛaδātəm. yazamaide. 
+                cinuuat̰.pərətūm. mazdaδātąm. aṣ̌aōnīm. yazamaide. </ab>
+            </div>
+                <div xml:id="ShnumanAcc33" type="ShnumanAcc"> <!-- Burz -->
+        <ab xml:id="ShnumanAcc33.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc33.b">bərəzaṇtəm. ahurəm. xšaϑrīm. xšaētəm. apąm. napātəm. auruuat̰.aspəm. yazamaide. apəmca. mazdaδātąm. aṣ̌aōnīm. yazamaide. 
+                </ab>
+            </div>
+                <div xml:id="ShnumanAcc34" type="ShnumanAcc"> <!-- Hōm -->
+        <ab xml:id="ShnumanAcc34.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc34.b">haōməm. zāirīm. bərəzaṇtəm. yazamaide. haōməm. frāšmīm. frādat̰.gaēϑəm. yazamaide. haōməm. dūraōšəm. yazamaide. 
+                </ab>
+            </div>
+                <div xml:id="ShnumanAcc35" type="ShnumanAcc"> <!-- Dahm -->
+        <ab xml:id="ShnumanAcc35.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc35.b">dahmąm. vaŋᵛhīm. āfritīm. yazamaide. uγrəm. taxməm. dāmōiš. upamanəm. yazatəm. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc35.c">vīspəmca. aṣ̌auuanəm. maińiiaōm. yazatəm. yazamaide. vīspəmca. aṣ̌auuanəm. gaēϑīm. yazatəm. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc35.d">aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spə̄ntā̊. frauuaṣ̌aiiō.</ab>
+            </div>
+                <div xml:id="ShnumanAcc36" type="ShnumanAcc"> <!-- Vanant -->
+        <ab xml:id="ShnumanAcc36.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc36.b">vanaṇtəm. stārō. mazdaδātəm. yazamaide. </ab>
+            </div>
+                <div xml:id="ShnumanAcc37" type="ShnumanAcc"> <!-- Nairyosangh -->
+        <ab xml:id="ShnumanAcc37.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab>
+                    <ab xml:id="ShnumanAcc37.b">xšaϑrəm. nafəδrəm. nairiiō.saŋhəm. yazatəm. yazamaide.  </ab>
+            </div>
+                <div xml:id="ShnumanAcc38" type="ShnumanAcc"> <!-- Haptoiring -->
+        <ab xml:id="ShnumanAcc38.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc38.b">aōe. strə̄uš. yazamaide. yōi. hapta. haptōiriṇga. mazdaδāta. xᵛarənaŋᵛhaṇta. baēšaziia. 
+                paitištātə̄e. yāϑβąm. pairikanąmca. </ab>
+            </div>
+                <div xml:id="ShnumanAcc39" type="ShnumanAcc"> <!-- Rapiϑβin -->
+        <ab xml:id="ShnumanAcc39.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc39.b">aṣ̌əm. vahištəm. ātrəmca. ahurahe. mazdā̊. puϑrəm. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc39.c">vīspəmca. aṣ̌auuanəm. maińiiaōm. yazatəm. yazamaide. 
+                vīspəmca. aṣ̌auuanəm. gaēϑīm. yazatəm. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc39.d">aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spə̄ntā̊. frauuaṣ̌aiiō.</ab>
+            </div>
+                <div xml:id="ShnumanAcc40" type="ShnumanAcc"> <!-- Gāthā -->
+        <ab xml:id="ShnumanAcc40.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc40.b">gāϑā̊. spəṇtā̊. ratuxšaϑrā̊. aṣ̌aōnīš. yazamaide. ahunauuaitīm. gāϑąm. aṣ̌aōnīm. aṣ̌ahe. ratūm. yazamaide. 
+                uštauuaitīm. gāϑąm. aṣ̌aōnīm. aṣ̌ahe. ratūm. yazamaide. spəṇtā.maińiiūm. gāϑąm. aṣ̌aōnīm. aṣ̌ahe. ratūm. yazamaide. 
+                vohuxšaϑrąm. gāϑąm. aṣ̌aōnīm. aṣ̌ahe. ratūm. yazamaide. vahištōištīm. gāϑąm. aṣ̌aōnīm. aṣ̌ahe. ratūm. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc40.c">aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spə̄ntā̊. frauuaṣ̌aiiō.
+                </ab>
+            </div>
+                <div xml:id="ShnumanAcc41" type="ShnumanAcc"> <!-- Gāthās Panj-tāe -->
+        <ab xml:id="ShnumanAcc41.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc41.b">gāϑā̊. spəṇtā̊. ratuxšaϑrā̊. aṣ̌aōnīš. yazamaide. ahunauuaitīm. gāϑąm. aṣ̌aōnīm. aṣ̌ahe. ratūm. yazamaide. 
+                uštauuaitīm. gāϑąm. aṣ̌aōnīm. aṣ̌ahe. ratūm. yazamaide. spəṇtā.maińiiūm. gāϑąm. aṣ̌aōnīm. aṣ̌ahe. ratūm. yazamaide. 
+                vohuxšaϑrąm. gāϑąm. aṣ̌aōnīm. aṣ̌ahe. ratūm. yazamaide. vahištōištīm. gāϑąm. aṣ̌aōnīm. aṣ̌ahe. ratūm. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc41.c">vīspəmca. aṣ̌auuanəm. maińiiaōm. yazatəm. yazamaide. vīspəmca. aṣ̌auuanəm. gaēϑīm. yazatəm. yazamaide.</ab>
+                    <ab xml:id="ShnumanAcc41.d">aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spə̄ntā̊. frauuaṣ̌aiiō.</ab>
+            </div>
+                <div xml:id="ShnumanAcc42" type="ShnumanAcc"> <!-- Gāhānbār -->
+        <ab xml:id="ShnumanAcc42.a">
+                ratauuō. vīspe. mazišta. yazamaide. aiiara. asńiia. māhiia. yāiriia. sarəδa.</ab>
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/RatuShnumanAcc" xpointer="RatuAcc2" on_line="in1lineblock"/> <ab xml:id="ShnumanAcc42b" on_line="in1line">yazamaide.</ab>
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/GahanbarAcc.xml" xpointer="GahanbarAcc1" on_line="in1lineblock"/> <ab xml:id="ShnumanAcc42c" on_line="in1line">yazamaide.</ab>
+            </div>
+                    <div xml:id="ShnumanAcc43" type="ShnumanAcc"> <!-- Panth -->
+        <ab xml:id="ShnumanAcc43.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                        <ab xml:id="ShnumanAcc43.b">aməm. hutaštəm. huraōδəm. yazamaide. vərəϑraγnəm. ahuraδātəm. yazamaide. vanaiṇtīmca. uparatātəm. yazamaide. 
+                paϑąm. xᵛāstąitīm. yazamaide. zarənumaṇtəm. sūrəm. yazamaide. saōkaṇtəm. gairīm. mazdaδātəm. yazamaide.</ab>
+                        <ab xml:id="ShnumanAcc43.c">vīspəmca. aṣ̌auuanəm. maińiiaōm. yazatəm. yazamaide. vīspəmca. aṣ̌auuanəm. gaēϑīm. yazatəm. yazamaide.</ab> 
+                        <ab xml:id="ShnumanAcc43.d">aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spə̄ntā̊. frauuaṣ̌aiiō.</ab>
+            </div>
+                    <div xml:id="ShnumanAcc44" type="ShnumanAcc"> <!-- Hamkār rōz Ohrmazd, Dae-pa-ādar, Dae-pa-mehr, Dae-pa-dēn -->
+        <ab xml:id="ShnumanAcc44.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab>
+                        <ab xml:id="ShnumanAcc44.b">daδuuā̊ŋhəm. ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide. </ab>
+                        <ab xml:id="ShnumanAcc44.c">daδuuā̊ŋhəm. ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                        <ab xml:id="ShnumanAcc44.d">daδuuā̊ŋhəm. ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                        <ab xml:id="ShnumanAcc44.e">vīspəmca. aṣ̌auuanəm. maińiiaōm. yazatəm. yazamaide. vīspəmca. aṣ̌auuanəm. gaēϑīm. yazatəm. yazamaide.</ab> 
+                        <ab xml:id="ShnumanAcc44.f">aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spə̄ntā̊. frauuaṣ̌aiiō.</ab>
+            </div>
+                    <div xml:id="ShnumanAcc45" type="ShnumanAcc"> <!-- Hamkār rōz Wahman, Māh, Goš, Rām -->
+        <ab xml:id="ShnumanAcc45.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                        <ab xml:id="ShnumanAcc45.b">vohu. manō. aməṣ̌əm. spəṇtəm. yazamaide. āxštīm. hąm.vaiṇtīm. yazamaide. taraδātəm. ańiiāiš. dāmąn. āsnəm. xratūm. mazdaδātəm. yazamaide. 
+                            gaōšō.srūtəm. xratūm. mazdaδātəm. yazamaide.</ab> <ab xml:id="ShnumanAcc45.c">mā̊ŋhəm. gaōciϑrəm. yazamaide. gaōm. aēuuō.dātahe. urunō. frauuaṣ̌īm. yazamaide. 
+                gaōm. pouru.sarəδahe. urunō. frauuaṣ̌īm. yazamaide.</ab> 
+                        <ab xml:id="ShnumanAcc45.d">gə̄uš. huδā̊ŋhō. uruuānəm. yazamaide. 
+                druuāspąm. sūrąm. mazdaδātąm. aṣ̌aōnīm. yazamaide.</ab> 
+                        <ab xml:id="ShnumanAcc45.e">rāma. xᵛāstrəm. yazamaide. vaēm. aṣ̌auuanəm. yazamaide. 
+                vaēm. uparō.kairīm. yazamaide. taraδātəm. ańiiāiš. dāmąn. aētat̰. tē. vaiiō. yazamaide. yat̰. tē. asti. spəṇtō.maińiiaōm. ϑβāṣ̌əm. xᵛaδātəm. yazamaide. 
+                zruuānəm. akaranəm. yazamaide. zruuānəm. darəγō.xᵛaδātəm. yazamaide.</ab> 
+                        <ab xml:id="ShnumanAcc45.f">vīspəmca. aṣ̌auuanəm. maińiiaōm. yazatəm. yazamaide. 
+                vīspəmca. aṣ̌auuanəm. gaēϑīm. yazatəm.</ab> 
+                        <ab xml:id="ShnumanAcc45.g">yazamaide. aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spə̄ntā̊. frauuaṣ̌aiiō.</ab>
+            </div>
+                    <div xml:id="ShnumanAcc46" type="ShnumanAcc"> <!-- Hamkār rōz Ardwahišt, Ādar, Srōš, Wahrān -->
+        <ab xml:id="ShnumanAcc46.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab>
+                        <ab xml:id="ShnumanAcc46.b">aṣ̌əm. vahištəm. sraēštəm. aməṣ̌əm. spəṇtəm. yazamaide. airiiamanəm. išīm. yazamaide. sūrəm. mazdaδātəm. yazamaide. 
+                saōkąm. vaŋᵛhīm. vouru.dōiϑrąm. mazdaδātąm. aṣ̌aōnīm. yazamaide. ātrəm. ahurahe. mazdā̊. puϑrəm. yazamaide. 
+                xᵛarənō. mazdaδātəm. yazamaide. sauuō. mazdaδātəm. yazamaide. airiianəm. xᵛarənō. mazdaδātəm. yazamaide. 
+                uγrəm. kauuaēm. xᵛarənō. mazdaδātəm. yazamaide. ātrəm. ahurahe. mazdā̊. puϑrəm. yazamaide. 
+                kauuaēm. haōsrauuaŋhəm. yazamaide. vairīm. haōsrauuaŋhəm. yazamaide. asnuuaṇtəm. gairīm. mazdaδātəm. yazamaide.
+                caēcastəm. vairīm. mazdaδātəm. yazamaide. uγrəm. kauuaēm. xᵛarənō. mazdaδātəm. yazamaide. ātrəm. ahurahe. mazdā̊. puϑrəm. yazamaide. 
+                raēuuaṇtəm. gairīm. mazdaδātəm. yazamaide. uγrəm. kauuaēm. xᵛarənō. mazdaδātəm. yazamaide. ātrəm. ahurahe. mazdā̊. puϑrəm. yazamaide. 
+                ātarš. spəṇta. raϑaēštāra. yazamaide. yazata. pouru.xᵛarənaŋha. yazamaide. yazata. pouru.baēšaza. yazamaide. 
+                ātrəm. ahurahe. mazdā̊. puϑrəm. yazamaide. vīspe. ātarō. yazamaide. xšaϑrəm. nafəδrəm. nairiiō.saŋhəm. yazatəm. yazamaide.</ab>
+                        <ab xml:id="ShnumanAcc46.c">sraōšəm. aṣ̌īm. huraōδəm. vərəϑrājanəm. frādat̰.gaēϑəm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide. aməm. hutaštəm. huraōδəm. yazamaide.</ab>
+                        <ab xml:id="ShnumanAcc46.d">vərəϑraγnəm. ahuraδātəm. yazamaide. vanaiṇtīmca. uparatātəm. yazamaide.</ab> 
+                        <ab xml:id="ShnumanAcc46.e">vīspəmca. aṣ̌auuanəm. maińiiaōm. yazatəm. yazamaide. 
+                vīspəmca. aṣ̌auuanəm. gaēϑīm. yazatəm. yazamaide.</ab> 
+                        <ab xml:id="ShnumanAcc46.f">aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spə̄ntā̊. frauuaṣ̌aiiō.</ab>
+            </div>
+                    <div xml:id="ShnumanAcc47" type="ShnumanAcc"> <!-- Hamkār rōz Šahrewar, Xvaršēd, Mihr, Āsman, Anērān -->
+        <ab xml:id="ShnumanAcc47.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                        <ab xml:id="ShnumanAcc47.b">xšaϑrəm. vairīm. aməṣ̌əm. spəṇtəm. yazamaide. aiiōxšustəm. yazamaide. marždikəm. ϑrāiiō.driγūm. yazamaide.</ab> 
+                        <ab xml:id="ShnumanAcc47.c">huuarəxšaētəm. aməṣ̌əm. raēm. auruuat̰.aspəm. yazamaide.</ab> 
+                        <ab xml:id="ShnumanAcc47.d">miϑrəm. vouru.gaōiiaōitīm. hazaŋhra.gaōšəm. baēuuarə.cašmanəm. aōxtō.nāmanəm. yazatəm. yazamaide. rāma. xᵛāstrəm. yazamaide.</ab> 
+                        <ab xml:id="ShnumanAcc47.e">asmanəm. xᵛanuuaṇtəm. yazamaide. vahištəm. ahūm. aṣ̌aōnąm. yazamaide. raōcaŋhəm. vīspō.xᵛāϑrəm.</ab> 
+                        <ab xml:id="ShnumanAcc47.f">anaγra. raōcā̊. xᵛaδātā̊. yazamaide. 
+                raōxšnəm. garō. nmānəm. yazamaide. misuuānəm. gātūm. xᵛaδātəm. yazamaide. 
+                cinuuat̰.pərətūm. mazdaδātąm.</ab> 
+                        <ab xml:id="ShnumanAcc47.g">vīspəmca. aṣ̌auuanəm. maińiiaōm. yazatəm. yazamaide. 
+                vīspəmca. aṣ̌auuanəm. gaēϑīm. yazatəm. yazamaide.</ab> 
+                        <ab xml:id="ShnumanAcc47.h">aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spə̄ntā̊. frauuaṣ̌aiiō.</ab>
+            </div>
+                    <div xml:id="ShnumanAcc48" type="ShnumanAcc"> <!-- Hamkār rōz Spandarmad, Ābān, Dēn, Ard, Mahraspand -->
+        <ab xml:id="ShnumanAcc48.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                        <ab xml:id="ShnumanAcc48.b">spəṇtąm. vaŋᵛhīm. ārmaitīm. yazamaide. rātąm. vaŋᵛhīm. vouru.dōiϑrąm. mazdaδātąm. aṣ̌aōnīm. yazamaide.</ab> 
+                        <ab xml:id="ShnumanAcc48.c">āpō. vaŋᵛhīš. mazdaδātō. aṣ̌aōnīš. yazamaide. arəduuīm. sūrąm. anāhitąm. aṣ̌aōnīm. yazamaide. 
+                vīspā̊. āpō. mazdaδātā̊. aṣ̌aōnīš. yazamaide. vīspā̊. uruuarā̊. mazdaδātā̊. aṣ̌aōnīš. yazamaide.</ab> 
+                        <ab xml:id="ShnumanAcc48.d">razištąm. cistąm. mazdaδātąm. aṣ̌aōnīm. yazamaide.  
+                daēnąm. vaŋᵛhīm. māzdaiiasnīm. yazamaide. aṣ̌īm. vaŋᵛhīm. yazamaide.
+                xšōiϑnīm. bərəzaitīm. amauuaitīm. huraōδąm. xᵛāparąm. xᵛarənō. mazdaδātəm. yazamaide. 
+                sauuō. mazdaδātəm. yazamaide. pārəṇdīm. raōraϑąm. yazamaide. airiianəm. xᵛarənō. mazdaδātəm. yazamaide. 
+                uγrəm. kauuaēm. xᵛarənō. mazdaδātəm. yazamaide. uγrəm. axᵛarətəm. xᵛarənō. mazdaδātəm. yazamaide. 
+                zaraϑuštrahe. xᵛarənō. mazdaδātəm. yazamaide.</ab> 
+                        <ab xml:id="ShnumanAcc48.e">mąϑrəm. spəṇtəm. aš.xᵛarənaŋhəm. yazamaide. dātəm. vīdōiium. yazamaide. 
+                dātəm. zaraϑuštri. yazamaide. darəγąm. upaiianąm. yazamaide. daēnąm. vaŋᵛhīm. māzdaiiasnīm. yazamaide. 
+                zrazdāitīm. mąϑrəm. spəṇtəm. yazamaide. uši.darəϑrəm. daēnąm. māzdaiiasnīm. yazamaide. 
+                vaēδīm. mąϑrəm. spəṇtəm. yazamaide. āsnəm. xratūm. mazdaδātəm. yazamaide. gaōšō.srūtəm. xratūm. mazdaδātəm. yazamaide. 
+                vīspəmca. aṣ̌auuanəm. maińiiaōm. yazatəm. yazamaide.</ab>
+                        <ab xml:id="ShnumanAcc48.f">vīspəmca. aṣ̌auuanəm. gaēϑīm. yazatəm. yazamaide.</ab> 
+                        <ab xml:id="ShnumanAcc48.g">aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spə̄ntā̊. frauuaṣ̌aiiō.</ab>
+            </div>
+                    <div xml:id="ShnumanAcc49" type="ShnumanAcc"> <!-- Hamkār rōz Xordād, Tīr, Frawardēn, Vād -->
+        <ab xml:id="ShnumanAcc49.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                        <ab xml:id="ShnumanAcc49.b">hauruuatātəm. aməṣ̌əm. spəṇtəm. yazamaide. yāiriiąm. hušitīm. yazamaide. sarəδa. aṣ̌auuana. aṣ̌ahe. ratauuō. yazamaide.</ab>
+                        <ab xml:id="ShnumanAcc49.c">tištrīm. stārəm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. satauuaēsəm. frāpəm. sūrəm. mazdaδātəm. yazamaide. 
+                vīspe. stārō. afšciϑra. yazamaide. vīspe. stārō. zəmasciϑra. yazamaide. vīspe. stārō. uruuarō.ciϑra. yazamaide. 
+                vanaṇtəm. stārō. mazdaδātəm. yazamaide. aōe. strə̄uš. yazamaide. yōi. hapta. haptōiriṇga. mazdaδāta. xᵛarənaŋᵛhaṇta. baēšaziia. 
+                paitištātə̄e. yāϑβąm. pairikanąmca.</ab> 
+                        <ab xml:id="ShnumanAcc49.d">aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spə̄ntā̊. frauuaṣ̌aiiō. yazamaide.</ab> 
+                        <ab xml:id="ShnumanAcc49.e">vātəm. spəṇtəm. huδā̊ŋhəm. yazamaide. 
+                aδarəm. yazamaide. uparəm. yazamaide. fratarəm. yazamaide. pascąiϑīm. yazamaide. nairiiąm. hąm.varəitīm. yazamaide.</ab> 
+                        <ab xml:id="ShnumanAcc49.f">vīspəmca. aṣ̌auuanəm. maińiiaōm. yazatəm. yazamaide. vīspəmca. aṣ̌auuanəm. gaēϑīm. yazatəm. yazamaide.</ab> 
+                        <ab xml:id="ShnumanAcc49.g">aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spə̄ntā̊. frauuaṣ̌aiiō.</ab>
+            </div>
+                <div xml:id="ShnumanAcc50" type="ShnumanAcc"> <!-- Hamkār rōz Amurdād, Rašn, Āštād, Zamyād -->
+        <ab xml:id="ShnumanAcc50.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc50.b">amərətatātəm. aməṣ̌əm. spəṇtəm. yazamaide. fšaōnīm. vąϑβąm. yazamaide. aspināca. yəuuīnō. yazamaide. 
+                gaōkərənəm. sūrəm. mazdaδātəm. yazamaide.</ab>
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/RatuShnumanAcc" xpointer="RatuShnumanAcc2"/> <!-- Possible all -->
+                    <ab xml:id="ShnumanAcc50.c">aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spə̄ntā̊. frauuaṣ̌aiiō. yazamaide.</ab>
+    </div>
+                <div xml:id="ShnumanAcc51" type="ShnumanAcc"> <!-- Sīrōzā -->
+        <ab xml:id="ShnumanAcc51.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc51.b">vohu. manō. aməṣ̌əm. spəṇtəm. yazamaide. 
+                āxštīm. hąm.vaiṇtīm. yazamaide. taraδātəm. ańiiāiš. dāmąn. āsnəm. xratūm. mazdaδātəm. yazamaide. 
+                gaōšō.srūtəm. xratūm. mazdaδātəm. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc51.c">aṣ̌əm. vahištəm. sraēštəm. aməṣ̌əm. spəṇtəm. yazamaide. 
+                airiiamanəm. išīm. yazamaide. sūrəm. mazdaδātəm. yazamaide. saōkąm. vaŋᵛhīm. vouru.dōiϑrąm. mazdaδātąm. aṣ̌aōnīm. yazamaide.</ab>
+                    <ab xml:id="ShnumanAcc51.d">xšaϑrəm. vairīm. aməṣ̌əm. spəṇtəm. yazamaide. aiiōxšustəm. yazamaide. marždikəm. ϑrāiiō.driγūm. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc51e">spəṇtąm. vaŋᵛhīm. ārmaitīm. yazamaide. rātąm. vaŋᵛhīm. vouru.dōiϑrąm. mazdaδātąm. aṣ̌aōnīm. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc51.f">hauruuatātəm. aməṣ̌əm. spəṇtəm. yazamaide. yāiriiąm. hušitīm. yazamaide. sarəδa. aṣ̌auuana. aṣ̌ahe. ratauuō. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc51.g">amərətatātəm. aməṣ̌əm. spəṇtəm. yazamaide. fšaōnīm. vąϑβąm. yazamaide. aspināca. yəuuīnō. yazamaide. 
+                gaōkərənəm. sūrəm. mazdaδātəm. yazamaide.</ab>
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/RatuShnumanAcc" xpointer="RatuShnumanAcc2"/> <!-- Possible all --> <ab xml:id="ShnumanAcc51.h">
+                daδuuā̊ŋhəm. ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc51.i">ātrəm. ahurahe. mazdā̊. puϑrəm. yazamaide. xᵛarənō. mazdaδātəm. yazamaide. sauuō. mazdaδātəm. yazamaide. 
+                airiianəm. xᵛarənō. mazdaδātəm. yazamaide. uγrəm. kauuaēm. xᵛarənō. mazdaδātəm. yazamaide. ātrəm. ahurahe. mazdā̊. puϑrəm. yazamaide. 
+                kauuaēm. haōsrauuaŋhəm. yazamaide. vairīm. haōsrauuaŋhəm. yazamaide. asnuuaṇtəm. gairīm. mazdaδātəm. yazamaide. 
+                caēcastəm. vairīm. mazdaδātəm. yazamaide. uγrəm. kauuaēm. xᵛarənō. mazdaδātəm. yazamaide.
+                ātrəm. ahurahe. mazdā̊. puϑrəm. yazamaide. raēuuaṇtəm. gairīm. mazdaδātəm. yazamaide. 
+                uγrəm. kauuaēm. xᵛarənō. mazdaδātəm. yazamaide. ātrəm. ahurahe. mazdā̊. puϑrəm. yazamaide. 
+                ātarš. spəṇta. raϑaēštāra. yazamaide. yazata. pouru.xᵛarənaŋha. yazamaide. yazata. pouru.baēšaza. yazamaide. 
+                ātrəm. ahurahe. mazdā̊. puϑrəm. yazamaide. vīspe. ātarō. yazamaide. xšaϑrəm. nafəδrəm. nairiiō.saŋhəm. yazatəm. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc51.j">āpō. vaŋᵛhīš. mazdaδātō. aṣ̌aōnīš. yazamaide. arəduuīm. sūrąm. anāhitąm. aṣ̌aōnīm. yazamaide. vīspā̊. āpō. mazdaδātā̊. aṣ̌aōnīš. yazamaide. 
+                vīspā̊. uruuarā̊. mazdaδātā̊. aṣ̌aōnīš. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc51.k">huuarəxšaētəm. aməṣ̌əm. raēm. auruuat̰.aspəm. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc51.l">mā̊ŋhəm. gaōciϑrəm. yazamaide. 
+                gaōm. aēuuō.dātahe. urunō. frauuaṣ̌īm. yazamaide. gaōm. pouru.sarəδahe. urunō. frauuaṣ̌īm. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc51.m">tištrīm. stārəm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. 
+                satauuaēsəm. frāpəm. sūrəm. mazdaδātəm. yazamaide. vīspe. stārō. afšciϑra. yazamaide. vīspe. stārō. zəmasciϑra. yazamaide. 
+                vīspe. stārō. uruuarō.ciϑra. yazamaide. vanaṇtəm. stārō. mazdaδātəm. yazamaide. aōe. strə̄uš. yazamaide. 
+                yōi. hapta. haptōiriṇga. mazdaδāta. xᵛarənaŋᵛhaṇta. baēšaziia. paitištātə̄e. yāϑβąm. pairikanąmca.</ab> 
+                    <ab xml:id="ShnumanAcc51.n">gə̄uš. huδā̊ŋhō. uruuānəm. yazamaide. druuāspąm. sūrąm. mazdaδātąm. aṣ̌aōnīm. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc51.o">daδuuā̊ŋhəm. ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. 
+                aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc51.p">miϑrəm. vouru.gaōiiaōitīm. hazaŋhra.gaōšəm. baēuuarə.cašmanəm. aōxtō.nāmanəm. yazatəm. yazamaide. 
+                        rāma. xᵛāstrəm. yazamaide.</ab> <ab xml:id="ShnumanAcc51.q">sraōšəm. aṣ̌īm. huraōδən. vərəϑrājanəm. frādat̰.gaēϑəm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide.</ab>
+                    <ab xml:id="ShnumanAcc51.r">rašnūm. razištəm. yazamaide. arštātəmca. frādat̰.gaēϑąm. varədat̰.gaēϑąm. yazamaide. 
+                ərəžux́δəm. vācim. yat̰. frādat̰.gaēϑəm. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc51.s">aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spəṇtā̊. frauuaṣ̌aiiō. yazamaide.</ab>
+                    <ab xml:id="ShnumanAcc51.t">aməm. hutaštəm. huraōδəm. yazamaide. vərəϑraγnəm. ahuraδātəm. yazamaide. 
+                vanaiṇtīmca. uparatātəm. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc51.u">rāma. xᵛāstrəm. yazamaide. vaēm. aṣ̌auuanəm. yazamaide. vaēm. uparō.kairīm. yazamaide. 
+                taraδātəm. ańiiāiš. dāmąn. aētat̰. tē. vaiiō. yazamaide. yat̰. tē. asti. spəṇtō.maińiiaōm. ϑβāṣ̌əm. xᵛaδātəm. yazamaide. 
+                zruuānəm. akaranəm. yazamaide. zruuānəm. darəγō.xᵛaδātəm. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc51.v">vātəm. spəṇtəm. huδā̊ŋhəm. yazamaide. 
+                aδarəm. yazamaide. uparəm. yazamaide. fratarəm. yazamaide. pascąiϑīm. yazamaide. nairiiąm. hąm.varəitīm. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc51.w">daδuuā̊ŋhəm. ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc51.x">razištąm. cistąm. mazdaδātąm. aṣ̌aōnīm. yazamaide.  daēnąm. vaŋᵛhīm. māzdaiiasnīm. yazamaide. aṣ̌īm. vaŋᵛhīm. yazamaide. 
+                xšōiϑnīm. bərəzaitīm. amauuaitīm. huraōδąm. xᵛāparąm. xᵛarənō. mazdaδātəm. yazamaide. sauuō. mazdaδātəm. yazamaide. 
+                pārəṇdīm. raōraϑąm. yazamaide. airiianəm. xᵛarənō. mazdaδātəm. yazamaide. uγrəm. kauuaēm. xᵛarənō. mazdaδātəm. yazamaide. 
+                uγrəm. axᵛarətəm. xᵛarənō. mazdaδātəm. yazamaide. zaraϑuštrahe. xᵛarənō. mazdaδātəm. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc51.y">arštātəm. frādat̰.gaēϑəm. yazamaide. 
+                gairīm. uši.darənəm. mazdaδātəm. aṣ̌a.xᵛāϑrəm. yazatəm. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc51.z">asmanəm. xᵛanuuaṇtəm. yazamaide. 
+                vahištəm. ahūm. aṣ̌aōnąm. yazamaide. raōcaŋhəm. vīspō.xᵛāϑrəm.</ab> 
+                    <ab xml:id="ShnumanAcc51.aa">ząm. huδā̊ŋhəm. yazatəm. yazamaide. 
+                imā̊. asā̊. imā̊. šoiϑrā̊. yazamaide. gairīm. uši.darənəm. mazdaδātəm. aṣ̌a.xᵛāϑrəm. yazatəm. yazamaide. 
+                vīspā̊. garaiiō. aṣ̌a.xᵛāϑrā̊. pouru.xᵛāϑrā̊. mazdaδāta. aṣ̌auuana. aṣ̌ahe. ratauuō. yazamaide. uγrəm. kauuaēm. xᵛarənō. mazdaδātəm. yazamaide. 
+                uγrəm. axᵛarətəm. xᵛarənō. mazdaδātəm. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc51.ab">mąϑrəm. spəṇtəm. aš.xᵛarənaŋhəm. yazamaide. dātəm. vīdōiium. yazamaide. 
+                dātəm. zaraϑuštri. yazamaide. darəγąm. upaiianąm. yazamaide. daēnąm. vaŋᵛhīm. māzdaiiasnīm. yazamaide. 
+                zrazdāitīm. mąϑrəm. spəṇtəm. yazamaide. uši.darəϑrəm. daēnąm. māzdaiiasnīm. yazamaide. vaēδīm. mąϑrəm. spəṇtəm. yazamaide. 
+                āsnəm. xratūm. mazdaδātəm. yazamaide. gaōšō.srūtəm. xratūm. mazdaδātəm. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc51.ac">anaγra. raōcā̊. xᵛaδātā̊. yazamaide. 
+                raōxšnəm. garō. nmānəm. yazamaide. misuuānəm. gātūm. xᵛaδātəm. yazamaide. cinuuat̰.pərətūm. mazdaδātąm. aṣ̌aōnīm. yazamaide. 
+                bərəzaṇtəm. ahurəm. xšaϑrīm. xšaētəm. apąm. napātəm. auruuat̰.aspəm. yazamaide. apəmca. mazdaδātąm. aṣ̌aōnīm. yazamaide. 
+                haōməm. zāirīm. bərəzaṇtəm. yazamaide. haōməm. frāšmīm. frādat̰.gaēϑəm. yazamaide. haōməm. dūraōšəm. yazamaide. 
+                dahmąm. vaŋᵛhīm. āfritīm. yazamaide. uγrəm. taxməm. dāmōiš. upamanəm. yazatəm. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc51.ad">vīspəmca. aṣ̌auuanəm. maińiiaōm. yazatəm. yazamaide. 
+                vīspəmca. aṣ̌auuanəm. gaēϑīm. yazatəm. yazamaide. </ab>
+            </div>
+            <div xml:id="ShnumanAcc52" type="ShnumanAcc">
+        <ab xml:id="ShnumanAcc52.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                <ab xml:id="ShnumanAcc52.b">vohu. manō. aməṣ̌əm. spəṇtəm. yazamaide. āxštīm. hąm.vaiṇtīm. yazamaide. taraδātəm. ańiiāiš. dāmąn. āsnəm. xratūm. mazdaδātəm. yazamaide. 
+                gaōšō.srūtəm. xratūm. mazdaδātəm. yazamaide. aṣ̌əm.</ab> 
+                <ab xml:id="ShnumanAcc52.c">vahištəm. sraēštəm. aməṣ̌əm. spəṇtəm. yazamaide. 
+                airiiamanəm. išīm. yazamaide. sūrəm. mazdaδātəm. yazamaide. saōkąm. vaŋᵛhīm. vouru.dōiϑrąm. mazdaδātąm. aṣ̌aōnīm. yazamaide.</ab> 
+                <ab xml:id="ShnumanAcc52.d">xšaϑrəm. vairīm. aməṣ̌əm. spəṇtəm. yazamaide. aiiōxšustəm. yazamaide. marždikəm. ϑrāiiō.driγūm. yazamaide.</ab> 
+                <ab xml:id="ShnumanAcc52.e">spəṇtąm. vaŋᵛhīm. ārmaitīm. yazamaide. 
+                rātąm. vaŋᵛhīm. vouru.dōiϑrąm. mazdaδātąm. aṣ̌aōnīm. yazamaide.</ab> 
+                <ab xml:id="ShnumanAcc52.f">hauruuatātəm. aməṣ̌əm. spəṇtəm. yazamaide. yāiriiąm. hušitīm. yazamaide.
+                sarəδa. aṣ̌auuana. aṣ̌ahe. ratauuō. yazamaide.</ab> 
+                <ab xml:id="ShnumanAcc52.g">amərətatātəm. aməṣ̌əm. spəṇtəm. yazamaide. fšaōnīm. vąϑβąm. yazamaide. aspināca. yəuuīnō. yazamaide. 
+                gaōkərənəm. sūrəm. mazdaδātəm. yazamaide.</ab>
+                <include href="/db/apps/cab_db/cab_rituals/blocks/RatuShnumanAcc" xpointer="RatuShnumanAcc2"/> <!-- Possible all -->
+                <ab xml:id="ShnumanAcc52.h">
+                aməm. hutaštəm. huraōδəm. yazamaide. vərəϑraγnəm. ahuraδātəm. yazamaide. vanaiṇtīmca. uparatātəm. yazamaide.</ab> 
+                <ab xml:id="ShnumanAcc52.i">anaγra. raōcā̊. xᵛaδātā̊. yazamaide. raōxšnəm. garō. nmānəm. yazamaide. misuuānəm. gātūm. xᵛaδātəm. yazamaide. 
+                cinuuat̰.pərətūm. mazdaδātąm. aṣ̌aōnīm. yazamaide. bərəzaṇtəm. ahurəm. xšaϑrīm. xšaētəm. apąm. napātəm. auruuat̰.aspəm. yazamaide. 
+                apəmca. mazdaδātąm. aṣ̌aōnīm. yazamaide. haōməm. zāirīm. bərəzaṇtəm. yazamaide. haōməm. frāšmīm. frādat̰.gaēϑəm. yazamaide. 
+                haōməm. dūraōšəm. yazamaide. dahmąm. vaŋᵛhīm. āfritīm. yazamaide. uγrəm. taxməm. dāmōiš. upamanəm. yazatəm. yazamaide.</ab> 
+                <ab xml:id="ShnumanAcc52.j">vīspəmca. aṣ̌auuanəm. maińiiaōm. yazatəm. yazamaide. vīspəmca. aṣ̌auuanəm. gaēϑīm. yazatəm. yazamaide. 
+                </ab>
+            </div>
+                <div xml:id="ShnumanAcc53" type="ShnumanAcc"> <!-- Shahen = Sīrōzā + Srōš + Frawardēn in each part of the Bāj where it goes -->
+        <ab xml:id="Shnuman Acc 53.a"/>
+            </div>
+            <div xml:id="ShnumanAcc54" type="ShnumanAcc"> <!-- Mēnōg Nāvār -->
+        <ab xml:id="ShnumanAcc54.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.  </ab>
+                <include href="/db/apps/cab_db/cab_rituals/blocks/RatuShnumanAcc" xpointer="RatuShnumanAcc2"/>
+                <ab xml:id="ShnumanAcc54.b"> huuarəxšaētəm. aməṣ̌əm. raēm. auruuat̰.aspəm. yazamaide. </ab> 
+                <ab xml:id="ShnumanAcc54.c">vaēm. aṣ̌auuanəm. yazamaide. vaēm. uparō.kairīm. yazamaide.
+                taraδātəm. ańiiāiš. dāmąn. aētat̰. tē. vaiiō. yazamaide. yat̰. tē. asti. spəṇtō.maińiiaōm.</ab> 
+                <ab xml:id="ShnumanAcc54.d">razištąm. cistąm. mazdaδātąm. aṣ̌aōnīm. yazamaide. 
+                    daēnąm. vaŋᵛhīm. māzdaiiasnīm. yazamaide.</ab> 
+                <ab xml:id="ShnumanAcc54.e">mąϑrəm. spəṇtəm. aš.xᵛarənaŋhəm. yazamaide. dātəm. vīdōiium. yazamaide. 
+                dātəm. zaraϑuštri. yazamaide. darəγąm. upaiianąm. yazamaide. daēnąm. vaŋᵛhīm. māzdaiiasnīm. yazamaide. zrazdāitīm. mąϑrəm. spəṇtəm. yazamaide. 
+                uši.darəϑrəm. daēnąm. māzdaiiasnīm. yazamaide. vaēδīm. mąϑrəm. spəṇtəm. yazamaide. āsnəm. xratūm. mazdaδātəm. yazamaide. 
+                gaōšō.srūtəm. xratūm. mazdaδātəm. yazamaide.</ab> 
+                <ab xml:id="ShnumanAcc54.f">ātrəm. ahurahe. mazdā̊. puϑrəm. yazamaide. ϑβąm. ātrəm. ahurahe. mazdā̊. puϑrəm. aṣ̌auuanəm. aṣ̌ahe. ratūm. yazamaide. 
+                vīspe. ātarō. yazamaide.</ab> 
+                <ab xml:id="ShnumanAcc54.g">gairīm. uši.darənəm. mazdaδātəm. aṣ̌a.xᵛāϑrəm. yazatəm. yazamaide.</ab> 
+                <ab xml:id="ShnumanAcc54.h">vīspəmca. aṣ̌auuanəm. maińiiaōm. yazatəm. yazamaide. 
+                vīspəmca. aṣ̌auuanəm. gaēϑīm. yazatəm. yazamaide.</ab> 
+                <ab xml:id="ShnumanAcc54.i">aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spə̄ntā̊. frauuaṣ̌aiiō.</ab>
+            </div>
+                <div xml:id="ShnumanAcc55" type="ShnumanAcc"> <!-- Dēn beh Mīnō Māhraspand -->
+        <ab xml:id="ShnumanAcc55.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc55.b">razištąm. cistąm. mazdaδātąm. aṣ̌aōnīm. yazamaide.  
+                daēnąm. vaŋᵛhīm. māzdaiiasnīm. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc55.c">mąϑrəm. spəṇtəm. aš.xᵛarənaŋhəm. yazamaide. dātəm. vīdōiium. yazamaide. dātəm. zaraϑuštri. yazamaide. 
+                darəγąm. upaiianąm. yazamaide. daēnąm. vaŋᵛhīm. māzdaiiasnīm. yazamaide. zarazdāitīm. mąϑrəm. spəṇtəm. yazamaide.
+                uši.darəϑrəm. daēnąm. māzdaiiasnīm. yazamaide. vaēδīm. mąϑrəm. spəṇtəm. yazamaide. āsnəm. xratūm. mazdaδātəm. yazamaide. 
+                gaōšō.srūtəm. xratūm. mazdaδātəm. yazamaide. </ab>
+                    <ab xml:id="ShnumanAcc55.d">aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spə̄ntā̊. frauuaṣ̌aiiō.</ab>
+            </div>
+                <div xml:id="ShnumanAcc56" type="ShnumanAcc"> <!-- Welcoming guests -->
+        <ab xml:id="ShnumanAcc56.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc56.b">aṣ̌īm. vaŋᵛhīm. yazamaide. 
+                xšōiϑnīm. bərəzaitīm. amauuaitīm. huraōδąm. xᵛāparąm. xᵛarənō. mazdaδātəm. yazamaide. sauuō. mazdaδātəm. yazamaide. 
+                pārəṇdīm. raōraϑąm. yazamaide. airiianəm. xᵛarənō. mazdaδātəm. yazamaide. uγrəm. kauuaēm. xᵛarənō. mazdaδātəm. yazamaide. 
+                uγrəm. axᵛarətəm. xᵛarənō. mazdaδātəm. yazamaide. zaraϑuštrahe. xᵛarənō. mazdaδātəm. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc56.c">aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spə̄ntā̊. frauuaṣ̌aiiō.</ab>
+            </div>
+                <div xml:id="ShnumanAcc57" type="ShnumanAcc"> <!-- Xōrdād Sāl -->
+        <ab xml:id="ShnumanAcc57.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab>
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/RatuShnumanAcc" xpointer="RatuShnumanAcc2"/> <!-- Possible all -->
+                    <ab xml:id="ShnumanAcc57.b">
+                        hauruuatātəm. aməṣ̌əm. spəṇtəm. yazamaide. yāiriiąm. hušitīm. yazamaide.</ab>
+                    <ab xml:id="ShnumanAcc57.c">sarəδa. aṣ̌auuana. aṣ̌ahe. ratauuō. yazamaide. aiiara. aṣ̌ahe. raϑβō. ratufritīm. yazamaide.
+                        asniia. aṣ̌auuana. aṣ̌ahe. raϑβō. ratufritōiš. yazamaide. māhiia. aṣ̌ahe. raϑβō. ratufritīm. yazamaide.
+                        yāiriia. aṣ̌ahe. raϑβō. ratufritīm. yazamaide. sarəδa. aṣ̌ahe. raϑβō. ratufritīm. yazamaide.</ab>
+                    <ab xml:id="ShnumanAcc57.d">vīspəmca. aṣ̌auuanəm. maińiiaōm. yazatəm. yazamaide. vīspəmca. aṣ̌auuanəm. gaēϑīm. yazatəm. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc57.e">aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spə̄ntā̊. frauuaṣ̌aiiō.
+                    </ab>
+            </div>
+                <div xml:id="ShnumanAcc58" type="ShnumanAcc"> <!-- Avardād Sāl Gāh -->
+        <ab xml:id="ShnumanAcc58.a">
+                bərəzaṇtəm. ahurəm. xšaϑrīm. xšaētəm. apąm. napātəm. auruuat̰.aspəm. yazamaide. apəmca. mazdaδātąm. aṣ̌aōnīm. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc58.b">hauruuatātəm. aməṣ̌əm. spəṇtəm. yazamaide. yāiriiąm. hušitīm. yazamaide. sarəδa. aṣ̌auuana. aṣ̌ahe. ratauuō. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc58.c">aiiara. aṣ̌ahe. raϑβō. ratufritīm. yazamaide. māhiia. aṣ̌ahe. raϑβō. ratufritīm. yazamaide. yāiriia. aṣ̌ahe. raϑβō. ratufritīm. yazamaide. 
+                        sarəδa. aṣ̌ahe. raϑβō. ratufritīm. yazamaide.</ab> <ab xml:id="ShnumanAcc58.d">vīspəmca. aṣ̌auuanəm. maińiiaōm. yazatəm. yazamaide. 
+                    vīspəmca. aṣ̌auuanəm. gaēϑīm. yazatəm. yazamaide. </ab>
+                    <ab xml:id="ShnumanAcc58.e">aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spə̄ntā̊. frauuaṣ̌aiiō.</ab>
+            </div>
+                <div xml:id="ShnumanAcc59" type="ShnumanAcc"> <!-- Rašn-Āštād -->
+        <ab xml:id="ShnumanAcc59.a">
+                ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab>/ 
+                    <ab xml:id="ShnumanAcc59.b">rašnūm. razištəm. yazamaide. arštātəmca. frādat̰.gaēϑąm. varədat̰.gaēϑąm. yazamaide. ərəžux́δəm. vācim. yat̰. frādat̰.gaēϑəm. yazamaide.</ab>
+                    <ab xml:id="ShnumanAcc59.c">arštātəm. frādat̰.gaēϑəm. yazamaide. gairīm. uši.darənəm. mazdaδātəm. aṣ̌a.xᵛāϑrəm. yazatəm. yazamaide. 
+                </ab>
+            </div>
+                <div xml:id="ShnumanAcc60" type="ShnumanAcc"> <!-- Dahm2 --> <ab xml:id="ShnumanAcc60.a">
+                    dahmąm. vaŋᵛhīm. āfritīm. yazamaide. uγrəm. taxməm. dāmōiš. upamanəm. yazatəm. yazamaide.
+                </ab>
+                </div>
+                <div xml:id="ShnumanAcc61" type="ShnumanAcc"> <!-- Dēn  Frawahr-->
+        <ab xml:id="ShnumanAcc61.a">
+                    ahurəm. mazdąm. raēuuaṇtəm. xᵛarənaŋᵛhaṇtəm. yazamaide. aməṣ̌ā. spəṇtā. huxšaϑrā. huδā̊ŋhō. yazamaide.</ab> 
+                    <ab xml:id="ShnumanAcc61.b">razištąm. cistąm. mazdaδātąm. aṣ̌aōnīm. yazamaide.  daēnąm. vaŋᵛhīm. māzdaiiasnīm. yazamaide. 
+                    </ab>                   
+                </div>
+    <div xml:id="ShnumanAcc65" type="ShnumanAcc"> <!-- Zardušt  Frawahr-->
+        <ab xml:id="ShnumanAcc65.a">
+            zaraθuštrahe. spitāmahe. iδa. aṣ̌aōnō. aṣ̌īmca. frauuaṣ̌īmca. yazamaide.
+        </ab>                   
+    </div>
+   
+    </div>

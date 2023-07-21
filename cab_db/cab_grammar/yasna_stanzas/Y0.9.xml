@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y0.9" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y0.9">
+               <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y0.9NerangTransc.a"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>zōt ud rāspīg: vid. Y0.6.</div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <RecitationInstruction>
+            <ab>III gwptn'] 5, 15, 40; III bʾl gwptn' 400; III bʾl 410.</ab>
+        </RecitationInstruction>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Quotations id="ritualQuotations">
+            <ab>N28.34b, <bibl>Kotwal and Kreyenbroek, 2003</bibl>, pp. 90-91:</ab>
+            <ab class="indent">u-š <em>aṣ̌əm vohū</em> ī dudīgar ī barsom gōwišn ast kē ēdōn gōwēd ay hād <em>staōmi aṣ̌əm</em> ka nē pad barsom gōwēd ā nē šāyēd</ab>
+            <ab class="indent">"He has to say the second <em>aṣ̌əm vohū</em> of the <em>barsom</em>. There is one commentator who says that, if he does not recite <em>staōmi aṣ̌əm</em>, then it is not allowed."</ab>
+        </Quotations>
+        <ModernPractice id="ritualModernPractice">
+            <ab><bibl>Kotwal and Boyd, 1991</bibl>p. 91: </ab>
+            <ab>"While reciting a. v. 3, the zot cups his right hand, bends over, scoops some water from the large metal basin and sprinkles it on the date-palm cord
+                ( <em>aiwyāhan</em>) tied around the metal wires ( <em>barsom</em>) placed across the crescent shaped stands (<em>māh-rūy</em>). He picks up the <em>barsom</em> with his left
+                hand, grasps that hand with his right, and touches the tip of the barsom wires to the tops of the crescent-shaped stands, touching the stand furthest away first, then the closest one."</ab>
+        </ModernPractice>
+        <Commentary>
+            <ab>On the number of Aṣ̌əm Vohū in the Frastuiiē section, vid. Y12.5.</ab>
+        </Commentary>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY0.9"/>
+        <include type="W" corresp="WTrY0.6b"/>
+        <include type="K" corresp="KTrY0.1"/>
+        <include type="D" corresp="DTrY0.6b"/>
+    </translation>
+</text>

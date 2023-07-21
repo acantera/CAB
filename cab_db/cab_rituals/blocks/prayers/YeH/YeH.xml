@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+    <ab xml:id="YeH" type="prayer">
+        <ab xml:id="YeH.a"><l>yeŋ́hē. hātąm. āat̰. yesnē. paitī. vaŋ́hō.</l></ab> 
+        <ab xml:id="YeH.b"><l>mazdā̊. ahurō. vaēϑā. aṣ̌āt̰. hacā. yā̊ŋhąmcā.</l></ab>
+        <ab xml:id="YeH.c"><l>tąscā. tā̊scā. yazamaide.</l></ab>
+    </ab>
+    <ab xml:id="YeH1" type="prayer">
+        <note anchored="true">zōt ud rāspīg</note> 
+        <ab xml:id="YeH1.a"><l>yeŋ́hē. hātąm. āat̰. yesnē. paitī. vaŋ́hō.</l></ab> 
+        <ab xml:id="YeH1.b"><l>mazdā̊. ahurō. vaēϑā. aṣ̌āt̰. hacā. yā̊ŋhąmcā.</l></ab>
+        <ab xml:id="YeH1.c"><l>tąscā. tā̊scā. yazamaide.</l></ab>
+    </ab>
+    <ab xml:id="YeH2" type="prayer">
+        <note anchored="true">zōt</note> 
+        <ab xml:id="YeH2.a"><l>yeŋ́hē. hātąm. āat̰. yesnē. paitī. vaŋ́hō.</l></ab> 
+        <ab xml:id="YeH2.b"><l>mazdā̊. ahurō. vaēϑā. aṣ̌āt̰. hacā. yā̊ŋhąmcā.</l></ab>
+        <ab xml:id="YeH2.c"><l>tąscā. tā̊scā. yazamaide.</l></ab>
+    </ab>
+    <ab xml:id="YeH3" type="prayer">
+        <note anchored="true">rāspīg</note> 
+        <ab xml:id="YeH3.a"><l>yeŋ́hē. hātąm. āat̰. yesnē. paitī. vaŋ́hō.</l></ab> 
+        <ab xml:id="YeH3.b"><l>mazdā̊. ahurō. vaēϑā. aṣ̌āt̰. hacā. yā̊ŋhąmcā.</l></ab>
+        <ab xml:id="YeH3.c"><l>tąscā. tā̊scā. yazamaide.</l></ab>
+    </ab>
+</div>

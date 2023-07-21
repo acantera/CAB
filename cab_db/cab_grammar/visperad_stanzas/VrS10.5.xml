@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS10.5" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y10.5" xml:id="VrS10.5">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS10.5NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY10.5"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Nērangs. Ms. 2109.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>vīspə̄sca paiti</em>] (Pers.) har do ḫvāndan <em>vīspə̄sca paiti</em> 2109.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Var. b (mss. 2040):</ab>
+         <ab class="ab_indent" n="NerangTransc.a" xml:id="VrS10.5NerangTransc.a" xml:lang="Pahl"><em>frauuāxšə̄</em> har dō bār bōy ōy ī ātaxš dahišn ud rāspīg-iz abāg zōt bē gōwišn</ab>
+         <ab class="ab_indent" n="NerangEnglish.a" xml:id="VrS10.5NerangEnglish.a"><em>frauuāxšə̄</em>. Each of the two times, he has to give <em>bōy</em> to the fire. The <em>rāspīg</em> has also to recite (the text) together with the <em>zōt</em>.</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS10.5"/>
+   </translation>
+</text>

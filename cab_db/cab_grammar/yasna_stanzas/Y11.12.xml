@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y11.12" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y11.12">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV1"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: Anklesaria, Geldner.</ab> 
+            <ab class="ab_indent">zōt ud rāspīg: Kotwal and Boyd.</ab></div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>aṣ̌əm vohū</em> IV gpwtn'] 5, 6, 15, 40, 88; <em>aṣ̌əm vohū</em> IV 100, 110, 231, 234, 235, 677; <em>aṣ̌əm vohū</em> wyc(y)st' cslwšʾmlwtyk gwbšn' 400, 410, 500, 510; ʾšmwwhwk IV chʾlw gwptn' 672.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <ModernPractice id="ritualModernPractice">
+         <ab><ab><bibl>Redard and Daruwalla, 2021</bibl>, p. 83:</ab>
+            <ab class="ab_indent">"The chief priest, taking that <em>hom</em> cup in the hand, releases the <em>bāj</em> alone.
+               While reciting the first of the four <em>Aṣ̌əm Vohū</em>, he pours one driblet of water on the place of that cup itself; while reciting the second, he pours one driblet
+               near the base of the moon-shaped stand near to him; while reciting the third, he pours (the water) near the base of the moon-shaped stand towards the fire;
+               and while reciting the fourth, he pours all the water from that cup near the cup with the bull’s hair (ring). Then he inverts that cup, (held) in the hand,
+               near the milk saucer, (which is) near the moon-shaped stand towards the fire plate. The assistant priest sets two (pieces of) wood (and) incense on the two stones."</ab></ab>
+      </ModernPractice>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY11.12"/>
+      <include type="W" corresp="WTrY11.12a"/>
+      <include type="K" corresp="KTrY11.12a"/>
+      <include type="D" corresp="DTrY11.12a"/>
+   </translation>
+</text>

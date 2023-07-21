@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS27.19" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y24.13" xml:id="VrS27.19">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS27.19NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS13.19a" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.1" on_line="in1line"/>
+      <!-- All five possible -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS13.19b" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS13.19c" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.2" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS13.19d" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS13.19e" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.3" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS13.19f" on_line="in1line"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: ms. 2104. Mss. 2040 and 4025 only indicate rāspīg (vid. VVrS27.19). Cf. also zōt ud rāspīg Y24.12.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VrS27.19a <em>āat̰ dīš āuuaēδaiiamahi asńiiaēibiiō</em>] (Per.) zud va rāsfi har do h̭vanand (Per.) <em>asńiiaēibiiō</em> 2104; rāsfi <em>asniiaēibiiō</em> 2040.</ab>
+         <ab>VrS27.19a <em>āat̰ dīš āuuaēδaiiamahi asńiiaēibiiō</em> ...] <em>ratubiiō hāuuanə̄e</em> gwptn' OD OL Y <em>ratauuō mainiiauuaną̇m</em> (VrS27.25) 2070;
+            <em>ratubiiō hāuuanə̄e</em>  OD OL Y <em>pərənō.mā̊ŋhāi vīšaptaϑāica</em> (VrS27.24) 2101.</ab>
+         <ab>VrS27.19b <em>āat̰ dīš āuuaēδaiiamahi sāuuaŋhə̄e</em> ...] <em>āat̰ dīš āuuaēdaii</em> gwptn OD OL <em>māhiiaēibiiō aṣ̌ahe</em> (VrS27.24) 2007;
+            <em>ā. dūš ā.</em> cygwn PWN <em>ā. y.</em> nšt' ẔK <em>ā. y.</em> ẔNE gywʾk <em>yas</em> OD <em>āuuaē</em> ʾp̄ʾyt' gwptn' OD <em>pərənō.mā̊ŋhāi vūšaptaϑāica</em> (VrS27.24) 2010;
+            <em>ā. dūš</em> cygwn PWN <em>ā. y.</em> npšt' ẔKgywʾk' <em>ā. y.</em> ẔNE gywʾk <em>yasnāica āat̰ dīš</em> ʾp̄ʾyt' gwptn' OD OL Y <em>pərənō.mā̊ŋhāi višaptaϑāica</em> (VrS27.24) 2030, 2109;
+            <em>āat̰ sāuuaŋhə̄e</em> OD <em>pərənō.mā̊ŋhāi vīšaptaϑāica</em> (VrS27.24) 2230.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS27.19 (mss. 2005, 2007, 2010, 2030, 2040, 2101, 2106, 2109):</ab>
+         <ab class="ab_indent">
+            <em>āat̰ dīš āuuaēδaiiamahi</em> pad ēn gyāg taštag kē-š hōm ud urwarām andar pad datuš abāz nihišn ud pad urwēs bē nihišn hāwan az kustag ī hōy ō kustag ī dašn āwarišn 
+            pad rōy nigūn kunišn bōy ō ī ātaxš dahišn <em>asńiiaēibiiō aṣ̌ahe ratubiiō</em>. ...</ab>  
+         <ab class="ab_indent">
+            "<em>āat̰ dīš āuuaēδaiiamahi</em> At this passage, he has to put again in contact with the <em>datuš</em> the saucer that contains the <em>hōm</em> and <em>urwarām</em> 
+            and (then) to put it on the <em>urwēs</em>; he has to bring the <em>hāwan</em> from the left side to the right side and put it upside-down; he has to give <em>bōy</em> to the
+            fire (and continue with) <em>asńiiaēibiiō aṣ̌ahe ratubiiō</em>. ..."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS27.19"/>
+   </translation>
+</text>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y9.28" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y9.28">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY9.28"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y9.3.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y9.28a <em>vī manō</em>] Geldner, Kellens; Pirart <em>vīmanō</em>.</ab>
+         <ab>Y9.28c <em>gə̄uruuaiia.hē</em>] cod. Geldner <em>gəuruuaiia.hē</em>; Kellens, Pirart <em>gəuruuaiia hē</em>.</ab>
+         <ab>Y9.28d <em>skəṇdəm.šē</em>] Geldner, Kellens <em>skəṇdəm šē</em>; Pirart <em>skəṇdəm hē</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>aɱi nmāne yō aŋ́he vīsi yō aɱi aɱi zaṇtuuō yō aŋ́he daiŋ́huuō</em> ~ VrS31.15 <em>aɱi nmāne aŋ́he vīsi aɱi zaṇtuuō aŋ́he daiŋ́hō</em>.</ab>
+      <ab>
+            <em>pāδauue zāuuarə</em> = Yt16.7; ~ Yt10.23 <em>pāδaiiā̊ zāuuarə</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY9.28"/>
+
+        <include type="W" corresp="WTrY9.28"/>
+        <include type="K" corresp="KTrY9.28"/>
+        <include type="D" corresp="DTrY9.28"/>
+    </translation>
+</text>

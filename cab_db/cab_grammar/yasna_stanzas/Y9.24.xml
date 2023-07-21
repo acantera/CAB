@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y9.24" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y9.24">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY9.24"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y9.3.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y9.24a <em>kərəsānīm</em>] Geldner, Kellens; Pirart <em>kərəsānəm</em>. <bibl>Kellens, 2007</bibl>, p. 64 "la correction *<em>kərəsānūm</em> permet l'equivalence avec le héros somique de la RS <em>Kṛsā́nu</em>. Pris que tel, <em>kərəsānīm</em> peut représenter le patronymique <em>kərəsā(i)niia-</em> 'fils de Kərəsa', mais il reste à savoir si Kərəsa est le tourien mentionné en Yt19.77 ou le nom court de Kərəsāspa."</ab>
+         <ab>Y9.24a <em>nišāδaiiat̰</em>] Geldner, Kellens; Pirart <em>niš.hāδaiiat̰</em>.</ab>
+         <ab>Y9.24a <em>raōsta</em>] proterodynamic pres. stem <bibl>Kellens, 2007</bibl>, p. 64 (against <bibl>Kellens, 1984</bibl>, p. 88).</ab>
+         <ab>Y9.24b <em>vərəiδiiē</em>] Geldner; Kellens <em>vərəiδiie</em>; Pirart <em>vareiδiiē</em>.</ab>
+         <ab>Y9.24c <em>vīspə̄ ... vīspə̄</em>] cod. Geldner, Kellens <em>vīspe ... vīspe</em>. <bibl>Kellens, 2006</bibl>, p.64 "l’apparat critique du Y9 est trop lacunaire pour que la valeur de la leçon <em>vīspə̄</em> soit clairement établie."</ab>
+         <ab>Y9.24c <em>vərəiδinąm ... vərəiδinąm</em>] Geldner, Kellens; Pirart <em>varəiδiną ... varəiδiną</em>.</ab>
+         <ab>Y9.24c <em>janāt̰</em>] Geldner, Kellens; Pirart <em>janat̰</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY9.24"/>
+        <include type="W" corresp="WTrY9.24"/>
+        <include type="K" corresp="KTrY9.24"/>
+        <include type="D" corresp="DTrY9.24"/>
+    </translation>
+</text>

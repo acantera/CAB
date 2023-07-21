@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR12.1" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="YR12.1">
+        <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="YR12.0NerangTransc.a"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP15"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: vid. YR12.0, Recitation Instruction.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab>YR12.1] <em>frauuarānē</em> lpytpyn' ʾp̄ʾyt' gwptn' <em>raϑβąm</em> LA gwbšn 300; <em>frauuarāne rapiϑβināi frādat̰.fšuue. zaṇtumāica. raϑβą</em> LA gwbšn' cygwn PWN yšt' npšt OD OL Y <em>vīspe aṣ̌auuanō yazata</em> (YR14.3) 360;
+                <em>frauuarāne</em> OD <em>rapiϑβināi fradat.fšuue. raϑβą̇m</em> LA gwbšn' cygwn PWN yšt' npšt' OD OL Y <em>aɱiia zaōϑre barəsmanaēca vīspe aṣ̌auuanō yazata</em> 370.</ab>
+            <ab>(Paz.) <em>zōt̰ (Av.) ẏaϑā ahuuvairiiō zaotā frāmē matē (Paz.) rāspī (Av.) ẏaϑā ahū vairiiō ẏō zaotā frāmə marūtē (Paz.) zōt̰ (Av.) aϑā ratuš (Paz.) kardan.</em>] 350.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrYR12.1"/>
+    </translation>
+</text>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y9.16" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y9.16">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY9.16"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y9.3.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y9.16a <em>nəmō haōmāi</em>] Pirart del.</ab>
+         <ab>Y9.16b-f <em>vaŋhuš ... pāϑmaińiiō.təmō</em>] Pirart del.</ab>
+         <ab>Y9.16e <em>nąmiiąsuš</em>] Geldner, Kellens; Pirart <em>nąmi.ąsuš</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>
+            <em>āat̰ aōxta zaraϑuštrō nəmō haōmāi vaŋhuš haōmō</em> ~ Y10.17, Y11.8 <em>āat̰ aōxta zaraϑuštrō nəmō haōmāi mazdaδātāi vaŋhuš haōmō</em>
+        </ab>
+      <ab>
+            <em>āat̰ aōxta zaraϑuštrō nəmō haōmāi</em> = Y9.3.</ab>
+      <ab>
+            <em>nəmō haōmāi</em> = Yt17.5.</ab>
+      <ab><em>haōmō ... baēšaziiō</em> ~ Y10.8 <em>haōmahe baēšaziiehe</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY9.16"/>
+
+        <include type="W" corresp="WTrY9.16"/>
+        <include type="K" corresp="KTrY9.16"/>
+        <include type="D" corresp="DTrY9.16"/>
+    </translation>
+</text>

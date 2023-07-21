@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y16.2" status="created">
+      <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y16.2">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY16.2"/>
+   </div>
+   <Speaker>
+   <SpeakerInfo>
+      <div>
+         <ab class="ab_indent">zōt: vid. Y16.0.</ab>
+      </div>
+   </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y16.2c] sec. Ir. cod.; Geldner, Kellens, Ind. cod. om.</ab>
+         <ab>Y16.2e <em>zaraϑuštri</em>] sec. mss. 234, 4020, 4161, 4162, 4200, 4210, 4240; Geldner, Kellens <em>zaraϑuštrahe</em>. <em>Lectio difficilior</em> (<em>zaraϑuštrahe</em> anal. Y16.2d, f, g), 
+            but cf. Y57.6 <em>vīspa srauuā̊ zaraϑuštri yazamaide</em>, VrS31.13 <em>srauuaŋhąmca zaraϑuštrinąm</em>.</ab>
+         <ab><em>aŋhuiiaōš aṣ̌acinaŋhō</em>] sec. Kellens; Geldner in Y16.3.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>ābiiō rātābiiō zaōϑrābiiō aršuxδaēibiiasca vāγžibiiō vīspəmca aṣ̌auuanəm gaēϑīm yazatəm yazamaide</em> ~ Y16.1 <em>dātārəm vohunąm dāmanąm ābiiō rātābiiō zaōϑrābiiō aršuxδaēibiiasca vāγžibiiō vīspəmca aṣ̌auuanəm maińiiaōm yazatəm yazamaide</em>.</ab>
+      <ab><em>aršuxδaēibiiasca vāγžibiiō</em> = VrS15.1; ~ Y9.25 <em>vacąm ərəžuxδanąm [...] ərəǔxδəm [...] vācim</em>; ~ Y7.30 <em>aršuxδəm vācim</em>;  ~ Y60.5 <em>aršuxδō vāxš</em>; ~ Y71.10 <em>vacō aršuxδa</em>, etc..</ab>
+      <ab><em>vīspəmca aṣ̌auuanəm gaēϑīm yazatəm yazamaide</em> = Y25.4 Šnūman Nō Nāwar acc.</ab>
+      <ab><em>zaraϑuštrahe aṣ̌aōnō frauuaṣ̌īm yazamaide</em> = Y71.2, VrS11.33, VrS28.1, VrS36.1, VrS41.1,VrS51.1, VrS57.1, VrS62.1, VrS64.1, VrS65.75, VrS69.1, VrS71.1, VrS89.28, VrS93.4.</ab>
+      <ab><em>zaraϑuštri srauuā̊ yazamaide</em> ~ Y57 (<em>passim</em>), Y70.7, Y71.25, VrS11.36, VrS18.6, VrS30.12, VrS41.7, VrS42.11, VrS51.9, VrS57.9, VrS62.9, VrS64.10, VrS65.11, VrS65.83, VrS69.9, VrS71.9, VrS74.6, 
+         VrS75.11; VrS87.13, VrS89.22, VrS93.12 <em>vīspa srauuā̊ zaraϑuštri yazamaide</em>; ~ VrS31.13 <em>srauuaŋhąmca zaraϑuštrinąm</em>.</ab>
+      <ab><em>zaraϑuštrahe varənəmca t̰kaēšəmca yazamaide aŋhuiiaōš aṣ̌acinaŋhō</em> ~ Y24.5 <em>āat̰ dīš āuuaēδaiiamahi zaraϑuštrahe spitāmahe aṣ̌aōnō frauuaṣ̌ə̄e yasnāica vaɱāica xšnaōϑrāica frasastaiiaēca aŋhuiiaōš aṣ̌acinaŋhō</em>.</ab>
+      <ab><em>zaraϑuštrahe varənəmca t̰kaēšəmca yazamaide</em> ~ Y12.13 <em>tā varənācā t̰̰kaēšācā</em>.</ab>
+      <ab><em>aŋhuiiaōš aṣ̌acinaŋhō</em> ~ Y3.4, Y4.1, Y4.3, Y7.5, VrS78.31, VrS78.32, VrS81.18, VrS82.19, VrS82.20, VrS82.39, VrS83.2 <em>aŋhuiiąmca aṣ̌aiiąmca</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY16.2"/>
+      <include type="W" corresp="WTrY16.2"/>
+      <include type="K" corresp="KTrY16.2"/>
+      <include type="D" corresp="DTrY16.2"/>
+   </translation>
+</text>

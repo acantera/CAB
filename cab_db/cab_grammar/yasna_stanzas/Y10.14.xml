@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y10.14" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y10.14">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY10.14"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y10.6.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y10.14a] The verse presents several problems (vid. infra commentaries on <em>gāuš drafšo</em> and <em>vārəma caire</em>). Meaning obscure. Likely "May you not be quiet for me, like a drop of milk / like a bull-banner, in order to circulate at your will (in my body)". Cf. context Y10.14b and Y10.14c.</ab>
+         <ab>Y10.14a <em>gāuš drafšō</em>] Pirart <em>gāuš.drafšō</em>. On thee meaning of <em>drafša-</em> as "banner", vid. Bartholomae, cf. Pahl. transl. <em>gāv-drafš</em> and Skt. transl. <em>gopatākīyā</em> "bull-banner"; as "drop", vid. Kellens, Pirart, cf. OInd. <em>drapsá-</em>.</ab>
+         <ab>Y10.14a <em>vārəma caire</em>] sec. cod. 5, 100, 400, 410, 510, 4010, 4020, 4025, 4075, 4161, 4280 (<em>varə̄ma cairi</em> 83, 110, 235, 4045, 4050) and Bartholomae. <em>caire</em> as inf. and <em>vārəma</em> "at will", cf. Yt17.2, Yt5.130 and Pahl. transl. <em>az wārom</em>; Geldner, Kellens <em>vārəm acaire</em>: not attested, but <em>vārəmacaire</em> in Ind. mss. with <em>acaire</em> as inf. negative and <em>vārəm</em> as "filter"; Pirart <em>vārəm acairi</em>: not attested and <em>acairi</em>as aor. pass. but expected <em>*acāiri</em>). <em>vārəm cairi</em> in 8, 15, VrS Ir. and 5020 (reanalyzed <em>vārəm</em> as acc. sg.?).</ab>
+         <ab>Y10.14b <em>vərəziiaŋᵛhā̊ŋhō</em>] Pirart <em>varəzi.aŋᵛhā̊ŋhō</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>fraš́a fraiiaṇtu tē maδō</em> = Y10.19.</ab>
+      <ab><em>pairi.tē haōma aṣ̌āum aṣ̌auuazō daδąmi imąm tanūm yā tē vaēnaite huraōδa</em> = Y11.10.</ab>
+      <ab><em>haōma aṣ̌āum aṣ̌auuāzō</em> ~ Y10.1, S1.30, Yt20.0, Yt20.3, šnūman Hōm <em>haōmahe aṣ̌auuazaŋhō</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY10.14"/>
+      <include type="W" corresp="WTrY10.14"/>
+      <include type="K" corresp="KTrY10.14"/>
+      <include type="D" corresp="DTrY10.14"/>
+   </translation>
+</text>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS2.9" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VrS2.9">
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS2.1"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. VrS2.4.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab>Problematic text. Vid. commentary VrS1.9.</ab>
+            <ab>VrS2.9a-g] every <em>ratauuō</em> and their attributes are irregular acc. pl. forms.</ab>
+            <ab>VrS2.9g <em>caṇgraŋhāca</em>] Kellens (vid. VrS1.9). Geldner <em>caŋraŋhāca</em>. Vid. <bibl>Hoffmann and Narten, 1989</bibl>, p. 69, n. 112.</ab>
+        </Commentary>
+        <RecitationInstruction>
+            <ab><em>aɱiia zaōϑre baresmanaēca ... caṇgraŋhāca āiiese yešti</em>] <em>ratauuō gaēiϑiia āiiese ẏešti</em> OD <em>gaōδāiium</em> (VrS2.19) 2065</ab>; <em>ratauuō mainiiauua ā. y.</em> OD <em>gaōdāiium</em> (VrS2.19) 2070; <em>ratauuō maińiiauua āiiese yešti</em> ẔNE ycšn cygwn ḆYN <em>niuuaēδaiiemi</em> npšt OD <em>ahmiia zaōϑre barəsmanaēca vispe te</em> (VrS2.11); <em>ratauuō mainiiauua āiiese yaešte niuuaēδaiiemi</em> npšt OD <em>ahmiia zaōϑre barəsmanaēca viīspe te</em> (VrS2.11); <em>ratauuō mainiiauua āiiese ẏašte</em> ẔNE ycšnk cygn ḆYN <em>naiuuaēδaiiemi</em> Ḵ YKTYBN-št OD <em>aɱiia zaoϑrahe barəsmanaēca vīspe tē</em> (VrS2.11).
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels>
+        <ab>VrS2.9 ≈ VrS1.9, VrS17.8, VrS25.11, VrS27.25, VrS77.8, VrS90.9.</ab>
+        <ab><em>ratauuō upāpa āiiese yešti ratauuō upasma āiiese yešti ratauuō fraptərəjāta āiiese yešti ratauuō rauuascarāta āiiese yešti ratauuō caṇgraŋhāca āiiese yešti</em> ~ Y71.9. <em>vīspąmca gąm upāpąmca upasmąmca fraptərəjātąmca rauuascarātąmca caṇgraŋhācasca yazamaide</em></ab>
+        <ab><em>ratauuō fraptərəjāta āiiese yešti ratauuō caṇgraŋhāca āiiese yešti</em> ~ Yt8.48 <em>yāca fraptərəją yāca rauuascarą</em></ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrVrS2.9"/>
+        <include type="W" corresp="WTrVr2.1"/>
+        <include type="D" corresp="DTrVr2.1"/>
+        <include type="K" corresp="KTrVr2.1"/>
+    </translation>
+</text>

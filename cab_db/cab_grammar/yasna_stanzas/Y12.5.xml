@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y12.5" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y12.5">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y12.2.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab><em>aṣ̌əm vohū</em> ʾywk' gwptn'] cod., Kellens; Geldner (Paz.) <em>si bār</em>.</ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab><em>aṣ̌əm vohū</em> ʾywk' gwptn'] 5, 6, 15, 40, 60, 88; <em>aṣ̌əm vohū</em> III 100, 110, 231, 234, 235; <em>aṣ̌əm vohū vahištəm astī</em> wycyst' (510 wycst) ʾywʾmlwtyk gwbšn' 400, 410, 510;
+         <em>aṣ̌əm vōhū</em> ʾywky 672; <em>aṣ̌əm vō.</em> I 677.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Vid. Y12.2.</ab>
+      </Nerangs>
+      <ModernPractice id="ritualModernPractice">
+         <ab><ab><bibl>Kotwal and Boyd, 1991</bibl> p. 100, n.100:</ab> 
+            <ab class="ab_indent">"The Bhagaria practice of reciting <em>a. v.</em> 1 is supported by ms. D90 (199, line 5) which states "the passage is to be recited once" (<em>wachast ēwāmrūdīg</em>). 
+               Priests of other groups recite <em>a. v.</em> 3 at this point, perhaps because in the Visperad and Vendidād ceremonies <em>a. v.</em> 3 always follow the <em>frastuye</em>. Cf. TDA.: 354."</ab></ab>
+      </ModernPractice>
+      <Commentary id="ritualCommentary">
+         <ab class="ab_indent">The divergence of the number of Aṣ̌əm Vohū (three, after Frastuiiē section in Y0, one in Y12) must be related to the following Frauuarāne (Y0.10) in the former.
+         When a Frauuarāne is preceeded by the recitation of Aṣ̌əm Vohū, these must recited three times. In the Indian practice, it seems that the triple recitation of the Aṣ̌əm Vohū seemed to be extended (vid. Recitation Instruction liturgical Indian manuscripts).</ab>
+      </Commentary>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY12.5"/>
+      <include type="W" corresp="WTrY11.19b"/>
+      <include type="K" corresp="KTrY11.19b"/>
+      <include type="D" corresp="DTrY11.19b"/>
+   </translation>
+</text>

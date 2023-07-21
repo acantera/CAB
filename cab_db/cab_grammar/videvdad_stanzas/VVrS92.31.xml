@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS92.31" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VVrS92.33">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VVrS92.31 (mss. 4010, 4020, 4025, 4040, 4050, 4161, 4162):</ab>
+         <ab class="ab_indent">
+            <em>vohū uxšiiā manaŋhā xšaϑrā aṣ̌ācā uštā tanūm</em> sē bār guftan ka gāh ī rapihwin <em>imā raōcā̊ barəzištəm barəzimanąm</em> sē bār guftan ka gāh ī uzerin 
+            <em>yaɱī spəṇtā ϑβā maińiiū uruuaēsē jasō</em> sē bār guftan</ab>  
+         <ab class="ab_indent">
+            "He has to recite three times <em>vohū uxšiiā manaŋhā xšaϑrā aṣ̌ācā uštā tanūm</em>. When it is the <em>gāh rapihwin</em>, he should recite three times <em>imā raōcā̊ 
+               barəzištəm barəzimanąm</em>. When it is the <em>gāh uzerin</em>, he should recite three times <em>yaɱī spəṇtā ϑβā maińiiū uruuaēsē jasō</em>."</ab>
+         <a>[Unexpected instruction in the Vīdēvdād, since this liturgy is onlöy performed at <em>ušahina-</em>. Most likely all three texts were recited like in Yasna ī Nōg-Nāwar or Sīrōzag, see Y68.31]</a>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS92.31"/>
+   </translation>
+</text>

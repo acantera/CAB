@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL12.4.9" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="9" xml:id="ParagnaLL12.4.9">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL12.4.9 (Ms. RJ):</ab>
+            <ab class="ab_indent">
+                <em>yaθā ahū vairiiō</em> čahār bār ḫāndan va hum va urvarān kuftan b-āb-e zur andar kardan va hum pyāle kardan be <em>yaθā ahū vairiiō</em> har čahār <em>yaθā ahū vairiiō</em>
+                hamčenin bāyad kard</ab>
+            <ab class="ab_indent">
+                "He should recite four times the <em>Yaθā ahū vairiiō</em>, pound the <em>hum</em> and <em>urvarān</em> and pour it into the the <em>zur</em>-water and do it thorugh 
+                the <em>hum-pyāle</em>. He much do it in the same way dring the recitation of the four <em>Yaθā Ahū Vairiiō</em>."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL12.4.9"/>
+    </translation>
+</text>

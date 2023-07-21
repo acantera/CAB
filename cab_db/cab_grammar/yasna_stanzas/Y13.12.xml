@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y13.12" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y13.12">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YeH" xpointer="YeH"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y13.9.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>yeŋ́hē hātąm</em> OD LOYŠE gwptn'] 5, 6, 15, 88; <em>yeŋ́hē hātąm</em> OD LOYŠE 40; <em>yeŋ́he hātą̇m</em> OD <em>tā̊scā ẏaz</em> 110, 231;
+            <em> ẏeŋ́hē hātąm āat̰ ẏesnē paiti</em> OD gywʾk 510.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY13.12"/>
+      <include type="W" corresp="WTrY13.8b"/>
+      <include type="K" corresp="KTrY13.8b"/>
+      <include type="D" corresp="DTrY13.8b"/>
+   </translation>
+</text>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+			<div type="IntroductoryPrayer" xml:id="BajNanX_large"> <!-- text after MZK9 (only attestation in IrXA so far) -->
+				<div type="IntroductoryPrayerStanza" xml:id="BajNanX_large0.1">
+                    <ab n="a" xml:id="BajNanX_large0.1a">mh wh fyrwzkr dʾdʾr ʾwrmzd rʾywmnd xrwhmnd</ab>
+                </div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajNanX_large1.1">
+                    <ab n="a" xml:id="BajNanX_large1.1a">xšnaōθra. ahurahe. mazdā̊.</ab>
+                </div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajNanX_large1.2">
+					<include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajNanX_large1.3">
+				    <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP1XA"/>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajNanX_large2.1" quote="Y8.4 (#GY8.3) = DrYt6.3 YR8.4 VrS8.4 VVrS8.4 VytVrS8.4">
+                    <ab n="a" xml:id="BajNanX_large1.1a">aməṣ̌a. spəṇta. daēne. māzdaiiasne. vaŋhauuasca. vaŋᵛhīšca. zaōθrā̊sca.</ab>
+					<ab n="b" xml:id="BajNanX_large1.1b">yō. aēšuua. mazdaiiasnaēšuua. mazdaiiasnō. aōjanō. aṣ̌ahe. rāθma. jīštaiiamnō.</ab>
+					<ab n="c" xml:id="BajNanX_large1.1c">yāθβa. gaēθā̊ aṣ̌ahe. mərəγəṇte. </ab>
+					<ab n="d" xml:id="BajNanX_large1.1d">auui. tū. dim. disiiata. yā̊ apasca. uruuarā̊.</ab>
+                </div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajNanX_large2.2" quote="Y8.5 (#GY8.4) = DrYt6.4 YR8.5 VrS8.5 VVrS8.5 VytVrS8.5">
+                    <ab n="a" xml:id="BajNanX_large1.1a">yasca. aētaēšąm. mazdaiiasnanąm. pərənāiiunąm. aiβi.zūzuiianąm. imą. vacō. nōit̰. vīsaiti. framrūite. aētąm. ā. yātumanahe. jasaiti.</ab>
+                </div>
+                <div type="IntroductoryPrayerStanza" xml:id="BajNanX_large2.3" quote="Y37.1 (#GY37.1) = YR37.1 VrS45.1 VVrS45.1 VytVrS45.1, Y5.1 (#GY5.1) = DrYt3.1 YR5.1 VrS5.1 VVrS5.1 VytVrS5.1">
+                    <ab n="a" xml:id="BajNanX_large2.3a">iθā. āt̰. yazamaidē. ahurəm. mazdąm. yə̄. gąmcā. aṣ̌əmcā. dāt̰.</ab>
+                    <ab n="b" xml:id="BajNanX_large2.3b">apascā. dāt̰. uruuarā̊scā. vaŋᵛhīš. raōcā̊scā. dāt̰.</ab>
+                    <ab n="c" xml:id="BajNanX_large2.3c">būmīmcā. vīspācā. vohū.</ab>
+                </div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajNanX_large2.4">
+					<include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/>
+					<note anchored="true">ṭʿʾm nwšydn dhʾn pʾk krdn</note>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajNanX_large2.5">
+					<include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="4"/>
+				</div>
+                <div type="IntroductoryPrayerStanza" xml:id="BajNanX_large2.6">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="2"/>
+                </div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajNanX_large2.7" quote="Y8.8 (#GY8.5) = DrYt6.7 YR8.8 VrS8.8 VVrS8.8 VytVrS8.8, Y11.14 (#GY11.12) = YR11.14 VrS11.19 VVrS11.19 VytVrS11.19; Y52.6 (#GY52.5) = YR52.6 VrS67.6 VVrS67.6 VytVrS67.6; Y60.10 (#GY60.8) = YR60.10 VrS84.8 VVrS84.8 VytVrS84.8; Y68.17 (#GY68.16) [Y52.6] = YR68.17 VrS92.17 VVrS92.17 VytVrS92.17, Y71.29 (#GY71.26) = YR71.29 VrS96.29 VVrS96.29 VytVrS96.29"> 
+					<ab n="a" xml:id="BajNanX_large2.7a">vasasca. tū. ahura.mazda. uštāca. xšaēša. hauuanąm. dāmanąm. </ab>
+					<ab n="b" xml:id="BajNanX_large2.7b">vasō. āpō. vasō. uruuarā̊. vasō. vīspa. vohū. aṣ̌acīθra. </ab> <!-- vasō. āpō. vasō. uruuarā̊. missing in MZK9 -->
+					<ab n="c" xml:id="BajNanX_large2.7c">xšaiiamnəm. aṣ̌auuanəm. dāiiata. axšaiiamnəm. druuaṇtəm.</ab> <!-- aṣ̌auuanəm. dāiiata. axšaiiamnəm.aṣ̌auuanəm. dāiiata. axšaiiamnəm. missing in MZK9 -->
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajNanX_large2.8" quote="Y8.9 (#GY8.6) = DrYt6.8 YR8.9 VrS8.9 VVrS8.9 VytVrS8.9, Y11.15 (#GY11.13) = YR11.15 VrS11.20 VVrS11.20 VytVrS11.20, Y52.7 (#GY52.6) = YR52.7 VrS67.7 VVrS67.7 VytVrS67.7, Y60.11 (#GY60.9) = YR60.11 VrS84.9 VVrS84.9 VytVrS84.9, Y68.18 (#GY68.17) = YR68.18 VrS92.18 VVrS92.18 VytVrS92.18, Y71.30 (#GY71.27) = YR71.30 VrS96.30 VVrS96.30 VytVrS96.30">
+					<ab n="a" xml:id="BajNanX_large2.8a">vasō.xšaθrō. hiiāt̰. aṣ̌auua. auuasō.xšaθrō. hiiāt̰. druuā̊.</ab> <!-- aṣ̌auua. auuasō.xšaθrō. hiiāt̰. missing in MZK9 -->
+					<ab n="b" xml:id="BajNanX_large2.8b">gatō. hamistō. nižbərətō. haca. spəṇtahe. maińiiə̄uš. dāmabiiō. varatō. auuasō.xšaθrō.</ab>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajNanX_large2.9" quote="Y8.10 (#GY8.7) = DrYt6.9 YR8.10 VrS8.10 VVrS8.10 VytVrS8.10, Y11.16 (#GY11.14) = YR11.16 VrS11.21 VVrS11.21 VytVrS11.21, Y52.8 (#GY52.7) = YR52.8 VrS67.8 VVrS67.8 VytVrS67.8, Y60.12 (#GY60.10) = YR60.12 VrS84.10 VVrS84.10 VytVrS84.10, Y68.19 (#GY68.18) = YR68.19 VrS92.19 VVrS92.19 VytVrS92.19; Y71.31 (#GY71.28) = YR71.31 VrS96.31 VVrS96.31 VytVrS96.31">
+					<ab n="a" xml:id="BajNanX_large2.9a">haxšaiia. azəmcit̰. yō. zaraθuštrō. fratəmą. nmānanąmca. vīsąmca. zaṇtunąmca. dax́iiunąmca.</ab>
+					<ab n="b" xml:id="BajNanX_large2.9b">aŋ́hā̊. daēnaiiā̊. anumataiiaēca. anuxtaiiaēca. anuuarštaiiaēca. yā. āhūiriš. zaraθuštriš.</ab>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajNanX_large2.10" quote="Y8.11 (#GY8.8) = DrYt6.10 YR8.11 VrS8.11 VVrS8.11 VytVrS8.11, Y11.17 (#GY11.15) = YR11.17 VrS11.22 VVrS11.22 VytVrS11.22, Y52.9 (#GY52.8) = YR52.9 VrS67.9 VVrS67.9 VytVrS67.9, Y68.20 (#GY68.19) = YR68.20 VrS92.20 VVrS92.20 VytVrS92.20">
+					<ab n="a" xml:id="BajNanX_large2.10a">rauuasca. xᵛāθrəmca. āfrīnāmi. vīspaiiā̊. aṣ̌aōnō. stōiš. ązasca.</ab>
+					<ab n="b" xml:id="BajNanX_large2.10b">dužāθrəmca. āfrīnāmi. vīspaiiā̊. druuatō. stōiš.</ab>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajNanX_large2.11">
+					<include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/>
+				</div>	
+				<div type="IntroductoryPrayerStanza" xml:id="BajNanX_large3.1">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="2"/>
+                </div>
+                <div type="IntroductoryPrayerStanza" xml:id="BajNanX_large3.2">
+                    <ab n="a" xml:id="BajNanX_large3.2a">yasnəmca. vaɱəmca. aōjasca. zauuarəca. āfrīnāmi.</ab>
+                    <ab n="b" xml:id="BajNanX_large3.2b">ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō.</ab>
+                </div>
+                <div type="IntroductoryPrayerStanza" xml:id="BajNanX_large3.3">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajNanX_large3.4">
+					<ab n="a" xml:id="BajNanX_large3.4a">aɱāi. raēšca. xᵛarənasca. aɱāi. tanuuō. druuatātəm.</ab>
+                    <ab n="b" xml:id="BajNanX_large3.4b">aɱāi. tanuuō. vazduuarə. aɱāi. tanuuō. vərəϑrəm.</ab>
+                    <ab n="c" xml:id="BajNanX_large3.4c">aɱāi. īštīm. pouruš.xᵛāϑrąm.</ab>
+                    <ab n="d" xml:id="BajNanX_large3.4d">aɱāi. āsnąmcit̰. frazaṇtīm. aɱāi. darəγąm. darəγō.jītīm. aɱāi. vahištəm. ahūm. aṣ̌aōnąm. raōcaŋhəm. vīspō.xᵛāϑrəm.</ab>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajNanX_large3.5">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajNanX_large3.6">
+                    <ab n="a" xml:id="BajNanX_large3.6a">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+                    <ab n="b" xml:id="BajNanX_large3.6b">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+                    <ab n="c" xml:id="BajNanX_large3.6c">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajNanX_large3.7">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajNanX_large3.8">
+                    <ab n="a" xml:id="BajNanX_large3.8a">jasa.mē. auuaŋhe. mazda.</ab>
+                    <ab n="b" xml:id="BajNanX_large3.8b">jasa.mē. auuaŋhe. mazda.</ab>
+                    <ab n="c" xml:id="BajNanX_large3.8c">jasa.mē. auuaŋhe. mazda.</ab>
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajNanX_large3.9">
+	<ab n="a" xml:id="BajNanX_large3.9a">amahe. hutāštahe. huraōδahe.</ab> <!-- Xšnūman  Gen day 20-->
+	<ab n="b" xml:id="BajNanX_large3.9b">vərəθraγnahe. ahuraδātahe. vanaiṇtiiā̊sca. uparatātō.</ab>
+	<ab n="c" xml:id="BajNanX_large3.9c">rāmanasca. xᵛāstrahe. vaiiaōš. uparō.kairiiehe. taraδātō. ańiiāiš. dāmąn.</ab> <!-- Xšnūman  Gen day 21-->
+	<ab n="d" xml:id="BajNanX_large3.9d">aētat̰. tē. vaiiō. yat̰. tē. asti. spəṇtō.maińiiaōm.</ab>
+	<ab n="e" xml:id="BajNanX_large3.9e">θβāṣ̌ahe. xᵛaδātahe. zruuānahe. akaranahe. zruuānahe. darəγō.xᵛaδātahe.</ab><!-- In the IndXA it follows the kərba. mažd. Vāj -->
+				</div>
+				<div type="IntroductoryPrayerStanza" xml:id="BajNanX_large3.10">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+                </div>
+			</div>
+</div>

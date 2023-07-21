@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y11.8" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>24 September 2020</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y11.8">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY11.8"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: mss. 5, 6, 8, 40, 60, 83, 88.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y11.8a <em>nəmō ... haōmāi</em>] Pirart. del.</ab>
+         <ab>Y11.8a <em>nəmō ... mazdaδātō</em>] <em>nəmō haōmāi mazdaδātāi vaŋhuš haōmō huδātō</em> N28.40</ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab><em>āat̰ aōxta...</em>] ẔNE gywʾk' lʾspyk LWTE' zwt' BRA gwbšn' 5, 6, 40, 60, 88 (... BRA YMRRWNšn') <em>āat̰ aōxta</em>; (Pers.) in ǧāy rāsfi avā zud begovešn 8 <em>āat̰ aōxta</em>; (Pers) rāsfi bā zud begovešn 83 <em>āat̰ aōxta</em>.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab><em>āat̰ aōxta zaraϑuštrō nəmō haōmāi mazdaδātāi vaŋhuš haōmō mazdaδātō nəmō haōmāi</em> = Y10.17.</ab>
+      <ab><em>āat̰ aōxta zaraϑuštrō nəmō haōmāi mazdaδātāi vaŋhuš haōmō</em> ~ Y9.16 <em>āat̰ aōxta zaraϑuštrō nəmō haōmāi vaŋhuš haōmō</em></ab>
+      <ab><em>āat̰ aōxta zaraϑuštrō nəmō haōmāi</em> = Y9.3.</ab>
+      <ab><em>nəmō haōmāi</em> = Yt17.5.</ab>
+   </Parallels>
+   <Ritual>
+      <ModernPractice id="ritualModernPractice">
+         <ab>Vid. Y11.9.</ab>
+      </ModernPractice>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY11.8"/>
+   <include type="W" corresp="WTrY11.8"/><include type="K" corresp="KTrY11.8"/><include type="D" corresp="DTrY11.8"/></translation>
+</text>

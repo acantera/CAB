@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+			<div type="Afringan" xml:id="ARap">	<!-- vide: MZK6, RR3, NiknamXA, MZK8; non vide: W1, W3, Katrak792b, Lb5 -->	
+				<div type="AfringanStanza" xml:id="ARap1.1" corresp="#GA4.1"> <!-- MZK9 gives the instruction: dar rūz-e Xordād o māh-e Frawardīn o gāh-e Rafetwen; NiknamXA gives the instruction: tamām īzad; MZK6 begins with a Pāzand introduction -->
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="12"/>
+                </div>
+                <div type="AfringanStanza" xml:id="ARap1.2" corresp="#GA4.1">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/> <!-- In MZK6 (all mss. 19th c.?) after the YAV and AV prayers it follows the Ratu for Rapiϑβin, a Pāzand formula and again YAV (12), AV (3), then comes the frauuarāne. section -->
+				</div>
+				<div type="Frauuarane" xml:id="ARap1.3" corresp="#GA4.1, #GA4.2">
+					<include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP1XA"/>
+                    <!-- According to Anquetil II, p. 67 (cf. I, p. 99): "Le Djouti (dit): Dites-moi, (à moi) Djouti: c’est le desir d’Ormusd (&c.) Le Raspi (dit) Dites-moi, ô Djouti: c’est le desir d’ormusd (&c.) Le Djouti (répond): Dites au Chef de faire des actions saintes & utiles; avertissez-le de cela." -->
+				</div>
+				<div type="AfringanStanza" xml:id="ARap2.1" corresp="#GA4.3">
+					<ab n="a" xml:id="ARap2.1a">aϑa.zī. mraōt̰. ahurō. mazdā̊.</ab> <!-- According to N53.23 (see Kotwal/Kreyenbroek 2003, pp. 252-253 + fn. 1032), ARap2.1 (aθa. zī. mraoṯ.) are the initial words of the text; according to Anquetil II, p. 67, the text is recited by both priests together -->
+					<ab n="b" xml:id="ARap2.1b">spitamāi. zaraϑuštrāi. rapiϑβinahe. raϑβō. uxδəm. vacō.</ab> <!-- According to NyXwar the words for the time of Rapiϑβin are: Y36.6 imā. raōcā̊. barəzištəm. barəzimanąm. Its Xšnūman is that for AV + fire: aṣ̌ahe. vahištahe. āθrasca. ahurahe. mazdā̊. / aṣ̌əm. vahištəm. ātrəmca. ahurahe. mazdā̊. puθrəm. yazamaide. -->
+					<ab n="c" xml:id="ARap2.1c">pərəsaca.nā̊. aṣ̌āum. zaraϑuštra.</ab>
+					<ab n="d" xml:id="ARap2.1d">yā. tē. aɱāi. paršta. parštəm. zī. ϑβā. yaϑanā. tat̰. amauuaṇtąm.</ab> <!-- ARap2.1d-e is an linguistically adapted quotation from Y43.10d-e; while in ARap Z. is the questioner, in Y43.10 wants to be asked by AM -->
+					<ab n="e" xml:id="ARap2.1e">yat̰. ϑβā. xšaiiąs. aēšəm. daiiāt̰. amauuaṇtəm.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="ARap2.2" corresp="#GA4.4">
+					<ab n="a" xml:id="ARap2.2a">pərəsat̰. zaraϑuštrō. ahurəm. mazdąm.</ab>
+					<ab n="b" xml:id="ARap2.2b">ahura. mazda. maińiiō. spə̄ništa. dātarə. gaēϑanąm. astuuaitinąm. aṣ̌āum.</ab> <!-- In XA texts, AM is addressed by these words besides ARap2.2 only in the pərəsat̰. stanzas of YtWahr; the formula, however, is frequently used in the V, Vyt (?) -->
+					<ab n="c" xml:id="ARap2.2c">cuuat̰. hō.nā. aŋhuiiāite.</ab>
+					<ab n="d" xml:id="ARap2.2d">cuuat̰. hō.nā. aṣ̌aiieiti.</ab>
+					<ab n="e" xml:id="ARap2.2e">cuuat̰. aɱāi. naire. miždəm. aŋhat̰.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="ARap2.3" corresp="#GA4.5">
+					<ab n="a" xml:id="ARap2.3a">yō. rapiϑβinahe. ratufrita.</ab>
+					<ab n="b" xml:id="ARap2.3b">rapiϑβinəm. ratūm. framarāite.</ab>
+					<ab n="c" xml:id="ARap2.3c">rapiϑβinəm. ratūm. frāiiazāite.</ab>
+					<ab n="d" xml:id="ARap2.3d">frasnātaēibiia. zastaēibiia.</ab>
+					<ab n="e" xml:id="ARap2.3e">frasnātaēibiia. hāuuanaēibiia.</ab> <!-- Cf. with ARap2.3e-i #GYt 0.91, but without raōciṇtāt̰. paiti. āϑrāt̰.; cf. also V 9.56 saōciṇtat̰. (!) paiti. āθrat̰. frastərətāt̰. paiti. barəsmən. uzdātāt̰. paiti. haōmāt̰. -->
+					<ab n="f" xml:id="ARap2.3f">frastərətāt paiti. barəsmən.</ab>
+					<ab n="g" xml:id="ARap2.3g">uzdātāt̰. paiti. haōmāt̰.</ab>
+					<ab n="h" xml:id="ARap2.3h">raōciṇtāt̰. paiti. āϑrāt̰.</ab>
+					<ab n="i" xml:id="ARap2.3i">srāuuaiiamnāt̰. paiti. ahunāt̰. vairiiāt̰.</ab>
+					<ab n="j" xml:id="ARap2.3j">haōmō.aŋharštahe. hizuuō.</ab>
+					<ab n="k" xml:id="ARap2.3k">mąϑrō.hitahe. tanuuō.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="ARap2.4" corresp="#GA4.6">
+					<ab n="a" xml:id="ARap2.4a">paiti.ṣ̌ē. aōxta. ahurō. mazdā̊.</ab>
+					<ab n="b" xml:id="ARap2.4b">yaϑa. vātō. rapiϑβənatarāt̰. naēmāt̰.</ab>
+					<ab n="c" xml:id="ARap2.4c">spitama. zaraϑuštra.</ab>
+					<ab n="d" xml:id="ARap2.4d">vīspəm. ahūm. astuuaṇtəm.</ab>
+					<ab n="e" xml:id="ARap2.4e">frāδatica. varəδatica. saōš́iiaṇtica. aiβica. aṣ̌āite. jāmaiiāiti.</ab>
+					<ab n="f" xml:id="ARap2.4f">auuat̰. hō.nā. aŋhuiiete.</ab>
+					<ab n="g" xml:id="ARap2.4g">auuat̰. aɱāi. nāire. miždəm. aŋhat̰.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="ARap2.5" corresp="#GA4.7" quote="ARap2.3">
+					<ab n="a" xml:id="ARap2.5a">yō. rapiϑβinahe. ratufrita.</ab>
+					<ab n="b" xml:id="ARap2.5b">rapiϑβinəm. ratūm. framarāite.</ab>
+					<ab n="c" xml:id="ARap2.5c">rapiϑβinəm. ratūm. frāiiazāite.</ab>
+					<ab n="d" xml:id="ARap2.5d">frasnātaēibiia. zastaēibiia.</ab>
+					<ab n="e" xml:id="ARap2.5e">frasnātaēibiia. hāuuanaēibiia.</ab>
+					<ab n="f" xml:id="ARap2.5f">frastərətāt paiti. barəsmən.</ab>
+					<ab n="g" xml:id="ARap2.5g">uzdātāt̰. paiti. haōmāt̰.</ab>
+					<ab n="h" xml:id="ARap2.5h">raōciṇtāt̰. paiti. āϑrāt̰.</ab>
+					<ab n="i" xml:id="ARap2.5i">srāuuaiiamnāt̰. paiti. ahunāt̰. vairiiāt̰.</ab>
+					<ab n="j" xml:id="ARap2.5j">haōmō.aŋharštahe. hizuuō.</ab>
+					<ab n="k" xml:id="ARap2.5k">mąϑrō.hitahe. tanuuō.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="ARap2.6" corresp="#GA4.8">
+					<ab n="a" xml:id="ARap2.6a">frauuaōcat̰. ahurō. mazdā̊.</ab>
+					<ab n="b" xml:id="ARap2.6b" quote="ARap2.1b">spitamāi. zaraϑuštrāi. rapiϑβinahe. raϑβō. uxδəm. vacō.</ab>
+				</div>
+                <div type="AfringanStanza" xml:id="ARap2.7" corresp="#GA4.8">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/>
+				</div>	
+				<div type="AfringanStanza" xml:id="ARap3.1" corresp="#GA4.9" quote="AD2.8"> <!-- In the recitation with two priests (see IndXA) it follow: [rāspīg] ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō., then the recitation of the āfrīnāmi. xšaϑraiiāne. section by the two priests-->
+					<ab n="a" xml:id="ARap3.1a">āfrīnāmi. xšaϑraiiāne. daŋ́hu.paiti. </ab>
+					<ab n="b" xml:id="ARap3.1b">uparāi. amāi. uparāi. vərəϑrāi. uparāi. xšaϑrāi.</ab>
+					<ab n="c" xml:id="ARap3.1c">xšaϑrəmca. paiti.astīmca.</ab>
+					<ab n="d" xml:id="ARap3.1d">darəγō.xšaϑrəm. xšaϑrahe.</ab>
+					<ab n="e" xml:id="ARap3.1e">darəγō.jītīm. uštānahe.</ab>
+					<ab n="f" xml:id="ARap3.1f">druuatātəm. tanubiiō.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="ARap3.2" corresp="#GA4.9" quote="AD2.9">
+					<ab n="a" xml:id="ARap3.2a">aməm. hutaštəm. huraōδəm.</ab>
+					<ab n="b" xml:id="ARap3.2b">vərəϑraγnəm. ahuraδātəm.</ab>
+					<ab n="c" xml:id="ARap3.2c">vanaiṇtīmca. uparatātəm.</ab>
+					<ab n="d" xml:id="ARap3.2d">pouru.spaxštīm. t̰bišiiaṇtąm.</ab>
+					<ab n="e" xml:id="ARap3.2e">paiti.jaitīm. dušmaińiiunąm.</ab>
+					<ab n="f" xml:id="ARap3.2f">haϑrā.niuuāitīm. hamərəϑanąm.</ab>
+					<ab n="g" xml:id="ARap3.2g">auruuaϑanąm. t̰bišiiaṇtąm.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="ARap3.3" corresp="#GA4.9" quote="AD2.10">
+					<ab n="a" xml:id="ARap3.3a">āfrīnāmi.</ab>
+					<ab n="b" xml:id="ARap3.3b">vauuanuuā̊. vanat̰.pəṣ̌ənə. buiie.</ab>
+					<ab n="c" xml:id="ARap3.3c">vīspəm. auruuaϑəm. t̰bišiiaṇtəm.</ab>
+					<ab n="d" xml:id="ARap3.3d">vīspəm. aγəm. t̰bišiiaṇtəm.</ab>
+					<ab n="e" xml:id="ARap3.3e">araϑβiiō.manaŋhəm.</ab>
+					<ab n="f" xml:id="ARap3.3f">araϑβiiō.vacaŋhəm. </ab>
+					<ab n="g" xml:id="ARap3.3g">araϑβiiō.š́iiaōϑnəm.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="ARap3.4" corresp="#GA4.9" quote="AD2.11">
+					<ab n="a" xml:id="ARap3.4a">vauuanə. buiie. </ab>
+					<ab n="b" xml:id="ARap3.4b">raϑβiia. manaŋha. </ab>
+					<ab n="c" xml:id="ARap3.4c">raϑβiia. vacaŋha. </ab>
+					<ab n="d" xml:id="ARap3.4d">raϑβiia. š́iiaōϑna. </ab>
+					<ab n="e" xml:id="ARap3.4e">nijanə. buiie.</ab>
+					<ab n="f" xml:id="ARap3.4f">vīspe. dušmaińiiū. </ab>
+					<ab n="g" xml:id="ARap3.4g">vīspe. daēuuaiiasnə̄.</ab>
+					<ab n="h" xml:id="ARap3.4h">zazə. buiie.</ab>
+					<ab n="i" xml:id="ARap3.4i">vaŋhāuca. mižde.</ab>
+					<ab n="j" xml:id="ARap3.4j">vaŋhāuca. srauuahe.</ab>
+					<ab n="k" xml:id="ARap3.4k">urunaēca. darəγe. hauuaŋhe.</ab>
+				</div>		
+				<div type="AfringanStanza" xml:id="ARap3.5" corresp="#GA4.9" quote="AD2.12">
+					<ab n="a" xml:id="ARap3.5a">āfrīnāmi. </ab>
+					<ab n="b" xml:id="ARap3.5b">darəγəm. juua.</ab>
+					<ab n="c" xml:id="ARap3.5c">ušta. juua.</ab>
+					<ab n="d" xml:id="ARap3.5d">auuaŋhe. narąm. aṣ̌aōnąm. </ab>
+					<ab n="e" xml:id="ARap3.5e">ązaŋhe. dužuuarštāuuarəząm.</ab>
+					<ab n="f" xml:id="ARap3.5f">vahištəm. ahūm. aṣ̌aōnąm. </ab>
+					<ab n="g" xml:id="ARap3.5g">raōcaŋhəm. vīspō.xᵛāϑrəm.</ab> <!-- In NiknamXA follows a NP text on the celebration of ARap -->
+				</div>
+				<div type="AfringanStanza" xml:id="ARap3.6" corresp="#GA4.9">
+					<ab n="a" xml:id="ARap3.6a">aϑa. jamiiāt̰. yaϑa. āfrīnāmi.</ab>
+				</div>
+				<div type="AfringanStanza" xml:id="ARap3.7" corresp="#GA4.9" quote="Y35.2 (#GY35.2) = YR35.2 VrS43.2 VVrS43.2 VytVrS43.2">
+                    <ab n="a" xml:id="ARap3.7a">humatanąm. hūxtanąm. huuarštanąm. iiadacā. ańiiadacā.</ab>
+                    <ab n="b" xml:id="ARap3.7b">vərəziiamnanąmcā. vāuuərəzananąmcā. mahī.</ab>
+                    <ab n="c" xml:id="ARap3.7c">aibī.jarətārō. naēnaēstārō. yaϑanā. vohunąm. mahī.</ab>
+					<ab n="d" xml:id="ARap3.7d">humatanąm. hūxtanąm. huuarštanąm. iiadacā. ańiiadacā. vərəziiamnanąmcā. vāuuərəzananąmcā. mahī. aibī.jarətārō. naēnaēstārō. yaϑanā. vohunąm. mahī.</ab> <!-- In the IndXA a Vāj (Pāz. etc.) follows. According to Anquetil II, p. 64, both priests recite: "Que cet Afergan parvienne aux saints Feroüers, aux Feroüers de la pure Terre (l’Iranvedj), aux Feroüers vainqueurs, aux Feroüers de Poériodekéschans, aux Feroüers de (mes) proches, à tel Feroüer, (cet Afergan) d’Ardibehescht, auquel je fais Khoschnoumen! Qu’il parvienne à tous les grands Feroüers! Qu’ils l’agréent." -->
+				</div>
+				<div type="AfringanStanza" xml:id="ARap4.1" corresp="#GA4.9">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+                </div>
+				<div type="AfringanStanza" xml:id="ARap4.2" corresp="#GA4.9">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+				</div>
+				<div type="AfringanStanza" xml:id="ARap4.3" corresp="#GA4.10">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="2"/>
+                </div>	
+				<div type="AfringanStanza" xml:id="ARap4.4" corresp="#GA4.10">
+					<ab n="a" xml:id="ARap4.4a">yasnəmca. vaɱəmca. aōjasca. zauuarəca. āfrīnāmi.</ab>
+					<include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen39"/>
+				</div>
+				<div type="AfringanStanza" xml:id="ARap4.5" corresp="#GA4.10">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/> <!-- In mss. of the IndXA follows again: a) aθa. jamiiāt̰. yaθa. āfrīnāmi., b) the humatanąm.-formula (2x), c) YAV (21x) + AV (12x), d) the full aɱāi. raēšca. frame as known from Yt, Ny etc. -->
+				</div>
+			</div>
+</div>

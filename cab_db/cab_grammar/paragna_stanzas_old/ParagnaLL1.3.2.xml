@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL1.3.2" status="created">  <!-- created, approved, updated--> <header><creators><creator>Porro</creator><creator>Cantera</creator></creators><created>1 June 2019</created></header><div type="Stanza" sameAs="" n="2" xml:id="ParagnaLL1.3.2">
+                <include href="/db/apps/cab_db/cab_rituals/blueprint/Khordeh_rituals/Nerang/NerBarsomCidan" xpointer="NerBarsomCidan3.2a"/>   
+                <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen63"/>
+                <include href="/db/apps/cab_db/cab_rituals/nerang/khordeh_nerangs/NerBarsomCidan_nerang" xpointer="NerBarsomCidan3.2NerangTransc.a"/>
+            </div><Apparatus><Critical/><Commentary/></Apparatus><Parallels/><Ritual/><translation><include type="CAB" corresp="CABTrParagnaLL1.3.2"/></translation></text>

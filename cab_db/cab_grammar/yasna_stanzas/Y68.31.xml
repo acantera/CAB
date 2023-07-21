@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y68.31" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>3 March 2020</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y68.31" quote="Y33.10 x3, Y36.6 x3, Y43.7 x3">
+        <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y68.30NerangTransc.a"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY68.23a"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY68.23b"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY68.23c"/>
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab>The recitation of the three verses Y33.10c, Y36.6b or Y43.7a, as edited by Geldner,
+                happens only in the ceremonies with the <em>šnūman</em> of Nōg-nāwar or Sīrōzag. In
+                the rest of ceremonies, only one verse is recited, depnding on the gāh (Y33.10c for
+                <em>ušahina</em> and <em>hāuuani</em>; Y36.6b for <em>rapiθβina</em> and Y43.7a
+                for <em>uzaiieirina</em> (see the nērangs and N29.6).</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Y68.31 (ms. 40):</ab>
+            <ab class="ab_indent">
+                <em>vohū uxšiiā manaŋhā xšaϑrā aṣ̌ācā uštā tanūm</em> harw gāh dārēd sē bār guftan ud ka yašt nōgnāwar ayāb sih rōzag harw sē gāh ī nēmrōz ud  aybārag guftan harw ēk sē bār
+                ud ka gāh ī rapihwin bēd <em>imā raōcā̊ barəzištəm barəzimanąm</em> sē bār guftan ka gāh ī uzerin bēd <em>yaɱī spəṇtā ϑβā maińiiū uruuaēsē jasō</em> sē bār guftan 
+            </ab>
+            <ab class="ab_indent">
+                "<em>vohū uxšiiā manaŋhā xšaϑrā aṣ̌ācā uštā tanūm</em> He should say  three times the text of the corresponding gāh. When it is a <em>yašt</em> Nōgnāwar or Sih-rōzag, 
+                then the three <em>gāh</em>, the one of Bāmzayd, the one of noon and the one of <em>aybārag</em>(?) have to be recited, each one three times. When it is the <em>gāh rapihwin</em>, 
+                he should say three times <em>imā raōcā̊ barəzištəm barəzimanąm</em>. When it is the <em>gāh uzerin</em>, he should recite three times <em>yaɱī spəṇtā ϑβā maińiiū uruuaēsē jasō</em>."</ab>
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+            <ab>Cf. N29.6:</ab>
+            <ab>
+                <em>nōg-nāwar yašt-ē bowandagtar be kunišn u-š bowandagīh </em>vohū uxšiiā manaŋhā
+                imā̊ raocā̊ barəzištəm barəzimanąm <em> ud </em> ẏahmī spəṇtā θβā mainiiū uruuaēsē
+                jasō <em> har ēk 3 bār be gōwišn</em>
+            </ab>
+            <ab>The Yašt Nōg Nāwar has to be performed more complete. Its completness consists of
+                reciting threetimes each of one of theses texts: <em>vohū uxšiiā manaŋhā</em>
+                (Y33.10c), <em> imā̊ raocā̊ barəzištəm barəzimanąm</em> (Y36.6b) and <em>ẏahmī
+                    spəṇtā θβā mainiiū uruuaēsē jasō</em>(Y43.7a) .</ab>
+        </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY68.31"/>
+        <include type="W" corresp="WTrY68.23a"/><include type="K" corresp="KTrY68.23a"/><include type="D" corresp="DTrY68.23a"/></translation>
+</text>

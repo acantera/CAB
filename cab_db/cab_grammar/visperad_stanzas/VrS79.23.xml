@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS79.23" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS79.23">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS33.22a" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/GahanbarGen" xpointer="GahanbarGen1" alt_href="/db/apps/cab_db/cab_rituals/blocks/RatuGen" alt_xpointer="RatuGen2" has_alt="1" on_line="in1line"/>
+      <!-- If not a Gahanbar day -->
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS79.23 (mss. 2005, 2030, 2101, 2106, 2109):</ab>
+         <ab class="ab_indent">
+            <em>āat̰ dīš āuuaēδaiiamahi raϑβō bərəzatō</em> tā <em>yōi həṇti aṣ̌ahe ratauuō hāuuanōiš raϑβō yasnāica vaɱāica xšaōθrāica frasastaiiaēca āat̰ dīš āuuaēδaiiamahi ahurahe
+               mazdā̊ raēuuatō xᵛarənaŋᵛhatō aməṣ̌anąm spəṇtanąm xšnūman</em> ān ī bēd wizārdan <em>xšnaōθra yasnāica vaɱāica xšaōθrāica frasastaiiaēca āat̰ dīš</em> agar gāhānbār 
+            bēd ka-t <em>ā̊ŋhąm asaŋhąm</em> guft <em>āat̰ dīš āuuaēδaiiamahi raϑβō bərəzatō</em> tā <em>yōi həṇti aṣ̌ahe ratauuō maiδiiōizarəmaiiehe raϑβō</em> ayāb ān gāh bēd  
+            <em>yasnāica vaɱāica xšnaōϑrāica frasastaiiaēca āat̰ dīš āuuaēδaiiamahi raθβō bərəzatō yō aṣ̌ahe raθβąm aiiaranąmca</em> tā <em>sarəδanąmca raϑβąm vīspe mazištanąm yōi
+               həṇti aṣ̌ahe ratauuō hāuuanīm paiti ratūm maiδiiōizarəmaiiehe raϑβō.</em> ayāb ān gāh bēd <em>xšnaōϑra yasnāica vaɱāica xšnaōϑrāica frasastaiiaēca</em>.</ab> 
+         
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS79.23"/>
+   </translation>
+</text>

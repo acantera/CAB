@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL1.3.3" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="3" xml:id="ParagnaLL1.3.3"> </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            
+
+            <ab>ParagnaLL1.3.3 Var. b (Mss. K36, 31, 89, 19):</ab>
+            <ab class="ab_indent"> va <em>aṣ̌əm</em> va <em>ahmāi raēšca</em> tamām be-ḫᵛānad va
+                barsom ke mi-činad bon va sar-e barsom mi-negarad va avval bon-e barsom bar bāyad
+                čidan va az bālā-ye barsom meqdār-e yek dāne-ye ǧou bištar ne barad ke be-kār-i
+                nayāyad va az bon-e barsom agar bištar ne bord šāyad va bāyad ke barsom ṭāq
+                bāšad</ab>
+            <ab class="ab_indent"> "He recites one <em>Aṣ̌əm Vohū</em> and <em>ahmāi raēšca</em>
+                until the end. When he cuts the <em>barsom</em>, he inspects the bottom and the top
+                of the <em>barsom</em>. He must cut first the bottom of the <em>barsom</em>. He
+                should not go further than the measure of a corn of barley that it cannot be
+                employed for any task. It also allowed be it does not go further from the bottom of
+                the <em>barsom</em>. The (twigs of the) <em>barsom</em> must be odd."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL1.3.3"/>
+    </translation>
+</text>

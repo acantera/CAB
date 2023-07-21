@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y1.10" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+
+        </creators>
+        <created>1 June 2019</created>
+        <approved>Cantera, 25 February 2020</approved>
+        <updated>Cantera, 25 February 2020</updated>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y1.10">
+        <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY1.10"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. Y1.4.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+    </Apparatus>
+    <Parallels>
+        <ab>Y1.10 ≈ Y2.10, Y3.12, Y4.15, Y6.9, Y7.13, Y17.9, Y22.13, Y24.20, Y66.10, VrS78.22,
+            VrS79.15, VrS81.9, VrS82.10, VVrS14.8.</ab>
+        <ab>
+            <em>vīspaēibiiō aēibiiō ratubiiō yōi həṇti aṣ̌ahe ratauuō ϑraiiasca ϑrisąsca nazdišta
+                pairiš.hāuuanaiiō</em> ~ VytS3.6<em>vīspe ā tē ā ϑātuš tē ā ratūš yōi həṇti aṣ̌ahe
+                ratauuō ϑraiiasca ϑrisąsca nazdišta pairiš.hāuuanaiiō yōi həṇti aṣ̌ahe ratauuō
+                ϑrātōtəmō</em>; ~ Y1.23 <em>ratauuō vīspe mazišta</em>
+        </ab>
+        <ab>
+            <em>raϑβō bərəzatō yō aṣ̌ahe raϑβąm aiiaranąmca asńiianąmca māhiianąmca yāiriianąmca
+                sarəδanąmca yōi həṇti aṣ̌ahe ratauuō</em> See parallels in Y1.18</ab>
+        <ab>
+            <em>mazdō.frāsasta zaraϑuštrō.fraōxta</em> ~ Y65.9 <em>yą ahurō mazdā̊ zaraϑuštrāi
+                frāuuauuaca frā zaraϑuštrō gaēϑābiiō astuuaitibiiō</em>
+        </ab>
+        <ab>
+            <em>mazdō.frasāsta</em> ~ Y28.13 <em>tuuə̄m mazdā ahurā frō.mā sīšā</em>; ~ Yt13.83,
+            Yt19.16 <em>(aməṣ̌a spəṇta) hamō pataca frasāstaca yō daδuuā̊ ahurō mazdā̊</em>
+        </ab>
+    </Parallels>
+    <Ritual>
+        <Quotations id="ritualQuotations">
+            <ab><ab>Revāyat Kāma Bohra (MU1, p. 484):</ab>
+            <ab class="ab_indent">"(Pers.) puršeš ānke sī-o se hunar pīrāman-e hāvan čīst 
+                pāsoḫ īnke <em>ϑriiasca. ϑrisą̇sca. nazdišta.</em> sī-o se hunar ān ast ke bīst-o yek nask-e avestā ke yazešn mīkonand
+                kār-e yazešn ast va dar yazešngāh hāvan ǧāmdān ūrvarām va barahūm va barsom
+                ke dādār urmazd parāǧ āmuḫt uy zartošt <em>zltwwšt</em>  parāǧ goft uy mardomān ku con āvāyad kardan  beyazdān kām"</ab>
+                <ab class="ab_indent">"The question is which are the thirty three <em>hunar</em> around <em>hāuuani</em>? The answer is: <em>ϑriiasca. ϑrisą̇sca. nazdišta.</em> 
+                    The thirty three <em>hunar</em> are are those, which are the twenty one Nask of the Avesta, that they use in the Yasna. 
+                    The apparatus of the Yasna in the Yazišn-gāh are the <em>hāwan</em>, the <em>ǧāmdān</em>, the <em>ūrvarām</em>, the <em>parahōm</em> and the <em>barsom</em>
+                    [...], that the creator Ohrmazd taught to Zardušt (and Zardušt) taught to the men, how this should be done according to the wishes of the <em>yazdān</em>."</ab></ab>
+            <ab><ab>Revāyat Narīmān Hošang (MU1, p. 485):</ab></ab>
+            <ab class="ab_indent"><em>ϑriiasca. ϑrəsą̇saca. nazdišta. piriš. hāuuaniiō. ẏō. həṇti. aṣ̌ahe. ẏat̰. vaheštahe. mazdō. frasāsta. zaraϑuštrō. fraoxta.</em> 
+                maʿnī-ye īn avestā īnke sī-o se honar ke andar pīramon va gerd-e hāvan ke dastūrān mīkonand ūrmazd āmuḫt ūy zartošt va ū āmuḫt ūy mardomān ke čūn mībāyad kardan va čerā mībayad kardan</ab>
+            <ab class="ab_indent">"<em>ϑriiasca. ϑrəsą̇saca. nazdišta. piriš. hāuuaniiō. ẏō. həṇti. aṣ̌ahe. ẏat̰. vaheštahe. mazdō. frasāsta. zaraϑuštrō. fraoxta</em> 
+                The meaning in the Avesta is that the thirty three <em>hunar</em> that are around <em>hāuuani</em> that the dastūrs use, 
+                Ormazd taught to Zartošt and he tought to the humanity, how should be done and why should be done.</ab>
+            <ab><ab>Revāyat Mānek Canga (MU1, p. 485):</ab></ab>
+            <ab class="ab_indent">porseš ānke sī-o se pīše-ye hīrbadān čīst pāsoḫ ānke har <em>vīspēbiiō. aēbiiō. ratubiiō.</em> 
+                har vesp rad ke and ašā sī-o se pīrāmon-e hāvan ke ūrmazd farāǧ āmuḫt ūy zartošt zarātošt farāǧ goft ūy mardomān 
+                ke čenīn āvāyad kardan īn sī-o se pīše-ye hīrvadān ke andar yazešn kār-e yazešn konand</ab>
+            <ab class="ab_indent">"The question is: which are the thirty three crafts of the <em>hērbad</em>? 
+                The answer is this: each <em>vīspēbiiō. aēbiiō. ratubiiō.</em>. All these <em>rad</em> are holy, the thirty three around <em>hāuuani</em> that Ormazd taught Zardušt 
+                and Zardušt told to the humanity how they should be used. These thirty three crafts that the <em>hērbad</em> use in a Yasna during the performing of the Yasna."</ab>
+        </Quotations>
+        <!--<Commentary id="ritualCommentary">
+            <ab>This stanza is exclusive of the <em>vīspa ratu</em> ceremonies. It follows always
+                the mention of anual festivity (<em>sarəδa- ratu-</em>) and preceeds the mention of
+                the date (Y1.13) with the intermediation of the stanza about Ahura-Miϑra and the
+                celestial bodies (Y1.11). The identification of what do the 33 <em>ratu
+                    parišhāuuani</em> designate is controversial since Antiquity. The Dēnkard (Dk.
+                8.7.17) identified them with 33 divinities, likely the 33 mentioned in the Sīrōzag.
+                The Persian Rivāyat (<bibl>Unvala, 1922</bibl>: p. I. 484 ll. 16 ff. and I.485 ll. 7
+                ff.) with the 33 implements used in the performance of the Long Liturgy. This
+                interpretation was accepted by Anquetil (<bibl>Anquetil-Duperron, 1771</bibl>: I.2
+                p. 87). </ab>
+            <ab>Kellens argued that this designation refers to 33 texts 
+                (<bibl>Kellens, 1996</bibl>:p. 81). This would connect this number with the traditional number of
+                the Staōta Yesńiia (see the Persian Rivāyat <bibl>Unvala, 1922</bibl>, II, pp.
+                392-393 and p. 436). Accordingly, he has tried to identify the 33 texts that would
+                constitute the Staōta Yesńiia ( <bibl>Kellens, 1996</bibl>:p. 82 ff.); later also Cantera (
+                    <bibl>Cantera, 2009</bibl>) who connected it with the list of texts enumerated in
+                the Visperad-<em>karde</em> inserted immediatly before this stanza. Nonetheless, the
+                traditional identifcation of the 33 <em>ratu parišhāuuani</em> as referring to the
+                previously mentioned liturgical times has to be prefered (see already <bibl>Dhabhar,
+                    1932</bibl>, pp. 329, n.1 who also records older literature). A clear hint
+                pointing to the identification of these <em>ratu</em> as temporal is the fact that
+                the mention of the 33 <em>ratu parišhāuuani</em> is recited only in the <em>vīspa
+                    ratu</em> ceremonies. In the <em>vīspa yazata</em>, where the list of the
+                lliturgical times is reduced to the actual time of the performance and the the day
+                and month, the stanza about the 33 <em>ratu</em> is omitted. </ab>
+        </Commentary>-->
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY1.10"/>
+        <include type="W" corresp="WTrY1.10"/>
+        <include type="K" corresp="KTrY1.10"/>
+        <include type="D" corresp="DTrY1.10"/>
+    </translation>
+</text>

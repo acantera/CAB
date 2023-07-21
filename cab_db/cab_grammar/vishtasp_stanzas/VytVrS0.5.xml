@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VytVrS0.5" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VytVrS0.5">
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>zōt: vid. Y0.5.</div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>VytVrS0.5 Var. a (ms. 5020):</ab>
+            <ab class="ab_indent">
+                u-š yatāhuweryō dō andar rāh bē gōwišn u-š ō ī gāh ī zōtān šawišn u-š tarsāgīhā pad škōh ī yazdān bē ēstišn ud yazdān ō ī yazišn niwēyēnišn</ab>
+            <ab class="ab_indent">
+                "He has to recite two yatāhuwairyō on the way and to go to the place of the <em>zōt</em>. He must stand respectfully in fear to the the gods and invite the gods to the liturgy."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrVytVrS0.5"/>
+    </translation>
+</text>

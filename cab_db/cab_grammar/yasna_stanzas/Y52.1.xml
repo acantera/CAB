@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y52.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y52.1" headerPointer="Head52">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV1"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y52.1 Var. a (mss. 6, 40):</ab>
+         <ab class="ab_indent">
+            <em>yaθā ahū vairiiō</em>. dō guftan ud bōy ō ī ātaxš dādan fraharašn ruwān gyān kardan</ab>
+         <ab class="ab_indent">
+            "They should recite two <em>yaθā ahū vairiiō</em>. He (the <em>rāspīg</em>) should give <em>bōy</em> to the fire. They should reckon the <em>frauuaṣ̌i</em>, the souls and the spirits."</ab>
+         <ab>Y52.1 Var. b (ms. 88):</ab>
+         <ab class="ab_indent">
+            <em>yaθā ahū vairiiō</em>. dō guftan ud bōy ō ī ātaxš  dādan  ‡ēč-at‡ anāstārīh ēn gyāg kunišn fraharašn ruwān gyān kardan</ab>
+         <ab class="ab_indent">
+            They should recite two <em>yaθā ahū vairiiō</em>. He (the <em>rāspīg</em>) should give <em>bōy</em> to the fire. They should make at this passage repentance of the sins
+            and reckon the <em>frauuaṣ̌i</em>, the souls and the spirits."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY52.1"/>
+      <include type="W" corresp="WTrY52.1a"/>
+      <include type="K" corresp="KTrY52.1a"/>
+      <include type="D" corresp="DTrY52.1a"/>
+   </translation>
+</text>

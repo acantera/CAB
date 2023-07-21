@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS3.21" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y3.21" xml:id="VrS3.21">
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY3.20"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. VrS3.6, VrS3.14.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>VrS3.21 Var. a (mss. 15, 360, 370, 88, 2010, 2030, 2040, 2101, 2106, 4000, 4010, 4020, 4025, 4030, 4040, 4045, 4050, 4055, 4060, 4063, 4161, 4162, 5020):</ab>
+            <ab class="ab_indent">
+                <em>haōməmca para.haōməmca āiiese yešti xšnūmaine zaraϑuštrahe</em> bōy ō ī ātaxš dahišn <em>spitāmahe aṣ̌aōnō frauuaṣ̌ə̄e aōxtō.nāmanō yazatahe aēsmą āiiese yešti
+                    baōiδi xšnūmaine tauua āϑrō</em> bōy ō ī ātaxš dahišn <em>ahurahe mazdā̊ puϑra aōxtō.nāmanō yazatahe</em> tā ānōh dō bār guftan bōy ham pad ān gyāg ī-m azabar nibišt ō ātaxš dādan</ab> 
+            <ab class="ab_indent">
+                "<em>xᵛarəϑəm miiazdəm āiiese yešti hauruuata amərətāta gāuš hudā̊ xšnūmaine sraōšahe</em>  -- he has to give <em>bōy</em> to the fire-- <em>aṣ̌iiehe taxmahe tanumąϑrahe 
+                    darši.draōš āhūiriiehe aōxtō.nāmanō. yazatahe haōməmca para.haōməmca āiiese yešti xšnūmaine zaraϑuštrahe</em> -- he has to give <em>bōy</em> to the fire-- <em>spitāmahe
+                    aṣ̌aōnō frauuaṣ̌ə̄e aōxtō.nāmanō yazatahe aēsmą āiiese yešti baōiδi xšnūmaine tauua āϑrō</em> -- he has to give <em>bōy</em> to the fire-- <em>ahurahe mazdā̊ puϑra aōxtō.nāmanō 
+                    yazatahe</em> until here he has to say twice and he has to give <em>bōy</em> to the fire at the same passages I have writen above."</ab>
+            
+            <ab>VrS3.21 Var. b (mss. 2030, 2101):</ab>
+            <ab class="ab_indent">
+                <em>aēsmą āiiese yešti baōiδi xšnūmaine tauua āϑrō ahurahe mazdā̊ puϑra aōxtō.nāmanō yazatahe</em> dō bār guftan har bār bōy šaš bār ō ātaxš dahišn.</ab>
+            <ab class="ab_indent">
+                "He has to say twice <em>aēsmą āiiese yešti baōiδi xšnūmaine tauua āϑrō ahurahe mazdā̊ puϑra aōxtō.nāmanō yazatahe</em>. Each time he has to give six
+                times <em>bōy</em> to the fire."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation/>
+</text>

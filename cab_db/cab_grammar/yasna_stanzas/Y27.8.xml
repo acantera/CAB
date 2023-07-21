@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y27.8" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y27.8">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY27.7a"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY27.7b"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY27.7c"/>
+               <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y27.8NerangTransc.a"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY27.7d"/>
+               <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y27.8NerangTransc.b"/>
+            </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+    <ab>~ VrS31.13 and 15</ab>
+       
+         
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY27.8"/>
+    <include type="W" corresp="WTrY27.7a"/><include type="K" corresp="KTrY27.7a"/><include type="D" corresp="DTrY27.7a"/></translation>
+</text>

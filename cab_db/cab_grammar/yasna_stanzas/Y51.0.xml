@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y51.0" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y51.0" headerPointer="Head51">
+        <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY51.0"/>
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Y51.0 (mss. 88, 2106):</ab>
+            <ab class="ab_indent">
+                wohuxšahr gāh bun bōy ō ī ātaxš dādan</ab>
+            <ab class="ab_indent">
+                "Beginning of the Wohuxǎhr Gāh. He (the <em>rāspīg</em>) should give <em>bōy</em> to the fire."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY51.1"/>
+    </translation>
+</text>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS86.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VVrS86.1">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY62.1"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VVrS86.1 (mss. 4000, 4010, 4020, 4025, 4040, 4050, 4055, 4060, 4161, 4162):</ab>
+         <ab class="ab_indent">
+            ēn gyāg <em>vīspaēibiiō sastīm baraiti</em> barsom az māhrōy abar griftan abar pāy estādan <em>ātarš mazdā̊ ahurahe</em>. ...</ab> 
+         <ab class="ab_indent">
+            "At the passage, at <em>vīspaēibiiō sastīm baraiti</em>, he should take the <em>barsom</em> from the <em>māhrōy</em> and stand (and continue with): <em>ātarš mazdā̊ ahurahe</em>. ..."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS86.1"/>
+   </translation>
+</text>

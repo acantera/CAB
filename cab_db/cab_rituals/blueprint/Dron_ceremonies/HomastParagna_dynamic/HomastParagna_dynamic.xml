@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div type="book" xml:id="HomastP" n="HomastP">
+    <div n="1" type="Chapter" xml:id="HomastP1">
+        <div n="1" type="Stanza" xml:id="HomastP1.1">
+            <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+            <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+            <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+        </div>
+        <div n="2" type="Stanza" xml:id="HomastP1.2"> 
+            <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP27"/>
+        </div>
+    </div>
+    <div n="2" type="Chapter" xml:id="HomastP2">
+        <div n="1" type="Stanza" xml:id="HomastP2.0" corresp="#GY24.0">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.0"/>
+        </div>
+        <div n="1" type="Stanza" xml:id="HomastP2.1" corresp="#GY24.1">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.1"/>
+        </div>
+        <div n="2" type="Stanza" xml:id="HomastP2.2" corresp="#GY24.2">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.2"/>
+        </div>
+        <div n="3" type="Stanza" xml:id="HomastP2.3" corresp="#GY24.3">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.3a"/>
+            <include href="/db/apps/cab_db/cab_rituals/nerang/dronceremonies_nerangs/homastp_nerang" xpointer="HomastP2.3NerangTransc.a"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.3b"/>
+        </div>
+        <div n="4" type="Stanza" xml:id="HomastP2.4" corresp="#GY24.4">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.4"/>
+        </div>
+        <div n="5" type="Stanza" xml:id="HomastP2.5" corresp="#GY24.5">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.5"/>
+        </div>
+        <div n="6" type="Stanza" xml:id="HomastP2.6" corresp="#GY24.6">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.6"/>
+        </div>
+        <div n="7" type="Stanza" xml:id="HomastP2.7" corresp="#GY24.7">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.7"/>
+        </div>
+        <div n="8" type="Stanza" xml:id="HomastP2.8" corresp="#GY24.8">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.8"/>
+        </div>
+        <div n="9" type="Stanza" xml:id="HomastP2.9" corresp="#GY24.9">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.9"/>
+        </div>
+        <div n="10" type="Stanza" xml:id="HomastP2.10" corresp="#GY24.10">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.10"/>
+        </div>
+        <div n="11" type="Stanza" xml:id="HomastP2.11" corresp="#GY24.11">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.11"/>
+        </div>
+        <div n="12" type="Stanza" xml:id="HomastP2.12" corresp="#GY24.12">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.12"/>
+        </div>
+        <div n="13" type="Stanza" xml:id="HomastP2.13" corresp="'#GY24.13">
+            <include href="/db/apps/cab_db/cab_rituals/nerang/dronceremonies_nerangs/homastp_nerang" xpointer="HomastP2.13NerangTransc.a"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.13a"/>
+            <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.1"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.13b"/>
+            <include href="/db/apps/cab_db/cab_rituals/nerang/dronceremonies_nerangs/homastp_nerang" xpointer="HomastP2.13NerangTransc.b"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.13c"/>
+            <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.2"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.13d"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.13e"/>
+            <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat2.3"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.13f"/>
+        </div>
+        <div n="14" type="Stanza" xml:id="HomastP2.14" corresp="#GY24.22">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.14a"/>
+            <include href="/db/apps/cab_db/cab_rituals/blocks/RozGen" xpointer="RozGen1"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.14b"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.14c"/>
+            <include href="/db/apps/cab_db/cab_rituals/blocks/MahGen" xpointer="MahGen1"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.14d"/>
+            <include href="/db/apps/cab_db/cab_rituals/nerang/dronceremonies_nerangs/homastp_nerang" xpointer="HomastP2.14NerangTransc.a"/>
+        </div>
+        <div n="15" type="Stanza" xml:id="HomastP2.15" corresp="#GY24.23">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.15"/>
+        </div>
+        <div n="16" type="Stanza" xml:id="HomastP2.16" corresp="#GY24.24">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.16"/>
+        </div>
+        <div n="17" type="Stanza" xml:id="HomastP2.17" corresp="#GY24.25">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.17"/>
+        </div>
+        <div n="18" type="Stanza" xml:id="HomastP2.18" corresp="#GY24.26">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.18"/>
+        </div>
+        <div n="19" type="Stanza" xml:id="HomastP2.19" corresp="#GY24.27">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.19"/>
+        </div>
+        <div n="20" type="Stanza" xml:id="HomastP2.20" corresp="#GY24.29">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.20a"/>
+            <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen65"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.20b"/>
+        </div>
+        <div n="21" type="Stanza" xml:id="HomastP2.21" corresp="#GY4.30">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.21"/>
+        </div>
+        <div n="22" type="Stanza" xml:id="HomastP2.22" corresp="#GY4.26, #GY4.31">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP2.22"/>
+        </div>
+    </div>
+    <div n="3" type="Chapter" xml:id="HomastP3">
+        <div n="1" type="Stanza" xml:id="HomastP3.1" corresp="#GY25.1">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP3.1a"/>
+            <include href="/db/apps/cab_db/cab_rituals/nerang/dronceremonies_nerangs/homastp_nerang" xpointer="HomastP3.1NerangTransc.a"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP3.1b"/>
+            <include href="/db/apps/cab_db/cab_rituals/nerang/dronceremonies_nerangs/homastp_nerang" xpointer="HomastP3.1NerangTransc.b"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP3.1c"/>
+        </div>
+        <div n="2" type="Stanza" xml:id="HomastP3.2" corresp="#GY25.2">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP3.2"/>
+        </div>
+        <div n="3" type="Stanza" xml:id="HomastP3.3" corresp="#GY25.3">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP3.3"/>
+        </div>
+        <div n="4" type="Stanza" xml:id="HomastP3.4" corresp="#GY25.4">
+            <include type="block_shnumanacc" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanAcc" xpointer="ShnumanAcc65"/>
+        </div>
+        <div n="5" type="Stanza" xml:id="HomastP3.5" corresp="#GY26.11">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP3.5"/>
+        </div>
+        <div n="6" type="Stanza" xml:id="HomastP3.6" corresp="#GY26.11">
+            <include href="/db/apps/cab_db/cab_rituals/prayers/YeH" xpointer="YeH"/>
+            <include href="/db/apps/cab_db/cab_rituals/nerang/dronceremonies_nerangs/homastp_nerang" xpointer="HomastP3.6NerangTransc.a"/>
+        </div>
+    </div>
+    <div n="4" type="Chapter" xml:id="HomastP4">
+        <div n="1" type="Stanza" xml:id="HomastP4.1" corresp="#GY27.1">
+            
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.1a"/>
+            <include href="/db/apps/cab_db/cab_rituals/nerang/dronceremonies_nerangs/homastp_nerang" xpointer="HomastP4.1NerangTransc.a"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.1b"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.1c"/>
+            <include href="/db/apps/cab_db/cab_rituals/nerang/dronceremonies_nerangs/homastp_nerang" xpointer="HomastP4.1NerangTransc.b"/>
+        </div>
+        <div n="2" type="Stanza" xml:id="HomastP4.2" corresp="#GY27.2">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.2a"/>
+            <include href="/db/apps/cab_db/cab_rituals/nerang/dronceremonies_nerangs/homastp_nerang" xpointer="HomastP4.2NerangTransc.a"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.2b"/>
+            <include href="/db/apps/cab_db/cab_rituals/nerang/dronceremonies_nerangs/homastp_nerang" xpointer="HomastP4.2NerangTransc.b"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.2c"/>
+            <include href="/db/apps/cab_db/cab_rituals/nerang/dronceremonies_nerangs/homastp_nerang" xpointer="HomastP4.2NerangTransc.c"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.2d"/>
+            <include href="/db/apps/cab_db/cab_rituals/nerang/dronceremonies_nerangs/homastp_nerang" xpointer="HomastP4.2NerangTransc.d"/>
+        </div>
+        <div n="3" type="Stanza" xml:id="HomastP4.3" corresp="#GY27.3">
+            <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+            <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+            <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+            <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+            <include href="/db/apps/cab_db/cab_rituals/nerang/dronceremonies_nerangs/homastp_nerang" xpointer="HomastP4.3NerangTransc.a"/>                    
+        </div>
+        <div n="4" type="Stanza" xml:id="HomastP4.4" corresp="#GY27.4">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.4a"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.4b"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.4c"/>
+            <include href="/db/apps/cab_db/cab_rituals/nerang/dronceremonies_nerangs/homastp_nerang" xpointer="HomastP4.4NerangTransc.a"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.4d"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.4e"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.4f"/>
+        </div>
+        <div n="5" type="Stanza" xml:id="HomastP4.5" corresp="#GY27.5">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.5a"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.5b"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.5c"/>
+            <include href="/db/apps/cab_db/cab_rituals/nerang/dronceremonies_nerangs/homastp_nerang" xpointer="HomastP4.5NerangTransc.a"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.5d"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.5e"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.5f"/>
+        </div>
+        <div n="6" type="Stanza" xml:id="HomastP4.6" corresp="#GY27.6">
+            <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+            <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+            <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+            <include href="/db/apps/cab_db/cab_rituals/nerang/dronceremonies_nerangs/homastp_nerang" xpointer="HomastP4.6NerangTransc.a"/>
+        </div>
+        <div n="7" type="Stanza" xml:id="HomastP4.7" corresp="#GY27.6">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.7"/>
+            <include href="/db/apps/cab_db/cab_rituals/nerang/dronceremonies_nerangs/homastp_nerang" xpointer="HomastP4.7NerangTransc.a"/>
+        </div>
+        <div n="8" type="Stanza" xml:id="HomastP4.8" corresp="#GY27.7">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.8a"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.8b"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.8c"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.8d"/>
+            <include href="/db/apps/cab_db/cab_rituals/nerang/dronceremonies_nerangs/homastp_nerang" xpointer="HomastP4.8NerangTransc.a"/>
+            <include href="/db/apps/cab_db/cab_rituals/nerang/dronceremonies_nerangs/homastp_nerang" xpointer="HomastP4.8NerangTransc.b"/>
+            
+        </div>
+        <div n="9" type="Stanza" xml:id="HomastP4.9" corresp="#GY27.7">
+            <include href="/db/apps/cab_db/cab_rituals/nerang/dronceremonies_nerangs/homastp_nerang" xpointer="HomastP4.9NerangTransc.a"/>
+            <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+            <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+            <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+            <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+        </div>
+        <div n="10" type="Stanza" xml:id="HomastP4.10" corresp="#GY27.8">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.10a"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.10b"/>
+            <include href="/db/apps/cab_db/cab_rituals/nerang/dronceremonies_nerangs/homastp_nerang" xpointer="HomastP4.10NerangTransc.a"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.10c"/>
+            <include href="/db/apps/cab_db/cab_rituals/nerang/dronceremonies_nerangs/homastp_nerang" xpointer="HomastP4.10NerangTransc.b"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.10d"/>
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.10e"/>
+        </div>
+        <div n="11" type="Stanza" xml:id="HomastP4.11" corresp="#GY27.9">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.11"/>
+        </div>
+        <div n="12" type="Stanza" xml:id="HomastP4.12" corresp="#GY27.10">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.12"/>
+        </div>
+        <div n="13" type="Stanza" xml:id="HomastP4.13" corresp="#GY27.11">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP4.13"/>      
+            <include href="/db/apps/cab_db/cab_rituals/nerang/dronceremonies_nerangs/homastp_nerang" xpointer="HomastP4.13NerangTransc.a"/>
+        </div>
+    </div>
+    <div n="5" type="Chapter" xml:id="HomastP5">
+        <div n="1" type="Stanza" xml:id="HomastP5.1">                
+            <include type="block" href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr4"/>
+        </div>
+        <div n="2" type="Stanza" xml:id="HomastP5.2">
+            <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+            <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+            <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+        </div>      
+        <div n="3" type="Stanza" xml:id="HomastP5.3">
+            <include href="/db/apps/cab_db/cab_rituals/prayers/YAV" xpointer="YAV"/>
+            <include href="/db/apps/cab_db/cab_rituals/prayers/YAV" xpointer="YAV"/>
+        </div>
+        <div n="4" type="Stanza" xml:id="HomastP5.4">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP5.4a"/>
+            <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen65"/>
+        </div>
+        <div n="5" type="Stanza" xml:id="HomastP5.5" corresp="#GY72.9">
+            <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+        </div>
+        <div n="6" type="Stanza" xml:id="HomastP5.6" corresp="#GY72.9">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP5.6"/>
+        </div>
+        <div n="7" type="Stanza" xml:id="HomastP5.7" corresp="#GY72.9">
+            <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+        </div>
+        <div n="8" type="Stanza" xml:id="HomastP5.8" corresp="#GY72.9">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP5.8"/>
+        </div>
+        <div n="9" type="Stanza" xml:id="HomastP5.9" corresp="#GY72.9">
+            <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+        </div>
+        <div n="10" type="Stanza" xml:id="HomastP5.10" corresp="#GY72.9">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP5.10"/>
+        </div>
+        <div n="11" type="Stanza" xml:id="HomastP5.11" corresp="#GY72.10">
+            <include href="/db/apps/cab_db/cab_rituals/static/Dron_ceremonies/HomastParagna_static" xpointer="HomastP5.11"/>
+        </div>
+        <div n="12" type="Stanza" xml:id="HomastP5.12" corresp="#GY72.10">
+            <include href="/db/apps/cab_db/cab_rituals/prayers/AV" xpointer="AV"/>
+        </div>
+    </div>
+    
+</div>

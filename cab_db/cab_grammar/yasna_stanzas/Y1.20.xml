@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y1.20" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y1.20">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY1.19"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. Y1.18.</ab>
+            </div>
+        </SpeakerInfo>
+        
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Orthographical/>
+        <Commentary>
+            <ab>Y1.20b <em>vaŋhuδā̊biiō</em>] Bartholomae (<em>vaŋhu-dāh-</em>, cf. <em>hu-dāh-</em>); Geldner, Kellens <em>vaŋhuδābiiō</em> (<em>vaŋhu-dā-</em>). Cf. Y16.9 <em>vaŋhuδā̊ŋhō</em> (vid. Parallels).</ab>
+            <ab>Y1.20b <em>yesńiiāca</em>] cod.; Geldner, Kellens <em>yasniiāca</em>.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels>
+        <ab>Y1.20 ≈ Y2.20, Y3.25, Y4.26, Y6.21, Y7.26, Y14.3, Y17.20, Y22.30, Y24.31, Y59.30, Y66.25, VrS78.37, VrS79.26, VrS81.30, VrS82.25.</ab>
+        <ab><em>vīspaēibiiō vaŋhuδā̊biiō yazataēbiiō maińiiaōibiiascā gaēϑiiaēibiiascā</em> ~ Y16.9 <em>vīspā̊ maińiiauuaca yazata gaēϑiiāca yōi vaŋhuδā̊ŋhō aṣ̌auuanō</em>; ~ Y71.5 <em>vīspaēca aṣ̌auuanō maińiiauuaca yazata gaēϑiiāca yazamaide</em>.</ab>
+        <ab>
+            <em>yazataēibiiō maińiiaōibiiascā gaēϑiiaēibiiascā</em> ~ Yt19.22 <em>maińiiauanąm yazatanąm gaēiϑiianąmca</em>
+        </ab>
+        <ab><em>maińiiaōibiiascā gaēϑiiaēibiiascā</em> ~ Y3.4, Y7.5, <em>maińiiauuanąm gaēϑiianąm</em> ~ Y19.20, Y20.4 <em>maińiiaōmca gaēϑīmca</em>.</ab>
+        <ab>
+            <em>yōi həṇti yesńiiāca vaɱiiāca aṣ̌āt̰ haca yat̰ vahištāt̰</em> ~ Y71.10 <em>yōi tē həṇti yesńiiāca vaɱiiāca aṣ̌āt̰ haca yat̰ vahištāt̰</em>; ~ Yt8.15, Yt8.17, Yt8.19 <em>aɱi yesńiiasca vaɱiiasca aŋᵛhe astuuaite aṣ̌at̰ haca yat̰ vahištāt̰</em>; ~ VrS2.11, VrS17.19, VrS77.10 <em>yōi aōxta [...] yesńiiāca vaɱiiāca aṣ̌āt̰ haca yat̰ vahištāt̰</em>.
+        </ab>
+        <ab>
+            <em>yesńiiāca vaɱiiāca</em> = Yt13.153; ~ Y62.1, Yt10.91 <em>yesńiiō ahi vaɱiiō yesńiiō buiiā̊ vaɱiiō</em>; ~ Yt10.5, Yt10.78, Yt14.54 <em>yesńiiō vaɱiiō</em>; ~ Yt13.34 <em>yesńiiā̊ vaɱiiā̊</em>; ~ Yt13.42 <em>yesńiiąm vaɱiiąm</em>; ~Yt13.152 <em>yesńiiōtəməm hātąm vaɱiiōtəməm</em>; ~ Yt13.152 <em>yesńiiasca vaɱiiasca</em>
+        </ab>
+        <ab><em>aṣ̌āt̰ haca yat̰ vahištāt̰</em> = Y19.11, Y68.7, YtWahr18.2, YtWahr18.3.</ab>
+    </Parallels>
+    <Ritual>
+    <Nerangs id="ritualNerangs">
+        <ab>Y1.20  (mss. 300, 355, 360, 370):</ab>
+        <ab class="ab_indent">
+            <em>vīspaēibiiō aṣ̌ahe ratubiiō</em> ēč gyāg nē abāyēd guftan</ab>
+        <ab class="ab_indent">
+            "He must not say <em>vīspaēibiiō aṣ̌ahe ratubiiō</em> at any passage."</ab>
+    </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY1.20"/>
+        <include type="W" corresp="WTrY1.19"/>
+        <include type="K" corresp="KTrY1.19"/>
+        <include type="D" corresp="DTrY1.19"/>
+    </translation>
+</text>

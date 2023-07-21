@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS90.26" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS90.26">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY66.15a" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/GahanbarGen" xpointer="GahanbarGen1" alt_href="/db/apps/cab_db/cab_rituals/blocks/RatuGen" alt_xpointer="RatuGen2" has_alt="1" on_line="in1line"/>
+      <!-- If not a Gahanbar day -->
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS90.26 Var. a (mss. 2005, 2007, 2010, 2030, 2102):</ab>
+         <ab class="ab_indent">
+            <em>raϑβō bərəzatō ... sarəδanąmca yōi həṇti aṣ̌ahe ratauuō hāuuanōiš raϑβō aṣ̌aiia daδąmi imąm zaōϑrąm ... xšnūmaine ahurahe mazdā̊</em> xšnūman ān ī bēd dō bār guftan ka
+            ahlawān bēd <em>aṣ̌aiia daδąmi auuaŋhā̊ frauuaṣ̌aiiō</em> tā ō ī  <em>yasnąsca vaɱąsca aṣ̌aiia daδąmi arəzahibiiō ... aṣ̌aiia.nō paitī.jamiiāt̰</em> ka yazišn gāhānbār bēd  
+            <em>ā̊ŋhąm asaŋhąmca</em> tā ō ī  <em>aṣ̌aiia daδąmi raϑβō bərəzatō</em> tā <em>sarəδanąmca yōi həṇti aṣ̌ahe ratauuō maiδiiō.zarəmahe raθβō</em> ayāb ān gāh ī bēd 
+            <em>aṣ̌aiia daδąmi imąm zaōϑrąm haōmauuaitīm</em> tā <em>tauua ahurāne ahurahe xšnūmaine raϑβō bərəzatō</em> tā <em>sarəδanąmca raϑβąm vīspe mazištanąm yōi həṇti
+               aṣ̌ahe ratauuō hāuuanīm paiti ratūm maiδiiōizarəmaiiehe raϑβō</em> ayāb ān gāh ī bēd <em>aōxtō.nāmanō yazatahe</em> az <em>aṣ̌aiia daδąmi imąm zaōϑrąm</em> tā ēn gyāg 
+            dō bār guftan</ab>  
+         <ab class="ab_indent">
+            "<em>raϑβō bərəzatō ... sarəδanąmca yōi həṇti aṣ̌ahe ratauuō hāuuanōiš raϑβō aṣ̌aiia daδąmi imąm zaōϑrąm ... xšnūmaine ahurahe mazdā̊</em>. The should recite twice the corresponding 
+            <em>šnūman</em>. When it is the on for the <em>ahlawān</em>, (they should recite): <em>aṣ̌aiia daδąmi auuaŋhā̊ frauuaṣ̌aiiō</em> until <em>yasnąsca vaɱąsca</em> (They
+            continue with) <em>aṣ̌aiia daδąmi arəzahibiiō ... aṣ̌aiia.nō paitī.jamiiāt̰</em>. When it is a liturgy for <em>gāhānbār</em>, (they recite) <em>ā̊ŋhąm asaŋhąmca</em> until 
+            <em>aṣ̌aiia daδąmi raϑβō bərəzatō</em> until <em>sarəδanąmca yōi həṇti aṣ̌ahe ratauuō maiδiiō.zarəmahe raθβō</em> or the corresponding <em>gāh</em> <em>aṣ̌aiia daδąmi
+               imąm zaōϑrąm haōmauuaitīm</em> until <em>tauua ahurāne ahurahe xšnūmaine raϑβō bərəzatō</em> until <em>sarəδanąmca raϑβąm vīspe mazištanąm yōi həṇti aṣ̌ahe ratauuō 
+                  hāuuanīm paiti ratūm maiδiiōizarəmaiiehe raϑβō</em> or the corresponding <em>gāh aōxtō.nāmanō yazatahe</em>. They should recite twice from <em>aṣ̌aiia daδąmi imąm 
+                     zaōϑrąm</em> until this passage."</ab>
+         
+         <ab>VrS90.26 Var. b (ms. 2101):</ab>
+         <ab class="ab_indent">
+            ... <em>sarəδanąmca yōi həṇti aṣ̌ahe ratauuō hāuuanōiš raϑβō</em> ka gāhānbār bēd ka-t <em>aṣ̌ahe ratauuō</em> guft <em>maiδiiō.zarəmahe raθβō</em> ayāb ān gāh ī bēd  
+            <em>aṣ̌aiia daδąmi imąm zaōϑrąm ... xšnūmaine</em> ān ī bēd dō bār guftan ka yazišn gāhānbār bēd <em>xšnūmaine raϑβō bərəzatō</em> tā <em>sarəδanąmca raϑβąm vīspe
+               mazištanąm yōi həṇti aṣ̌ahe ratauuō hāuuanīm paiti ratūm maiδiiōizarəmaiiehe raϑβō</em> ayāb ān gāh ī bēd <em>aōxtō.nāmanō yazatahe</em> dō bār guftan agar yazišn srōš 
+            ud gāhānbār ud hōmyazd ud ohrmazd xwadāy bēd <em>auuaŋ́hā̊</em> nē gōwišn abārīg gōwišn</ab>  
+         <ab class="ab_indent">
+            "... <em>sarəδanąmca yōi həṇti aṣ̌ahe ratauuō hāuuanōiš raϑβō</em>. When it is a <em>gāhānbār</em>, when you have said <em>aṣ̌ahe ratauuō</em>, (you continue with) 
+            <em>maiδiiō.zarəmahe raθβō</em> or the corresponding <em>gāh</em> <em>aṣ̌aiia daδąmi imąm zaōϑrąm ... xšnūmaine</em> they should recite twice the corresponding 
+            <em>(šnūman)</em>. When it is a liturgy for <em>gāhānbār</em>, they should recite twice <em>xšnūmaine raϑβō bərəzatō</em> until <em>sarəδanąmca raϑβąm vīspe
+               mazištanąm yōi həṇti aṣ̌ahe ratauuō hāuuanīm paiti ratūm maiδiiōizarəmaiiehe raϑβō</em> or the corresponding <em>gāh</em> <em>aōxtō.nāmanō yazatahe</em> If the 
+            liturgy is for Srōš, Gāhānbār, Hōmyazd or the lord Ohrmazd, then they don' t have to recite <em>auuaŋ́hā̊</em>, but they have to recite the rest."</ab> 
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS90.26"/>
+   </translation>
+</text>

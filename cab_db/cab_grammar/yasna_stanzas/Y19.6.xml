@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y19.6" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y19.6">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY19.6"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y19.3.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y19.6b <em>yazāite</em>] Geldner, Kellens; against most Ir. cod. Unexpected mostly <em>yazāiti</em>. Ind. cod. mostly <em>yazāite</em>.
+            Cf. pres. subj. (med.) <em>yazāi</em>,<em>yazāne</em>, <em>yazā̊ṇte</em>.</ab>
+         <ab>Y19.6c <em>ϑrīšcit̰</em>] sec. cod., Geldner; Kellens <em>ϑriscit̰</em>: <bibl>Kellens, 2010</bibl> p. 30 "<em>ϑrīš°</em> est moins bien représenté", but Ir. cod. <em>ϑrīš°</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>yasca mē aētaɱi aŋhuuō yat̰ astuuaiṇti spitama zaraϑuštra baγąm ahunahe vairiiehe marāt̰</em> ~ Y19.7 <em>yasca mē aētaɱi aŋhuuō yat̰ astuuaiṇti spitama zaraϑuštra baγąm ahunahe vairiiehe drəṇjaiiō aparaōδaiiete</em>.</ab>
+      <ab><em>baγąm ahunahe vairiiehe</em> = Y19.7, Y19.21; ~ Y19.3 <em>baγa aēša ās ahunahe vairiiehe</em> ~ Y19.5 <em>hā.mē baγa ahunahe vairiiehe</em>;
+         ~ Y20.5 <em>baγąm aṣ̌ahe vahištahe</em>; ~ Y21.5 <em>baγąm yeŋ́hē.hātąm</em>; ~ Y55.7 <em>baγąm staōtanąm yesńiianąm</em>.</ab>
+      <ab><em>tarō pərətūmcit̰ hē uruuānəm vahištəm ahūm frapāraiieni azəm yō ahurō mazdā̊</em> ~ Y71.16 <em>frapāraiiā̊ŋhe uruuānəm tarō cinuuatō pərətūm vahištahe aŋhə̄uš aṣ̌auua jasō</em>.</ab>
+      <ab><em>vahištəm ahūm</em> ... <em>vahištāt̰ aŋhaōt̰</em>: <em>vahišta- ahu- passim</em>.</ab>
+      <ab><em>vahištāt̰ aṣ̌āt̰</em>: <em>vahišta- aṣ̌a- passim</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY19.6"/>
+      <include type="W" corresp="WTrY19.6"/>
+      <include type="K" corresp="KTrY19.6"/>
+      <include type="D" corresp="DTrY19.6"/>
+   </translation>
+</text>

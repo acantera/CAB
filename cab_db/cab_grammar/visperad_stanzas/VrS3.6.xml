@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS3.6" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y3.6" xml:id="VrS3.6">
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY3.6a" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat3.1" on_line="in1line"/>
+               <!-- successive gāh from Y3.5 -->
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY3.6b" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat3.2" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY3.6c" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat3.3" on_line="in1line"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: 2109. Cf. Y3.6.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab>VrS3.6a <em>āiiese yešti</em>] (Per.) <em>ā. y.</em> rāsfī ḫamuš <em>rapiϑβanāi</em> 2109.</ab>
+            <ab><em>āiiese yešti rapiϑβināi ... ahurahe mazdā̊</em>] <em>ā. y. rapiϑβanāi aṣ̌aōne aṣ̌ahe raϑβe</em> OD OL Y <em>miϑrahe dax́iiunąm daŋ́hupatōiš</em> (VrS3.13) 2109.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation/>
+</text>

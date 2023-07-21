@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS6.16" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VVrS6.16">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY6.13a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY6.13b"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuCerPaitiRatu" xpointer="RatuCerPaitiRatuV" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VSY6.13c" on_line="in1line"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid VVrS5.1.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>      
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>VVrS6.16 = VVrS17.31, VVrS77.41, VVrS81.25; ≈ VVrS1.29, VVrS2.31, VVrS3.20, VVrS4.21, VVrS7.21, VVrS14.18, VVrS25.40, VVrS27.51, VVrS78.32, VVrS79.21, VVrS82.20, VVrS90.36.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS6.16"/>
+   </translation>
+</text>

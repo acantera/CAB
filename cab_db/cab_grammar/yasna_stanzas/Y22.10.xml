@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y22.10" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y22.10">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY22.9a" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat1.1" on_line="in1line"/>
+      <!-- Sucession after DY23.8 -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY22.9b" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat1.2" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY22.9c" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat1.3" on_line="in1line"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y22.7.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>Y22.10 = Y3.9, VrS78.19; ≈ Y1.7, Y2.7, Y4.12, Y6.6, Y7.10, Y17.6, Y24.17, Y59.6, Y66.7, VrS79.12, VrS81.6, VrS82.7.</ab>
+      <ab>VrS25.9 = DoHom2.9.</ab>
+      <ab><em>sraōšahe aṣ̌iiehe aṣ̌iuuatō vərəϑrājanō frādat̰.gaēϑahe rašnaōš razištahe</em> ~ Y70.3 <em>yā sraōšahe aṣ̌iiehe yā rašnaōš razištahe</em>.</ab>
+      <ab><em>rašnaōš razištahe arštātasca frādat̰.gaēϑaiiā. varədat̰.gaēϑaiiā.</em> ~ in <em>xšnūman Rašn</em>: <em>rašnaōš razištahe arštātasca frādat̰.gaēϑaiiā̊ varədat̰.gaēϑaiiā̊ ərəžuxδahe vacaŋhō yat̰ frādat̰.gaēϑahe</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY22.10"/>
+      <include type="W" corresp="WTrY22.9"/>
+      <include type="K" corresp="KTrY22.9"/>
+      <include type="D" corresp="DTrY22.9"/>
+   </translation>
+</text>

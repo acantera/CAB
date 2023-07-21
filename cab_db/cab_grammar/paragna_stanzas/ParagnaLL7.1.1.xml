@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL7.1.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="1" xml:id="ParagnaLL7.1.1">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL7.1.1 (Phl.) (WīD95.2b):</ab>
+            <ab class="ab_indent">
+                ud <em>aṣ̌əm vōhū</em> ĪĪĪ <em>frauuarāne</em> tā sar <em>frasastaiiaca ahurahe mazdå raēuuatō *xᵛarənaŋhatō xšnaoθra</em> tā <em>mraotū</em></ab> 
+            <ab class="ab_indent">
+                "He should rectire three <em>aṣ̌əm vohū</em> and <em>frauuarāne</em> up to the end <em>frasastaiiaca ahurahe mazdå raēuuatō *xᵛarənaŋhatō xšnaoθra</em> up to 
+                <em>mraotū</em>."</ab>
+            
+            <ab>ParagnaLL7.1.1 (Mss. K7, RJ):</ab>
+            <ab class="ab_indent">
+                digar ān vars az ḫalqe bāz konand se bār b-āb-e pādyāvi bešuyand digar <em>xšnaoθra ahurahe mazdā̊ aṣ̌əm vōhū</em> se <em>frauuarāne</em> gāh ānče bid <em>ahurahe mazdā̊</em>.</ab> 
+            <ab class="ab_indent">
+                "They unwind again the vars from the ring and wash it three times with <em>pādyāvi</em>-water. Then, he should recite <em>xšnaoθra ahurahe mazdā̊</em> and three 
+                <em>Aṣ̌əm Vohū</em>s and the <em>frauuarāne</em> with the corresponding <em>gāh</em> (and with <em>šnūman</em>) <em>ahurahe mazdā̊</em>."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL7.1.1"/>
+    </translation>
+</text>

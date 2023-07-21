@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div type="ceremony" n="DrYt">
+    <header>
+        <creators>
+            <creator>Cantera</creator>
+        </creators>
+        <created>05 February 2020</created>
+        <updated/>
+    </header>
+    <div n="1" type="chapter">
+        <div n="0" type="stanza">
+
+            <ab1 n="NerangTranslit.a" source="6135" xml:id="DrYt1.0NerangTranslit.a" xml:lang="Pahl">nzdst' dlwn' sʾcšn' hwp' BRA HNHTWN-šn' W splhm W *ʾpkyl W mywk W tlk W ʾysm W bwd
+                hmʾk hwp BRA HNHTWN-šn' YDE PWN pʾtyʾp' krtn' blswm 7 tʾk W *ʾypyʾsʾn' yšt´k W blswm
+                ASLWN-tn' PWN hšnwmn y ʾhlwbʾn' plwʾhl dlwn yštn'</ab1>
+            <ab1 n="NerangTransc.a" source="6135" xml:id="DrYt1.0NerangTransc.a" xml:lang="Pahl">nazdišt drōn sāzišn xūb be nihišn ud sprahm ud *ābgīr ud mēwag ud tarrag ud ēsm ud
+                bōy hamāg xūb nihišn dast pad padyāb kardan barsom 7 tāg ud ebyahān yaštag barsom
+                bastan pad xšnūman ī ahlawān frawahr drōn
+                yaštan</ab1>
+            <ab1 n="NerangEnglish.a" source="6135" xml:id="DrYt1.0NerangEnglish.a">He has to put
+                carefully all the implements near the <em>drōn</em>. He has to put carefully the
+                flowers, the water goblets (?), the fruits, the vegetables, <em>ēsm</em> and
+                    <em>bōy</em> . He should wash his hand with <em>padyāb</em>. The <em>barsom</em>
+                (consists of) 7 twigs and the <em>ebyahān</em>.  He should tie the <em>barsom</em>and perform the <em>drōn</em> with the <em>šnūman</em> of the <em>ahlwān frawahr</em>.</ab1>
+        </div>
+        <div n="5" type="stanza">
+            
+            <ab1 n="NerangTranslit.a" source="G31" xml:id="DrYt1.5NerangTranslit.a" xml:lang="Pahl">HT ʾthš ZK gywʾk YHWWN-yt <em>tauua āϑrō</em> HT ʾthš LA YHWWN-yt <em>aiiese ... āϑrō ahurahe mazdā̊ </em> </ab1>
+            <ab1 n="NerangTransc.a" source="G31" xml:id="DrYt1.5NerangTransc.a" xml:lang="Pahl">agar ātaxš ān gyāg bawēd <em>tauua āϑrō</em> agar ātaxš nē bawēd <em>aiiese ... āϑrō ahurahe mazdā̊ </em>
+            </ab1>
+            <ab1 n="NerangEnglish.a" source="6135" xml:id="DrYt1.5NerangEnglish.a">If a fire is present here, then (he should recite) <em>tauua āϑrō</em>. If a fire is not present, then <em>aiiese ... āϑrō ahurahe mazdā̊ </em>
+            </ab1>
+        </div>
+    </div>
+    <div n="6" type="chapter">
+        <div n="5" type="stanza">
+            <ab1 n="NerangTranslit.a" source="G31" xml:id="DrYt6.5NerangTranslit.a" xml:lang="Pahl"> blswm QDM gywʾk DKYA HNHTWN-tn' cʾšnyk BRA krtn' W YDE PWN pʾtyʾp' krtn' PWME pʾk krtn'</ab1>
+            <ab1 n="NerangTransc.a" source="6135" xml:id="DrYt6.5NerangTransc.a" xml:lang="Pahl">barsom abar gyāg pāk nihādan cāšnīg be kardan ud dast pad pādyāb kardan ud dahān pāk kardan</ab1>
+            <ab1 n="NerangEnglish.a" source="6135" xml:id="DrYt6.5NerangEnglish.a" xml:lang="Pahl">He should put the <em>barsom</em> on an clean place, do the <em>cāšnīg</em> clean his mouth and wash his hands with
+                    <em>pādyāb</em>. </ab1>
+        </div>
+    </div>
+</div>

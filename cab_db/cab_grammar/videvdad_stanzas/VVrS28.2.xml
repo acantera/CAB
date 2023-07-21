@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS28.2" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="VrS28.2" xml:id="VVrS28.2">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS14.3"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. VrS27.49.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VVrS28.2a <em>vaca aršuxδa yazamaide</em> ...] <em>vaca aršuxδa yaz.</em> OD <em>paōrəm.dātəm paōrəm.fraϑβarstəm</em> (VVrS28.5) 4200; <em>vaca aršuxδa yaz.</em> OD <em>paōriiō.dātəm paōiriiō.fraϑβarstəm</em> (VVrS28.5) 4210;
+            <em>vaca aršuxδa ẏ.</em> OD <em>gaeϑim gaeϑaiiā̊stōiš</em> (VVrS28.5) 4370.</ab>
+         <ab>VVrS28.2b <em>sraošəm aṣ̌īm ẏaz.</em> ...] <em>sraošəm aṣ̌īm ẏaz.</em> OD <em>gaeϑīm gaeϑiiā̊ stōiš</em> (VVrS28.5) 4515.</ab>
+         <ab>VVrS28.2a-j <em>vaca aršuxδa yazamaide</em> ... <em>vīspō.xᵛāϑrəm</em>] MN <em>vaca aršuxδa yaz. sraōšəm aṣ̌ūm y.</em> OD OL Y <em>vīspō.xᵛāϑrəm</em> III bʾl gwptn' 4040;
+            MN <em>vaca aršuxδa y.</em> ... <em>raōcaŋhəm vīspō.xᵛāϑrəm</em> III bʾl gwptn' 4045, 4050, 4075.</ab>
+         <ab>VVrS28.2b-j <em>sraōšəm aṣ̌īm yazamaide</em> ... <em>vīspō.xᵛāϑrəm</em>] <em>sraōšəm aṣ̌īm yaz.</em> OD <em>vīspō.xᵛāϑrəm</em> III bʾl gwptn' AHL <em>vahištahe aŋhə̄uš</em> (VVrS28.3) 4025.</ab>
+         <ab>VVrS28.2c-j <em>sraōšəm aṣ̌īm yazamaide</em> ... <em>vīspō.xᵛāϑrəm</em>] <em>aṣ̌īm vaŋhīm y.</em> OD OL Y <em>raōcaŋhəm vīspō.xᵛāϑrəm</em> III bʾl gwptn' 4030.</ab>
+         <ab>VVrS28.2j-k <em>vīspō.xᵛāϑrəm vaca aršuxδa</em>...] <em>vīspō.xᵛāϑrəm</em> MN <em>vaca aršuxδa y.</em> OD LTME III bʾl gwptn' 4000; 
+            <em>vīspō xᵛāϑrəm</em> MN <em>vaca aršuxδa y.</em> OD OL Y <em>xᵛāϑrəm</em> III bʾl gwptn' AHL <em>vahištahe aŋhə̄uš</em> (VVrS28.3) 4010;
+            <em>vīspō.xᵛāϑrəm</em> MN <em>vaca aršuxδa y.</em> OD OL Y <em>raōcaŋhəm vīspō.xᵛāϑrəm</em> III bʾl gwptn' W AHL <em>vahištahe aŋhə̄uš</em> (VVrS28.3) 4020, 4161, 4162.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS28.2"/>
+   </translation>
+</text>

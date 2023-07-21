@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist-db.org/collection-config/1.0">
+    <index xmlns:xs="http://www.w3.org/2001/XMLSchema">
+            <range>
+                <create qname="creator" type="xs:string" case="no"/>
+                <create qname="created" type="xs:string" case="no"/>
+                <create qname="approved" type="xs:string" case="no"/>
+                <create qname="updated" type="xs:string" case="no"/>
+                <create qname="include" type="xs:string" case="no"/>
+                <create qname="SpeakerInfo" type="xs:string" case="no"/>
+                <create qname="Commentary" type="xs:string" case="no"/>
+                <create qname="Critical" type="xs:string" case="no"/>
+                <create qname="Commentary" type="xs:string" case="no"/>
+                <create qname="RecitationInstruction" type="xs:string" case="no"/>
+                <create qname="Parallels" type="xs:string" case="no"/>
+                <create qname="Nerangs" type="xs:string" case="no"/>
+                <create qname="Quotations" type="xs:string" case="no"/>
+                <create qname="ModernPractice" type="xs:string" case="no"/>
+            </range>    
+    
+    
+            <create path="/parals/text/header/creators/creator" type="xs:string"/>
+            <create path="/parals/text/header/created" type="xs:string"/>
+            <create path="/parals/text/header/approved" type="xs:string"/>
+            <create path="/parals/text/header/updated" type="xs:string"/>
+            <create path="/parals/text/div/include" type="xs:string"/>
+            <create path="/parals/text/Speaker/SpeakerInfo" type="xs:string"/>
+            <create path="/parals/text/Speaker/Commentary" type="xs:string"/>
+            <create path="/parals/text/Apparatus/Critical" type="xs:string"/>
+            <create path="/parals/text/Apparatus/Commentary" type="xs:string"/>
+            <create path="/parals/text/Apparatus/RecitationInstruction" type="xs:string"/>
+            <create path="/parals/text/Parallels" type="xs:string"/>
+            <create path="/parals/text/Ritual/Nerangs" type="xs:string"/>
+            <create path="/parals/text/Ritual/Quotations" type="xs:string"/>
+            <create path="/parals/text/Ritual/ModernPractice" type="xs:string"/>
+            <create path="/parals/text/Ritual/Commentary" type="xs:string"/>
+            <create path="/parals/text/translation/include" type="xs:string"/>
+    </index>
+</collection>

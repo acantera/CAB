@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL1.1.4" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="4" xml:id="ParagnaLL1.1.4"> </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary> After the Pāzand texts, Ǧāsās's Revāyat prescribes that the priest has to
+            three times <em>namāz</em> to the thicket (<em>se bār namāz bordan</em>) and then
+            recites once more <em>xšnaōθra ahurahe mazdā</em>̊ and the three Aṣ̌əm Vohūs that
+            introduce the following Frauuarāne. To the three namāz correspond in Ankelsaria the
+            triple recitation of xšnaōθra ahurahe mazdā̊ + one Aṣ̌əm Vohū. It is unclear whether the
+            three <em>namāz bordan</em> in Ǧāsās’s Revāyat imply as well this triple recitation.
+        </Commentary>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Vid. ParagnaLL1.1.3</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL1.1.4"/>
+    </translation>
+</text>

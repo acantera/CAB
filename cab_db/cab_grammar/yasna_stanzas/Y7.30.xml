@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y7.30" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y7.30">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY7.26"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: vid. Y7.21, Y7.29.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels>
+        <ab>Y7.30 = VrS82.39; ~ Y8.2, VrS83.2.</ab>
+        <ab>
+            <em>ahunəm vairīm yazamaide</em> = Y13.11, Y18.15, Y59.36, Y60.22, Y71.41.</ab>
+        <ab>
+            <em>aršuxδəm vacim yazamaide</em> = VrS82.39; ~ VrS18.1, VrS28.2 <em>vaca aršuxδa yazamaide</em>; ~ VrS64.4, VrS64.7 <em>vaca aršuxδa vārəϑraγniš daēuuō.γnita yazamaide</em>; ~ VrS96.10 <em>vīspaēca vācō aršuxδa yazamaide</em>.</ab>
+        <ab><em>daɱąm vaŋᵛhīm āfritīm yazamaide uγrəm taxməm dāmōiš upamanəm yazatəm yazamaide ... frasasti daɱaiiā̊ vaŋhuiiā̊ āfritōiš</em> ~ Y1.16, Y3.18, Y4.21, Y22.19, Y24.26, Y66.16, VrS78.28, VrS79.21, VrS82.16 <em>daɱaiiā̊ vaŋhuiiā̊ āfritōiš 
+            daɱaheca narš aṣ̌aōnō uγraheca taxmahe dāmōiš upamanahe yazatahe</em>; ~ Y2.16, Y6.15, Y17.16, Y59.16, VrS81.15 <em>daɱąm vaŋᵛhīm āfritīm ... daɱəmca narəm aṣ̌auuanəm ...  uγrəm taxməm dāmōiš upamanəm yazatəm</em>.</ab>
+        <ab>
+            <em>daɱąm vaŋᵛhīm āfritīm yazamaide</em> = Y71.20, VrS17.16, VrS77.16.</ab>
+        <ab>
+            <em>uγrəm taxməm dāmōiš upamanəm yazatəm yazamaide</em> = Y71.20, VrS17.16, VrS77.16,</ab>
+        <ab>
+            <em>hauruuata amərətāta yazamaide gāuš hudā̊ yazamaide</em> = Y6.18.</ab>
+        <ab>
+            <em>haōməmca para.haōməmca yazamaide</em> = Y6.19.</ab>
+        <ab>
+            <em>aēsmąsca baōiδīmca yazamaide</em> = Y6.19.</ab>
+    </Parallels>
+    <Ritual>
+    <ab>Cf. DrYt5.19</ab>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY7.30"/>
+
+        <include type="W" corresp="WTrY7.26"/>
+        <include type="K" corresp="KTrY7.26"/>
+        <include type="D" corresp="DTrY7.26"/>
+    </translation>
+</text>

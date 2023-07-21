@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VytVrS3.15" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VytVrS3.15">
+               <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VytSY3.12a" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuCerGen" xpointer="RatuCerGenVyt" on_line="in1line"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. VytVrS3.12.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels>
+        <ab>VytVrS3.15 = VytVrS25.29, VytVrS78.25; ≈ VytVrS1.27, VytVrS2.29, VytVrS4.18, VytVrS6.12, VytVrS7.16, VytVrS14.7, VytVrS17.29, VytVrS27.43, VytVrS77.29, VytVrS79.18, VytVrS81.12, VytVrS82.25, VytVrS90.27.</ab>
+        <ab>
+            <em>raϑβō bərəzatō</em> ~ VrS1.16, VrS25.18, VrS27.32, VrS90.16 <em>ratə̄uš bərəzō</em>; ~ VrS2.18, VrS17.17, VrS77.17 <em>ratūm bərəzəm</em>
+        </ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrVytVrS3.15"/>
+    </translation>
+</text>

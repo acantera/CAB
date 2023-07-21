@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS31.15" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VVrS31.15">
+         <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS16.9a"/>
+         <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS16.9b"/>
+         <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS16.9c"/>
+         <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS16.9d"/>
+         <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS16.9e"/>
+         <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS16.9f"/>
+         <include href="/db/apps/cab_db/cab_rituals/blocks/WazGir" xpointer="WazGr1"/>
+      </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Vid. VVrS31.11</ab>
+        </Nerangs>
+    <ab>To this <em>wāz-gīrišnīh</em> could refer the Nērang ī Āb, when it refers to the last <em>wāz-gīrišnīh</em> of the pressing of <em>hōm</em> as the fifth passage during whose recitation the <em>zōt</em> has to gaze at the <em>āb</em> and <em>gōmēz</em>:</ab>
+    <ab class="ab_indent">
+    <em>panzōm pad ān ī wāz-gīrišnīh ī pad hom-kōftan sar hamāg xūb be nigērišnn</em>
+    </ab>
+    <ab class="ab_indent">
+    The fifth is the <em>wāz-gīrišnīh</em> at the end of the <em>hōm</em>-pressing (VVrs31.0)". There he have to gaze carefully at all implements
+    </ab>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrVVrS31.15"/>
+    </translation>
+</text>

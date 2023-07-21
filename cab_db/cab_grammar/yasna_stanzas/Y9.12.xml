@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y9.12" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y9.12">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY9.12"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y9.3.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y9.11a <em>gaēϑaiiāi</em>] vid. Y9.3.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>
+            <em>kasə.ϑβąm [...] haōma. maṣ̌iiō astuuaiϑiiāi hunūta gaēϑaiiāi kā. aɱāi aṣ̌iš ərənāuui cit̰ aɱāi jasat̰ āiiaptəm</em> = Y9.3, Y9.6, Y9.9.</ab>
+      <ab>
+            <em>maṣ̌iiō astuuaiϑiiāi hunūta gaēϑaiiāi kā aɱāi aṣ̌iš ərənāuui cit̰ aɱāi jasat̰ āiiaptəm</em> = Y9.4, Y9.7, Y9.10, Y9.13.</ab>
+      <ab>
+            <em>aṣ̌iš ərənāuui</em> ~ 52.3 <em>aṣ̌aiiō ərənauuaṇte</em>; ~ Y56.3 <em>ašōiš ... yā.nə̄ āraēcā ərənauuataēcā ašaŋhāxš</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY9.12"/>
+
+        <include type="W" corresp="WTrY9.12"/>
+        <include type="K" corresp="KTrY9.12"/>
+        <include type="D" corresp="DTrY9.12"/>
+    </translation>
+</text>

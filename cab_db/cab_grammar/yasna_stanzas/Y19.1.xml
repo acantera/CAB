@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y19.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y19.1" headerPointer="Head19">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY19.1"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: Iranian mss.; vid. Recitation Instruction VrS21.3, VVrS21.3.</ab>
+            <ab class="ab_indent">zōt: Anklesaria, Geldner.</ab>
+            <ab class="ab_indent">Y19.1a zōt ud rāspīg, Y19.1b zōt: Kotwal and Boyd.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y19.1a <em>ahura</em> ... <em>aṣ̌āum</em>] <bibl>Kellens, 2010</bibl> p. 28 suggests that the redundancy of the vocative <em>ahura mazda</em> in Y19.1a and Y19.1b is due to a later introduction of this formula in Y19.1a. 
+            Influence from the Vidēvdād?</ab>
+         <ab>Y9.1a <em>astuuaitinąm aṣ̌āum</em>] add. post. glossa <em>misuuānahe sātauuahe xᵛaδātahe</em> 672; <em>misuuānahe sātuuahe xᵛaδātahe</em> 677.</ab>
+      </Commentary>
+      <RecitationInstruction>
+         <ab>Y19.1a <em>pərəsat̰ zaraϑuštrō</em> ...] <em>pərəsat̰</em> OD gywʾk gwptn' <em>frāmraōt̰</em> (Y20.1) 40.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab><em>pərəsat̰ zaraϑuštrō ahrəm mazdąm</em> = Y71.1, VS2.1, VS7.1 ... (Vidēvdād <em>passim</em> until <em>aṣ̌āum</em>), H1.1, H2.1, H2.19, Yt1.1, Yt14.1, Yt14.34, Yt14.42, A4.4; ~ Y12.10, Y12.11 <em>apərəsaiiatəm mazdā̊scā zaraϑuštrascā</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY19.1"/>
+      <include type="W" corresp="WTrY19.1"/>
+      <include type="K" corresp="KTrY19.1"/>
+      <include type="D" corresp="DTrY19.1"/>
+   </translation>
+</text>

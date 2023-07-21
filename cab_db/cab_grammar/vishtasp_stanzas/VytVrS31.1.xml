@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VytVrS31.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VytVrS31.1">
+      <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VytSY27.1"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Commentary id="ritualCommentary">
+         <ab>Cf. Y27.1, VrS31.1. The <em>abarhāwan</em> has to be taken at the beginning of the stanza and then deposited again after <em>ahūmca ratūmca</em>.</ab>
+      </Commentary>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVytVrS31.1"/>
+   </translation>
+</text>

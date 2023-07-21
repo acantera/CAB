@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL11.2.2" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="2" xml:id="ParagnaLL11.2.2">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL11.2.2 (K7, RJ):</ab>
+            <ab class="ab_indent">
+                <em>yaθā ahū vairiiō</em> yek gere andar aivyanghan zadan va be <em>š́iiaoθananąm</em> gere saḫt kardan va be dovvom <em>yaθā ahū vairiiō</em> dovvom gere zadan 
+                <em>š́iiaoθananąm</em> saḫt kardan pas sar-e aivanghan bar barsom pičidan har do dast be-barsom māhruy moḥkam nahādan.</ab>
+            <ab class="ab_indent">
+                "At the (first) <em>Ahuna Vairiia</em>, he should tie a knot in the <em>aivanghan</em> and pull it tightly at <em>š́iiaoθananąm</em>. At the second <em>Ahuna Vairiia</em>,
+                he has to tie a second knot and pull it tightly at <em>š́iiaoθananąm</em>. He should twist the end of the <em>aivanghan</em> in the <em>barsom</em> and fix it with both hands 
+                to the <em>māhruy</em> of the <em>barsom</em>."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL11.2.2"/>
+    </translation>
+</text>

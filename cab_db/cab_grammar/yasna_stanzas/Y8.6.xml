@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y8.6" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y8.6">
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+               <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y8.6NerangTransc.a"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: Anklesaria, Kotwal and Boyd.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab>Vid. Nerangs.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Y8.6  Var. a (mss. 40, 88, 2101. Cf. 83):</ab>
+            <ab class="ab_indent">
+                <em>aṣ̌əm vohū</em> sē xwandār guftan dast az barsom ul hištan ud hōm pālā az sar ī skūrag bar griftan bar sar ī skūrag ī zōhr nihādan ud sar ī zōhr nihuftan pad ēd wēn āwarišn ‡MDDYNA‡ 
+                srōšdrōn xwardan ud dahān pāk kardan ud dast pad pādyāb kardan ud ō ī barsom nihādan <em>aṣ̌əm vohū</em> čahār guftan</ab>
+            <ab class="ab_indent">
+                "The reciter should say three <em>Aṣ̌əm Vohū</em> He should release his hand from the <em>barsom</em> and take the <em>hōm’s pālā</em> the <em>skūrag</em> 
+                (that contains the <em>parāhōm</em>) and place it on the top of the <em>skūrag ī zōhr</em> and cover the soucer for the <em>zōhr</em>. He has to breath in. 
+                He should eat the <em>srōšdrōn</em> and ... (?), clean his mouth and wash his (right) hand with <em>padyāb</em> and lay (his left hand) on the <em>barsom</em>. 
+                He should then say four <em>Aṣ̌əm Vohū</em>."</ab>  
+            <ab>Y8.6  Var. b (mss. 5, 6, 15, 2007, 2010, 2030, 2040, 2109, 4000a, 4010, 4020, 4025, 4040, 4045, 4050, 4161, 4162, 5020, 4030a.):</ab>
+            <ab class="ab_indent">
+                <em>aṣ̌əm vohū</em> sē xwandār guftan dast az barsom ul hištan sar ī zōhr nihuftan srōšdrōn xwardan ud dahān pāk kardan ud dast pad pādyāb kardan dast abar barsom 
+                nihādan <em>aṣ̌əm vohū</em> čahār guftan</ab>
+            <ab class="ab_indent">
+                "The reciter should say three <em>Aṣ̌əm Vohū</em>. He should release his hand from the <em>barsom</em> and cover the <em>zōhr</em>. He should eat the <em>srōšdrōn</em>, 
+                clean his mouth and wash his (right) hand with <em>padyāb</em> and lay his hand on the <em>barsom</em>. Then he should recite the <em>Aṣ̌əm Vohū</em> four times.</ab>
+            <ab>Y8.6  Var. c (mss. 400, 410, 500, 510):</ab>
+            <ab class="ab_indent">
+                <em>aṣ̌əm vohū</em> ... nihānīhā tā gyāg srīšāmrūdīg gōwišn srōšdrōn xwardan ud dahān pāk kardan ud dast pad pādyāb kardan ud dast abar barsom nihādan ašemwohū nihānīhā  casrušāmrūdīg gōbišn</ab> 
+            <ab class="ab_indent">
+                "He has to recite the <em>Aṣ̌əm Vohū</em> until the end three times in a quite voice. He should eat the <em>srōšdrōn</em>, clean his mouth and wash his (right) hand with <em>padyāb</em> and lay his (left) hand on the <em>barsom</em>. 
+                Then he should recite the <em>Aṣ̌əm Vohū</em> four times in a quite voice."</ab> 
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+            <ab>N28.39: </ab>
+            <ab class="ab_indent">ka srōš-drōn xward ud barsom nē pad nigērišn apādyāb be bawēd ā-š be šōyišn u-š be rāyēnišn u-š gumānīg †pardāxt bawēd ka gōspand pad yašt ā-š †ōh kušišn ka yašt pad zōhr ā-š zōhr †ōh dahišn abarag guft hād pad barsom ī apādyāb gōspand nē kušišn ud az-iš zōhr ōh nē bawēd ... ka srōš-drōn xward ud parāhōm nē pad nigērišn apādyāb be bawēd u-š ōh rāyēnišn u-š apādyābān abāz xwarišn ka hixrōmand be bawēd ayāb be †rēšīhēd <em>†nadatum</em> guft estēd</ab>
+            <ab class="ab_indent">"When he has already partaken of the <em>drōn</em> and the <em>barsom</em> becomes impure accidentally, it has to be washed and (the priest) has to continue with the ritual. If there is a animal victime in the <em>yašt</em>, it has to killed. If it is a <em>yašt</em> with <em>zōhr</em>, then the <em>zōhr</em> has to be offered. Abarag said: "With an impure <em>barsom</em>, the animal should not be killed and there should not be <em>zōhr</em> ...  When he has already partaken of the <em>drōn</em> and the <em>parāhōm</em> becomes impure accidentally, he has to continue with the ritual. He has to it again, even if impure. If it is dirty or has been damaged, then it is called <em>nadatiim</em>."</ab>
+            <ModernPractice id="ritualModernPractice">
+                <ab><ab><bibl>Redard and Daruwalla, 2021</bibl>, p. 79:</ab>
+                    <ab class="ab_indent">"The chief priest, picking up his left hand from the bundle, breaking a small (piece) from the edge of the consecrated bread with his right hand, taking (it)
+                        with the ghee, lifting the mouth sheet such that the left hand does not becomeimpure, he partakes the consecrated food. Then, taking water with the cup from the water container with the left hand, cleaning the mouth properly, he wipes (it). Then, making the right hand pure, he gives to the assistant priest the consecrated bread plate and again making the right hand pure, the chief priest releases the bāj. While reciting 4 Aṣ̌ǝm Vohū, 4 times filling the water saucer from the water container, he pours at that place from where the consecrated bread plate has been picked."</ab></ab>
+                <ab><ab><bibl>Kotwal and Boyd, 1991</bibl>, p. 96-97: </ab>
+                    <ab>"The ziit concludes with <em>a. v.</em> 3. The <em>zōt</em>, while looking at the sacred bread and continuing to keep his left hand in contact with the barsom, lifts his right hand toward his face in a brief gesture of respect. He then breaks off an edge of the sacred bread (from the southwest side of the <em>drōn</em>) with his right hand, dips it into the clarified butter placed at the center of the bread, and raising his face mask with his left forearm, throws it into his mouth. After tasting the sacred bread in this way, the <em>zōt</em> picks up the saucer containing the bread with his right hand. The <em>rāspī</em> removes the sacred bread with his right hand and places it in the container in which it was brought to the ritual area, and then returns to his place beside the fire. In order to rinse off the empty saucer, the <em>zōt</em>, with his left hand, takes a metal saucer filled with water from the large basin. Turning toward his right, he rinses the saucer and his right hand three times, each time dipping water from the basin. He then returns the metal saucer in his left hand to the basin. The ziit, again facing the fire and placing his two left-hand fingers on the <em>barsom</em>, dips the newly rinsed saucer into the large basin and pours water with a forward motion over that area of the ritual table where the saucer containing the sacred bread had been placed. He follows this procedure four times, dipping the saucer into the basin and reciting <em>a. v.</em> each time. In addition, he may fill the vaselike container with water, as it must be kept full throughout the ceremony. He then returns the saucer in his right hand to the basin while reciting <em>y. a. v.</em> 2.</ab></ab>
+            </ModernPractice>
+        </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY8.6"/>
+    <include type="W" corresp="WTrY8.4b"/>
+        <include type="K" corresp="KTrY8.4b"/>
+        <include type="D" corresp="DTrY8.4b"/>
+    </translation>
+</text>

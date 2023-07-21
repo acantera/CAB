@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS27.6" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS27.6">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS13.6"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. VVrS27.6.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS27.6 = DoHom4.6.</ab>
+      <ab>Cf. parallels Y24.4.</ab>
+      <ab><em>āat̰ dīš āuuaēδaiiamahi ... raϑβaēca miiazdaēca raϑβaēca ratufritaiiaēca</em> ~ VrS11.35 <em>ā.hīm vaēδaiiamahi raϑβaēca miiazdaēca raϑβaēca ratufritaiiaēca</em>.</ab>
+      <ab><em>raϑβaēca ratufritaiiaēca</em> ~ Y3.4, Y4.1, Y4.3, Y7.5, VrS78.14, VrS78.31, VrS78.32, VrS79.1, VrS71.3, VrS81.18, VrS82.2, VrS82.19, VrS82.20, VrS82.39, VrS83.2 <em>raϑβąmca ratufritīmca</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS27.6"/>
+   </translation>
+</text>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VS1.2" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VS1.2">
+         <include href="/db/apps/cab_db/cab_rituals/fragards/FragardVidevdad" xpointer="V1.1"/>
+      </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels>
+        <ab><em>vīspō aŋhuš astuuā̊</em> = Y19.10, VS3.33, VS5.4, VS5.7, VS8.34; ~ Y9.1, VS18.30, VS18.31, YtOhr2.2 (x2), YtOhr2.4 (x2) <em>vīspahe aŋhə̄uš astuuatō</em>;
+            ~ Y19.2, Y19.4, Y57.24, VS18.16, VS18.24, YtSr8.2, YtSrH3.2, ARap2.4, KardeSrošRawan2.2 <em>vīspəm ahūm astuuaṇtəm</em>.</ab>
+    </Parallels>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>VS1.2 (Nērang ī āb) (mss. 4000, 4010, 4020, 4025, 4063):</ab>
+    <ab>According to the Nērang ī Āb, at this point the <em>zōt</em> has to gaze at the implements and at <em>āb</em> and <em>gōmēz</em>:</ab>
+     <ab class="ab_indent">
+         pas pad bun ī fragard wāzag ī pad bun ī ǰuddēwdād <em>mraot̰</em> bē gōwišn bē ēstišn hamāg xūb bē nigērišn hamāg gyāg pēš gōmēz ud pas āb nigerišn pas ka nihuft ēstēd weh-iz
+         bēd: tā yazišn sar ān ī gyāg dārišn pad šayišt nē šāyišt hamā wizand andar yazišn bēd hamčīyōn yašt nōg nābar.
+     </ab>
+      <ab class="ab_indent">
+          "Then, whe he says the initial word of the <em>fragard, mraōt̰</em>, at the beginning of the J̌uddēwdād, he has to stand and gaze all (implements) carefully. Each time, first the 
+          <em>gōmez</em> and later the water. Then, when (the container for) <em>gōmēz</em> and water are covered, it is better to keep them at this place until the end of the liturgy. 
+          According to the Šayist nē-šāyist each mistake in the liturgy (has to treated) in the same way as in the Yašt Nōg-nābar."
+      </ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrVS1.2"/>
+    </translation>
+</text>

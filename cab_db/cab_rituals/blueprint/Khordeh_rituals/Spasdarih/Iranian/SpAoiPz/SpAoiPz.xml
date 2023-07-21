@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+			<div type="Spasdarih" xml:id="SpAoi_Pazand"> <!-- vide: MZK6, MZK8; see also Antia 1909, pp. 211.12-212.10; non vide: 6860(MF75) (Pazand?) --> <!-- RR3 needs to be checked -->
+				<div type="SpasdarihStanza" xml:id="SpAoi_Pazand1.1">
+                    <ab n="a" xml:id="SpAoi_Pazand1.1a">spāsi. aōi. kiš. spāsi. aknāra. aβāda. kərdāri. āsmąn. pardąm. aj. parmąni. mihist. aj. mainōąni. parząnigi. haruuisp. gaēhąn. dāštārąm. [dām]ąn. āprīδa. astōmaṇdąn. yak. pə. yak. ustəgąn. cāra. x́āstāra. acārəgąn. aβjaradāra. gərəftārəgąn. baōjāī. har. kas. aj. bīm. u. āstąnai. āiiapt. x́āstāra. həm. baōjīn. u. birāzīn. u. bąmīn. u. barāhīn. aṇdar. har. du. axunąn.</ab>
+                </div>
+				<div type="SpasdarihStanza" xml:id="SpAoi_Pazand1.2">
+                    <ab n="a" xml:id="SpAoi_Pazand1.2a">humąn. tan. durust. rubiṣ̌ne. aōi. giiąn. dīr. zīuuiṣ̌ne. aōi. hīr. āβadi. aōi. nąm. usrubī. ōi. rubąn. ašāī. δah.</ab>
+					<ab n="b" xml:id="SpAoi_Pazand1.2b">humąn. aṇjumanī. bukun.</ab>
+					<ab n="c" xml:id="SpAoi_Pazand1.2c">humąn. cašm. paϑāiṣ̌nī. bukun.</ab>
+					<ab n="d" xml:id="SpAoi_Pazand1.2d">humąn. aṇgat̰. tabąnī. bukun.</ab>
+					<ab n="e" xml:id="SpAoi_Pazand1.2e">humąn. nigidār. u. gaōštār. u. pādār. u. pąnāh. u. pāsbąn. bāš.</ab>
+					<ab n="f" xml:id="SpAoi_Pazand1.2f">aj. har. hīβōgat̰. patiiāra. aj. kaṇgąn. u. arškīnąn. u. kiunauuarąn. vat̰. x́āhąn. u. niβdirāiiąn. u. aβārūn. kunəṣ̌nąn. baza. aṇdīšąn. u. nāirīkišnąn. u. išmārəṣ̌nąn. aβīdāt. garąn. u. mustagarąn.</ab>
+					<ab n="g" xml:id="SpAoi_Pazand1.2g">kun. tan. ku. hīc. həmā. ńiiāzārəṇt̰. hīc. vazaṇt̰. ziiąn. anāgi. pə. həm. mą. matabą. bāt̰. guptan. u. karδan. u. manīδan. ąni. aōiš.  vazaṇt̰i. ziiąn. anāgi. kąmīt̰. baōδan.</ab>
+				</div>
+				<div type="SpasdarihStanza" xml:id="SpAoi_Pazand1.3">
+                    <ab n="a" xml:id="SpAoi_Pazand1.3a">vaϑrąn. pə. tani. x́īš. həmā. dārəṇt̰. ušąn. tā. pə. həṇgąm. mihrī. frāx. gaōiiaōt̰. rasīt̰.</ab>
+                </div>
+				<div type="SpasdarihStanza" xml:id="SpAoi_Pazand2.1">
+                    <ab n="a" xml:id="SpAoi_Pazand2.1a">aidąn. bāδ. aidąn. taraj. bāt̰.</ab>
+                </div>
+				<div type="SpasdarihStanza" xml:id="SpAoi_Pazand2.2">
+                    <ab n="a" xml:id="SpAoi_Pazand2.2a">yezdąn. u. aməšāspəṇdąn. kąma. bāt̰.</ab>
+                </div>
+			</div>
+</div>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y53.9" status="created">  <!-- created, approved, updated--> <header>
+   <creators>
+      <creator>Porro</creator>
+      <creator>Cantera</creator>
+   </creators>
+   <created>1 June 2019</created>
+</header>
+   <div type="Stanza" sameAs="" xml:id="Y53.9">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY53.9"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab><em>tat̰ mazdā tauuā xšaϑrəm</em>quoted by Y53.9 (<bibl>Kellens, 2010</bibl> p. 43) <em>tat̰ mazda tauua xšaϑrəm</em>.</ab>
+         <ab><em>yā ərəžəjiiōi dāhī drigauue vahiiō</em> quoted by DK9.68.1 (M936.3-4).</ab>
+   </Parallels>
+   <Ritual>
+      <ab>Cf. VS10.7-9</ab>
+      <ab>Cf. N17.1 (<bibl>Kotwal and Kreyenbroek, 1995</bibl>: pp. 98-9):</ab>
+      <ab class="ab_indent"><em>kaiia θrišāmrūta</em></ab>
+      <ab class="ab_indent"><em>aṣ̌əm vohū</em> (Y28.0) ... <em>ẏə̄ səuuištō</em> (Y33.11) ... <em>huxšaθrōtəmāi</em> (Y35.5)... <em>dužuuarənāiš</em>(Y53.9)</ab>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY53.10"/>
+   </translation>
+</text>

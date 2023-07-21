@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y12.10" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y12.10">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY12.5"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y12.6.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y12.10b <em>apərəsaiiatəm</em>] Kellens (<bibl>Hoffmann, 1976</bibl> pp. 613-17); Geldner <em>apərəsaētəm</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>aϑā aϑā cōit̰ (Y12.10) ... aϑā aϑā cōit̰ (Y12.11)</em></ab>
+      <ab><em>vīspaēšū fərašnaēšū vīspaēšū haṇjamanaēšū yāiš apərəsaiiatəm mazdā̊scā zaraϑuštrascā</em> = Y12.11.</ab>
+      <ab><em>apərəsaiiatəm mazdā̊scā zaraϑuštrascā</em> ~ Y19,1, Y71.1, VS2.1, VS7.1 ... (Vidēvdād <em>passim</em>), H1.1, H2.1, H2.19, Yt1.1, Yt14.1, Yt14.34, Yt14.42, A4.4 <em>pərəsat̰ zaraϑuštrō ahrəm mazdąm</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY12.10"/>
+      <include type="W" corresp="WTrY12.5"/>
+      <include type="K" corresp="KTrY12.5"/>
+      <include type="D" corresp="DTrY12.5"/>
+   </translation>
+</text>

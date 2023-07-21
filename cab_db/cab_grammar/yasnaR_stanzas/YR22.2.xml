@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR22.2" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y22.2" xml:id="YR22.2">
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR22.1a"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR22.1b"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR22.1c"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR22.1d"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: vid. Y22.1.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab>YR22.2a <em>barəsmana paiti.bərəta</em> ...] <em>barəsmana paiti.bərəta</em> OD <em>jaγmīšūmca aṣ̌aōnō</em> (YR22.4) 300; <em>barəsmana paiti.bərəta</em> OD sl <em>aṣ̌aōnō aṣ̌ahe ratu</em> (YR22.4) 360;
+                <em>barəsmana paiti.bərəta</em> OD OL Y <em>aṣ̌aōnō ašahe ratufritīm</em> (YR22.4) 370.</ab>
+            <ab>YR22.2b <em>iməm haōməm</em> ...] <em>aṣ̌aiia uzdātəm āiie</em> OD <em>gāϑaną̇m.ca sraoϑrəm</em> (YR22.4) 320; <em>aṣ̌aiiaoždātəm āiie</em> OD <em>gāϑaną̇mca sarao.ϑarəm</em> (YR22.4) 350.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrYR22.2"/>
+    </translation>
+</text>

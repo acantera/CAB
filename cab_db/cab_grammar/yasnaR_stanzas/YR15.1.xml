@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR15.1" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y15.1" xml:id="YR15.1">
+        <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="YR15.1NerangTransc.a"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR15.1"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg <em>sastica</em>, zōt <em>vaṇtāca</em>... vid. Nērangs.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab>YR15.1a <em>sastica vaṇtāca</em>...] <em>sastaca</em> OD <em>ahurəm mazdą̇m</em> (YR16.1) 320; <em>vaṇtāca</em> OD OL Y <em>ahurəm mazdąm</em> (YR16.1) 300, 360, 370.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>YR15.1 (mss. 300, 360, 370):</ab>
+            <ab class="ab_indent">
+                <em>sastica</em> bē gōwišn ud bōy ō ī ātaxš dahišn datuš bē abrāzēnišn (Paz. <em>dārəṣ̌n</em> 360, 370) pas <em>vaṇtāca</em> tā ō ī <em>ahurəm</em></ab> 
+            <ab class="ab_indent">
+                "They have to recite <em>sastica</em>. (The <em>rāspīg</em>) has to give <em>bōy</em> to the fire and (the <em>zōt</em>) has to raise the <em>datuš</em> and then 
+                (to recite) <em>vaṇtāca</em> until <em>ahurəm</em>."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrYR15.1"/>
+    </translation>
+</text>

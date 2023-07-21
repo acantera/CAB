@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y13.8" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y13.8">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YeH" xpointer="YeH"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y13.4.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>yeŋ́hē hātąm</em> OD LOYŠE] 5, 40; <em>yeŋ́hē hātąm</em> OD LOYŠE gwptn' 6, 15;
+               <em>yeŋ́hē hātąm</em> OD gywʾk' 88, 400, 410, 500, 510; <em>ẏeŋ́he hātą̇m</em> OD <em>tā̊scā ẏazamaide</em> 110, 231.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Quotations id="ritualQuotations">
+         <ab>N28.44 (Kotwal and Kreyenbroek 2003: 102-3)</ab>
+         <ab class="ab_indent"><em>pad </em> ẏeŋ́hē mē aṣ̌āt̰ hacā <em> jīw be baxšišn pad 3 bahr 2
+               bahr ān ī zōhrag ud ēk ān ī barsom ay tāy ī *bastag kē az kust ī dašn-iš zōhrag
+               pad-iš </em></ab>
+         <ab class="ab_indent">At <em>ẏeŋ́hē mē aṣ̌āt̰ hacā</em> he has to divide the<em> jīw</em>
+            in three parts. Two parts are for the <em>zōhrag</em> and one for the <em>barsom</em>,
+            that is, for the tied twigs at whose right side is the <em>zōhrag</em>.</ab>
+      </Quotations>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY13.8"/>
+      <include type="W" corresp="WTrY13.7b"/>
+      <include type="K" corresp="KTrY13.7b"/>
+      <include type="D" corresp="DTrY13.7b"/>
+   </translation>
+</text>

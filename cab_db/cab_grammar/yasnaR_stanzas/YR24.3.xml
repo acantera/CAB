@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR24.3" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y24.3" xml:id="YR24.3">
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR24.3"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. Y24.1.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab>YR24.3a <em>aṣ̌aōnō aṣ̌ahe ratufritīm</em>] without <em>raϑβō</em>. Cf. Y24.3.</ab>
+        </Commentary>
+        <RecitationInstruction>
+            <ab>YR24.3b <em>imą aēsmąsca ...</em>] <em>imąn aēsmąsca</em> OD <em>aṣ̌aōnō staōiš</em> (YR24.4) 300; <em>imą aēsmąsca</em> OD OL Y <em>aṣ̌aōnō staōiš</em> (YR24.4) 360.</ab>
+            <ab>YR24.3c <em>vīspaca vohu ...</em>] <em>vīspaca</em> OD <em>āat̰ dīš ahurāica</em> (YR24.4) 320.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrYR24.3"/>
+    </translation>
+</text>

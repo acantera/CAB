@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS0.4" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+    <created>1 June 2019</created>
+    <approved/>
+    <updated/>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VVrS0.4">
+         <include href="/db/apps/cab_db/cab_rituals/nerang/videvdad_nerang" xpointer="VVrS0.4NerangTransc.a"/>
+         <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV1"/>
+         <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+         <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>zōt: vid. VVrS0.3 wāz gīrišnīh.</div>
+        </SpeakerInfo>
+    </Speaker>
+    <Commentary/>
+    <Apparatus>
+        <Critical/>
+        <Commentary>            
+            <ab>VVrS0.4] Indian mss. om.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Quotations id="ritualQuotations">
+            <ab><ab>Revāyat of Kāmdin Šapur (var. a) (MU1, p. I. 580), cf. Revāyat of Kāmdin Šapur (var. b.) (MU1, p. I. 584), on the Nērang ī Āb ud Padyāb ceremony:</ab>
+                <ab class="ab_indent">(Pāz.) u. zōt̰. gāh. ābarətārą̇n. ṣ̌udan. u. rāspī. vāj. guftan. pa. gāhi. asnauuārą̇n. ṣ̌ūdan. u. drust. naṣ̌istan. u. vāj. gə̄riftan. īāni. <em>xṣ̌naoϑra ahurahe mazdā̊ aṣ̌əm vōhū</em> 
+                    ẏak. u. dast. ātaš. dāštan. u. xušak. kardan. u. darə. nīrəṇg. bar. gə̄rə̄ftan. u. zōt̰. <em>aṣ̌əm vōhū</em> guftan. u. nīrəṇg. nigarδan. <em>vōhū</em> āv. nigarīδan. <em>vaištəm</em> tā. sar. guftan. āt̰.ẏašt. šastan. si 
+                    <em>aṣ̌əm vōhū</em> barīn. dastūr. x́ą̇nadan. u. nigarīdan. ādušt. šustan.</ab>
+                <ab class="ab_indent">"The <em>zōt</em> should go to the place of the <em>ābarətār</em> and the <em>rāspīg</em> should utter the <em>wāz</em> and go to the place of the <em>asnuuār</em> and seat erected.
+                    And (the <em>zōt</em>) should take the <em>wāz</em> saying <em>xṣ̌naoϑra ahurahe mazdā̊ aṣ̌əm vōhū</em> once and he should the hands (over) the fire and make them dry. And he should up the top (of the vessel)
+                    of the <em>nērang</em> and the <em>zōt</em> should say the <em>aṣ̌əm vōhū</em> and look at the <em>nērang</em> at <em>vōhū</em> and look at the water at <em>vaištəm</em> and say until the end (while) cleaning the <em>ādušt</em>.
+                    He should read three <em>aṣ̌əm vōhū</em> this way</ab> and looking and cleaning the <em>ādušt</em>."</ab>
+            
+            <ab><ab>Revāyat of Behdin Ǧāsā (MU1, p. I. 592), on the Nērang ī Āb ud Padyāb ceremony:</ab>
+                <ab class="ab_indent">pas az cap-e dast-e ādušt šodan va dast durtar kardan āheste dast bordan miyān-e ādušt tar kardan cenānke nami qaṭre-ye āb bar mašrabe-ye gomiz 
+                    narizand miyān-e ādušt šostan pas ānkas ke barsam baste ast vāǧ begoftan dast az barsam ǧodā kardan ḫod rā az arvis ǧodā kardan ḫod rā az arvis bāyad ke ǧodā šode bāšad </ab>
+                <ab class="ab_indent">"Then he should go to the left side of the <em>ādušt</em>, should hold his hand aloof, carry it over slowly, and throw water on the surface of <em>ādušt</em>, in such a way that not a single drop of water may fall over the vessel of urine. 
+                    He should then wash the surface of the <em>ādušt</em>. Then the person who has tied the <em>barsom</em> should finish off the <em>wāz</em>, separate his hands from the <em>barsom</em>, and come out of the <em>urvis</em>."</ab></ab>
+        </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrVVrS0.4"/>
+    </translation>
+</text>

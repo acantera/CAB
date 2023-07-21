@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y25.4" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y25.4">
+        <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanAcc" xpointer="ShnumanAcc54"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY26.1"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: Šnūman, vid. Y25.0.</ab>
+                <ab class="ab_indent">zōt: Y25.4a-b. Kotwal and Boyd, Geldner.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab>Y25.4ShnumanAcc.a] ms. 672 attests Šn. Frauuaṣ̌i.</ab>
+        </Commentary>
+        <RecitationInstruction>
+            <ab>Y25.4a <em>staōmi zbaiiemi</em> ...] <em>zbaiiemi ufaiiemi y.</em> OD <em>vīspā̊ frauuaṣ̌aiiō</em> (Y26.10) 40.</ab>
+            <ab>Y25.4ShnumanAcc.a <em>ahurəm mazdąm</em> ...] AMT' hšnwmn Y nwknʾbl YHWWNyt' <em>ahurəm mazdąm</em> ... 88.</ab>
+            <ab>Y25.4RatuShnumanAcc <em>miϑrəm vouru.gaōiiaōitīm</em> ...] AMT' hšnwmn nnʾp̄l <em>miϑrəm vouru.gaōiiaōitīm</em> ... 5.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels>
+        <ab>Y25.4a-Y26.9 = Y59.19-28, VrS81.18a-27, DrYt4.9a-18.</ab>
+        <ab>Y25.4a-b = Y59.19, Y71.23, VrS81.18a-b, DrYt4.9a-b.</ab>
+        <ab>VrS29.4 = DoHom6.4.</ab>
+        <ab><em>aṣ̌āunąm vaŋᵛhīš sūrā̊ spəṇtā̊ frauuaṣ̌aiiō staōmi zbaiiemi ufiiemi yazamaide nmāńiiā̊ vīsiiā̊ zaṇtumā̊ dax́iiumā̊ zaraϑuštrō.təmā̊</em> = Y17.19, Y59.19, Y71.23.</ab>
+        <ab/>
+    </Parallels>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Y25.4 (mss. 5, 88):</ab>
+            <ab class="ab_indent"><em>ahurəm mazdąm raēuuaṇtəm xᵛarənaŋᵛhaṇtəm yazamaide aməṣ̌ā spəṇtā huxšaϑrā huδā̊ŋhō yazamaide</em>. 
+                ka xšnūman nōg nābar bēd <em>miϑrəm vouru.gaōiiaōitīm yazamaide rāma xᵛāstrəm yazamaide</em> </ab>
+            <ab class="ab_indent">"At <em>ahurəm mazdąm raēuuaṇtəm xᵛarənaŋᵛhaṇtəm yazamaide aməṣ̌ā spəṇtā huxšaϑrā huδā̊ŋhō yazamaide,</em> when it is the <em>šnūman</em> for <em>nōgnāwar</em>, 
+                (they should continue with) <em>miϑrəm vouru.gaōiiaōitīm yazamaide rāma xᵛāstrəm yazamaide</em>."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY25.4"/>
+        <include type="W" corresp="WTrY25.4-8, WTrY26.1"/>
+        <include type="K" corresp="KTrY25.4-8, KTrY26.1"/>
+        <include type="D" corresp="DTrY25.4-8, DTrY26.1"/>
+    </translation>
+</text>

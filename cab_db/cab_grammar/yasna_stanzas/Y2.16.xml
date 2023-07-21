@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y2.16" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y2.16">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY2.15"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. Y2.4.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels>
+        <ab>Y2.16 = VVrS14.14; ≈ Y1.16, Y3.18, Y4.21, Y6.15, Y7.19, Y17.16, Y22.19, Y24.26, Y59.16, Y66.16, VrS78.28, VrS79.20, VrS81.15, VrS82.16.</ab>
+    <ab><em>daɱam vaŋᵛhīm āfritīm [..] daɱəmca narəm aṣ̌auuanəm ... uγrəm taxməm dāmōiš upamanəm yazatəm</em> = VrS1.15, VrS25.17, VrS27.31, VrS77.16, VrS90.15; 
+        ~ Y7.30, VrS82.36 <em>daɱam vaŋᵛhīm āfritīm yazamaide uγrəm taxməm dāmōiš upamanəm yazatəm yazamaide ... frasasti daɱaiiā̊ vaŋhuiiā̊ āfritōiš</em>; ~ Y8.2 <em>daɱaiiā̊ vaŋhuiiā̊ āfritōiš uγrāi dāmōiš upamanāi</em></ab>
+        <ab><em>daɱąm vaŋᵛhīm āfrītīm ... daɱəmca narəm aṣ̌auuanəm</em> ~ Y61.1, Y72.1 <em>daɱaheca narš aṣ̌aōnō daɱąmca vaŋᵛhīm āfritīm</em>.</ab>
+        <ab><em>daɱąm vaŋᵛhīm āfrītīm ... uγrəm taxməm damōiš upamanəm yazatəm</em> ~ A1.1, A1.13 (Šn).</ab>
+        <ab><em>daɱąm vaŋᵛhīm āfrītīm</em> ~  Y70.3.</ab>
+        <ab><em>uγrəm taxməm damōiš upamanəm yazatəm</em> ~ Yt10.9, Yt12.4, Yt12.6 <em>haϑra dāmōiš upamanō</em>; ~ Yt10.66 <em>uγrasca dāmōiš upamanō</em>; ~ Yt10.68 <em>yat̰ dim dāmōiš upamanō</em>; 
+            ~ Yt10.127 <em>taxmō dāmōiš upamanō</em>; ~ Yt13.47 <em>uγraca dāmōiš upamana</em>; ~ Yt13.48 <em>uγraca dāmōiš upamanō</em>.</ab>
+        <ab><em>taxməm damōiš upamanəm yazatəm</em> = Y71.24, VrS18.5, VrS30.11, VrS36.5, VrS41.6, VrS51.8, VrS57.8, VrS62.8, VrS64.9, VrS65.82, VrS69.8, VrS71.8, VrS87.12, VrS93.11.</ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrY2.16"/>
+    <include type="W" corresp="WTrY2.15"/>
+        <include type="K" corresp="KTrY2.15"/>
+        <include type="D" corresp="DTrY2.15"/>
+    </translation>
+</text>

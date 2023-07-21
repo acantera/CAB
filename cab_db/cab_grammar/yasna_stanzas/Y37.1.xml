@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y37.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y37.1" headerPointer="Head37">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY37.1"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>Y37 = Y5</ab>
+      <ab> = Y5.1, VrS65.33</ab>
+      <ab>
+            <em>apascā dāt̰ uruuarā̊sca vaŋᵛhīš</em> ~ Y8.4 <em>yā̊ apasca uruuarā̊</em>; ~ Y9.4 <em>āpa uruuaire</em>; ~ Y8.8, Y11.4, Y52.6, Y60.10, Y68.17, Y71.29 <em>vasō. āpō. vasō. uruuarā̊.</em>; 
+         ~ Y12.12 <em>yā varanā āpō yā varanā uruuarā̊   </em>; Y16.9 ~ <em>yazamaide vīspā̊ āpō yazamaide vīspā uruuarā̊</em>; ~ Y18.2, Y51.8, Y65.15 <em>dāidī mōi yə̄ gąm tašō apascā uruuarā̊sca</em>; 
+         ~ Y44.4 <em>kə̄ apō uruuarā̊scā</em>;
+         ~ VrS65.78, VrS65.80 <em>auui apąmca vaŋᵛhinąm uruuuarnąmca</em>; ~ VrS65.78, VrS65.80 <em>yā̊ vaŋᵛhīš yā̊ āpō yā̊sca uruuarā̊</em>.</ab>
+      <ab><em>ahurəm mazdąm yə̄ gąmcā aṣ̌əmcā dāt̰</em> ~ Y12.12 <em>ahurō mazdā̊ ... yə̄ gąm dadā</em>.</ab>
+      <ab>
+            <em>dāt̰ būmīmcā vīspācā vohū</em> ~ Y42.3, VrS65.70 <em>būmīmcā vīspācā vohū yazamaidē</em>
+        </ab>
+   </Parallels>
+   
+   <Ritual>
+      <Quotations id="ritualQuotations">
+         <ab>PRDīD (<bibl>Williams, 1990</bibl>: p. I, 200):</ab>
+         <ab class="ab_indent">zand ī <em>iϑā āat̰ yazamaide</em> ēdar ēdōn yazēm ohrmazd kē-š gōspand ud ahlāyīh-iz dād u-š āb-iz dād ud urwar-iz ī weh u-š rōšnīh-iz dād ud būm-iz ud harwisp ābādīh ahlāyīh ābādīh ī pahlom ast kū *hambār ēn weh kār ud kirbag ī pad frārōnīh nēk ast ēn kār ud kirbag nēk ōy kē az ān ōy nēkīh kadār-iz-ē kū kadār-iz-ē az nēkīh ī ōy nēkīh zand ī <em>iϑā</em> ud <em>ašəm vohū</em>.</ab>
+         <ab>PRDīD (<bibl>Williams, 1990</bibl>: p. II, 94):</ab>
+         <ab class="ab_indent">"The explanation of <em>iϑā āat̰ yazamaide</em>: 'Here thus (<em>iϑā ēdōn</em>) we worship Ohrmazd who created beneficent animals, an also righteousness, and he created also water, and also good plants, and he created also light, and also earth, and all prosperity'. 'Righteousness ist the best prosperity', i.e. this *store (is) good, good deeds (performed) with honesty; 'it is good', these good deeds, 'good is he from whom goodness comes to someone', i.e. goodnes comes to someone from his goodness. The explanation of <em>iϑā</em> and <em>ašəm vohū</em>."</ab>
+         
+         <ab>Suppl. Šnš (cf. <bibl>Kotwal, 1969</bibl>: pp. 47-48):</ab>
+         <ab class="ab_indent"><em>iϑā āat̰ yazamaide</em> 5 wačadast stāyišn ud spās az ōhrmazd pad dādan ī wēh dahišnān</ab>
+         <ab class="ab_indent">"The 5 passages of <em>iϑā āat̰ yazamaide</em> (are) the praise and gratitude towards Ōhrmazd for creating the good creations"</ab>
+      </Quotations>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY37.1"/>
+
+        <include type="W" corresp="WTrY37.1"/>
+        <include type="K" corresp="KTrY37.1"/>
+        <include type="D" corresp="DTrY37.1"/>
+    </translation>
+</text>

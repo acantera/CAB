@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y19.19" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y19.19">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY19.19"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y19.3.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y19.19a <em>manas.paōiriiō</em>] sec. cod., Bartholomae; Geldner, Kellens <em>manaspaōiriiō</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>aṣ̌a.paōiriiāišca dāmə̄bīš</em> ~ VrS62.5, VrS62.6, VrS93.9, VrS93.10, YtOhr3.13 <em>aṣ̌aōnąmca aṣ̌a.paōiriianąm dāmanąm</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY19.19"/>
+      <include type="W" corresp="WTrY19.19"/>
+      <include type="K" corresp="KTrY19.19"/>
+      <include type="D" corresp="DTrY19.19"/>
+   </translation>
+</text>

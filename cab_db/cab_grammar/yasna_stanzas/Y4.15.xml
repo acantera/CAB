@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y4.15" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y4.15">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY4.15"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y4.9.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>Y4.15 = Y24.20, VrS79.15; ≈ Y1.10, Y2.10, Y3.12, Y6.9, Y7.13, Y17.9, Y22.13, Y66.10, VrS78.22, VrS81.9, VrS82.10, VVrS14.8.</ab>
+      <ab>
+         <em>vīspaēibiiō aēibiiō ratubiiō yōi həṇti aṣ̌ahe ratauuō ϑraiiasca ϑrisąsca nazdišta pairiš.hāuuanaiiō</em> ~ VytS3.6<em>vīspe ā tē ā ϑātuš tē ā ratūš yōi həṇti aṣ̌ahe ratauuō ϑraiiasca ϑrisąsca nazdišta pairiš.hāuuanaiiō yōi həṇti aṣ̌ahe ratauuō ϑrātōtəmō</em>; ~ Y1.23 <em>ratauuō vīspe mazišta</em>
+      </ab>
+      <ab>
+         <em>raϑβō bərəzatō yō aṣ̌ahe raϑβąm aiiaranąmca asńiianąmca māhiianąmca yāiriianąmca sarəδanąmca yōi həṇti aṣ̌ahe ratauuō</em> See parallels in Y1.18</ab>
+      <ab>
+         <em>mazdō.frāsasta zaraϑuštrō.fraōxta</em> ~ Y65.9 <em>yą ahurō mazdā̊ zaraϑuštrāi frāuuauuaca frā zaraϑuštrō gaēϑābiiō astuuaitibiiō</em>
+      </ab>
+      <ab>
+         <em>mazdō.frasāsta</em> ~ Y28.13 <em>tuuə̄m mazdā ahurā frō.mā sīšā</em>; ~ Yt13.83, Yt19.16 <em>(aməṣ̌a spəṇta) hamō pataca frasāstaca yō daδuuā̊ ahurō mazdā̊</em>
+      </ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY4.15"/>
+
+   <include type="W" corresp="WTrY4.15"/>
+        <include type="K" corresp="KTrY4.15"/>
+        <include type="D" corresp="DTrY4.15"/>
+    </translation>
+</text>

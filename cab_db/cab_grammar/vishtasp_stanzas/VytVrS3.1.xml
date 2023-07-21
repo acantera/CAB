@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VytVrS3.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="VytVrS3.1">
+        <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VytSY3.1a" on_line="in1lineblock"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/RatuCerGen" xpointer="RatuCerGenVyt" on_line="in1line"/>
+        <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VytSY3.1b" on_line="in1line"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. VVrS2.26.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary/>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab><em>barəsmana ... frādat̰.gaēϑrahe</em>] <em>xᵛarəϑəm miiazdəm āiiese yešti</em> OD <em>hauuaheca urunō</em> (VytVrS3.4) 5010, 5030.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels>
+    <ab>VytVrS3.1 ≈ Y3.1, Y4.1, Y4.3, Y7.2, Y22.2, YR3.1, VrS78.13, VrS79.1, VrS79.3, VrS82.2, VVrS3.1, DrYt1.2, DrYt2.1, DrYt.2.3;</ab>
+    <ab>
+            <em>barəsmana paiti.bərəta haδa.zaōϑra</em> ~ Y2.1 <em>barəsma haδa.zaōϑrəm</em>
+        </ab>
+    <ab>
+            <em>xᵛarəϑəm miiazdəm āiiese yešti hauruuata amərətāta gāuš hudā̊</em> = Y3.21, Y3.23, DrYt1.10, DrYt1.11; ~ Y7.2, Y7.22, Y7.24, Y8.2, DrYt5.9, DrYt5.10, DrYt6.2 <em>aṣ̌aiia daδąmi xᵛarəϑəm miiazdəm hauruuata amərətāta gāuš hudā̊</em>
+        </ab>
+    <ab>
+            <em>xᵛarəϑəm miiazdəm</em> ~ Y8.3 xᵛarata narō aētəm miiazdəm</ab>
+    <ab>
+            <em>hauruuata amərətāta</em> as <em>dvandva</em> in Y1.2, Y3.21, Y3.23, Y4.1, Y4.3, Y6.18, Y7.2, Y7.22, Y7.24, Y7.30, Y8.2, Y70.2, Yt1.21.</ab>
+    <ab>
+            <em>xšnūmaine ahurahe mazdā̊ aməṣ̌anąm spəṇtanąm</em> ~ Y7.2, Y22.5, Y66.2, VrS78.14, VrS88.2.</ab>
+    <ab>
+            <em>xšnūmaine sraōšahe aṣ̌iiehe aṣ̌iuuatō vərəϑrājanō frādat̰.gaēϑahe</em> = Y7.2; ~Y3.21, Y.23, Y7.22, Y7.24 <em>xšnūmaine sraōšahe aṣ̌iiehe taxmahe tanu.mąϑrahe darši.draōš āhūiriiehe aōxtō.nāmanō</em>
+        </ab>
+        </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrVytVrS3.1"/>
+    </translation>
+</text>

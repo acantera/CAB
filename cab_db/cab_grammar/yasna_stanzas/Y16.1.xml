@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y16.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y16.1">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY16.1"/>
+            </div>
+    <Speaker>
+    <SpeakerInfo>
+        <div>
+            <ab class="ab_indent">zōt: Anklesaria. Vid. Y16.0.</ab>
+        </div>
+    </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab><em>ahurəm mazdąm</em>...] <em>ahurəm mazdą̇m aṣ̌auuanəm aṣ̌ahe ratūm yaz. huδā̊ŋhəm</em> OD LOYŠE <em>ahurəm mazdą̇m</em> (Y17.1) 40.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels>
+        <ab><em>dātārəm vohunąm dāmanąm ābiiō rātābiiō zaōϑrābiiō aršuxδaēibiiasca vāγžibiiō vīspəmca aṣ̌auuanəm maińiiaōm yazatəm yazamaide</em> ~ Y16.2 <em>ābiiō rātābiiō zaōϑrābiiō aršuxδaēibiiasca vāγžibiiō vīspəmca aṣ̌auuanəm gaēϑīm yazatəm yazamaide</em>.</ab>
+        <ab><em>aršuxδaēibiiasca vāγžibiiō</em> = VrS15.1; ~ Y9.25 <em>vacąm ərəžuxδanąm [...] ərəžǔxδəm [...] vācim</em>; ~ Y7.30 <em>aršuxδəm vācim</em>;  ~ Y60.5 <em>aršuxδō vāxš</em>; ~ Y71.10 <em>vacō aršuxδa</em>; ~ Y27.8 <em>aršuxδanąmcā vacąm</em>; ~ VrS31.13 <em>aršuxδanąmca vacaŋhąm</em> (!), etc.</ab>
+        <ab><em>vīspəmca aṣ̌auuanəm maińiiaōm yazatəm yazamaide</em> = Y25.4 Šnūman Nō Nāwar acc.</ab>
+    </Parallels>
+    <Ritual>
+        <ModernPractice id="ritualModernPractice">
+            <ab><ab><bibl>Redard and Daruwalla, 2021</bibl>, p. 86:</ab>
+                <ab class="ab_indent">"The chief priest, after taking the mortar from the table, puts (it) upside down inside the water container; and the chief priest recites alone."</ab></ab>
+            <ab><ab><bibl>Kotwal and Boyd, 1991</bibl> p. 102:</ab> 
+                <ab class="ab_indent">"At the start of this chapter, the <em>zōt</em> picks up the mortar with his right hand and sets it upside down on the table, grasping it by the base and placing it inverted in the large basin of water."</ab></ab>
+        </ModernPractice>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY16.1"/>
+        <include type="W" corresp="WTrY16.1"/>
+        <include type="K" corresp="KTrY16.1"/>
+    <include type="D" corresp="DTrY16.1"/></translation>
+</text>

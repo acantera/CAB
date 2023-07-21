@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y3.7" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y3.7">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY3.7a" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat4.1" on_line="in1line"/>
+               <!-- successive gāh from Y3.6 -->
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY3.7b" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat4.2" on_line="in1line"/>
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY3.7c" on_line="in1lineblock"/>
+               <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat4.3" on_line="in1line"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. Y3.6.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab>Y3.7b <em>dax́iiumāica</em>] sec. cod., Kellens; Geldner, Redard <em>dāx́iiumāica</em>.</ab>
+        </Commentary>
+    </Apparatus>
+    <Parallels>
+        <ab>Y3.7 = Y22.8, VrS78.17; ≈ Y1.5, Y2.5, Y4.10, Y6.4, Y7.8, Y17.4, Y24.15, Y59.4, Y66.5, VrS79.10, VrS81.4, VrS82.5.</ab>
+        <ab>
+            <em>bərəzatō ahurahe nafəδrō apąm apasca mazdaδātaiiā̊</em> = in <em>xšnūman Burz</em>. See Karanjia (<bibl>Karanjia, 2010</bibl>:41).</ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+    <include type="CAB" corresp="CABTrY3.7"/>
+        <include type="W" corresp="WTrY3.7"/>
+        <include type="K" corresp="KTrY3.7"/>
+        <include type="D" corresp="DTrY3.7"/>
+    </translation>
+</text>

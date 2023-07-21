@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y13.3" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y13.3">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY13.3"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y13.1.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y13.3a <em>ratūm</em>] Kellens del. "Sa suppression fait apparaître une syntaxe d’une
+            régularité absolue." (<bibl>Kellens, 2007</bibl>, p. 139). Kept sec. cod., but then the
+            concordance with <em>cašānąscā</em> problematic.</ab>
+         <ab>Y13.3b <em>āstāiiā</em>] sec. cod. 60, 4020, some Indian, Geldner, Kellens. Ir. cod. (except 60, 4020), YCom, 500, 677 <em>-aō-</em>, <em>-āō-</em> or <em>-ō-</em> (vid.
+            Apparatus); <em>āstā̊iiā</em> 100, 110, 235, 510 likely back to <em>-aō-</em>. Other Ind. cod. <em>āstāiiā</em>. Likely a corrupted form of <em>āstu-</em>. Cf. VrS11.13 <em>āstāiiāmaide</em>.</ab>
+         <ab>Y13.3c <em>aš.xrā.xᵛanutəmą</em>] Ir. cod.; Geldner <em>ašxrāxᵛanutəmą</em>; Kellens <em>aš.xrāxᵛanutəmą</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>ratūm āmruiiē</em> = Y13.1, Y13.2 (x3); ~ VrS11.13 <em>ratūš āmrūmaide</em>.</ab>
+      <ab><em>ratūš āmruiiē ratūš āstāiiā aməṣ̌ąscā spəṇtą saōš́iiaṇtascā dąhištą aršuuacastəmą
+            aiβiiāmatəmą aš.xrā.xᵛanutəmą.</em> ~ VrS11.13 <em>ratūš āmrūmaide ratūš āstāiiāmaide
+            aməṣ̌ə̄sca spəṇtə̄ saōš́iiaṇtasca dąhištə̄ aršuuacastəmą aiβiiāmatəmą
+            aš.xrā.xᵛanutəmą</em>.</ab>
+      <ab><em>dąhištə̄ aršuuacastəmą</em> ~ VrS11.9 <em>dąhištəm aršuuacastəməm</em>.</ab>
+      <ab>
+         <em>daēnaiiā̊ māzdaiiasnōiš passim</em>
+      </ab>
+      <ab><em>aϑaurunąscā raϑaēštąscā vāstriiąscā fšuiiaṇtō</em> ~ VrS11.13 <em>aϑaurunąsca
+            raϑaēštārə̄sca vāstriiąsca fšuiiaṇtō</em>; ~ Y11.6 <em>āϑrauua naēδa raϑaēštā̊ naēδa
+            vāstriiō fšuiiąs</em>; ~ Y19.17 <em>āϑrauua raϑaēštā̊ vāstriiō fšuiiąs</em>; ~ VrS11.10
+            <em>āϑrauuanəm āstāiia raϑaēštārəm āstāiia vāstrīm fšuiiaṇtəm āstāiia</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY13.3"/>
+      <include type="W" corresp="WTrY13.3"/>
+      <include type="K" corresp="KTrY13.3"/>
+      <include type="D" corresp="DTrY13.3"/>
+   </translation>
+</text>

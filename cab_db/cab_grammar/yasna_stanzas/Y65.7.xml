@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y65.7" status="created">  <!-- created, approved, updated--> <header><creators><creator>Porro</creator><creator>Cantera</creator></creators><created>1 June 2019</created></header><div type="Stanza" sameAs="" xml:id="Y65.7">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY65.7"/>
+            </div><Apparatus><Critical/><Commentary/></Apparatus><Parallels/><Ritual/><translation><include type="CAB" corresp="CABTrY65.7"/><include type="W" corresp="WTrY65.7"/><include type="K" corresp="KTrY65.7"/><include type="D" corresp="DTrY65.7"/></translation></text>

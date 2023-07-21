@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL11.1.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="1" xml:id="ParagnaLL11.1.1">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL11.1.1 (Mss. K7, RJ):</ab>
+            <ab class="ab_indent">
+                pas barsom andar miyān-e māhruy nahādan be-har do dast goftan <em>xšnaoθra ahurahe mazdā̊</em> dahan barham nahādan be-wāǧ-e urmazd wa amešāsfandān beyāri ḫᵛāndan 
+                va setāyešn kardan dahan barham nahādan be-wāǧ-e urmazd wa amešāsfandān beyāri ḫᵛāndan va setāyešn kardan</ab>
+            <ab class="ab_indent">
+                "Then he should put the <em>barsom</em> with both hand on the middle of the <em>māhruy</em> and recite <em>xšnaoθra ahurahe mazdā̊</em>. He should close his mouth 
+                and recite in <em>wāz</em> the plea for <em>Urmazd</em> and <em>Amešasfandān</em> and praise then."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL11.1.1"/>
+    </translation>
+</text>

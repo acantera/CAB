@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y1.9" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+        <updated>Martínez Porro, 26th February 2020</updated>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y1.9">
+        <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY1.9"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. Y1.4.</ab>
+            </div>
+        </SpeakerInfo>
+        <Commentary>
+            <ab>Y1.9d <em>varšni.harštāica</em>] Kellens. Geldner <em>varšniharštāica</em>.</ab>
+        </Commentary>
+    </Speaker>
+    <Apparatus/>
+    <Parallels>
+        <ab>Y1.9 ≈ Y2.9, Y3.11, Y4.14, Y6.8, Y7.12, Y17.8, Y22.12, Y24.19, Y59.8, Y66.9, VrS78.21, VrS79.14, VrS81.8, VrS82.9.</ab>
+        <ab>Without the mention of <em>sarəδa</em> ("year"), but with additional epithets for each <em>gahanbār</em> ≈ VrS1.10, VrS2.10, VrS17.9, VrS25.12, VrS27.26, VrS77.9.</ab>
+    </Parallels>
+    <Ritual>
+        <Commentary id="ritualCommentary">
+            <!--<ab>Cf. A3.7-12:</ab>
+            <ab class="ab_indent">A3.7 <em>paṇcāca caϑβarəsatəmca maiδiiōi.zarəmaiiehe aṣ̌ahe vahištahe daϑušō</em></ab>
+            <ab class="ab_indent">"Fourty five (days until) Maiδiiōi.zarəmaiia, (that is the month) Aṣ̌a Vahišta, (the day) Daduuah."</ab>
+            
+            <ab class="ab_indent">A3.8 <em>xšuuaštīm maiδiiōi.šəmahe tištriiehe daϑušō</em></ab>
+            <ab class="ab_indent">"Sixty (days until) Maiδiiōi.šəma, (that is the month) Tištria, (the day) Daduuah."</ab>
+            
+            <ab class="ab_indent">A3.9 <em>paṇcāca haptāitīm paitišhahiiehe xšaϑrahe vairiiehe anaγranąm</em></ab>
+            <ab class="ab_indent">"Seventy five (days until) Paitišhahiia, (that is the month) Xšaϑra Vairiia, (the day) Anaγra."</ab>
+            
+            <ab class="ab_indent">A3.10 <em>ϑrisatəm aiiāϑrimahe miϑrahe anaγranąm</em></ab>
+            <ab class="ab_indent">"Thirty (days until) Aiiāϑrima, (that is the month) Miϑra, (the day) Anaγra."</ab>
+            
+            <ab class="ab_indent">A3.11 <em>aštāitīm maiδiiāiriiehe daϑušō vərəϑraγnahe</em>.</ab>
+            <ab class="ab_indent">"Eighty (days until) Maiδiiāiriia, (that is the month) Daduuah, (the day) Vərəϑraγna."</ab>
+            
+            <ab class="ab_indent">A3.12 <em>paṇcāca haptāitīm hamaspaϑmaēdaiiehe vahištōištōiš gāϑaiiā̊</em></ab>
+            <ab class="ab_indent">"Seventy five (days until) Hamaspaϑmaēdaiia, (that is the day) Vahištōišti Gāϑā."</ab>
+            
+            <ab>Cf. Bundahišn IA.16-21:</ab>
+            <ab class="ab_indent">1A.16 <em>nazdist āsmān brēhēnīd pad 40 rōz ciyōn az rōz ī ohrmazd māhīg frawardīn tā ēn rōz ī abān māhīg ardwahišt 5 rōz abar pād tā rōz ī daē pad mehr ān 5 rōz ī gāhānbār u-š nām mīdyōzarm</em>
+            </ab>
+            <ab class="ab_indent">"First (Ohrmazd) created the sky in 40 days, that is from the day Ohrmazd, month Frawardīn, to the day Abān, month Ardwahišt. The 5 days standing up to the day Daē pad Mehr, these are 5 days of Gāhānbar and their name is Mīdyōzarm."</ab>
+            
+            <ab class="ab_indent">1A.17 <em>didīgar āb dād pad 55 rōz cīyōn az rōz ī mehr māh ī ardwahišt tā rōz abān māh ī tīr 5 rōz abar pād tā rōz daē pad mehr ān 5 rōz gāhānbār  u-š nām mīdyōšam</em>
+            </ab>
+            <ab class="ab_indent">"Secondly (Ohrmazd) created the sky in 55 days, that is from the day Mehr, month Ardwahišt, to the day Abān, month Tīr. The 5 days standing up to the day Daē pad Mehr, these are 5 days of Gāhānbar and their name is Mīdyōšam."</ab>
+            
+            <ab class="ab_indent">1A.18 <em>sidīgar zamīg dād pad 70 rōz cīyōn az rōz mehr māh tīr tā rōz ī ard māh šahrīwar ān 5 rōz abar pād tā rōz anagrān ān 5 rōz ī gāhānbār u-š nām pīdīšhah</em></ab>
+            <ab class="ab_indent">"Thridly (Ohrmazd) created the earth in 70 days, that is from the day Mehr, month Tīr, to the day Ard, month Šahrēwar. The 5 days standing up to the day Anagrān, these are 5 days of Gāhānbar and their name is Pīdīšhah."</ab>
+            
+            <ab class="ab_indent">1A.19 <em>cahārom urwar dād pad 25 rōz 5 rōz abar pād tā [[aštād rōz]] rōz anagrān ān 5 rōz gāhānbār u-š nām ayāsrim</em></ab>
+            <ab class="ab_indent">"Fourthly (Ohrmazd) created the earth in 25 days. The 5 days standing up to the day Anagrān, these are 5 days of Gāhānbār and their name is Ayāsrim."</ab>
+            
+            <ab class="ab_indent">1A.20 <em>panjom gōspand dād pad 75 rōz cīyōn az rōz ī ohrmazd māh ī abān tā rōz daē pad mehr māh daē 5 rōz abar pād tā [rōz wahrām] ān 5 rōz gāhānbār u-š nām mīdyārīm</em></ab>
+            <ab class="ab_indent">"Fifthly (Ohrmazd) created the earth in 75 days, that is from the day Ohrmazd, month Abān, to the day Daē pad Mehr, month Daē. The 5 days standing up to [the day Wahrām], these are 5 days of Gāhānbār and their name is Mīdyārīm."</ab>
+            
+            <ab class="ab_indent">1A.21 <em>šahom mardōm dād kū Gāyōmard [pad] 70 rōz cīyōn az rōz rām [[ī]] māh ī daē tā rōz ī anāgrān [[ī]] māh spandarmad 5 rōz abar pād tā ān 5 rōz ī gāhān[[bār]] ast kē 5 rōz ī trūftag ast kē dūzīdag gowēd u-š nām hamāspmaydīm</em> </ab>
+            <ab class="ab_indent">"Sixthly (Ohrmazd) created the humanity, that is (beginning with) Gāyōmard in 70 days, that is from the day Rām, the month Daē until the day Anāgrān, the month Spandarmad. The five days standing up to the five days of Gāhān, there is one who call them <em>trūftag</em>, there is one who call them <em>duzīdag</em> and their name is Hamāspmaydīm</ab>
+          
+            <ab class="ab_indent">1A.22 <em>ān 5 rōz trūftag ast kē 5 gāh gāhānīg ast kē panjag ī weh gōwēd pad dēnīg ēn ast ahunwat gāh [[ī]] ūštawayt gāh spītmad gāh wahūšahr gāh ud wahištōišt gāh</em></ab>
+            <ab class="ab_indent">This five days <em>trūftag</em>, there is onw who call the five <em>gāh</em> as <em>gāhānīg</em>, there is one who calle them the good pentad. In the religíon these are Ahunwat Gāh, Uštawayt Gāh, Spītmad Gāh, Wahūšahr Gāh and Wahištōišt Gāh."</ab>
+            
+            <ab>Especifically on <em>hamaspaϑmaēdaiia</em>:</ab>
+            <ab class="ab_indent">Yt13.49 <em>aṣ̌aunąm vaŋᵛhīš sūrā̊ spəṇtā̊ frauuaṣ̌aiiō yazamaide yā̊ vīsāδa āuuaiieiṇti hamaspaϑmaēdaēm paiti ratūm āat̰ aϑra vīcarəṇti dasa pairi xšafnō auuat̰ auuō zixšnā̊ŋhəmnā̊</em></ab>
+            <ab class="ab_indent">"We worship the good, mighty, beneficial Frauuaṣ̌iš of the supporters of the order, that run around the clans at the time of <em>hamaspaϑmaēdaiia</em>. Then they wonder around during ten nights, wanting to know that:"</ab>
+            
+            <ab class="ab_indent">WiD116 <em>ēk ēn kū andar pancag tā vhīštōyšt kū hamaspadmēdīm ī māh ī spandarmad andar ēzišn ud niyāyišn ud drōn yaštan nē šāyed xwāndan cē ēn 5 rōz az  māh judag dāšt estēd ciyōn az abastāg ī niyādom paydag.</em> āat̰ aētahē paṇca
+                aiiara hamasp[a]ϑmaiδəm paiti ratūm spəṇtaiiā̊ ārmitōiš mā̊ŋhō nōit̰ frasrāuuaiiōit̰. <em>ēdōn ān 5 rōz hamaspadmīdīm abar radīh spandarmad bowandag-menišn māh kū spandarmad māh nē frāz srāyēd kū nē xwānēd cē agar az frīmōšīh abar xwānēd abastāg padīriftag nē bawēd</em></ab>
+            <ab class="ab_indent">"Who worships with a Yasna, a Niyāyišn and a Drōn in the five days until Wahištōišt, that means Hamaspapadmīdīm, of the month Spandarmad, he shall no recite (it), since these five days of the month are hold differently. As it is clear in
+                the Avesta in the Niyādom: 'it should not be recited the month Spəṇta Armaitī during the five days of this at the time of Hamaspaϑmaiδəm'. So during five days at the time of Hamaspadmīdīm in the month Spandarmad, the right-minded, the month Spandarmad shall not
+                be recitied, so it shall not be read. If by forgetting, it is read, the Avestan (recitation) is not accepted." </ab>
+            
+            <ab>The interpretation of the <em>sarəδa ratu</em> is controversial. It designates doubtless a liturgical time, exactly like the <em>aiiara, asńiia, māhiia</em> and <em>yāiriia ratu</em>, 
+                (cf.  Y2.20 <em>ratauuō vīspe mazišta āiiese yešti aiiara asńiia māhiia yāiriia sarəδa</em>). Bielmeier (<bibl>Bielmeier, 1992</bibl> : p. 29 and passim) understands it as  the entire year as a long unit of time; 
+                similarly as well <bibl>Panaino, 2017</bibl>: 308 and <em>passim</em>. Kellens (<bibl>Kellens, 2020</bibl>: p. 217) identifies it as the appropiate ritual time for the celebration of each text. 
+                <em>sarəδa ratu</em> might designate the "yearly festivals", likelythose of the five Gāθā days. The texts specified in the Visperad-<em>karde</em> as the <em>sarəδa ratu</em> (e.g. VrS1.12-17) would be those recited then. 
+                The major difficulty of this hypothesis is that according to some Avestan and Pahlavi texts (A3.12, WīD116; vid. above) the <em>hamaspaθmaēdaiia</em> includes as well the five Gāθā-days. 
+               To keep the interpretation of <em>sarəδa ratu</em> as the five Gāθā-days, then we assume that the inclusion of these five days as part of the <em>hamaspaθmaēdaiia</em> must be secondary.</ab>
+            <ab>On the Gāhānbār, see <bibl>Bielmeier, 1992</bibl>. <bibl>Hintze, 2009</bibl>.</ab>-->
+        </Commentary>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY1.9"/>
+        <include type="W" corresp="WTrY1.9"/>
+        <include type="K" corresp="KTrY1.9"/>
+        <include type="D" corresp="DTrY1.9"/>
+    </translation>
+</text>

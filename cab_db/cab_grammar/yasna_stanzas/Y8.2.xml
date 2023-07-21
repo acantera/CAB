@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y8.2" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y8.2">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY8.1a"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y8.2NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY8.1b"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY8.1c"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY8.1d"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y8.1.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y8.2b <em>aēsmąsca</em>] cf. DrYt6.2 <em>aēsma</em>.</ab>
+         <ab>Y8.2b <em>vāxš</em>] <bibl>Kellens, 2006</bibl>, pp. 10-11: <em>vāxš</em> traditionally considered a genitive, but likely a nominative attending the enumeration; however, cf. Y7.30 <em>aršuxδəm vācim</em> coordinated.</ab>
+         <ab>Y8.2d <em>aṣ̌aōnaēca</em>] Ir. cod. Unexpected form for <em>aṣ̌aōnasca</em>. Many Indian cod. secondary gen. <em>aṣ̌aōnaheca</em>.</ab>
+         <ab>Y8.2d <em>paitī.jamiiāt̰</em>] Geldner, Kellens, Redard <em>paiti.jamiiāt̰</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>aṣ̌aiia daδąmi xᵛarəϑəm miiazdəm hauruuata amərətāta gāuš hudā̊</em> = Y7.2, Y7.22, Y7.24; ~ Y3.1, Y3.21, Y3.23 <em>xᵛarəϑəm miiazdəm āiiese yešti hauruuata amərətāta gāuš hudā̊</em>.</ab>
+      <ab><em>hauruuata amərətāta gāuš hudā̊ haōməmca para.haōməmca aēsmąsca baōiδīmca</em> ~ Y4.1, Y4.3 <em>hauruuata amərətāta gąmca huδā̊ŋhəm haōməmca para.haōməmca aēsmąsca baōiδīmca</em>.</ab>
+      <ab><em>haōməmca para.haōməmca</em> = Y3.2, Y3.22, Y3.23, Y6.19, Y7.3, Y7.23, Y7.24, Y7.30.</ab>
+      <ab><em>aēsmąsca baōiδīmca</em> = Y4.1, Y4.3, Y6.19, Y7.30, Y22.4; ~ Y3.2, Y3.22, Y3.23 <em>aēsmą āiiese yešti baōiδi</em>; ~ Y7.3, Y7.23, Y7.24 <em>aēsma baōiδi</em>; ~ Y62.2 <em>dāitiiō.aēsmi buiiā̊ dāitiiō.baōiδi buiiā̊</em>.</ab>
+      <ab><em>aṣ̌aiia.nō paitī.jamiiāt̰</em> = Y7.27, Y67.1.</ab>
+   </Parallels>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y8.2 (mss. 5, 6, 15, 40, 82, 88, 400, 410 (mg.), 2007, 2010, 2040, 2101, 2109, 4000a, 4010, 4020, 4025, 4040, 4045, 4050, 4161, 4162, 5020, 4030a):</ab>
+         <ab class="ab_indent">
+            <em>aṣ̌aiia daδąmi xᵛarəϑəm miiazdəm hauruuata amərətāta gāuš hudā̊ haōməmca para.haōməmca aēsmąsca</em> 
+            ēsm ud bōy nihādag ō ī ātaxš barišn <em>frasasti ahurahe mazdā̊</em> ...</ab> 
+         <ab class="ab_indent">
+            "At <em>aṣ̌aiia daδąmi xᵛarəϑəm miiazdəm hauruuata amərətāta gāuš hudā̊ haōməmca para.haōməmca</em>, 
+            between <em>aēsmąsca</em>. and <em>baōiδīmca frasasti ahurahe mazdā̊</em>... he has to bring to the fire (one piece of) the deposited <em>ēsm</em> and <em>bōy</em>."</ab>
+         <ab>Y8.2 Var. b (mss. 5, 6, 15, 40, 88, 400, 410):</ab>
+         <ab class="ab_indent"><em>aēsmąsca</em> ēsm ud bōy ēk tāg nihādag ō ī ātaxš barišn
+            <em>baōiδīmca frasasti ahurahe mazdā̊...</em></ab>
+         <ab class="ab_indent">"Between <em>aēsmąsca</em> and <em>baōiδīmca frasasti ahurahe mazdā̊...</em> he has to bring to the fire one of the deposited pieces of <em>ēsm</em> and <em>bōy</em>.</ab>
+      </Nerangs>
+      
+      <ModernPractice id="ritualModernPractice">
+         <ab><ab><bibl>Kotwal and Boyd, 1991</bibl>, p. 96: </ab>
+            <ab>"The <em>rāspī</em> picks up the third set of sandalwood and frankincense and offers it to the fire, while saying the last words of st. I (Y8.2): "May He [Ahura Mazda] come to us through righteousness" (<em>ashaya nō paiti-jamyāt</em>).</ab></ab>
+      </ModernPractice>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY8.2"/>
+   <include type="W" corresp="WTrY8.1b"/>
+        <include type="K" corresp="KTrY8.1b"/>
+        <include type="D" corresp="DTrY8.1b"/>
+    </translation>
+</text>

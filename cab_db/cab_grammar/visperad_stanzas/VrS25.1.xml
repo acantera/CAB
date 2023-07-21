@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS25.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y22.2" xml:id="VrS25.1">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS25.1NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY22.1a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY22.1b"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY22.1c"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY22.1d"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid Y22.1.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VrS25.1a <em>barəsmana paiti.bərəta</em> ...] <em>daϑušō ahurahe mazdā̊</em> cygwn PWN yšt' YHWWNyt OD <em>pərənō.mā̊ŋhāi vīšaptaϑāica</em> (VrS25.10) 2000, 2065;
+            <em>paiti.bərəta haδa.zaōϑra</em> gwptn' OD <em>ratauuō maińiiauuaną̇m</em> cygwn PWN <em>n. h.</em> npšt' gwptn' OD OL Y <em>raϑβō bərəzatō</em> (VrS25.28) 2070.</ab>
+         <ab>VrS25.1b <em>iməm haōməm</em> ...] <em>aṣ̌aiiaozdātəm āiiaesē</em> OD <em>pərənō.mā̊ŋhāi vīspataϑāica</em> (VrS25.10) 2220.</ab>
+         <ab>VrS25.1c <em>imąmcā gąm</em> ...] <em>jīuuiiąm aṣ̌aiia āii. ye.</em> OD <em>pərənō.mā̊ŋhāi vīšaptaϑāica</em> (VrS25.10) 2230.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS25.1 Var. a (mss. 2005, 2007, 2010, 2030, 2040, 2101, 2104, 2106, 2109, 4010, 4020, 4025, 4030a, 4040, 4050, 4055, 4063, 4161, 5020):</ab>
+         <ab class="ab_indent">
+            ēsm ud bōy ēk tāg abar nihādan hōm pad kamistīh sē tāg ud urwarām pārag-ē nihādan ud hōmāst bun kardan <em>barəsmana paiti.bərəta</em>. ...</ab>  
+         <ab class="ab_indent">
+            "He should put one piece of <em>ēsm</em> and <em>bōy</em>. He has to put in place at least three twigs of <em>hōm</em> and one portion of <em>urwarām</em> and 
+            he should begin the <em>Hōmāst</em>. (They should recite) <em>barəsmana paiti.bərəta</em> ..."</ab>
+         
+         <ab>VrS25.1 Var. b (ms. 2007):</ab>
+         <ab class="ab_indent">
+            hōmāst bun ēsm ud bōy ēk tāg nihādan hōm pad kamistīh sē grih ud wēšistīh wist ud ēk grih ud urwarām pārag-ē nihādan <em>barəsmana paiti.bərəta</em>. ...</ab> 
+         <ab class="ab_indent">
+            "Beginning of the <em>Hōmāst</em>. He should put one piece of <em>ēsm</em> and <em>bōy</em>. He has to put in place at least three knots of <em>hōm</em> and 
+            at most twenty-one knots and one portion of <em>urwarām</em>. (They should recite) <em>barəsmana paiti.bərəta</em> ..."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS25.1"/>
+   </translation>
+</text>

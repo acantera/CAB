@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y68.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y68.1">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y68.1NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY68.1"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab><em>haōmauuaiti gaōmauuaiti</em> ~ Y22.3, Y22.23, Y22.25, Y24.2, Y24.7, Y25.2 <em>haōmauuaitīš gaōmauuaitīš</em>; ~ Y66.2 <em>haōmauuaitīm gaōmauuaitīm</em>; 
+         ~ Y10.13 <em>haōma ... gauua</em>.</ab>
+   </Parallels>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y68.1 Var. a (mss. 5, 6, 15, 82, 400, 410 (sec. m.), 2005, 2010, 2040, 2102, 2104, 4000, 4010, 4020, 4040, 4050, 4055, 4060, 4161, 4162, 5020):</ab>
+         <ab class="ab_indent">
+            <em>aētat̰.tē</em> zōhr čahār angust az āb ul dārišn ud barsom čahār angust az zōhr ul dārišn</ab>  
+         <ab class="ab_indent">
+            "At <em>aētat̰ tē</em>, he has to hold the <em>zōhr</em> four fingers away from water and the <em>barsom</em> four fingers away from <em>zōhr</em>."</ab>
+         <ab>Y68.1 Var. b (mss. 40, 88, 2030, 2101, 2106):</ab>
+         <ab class="ab_indent">
+            <em>aētat̰.tē</em> zōhr čahār angust az āb ul dārišn barsom čahār angust az zōhr ul dārišn <em>ahurāne ahurahe</em> zōhr andak pad harw wāzag-ē andar āb rēxtan  
+            <em>aŋ́he auuaiiąm dąmahi</em></ab> 
+         <ab class="ab_indent">
+            "At <em>aētat̰ tē</em>, he has to hold the <em>zōhr</em> four fingers away from water and the <em>barsom</em> four fingers away from <em>zōhr</em>. At <em>ahurāne ahurahe</em>, 
+            he has to pour a little of <em>zōhr</em> into the water at each word (and continue with) <em>aŋ́he auuaiiąm dąmahi</em>"</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY68.1"/>
+      <include type="W" corresp="WTrY68.1"/>
+      <include type="K" corresp="KTrY68.1"/>
+      <include type="D" corresp="DTrY68.1"/>
+   </translation>
+</text>

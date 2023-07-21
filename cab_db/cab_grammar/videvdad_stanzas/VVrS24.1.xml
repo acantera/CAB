@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS24.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="VrS24.1" xml:id="VVrS24.1">
+         <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV1"/>
+         <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+         <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+      </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: vid. VrS24.1.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab>VVrS24.1AV.a <em>aṣ̌əm vohū</em> III gwptn'] 4000, 4010, 4025, 4030, 4040, 4045, 4050, 4075; <em>aṣ̌əm vohū</em> III bʾl gwptn' 4020, 4161; <em>aṣ̌əm vohū</em> III 4200, 4210, 4240, 4280, 4370, 4515.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Quotations id="ritualQuotations">
+            <ab><ab>Nērang VVrS24.1 (Nērang ī āb) [mss. 4000, 4010, 4020, 4025, 4063], cf. Revāyat of Kāma Bohra (MU1, pp. 577-578):</ab>
+                <ab class="ab_indent">pad ān ī ašemwohū sē pad bun ī hōmāst bē nigerišn pas <em>barəsmana</em> bun kunišn bawēd kē šaš gōwēd čahār kē azabar nibišt ud dō kē ō ī pēš gōwēm
+                    panzōm ān ī wāz-gīrišnīh ī pad hōmāst sar hamāg xūb nigerišn</ab>
+            <ab class="ab_indent">"He has to gaze (at them) at the three <em>aṣ̌əm vohū</em> at the beginning of the Hōmāst. Then he has to begin the <em>barəsmana</em> (VVrS25.1). There is one who says: "Six (times). 
+                The four times mentioned before and the two that I will mention later. The fith: he has to gaze properly at the Wāz Grišnīh at the end of the Hōmāst (VVrS31.8 or VVrS31.10)"</ab></ab>
+            
+            <ab><ab>WīD (<bibl>Sanjana, 1848</bibl>, p. 151-152):</ab>
+                <ab class="ab_indent">pad ān ī <em>aṣ̌əm vōhū</em> sē gānag pad bun ī hōmāst pad ān harw <em>aṣ̌əm</em> pādyāb ud pad 
+                    harw ēk <em>vōhū</em> āb xūb bē nigerišn pas az hād ī hōmāst <em>barəsmana</em> (VVrS25.1) bun kunišn bawēd kē šaš gyāg gōwēd panj kē azabar nibišt dō kē ō pēš gōwam 
+                    haftōm pad ān ī wāz-gīrišnīh pad hōmāst sar ciyōn pas az <em>aməšāspəṇtā</em> pad gyāg <em>aϑā ratuš</em> pādyāb <em>aṣ̌āt̰.cīt̰</em> āb be nigērišn</ab>
+                <ab class="ab_indent">"At the three <em>aṣ̌əm vōhū</em> at the beginning of the Hōmāst, at each <em>aṣ̌əm</em> he has to gaze properly the <em>pādyāb</em> and at each <em>vōhū</em> the water.
+                Afterwards he has to start from the chapter of the Hōmāst beginning with <em>barəsmana</em> (VVrS25.1). There is one who says: "Six (times). The five times mentioned before and the two that I will mention later.
+                The seventh: at the Wāz Grišnīh at the end of the Hōmāst, as it is after <em>aməšāspəṇtā</em> (VVrS28.1) he has to gaze at the <em>pādyāb</em> at <em>aϑā ratuš</em> and at the water at <em>aṣ̌āt̰.cīt̰</em> (VVrS31.8 or VVrS31.10).</ab></ab>
+
+            <ab><ab>Revāyat of Kāmdin Šapur (var. a) (MU1, pp. 581):</ab>
+                <ab class="ab_indent">(Pāz.) pa ą̇n si <em>aṣ̌əm vōhū</em> āxərəbą̇m ą̇n jā ki <em>ẏeŋ́he me</em> (VVrS24.2) u <em>haomaną̇m uzdātaną̇m</em> (VVrS24.4) gōiiṇt̰ pa har <em>aṣ̌əm</em> nīrəṇg u pa <em>vōhū</em> āv nigrīδan
+                    u pa vāj gīraṣ̌ni buni huməst ki rāspī <em>ẏaϑā ahū vairiō zaotā</em>u zōt̰ pa <em>aϑā ratuš</em> (VVrS24.3) nīraṇg <em>aṣ̌āt̰.cit̰</em> āv nigarīδan</ab>
+                <ab class="ab_indent">"At the three <em>aṣ̌əm vōhū</em> at the end of the Bagān, (when) they say <em>ẏeŋ́he me</em> (VVrS24.2) and <em>haomaną̇m uzdātaną̇m</em> (VVrS24.4), he has to look the <em>nēraṇg</em> at each <em>aṣ̌əm</em>
+                    and the water at each <em>vōhū</em> and at the Wāz Grišnīh, when the <em>rāspīg</em> (says) <em>ẏaϑā ahū vairiō zaotā</em> (VVrS24.3) and the <em>zōt̰</em> 
+                    at <em>aϑā ratuš</em> should look the <em>nēraṇg</em> and at <em>aṣ̌āt̰.cit̰</em> the water.</ab></ab>
+            
+            <ab><ab>Revāyat of Kāmdin Šapur (var. b) (MU1, p.584):</ab>
+                <ab class="ab_indent">(Pāz.) <em>aṣ̌əm</em> (VVrS24.1) gūmīz <em>vōhū</em> āv sigānah banigaraṣ̌ni pas <em>barəsmana</em> (VVrS25.1) baγubaṣ̌nu guftan</ab>
+                <ab class="ab_indent">At <em>aṣ̌əm</em> (VVrS24.1) he has to look the <em>gōmēz</em> thrice and at <em>vōhū</em> the water thrice. Then he has to recite <em>barəsmana</em> (VVrS25.1).</ab></ab>
+            
+            <ab><ab>Revāyat of Behdin Ǧāsā (MU1, p. 593):</ab>
+                <ab class="ab_indent">(Per.) pas (AvPerTr) <em>ašim vohu</em> (VVrS24.1) se tā bahr-e se (AvPerTr) <em>asim vohu</em> gomiz va āb ḫub benagarešn (AvPerTr) <em>yenghemi</em> (VVrS24.2) tā sar 
+                    pas rās̱vi begāh <em>sraoṣ̌auuarəzą̇m</em> šodan  <em>haomanną̇m. uzdātaną̇m</em> (VVrS24.4) tā vāǧ girišni-e bon-e humast se beguyand gomiz va āb digar ḫub benegarišn pas (AvPerTr)<em>āyatade dam mazešt</em> (VVrS31.1) beḫᵛānešn.</ab>
+                <ab class="ab_indent">Then three <em>aṣ̌əm vohū</em> and at each of the three <em>aṣ̌əm vohū</em>  he has to gaze properly at the <em>gōmēz</em> and the water. Then (he should recite) <em>yeŋ́hē mē</em> (VVrS24.2) to the end
+                    and then the <em>rāspīg</em> has to go to the place of the <em>srōšāwarzān</em> (and recite) <em>haōmanąm uzdātanąm</em>. Until the Wāz-Grišnīh at the beginning of the Hōmāst, while reciting, he has to gaze
+                properly thrice the <em>gōmēz</em> and the water. The he should recite <em>aētat̰ dim mazištəm</em> (VVrS31.1).</ab></ab> 
+        </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrVVrS24.1"/>
+    </translation>
+</text>

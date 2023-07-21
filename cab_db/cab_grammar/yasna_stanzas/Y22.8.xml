@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y22.8" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y22.8">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY22.7a" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat4.1" on_line="in1line"/>
+      <!-- Sucession after DY23.6 -->
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY22.7b" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat4.2" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY22.7c" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuLetDat" xpointer="RatuLetDat4.3" on_line="in1line"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y22.7.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y3.7b <em>dax́iiumāica</em>] sec. cod; Geldner <em>dāx́iiumāica</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>Y22.8 = Y3.7, VrS78.17; ≈ Y1.5, Y2.5, Y4.10, Y6.4, Y7.8, Y17.4, Y24.15, Y59.4, Y66.5, VrS79.10, VrS81.4, VrS82.5.</ab>
+      <ab>VrS25.7 = DoHom2.7.</ab>
+      <ab><em>bərəzatō ahurahe nafəδrō apąm apasca mazdaδātaiiā̊</em> = in <em>xšnūman Burz</em>. See Karanjia (<bibl>Karanjia, 2010</bibl>:41).</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY22.8"/>
+      <include type="W" corresp="WTrY22.7"/>
+      <include type="K" corresp="KTrY22.7"/>
+      <include type="D" corresp="DTrY22.7"/>
+   </translation>
+</text>

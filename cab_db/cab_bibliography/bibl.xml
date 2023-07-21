@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+    <bibl type="chapter" xml:id="NNNN, YYYY">
+        <author>NNNN, NNNN</author>
+        <title>TTTT</title>
+        <page multiple="yes/no">123-456</page>
+        <editors>
+            <editor>EEEE</editor>
+            <editor>EEEE</editor>
+        </editors>
+        <volume>TTTT</volume>
+        <publisher>PPPP</publisher>
+        <pubPlace>LLLL</pubPlace>        
+        <date>YYYY</date>
+        <pages>***</pages>
+    </bibl>
+    
+    <bibl type="book" xml:id="NNNN, YYYY">
+        <author>NNNN, NNNN</author>
+        <title>TTTT</title>
+        <pubPlace>LLLL</pubPlace>
+        <publisher>PPPP</publisher>
+        <date>YYYY</date>
+        <trans>TrTrTr</trans>
+    </bibl>
+    
+    <bibl type="article" xml:id="NNNN, YYYY">
+        <author>NNNN, NNNN</author>
+        <title>TTTT</title>
+        <page multiple="yes/no">123-456</page>
+        <publication>TTTT</publication>
+        <issue>VVVV</issue>
+        <date>YYYY</date>
+        <editors/> <!--when needed-->
+        <pages>***</pages>
+    </bibl>
+    <bibl type="book" xml:id="Anklesaria, 1888">
+        <author>Anklesaria, Themuras Dinshaw</author>
+        <title>Avesta. The sacred books of the Parsis. Part I. Yasna ba Nirang</title>
+        <pubPlace>Bombay</pubPlace>
+        <publisher>Fort Printing Press</publisher>
+        <date>1888</date>
+    </bibl>
+    <bibl type="book" xml:id="Anklesaria, 1969">
+        <author>Anklesaria, Behramgore Tahmuras</author>
+        <title>The Pahlavi Rivāyat of  Āturfranbag and Farnbag Srōš</title>
+        <pubPlace>Bombay</pubPlace>
+        <publisher/>
+        <date>1969</date>
+    </bibl>
+    
+     <bibl type="book" xml:id="Anquetil-Duperron, 1771">
+        <author>Anquetil_Duperron, Abraham Hyacinthe</author>
+        <title>Zend-Avesta, ouvrage de Zoroastre contenant les idées théologiques, physiques et morales de ce législateur, les cérémonies du culte religieux qu'il a établi, et plusieurs traits importants relatifs à l'ancienne histoire des Perses</title>
+        <pubPlace>Paris</pubPlace>
+        <publisher>Maisonneuve et Larose</publisher>
+        <date>1771</date>
+     </bibl> 
+    <bibl type="book" xml:id="Bartholomae, 1904">
+        <author>Bartholomae, Christian</author>
+        <title>Altiranisches Wörterbuch</title>
+        <pubPlace>Strasbourg</pubPlace>
+        <publisher>Trübner</publisher>
+        <date>1904</date>
+    </bibl> 
+    <bibl type="article" xml:id="Benveniste, 1932">
+        <author>Benveniste, Émile</author>
+        <title>Les classes sociales dans la tradition avestique</title>
+        <page multiple="yes/no">117-190</page>
+        <publication>Jorunal Asiatique</publication>
+        <date>1932</date>
+    </bibl>
+    <bibl type="book" xml:id="Benveniste and Renou, 1934">
+        <author>Benveniste, Émile and Renou, Louis</author>
+        <title>Vṛtra et Vṛϑragna. Études de mythologie indoiranienne (Cahiers de la Société Asiatique III)</title>
+        <pubPlace>Paris</pubPlace>
+        <publisher>Imprimerie Nationale</publisher>
+        <date>1934</date>
+    </bibl>
+    <bibl type="book" xml:id="Benveniste, 1935">
+        <author>Benveniste, Émile</author>
+        <title>Les infinitifs avestiques</title>
+        <pubPlace>Michigan</pubPlace>
+        <publisher>A. Maisonneuve</publisher>
+        <date>1935</date>
+    </bibl>
+    <bibl type="chapter" xml:id="Benveniste, 1964">
+        <author>Benveniste, Émile</author>
+        <title>An Unrecognized Avestan Word</title>
+        <page multiple="yes">12-13</page>
+        <volume>Dr. J. M. Unvala Memorial Volume</volume>
+        <publisher>Dorab H. Kanga</publisher>
+        <pubPlace>Bombay</pubPlace>
+        <date>1964</date>
+    </bibl>
+    <bibl type="article" xml:id="Bielmeier, 1992">
+        <author>Bielmeier, Roland</author>
+        <title>Zur Konzeption des avestischen Kalenders</title>
+        <page multiple="yes/no">15-74</page>
+        <publication>MSS</publication>
+        <issue>53</issue>
+        <date>1992</date>
+    </bibl>
+    <bibl type="chapter" xml:id="Cantera, 2009">
+        <author>Cantera, Alberto</author>
+        <title>Die Staota Yesniia der textuellen <em>ratu</em> des Visparad</title>
+        <page multiple="yes">17-26</page>
+        <editors multiple="yes">
+            <editor>Pirart, É.</editor>
+            <editor>Tremblay, X.</editor>
+        </editors>
+        <volume>Zarathushtra entre l'Inde et l'Iran. Études indo-iraniennes et indo-européennes offertes à Jean Kellens à l'ocasion de son 65e anniversaire</volume>
+        <publisher>Reichert</publisher>
+        <pubPlace>Wiesbaden</pubPlace>
+        <date>2009</date>
+    </bibl>
+    <bibl type="chapter" xml:id="Cantera, 2013">
+        <author>Cantera, Alberto</author>
+        <title>The Old Avestan texts in the Videvdad and Visperad ceremonies</title>
+        <page multiple="yes">25-48</page>
+        <editors multiple="no">
+            <editor>É. Pirart</editor>
+        </editors>
+        <volume>Le sort des Gathas et autres études iraniennes in memoriam Jacques Duchesne-Guillemin</volume>
+        <publisher>Peters</publisher>  
+        <pubPlace>Leuven-Paris-Walpole</pubPlace>
+        <date>2013</date>
+    </bibl>
+     <bibl type="book" xml:id="Cantera, 2014">
+        <author>Cantera, Alberto</author>
+        <title>Vers une édition de la liturgie longue zoroastrienne: pensées et travaux préliminaires</title>
+        <pubPlace>Paris</pubPlace>
+        <publisher>Association pour l'avancement des études iraniennes</publisher>
+        <date>2014</date>
+            </bibl>
+     <bibl type="article" xml:id="Cantera, 2015">
+        <author>Cantera, Alberto</author>
+        <title>The usage of the Frauuarāne in the Zoroastrian rituals</title>
+        <page multiple="yes/no">71-98</page>
+        <publication>Estudios Iranios y Turanios. <em>at̰cit̰ bā nəmō haomāi</em>.  Homenaje a Éric Pirart en su 65º aniversario</publication>
+        <issue>2</issue>
+        <date>2015</date>
+    </bibl>
+    <bibl type="article" xml:id="Cantera, 2016">
+        <author>Cantera, Alberto</author>
+        <title>The taking of the <em>wāž</em> and the priestly college in the Zoroastrian Long Liturgy</title>
+        <page multiple="yes/no">47-63</page>
+        <publication>Journal Asiatique</publication>
+        <issue>304.1</issue>
+        <date>2016</date>
+    </bibl>
+    <bibl type="chapter" xml:id="Cantera, 2016b">
+        <author>Cantera, Alberto</author>
+        <title>On Avestan text criticism (2): the accusative singular of the <em>ū̌-</em> and <em>ṷa-</em> stems in the long liturgy</title>
+        <page multiple="yes">89-156</page>
+        <editors multiple="no">
+            <editor>É. Pirart</editor>
+        </editors>
+        <volume>Études de linguistique iranienne <em>in memoriam</em> Xavier Tremblay.</volume>
+        <publisher>Peters</publisher>  
+        <pubPlace>Leuven-Paris-Walpole</pubPlace>
+        <date>2016</date>    </bibl>
+    <bibl type="chapter" xml:id="Cantera, 2017">
+        <author>Cantera, Alberto</author>
+        <title>La liturgie longue en langue avestique dans l'iran occidental</title>
+        <page multiple="yes">21-67</page>
+        <editors multiple="no">
+            <editor>Henkelman, Wouter</editor>
+            <editor>Redard, Céline</editor>
+        </editors>
+        <volume>Persian Religion in the Achaemenid Period / La religion perse à l'époque achéménide</volume>
+        <publisher>Harrassowitz</publisher>  
+        <pubPlace>Wiesbaden</pubPlace>
+        <date>2017</date>
+    </bibl>
+     <bibl type="article" xml:id="Cantera, 2019">
+        <author>Cantera, Alberto</author>
+        <title>Fire, the Greatest God (ātarš … mazišta yazata). The Cult of the “Eternal” Fire in the Rituals in Avestan</title>
+        <page multiple="yes/no">19-61</page>
+        <publication>Indo-Iranian Journal</publication>
+        <issue>62</issue>
+        <date>2019</date>
+    </bibl>
+    <bibl type="chapter" xml:id="Cantera, 2019b">
+        <author>Cantera, Alberto</author>
+        <title>About the Epithet pauruuaniia- of the Zoroastrian Sacred Girdle (Y 9.26)</title>
+        <page multiple="yes">43-50</page>
+        <editors multiple="no">
+            <editor>Hintze, Almut</editor>
+            <editor>Durkin-Meisterernst, Desmond</editor>
+            <editor>Naumann, Claudius</editor>
+        </editors>
+        <volume>A thousand judgements: Festschrift for Maria Macuch</volume>
+        <publisher>Harrassowitz</publisher>  
+        <pubPlace>Wiesbaden</pubPlace>
+        <date>2019</date>
+    </bibl>
+    <bibl type="article" xml:id="Cantera, 2021">
+        <author>Cantera, Alberto</author>
+        <title>The <em>sraōšāuuarəza</em>-priest and the usage of the <em>srōš-barišnīh</em> in the greater Long Liturgy</title>
+        <page multiple="yes/no">1-36</page>
+        <publication>Journal of the Royal Asiatic Society</publication>
+        <issue>3</issue>
+        <date>2019</date>
+    </bibl>
+    <bibl type="chapter" xml:id="Cantera, 2021b">
+        <author>Cantera, Alberto</author>
+        <title>On Avestan text criticism (3): the use and distribution of the letter ń in Avestan manuscripts</title>
+        <page multiple="yes">63-87</page>
+        <editors multiple="no">
+            <editor>Jouravel, Anna</editor>
+            <editor>Mathys, Audrey</editor>
+        </editors>
+        <volume>Wort- und Formenvielfalt. Festschrift fur Christoph Koch zum 80. Geburtstag</volume>
+        <publisher>Peter Lang</publisher>  
+        <pubPlace>Frankfurt am Main</pubPlace>
+        <date>2021</date>
+    </bibl>
+    <bibl type="book" xml:id="Cheung, 2007">
+        <author>Cheung, Johnny</author>
+        <title>Etymological Dictionary of the Iranian Verb</title>
+        <pubPlace>Leiden, Boston</pubPlace>
+        <publisher>Brill</publisher>
+        <date>2007</date>
+    </bibl>
+    <bibl type="book" xml:id="Darmesteter, 1892">
+        <author>Darmesteter, James</author> 
+        <title>Le Zend-Avesta</title>
+        <pubPlace>Paris</pubPlace>
+        <publisher>Ernest Leroux</publisher>
+        <date>1892</date>
+    </bibl>
+    <bibl type="book" xml:id="Delbrück, 1893">
+        <author>Belbrück, Berthold</author>
+        <title>Vergleichende Syntax der indogermanischen Sprachen</title>
+        <pubPlace>Strassburg</pubPlace>
+        <publisher>Trübner</publisher>
+        <date>1893</date>
+    </bibl>
+    <bibl type="book" xml:id="De Vaan, 2003">
+        <author>De Vaan, Michiel</author> 
+        <title>The Avestan Vowels</title>
+        <pubPlace>Amsterdam-New York</pubPlace>
+        <publisher>Rodopi</publisher>
+        <date>2003</date>
+    </bibl>
+    <bibl type="book" xml:id="Dhabhar, 1932">
+        <author>Dhabhar, Ervad Bamanji Nusserwanji</author>
+        <title>The Persian Rivayats of Hormazyar Framarz and others</title>
+        <pubPlace>Bombay</pubPlace>
+        <date>1932</date>
+    </bibl>
+    <bibl type="book" xml:id="De Menasce, 1973">
+        <author>De Menasce, Jean</author>
+        <title>Le troisième livre du Dēnkart</title>
+        <pubPlace>Paris</pubPlace>
+        <publisher>Libraire C. Klincksieck</publisher>
+        <date>1973</date>
+    </bibl>
+    <bibl type="article" xml:id="Geldner, 1885">
+        <author>Geldner, Karl Friedrich</author>
+        <title>Miscellen aus dem Avesta</title>
+        <page multiple="yes">225-261</page>
+        <publication>Zeitschrift für vergleichende Sprachforschung auf dem Gebiete der Indogermanischen Sprachen</publication>
+        <issue>27.3</issue>
+        <date>1885</date>
+    </bibl>
+    <bibl type="book" xml:id="Geldner, 1886-1996">
+        <author>Geldner, Karl Friedrich</author>
+        <title>Avesta, the sacred books of the Parsis</title>
+        <pubPlace>Stuttgart</pubPlace>
+        <publisher>W. Kohlhammer</publisher>
+        <date>1886-1996</date>
+    </bibl>
+    <bibl type="book" xml:id="Duchesne-Guillemin, 1936">
+        <author>Duchesne-Guillemin, Jacques</author>
+        <title>Études de morphologie iranniene I: les composés de l'Avesta</title>
+        <pubPlace>Liège</pubPlace>
+        <publisher>Presses universitaires de Liège</publisher>
+        <date>1936</date>
+    </bibl>
+    <bibl type="book" xml:id="Dunkel, 2014">
+        <author>Dunkel, George. E.</author>
+        <title>Lexikon der indogermanischen Partikeln und Pronominalstämme</title>
+        <pubPlace>Heidelberg</pubPlace>
+        <publisher>Universitätsverlag Winter</publisher>
+        <date>2014</date>
+    </bibl>
+    <bibl type="book" xml:id="Hintze, 1994">
+        <author>Hintze, Almut</author>
+        <title>Der Zamyād-Yašt. Edition, Übersetzung, Kommentar.</title>
+        <pubPlace>Wiesbaden</pubPlace>
+        <publisher>Dr. Ludwig Reichert Verlag</publisher>
+        <date>1994</date>
+    </bibl>
+    <bibl type="chapter" xml:id="Hintze, 2000">
+        <author>Hintze, Almut</author>
+        <title>Die avestische Wurzel mad ‘zumessen’</title>
+        <page multiple="yes">163-175</page>
+        <editors multiple="yes">
+            <editor>Forssman, B.</editor>
+            <editor>Robert, P.</editor>
+        </editors>
+        <volume>Indoarisch, Iranisch und die Indogermanistik. Arbeitstagung der Indogermanischen Gesellschaft vom 2. bis 5. Oktober 1997 in Erlangen</volume>
+        <publisher>Dr. Ludwig Reichert Verlag</publisher>  
+        <pubPlace>Wiesbaden</pubPlace>
+        <date>2000</date>
+    </bibl>
+    <bibl type="chapter" xml:id="Hintze, 2009">
+        <author>Hintze, Almut</author>
+        <title>The Return of the Fravashis in the Avestan Calendar</title>
+        <page multiple="yes">99-122</page>
+        <editors multiple="yes">
+            <editor>Durkin-Meisterernst, D.</editor>
+            <editor>Weber, D.</editor>
+        </editors>
+        <volume>Le sort des Gathas et autres études iraniennes in memoriam Jacques Duchesne-Guillemin</volume>
+        <publisher>Peters</publisher>  
+        <pubPlace>Leuven-Paris-Walpole</pubPlace>
+        <date>2013</date>
+    </bibl>
+    <bibl type="article" xml:id="Hoffmann, 1969">
+        <author>Hoffmann, Karl</author>
+        <title>Zur Yasna-Überlieferung</title>
+        <page multiple="yes">35-38</page>
+        <publication>Münchner Studien zur Sprachwissenschaft</publication>
+        <issue>26</issue>
+        <date>1969</date>
+    </bibl>
+    <bibl type="chapter" xml:id="Hoffmann, 1970">
+        <author>Hoffmann, Karl</author>
+        <title>Zur Avestischen Textkritik: Der Akk. Pl. mask. der a-Stämme</title>
+        <page multiple="yes">187-200</page>
+        <editors multiple="yes">
+            <editor>Gershevitch, I.</editor>
+            <editor>Boyce, M.</editor>
+        </editors>
+        <volume>W. B. Henning Memorial Volume</volume>
+        <publisher>Asia Major Library, Lund Humphries</publisher>  
+        <pubPlace>Iran</pubPlace>
+        <date>1970</date>
+    </bibl>
+    <bibl type="book" xml:id="Hoffmann, 1976">
+        <author>Hoffmann, Karl</author>
+        <title>Aufsätze zur Iranistik II</title>
+        <pubPlace>Wiesbaden</pubPlace>
+        <publisher>Dr. Ludwig Reichert Verlag</publisher>
+        <date>1976</date>
+    </bibl>
+    <bibl type="book" xml:id="Hoffmann and Narten, 1989">
+        <author>Hoffmann, Karl and Narten, Johanna</author>
+        <title>Der Sasanidische Archetypus</title>
+        <pubPlace>Wiesbaden</pubPlace>
+        <publisher>Dr. Ludwig Reichert Verlag</publisher>
+        <date>1989</date>
+    </bibl>
+    <bibl type="book" xml:id="Hoffmann and Forssman, 1996">
+        <author>Hoffmann, Karl and Forssman, Bernhard</author>
+        <title>Avestische Laut- und Flexionslehre</title>
+        <pubPlace>Innsbruck</pubPlace>
+        <publisher>Institut für Sprachen und Literaturen der Universität Innsbruck</publisher>
+        <date>1996</date>
+    </bibl>
+    <bibl type="article" xml:id="Humbach, 1955">
+        <author>Humbach, Helmut</author>
+        <title>Die Genitivformen von idg. <em>*dem-</em> (ar. <em>*dam-</em>) ‘Haus’</title>
+        <page multiple="yes">41-49</page>
+        <publication>Münchner Studien zur Sprachwissenschaft</publication>
+        <issue>6</issue>
+        <date>1955</date>
+    </bibl>
+    <bibl type="article" xml:id="Humbach, 1957">
+        <author>Humbach, Helmut</author>
+        <title>Review: J. Wackernagel, Altindische Grammatik. II,2. Göttingen 1954</title>
+        <page multiple="yes">298-301</page>
+        <publication>DLZ</publication>
+        <issue>78</issue>
+        <date>1957</date>
+    </bibl>
+    <bibl type="book" xml:id="Humbach, 1959">
+        <author>Humbach, Helmut</author>
+        <title>Die Gathas des Zarathustra</title>
+        <pubPlace>Heidelberg</pubPlace>,
+        <publisher>Carl Winter Universitätsverlag</publisher>
+        <date>1959</date>
+    </bibl>
+    <bibl type="book" xml:id="Humbach, 1991">
+        <author>Humbach, Helmut</author>
+        <title>The Gāthās of Zarathushtra and the Other Old Avestan Texts</title>
+        <pubPlace>Heidelberg</pubPlace>,
+        <publisher>Carl Winter Universitätsverlag</publisher>
+        <date>1991</date>
+    </bibl>
+    <bibl type="book" xml:id="Humbach and Ichaporia, 1998">
+        <author>Humbach, Helmut and Ichaporia, Pallas</author>
+        <title>Zamyad Yasht: Yasht 19 of the Younger Avesta. Text, Translation, Commentary</title>
+        <pubPlace>Wiesbaden</pubPlace>
+        <publisher>Harrassowitz</publisher>
+        <date>1998</date>
+    </bibl>
+    <bibl type="article" xml:id="Insler, 1996">
+        <author>Insler, Stanley</author>
+         <title>Avestan <em>vāz</em> and Vedic <em>vāh</em>.</title>
+        <page multiple="yes">169-186</page>
+        <publication>Studien zur Indologie und Iranistik</publication>
+        <issue>20</issue>
+        <date>1996</date>
+    </bibl>
+    <bibl type="book" xml:id="Josephson, 1997">
+        <author>Josephson, Judith</author>
+        <title>The Pahlavi Translation Technique as Illustrated by Hōm Yašt</title>
+        <pubPlace>Uppsala</pubPlace>,
+        <publisher/>
+        <date>1997</date>
+    </bibl>
+    <bibl type="article" xml:id="Junker, 1970">
+        <author>Junker, Heinrich Franz</author>
+        <title>Iranische Parerga</title>
+        <page multiple="yes">566-577</page>
+        <publication>MIO</publication>
+        <issue>16</issue>
+        <date>1970</date>
+    </bibl>
+    <bibl type="book" xml:id="Karanjia, 2010">
+        <author>Karanjia, Ramiyar Parvez</author>
+        <title>The Bāj-dharnā (Drōn Yasht)</title>
+        <pubPlace>Mumbai</pubPlace>,
+        <publisher>The K. R. Cama Oriental Institute</publisher>
+        <date>2010</date>
+    </bibl>
+    <bibl type="book" xml:id="Kellens, 1974">
+        <author>Kellens, Jean</author>
+        <title>Les noms-racines de l'Avesta</title>
+        <pubPlace>Wiesbaden</pubPlace>,
+        <publisher>Dr. Ludwig Reichert</publisher>
+        <date>1974</date>
+    </bibl>
+    <bibl type="article" xml:id="Kellens, 1975">
+        <author>Kellens, Jean</author>
+        <title>Y31,9: le faveur d'Ārmaiti</title>
+        <page multiple="yes">145-158</page>
+        <publication>Studia Iranica</publication>
+        <issue>4.2</issue>
+        <date>1975</date>
+    </bibl>
+    <bibl type="book" xml:id="Kellens, 1984">
+        <author>Kellens, Jean</author>
+        <title>Le Verbe Avestique</title>
+        <pubPlace>Wiesbaden</pubPlace>,
+        <publisher>Dr. Ludwig Reichert</publisher>
+        <date>1984</date>
+    </bibl>
+    <bibl type="v" xml:id="Kellens, 1988">
+        <author>Kellens, Jean</author>
+        <title>Yima et la mort</title>
+        <page multiple="yes">329-334</page>
+        <editors multiple="yes">
+            <editor>Jazayery, M. A.</editor>
+            <editor>Winter, W.</editor>
+        </editors>
+        <volume>Languages and Cultures in Honor of Edgar C. Polomé</volume>
+        <publisher>De Gruyter</publisher>  
+        <pubPlace>Berlin</pubPlace>
+        <date>1988</date>
+    </bibl>
+    <bibl type="article" xml:id="Kellens, 1995">
+        <author>Kellens, Jean</author>
+        <title>Interrogation</title>
+        <page multiple="yes">271-274</page>
+        <publication>Journal Asiatique</publication>
+        <issue>282.2</issue>
+        <date>1995</date>
+    </bibl>
+    <bibl type="book" xml:id="Kellens, 1995b">
+        <author>Kellens, Jean</author>
+        <title>Liste du Verbe Avestique</title>
+        <pubPlace>Wiesbaden</pubPlace>,
+        <publisher>Dr. Ludwig Reichert</publisher>
+        <date>1995</date>
+    </bibl>
+    <bibl type="article" xml:id="Kellens, 1996">
+        <author>Kellens, Jean</author>
+        <title>Commentaire sur les premiers chapitres du Yasna</title>
+        <page multiple="yes">37-108</page>
+        <publication>Journal Asiatique</publication>
+        <issue>284.1</issue>
+        <date>1996</date>
+    </bibl>
+    <bibl type="chapter" xml:id="Kellens, 1997">
+        <author>Kellens, Jean</author>
+        <title>L'accusatif pluriel des thèmes en <em>-a-</em> en avestique</title>
+        <page multiple="yes">131-132</page>
+        <editors multiple="yes">
+            <editor>Lubotsky, A.</editor>
+        </editors>
+        <volume>Sound law and analogy: Papers in honor of Robert S. P. Beekes on the occasion of his 60th birthday</volume>
+        <publisher>Brill</publisher>  
+        <pubPlace>Leiden</pubPlace>
+        <date>1997</date>
+    </bibl>
+    <bibl type="book" xml:id="Kellens, 2006">
+        <author>Kellens, Jean</author>
+        <title>Études avestiques et mazdéennes (vol. 1.)</title>
+        <pubPlace>Paris</pubPlace>
+        <publisher>Éditions de Boccard</publisher>
+        <date>2006</date>
+    </bibl>
+    <bibl type="book" xml:id="Kellens, 2007">
+        <author>Kellens, Jean</author>
+        <title>Études avestiques et mazdéennes (vol. 2.)</title>
+        <pubPlace>Paris</pubPlace>
+        <publisher>Éditions de Boccard</publisher>
+        <date>2007</date>
+    </bibl>
+    <bibl type="book" xml:id="Kellens, 2010">
+        <author>Kellens, Jean</author>
+        <title>Études avestiques et mazdéennes (vol. 3.)</title>
+        <pubPlace>Paris</pubPlace>
+        <publisher>Éditions de Boccard</publisher>
+        <date>2010</date>
+    </bibl>
+    <bibl type="chapter" xml:id="Kellens, 2012">
+        <author>Kellens, Jean</author>
+        <title>Le panthéon mazdéen: dieux qui survivent et dieux qui naissent</title>
+        <page multiple="yes">471-488</page>
+        <volume>Annuaire du Collège de France 2010–2011. Résumés annuels de Courses</volume>
+        <publisher>Collège de France</publisher>
+        <pubPlace>Paris</pubPlace>        
+        <date>2012</date>
+        <pages>471-488</pages>
+    </bibl>
+    <bibl type="chapter" xml:id="Kellens, 2020">
+        <author>Kellens, Jean</author>
+        <title>What is a ratu sarəδa?</title>
+        <page multiple="yes">215-218</page>
+        <editors>
+            <editor>Farridnejad, Shervin</editor>
+        </editors>
+        <volume>zaraθuštrōtәma. Zoroastrian and Iranian Studies in Honour of Philip G. Kreyenbroek</volume>
+        <publisher>UCI, Jordan Center for Persian Studies</publisher>
+        <pubPlace>Los Angeles, CA</pubPlace>        
+        <date>2020</date>
+        <pages>215-218</pages>
+    </bibl>
+    <bibl type="book" xml:id="Kellens and Pirart, 1990">
+        <author>Kellens, Jean and Pirart, Éric</author>
+        <title>Les textes vieil-avestiques, vol II</title>
+        <pubPlace>Wiesbaden</pubPlace>,
+        <publisher>Dr. Ludwig Reichert</publisher>
+        <date>1990</date>
+    </bibl>
+    <bibl type="book" xml:id="Kellens and Pirart, 1991">
+        <author>Kellens, Jean and Pirart, Éric</author>
+        <title>Les textes vieil-avestiques, vol III</title>
+        <pubPlace>Wiesbaden</pubPlace>,
+        <publisher>Dr. Ludwig Reichert</publisher>
+        <date>1991</date>
+    </bibl>
+    <bibl type="book" xml:id="Klingenschmitt, 1968">
+        <author>Klingenschmitt, Gert</author>
+        <title>Farhang-i ōīm</title>
+        <pubPlace>Erlangen, Nürnberg</pubPlace>,
+        <publisher>Friedrich-Alexander Unviersität</publisher>
+        <date>1968</date>
+    </bibl>
+    <bibl type="book" xml:id="Kotwal, 1969">
+        <author>Kotwal, Firoze</author>
+        <title>The supplementary texts of the Šāyešt nē-šāyešt</title>
+        <pubPlace>Copenhaguen</pubPlace>
+        <publisher>Munksgaard</publisher>
+        <date>1969</date>
+    </bibl>
+    <bibl type="book" xml:id="Kotwal and Boyd, 1991">
+        <author>Kotwal, Firoze and Boyd, Jaimes</author>
+        <title>A Persian offering the Yasna: a Zoroastrian high liturgy</title>
+        <pubPlace>Paris</pubPlace>
+        <publisher>Association pour l'avancement des études iraniennes</publisher>
+        <date>1991</date>
+    </bibl>
+    <bibl type="book" xml:id="Kotwal and Kreyenbroek, 1995">
+        <author>Kotwal, Firoze and Kreyenbroek, Philip G.</author>
+        <title>The Herbedestan and Nerangestan. Volume II: Nērangestān, Fragard 1</title>
+        <pubPlace>Paris</pubPlace>
+        <publisher>Association pour l'avancement des études iraniennes</publisher>
+        <date>1995</date>
+    </bibl>
+    <bibl type="book" xml:id="Kotwal and Kreyenbroek, 2003">
+        <author>Kotwal, Firoze and Kreyenbroek, Philip G.</author>
+        <title>The Herbedestan and Nerangestan. Volume III: Nērangestān, Fragard 2</title>
+        <pubPlace>Paris</pubPlace>
+        <publisher>Association pour l'avancement des études iraniennes</publisher>
+        <date>2003</date>
+    </bibl>
+    <bibl type="book" xml:id="Kotwal and Kreyenbroek, 2009">
+        <author>Kotwal, Firoze and Kreyenbroek, Philip G.</author>
+        <title>The Herbedestan and Nerangestan. Volume IV: Nērangestān, Fragard 3</title>
+        <pubPlace>Paris</pubPlace>
+        <publisher>Association pour l'avancement des études iraniennes</publisher>
+        <date>2009</date>
+    </bibl>
+    <bibl type="book" xml:id="Kuiper, 1942">
+        <author>Kuiper, Franciscus Bernardus Jacobus</author>
+        <title>Notes on Vedic Noun-Indflexion</title>
+        <pubPlace>Amsterdam</pubPlace>
+        <publisher>Mededeelingen der Koninklijke Nederlandsche Akademie van Wetenschappen</publisher>
+        <date>1942</date>
+    </bibl>
+    <bibl type="article" xml:id="Lommel, 1922">
+        <author>Lommel, Hermann</author>
+        <title>Kleine Beiträge zur arischen Sprachkunde</title>
+        <page multiple="yes">260-275</page>
+        <publication>Zeitschrift für vergleichende Sprachforschung auf dem Gebiete der Indogermanischen Sprachen</publication>
+        <issue>50.3-4</issue>
+        <date>1922</date>
+        <editors/> <!--when needed-->
+        <pages>260-275</pages>
+    </bibl>
+    <bibl type="book" xml:id="Kümmel, 2000">
+        <author>Kümmel, Martin Joachim</author>
+        <title>Das Perfekt im Indoiranischen    </title>
+        <pubPlace>Wiesbaden</pubPlace>
+        <publisher>Reichert, L.</publisher>
+        <date>2000</date>
+    </bibl>
+    <bibl type="chapter" xml:id="MacKenzie, 1970">
+        <author>MacKenzie, D. N.</author> ,
+        <title>A Zoroastrian Master of Ceremonies</title>
+        <page multiple="yes">264-271</page>
+        <editors multiple="yes">
+            <editor>Boyce, M.</editor>
+            <editor>Gershevitch, I.</editor>
+        </editors>
+        <volume>W. B. Henning Memorial Volume</volume>
+        <publisher>Lund Humphries</publisher>
+        <pubPlace>London</pubPlace>
+        <date>1970</date>
+    </bibl>
+    <bibl type="chapter" xml:id="Martínez Porro, 2022">
+        <author>Martínez Porro, Jaime</author> ,
+        <title>The timing of the Vidēvdād and Vištasp Yašt ceremonies</title>
+        <page multiple="yes">335-359</page>
+        <editors multiple="yes">
+            <editor>Cantera, A.</editor>
+            <editor>Macuch, M.</editor>
+            <editor>Sims-Williams, N.</editor>
+        </editors>
+        <volume>The Reward of the Righteous. Festschrift in Honour Almut Hintze</volume>
+        <publisher>Harrassowitz</publisher>
+        <pubPlace>Wiesbaden</pubPlace>
+        <date>2022</date>
+    </bibl>
+    <bibl type="chapter" xml:id="Morano, 1987">
+        <author>Morano, Enrico</author>
+        <title>api in the <em>*apištāka-</em>
+        </title>
+        <page multiple="yes">943-994</page>
+        <editors multiple="yes">
+            <editor>Gnoli, G.</editor>
+            <editor>Lanciotii, L.</editor>
+        </editors>
+        <volume>Orientalia Iosephi Tucci Memoriae Dicata</volume>
+        <publisher>Instituto Italiano per il Medio ed Estremo Oriente</publisher>
+        <pubPlace>Roma</pubPlace>
+        <date>1987</date>
+    </bibl><bibl type="chapter" xml:id="Narten, 1968">
+        <author>Narten, Johanna</author>
+        <title>Zum "proterodynamischen Wurzelpräsens</title>
+        <page multiple="yes">9-19</page>
+        <editors multiple="yes">
+            <editor>Heesterman, J. C.</editor>
+            <editor>Schokker, G. H.</editor>
+            <editor>Subramoniam, V. I.</editor>
+        </editors>
+        <volume>Pratidanam: Indian, Iranian, and Indo-European studies presented to Franciscus Bernardus Jacobus Kuiper on his sixtieth birthday</volume>
+        <publisher>De Gruyter Mouton Verlag</publisher>  
+        <pubPlace>The Hague</pubPlace>
+        <date>1968</date>
+    </bibl>
+    <bibl type="book" xml:id="Narten, 1986">
+        <author>Narten, Johanna</author>
+        <title>Der Yasna Haptanhaiti</title>
+        <pubPlace>Dr. Reichert, L Verlag</pubPlace>
+        <publisher>Wiesbaden</publisher>
+        <date>1986</date>
+    </bibl>
+    <bibl type="article" xml:id="Panaino, 2017">
+        <author>Panaino, Antonio</author>
+        <title>Avestan aiiara- and asniia- (y. 1,17; 2,17, etc.)</title>
+        <page multiple="yes">123-456</page>
+        <publication>Indo-Iranian Journal</publication>
+        <issue>60</issue>
+        <date>2017</date>
+        <editors/> <!--when needed-->
+        <pages>303-330</pages>
+    </bibl>
+    <bibl type="chapter" xml:id="Pirart, 2003">
+        <author>Pirart, Éric</author>
+        <title>Énigmes arithmologiques dans la composition du <em>Hōm Stōm</em>.</title>
+        <page multiple="yes">287-292</page>
+        <editors multiple="yes">
+            <editor>Maggi, M.</editor>
+            <editor>Cereti, C.</editor>
+            <editor>Provasi, E.</editor>
+        </editors>
+        <volume>Religious themes and texts of pre-Islamic Iran and Central Asia: Studies in honour of Professor Gherardo Gnoli on the occasion of his 65th birthday on 6th December 2002</volume>
+        <publisher>Reicher Verlag</publisher>  
+        <pubPlace>Wiesbaden</pubPlace>
+        <date>2003</date>
+    </bibl>
+    <bibl type="book" xml:id="Pirart, 2004">
+        <author>Pirart, Éric</author>
+        <title>L'éloge mazdéen de l'ivresse: édition, traduction et commentaire du Hom Stod</title>
+        <pubPlace>Paris</pubPlace>
+        <publisher>L'Harmattan</publisher>
+        <date>2004</date>
+    </bibl>
+    <bibl type="book" xml:id="Redard and Daruwalla, 2021">
+        <author>Redard, Céline and Daruwalla, Kerman</author>
+        <title>The Yasna through its Gujarati ritual directions</title>
+        <pubPlace>Leiden</pubPlace>
+        <publisher>Brill</publisher>
+        <date>2021</date>
+    </bibl>
+    <bibl type="book" xml:id="Reichelt, 1911">
+        <author>Reichelt, Hans</author>
+        <title>Avesta reader; texts, notes, glossary and index</title>
+        <pubPlace>Strassburg</pubPlace>
+        <publisher>K.J. Trübner</publisher>
+        <date>1911</date>
+    </bibl>
+    <bibl type="book" xml:id="Rix, 2001">
+        <author>Rix, Helmut</author>
+        <title>Lexikon der indogermanischen Verben</title>
+        <pubPlace>Wiesbaden</pubPlace>
+        <publisher>Dr. Ludwig Reichert Verlag</publisher>
+        <date>2021</date>
+    </bibl>
+    <bibl type="book" xml:id="Sanjana, 1848">
+        <author>Sanjana, P. B.</author>
+        <title>Vajarkard Dini</title>
+        <pubPlace>Bombay</pubPlace>
+        <publisher/>
+        <date>1848</date>
+    </bibl>
+    <bibl type="article" xml:id="Scheftelowitz, 1919">
+        <author>Scheftelowitz, I.</author>
+        <title>Die Nividas und Praisas, die ältesten vedischen Prosatexte</title>
+        <page multiple="yes">30-50</page>
+        <publication>Zeitschrift der Deutschen Morgenländischen Gesellschaft</publication>
+        <issue>73</issue>
+        <date>1919</date>
+    </bibl>
+    <bibl type="chapter" xml:id="Shaked, 2004">
+        <author>Shaked, Shaul</author>
+        <title>The Yasna Ritual in Pahlavi Literature</title>
+        <page multiple="yes">333-344</page>
+        <editors multiple="yes">
+            <editor>Stausberg, Michael</editor>
+        </editors>
+        <volume>Zoroastrian Rituals in Context</volume>
+        <pubPlace>Leiden</pubPlace>
+        <date>2004</date>
+    </bibl>
+    <bibl type="chapter" xml:id="Skjaervo, 1989">
+        <author>Skjaervo, P. O.</author>
+        <title>Bag Nask</title>
+        <page multiple="yes">400-401</page>
+        <volume>Encyclopaedia Iranica, Volume III</volume>
+        <pubPlace>London, New York</pubPlace>
+        <date>1989</date>
+    </bibl>
+    <bibl type="chapter" xml:id="Skjaervo, 2013">
+        <author>Skjaervo, P. O.</author>
+        <title>Anāhitā: Unblemished or Unattached? (Avestica IV)</title>
+        <page multiple="yes">113-121</page>
+        <editors multiple="yes">
+            <editor>Choksy, J. K.</editor>
+            <editor>Dubeanscy, J.</editor>
+        </editors>
+        <volume>Gifts to a Magus: Indo-Iranian Studies Honoring Firoze Kotwal</volume>
+        <pubPlace>New York</pubPlace>
+        <date>2013</date>
+    </bibl>
+        <bibl type="chapter" xml:id="Swennen, 2015">
+        <author>Swennen, Philip</author>
+        <title>Indo-iranien *niṷai̭dai̭a-: le mécanisme de l’annonce liturgique</title>
+        <page multiple="yes">209-218</page>
+        <editors>
+            <editor>Cantera, Alberto</editor>
+            <editor>Ferrer Losilla, Juan José</editor>
+        </editors>
+        <volume> at̰ciṯ bā nəmō haōmāi. Homenaje a Éric Pirart en su 65º aniversario</volume>
+        <publisher>Sociedad de Estudios Iranios y Turanios</publisher>
+        <pubPlace>Girona</pubPlace>        
+        <date>2015</date>
+        <pages>209-218</pages>
+        </bibl>
+    <bibl type="book" xml:id="Tavadia, 1930">
+        <author>Tavadia, Jehangir</author>
+        <title>Šāyast-nē-šāyast: A Pahlavi Text on Religious Customs</title>
+        <pubPlace>Hamburg</pubPlace>
+        <date>1930</date>
+    </bibl> 
+    <bibl type="chapter" xml:id="Tremblay, 2003">
+        <author>Tremblay, Xavier</author>
+        <title>Interne Derivation: ,,Illusion de la reconstruction" oder verbreitetes morphologisches Mittel</title>
+        <page multiple="yes">227-259</page>
+        <editors>
+            <editor>Tichy, Eva</editor>
+            <editor>Wodtko, Dagmar S.</editor>
+            <editor>Irslinger, Britta</editor>
+        </editors>
+        <volume> Indogermanisches Nomen: Derivation, Flexion und Ablaut</volume>
+        <publisher>Hempen Verlag</publisher>
+        <pubPlace>Bremen</pubPlace>        
+        <date>2003</date>
+        <pages>227-259</pages>
+    </bibl>
+    <bibl type="chapter" xml:id="Tremblay, 2006">
+        <author>Tremblay, Xavier</author>
+        <title>Le pseudo-gâthique: Notes de lecture avestiques II</title>
+        <page multiple="yes">233-282</page>
+        <editors>
+            <editor>Panaino, Antonio</editor>
+            <editor>Piras, Andrea.</editor>
+        </editors>
+        <volume>Proceedings of the 5th Conference of the Societas Iranologica Europæa</volume>
+        <publisher>Mimesis</publisher>
+        <pubPlace>Milano</pubPlace>        
+        <date>2006</date>
+        <pages>233-282</pages>
+    </bibl>
+    <bibl type="chapter" xml:id="Tucker, 2016">
+        <author>Tucker, Elizabeth</author>
+        <title>Avestan <em>fraspāiiaoxәδra-</em> and an Indo-Iranian Term for a Ritual Girdle</title>
+        <page multiple="yes">420-432</page>
+        <editors multiple="yes">
+            <editor>Gunkel, D.</editor>
+            <editor>Katz, J. T.</editor>
+            <editor>Vine. B.</editor>
+            <editor>Weiss. M.</editor>
+        </editors>
+        <volume>Sahasram Ati Srajas: Indo-Iranian and Indo-European Studies in Honor of Stephanie W. Jamison</volume>
+        <publisher>Beech Stave Press</publisher>  
+        <pubPlace>New York</pubPlace>
+        <date>2016</date>
+    </bibl>
+    <bibl type="book" xml:id="Unvala, 1922">
+        <author>Unvala, Ervad Manockji Rustamji</author>
+        <title>Darab Hormazyar's Rivayat</title>
+        <pubPlace>Bombay</pubPlace>
+        <date>1922</date>
+    </bibl> 
+    <bibl type="book" xml:id="Unvala, 1924">
+        <author>Unvala, Jamshedji Maneckji</author>
+        <title>Neryosangh's Sanskrit Version of the Hōm Yašt (Yasn IX-XI)</title>
+        <pubPlace>Vienna</pubPlace>
+        <date>1924</date>
+    </bibl> 
+    <bibl type="book" xml:id="Wackernagel and Debrunner, 1954">
+        <author>Wackernagel, Jacob and Debrunner, Albert</author>
+        <title>Altindische Grammatik, vol. II.2</title>
+        <pubPlace>Göttingen</pubPlace>
+        <date>1954</date>
+    </bibl> 
+    <bibl type="book" xml:id="Williams, 1990">
+        <author>Williams, Alan</author>
+        <title>The Pahlavi Rivayat accompanying the Dadestan i Denig</title>
+        <pubPlace>Copenhaguen</pubPlace>
+        <date>1990</date>
+    </bibl> 
+    <bibl type="book" xml:id="Wolff, 1910">
+        <author>Wolff, Fritz</author>
+        <title>Avesta: Die heiligen Bücher der Parsen</title>
+        <publisher>Karl J. Trübner</publisher>
+        <pubPlace>Strassburg</pubPlace>
+        <date>1910</date>
+    </bibl>
+</div>

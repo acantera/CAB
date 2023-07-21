@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR68.33" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="YR68.33">
+        <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="YR68.26NerangTransc.a"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP13"/>
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrYR68.33"/>
+    </translation>
+</text>

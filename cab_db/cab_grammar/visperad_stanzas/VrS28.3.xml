@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS28.3" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS28.3">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS14.4"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. VrS27.49.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VrS28.3a <em>vahištahe aŋhə̄uš</em> ...] <em>aiianąm yazamaide</em> OD <em>gaēiϑīm gaēϑiiā̊</em> (VrS28.5) 2000, 2065; <em>aiianąm y.</em> OD OL <em>gaēϑīm gaēϑaiiā̊</em> (VrS28.5) 2030;
+            <em>vahištahe aŋhə̄uš</em> OD OL Y <em>gaēϑiiā̊ stōiš</em> (VrS28.5) 2070; <em>aiianą̇m yaz.</em> OD <em>gaēiϑīm gaēϑiiaiiā̊ staōiš</em> gwptn' (VrS28.5) 2106;
+            <em>aiianąm y.</em> OD OL Y <em>gaēϑūm gaēϑiiaiiā̊</em> (VrS28.5) 2109.</ab>
+         <ab>VrS28.3b <em>arštātəm yazamaide</em> ...] <em>arštātəm y.</em> OD OL Y <em>gaēϑūm gaēϑiiaiiā̊</em> (VrS28.5) 2007; <em>araštātəm ẏaz.</em> OD <em>paoiriiō.dātəm paoriiō.fraϑβarəštəm</em> (VrS28.5) 2220.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS28.3 = VrS18.2.</ab>
+      <ab>VrS28.3 = DoHom5.3.</ab>
+      <ab><em>arštātəm yazamaide</em> = Y16.6.</ab>
+      <ab><em>rašnūm razištəm yazamaide</em> = Y16.5.</ab>
+      <ab><em>miϑrəm vouru.gaōiiaōitīm yazamaide</em> =  Y16.5, VrS17.16, VrS77.16.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS28.3"/>
+   </translation>
+</text>

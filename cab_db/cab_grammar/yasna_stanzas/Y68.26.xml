@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y68.26" status="created">  <!-- created, approved, updated--> <header>
+    <creators>
+        <creator>Porro</creator>
+        <creator>Cantera</creator>
+    </creators>
+    <created>1 June 2019</created>
+</header>
+    <div type="Stanza" sameAs="" xml:id="Y68.26" quote="Y38.4">
+        <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY68.21e"/>
+        <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y68.22NerangTransc.e"/>
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>Y68.26 (mss. 5, 40, 88, 400, 410 (sec. m. marg.), 2005, 2007, 2010, 2030, 2040, 2101, 2102, 2104, 2106, 4010, 4020, 4025, 4050, 4060, 4161, 4162, 5020, 4056):</ab>
+            <ab class="ab_indent">
+                <em>ūitī yā və̄ vaŋᵛhīš</em> pad bun ī barsom čahār gyāg abāz nihišn pad hōy ud dašn ud azabar ud azēr</ab>  
+            <ab class="ab_indent">
+                "At <em>ūitī yā və̄ vaŋᵛhīš</em>, at the end of the <em>barsom</em>, he has to put it on four places: on the left, the right, above and below."</ab>
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+            <ab>Cf. for the Āb-zōhr with Drōn Yašt N53.31d (cf. <bibl>Kotwal and Kreyenbroek, 2003</bibl>: pp. 256-7)</ab>
+            <ab class="ab_indent">
+                <em>uiti ẏā.və̄ vaŋhə̄uš</em> pad bun ī barsom
+            </ab>
+            <ab class="ab_indent">
+                "At <em>uiti ẏā.və̄ vaŋhə̄uš</em> (he has to pour it) on the end of the <em>barsom</em>."</ab>
+        </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrY68.26"/>
+        <include type="W" corresp="WTrY68.21d"/><include type="K" corresp="KTrY68.21d"/><include type="D" corresp="DTrY68.21d"/></translation>
+</text>

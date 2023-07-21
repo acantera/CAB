@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL1.1.7" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="7" xml:id="ParagnaLL1.1.7">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL1.1.7. (Pahl.) (Ms. K43):</ab>
+            <ab class="ab_indent">
+                frawarānag čē gāh darēd u-š pad bē nigerišn aziš wāz kunišn</ab>
+            <ab class="ab_indent">
+                "(He further recites) the <em>frauuarāne</em> with the corresponding <em>gāh</em> and while looking (to the <em>zōt</em>) takes the <em>wāz</em> from him."</ab>
+            
+            <ab>ParagnaLL1.1.7. (NP) Var. a (Mss. K7, RJ, K36, 31):</ab>
+            <ab class="ab_indent">
+                <em>frauuarāne</em> gāh ānče bid <em>uruuariiā̊ vaŋhuiiā̊ mazdaδātaiiā̊ aṣ̌aoniiā̊ xšnaoϑra ẏ• v• x• f• ẏaϑā ahū vairiiō zaotā frāmē marūtē</em> tā sar</ab> 
+            <ab class="ab_indent">
+                "(He should recite) <em>frauuarāne</em> with the corresponding <em>gāh</em> (and with the <em>šnūman</em>) <em>uruuariiā̊ vaŋhuiiā̊ mazdaδātaiiā̊ aṣ̌aoniiā̊ xšnaoϑra
+                    ẏ• v• x• f•</em> and the (<em>wāz-gīrišnīh</em>) <em>ẏaϑā ahū vairiiō zaotā frāmē marūtē</em> until the end."</ab>  
+
+            <ab>ParagnaLL1.1.7 (NP) Var. b (Mss. K36, 31, 19, 89):</ab>
+            <ab class="ab_indent">
+                <em>frauuarāne</em> be-gāh-e hāvan āziran šāyad be gāh-e digar našāyad <em>uruuariiā̊ vaŋhuiiā̊ mazdaδātaiiā̊ aṣ̌aoniiā̊ x yas v• x• f• ẏaϑā ahū vairiiō zaotā</em></ab>
+            <ab class="ab_indent">
+                "<em>frauuarāne</em> -the (<em>gāh</em>) <em>hāvan</em> and <em>āziran</em> are allowed, but none else- (with the <em>šnūman</em>) <em>uruuariiā̊ vaŋhuiiā̊ 
+                    mazdaδātaiiā̊ aṣ̌aoniiā̊ x yas. v• x• f•</em> (and the <em>wāz</em>) <em>ẏaϑā ahū vairiiō zaotā</em>."</ab>
+            
+            <ab>ParagnaLL1.1.7 (NP) Var. c (Ms. RKS):</ab>
+            <ab class="ab_indent">
+                <em>fruuarāne</em> gāh ān bid <em>uruuariiā̊ vaŋuiiā̊ mazdaδātaiiā̊ aṣ̌aōniiā̊ </em> vīša negaridan <em>xšnaoϑra</em> OD <em>marotū</em>.</ab>
+            <ab class="ab_indent">
+                "(He must further recite) the <em>frauuarāne</em> with the corresponding <em>gāh</em> (and with the <em>šnūman</em>) <em>uruuariiā̊ vaŋhuiiā̊ mazdaδātaiiā̊ aṣ̌aoniiā̊</em> 
+                He must look at the thicket (and recite) <em>xšnāoθra</em> until <em>mraotū</em>."</ab>  
+        </Nerangs>
+        <Quotations id="ritualQuotations">
+            <ab>N53.41</ab>
+            <ab class="ab_indent">
+                <em>frauuarānē</em> čē gāh dārēd <em>uruuaraiiā̊ vaŋhuiiā̊ mazdaδātaiiā̊ aṣ̌aōniiā̊</em> wēšag pad ēwkardagīh hamē be nigērišn u-š abāz āyišn u-š az zōt wāz gīrišn</ab>
+            <ab class="ab_indent">
+                "(He should recite) the <em>Frauuarāne</em> with the corresponding <em>gāh</em> and (the <em>šnūman</em>) <em>uruuaraiiā̊ vaŋhuiiā̊ mazdaδātaiiā̊ aṣ̌aōniiā̊</em>. 
+                He should look at the thicket as a whole, go back and take the <em>wāz</em> from the <em>zōt</em>."</ab>
+            
+            <ab>N79.9</ab>
+            <ab class="ab_indent">
+                <em>frauuarāne mazdaiiasnō</em> čē gāh dārēd u-š pad urwar <em>uruuaraiiā̊ vaŋhuiiā̊ mazdaδātaiiā̊ aṣ̌aoniiā̊ xšnaōθra</em> tā sar u-š wāz frāz gīrišn.</ab> 
+            <ab class="ab_indent">
+                "(He should recite) the <em>Frauuarāne</em> with the corresponding <em>gāh</em> and (the <em>šnūman</em>) for the plants <em>uruuaraiiā̊ vaŋhuiiā̊ mazdaδātaiiā̊ 
+                    aṣ̌aoniiā̊ xšnaōθra</em> until the end and he  has to take the <em>wāz</em>."</ab>
+        </Quotations>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL1.1.7"/>
+    </translation>
+</text>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL12.4.6" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="6" xml:id="ParagnaLL12.4.6">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL12.4.6 (Ms. RJ):</ab>  
+            <ab class="ab_indent">
+                <em>aṣ̌əm vōhū</em> se bār ḫᵛāndan har yek <em>aṣ̌əm</em> yekbār zur andar hāvan riḫtan</ab> 
+            <ab class="ab_indent">
+                "He should recite three times the <em>Aṣ̌əm Vohū</em> and each time, at <em>aṣ̌əm</em> he shoould pour <em>zur</em> into the <em>hāvan</em>."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL12.4.6"/>
+    </translation>
+</text>

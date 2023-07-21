@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL2.3.1" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="1" xml:id="ParagnaLL2.3.1">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL2.3.1 Var. a (Mss. K7, RJ, RKS):</ab>
+            <ab class="ab_indent">
+                pas <em>yaθā ahū vairiiō</em> dō vāǧ goftan</ab>  
+            <ab class="ab_indent">
+                "Then he has to recite two <em>Yaθā ahū Vairiiō</em> and say the <em>vāǧ</em>."</ab>
+            
+            <ab>ParagnaLL2.3.1 Var. b (Mss. K36, 31, 89, 19):</ab>
+            <ab class="ab_indent">
+                va <em>yaθā ahū vairiiō</em> do goftan yas. tā <em>āfrināmi ahurahe mazdā̊ raēuuatō xᵛarənaŋhatō aṣ̌əm vohi</em> fe sar ne avāyat goftan</ab> 
+            <ab class="ab_indent">
+                "He should recite two <em>Yaθā ahū Vairiiō</em> and <em>yasnəmca vaɱəmca aōjasca zauuarəca āfrīnāmi</em> (with teh <em>šnūman</em>) <em>ahurahe mazdā̊ 
+                    raēuuatō xᵛarənaŋᵛhatō</em>. He should not recite the <em>Aṣ̌əm Vohū</em> at the end."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL2.3.1"/>
+    </translation>
+</text>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y32.12" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y32.12">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY32.12"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/yasna_nerang" xpointer="Y32.12NerangTransc.a"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y32.12 Var. a (mss. 40, 88, 400, 410 (sec.m.), 2101, 2106):</ab>
+         <ab class="ab_indent">
+            ... <em>īšanąm drujəm</em>. hōm ud urwarām kōftan ud hāwan škāftan zōhr andar kardan pad hōm pālā kardan kē abar sar ī ǰīwdān ēstēd</ab>
+         <ab class="ab_indent">
+            "At ... <em>īšanąm drujəm</em>, he should strike the <em>hōm</em> and <em>urwarām</em> and hit the <em>hāwan</em>. 
+            He should pour <em>zōhr</em> in it and throw (the mix) into the <em>hōm pālā</em> that is next to the <em>ǰīwdān</em>."</ab>
+         <ab>Y32.12 Var. b (mss. 15, 2005, 2007, 2010, 2030 (sec.m. marg.), 2040, 2104, 2109, 4000, 4020, 4055, 4060, 4161, 4162, 5020):</ab>
+         <ab class="ab_indent">
+            ... <em>īšanąm drujəm</em> ēn gyāg hōm ud urwarām kōftan ud zōhr andar kardan andar hōm pālā kardan</ab>
+         <ab class="ab_indent">
+            "... <em>īšanąm drujəm</em>. At this passage, he should strike the <em>hōm</em> and <em>urwarām</em> and pour <em>zōhr</em> in them and throw (the mix) into the <em>hōm pālā</em>."</ab>
+         <ab>Y32.12 Var. c (ms. 82):</ab>
+         <ab class="ab_indent">
+            ... <em>īšanąm drujəm</em>. ēn gyāg hōm ud urwarām kōftan</ab>
+         <ab class="ab_indent">
+            "... <em>īšanąm drujəm</em>. At this passage, he should strike the <em>hōm</em> and <em>urwarām</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY32.12"/>
+   </translation>
+</text>

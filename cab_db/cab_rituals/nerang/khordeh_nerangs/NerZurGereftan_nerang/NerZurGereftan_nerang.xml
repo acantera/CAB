@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div type="ceremony" n="NerZurGereftan">
+    <header>
+        <creators>
+            <creator>Cantera</creator>
+        </creators>
+        <created>09 February 2020</created>
+        <updated/>
+    </header>
+    <div n="1" type="chapter">
+        <div n="1" type="stanza">
+            <ab1 n="NerangTransc.a" source="K7c" xml:id="NerZurGereftan1.1NerangTransc.a" xml:lang="Pers">pas nirang farāhim-*zur gereftan pas zud va raṯvi dar yazišngāh
+                šodan va ātaš dar *ādešt bar aforuḫtan va ān kasi ke zud bāšad har do fanān bastan
+                va raṯvi dar pas sang-e urvis šodan va āb rā pādyāvi kardan va pādyāvi ān ast ke dar
+                barsom čidan gufte budim ke se bār az ān mašrabe-ye bozorg dar mašrabe-ye ḫord
+                rizand va az mašrabe-ye ḫord dar mašrabe-ye bozorg rizand va āb rā nik eḥtyaṭ
+                konand ke pāk bāšad va pas ruy-e sang-e urvis rā *sukure se tā va ǧāmdān va him va
+                pyāle va māhruy va hāvan va daste ān āb pāk šostan va har yek se bār pas zur bar
+                gereftan ān ast ke *sukure-ye farāhimdān va *sukure-ye zurdān har do be-dast-e čab
+                bar-dārand va āb-e pāk be-šostan va har yek se bār pādyāb karde be-dast-e rāst
+                bar-dārand va az ruy-e sang-e urvis bālā dārand</ab1>
+            <ab1 n="NerangEnglish.a" source="K7c" xml:id="NerZurGereftan1.1NerangEnglish.a"> Then,
+                the instructions for the taking of the <em>zur</em> for the <em>farāhim</em> (=
+                    <em>parāhum</em>). Then, the <em>zud</em> and the <em>raṯvi</em> have to go to
+                the <em>yazišngāh</em> and kindle the fire in the fire-stand. The one who is going
+                to be the <em>zud</em> has to tie the two <em>fanān</em> and the <em>raṯvi</em> has
+                to go to the other side of the <em>urvisgāh</em> and to make the water pure. This
+                making pure of the water is what we have already described in the section about the
+                cutting of the <em>barsom</em> (NerBarsomCidan1.5). He should pour three times water from
+                the big vessel to the small vessel and from the small vessel to the big one. He should
+                treat the water carefully so that it becomes pure. Afterwards he should wash with this
+                water the three <em>sukure</em>, the <em>ǧāmdān</em>, the <em>hum</em>, the cup, the
+                    <em>māhruy</em>, the <em>hāvan</em> and the pestle on the
+                <em>urvisgāh</em>, each one three times. Then, (it follws) the taking of the <em>zur</em> (<em>zurgereftan</em>). It consists of the follwing:  He has to take with the left hand both,
+            the <em>sukure farāhimdān</em> and the <em>sukure zurdān</em>, and wash them with pure
+            water. Once each one has been cleaned three times, he should take them with the right hand and
+            raise them from the stone of the <em>urvis</em>.</ab1>
+            </div>
+    </div>
+    <div n="2" type="chapter">
+        <div n="1" type="stanza">
+            <ab1 n="NerangTransc.a" source="K7c" xml:id="NerZurGereftan2.1NerangTransc.a" xml:lang="Pers">āb andar sukure-ye do tā porr kardan </ab1>
+            <ab1 n="NerangEnglish.a" source="K7c" xml:id="NerZurGereftan2.1NerangEnglish.a">He
+                should fill the two cups with water. </ab1>
+            <ab1 n="NerangEnglish.a" source="K7c" xml:id="NerZurGereftan2.1NerangTransc.b" xml:lang="Pers">
+                <em>us.mībarāma</em> se bār sukure andar bālā va šeib āvardan </ab1>
+            <ab1 n="NerangEnglish.a" source="K7c" xml:id="NerZurGereftan2.1NerangEnglish.b"> At
+                †us.bībarāma he should move up and down three times the cups.</ab1>
+            <ab1 n="NerangTransc.a" source="K7c" xml:id="NerZurGereftan2.1NerangTransc.c" xml:lang="Pers">pas <em>raθβasca bərəzatō gāθā̊sca srāuuaiiōit̰ </em> sukure andar
+                ruy-e sang-e urvis nahādan </ab1>
+            <ab1 n="NerangEnglish.a" source="K7c" xml:id="NerZurGereftan2.1NerangEnglish.c">And then
+                at <em>raθβasca bərəzatō gāθā̊sca srāuuaiiōit̰ </em> he should put them on the
+                surface of the stone <em>urvis</em>
+            </ab1>
+        </div>
+        <div n="3" type="chapter">
+            <div n="2" type="stanza">
+                <ab1 n="NerangTransc.a" source="K7c" xml:id="NerZurGereftan3.2NerangTransc.a" xml:lang="Pers">va yek sukure-ye zarr az dast-e čab-e māhruy benahišn </ab1>
+                <ab1 n="NerangEnglish.a" source="K7c" xml:id="3.2NerangEnglish.a">And he should put
+                    a golden <em>sukure</em> on the left side of the <em>māhruy</em>.</ab1>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y4.24" status="created">
+ <!-- created, approved, updated-->
+ <header>
+  <creators>
+   <creator>Porro</creator>
+   <creator>Cantera</creator>
+  </creators>
+  <created>1 June 2019</created>
+ </header>
+ <div type="Stanza" sameAs="" xml:id="Y4.24">
+  <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY4.23"/>
+
+ </div>
+ <Speaker>
+  <SpeakerInfo>
+   <div>
+    <ab class="ab_indent">zōt ud rāspīg: vid. Y4.23.</ab>
+   </div>
+  </SpeakerInfo>
+ </Speaker>
+ <Apparatus>
+  <Critical/>
+  <Commentary/>
+ </Apparatus>
+ <Parallels>
+  <ab>Y4.24 ≈ Y24.29, VrS79.24.</ab>
+  <ab><em>sraōšahe aṣ̌iiehe taxmahe tanumąϑrahe darši.draōš āhūiriiehe [...] zaraϑuštrahe spitāmahe aṣ̌aōnō frauuaṣ̌ə̄e [...] tauua ātarš puϑra ahurahe mazdā̊</em>
+  same sequence in <em>xšnūmaine</em> in Y3.1 + Y3.2, Y3.21 + Y3.22, Y7.22 + Y7.23; similar to Y7.2 + Y7.3.</ab>
+  <ab><em>āat̰ dīš āuuaēδaiiamahi zaraϑuštrahe spitāmahe aṣ̌aōnō frauuaṣ̌ə̄e</em> = Y24.5 ; ~ Y6.19, Y10.21, Y13.7, Y26.4, Y59.23, VrS51.5, VrS81.22, DrYt4.13 <em>zaraϑuštrahe spitāmahe iδa aṣ̌aōnō aṣ̌īmca frauuaṣ̌īmca yazamaide</em>;
+   ~ Y68.30, NyMihr1.6, NyXwar1.6 <em>nəmō zaraϑuštrahe spitāmahe aṣ̌aōnō frauuaṣ̌ə̄e</em>.</ab>
+ </Parallels>
+ <Ritual/>
+ <translation>
+  <include type="CAB" corresp="CABTrY4.24"/>
+     <include type="W" corresp="WTrY4.23"/>
+        <include type="K" corresp="KTrY4.23"/>
+        <include type="D" corresp="DTrY4.23"/>
+    </translation>
+</text>

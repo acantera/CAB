@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y66.2" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y66.2">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY66.1a"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab><em>haōmauuaitīm gaōmauuaitīm</em> ~ Y22.3, Y22.23, Y22.25, Y24.2, Y24.7, Y25.2 <em>haōmauuaitīš gaōmauuaitīš</em>
+         ~ Y68.1 <em>haōmauuaiti gaōmauuaiti</em>; ~ Y10.13 <em>haōma ... gauua</em>.</ab>
+   </Parallels>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y66.2 (mss. 2005, 2007, 2010, 2030, 2040, 2101, 2102, 2104, 2106, 4000, 4010, 4025, 4040, 4050, 4055, 4161, 5020):</ab>
+         <ab class="ab_indent">
+            <em>aṣ̌aiia daδąmi imąm zaōϑrąm</em> zōhr bē nigerišn ud āb bē nigerišn <em>haōmauuaitīm gaōmauuaitīm</em>. ...</ab>
+         <ab class="ab_indent">
+            "At <em>aṣ̌aiia daδąmi imąm zaōϑrąm</em>, he has to gaze at the <em>zōhr</em> and to gaze at the water (and continue with) <em>haōmauuaitīm gaōmauuaitīm</em>. ..."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY66.2"/>
+      <include type="W" corresp="WTrY66.1b"/>
+      <include type="K" corresp="KTrY66.1b"/>
+      <include type="D" corresp="DTrY66.1b"/>
+   </translation>
+</text>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS51.8" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS51.8">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS21.7"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS51.8-10 = VrS18.5-7, VrS30.11-13, VrS36.5-7, VrS41.6-8, VrS57.8-10, VrS62.8-10, VrS64.9-11, VrS65.82-84, VrS69.8-10, VrS71.8-10, VrS87.12-14; ≈ Y71.24-26, VrS93.11-13.</ab>
+      <ab>VrS51.8 = VrS18.5, VrS30.11, VrS36.5, VrS41.6, VrS57.8, VrS62.8, VrS64.9, VrS65.82, VrS69.8, VrS71.8, VrS87.12 ≈ Y71.24, VrS93.11.</ab>
+      <ab><em>ϑβąm ātrəm ahurahe mazdā̊ puϑrəm aṣ̌auuanəm aṣ̌ahe ratūm yazamaide</em> = Y6.19; ~ Y17.12 <em>ϑβąm ātrəm ahurahe mazdā̊ puϑrəm yazamaide</em>; 
+         ~ Y16.4 <em>ātrəm ahurahe mazdā̊ puϑrəm yazamaide</em>; ~ VrS78.13 <em>ϑβąm ātrəm ahurahe mazdā̊ puϑrəm āiiese yešti</em>.</ab>
+      <ab><em>haδa.zaōϑrəm haδa.aiβiiā̊ŋhanəm imat̰ barəsma aṣ̌aiia frastarətəm aṣ̌auuanəm aṣ̌ahe ratūm yazamaide</em> = VrS14.4; ~ Y2.1, Y3.4, Y7.5, Y59.29 <em>imat̰ barəsma haδa.zaōϑrəm haδa.aiβiiā̊ŋhanəm aṣ̌aiia frastarətəm</em>; 
+         ~  Y71.24, VrS14.4, VrS18.5, VrS30.12, VrS36.4, VrS41.6, VrS51.8, VrS57.8, VrS62.8, VrS64.8, VrS65.82, VrS69.8, VrS71.8, VrS87.12, VrS93.10; 
+         ~ Y62.9 <em>barəsma vā aṣ̌aiia frastarətəm</em>.</ab>
+      <ab><em>apąm naptārəm</em> vid. Y1.5 parallels <em>nafəδrō apąm</em> and Y2.5 parallels <em>apąm napātəm</em>.</ab>
+      <ab><em>nāirīm saŋhəm yazamaide</em> = VrS18.1.</ab>
+      <ab><em>taxməm dāmōiš upamanəm yazatəm</em> = Y2.16, Y6.15, Y17.16, Y59.16, VrS14.14, VrS81.15; ~ Y1.16, Y3.18, Y4.21, Y7.19, Y22.19, Y24.26, Y66.16, 
+         VrS78.28, VrS79.21, VrS82.16, VVrS14.14 <em>taxmahe dāmōiš upamanahe yazatahe</em>; ~ Yt10.9, Yt12.4, Yt12.6 <em>haϑra dāmōiš upamanō</em>; ~ Yt10.66 <em>uγrasca dāmōiš upamanō</em>; 
+         ~ Yt10.68 <em>yat̰ dim dāmōiš upamanō</em>; ~ Yt10.127 <em>taxmō dāmōiš upamanō</em>; ~ Yt13.47 <em>uγraca dāmōiš upamana</em>; ~ Yt13.48 <em>uγraca dāmōiš upamanō</em>.</ab>
+      <ab><em>iristanąm uruuąnō yazamaide yā̊ aṣ̌āunąm frāuuaṣ̌aiiō</em> ~ Y26.6, Y26.10, Y59.25 <em>iristanąm uruuąnō š́āiieṇti yā̊ aṣ̌āunąm frāuuaṣ̌aiiō</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS51.8"/>
+   </translation>
+</text>

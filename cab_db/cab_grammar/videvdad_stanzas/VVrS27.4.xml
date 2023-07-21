@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS27.4" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y24.2" xml:id="VVrS27.4">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS13.4"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. VrS27.1.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VVrS27.4a <em>aiβiiō vaŋᵛhībiiō</em> ...] <em>zaōϑrā̊ haōmauuaitīš</em> OD <em>vīspaca vōhū</em> (VVrS27.5) 4220; <em>zaōϑrā̊ haomauuaitīš</em> OD <em>aša.ciϑra pairica</em> (VVrS27.5) 4515.</ab>
+         <ab>VVrS27.4c <em>asmanaca hāuuana</em> ...] <em>aiiaŋhanaca hāuuana</em> OD <em>ašaciϑra pairica</em> (VVrS27.5) 4200.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS27.4"/>
+   </translation>
+</text>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR8.4" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y8.4" xml:id="YR8.4">
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR8.3"/>
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. Y8.4.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab><em>aməṣ̌a spəṇta ...</em>] <em>aməsaspəṇta</em> OD <em>aṣ̌əm vōhū</em> (YR8.6) 320; <em>aməṣ̌apəṇti</em> OD <em>aṣ̌əm vōhū</em> (YR8.6) 350.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation/>
+</text>

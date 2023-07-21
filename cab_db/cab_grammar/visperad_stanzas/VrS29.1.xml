@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS29.1" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y25.1" xml:id="VrS29.1">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY25.1"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: ms. 2065. Vid. Y25.0.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VrS29.1a <em>iməm haōməm</em> ...] zwt lʾspyk <em>iməm haoməm</em> 2065.</ab>
+         <ab>VrS29.1a <em>iməm haōməm</em> ...] <em>uzdātəm yazamaide</em> cygwn PWN yšt' YHWWNyt OD šnwmn wcʾlšnyh (VrS29.4) 2000; <em>aṣ̌aiia uzdātəm y.</em> OD <em>mazdaδāta aṣ̌aciϑra</em> (VrS29.3) 2065;
+            <em>aṣ̌aiia uzdātəm y.</em> OD OL Y <em>aṣ̌a.ciϑra y.</em> (VrS29.3) 2070.</ab>
+         <ab>VrS29.1b <em>imąmcā gąm</em> ...] <em>uzdātą̇m ẏaz.</em> OD <em>vīspaca vōhū</em> (VrS29.3) 2220.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS29.1 (mss. 2005, 2030, 2101, 2106, 4000, 4010, 4020, 4025, 4030a, 4050, 4161, 4162):</ab>
+         <ab class="ab_indent">
+            <em>iməm haōməm aṣ̌aiia uzdātəm yazamaide imąmcā gąm jīuuiiąm aṣ̌aiia uzdātąm yazamaide imąmcā uruuarąm haδānaēpatąm aṣ̌aiia uzdātąm yazamaide.</em> 
+            ēn gyāg hōm ud urwarām andar hāwan abganišn</ab>  
+         <ab class="ab_indent">
+            "<em>iməm haōməm aṣ̌aiia uzdātəm yazamaide imąmcā gąm jīuuiiąm aṣ̌aiia uzdātąm yazamaide imąmcā uruuarąm haδānaēpatąm aṣ̌aiia uzdātąm yazamaide.</em>
+            At this passage, he has to throw <em>hōm</em> and <em>urwarān</em> into the <em>hāwan</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS29.1"/>
+   </translation>
+</text>

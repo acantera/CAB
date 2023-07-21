@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS66.4" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS66.4">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS66.4 (ms. 2106):</ab>
+         <ab class="ab_indent">
+            az <em>aiia aibi gara</em> tā <em>paiti jime aṣ̌əm vohū</em> sē bār guftan bōy ō ī ātaxš dādan parharišn ruwān gyān kardan wist wacist sē gāh rāyēnīdan</ab> 
+         <ab class="ab_indent">
+            "From <em>aiia aibi gara</em> until <em>paiti jime</em> and one <em>aṣ̌əm vohū</em>, they sould recite it three times. (The <em>rāspīg</em>) has to bring <em>bōy</em> 
+            to the fire. He should reckon the <em>frauuaṣ̌i</em>, the souls and the spirits and arrange the twenty stanzas to three verses."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS66.4"/>
+   </translation>
+</text>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS76.6" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS76.6">
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS76.6NerangTransc.a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY58.6a"/>
+      <include href="/db/apps/cab_db/cab_rituals/nerang/visperad_nerang" xpointer="VrS76.6NerangTransc.b"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY58.6b"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY58.6c"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VrS76.6 (2005, 2007, 2010, 2030, 2040, 2101, 2104, 2106, 2109, 4000, 4010, 4020, 4025, 4040, 4045, 4050, 4060, 4161, 4162, 5020):</ab>
+         <ab class="ab_indent">
+            rāspīg pad gāh ī āsnadārān <em>pairī manā̊ pairī vacā̊ pairī š́iiaōϑanā pairī pasūš pairī vīrə̄ṇg spəṇtāi mańiiauuē dadəmahī</em> rāspīg pad gāh ī rēhwiškarān <em>hauruua fšauuō
+               druuō.gaēϑā druuafšauuō druuō.vīrā druuā hauruuā aṣ̌iuuaṇtō daϑušō dadušō dadūžbīš raōcə̄bīš hąm.vaēnōimaidī yāiš ahurahē mazdā̊ nəmasə.tōi ātarə̄ ahurahē mazdā̊ mazištāi
+               yā̊ŋhąm paitī.jamiiā̊ mazə̄ auuax́iiāi mazə̄ rapənōx́iiāi dāidī hauruuātā̊ amərətātā̊</em>.</ab>
+         <ab class="ab_indent">
+            "The <em>rāspīg</em> (has to recite) at the place of the <em>āsnadārān</em>: <em>pairī manā̊ pairī vacā̊ pairī š́iiaōϑanā pairī pasūš pairī vīrə̄ṇg spəṇtāi mańiiauuē dadəmahī</em>. 
+            The <em>rāspīg</em> (has to recite) at the place of the <em>rēhwiškarān</em>: <em>hauruua fšauuō druuō.gaēϑā druuafšauuō druuō.vīrā druuā hauruuā aṣ̌iuuaṇtō daϑušō 
+            dadušō dadūžbīš raōcə̄bīš hąm.vaēnōimaidī yāiš ahurahē mazdā̊ nəmasə.tōi ātarə̄ ahurahē mazdā̊ mazištāi yā̊ŋhąm paitī.jamiiā̊ mazə̄ auuax́iiāi mazə̄ rapənōx́iiāi dāidī hauruuātā̊ amərətātā̊</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS76.6"/>
+   </translation>
+</text>

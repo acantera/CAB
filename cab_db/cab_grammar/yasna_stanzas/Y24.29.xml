@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y24.29" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y24.29">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY24.28a" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen54" on_line="in1line"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY24.32a" on_line="in1line"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y24.28.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>Y24.29a <em>āat̰ dīš āuuaēδaiiamahe</em> ...] <em>ahurahe mazdā̊ raēuuatō xᵛarənaŋhatō aməšanąm spəṇtanąm</em> AMT' hšnmn' nnʾp̄l <em>miϑrahe</em> ... <em>huuarəxšaētahe</em> cygwn npšt W OD
+            <em>nabānazdištanąm frauuaṣ̌inąm</em> ... 5;
+            <em>āat̰ dīš āuuaē.</em> AMT hšnwmn Y nwknʾbl YHWWNyt <em>ahurahe mazdā̊</em> ... <em>huuarəxšaētahe</em> OD <em>nabānazdištanąm frauuaṣ̌inąm</em> ʾywp' hšnwmn AMT YHWWNyt <em>xšnaōϑra yasnāica</em> 88.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y24.29 (mss. 5, 88):</ab>
+         <ab class="ab_indent">
+            <em>āat̰.dīš āuuaēδaiiamahi ahurahe mazdā̊ raēuuatō xᵛarənaŋᵛhatō aməṣ̌anąm spəṇtanąm</em> ka xšnūman ī nōg nābar bēd <em>miϑrahe vouru.gaōiiaōitōiš ... frauuaṣ̌inąm</em> ayāb ān xšnūman ī kē bēd </ab> 
+         <ab class="ab_indent">
+            "At <em>āat̰.dīš āuuaēδaiiamahi ahurahe mazdā̊ raēuuatō xᵛarənaŋᵛhatō aməṣ̌anąm spəṇtanąm</em>, when it is the <em>šnūman</em> for nōgnāwar, (they should continue with) 
+            <em>miϑrahe vouru.gaōiiaōitōiš ... frauuaṣ̌inąm</em> or the corresponding <em>šnūman</em>. </ab>
+      </Nerangs>
+      <Quotations id="ritualQuotations">
+         <ab><ab>Revāyat of Kama Bohra (MU1, p. 458-459) on the Yašt ī <em>gāϑābiiō</em>:</ab>
+            <ab class="ab_indent"><em>ahurahe. mazdā̊. raēuuatō. x́arənaŋhatō. aməṣ̌ną̇m. spəṇtaną̇m. gāϑābiiō. spəṇtābiiō. ratuxšaϑrābiiō. aṣ̌aoneibiiō. ahunuuataiiā̊. gāϑaiiā̊. uštauuatiiā̊. gāϑiiā̊. spəṇtā. mainiiə̄uṣ̌. gāϑiiā̊. 
+                     vōhū. xṣ̌aϑriiā̊. aṣ̌aoną̇m. frauuaṣ̌ną̇m. xšnaoϑra. ẏ. v. x. f.</em>.</ab>
+         </ab>
+      </Quotations>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY24.29"/>
+      <include type="W" corresp="WTrY24.28-32"/>
+      <include type="K" corresp="KTrY24.28-32"/>
+      <include type="D" corresp="DTrY24.28-32"/>
+   </translation>
+</text>

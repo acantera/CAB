@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div type="ceremony" n="NerJamDuxtan">
+    <header>
+        <creators>
+            <creator>Cantera</creator>
+        </creators>
+        <created>09 February 2020</created>
+        <updated/>
+    </header>
+    <div n="1" type="chapter">
+    <div n="0" type="stanza">
+    <ab1 n="NerangTransc.a" source="K7c" xml:id="NerJamDuxtan1.0NerangTransc.a" xml:lang="Pers">nirang ǧām duḫtan
+    </ab1>
+    </div>
+        <div n="1" type="stanza">
+
+            <ab1 n="NerangTransc.a" source="K7c" xml:id="NerJamDuxtan1.1NerangTransc.a" xml:lang="Pers">naḫost
+                gāv yā gusfand āvardan yā be gale-ye išān šodan va ǧāmdān rā se bār b-āb pādyāvi
+                šostan va dast be gāv nahādan </ab1>
+            <ab1 n="NerangEnglish.a" source="K7c" xml:id="NerJamDuxtan1.1NerangEnglish.a">First he
+                brings a cow or a sheep or he goes to the flock. He washes three times with
+                consacreted wated the container of ǧām and puts his hand on the cow..</ab1>
+        </div>
+        <div n="2" type="stanza">
+            <ab1 n="NerangTransc.a" source="K7c" xml:id="NerJamDuxtan1.2NerangTransc.a" xml:lang="Pers">agar do bid </ab1>
+            <ab1 n="NerangEnglish.a" source="K7c" xml:id="NerJamDuxtan1.2NerangEnglish.a">If they
+                are two (animals): </ab1>
+            <ab1 n="NerangTransc.a" source="K7c" xml:id="NerJamDuxtan1.2NerangTransc.b" xml:lang="Pers">agar se bid </ab1>
+            <ab1 n="NerangEnglish.a" source="K7c" xml:id="NerJamDuxtan1.2NerangEnglish.b">If they
+                are three (animals): </ab1>
+        </div>
+    </div>
+    <div n="2" type="chapter">
+        <div n="1" type="stanza">
+            <ab1 n="NerangTransc.a" source="K7c" xml:id="NerJamDuxtan2.1NerangTransc.a" xml:lang="Pers">avval se serešk ō zamin duḫtan aša.sara. manaŋha miguyad šir ō
+                ǧāmdān midušad digar aṣ̌a.sara. vacaŋha miguyad šir andar ǧāmdān midušad digar
+                aṣ̌a.sara. š́iiaōθəna. miguyad ǧām andar ǧāmdān midušad </ab1>
+            <ab1 n="NerangEnglish.a" source="K7c" xml:id="NerJamDuxtan2.1NerangEnglish.a">First, he
+                milks three drops on the floor. He recites aša.sara manaŋha and milks the
+                consecrated milk into its pitcher. Then, he recites aṣ̌a.sara vacaŋha and milks the
+                consecrated milk into its pitcher. Then he recites aṣ̌a.sara š́iiaōθəna and milks
+                the consecrated milk into its pitcher. </ab1>
+        </div>
+        <div n="3" type="chapter">
+            <div n="1" type="stanza">
+                <ab1 n="NerangTransc.a" source="K7c" xml:id="NerJamDuxtan3.1NerangTransc.a" xml:lang="Pers">digar dast-e u be gāv nahāde yā gusfand va yaθā. ahū. vairiiō.
+                    guftan </ab1>
+            </div>
+            <div n="2" type="stanza">
+                <ab1 n="NerangTransc.a" source="K7c" xml:id="NerJamDuxtan3.2NerangTransc.a" xml:lang="Pers">va yasnəmca. tā sar āfrīnāmi. gə̄uš. tašne. gə̄uš. urune. taua.
+                    gə̄uš. huδā̊ŋhō. urune. se tā har kodām be-vāǧ gerefte bāšand ān vāǧ beguyad pas
+                    andar yazešgāh bord ḫod moḥkam nahādan pas durtar āyad </ab1>
+                <ab1 n="NerangEnglish.a" source="K7c" xml:id="NerJamDuxtan3.2NerangEnglish.a">He recites
+                    yasnəmca… āfrīnāmi gə̄uš tašne gə̄uš urune tauua gə̄uš huδā̊ŋhō urune. (one of)
+                    the three (decidactories depending on the circunstancies): the same one he used
+                    when he has taken the vāz, he has to use it now. Later he brings (the milk) to
+                    the yazišhngāh, lays it there and goes away. </ab1>
+            </div>
+        </div>
+    </div>
+</div>

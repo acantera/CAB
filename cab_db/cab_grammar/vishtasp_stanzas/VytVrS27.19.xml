@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VytVrS27.19" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VytVrS27.19">
+      <include href="/db/apps/cab_db/cab_rituals/static/Vishtasp_Static" xpointer="VytS24.1a" on_line="in1lineblock"/>
+      <include href="/db/apps/cab_db/cab_rituals/blocks/RatuCerDat" xpointer="RatuCerDatVyt" on_line="in1line"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. VVrS27.19. Cf. VrS27.19. Cf. also zōt ud rāspīg Y24.12.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab>VytVrS27.19 ≈ VytVrS1.3, VytVrS2.3, VytVrS3.5, VytVrS4.8, VytVrS6.2, VytVrS7.6, VytVrS14.6, VytVrS17.2, VytVrS25.5, VytVrS77.2, VytVrS78.15, VytVrS79.8, VytVrS81.2, VytVrS82.3, VytVrS90.3</ab>
+   </Parallels>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>VytVrS27.19 (ms. 5020):</ab>
+         <ab class="ab_indent">
+            <em>āat̰ dīš āuuaēδaiiamahi</em> pad ēn gyāg taštag kē-š hōm ud urwarām pad datuš nihišn pad urwēs bē nihišn hāwan az kustag ī hōy ō kustag ī dašn āwarišn pad rōy pad kunišn
+            <em>haδa.mąθrāi zaini.parštāi upairi.gātubiiō gərəptāi mąθrāi spəṇtāi aṣ̌aōne aṣ̌ahe raθβe yasnāica vaɱāica xšnaōθrāica frasastaiiaēca</em></ab> 
+         <ab class="ab_indent">
+            "<em>āat̰ dīš āuuaēδaiiamahi</em>. At this passage, he has to put again in contact with the <em>datuš</em> the saucer that contains the <em>hōm</em> ud <em>urwarām</em> 
+            and (then) to put it on the <em>urwēs</em>; he has to bring the <em>hāwan</em> from the left side to the right side and put it upside-down (and continue with) <em>haδa.mąθrāi 
+               zaini.parštāi upairi.gātubiiō gərəptāi mąθrāi spəṇtāi aṣ̌aōne aṣ̌ahe raθβe yasnāica vaɱāica xšnaōθrāica frasastaiiaēca</em>."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrVytVrS27.19"/>
+   </translation>
+</text>

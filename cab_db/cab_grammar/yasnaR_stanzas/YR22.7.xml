@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR22.7" status="created">
+    <!-- created, approved, updated-->
+    <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="YR22.7">
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR22.6a" on_line="in1lineblock"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/RozGen" xpointer="RozGen1" on_line="in1line"/>
+        <!-- All days possible -->
+        <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR22.6b" on_line="in1lineblock"/>
+        <include href="/db/apps/cab_db/cab_rituals/blocks/MahGen" xpointer="MahGen1" on_line="in1line"/>
+        <!-- All months possible -->
+    </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. Y22.15.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab>YR22.7a <em>āiiese yešti</em> ...] <em>āiiese yešti</em> YWM W BYRH gwptn' 300, 360; <em>āiiese</em> YWM W BYRH gwptn' 370. 350 does not abbreviate</ab>
+            <ab>YR22.7a <em>āiiese yešti</em> ...] <em>āiiese yešti</em> YWM W BYRH gwptn' OD OL Y <em>aṣ̌ahe</em> (YR22.12) 300; <em>āiiese</em> YWM W BYRH gwptn' OD OL Y <em>aṣ̌aōniną̇mca ašahe</em> (YR22.12) 370.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels/>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrYR22.7"/>
+    </translation>
+</text>

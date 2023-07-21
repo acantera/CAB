@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+<div type="Afringan" xml:id="ADahman">
+<!--  vide: YL2-17, K36, MZK9, MZK6, RR3, NiknamXA, DorostXANew, MZK8, K37; non vide: F2, MF32, MF28, MF25, IOL CCXXI (?), MF3, MF29, MF31, W1, Lb16, W3, Lb5, Katrak756; notes to Ml2 are given in Geldner  -->
+<div type="AfringanStanza" xml:id="ADahman1.1" corresp="#GA1.1">
+<span class="note red_nofloat">[pad mān ī wehān ud pad ān-iz ātaxšān]</span>
+<!--  The note "pad mān ī wehān ud pad ān-iz ātaxšān" is given in YL2-17; K36 gives: ʾplykʾn dʾhmʾn’ pṯ’ mʾn ŠPYLʾn’ W ʾtwrʾn’ -->
+<!--  The mss. of the 19th century (also MZK9?) gives an introducing Vāj in NP or Pāzand; cf. Anquetil's note II, p. 63: “Dans le Kirman, au lieu du Doup-néreng on récite une courte priere qui commence par, Grand & victorieux”  -->
+<include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="2"/>
+</div>
+<div type="AfringanStanza" xml:id="ADahman1.2" corresp="#GA1.1">
+<include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/>
+</div>
+<div type="Frauuarane" xml:id="ADahman1.3" corresp="#GA1.1">
+<include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP1XA"/>
+<!--  Anquetil II, p. 65 (cf. I, p. 99) points to a WazGr recited by 2 priests (India): “Le Djouti (dit): Dites-moi, (à moi) Djouti: c’est le desir d’Ormusd (&c.) Le Raspi (dit) Dites-moi, ô Djouti: c’est le desir d’ormusd (&c.) Le Djouti (répond): Dites au Chef de faire des actions saintes & utiles; avertissez-le de cela.”  -->
+</div>
+<div type="AfringanStanza" xml:id="ADahman2.1" corresp="#GA1.2" quote="Y60.4 (#GY60.2) = YR60.4 VrS84.2 VVrS84.2 VytVrS84.2">
+<!--  The text Y60.1 (#GY60.1), which is not recited in the AD, is itself the quotation of Y43.3  -->
+<ab n="a" xml:id="ADahman2.1a">tā̊. aɱi. nmāne. jamiiārəš. yā̊. aṣ̌aōnąm. xšnūtasca. aṣ̌aiiasca. viiādaibišca. paiti.zaṇtaiiasca. us.nū. aŋ́hāi. vīse. jamiiāt̰. aṣ̌əmca. xšaϑrəmca. sauuasca. xᵛarənasca. xᵛāϑrəmca.</ab>
+<ab n="b" xml:id="ADahman2.1b">darəγō.fratəmaϑβəmca. aŋ́hā̊. daēnaiiā̊. yat̰. āhurōiš. zaraϑuštrōiš.</ab>
+</div>
+<div type="AfringanStanza" xml:id="ADahman2.2" corresp="#GA1.3" quote="Y60.5 (#GY60.3) = YR60.5 VrS84.3 VVrS84.3 VytVrS84.3">
+<ab n="a" xml:id="ADahman2.2a">asista.nū. aŋ́hat̰. haca. vīsat̰. gāuš. buiiāt̰.</ab>
+<ab n="b" xml:id="ADahman2.2b">asistəm. aṣ̌əm. asistəm. narš. aṣ̌aōnō. aōjō.</ab>
+<ab n="c" xml:id="ADahman2.2c">asistō. āhūiriš. t̰kaēšō.</ab>
+</div>
+<div type="AfringanStanza" xml:id="ADahman2.3" corresp="#GA1.4" quote="Y60.6 (#GY60.4) = YR60.6 VrS84.4 VVrS84.4 VytVrS84.4">
+<ab n="a" xml:id="ADahman2.3a">jamiiąn. iϑra. aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spəṇtā̊. frauuaṣ̌aiiō.</ab>
+<ab n="b" xml:id="ADahman2.3b">aṣ̌ōiš. baēšaza. hacimnā̊. zəm.fraϑaŋha. dānu.drājaŋha. huuarə.barəzaŋha. ištə̄e. vaŋhaŋhąm. paitištātə̄e. ātaranąm. fraṣ̌a.vaxšiiāi. raiiąmca. xᵛarənaŋhąmca.</ab>
+</div>
+<div type="AfringanStanza" xml:id="ADahman2.4" corresp="#GA1.5" quote="Y60.7 (#GY60.5) = YR60.7 VrS84.5 VVrS84.5 VytVrS84.5">
+<ab n="a" xml:id="ADahman2.4a">vainīt̰. aɱi. nmāne. sraōšō. asruštīm. āxštiš. anāxštim. rāitiš. arāitīm. ārmaitiš. tarōmaitīm. aršuxδō. vāxš. miϑaōxtəm. vācim. aṣ̌a.drujəm.</ab>
+</div>
+<div type="AfringanStanza" xml:id="ADahman2.5" corresp="#GA1.6" quote="Y60.8 (#GY60.6) = YR60.8 VrS84.6 VVrS84.6 VytVrS84.6">
+<ab n="a" xml:id="ADahman2.5a">yaϑa. aɱiia. aməṣ̌ā̊. spəṇta. sraōšāδa. aṣ̌iiāδa. paitišąn.</ab>
+<ab n="b" xml:id="ADahman2.5b">vaŋhūš. yasnąsca. vaɱąsca. vohū. yasnəmca. vaɱəmca. </ab>
+<ab n="c" xml:id="ADahman2.5c">hubərətīmca. uštabərətīmca. vaṇtabərətīmca.</ab>
+<ab n="d" xml:id="ADahman2.5d">ā.darəγāt̰. xᵛā.bairiiāt̰.</ab>
+</div>
+<div type="AfringanStanza" xml:id="ADahman2.6" corresp="#GA1.7" quote="Y60.9 (#GY60.7) = YR60.9 VrS84.7 VVrS84.7 VytVrS84.7">
+<ab n="a" xml:id="ADahman2.6a">mā. yauue. imat̰. nmānəm. xᵛāϑrauuat̰. xᵛarənō. frazahīt̰.</ab>
+<ab n="b" xml:id="ADahman2.6b">mā. xᵛāϑrauuaiti. īštiš. mā. xᵛāϑrauuaiti. āsna. frazaiṇtiš.</ab>
+<ab n="c" xml:id="ADahman2.6c">xᵛāϑrō.disiiehe. paiti. aṣ̌ōišca. vaŋhuiiā̊. darəγəm. haxma.</ab>
+</div>
+<div type="AfringanStanza" xml:id="ADahman2.7" corresp="#GA1.7">
+<include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/>
+<!--  In the recitation with two priests (see IndXA) it follow: [rāspīg] ahurahe. mazdā̊. raēuuatō. xᵛarənaŋᵛhatō., then the recitation of the āfrīnāmi. xšaϑraiiāne. section by the two priests -->
+</div>
+<div type="AfringanStanza" xml:id="ADahman3.1" corresp="#GA1.8">
+<ab n="a" xml:id="ADahman3.1a">āfrīnāmi. xšaϑraiiāne. daŋ́hu.paiti. </ab>
+<ab n="b" xml:id="ADahman3.1b">uparāi. amāi. uparāi. vərəϑrāi. uparāi. xšaϑrāi.</ab>
+<ab n="c" xml:id="ADahman3.1c">xšaϑrəmca. paiti.astīmca.</ab>
+<ab n="d" xml:id="ADahman3.1d">darəγō.xšaϑrəm. xšaϑrahe.</ab>
+<ab n="e" xml:id="ADahman3.1e">darəγō.jītīm. uštānahe.</ab>
+<ab n="f" xml:id="ADahman3.1f">druuatātəm. tanubiiō.</ab>
+</div>
+<div type="AfringanStanza" xml:id="ADahman3.2" corresp="#GA1.9">
+<ab n="a" xml:id="ADahman3.2a">aməm. hutaštəm. huraōδəm.</ab>
+<!--  For AD3.2a-c cf. S2.20  -->
+<ab n="b" xml:id="ADahman3.2b">vərəϑraγnəm. ahuraδātəm.</ab>
+<ab n="c" xml:id="ADahman3.2c">vanaiṇtīmca. uparatātəm.</ab>
+<ab n="d" xml:id="ADahman3.2d">pouru.spaxštīm. t̰bišiiaṇtąm.</ab>
+<!--  AD3.2d-g = YtSr11.4d-g  -->
+<ab n="e" xml:id="ADahman3.2e">paiti.jaitīm. dušmaińiiunąm.</ab>
+<ab n="f" xml:id="ADahman3.2f">haϑrā.niuuāitīm. hamərəϑanąm.</ab>
+<ab n="g" xml:id="ADahman3.2g">auruuaϑanąm. t̰bišiiaṇtąm.</ab>
+</div>
+<div type="AfringanStanza" xml:id="ADahman3.3" corresp="#GA1.10">
+<ab n="a" xml:id="ADahman3.3a">āfrīnāmi.</ab>
+<ab n="b" xml:id="ADahman3.3b">vauuanuuā̊. vanat̰.pəṣ̌ənə. buiie.</ab>
+<ab n="c" xml:id="ADahman3.3c">vīspəm. auruuaϑəm. t̰bišiiaṇtəm.</ab>
+<ab n="d" xml:id="ADahman3.3d">vīspəm. aγəm. t̰bišiiaṇtəm.</ab>
+<ab n="e" xml:id="ADahman3.3e">araϑβiiō.manaŋhəm.</ab>
+<ab n="f" xml:id="ADahman3.3f">araϑβiiō.vacaŋhəm. </ab>
+<ab n="g" xml:id="ADahman3.3g">araϑβiiō.š́iiaōϑnəm.</ab>
+</div>
+<div type="AfringanStanza" xml:id="ADahman3.4" corresp="#GA1.11">
+<ab n="a" xml:id="ADahman3.4a">vauuanə. buiie. </ab>
+<ab n="b" xml:id="ADahman3.4b">raϑβiia. manaŋha. </ab>
+<ab n="c" xml:id="ADahman3.4c">raϑβiia. vacaŋha. </ab>
+<ab n="d" xml:id="ADahman3.4d">raϑβiia. š́iiaōϑna. </ab>
+<ab n="e" xml:id="ADahman3.4e">nijanə. buiie.</ab>
+<ab n="f" xml:id="ADahman3.4f">vīspe. dušmaińiiū. </ab>
+<ab n="g" xml:id="ADahman3.4g">vīspe. daēuuaiiasnə̄.</ab>
+<ab n="h" xml:id="ADahman3.4h">zazə. buiie.</ab>
+<ab n="i" xml:id="ADahman3.4i">vaŋhāuca. mižde.</ab>
+<ab n="j" xml:id="ADahman3.4j">vaŋhāuca. srauuahe.</ab>
+<ab n="k" xml:id="ADahman3.4k">urunaēca. darəγe. hauuaŋhe.</ab>
+</div>
+<div type="AfringanStanza" xml:id="ADahman3.5" corresp="#GA1.12">
+<ab n="a" xml:id="ADahman3.5a">āfrīnāmi. </ab>
+<ab n="b" xml:id="ADahman3.5b">darəγəm. juua.</ab>
+<ab n="c" xml:id="ADahman3.5c">ušta. juua.</ab>
+<ab n="d" xml:id="ADahman3.5d">auuaŋhe. narąm. aṣ̌aōnąm. </ab>
+<!--  On auuaŋhe. narąm. aṣ̌aōnąm. ązaŋhe. dužuuarštāuuarəząm. cf. GYt13.39  -->
+<ab n="e" xml:id="ADahman3.5e">ązaŋhe. dužuuarštāuuarəząm.</ab>
+<ab n="f" xml:id="ADahman3.5f">vahištəm. ahūm. aṣ̌aōnąm. </ab>
+<!--  On the formula vahištəm. ahūm. aṣ̌aōnąm. raōcaŋhəm. vīspō.xᵛāϑrəm. see AiW 1491  -->
+<ab n="g" xml:id="ADahman3.5g">raōcaŋhəm. vīspō.xᵛāϑrəm.</ab>
+</div>
+<div type="AfringanStanza" xml:id="ADahman3.6" corresp="#GA1.13">
+<!--  cf. Y68.20 (#GY68.19), Y52.9 = YR68.20 VrS92.20 VVrS92.20 VytVrS92.20  -->
+<ab n="a" xml:id="ADahman3.6a">aϑa. jamiiāt̰. yaϑa. āfrīnāmi.</ab>
+</div>
+<div type="AfringanStanza" xml:id="ADahman3.7" corresp="#GA1.13" quote="Y35.2 (#GY35.2) = YR35.2 VrS43.2 VVrS43.2 VytVrS43.2">
+<ab n="a" xml:id="ADahman3.7a">humatanąm. hūxtanąm. huuarštanąm. iiadacā. ańiiadacā.</ab>
+<ab n="b" xml:id="ADahman3.7b">vərəziiamnanąmcā. vāuuərəzananąmcā. mahī.</ab>
+<ab n="c" xml:id="ADahman3.7c">aibī.jarətārō. naēnaēstārō. yaϑanā. vohunąm. mahī.</ab>
+<ab n="d" xml:id="ADahman3.7d">humatanąm. hūxtanąm. huuarštanąm. iiadacā. ańiiadacā. vərəziiamnanąmcā. vāuuərəzananąmcā. mahī. aibī.jarətārō. naēnaēstārō. yaϑanā. vohunąm. mahī.</ab>
+<!--  In the IndXA a Vāj (Pāz. etc.) follows. According to Anquetil II, p. 60, 65, both priests recite: "Que (cet Afergan) parvienne à Paschoutan, (fils) de Gustasp, lui qui est toujours dans l’abondance! Qu’il l’agrée, qu’il le reçoive, lui qui vit toujours heureux & pur! Que cet Afergan de l’Ized Hamkar lui parvienne, & à tous les grands Feroüers! Qu’ils l’agréent! Qu’ils accordant à celui qui le fait avec intelligence, & selon la Loi des Mazdéïesnans, de vivre bien & heureux d’être fort, bon Roi! Que cela soit ainsi dans les sept Keschvars de la Terre!" For the PišotanWištaspan (Be–Rasād text, beginning pišōtan wištāspān), recited in the Āfrīnagāns of Dahman and Gāhambār, see F6, F7. -->
+</div>
+<div type="AfringanStanza" xml:id="ADahman4.1" corresp="#GA1.13">
+<include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV"/>
+</div>
+<div type="AfringanStanza" xml:id="ADahman4.2" corresp="#GA1.13">
+<include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+</div>
+<div type="AfringanStanza" xml:id="ADahman4.3" corresp="#GA1.13">
+<include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="2"/>
+</div>
+<div type="AfringanStanza" xml:id="ADahman4.4" corresp="#GA1.13">
+<ab n="a" xml:id="ADahman3.4a">yasnəmca. vaɱəmca. aōjasca. zauuarəca. āfrīnāmi.</ab>
+<!--  cf. Y8.2 (#GY8.1) = YR8.2 VrS8.2 VVrS8.2 VytVrS8.2 ≈ DrYt6.2  -->
+<include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGen60"/>
+</div>
+<div type="AfringanStanza" xml:id="ADahman4.5" corresp="#GA1.13">
+<include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+<!--  In K37 follows the instruction: "īn āfrīngān do bār goftan panǧ sorūš". A NP text is following, beginning with "panǧ sorūš".  -->
+<!--  In mss. of the IndXA follows again: a) aθa. jamiiāt̰. yaθa. āfrīnāmi., b) the humatanąm.-formula (2x)  -->
+</div>
+</div>
+</div>

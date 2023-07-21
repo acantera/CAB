@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+            <div type="Niyayesh" xml:id="NyXwar"> <!-- vide: YL2-17, K36, MZK9, MZK6, RR3, NiknamXA, DorostXANew, KM8_5; non vide: F2, L12, MF32, MF28, MF25, Ethé1942, IOL CCXXI, Katrak563, MF3, MF29, MF31, W1, W3 --> <!-- Bāj (Pāz) (MZK6): masu. vah. pīraōzgar. bāt̰. mainōii. xvuršīt̰. amarg. rāiiōmaṇd. hauruuaṇd. asp. humatu. hūxtu. huuarəšt. -->            
+                <div type="NiyayeshStanza" xml:id="NyXwar0.1"> <!-- missing in IndXA -->
+                    <ab n="a" xml:id="NyXwar0.1a">nəmō. huuarəxšaētāi. auruuaṯ.aspāi.</ab>
+                    <ab n="b" xml:id="NyXwar0.1b">nəmō. huuarəxšaētāi. auruuaṯ.aspāi.</ab>
+                    <ab n="c" xml:id="NyXwar0.1c">nəmō. huuarəxšaētāi. auruuaṯ.aspāi.</ab>
+				</div>
+				<div type="NiyayeshStanza" xml:id="NyXwar0.2">
+                    <ab n="a" xml:id="NyXwar0.2a">xšnaōϑra. ahurahe. mazdā̊.</ab> <!-- missing in IndXA -->
+				</div>
+				<div type="NiyayeshStanza" xml:id="NyXwar0.3" corresp="#GNy1.1">
+                    <ab n="a" xml:id="NyXwar0.3a">nəmasə.tē. ahura. mazda.</ab>
+                    <ab n="b" xml:id="NyXwar0.3b">nəmasə.tē. ahura. mazda.</ab>
+                    <ab n="c" xml:id="NyXwar0.3c">nəmasə.tē. ahura. mazda.</ab>
+                    <ab n="d" xml:id="NyXwar0.3d">ϑrīšcit̰. parō. ańiiāiš. dāmąn.</ab>
+				</div>
+				<div type="NiyayeshStanza" xml:id="NyXwar0.4" corresp="#GNy1.1">
+                    <ab n="a" xml:id="NyXwar0.4a">nəmō. və̄. aməṣ̌ā. spəṇtā.</ab>
+					<ab n="b" xml:id="NyXwar0.4b">vīspe. huuarə.hazaōṣ̌ā̊.</ab> <!-- parallels: GYt10.51, GYt13.92 -->
+					<ab n="c" xml:id="NyXwar0.4c">mazā̊ṇtəm. təm. mē. dāiiata. ẏeŋ́he. dāiti. vaŋhō. nisrīta</ab> <!-- parallel: GY65.11 --> <!-- IndXA has instead (missing in P14, L12; in L12 sec.man. in marg.): aētat̰. jahāt̰. ahurəm. mazdąm. aētat̰. aməṣ̌ə̄. spəṇtə̄. aētat̰. aṣ̌aōnąm. frauuaṣ̌iš. aētat̰. vaiiąm. darəγō.xᵛaδātəm. (vaiiąm. [homonym to gen. pl. vaii- "bird"] is probably corruption of acc. sg. m. *vaiium. [appears as vaēm in Yt 15.5, 57, see AiW 1358 note 1 on vayav-], cf. Darmesteter 1892-1893 II, S. 580; different speculations: AiW 1359; Zaehner 1955, p. 87, nn. 6-->
+                </div>
+                <div type="NiyayeshStanza" xml:id="NyXwar0.5" corresp="#GNy1.2">
+                    <ab n="a" xml:id="NyXwar0.5a">nəmō. huuarəxšaētāi. auruuaṯ.aspāi.</ab>
+				</div>
+				<div type="NiyayeshStanza" xml:id="NyXwar1.1" corresp="#GNy1.2">
+                    <ab n="a" xml:id="NyXwar1.1a">xšnaōϑra. ahurahe. mazdā̊. tarōidīti. aŋhrahe. maińiiə̄uš.</ab>
+                    <ab n="b" xml:id="NyXwar1.1b">haiϑiiāuuarštąm. hiiat̰. vasnā. fəraṣ̌ōtəməm.</ab>
+                </div>
+                <div type="NiyayeshStanza" xml:id="NyXwar1.2" corresp="#GNy1.3" quote="Y12.2 (#GY11.17) = YR12.2 VrS12.2 VVrS12.2 VytVrS12.2">
+                    <ab n="a" xml:id="NyXwar1.2a">fərastuiiē. humatōibiiascā. hūxtōibiiascā. huuarštōibiiascā. mąϑβōibiiascā. vaxəδβōibiiascā. varštuuōibiiascā.</ab>
+					<ab n="b" xml:id="NyXwar1.2b">aibigairiiā. daiϑē. vīspā. humatācā. hūxtācā. huuarštācā.</ab>
+					<ab n="c" xml:id="NyXwar1.2c">paitiriciiā. daiϑē. vīspā. dušmatācā. dužūxtācā. dužuuarštācā.</ab>
+                </div>
+                <div type="NiyayeshStanza" xml:id="NyXwar1.3" corresp="#GNy1.4" quote="Y12.3 (#GY11.18) = YR12.3 VrS12.3 VVrS12.3 VytVrS12.3 ">
+                    <ab n="a" xml:id="NyXwar1.3a">fərā. və̄. rāhī. aməṣ̌ā. spəṇtā. yasnəmcā. vaɱəmcā.</ab>
+					<ab n="b" xml:id="NyXwar1.3b">fərā. manaŋhā. fərā. vacaŋhā. fərā. š́iiaōϑanā.</ab>
+					<ab n="c" xml:id="NyXwar1.3c">fərā. aŋhuiiā. fərā. tanuuascīt̰. xᵛax́iiā̊. uštanəm.</ab>
+				</div>
+				<div type="NiyayeshStanza" xml:id="NyXwar1.4" corresp="#GNy1.4" quote="Y12.4 (#GY11.19) = YR12.4 VrS12.4 VVrS12.4 VytVrS12.4">
+                    <ab n="a" xml:id="NyXwar1.4a">staōmi. aṣ̌əm.</ab>
+				</div>
+				<div type="NiyayeshStanza" xml:id="NyXwar1.5" corresp="#GNy1.4" quote="Y12.5 (#GY11.19) = YR12.5 VrS12.5 VVrS12.5 VytVrS12.5">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+                </div>
+                <div type="NiyayeshStanza" xml:id="NyXwar1.6" corresp="#GNy1.5" quote="#Y68.29 (#GY68.22) = YR68.29 VrS92.29 VVrS92.29 VytVrS92.29)">
+                    <ab n="a" xml:id="NyXwar1.6a">nəmō. ahurāi. mazdāi.</ab>
+					<ab n="b" xml:id="NyXwar1.6b">nəmō. aməṣ̌aēibiiō. spəṇtaēibiiō.</ab>
+					<ab n="c" xml:id="NyXwar1.6c">nəmō. miϑrāi. vouru.gaōiiaōitə̄e.</ab>
+					<ab n="d" xml:id="NyXwar1.6d">nəmō. huuarəxšaētāi. auruuat̰.aspāi.</ab>
+					<ab n="e" xml:id="NyXwar1.6e">nəmō. ābiiō. dōiϑrābiiō. yā̊. ahurahe. mazdā̊.</ab>
+					<ab n="f" xml:id="NyXwar1.6f">nəmō. gə̄uš.</ab>
+					<ab n="g" xml:id="NyXwar1.6g">nəmō. gaiiehe.</ab>
+					<ab n="h" xml:id="NyXwar1.6h">nəmō. zaraϑuštrahe. spitāmahe. aṣ̌aōnō. frauuaṣ̌ə̄e.</ab>
+					<ab n="i" xml:id="NyXwar1.6i">nəməm. vīspaiiā̊. aṣ̌aōnō. stōiš. haiϑiiāica. bauuąiϑiiāica. būš́iiąiϑiiāica.</ab>
+				</div>
+                <div type="NiyayeshStanza" xml:id="NyXwar1.7" corresp="#GNy1.5" quote="#Y68.30 (#GY68.23) = YR68.30 VrS92.30 VVrS92.30 VytVrS92.30)"> <!-- HERE WIP, check if ok, remove [gah]? --> <!-- on the problem see AC email 2.5.2021 -->
+                    <ab n="a" xml:id="NyXwar1.7a" gah_dep="1"> <span class="note red">[Hāwan]</span>vohū. uxšiiā. manaŋhā. xšaϑrā. aṣ̌ācā. uštā. tanūm.</ab>
+                    <ab n="b" xml:id="NyXwar1.7b" gah_dep="1">vohū. uxšiiā. manaŋhā. xšaϑrā. aṣ̌ācā. uštā. tanūm.</ab>
+                    <ab n="c" xml:id="NyXwar1.7c" gah_dep="1">vohū. uxšiiā. manaŋhā. xšaϑrā. aṣ̌ācā. uštā. tanūm.</ab>
+					<ab n="d" xml:id="NyXwar1.7d" gah_dep="2"> <span class="note red">[Rapiϑβin]</span>imā. raōcā̊. barəzištəm. barəzimanąm.</ab>
+                    <ab n="e" xml:id="NyXwar1.7e" gah_dep="2">imā. raōcā̊. barəzištəm. barəzimanąm.</ab>
+                    <ab n="f" xml:id="NyXwar1.7f" gah_dep="2">imā. raōcā̊. barəzištəm. barəzimanąm.</ab>
+					<ab n="g" xml:id="NyXwar1.7g" gah_dep="3"> <span class="note red">[Uzērin]</span>yaɱī. spəṇtā. ϑβā. maińiiū. uruuaēsē. jasō.</ab>
+                    <ab n="h" xml:id="NyXwar1.7h" gah_dep="3">yaɱī. spəṇtā. ϑβā. maińiiū. uruuaēsē. jasō.</ab>
+                    <ab n="i" xml:id="NyXwar1.7i" gah_dep="3">yaɱī. spəṇtā. ϑβā. maińiiū. uruuaēsē. jasō.</ab>
+                </div>
+				<div type="NiyayeshStanza" xml:id="NyXwar1.8" corresp="#GNy1.5">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/> <!-- or only 1x to edit, see ACs remark above -->
+                </div>
+                <div type="NiyayeshStanza" xml:id="NyXwar1.9" corresp="#GNy1.5, #GNy1.6">
+                    <include type="block_shnumanacc" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanAcc" xpointer="ShnumanAccXA11"/> <!-- missing in IndXA, but in: J10, E9, F6 -->
+					<ab n="a" xml:id="NyXwar1.9a">miϑrəm. vouru.gaōiiaōitīm. yazamaide. arš.vacaŋhəm. viiāxanəm. hazaŋhra.gaōṣ̌əm. hutāštəm. baēuuarə.cašmanəm. bərəzaṇtəm. pərəϑu.vaēδaiianəm. sūrəm. axᵛafnəm. jaγauruuā̊ŋhəm.</ab>
+                </div>
+                <div type="NiyayeshStanza" xml:id="NyXwar1.10" corresp="#GNy1.7"> <!-- cf. GYt19.35 -->
+                    <ab n="a" xml:id="NyXwar1.10a">miϑrəm. vīspanąm. dax́iiunąm. daŋ́hupatīm. yazamaide. yim. fradaϑat̰. ahurō. mazdā̊. xᵛarənaŋᵛhastəməm. maińiiauuanąm. yazatanąm.</ab> <!-- on vīspanąm. dax́iiunąm. see Kellens 2016, p. 111, fn. 11 -->
+                    <ab n="b" xml:id="NyXwar1.10b">tat̰. nō. jamiiāt̰. auuaŋhe.</ab> <!-- in IndXA, but also in DorostXANew, KM8_5, follows: miθra. ahura. bərəzaṇta.; it is missing in L12, K18a --> <!-- cf. for the formular GYt10.113 -->
+					<ab n="c" xml:id="NyXwar1.10c">xᵛarənaŋhat̰. aŋhąmcā. manascā. aϑaurunīm. haēməm.</ab> <!-- instead of  xᵛarənaŋᵛhat̰. aŋhąmcā. manascā. aϑa urunīm. haēməm (in the XAIr):  the XsnumanAccXwar in XAIr; the clause wanting in L12, K18a-->
+				</div>
+                <div type="NiyayeshStanza" xml:id="NyXwar1.11" corresp="#GNy1.8">
+                    <ab n="a" xml:id="NyXwar1.11a">tištrīm. druuō.cašmanəm. yazamaide.</ab> <!-- the repetitions are given only in a few of the mss. of the IndXA -->
+                    <ab n="b" xml:id="NyXwar1.11b">tištrīm. druuō.cašmanəm. yazamaide.</ab>
+                    <ab n="c" xml:id="NyXwar1.11c">tištrīm. druuō.cašmanəm. yazamaide.</ab>
+                    <ab n="d" xml:id="NyXwar1.11d">tištrīm. stārəm. raēuuaṇtəm. xᵛarənaŋᵛhantəm. yazamaide.</ab> <!-- missing in IndXA; however, J15 as IrXA -->
+                    <ab n="e" xml:id="NyXwar1.11e">tištrīm. yazamaide.</ab>
+                    <ab n="f" xml:id="NyXwar1.11f">tištriiaēńiiō. yazamaide.</ab>
+                    <ab n="g" xml:id="NyXwar1.11g">tištriiō. raēuuā̊. xᵛarənaŋᵛhā̊. yazamaide.</ab>
+                    <ab n="h" xml:id="NyXwar1.11h">vanaṇtəm. stārəm. mazdaδātəm. yazamaide.</ab> <!-- in IndXA follows (not J15): tištrīm. stārəm. raēuuaṇtəm.xᵛarənaŋᵛhantəm. yazamaide. -->
+
+                    <ab n="i" xml:id="NyXwar1.11i">ϑβāšəm. xᵛaδātəm. yazamaide.</ab>
+                    <ab n="j" xml:id="NyXwar1.11j">zruuānəm. akaranəm. yazamaide.</ab>
+                    <ab n="k" xml:id="NyXwar1.11k">zruuānəm. darəγō.xᵛaδātəm. yazamaide.</ab> <!-- in IndXA follows: vātəm. spəṇtəm. huδā̊ŋhəm. yazamaide. -->
+                    <ab n="l" xml:id="NyXwar1.11l">razištəm. cistąm. mazdaδātąm. aṣ̌aōnīm. yazamaide.</ab>
+                    <ab n="m" xml:id="NyXwar1.11m">daēnąm. vaŋᵛhīm. māzdaiiasnīm. yazamaide.</ab> <!-- in IndXA follows: paθąm. xᵛāstāitīm. yazamaide. zaranumaṇtəm. sūrəm. yazamaide. saōkəṇtəm. gairīm. mazdaδātəm. yazamaide.; the formula appears in genitive in the Darūn-e Rāh-e Safar, fe xšnūmaine. (= XšnumanWahram)(= FrW5.1) -->
+                </div>
+                <div type="NiyayeshStanza" xml:id="NyXwar1.12" corresp="#GNy1.9" quote="#Y25.4 (#GY25.8) = YR25.4 VrS29.4 VVrS29.4 VytVrS29.4)">
+                    <ab n="a" xml:id="NyXwar1.12a">vīspəmca. aṣ̌auuanəm. maińiiaōm. yazatəm. yazamaide.</ab>
+                    <ab n="b" xml:id="NyXwar1.12b">vīspəmca. aṣ̌auuanəm. gaēϑīm. yazatəm. yazamaide.</ab>
+				</div>
+				<div type="NiyayeshStanza" xml:id="NyXwar1.13" corresp="#GNy1.9" quote="#Y59.29 (#GY59.28) = YR59.20 VrS77.39 VVrS77.40 VytVrS77.40, Y71.19 (#GY71.18) = YR71.19 VrS96.19 VVrS96.19 VytVrS96.19">
+                    <ab n="a" xml:id="NyXwar1.13a">haōm. uruuānəm. yazamaide.</ab>
+                    <ab n="b" xml:id="NyXwar1.13b">hauuąm. frauuaṣ̌īm. yazamaide.</ab> <!-- in IndXA follows: jasa.mē. auuaŋhe. mazda. -->
+				</div>
+				<div type="NiyayeshStanza" xml:id="NyXwar1.14" corresp="#GNy1.9">
+                    <ab n="a" xml:id="NyXwar1.14a">aṣ̌āunąm. vaŋᵛhīš. sūrā̊. spəṇtā̊. frauuaṣ̌aiiō. yazamaide.</ab> <!-- missing some IndXA mss., see F1, E1; J9, H2 -->)
+                    <include type="block_shnumanacc" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanAcc" xpointer="ShnumanAccXA11"/>
+					</div>
+				<div type="NiyayeshStanza" xml:id="NyXwar1.15" corresp="#GNy1.9">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/>
+                </div>
+                <div type="Frauuarane" xml:id="NyXwar1.16" corresp="#GNy1.10"> <!-- HERE WIP, move frauuarane to the frauuarane block and have 1 include -->
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/Frauuarane_BP" xpointer="Frauuarane_BP1XA"/>
+                </div> 				
+                <div type="NiyayeshStanza" xml:id="NyXwar2.1" corresp="#GNy1.11"> <!-- GNy1.11-17 = GYt6.1-7 -->
+                    <include type="block_shnumanacc" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanAcc" xpointer="ShnumanAccXA11"/> <!-- missing in F6 -->
+                    <ab n="a" xml:id="NyXwar2.1a">āat̰. yat̰. huuarə. raōxšne. tāpaiieiti.</ab>
+                    <ab n="b" xml:id="NyXwar2.1b">āat̰. yat̰. huuarə. raōcā̊. tāpaiieiti.</ab>
+                    <ab n="c" xml:id="NyXwar2.1c">hištəṇti. maińiiauuā̊ŋhō. yazatā̊ŋhō.</ab> <!-- cf. with NyXwar2.1c-h the text NyMah2.3f-i hištəṇti. aməṣ̌ā̊. spəṇta. xᵛarənō. dāraiieiṇti. hištəṇti. aməṣ̌ā̊. spəṇta. xᵛarənō. baxšəṇti. ząm. paiti. ahuraδātąm. -->
+                    <ab n="d" xml:id="NyXwar2.1d">satəmca. hazaŋhrəmca.</ab>
+                    <ab n="e" xml:id="NyXwar2.1e">tat̰. xᵛarənō. haṇbāraiieiṇti.</ab>
+                    <ab n="f" xml:id="NyXwar2.1f">tat̰. xᵛarənō. nīparaiieiṇti.</ab>
+                    <ab n="g" xml:id="NyXwar2.1g">tat̰. xᵛarənō. baxšəṇti.</ab>
+                    <ab n="h" xml:id="NyXwar2.1h">ząm. paiti. ahuraδātąm.</ab>
+                    <ab n="i" xml:id="NyXwar2.1i">frāδatica. aṣ̌ahe. gaēϑā̊.</ab>
+                    <ab n="j" xml:id="NyXwar2.1j">frāδatica. aṣ̌ahe. tanuiiē.</ab>
+                </div>
+                <div type="NiyayeshStanza" xml:id="NyXwar2.2" corresp="#GNy1.12">
+                    <ab n="a" xml:id="NyXwar2.2a">āat̰. yat̰. huuarə. uzuxšiieiti. buuat̰.</ab>
+                    <ab n="b" xml:id="NyXwar2.2b">ząm. ahuraδātąm. yaōždāϑrəm.</ab>
+                    <ab n="c" xml:id="NyXwar2.2c">āpəm. taciṇtąm. yaōždāϑrəm.</ab>
+                    <ab n="d" xml:id="NyXwar2.2d">āpəm. xaiianąm. yaōždāϑrəm.</ab>
+                    <ab n="e" xml:id="NyXwar2.2e">āpəm. zraiianąm. yaōždāϑrəm.</ab>
+                    <ab n="f" xml:id="NyXwar2.2f">āpəm. arəmaēštąm. yaōždāϑrəm. buuat̰.</ab>
+                    <ab n="g" xml:id="NyXwar2.2g">dąma. aṣ̌auua. yaōždāϑrəm.</ab>
+                    <ab n="h" xml:id="NyXwar2.2h">yā̊. həṇti. spəṇtahe. maińiiə̄uš.</ab>
+                </div>
+                <div type="NiyayeshStanza" xml:id="NyXwar2.3" corresp="#GNy1.13">
+                    <ab n="a" xml:id="NyXwar2.3a">yeiδi.zī. huuarə. nōit̰. uzuxšiieiti.</ab>
+                    <ab n="b" xml:id="NyXwar2.3b">aδa. daēuua. vīspā̊. mərəṇciṇti.</ab>
+                    <ab n="c" xml:id="NyXwar2.3c">yā̊. həṇti. haptō.karṣ̌uuōhuua.</ab>
+                    <ab n="d" xml:id="NyXwar2.3d">nauua.ciš. maińiiauua. yazata. aŋhauua. astuuaiṇti.</ab>
+                    <ab n="e" xml:id="NyXwar2.3e">paiti.drąm. nōit̰. paitištąm. vīδəṇti.</ab>
+                </div>
+                <div type="NiyayeshStanza" xml:id="NyXwar2.4" corresp="#GNy1.14">
+                    <ab n="a" xml:id="NyXwar2.4a">yō. yazaite. huuarə.</ab>
+                    <ab n="b" xml:id="NyXwar2.4b">yat̰. aməṣ̌əm. raēm. auruuat̰.aspəm.</ab>
+                    <ab n="c" xml:id="NyXwar2.4c">paitištātə̄e. təmaŋhąm.</ab>
+                    <ab n="d" xml:id="NyXwar2.4d">paitištātə̄e. təmasciϑranąm. daēuuanąm.</ab>
+                    <ab n="e" xml:id="NyXwar2.4e">paitištātə̄e. tāiiunąmca. hazasnąmca.</ab>
+                    <ab n="f" xml:id="NyXwar2.4f">paitištātə̄e. yātunąmca. pairikanąmca.</ab>
+                    <ab n="g" xml:id="NyXwar2.4g">paitištātə̄e. iϑiiejaŋhō. marəṣ̌aōnahe.</ab>
+                    <ab n="h" xml:id="NyXwar2.4h">yazaite. ahurəm. mazdąm.</ab>
+                    <ab n="i" xml:id="NyXwar2.4i">yazaite. aməṣ̌ə̄. spəṇtə̄.</ab>
+                    <ab n="j" xml:id="NyXwar2.4j">yazaite. haōm. uruuānəm</ab>
+                    <ab n="k" xml:id="NyXwar2.4k">xšnāuuaiieiti. vīspe. maińiiauuaca. yazata. gaēϑiiāca.</ab>
+                    <ab n="l" xml:id="NyXwar2.4l">yō. yazaite. huuarə.</ab>
+                    <ab n="m" xml:id="NyXwar2.4m">yat̰. aməṣ̌əm. raēm. auruuat̰.aspəm.</ab> <!-- in KM8_5 instruction: namāz bordan  also in the following? -->
+                </div>
+                <div type="NiyayeshStanza" xml:id="NyXwar2.5" corresp="#GNy1.15">
+                    <ab n="a" xml:id="NyXwar2.5a">yazāi. miϑrəm. vouru.gaōiiaōitīm.</ab>
+                    <ab n="b" xml:id="NyXwar2.5b">hazaŋhra.gaōšəm. baēuuarə.caṣ̌manəm.</ab>
+                    <ab n="c" xml:id="NyXwar2.5c">yazāi. vazrəm. huniuuixtəm. kamərəδe. paiti. daēuuanąm.</ab>
+                    <ab n="d" xml:id="NyXwar2.5d">miϑrō. yō. vouru.gaōiiaōitiš.</ab>
+                    <ab n="e" xml:id="NyXwar2.5e">yazāi. haxəδrəmca.</ab>
+                    <ab n="f" xml:id="NyXwar2.5f">yat̰. asti. haxəδranąm. vahištəm.</ab>
+                    <ab n="g" xml:id="NyXwar2.5g">aṇtarə. mā̊ŋhəmca. huuarəca.</ab>
+                </div>
+                <div type="NiyayeshStanza" xml:id="NyXwar3.1" corresp="#GNy1.16">
+                    <ab n="a" xml:id="NyXwar3.1a">ahe. raiia. xᵛarənaŋhaca. təm. yazāi. surunuuata. yasna.</ab>
+                    <ab n="b" xml:id="NyXwar3.1b">huuarəxšaētəm. aməṣ̌əm. raēm. auruuat̰.aspəm. zaōϑrābiiō.</ab>
+                    <include type="block_shnumanacc" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanAcc" xpointer="ShnumanAccXA11"/>
+                    <ab n="c" xml:id="NyXwar3.1c">haōmaiiō. gauua. barəsmana. hizuuō. daŋhaŋha. mąϑraca. vacaca. š́iiaōϑnaca. zaōϑrābiiasca. aršuxδaēibiiasca. vāγžibiiō.</ab>
+                </div>
+				<div type="NiyayeshStanza" xml:id="NyXwar3.2" corresp="#GNy1.16">
+					<include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YeH" xpointer="YeH"/>
+                </div>
+				<div type="NiyayeshStanza" xml:id="NyXwar4.1" corresp="#GNy1.17">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YAV" xpointer="YAV" times="2"/>
+				</div>
+				<div type="NiyayeshStanza" xml:id="NyXwar4.2" corresp="#GNy1.17">
+                    <ab n="a" xml:id="NyXwar3.2a">yasnəmca. vaɱəmca. aōjasca. zauuarəca. āfrīnāmi.</ab>
+					<include type="block_shnumangen" href="/db/apps/cab_db/cab_rituals/blocks/ShnumanGen" xpointer="ShnumanGenXA11"/>
+                </div>
+                <div type="NiyayeshStanza" xml:id="NyXwar4.3" corresp="#GNy1.18"> <!-- according to KM8_5 no repetitions; AV missing in F6 -->
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV" times="3"/>
+				</div>
+				<div type="NiyayeshStanza" xml:id="NyXwar4.4" corresp="#GNy1.18">
+                    <ab n="a" xml:id="NyXwar4.4a" quote="#Y68.10 (#GY68.10) = YR68.10 VrS92.10 VVrS92.10 VytVrS92.10">ahurānīš. ahurahe. vahištābiiō. zaōϑrābiiō. sraēštābiiō. zaōϑrābiiō. daɱō. pairi.aŋharštābiiō. zaōϑrābiiō.</ab>
+                </div>
+				<div type="NiyayeshStanza" xml:id="NyXwar4.5" corresp="#GNy1.18">
+					<ab n="a" xml:id="NyXwar4.5a">aɱāi. raēšca. xᵛarənasca. aɱāi. tanuuō. druuatātəm.</ab>
+                    <ab n="b" xml:id="NyXwar4.5b">aɱāi. tanuuō. vazduuarə. aɱāi. tanuuō. vərəϑrəm.</ab>
+                    <ab n="c" xml:id="NyXwar4.5c">aɱāi. īštīm. pouruš.xᵛāϑrąm.</ab>
+                    <ab n="d" xml:id="NyXwar4.5d">aɱāi. āsnąmcit̰. frazaṇtīm. aɱāi. darəγąm. darəγō.jītīm. aɱāi. vahištəm. ahūm. aṣ̌aōnąm. raōcaŋhəm. vīspō.xᵛāϑrəm.</ab>
+				</div>
+				<div type="NiyayeshStanza" xml:id="NyXwar4.6" corresp="#GNy1.18">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+				</div>
+				<div type="NiyayeshStanza" xml:id="NyXwar4.7" corresp="#GNy1.18">
+                    <ab n="a" xml:id="NyXwar4.7a">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+                    <ab n="b" xml:id="NyXwar4.7b">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+                    <ab n="c" xml:id="NyXwar4.7c">hazaŋhrəm. baēšazanąm. baēuuarə. baēšazanąm.</ab>
+				</div>
+				<div type="NiyayeshStanza" xml:id="NyXwar4.8" corresp="#GNy1.18">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/>
+				</div>
+				<div type="NiyayeshStanza" xml:id="NyXwar4.9" corresp="#GNy1.18">
+                    <ab n="a" xml:id="NyXwar4.9a">jasa.mē. auuaŋhe. mazda.</ab>
+                    <ab n="b" xml:id="NyXwar4.9b">jasa.mē. auuaŋhe. mazda.</ab>
+                    <ab n="c" xml:id="NyXwar4.9c">jasa.mē. auuaŋhe. mazda.</ab>
+				</div>
+                <div type="NiyayeshStanza" xml:id="NyXwar4.10" corresp="#GNy1.18">                    
+                    <ab n="a" xml:id="NyXwar4.10a">amahe. hutāštahe. huraōδahe.</ab> <!-- Xšnūman  Gen day 20-->
+                    <ab n="b" xml:id="NyXwar4.10b">vərəθraγnahe. ahuraδātahe. vanaiṇtiiā̊sca. uparatātō.</ab>
+                    <ab n="c" xml:id="NyXwar4.10c">rāmanasca. xᵛāstrahe. vaiiaōš. uparō.kairiiehe. taraδātō. ańiiāiš. dāmąn.</ab> <!-- Xšnūman  Gen day 21-->
+                    <ab n="d" xml:id="NyXwar4.10d">aētat̰. tē. vaiiō. yat̰. tē. asti. spəṇtō.maińiiaōm.</ab>
+                    <ab n="e" xml:id="NyXwar4.10e">θβāṣ̌ahe. xᵛaδātahe. zruuānahe. akaranahe. zruuānahe. darəγō.xᵛaδātahe.</ab><!-- In the IndXA it follows the kərba. mažd. Vāj --> 
+                </div>
+				<div type="NiyayeshStanza" xml:id="NyXwar4.11" corresp="#GNy1.18">
+                    <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/AV" xpointer="AV"/> <!-- in some mss. of the IndXA the rōž-māh-appendix is following, see GNy1.19 -->
+                </div>
+            </div>
+</div>

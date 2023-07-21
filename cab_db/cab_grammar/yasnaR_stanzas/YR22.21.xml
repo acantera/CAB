@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR22.21" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="" xml:id="YR22.21">
+            <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR23.4b"/>
+        </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt ud rāspīg: vid. Y22.21.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+        <RecitationInstruction>
+            <ab>YR22.21a <em>āiiese yešti vīspaēibiiō</em> ...] <em>vīspaēibiiō vaŋhuδā̊biiō</em> OD <em>frauuarāne</em> (YR23.0) 300.</ab>
+        </RecitationInstruction>
+    </Apparatus>
+    <Parallels>
+        <ab>YR22.21 ≈ Y1.20, Y2.20, Y3.25, Y4.26, Y6.21, Y7.26, Y14.3, Y17.20, Y22.30, Y24.31, Y59.30, Y66.25, YR1.11, YR3.16, YR4.17, YR7.17, YR24.22, YR66.15, VrS78.37, VrS79.26, VrS81.31, VrS82.22.</ab>
+    </Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrYR22.21"/>
+    </translation>
+</text>

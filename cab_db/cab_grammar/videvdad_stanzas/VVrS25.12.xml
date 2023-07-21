@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VVrS25.12" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="VrS25.11" xml:id="VVrS25.12">
+      <include href="/db/apps/cab_db/cab_rituals/static/Videvdad_Static" xpointer="VrS11.1"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid Y22.7.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VVrS25.12a <em>āiiese yešti ratauuō</em> ...] <em>ratauuō gaēϑiianąm</em> OD <em>vīspe ašahe ratauuō</em> (VVrS25.21) 4200, 4210, 4240. Vid. Critical Commentary in VVrS25.21;
+            <em>ratauuō mainniiauuaną̇m</em> OD <em>nairiša aṣ̌aonō</em> (VVrS25.20) 4370; <em>ratauuō gaeϑiianą̇m</em> OD <em>gaoiδiieheca narš</em> (VVrS25.20) 4515.
+         </ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVVrS25.12"/>
+   </translation>
+</text>

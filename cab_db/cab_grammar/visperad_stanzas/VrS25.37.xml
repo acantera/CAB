@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS25.37" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS25.37">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS12.2"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y22.26.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>VrS25.37b <em>anahunāca ratušca stitātasca</em>] no suitable explanation. Nom. sg.? But <em>stitātasca</em> should be <em>stitāsca</em>: VIrS and some VrIrS attest <em>stitasca</em>. Which function as nom. sg.?</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS25.37 = DoHom2.37.</ab>
+      <ab>VrS25.37 ≈ VrS27.45, VrS90.33. </ab>
+         <ab><em>asmnaēibiia hāuuanaēibiia aiiaŋhanaēibiia hāuuanaēibiia</em> ~ Y22.3, Y22.23, Y22.25, Y24.2, Y24.7, Y25.2 <em>asmanaca hāuuana ... aiiaŋhaēnaca hāuuanai</em>;
+      ~ VrS87.10 <em>asmanaca hāuuana yazamaide aiiaŋhaēnaca hāuuana yazamaide</em>; ~ VrS27.2, VrS27.8 <em>ima asmana hāuuana auui.bərəta haōma zāire ima aiiaŋhaēna hāuuana auui.bərəta haōma zāire</em>;
+      ~ VrS31.15 <em>humaiia.nō buiiata asmana hāuuana aiiaŋhaēna hāuuana</em>; ~ GEbsr2.3 <em>asmana hāuuana aṣ̌ahe ratauuō yazamaide aiiaŋhaēna hāuuana aṣ̌ahe ratauuō yazamaide</em>.</ab>
+      <ab><em>daēnaiiā̊ māzdaiiasnōiš passim</em></ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS25.37"/>
+   </translation>
+</text>

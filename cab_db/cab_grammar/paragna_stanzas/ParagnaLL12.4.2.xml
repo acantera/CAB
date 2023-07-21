@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="ParagnaLL12.4.2" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created/>
+    </header>
+    <div type="Stanza" sameAs="" n="2" xml:id="ParagnaLL12.4.2">
+                
+    </div>
+    <Apparatus>
+        <Critical/>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>ParagnaLL12.4.2 (Mss. K7, RJ):</ab>
+            <ab class="ab_indent">
+                <em>fradaϑāi ahurahe mazdāi raēuuatō xᵛarənaŋhatō</em> daste čahār angušt bālā bordan yaʾni bozorg dāram ormazd riyōmand ḫorremand rā <em>fradaϑāi aməṣ̌anąm spəṇtanąm</em> 
+                čahār angušt digar daste bālā bordan yaʾni bozorg dāram amešāsfandān rā <em>fradaϑāi tištriiehe stārō raēuuatō xᵛarənaŋhatō</em> čahār angušt digar daste bālātar bar dãštan yaʾni 
+                bozorg dāram tištar setar-e ormazd-dād <em>fradaϑāi narš aṣ̌aonō</em> cahār angušt digar daste-ye hāvan bālā dāštan yaʾni bozorg dāram nar ašu rā <em>fradaϑāi vīspanam spəṇtahe 
+                    mainiiə̄uš dāmanąm aṣ̌aonąm</em> daste-ye hāvan čahār angušt digar bālātar dāštan yaʾni bozorg dāram amešāsfandān hamā-ye minuvān va hamā-ye ašuvān pas daste forud āvardan 
+                se bār ruy-e hāvan gardānidan mes̱l ke xoršid mi-gardad</ab>
+            <ab class="ab_indent">
+                "At <em>fradaϑāi ahurahe mazdāi raēuuatō xᵛarənaŋhatō</em> he should lift the pestle four fingers that means, I hold big <em>Urmazd</em>, the rich and glorious. At <em>fradaϑāi aməṣ̌anąm spəṇtanąm</em>
+                he should lift the pestle further four fingers that means, I hold big the <em>Amašasfandān</em>. At <em>fradaϑāi tištriiehe stārō raēuuatō xᵛarənaŋhatō</em> he should lift the 
+                pestle further four fingers that means, I hold big the <em>Amašasfandān</em>. At <em>fradaϑāi tištriiehe stārō raēuuatō xᵛarənaŋhatō</em> he should lift the pestle further four 
+                fingers that means, I hold big <em>Tištar</em>, the star created by <em>Urmazd</em>. At <em>fradaϑāi narš aṣ̌aonō</em> he should lift the pestle further four fingers that means, 
+                I hold big the righteous man. At <em>fradaϑāi vīspanam spəṇtahe mainiiə̄uš dāmanąm aṣ̌aonąm</em> he should lift the pestle of the <em>hāvan</em> further four finger that means, 
+                I hold big the <em>Amašasfandān</em>, all the spirtiual ones and all the righteous ones. Then he should put down the pestle and rotate it over the rim of the <em>hāvan</em> in the 
+                same direction in which the sun rotates."</ab> 
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrParagnaLL12.4.2"/>
+    </translation>
+</text>

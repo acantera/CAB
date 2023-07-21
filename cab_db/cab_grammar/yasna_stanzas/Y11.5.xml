@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y11.5" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y11.5">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY11.5"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y11.1.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y11.5b <em>mat̰ hizuuō</em>] vid. Y11.4.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>ahurō mazdā̊ aṣ̌auua haŋᵛharəne mat̰ hizuuō hōiiumca dōiϑrəm</em> = Y11.4.</ab>
+   </Parallels>
+   <Ritual>
+      <Quotations id="ritualQuotations">
+         <ab>PRDd26.4:</ab>
+         <ab class="ab_indent">ud hōm yazd ō kas rāy nifrīn kunēd gōwēd kū-t frazend ma bawād u-t dusrawīh-iz ud abārīg anāgīh xwēš bawād kē man andar yazišn kār 
+            nē +framāyē ud sūr ī pid ohrmazd bē ō man dād ērwārag abāg uzwān ud čašm ī hōy ī hamāg gōspand ud gōspand sardagān nē yazē bē +jōyē 
+            kē ān sūr ī pid ī man ohrmazd bē ō man dād nē yazēd bē jōyēd andar mān ī ōy nē zāyēd nē āsrōn nē artēštār ud nē wāstaryōš ud andar mān ī ōy zāyēnd mardōm ī čihr ī jādūgān 
+            ud +wināhēd +dahišn +ī ohrmazd kirrēnīdār +ī tis tabāh kunēd ud ka kār ud dādestān was frāz kunēd tis-iz bē ō frazām nē āwarēd 
+            u-š mēnōyīhā pad ān band bandēm ī-m tūr ī frāsyāb bast </ab>
+         <ab class="ab_indent">And the yazad Hōm curses that person, he says: (~ Y11.4-7) "May you not have children, and may dishonour and other afflictions be yours, 
+            you who do not use me in worship. Nor do you consecrate the meal which (my) father Ohrmazd gave to me the jaw along with the tongue and left eye of all beneficent animals, 
+            and the varieties of beneficent animals you do not consecrate (for me), but you devour (it)! Whoever does not consecrate that food which my father Ohrmazd gave to me, 
+            but devours it, in his house will be born neither priest nor warrior nor husband man. In his house people of the line of sorcerers will be born, and will destroy the creations of Ohrmazd. 
+            (He is) the miscreator who ruins things, and (even if) he will undertake many duties and obligations, he will bring nothing at all to completion,
+            and I shall bind him in the spiritual slate with those bonds with which I bound Frasyab the Tūr."
+         </ab>
+      </Quotations>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY11.5"/>
+      <include type="W" corresp="WTrY11.5"/>
+      <include type="K" corresp="KTrY11.5"/>
+      <include type="D" corresp="DTrY11.5"/>
+   </translation>
+</text>

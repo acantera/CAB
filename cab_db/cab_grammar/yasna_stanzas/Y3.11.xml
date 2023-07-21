@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y3.11" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sameAs="" xml:id="Y3.11">
+               <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY3.11"/>
+            </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. Y3.6.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <Commentary>
+            <ab>Y3.11d <em>varšni.harštāica</em>] Kellens. Geldner, Redard <em>varšniharštāica</em>.</ab>
+        </Commentary>
+    </Apparatus>
+        <Parallels>
+            <ab>Y3.11 = Y22.12, VrS78.21; ≈ Y1.9, Y2.9, Y4.14, Y6.8, Y7.12, Y17.8, Y24.19, Y59.8, Y66.9, VrS79.14, VrS81.8, VrS82.9.</ab>
+    <ab>Without the mention of <em>sarəδa</em> ("year"), with attributes to each <em>gahanbār</em> ≈ VrS1.10, VrS2.10, VrS17.9, VrS25.12, VrS27.26, VrS77.9.</ab>
+</Parallels>
+    <Ritual/>
+    <translation>
+        <include type="CAB" corresp="CABTrY3.11"/>
+
+    <include type="W" corresp="WTrY3.11"/>
+        <include type="K" corresp="KTrY3.11"/>
+        <include type="D" corresp="DTrY3.11"/>
+    </translation>
+</text>

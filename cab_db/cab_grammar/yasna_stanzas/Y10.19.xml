@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y10.19" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y10.19">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY10.19"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt: vid. Y10.6.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary>
+         <ab>Y10.19a <em>vazaiti</em>] Pirart (Bartholomae) add. post <em>tē</em>.</ab>
+         <ab>Y10.19b <em>āstaōite</em>] contra most cod. (<em>āstaōiti</em>), sec  Geldner, Kellens, Pirart; Bartholomae <em>āstaōiti</em>. <bibl>Kellens, 1984</bibl>, p. 34, n. 35 sec. <bibl>Narten, 1968</bibl>, p. 18.</ab>
+         <ab>Y10.19b <em>haϑra ana</em>] Pirart <em>haϑra.ana</em>.</ab>
+      </Commentary>
+   </Apparatus>
+   <Parallels>
+      <ab><em>fraš́a fraiiaṇtu tē maδō</em> = Y10.14.</ab>
+      <ab><em>haϑra ana gāϑβiia vaca</em> = Y65.14, VytS5.6, Ny4.8</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY10.19"/>
+      <include type="W" corresp="WTrY10.19"/>
+      <include type="K" corresp="KTrY10.19"/>
+      <include type="D" corresp="DTrY10.19"/>
+   </translation>
+</text>

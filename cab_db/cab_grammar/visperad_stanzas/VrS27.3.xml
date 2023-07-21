@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS27.3" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="VrS27.3">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrS13.3"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. VrS27.1.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VrS27.3e <em>imąmcā uruuarąm</em> ...] <em>aṣ̌aiia uzdātąm</em> cygwn PWN yšt'YHWWNyt OD <em>vispaca vohu</em> (VrS27.5) 2000.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels>
+      <ab>VrS27.3 = DoHom4.3.</ab>
+      <ab>VrS27.3 = VrS27.9.</ab>
+      <ab><em>kəhrpasca təuuīšīšca</em> = Y55.1; ~ VS21.6, VS21.10, VS21.14 <em>kəhrpəmca təuuīšīmca</em>.</ab>
+      <ab><em>gąmca huδā̊ŋhəm</em> = Y4.1, Y4.3, Y24.1, Y24.6.</ab>
+      <ab><em>imąmca gąm jīuuiiąm aṣ̌aiia uzdātąm imąmca uruuarąm haδānaēpatąm aṣ̌aiia uzdātąm</em> ~ Y3.3, Y7.4, Y22.2, Y22.22, Y22.25, Y24.6, Y25.1 <em>gąm jīuuiiąm ... uruuarąm haδānaēpatąm aṣ̌aiia uzdātąm</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS27.3"/>
+   </translation>
+</text>

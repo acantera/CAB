@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y10.22" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y10.22">
+      <include href="/db/apps/cab_db/cab_rituals/blocks/prayers/YeH" xpointer="YeH"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y10.20.</ab>
+         </div>
+      </SpeakerInfo>
+      <Commentary/>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab><em>yeŋ́hē hātąm</em> OD LOYŠE gwptn'] 5, 6, 15, 60, 88; <em>ẏeŋ́hē hātą̇m</em> OD tā̊scā. <em>yaz</em> 110, 231, 235.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual>
+      <Nerangs id="ritualNerangs">
+         <ab>Y10.22 (mss. 5, 6, 15, 40, 88, 400, 410 (sec. m.), 2007, 2010, 2030, 2040, 2101, 2104a, 2109, 4000, 4010, 4020, 4025, 4045, 4050, 4055, 4060, 4063, 4161, 4162, 5020, 4030a):</ab>
+         <ab class="ab_indent">
+            <em>yeŋ́hē hātąm</em> tā sar bōy ō ī ātaxš dahišn </ab>
+         <ab class="ab_indent">
+            "(They should recite) <em>yeŋ́hē hātąm</em> until the end. (The <em>rāspīg</em>) has to give <em>bōy</em> to the fire."</ab>
+      </Nerangs>
+   </Ritual>
+   <translation>
+      <include type="CAB" corresp="CABTrY10.22"/>
+      <include type="W" corresp="WTrY10.21b"/>
+      <include type="K" corresp="KTrY10.21b"/>
+      <include type="D" corresp="DTrY10.21b"/>
+   </translation>
+</text>

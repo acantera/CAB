@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="YR1.9" status="created">  <!-- created, approved, updated--> <header>
+        <creators>
+            <creator>Porro</creator>
+            <creator>Cantera</creator>
+        </creators>
+        <created>1 June 2019</created>
+    </header>
+    <div type="Stanza" sourceIs="Y1.17" xml:id="YR1.9">
+            <include href="/db/apps/cab_db/cab_rituals/static/YasnaR_static" xpointer="YR1.9"/>
+        </div>
+    <Speaker>
+        <SpeakerInfo>
+            <div>
+                <ab class="ab_indent">zōt: vid. Y1.4.</ab>
+            </div>
+        </SpeakerInfo>
+    </Speaker>
+    <Apparatus>
+        <Critical/>
+        <RecitationInstruction>
+            <ab><em>aṣ̌aōninąmca aṣ̌ahe raϑβąm</em>] <em>aṣ̌aōninąmca aṣ̌ahe.</em> (in red ink) <em>raϑβąm</em> LA ʾp̄ʾyt' gwptn' 300; <em>aṣ̌aōninąmca aṣ̌ahe.</em>
+                lʾtwk blztk' LA ʾp̄ʾyt' gwptn' (viz. <em>raϑβąm</em> + <em>ńiuuaēδaiiemi haṇkāraiiemi raϑβō bərəzatō</em> ...  cf. Y1.18) 360, 370.</ab> 
+        </RecitationInstruction>
+        <Commentary/>
+    </Apparatus>
+    <Parallels/>
+    <Ritual>
+        <Nerangs id="ritualNerangs">
+            <ab>YR1.9 (mss. 300, 355, 360, 370):</ab>
+            <ab class="ab_indent">
+                <em>vīspanąmca spəṇtahe maińiiə̄uš dāmanąm aṣ̌aōnąm aṣ̌aōninąmca aṣ̌ahe raθβąm</em> nē abāyēd guftan</ab>   
+            <ab class="ab_indent">
+                "<em>vīspanąmca spəṇtahe maińiiə̄uš dāmanąm aṣ̌aōnąm aṣ̌aōninąmca aṣ̌ahe </em> He must not say <em>raθβąm</em>."</ab>
+        </Nerangs>
+    </Ritual>
+    <translation>
+        <include type="CAB" corresp="CABTrYR1.9"/>
+    </translation>
+</text>

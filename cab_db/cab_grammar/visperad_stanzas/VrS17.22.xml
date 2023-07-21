@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="VrS17.22" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sourceIs="Y17.12" xml:id="VrS17.22">
+      <include href="/db/apps/cab_db/cab_rituals/static/Visperad_Static" xpointer="VrSY17.10"/>
+   </div>
+   <Speaker>
+      <SpeakerInfo>
+         <div>
+            <ab class="ab_indent">zōt ud rāspīg: vid. Y17.12.</ab>
+         </div>
+      </SpeakerInfo>
+   </Speaker>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+      <RecitationInstruction>
+         <ab>VrS17.22b <em>ātrəm bərəzi.sauuaŋhəm</em>...] <em>ātrəm bərəzisauuaŋhəm</em> OD OL Y <em>ratauuō vīspe</em> (VrS17.30) 2070;
+            <em>ātrəm bərəzi.sauuaŋhəm y.</em> OD <em>ratauuō vīspe (VrS17.30) 2230.</em>.</ab>
+         <ab>VrS17.22h <em>ātrəm vīspanąm</em>...] <em>mat̰ vīspaēibiiō ātərəbiiō</em> OD OL Y <em>yim ahurəm mazdąm</em> (VrS17.27) 2101.</ab>
+      </RecitationInstruction>
+   </Apparatus>
+   <Parallels/>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrVrS17.22"/>
+   </translation>
+</text>

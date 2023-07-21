@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xml:id="Y57.28" status="created">
+   <!-- created, approved, updated-->
+   <header>
+      <creators>
+         <creator>Porro</creator>
+         <creator>Cantera</creator>
+      </creators>
+      <created>1 June 2019</created>
+   </header>
+   <div type="Stanza" sameAs="" xml:id="Y57.28">
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY57.19"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY57.20a"/>
+      <include href="/db/apps/cab_db/cab_rituals/static/Yasna_static" xpointer="GY57.20b"/>
+   </div>
+   <Apparatus>
+      <Critical/>
+      <Commentary/>
+   </Apparatus>
+   <Parallels>
+      <ab><em>haraiϑiiā̊ paiti barəzaiiā̊</em> = Y10.10; ~  Yt10.50, Yt10.88, Yt10.90 <em>haraiϑiiō paiti barəzaiiā̊</em>; ~ Yt10.51 <em>haraiϑiiāt̰ paiti barəzaŋhat̰</em>; ~ Yt12.25 <em>haraiϑiiā̊ barəzō</em> ~ Yt19.1 <em>haraiti barš</em></ab>
+      <ab><em>vīspō.paēsīm mastīm</em> ~ Y9.17 <em>mastīm vīspō.paēšaŋhəm</em>.</ab>
+   </Parallels>
+   <Ritual/>
+   <translation>
+      <include type="CAB" corresp="CABTrY57.28"/>
+   <include type="W" corresp="WTrY57.19"/><include type="K" corresp="KTrY57.19"/><include type="D" corresp="DTrY57.19"/></translation>
+</text>
